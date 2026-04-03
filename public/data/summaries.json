@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-03T12:54:42.086Z",
+  "generatedAt": "2026-04-03T13:30:15.019Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US-Iran War Escalates as Trump Threatens Deeper Strikes",
-        "body": "Iran struck Gulf oil refineries this week, and Trump responded by warning the US military would hit Iranian bridges and power plants. He told reporters the military \"hasn't even started\" destroying what remains in Iran. Investors appear unconvinced the conflict will resolve quickly, with markets showing little movement after Trump's prime-time address.\n\nThe US has deployed B-52 bombers to the region, and troops are being evacuated from a key Mideast base in Bahrain, sending military families and community groups scrambling. Iran's grip on the Strait of Hormuz gives it real leverage over global oil flows, complicating Trump's position. Families of slain US service members, Trump says, urged him to finish the fight.",
+        "headline": "Trump Escalates Iran War as Budget Prioritises Defence",
+        "body": "The US military has struck Iranian targets, with Trump warning attacks on bridges and power plants are coming. Iran retaliated by hitting Gulf refineries, tightening its grip on the Strait of Hormuz - a chokepoint that gives Tehran real leverage over global oil flows. Markets were unimpressed by Trump's prime-time push for the war. The White House simultaneously released a budget proposal seeking up to $1.5 trillion for defence, offset by deep cuts to domestic programmes. Supporters argue the spending reflects genuine strategic need; critics say the trade-off punishes ordinary Americans. B-52 deployments signal the conflict is expanding in scope.",
         "sources": [
+          {
+            "title": "Trump calls for a major increase in defense spending alongside cuts in domestic spending",
+            "url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Live updates: White House budget expected, with up to $1.5T for defense",
+            "url": "https://thehill.com/homenews/administration/5813088-live-updates-trump-iran-doj-2027-budget/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump: US military ‘hasn’t even started destroying what’s left in Iran’",
             "url": "https://thehill.com/policy/defense/5814545-trump-us-military-iran-attacks/",
@@ -26,28 +38,22 @@
             "lean": "center"
           },
           {
+            "title": "Trump pushed the Iran war in prime time. Investors weren’t swayed.",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
             "title": "What B-52 bombers bring to Iran fight — and what it means for the war now",
             "url": "https://www.foxnews.com/politics/what-b-52-bombers-bring-iran-fight-what-means-war-now",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "WATCH: President Trump reveals families of slain US service members urged him ‘finish the job’",
-            "url": "https://www.foxnews.com/politics/watch-president-trump-reveals-families-slain-us-service-members-urged-him-finish-job",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Evacuation of U.S. troops from Mideast base sends community groups scrambling to help",
-            "url": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Bondi Fired: DOJ Shake-Up Raises Epstein and Voter Data Questions",
-        "body": "Trump fired Attorney General Pam Bondi, with analysts pointing to her failure to deliver high-profile prosecutions Trump wanted. Trump's lawyer Todd Blanche says he never heard Trump link her exit to the Epstein files, but the timing has drawn scrutiny. Democrats, including Rep. Ro Khanna, are pressing for answers on whether the Epstein inquiry will continue under new leadership.\n\nSeparately, the DOJ is preparing to share state voter data with the Department of Homeland Security. A key DOJ privacy officer resigned ahead of that transfer, raising alarms among civil liberties advocates. Five major questions now hang over the department: who leads it next, what happens to ongoing investigations, and whether political priorities will reshape federal law enforcement.",
+        "headline": "Bondi Out at DOJ, Epstein Inquiry Future Uncertain",
+        "body": "Attorney General Pam Bondi has been removed, with analysts pointing to her failure to deliver high-profile prosecutions Trump wanted. Trump's aide Todd Blanche denied the Epstein files played any role in her departure. Democrats are sceptical. Representative Ro Khanna warned the shake-up could bury the Epstein inquiry just as it gained momentum, and NPR reports that despite file releases, arrests remain scarce. Five major questions now hang over the DOJ: who leads it, what happens to ongoing cases, and whether the Epstein investigation survives the transition. The White House has not named a permanent replacement.",
         "sources": [
           {
             "title": "Blanche: I never heard Trump say Bondi exit ‘had anything to do with the Epstein files’",
@@ -84,18 +90,12 @@
             "url": "https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "As DOJ prepares to share state voter data with DHS, a key privacy officer resigns",
-            "url": "https://www.npr.org/2026/04/03/nx-s1-5768455/privacy-doj-dhs-voter-data",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Jobs Beat Forecasts, but Political Headwinds Mount for Trump",
-        "body": "The US added 178,000 jobs in March, beating expectations and giving the White House a rare positive headline in a turbulent week. Rising gas prices tied to the Iran conflict and broader economic uncertainty have otherwise dented Trump's standing, with analysts noting the war's costs are starting to register with voters.\n\nElsewhere, VP Vance is set to meet Hungarian Prime Minister Viktor Orbán days before Hungary's parliamentary elections, a visit that will draw fresh scrutiny over the administration's ties to nationalist European leaders. In Maine, Democratic political outsider Graham Platner is gaining ground in a Senate race, reflecting broader Democratic energy heading into the midterms.",
+        "headline": "Jobs Beat Forecasts, but Political Headwinds Persist",
+        "body": "The US added 178,000 jobs in March, well above expectations - a number both parties will fight over heading into midterms. Republicans will claim economic momentum; Democrats point to inflation and war costs eating into household budgets. A new poll shows mixed signals for Democrats hoping to retake Congress, with redistricting battles in Virginia adding further uncertainty. Meanwhile, Palantir-linked donations are putting some Democrats in an awkward spot on immigration technology, and a lawsuit alleging racial discrimination in Congressional Black Caucus scholarships adds another fault line inside the party.",
         "sources": [
           {
             "title": "US adds 178K jobs in March, far more than expected",
@@ -104,66 +104,54 @@
             "lean": "center"
           },
           {
-            "title": "Trump pushed the Iran war in prime time. Investors weren’t swayed.",
-            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/",
+            "title": "Palantir-linked campaign donations put Democrats in tight spot",
+            "url": "https://thehill.com/policy/technology/5813636-palantir-controversy-immigration-democrats/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Poll shows mixed signs for Democratic push to gain seats in Congress",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/virginia-redistricting-poll-trump-spanberger/",
             "source": "Washington Post",
             "lean": "center-left"
+          },
+          {
+            "title": "Black Caucus scholarships discriminate based on race, lawsuit alleges",
+            "url": "https://www.washingtonpost.com/politics/2026/04/02/congressional-black-caucus-scholarship-lawsuit/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Gabbard Rumours, Vance in Hungary, and GOP 2028 Jostling",
+        "body": "The White House dismissed reports that Director of National Intelligence Tulsi Gabbard is about to be removed, calling them fake news. The denial did little to quiet speculation. Vice President Vance travels to Hungary to meet Viktor Orbán days before parliamentary elections there, a visit that will draw scrutiny given Orbán's alignment with Moscow amid the Iran conflict. Analysts are already mapping a potential 2028 primary clash between Vance and Secretary of State Rubio, with the chaos of the Trump era shaping both men's positioning. The Republican field is forming earlier than usual.",
+        "sources": [
+          {
+            "title": "White House calls reports of Gabbard’s impending ouster ‘fake news’",
+            "url": "https://thehill.com/homenews/administration/5814613-tulsi-gabbard-white-house-confidence/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "The Vance versus Rubio 2028 nomination fight through the lens of chaos",
+            "url": "https://thehill.com/opinion/campaign/5813119-trump-era-gop-chaos-2028/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "VP Vance to meet with Viktor Orbán in Hungary days ahead of foreign nation's elections",
             "url": "https://www.foxnews.com/politics/vance-hungary-orban-parliamentary-election",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Graham Platner’s political outsider vibe gains steam in Maine among Democrats",
-            "url": "https://thehill.com/homenews/campaign/5813774-maine-senate-race-graham-platner/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Takeaways from Trump's tough week, as war and gas prices take a toll",
-            "url": "https://www.npr.org/2026/04/03/nx-s1-5771684/trump-iran-war-gas-prices-bondi",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Civil Rights, Campus Probes, and Union Laws Stir Domestic Fights",
-        "body": "A lawsuit alleges the Congressional Black Caucus Foundation's scholarship program discriminates by race, a case that could test the boundaries of race-conscious giving after recent Supreme Court rulings. Separately, the Trump administration demanded a list of Jewish faculty at the University of Pennsylvania as part of an antisemitism probe, drawing sharp criticism from advocacy groups who called it \"incredibly chilling.\"\n\nA watchdog group is calling for a federal investigation into a military Apache helicopter flyby over Kid Rock's home, which critics say was an improper use of military assets. On labor policy, a Hill opinion piece contrasts Florida's tightened public-sector union rules with Oregon's move to expand them, illustrating the widening gap between red and blue state governance.",
-        "sources": [
-          {
-            "title": "Black Caucus scholarships discriminate based on race, lawsuit alleges",
-            "url": "https://www.washingtonpost.com/politics/2026/04/02/congressional-black-caucus-scholarship-lawsuit/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "‘Incredibly chilling’: Advocacy groups raise alarm over Trump’s demand for list of Jewish faculty at Penn",
-            "url": "https://thehill.com/homenews/education/5813286-penn-antisemitism-probe-trump-jewish-faculty/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Watchdog group calls for federal investigation into Apache flyby at Kid Rock’s house",
-            "url": "https://thehill.com/homenews/state-watch/5813326-helicopter-flyby-kid-rock/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Florida made public-sector unions more accountable — Oregon did the opposite",
-            "url": "https://thehill.com/opinion/campaign/5812931-florida-made-public-sector-unions-more-accountable-oregon-did-the-opposite/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Australia's Fuel Crisis Deepens as Industry Sounds Alarm",
-        "body": "Industry groups warn Australia's fuel reserves would last less than a month if supply chains were disrupted, putting pressure on the Albanese government to act. Energy Minister Chris Bowen has faced criticism that proposed solutions - including domestic refining incentives and strategic reserve expansion - fall short of what is needed.\n\nThe warning lands against a broader backdrop: the Iran conflict has tightened global oil markets, with workers across Asia already feeling the squeeze at the pump. Critics from the right argue net-zero policy commitments have left Western nations dangerously exposed to fossil fuel volatility, while others say the crisis underscores the urgency of transitioning away from oil dependency altogether.",
+        "headline": "Fuel Crisis Bites as Industry Warns Stocks Won't Last",
+        "body": "Australia's fuel security is under serious pressure, with industry warning that current stocks could run out within a month. The crisis is tied to broader disruption across Asia, where the Iran war has squeezed supply chains and left ordinary workers scrambling for fuel. The Albanese government has faced sharp questions over its preparedness.\n\nEnergy Minister Chris Bowen has moved to update the public, but industry groups say the response falls short. The situation puts a spotlight on Australia's long-standing vulnerability - the country imports the vast majority of its refined fuel and holds among the lowest strategic reserves of any developed nation. With no quick fix in sight, the pressure on Canberra is mounting fast.",
         "sources": [
           {
             "title": "Fuel heading to Australia won't last a month, industry says",
@@ -176,24 +164,12 @@
             "url": "https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "‘Not a fix’: the three questionable ideas politicians are pitching to solve Australia’s fuel crisis",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-fuel-crisis-three-questionable-ideas-politicians",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Net Zero nations trapped in mad race for oil",
-            "url": "https://www.spectator.com.au/2026/04/net-zero-nations-trapped-in-mad-race-for-oil/",
-            "source": "Spectator AU",
-            "lean": "right"
           }
         ]
       },
       {
         "headline": "Trump Fires Senior Officials in Sweeping Administration Purge",
-        "body": "Donald Trump has dismissed a string of senior officials, including Attorney-General Pam Bondi, in what analysts describe as a broad consolidation of loyalty-based governance. The removals have drawn sharp criticism from former US officials, with one ex-envoy calling Trump's recent Iran speech \"delusional\" and warning it undermines diplomatic credibility.\n\nAustralia is watching closely. The government confirmed it will not raise domestic drug prices in response to Trump's 100% tariff on pharmaceuticals imported into the US, a move that could strain trade relations. The tariff announcement adds to existing uncertainty around the bilateral relationship.",
+        "body": "Donald Trump has moved aggressively to reshape his administration, dismissing a string of senior officials including Attorney-General Pam Bondi. The firings extend a pattern of loyalty-testing that has accelerated in recent months, with some of Trump's most prominent female defenders now among those removed.\n\nAnalysts are divided on what the purge signals. Supporters argue Trump is tightening control to deliver on his agenda. Critics say the instability undermines governance and reflects an administration increasingly intolerant of internal dissent. Separately, Trump's 100% tariff on pharmaceuticals imported into the US has drawn a firm response from Canberra, with Australia ruling out passing any cost increases on to consumers or the PBS.",
         "sources": [
           {
             "title": "Donald Trump is going on a firing spree",
@@ -208,12 +184,6 @@
             "lean": "center-left"
           },
           {
-            "title": "'Every word is delusional': Trump's speech lashed by former US envoy to Iran",
-            "url": "https://www.abc.net.au/news/2026-04-03/us-negotiator-in-iran-nuclear-deal-says-trump-delusional/106527524",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
             "title": "Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US",
             "url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
             "source": "Guardian AU",
@@ -222,33 +192,21 @@
         ]
       },
       {
-        "headline": "NSW Teens Charged Over Terror Material in Easter Weekend Arrests",
-        "body": "Two NSW teenagers have been charged over violent extremist material allegedly linked to terrorism, in arrests that come as Australian security agencies maintain heightened vigilance heading into the Easter long weekend. Details of the alleged material and any specific targets have not been publicly released.\n\nSeparately, a Queensland man was sentenced to 15 years in prison for live-streaming child sexual abuse, a case prosecutors described as among the most serious of its kind. Both cases highlight ongoing pressure on law enforcement to respond to crimes facilitated or amplified by online platforms.",
+        "headline": "Westpac Boss Flags Recession Risk as Economic Pressure Grows",
+        "body": "Westpac chief executive Andrew Miller has warned there is a genuine chance of recession in Australia, citing global uncertainty and the slow pace of interest rate relief. The comments carry weight - Westpac is one of the country's four major banks, and public warnings of this kind from bank chiefs are rare.\n\nThe remarks land as households remain under sustained cost-of-living pressure and the Reserve Bank moves cautiously on rates. Global factors, including Trump's tariff push and the fuel supply crunch, are adding to the headwinds. The timing, ahead of the federal election, makes the economic outlook a live political battleground for both major parties.",
         "sources": [
           {
-            "title": "Two NSW teenagers charged over violent extremist material allegedly linked to terror",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-violent-extremist-material-allegedly-linked-to-terror-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Queensland man jailed for 15 years after live-streaming child abuse",
-            "url": "https://www.abc.net.au/news/2026-04-03/north-lakes-man-jailed-15-years-for-child-abuse-offences/106530556",
+            "title": "'There's a chance of a recession,' warns Westpac boss",
+            "url": "https://www.abc.net.au/news/2026-04-03/westpac-chief-executive-andrew-miller-recession-interest-rates/106525336",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Easter Road Toll Mounts as Crashes Kill Multiple Australians",
-        "body": "At least four people have died in separate crashes across Australia over the Easter long weekend. A 14-year-old dirt bike rider was among three killed in Western Australia, while motorcyclists died in crashes on the Monaro Highway in NSW and at a traffic light intersection in Adelaide.\n\nAuthorities have renewed calls for caution on roads during the holiday period. The deaths come as Australians otherwise marked Good Friday with church services, seafood and the opening of the new Sydney Fish Market, which drew large crowds on its first major holiday since opening.",
+        "headline": "Easter Road Toll Rises as Fatal Crashes Hit WA and NSW",
+        "body": "At least four people have died in separate crashes across Western Australia and New South Wales over the Easter long weekend. A 14-year-old dirt bike rider was among three killed in WA, while a motorcyclist died in a crash on the Monaro Highway in southern NSW, forcing the road's closure.\n\nPolice in both states have urged drivers to slow down and rest regularly. The deaths come despite longstanding public safety campaigns targeting the Easter period, which consistently records some of the year's highest road fatality numbers. Authorities say fatigue and speed remain the dominant factors.",
         "sources": [
-          {
-            "title": "Dirt bike rider, 14, among three dead in separate WA Easter long weekend crashes",
-            "url": "https://www.abc.net.au/news/2026-04-03/wa-easter-long-weekend-three-fatal-crashes/106530100",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
           {
             "title": "Highway closed after motorcyclist dies in crash in southern NSW",
             "url": "https://www.abc.net.au/news/2026-04-03/motorcyclist-dead-crash-monaro-highway-long-weekend/106530346",
@@ -256,31 +214,25 @@
             "lean": "center-left"
           },
           {
-            "title": "Motorcyclist killed in traffic light crash in Adelaide, another rushed to hospital",
-            "url": "https://www.abc.net.au/news/2026-04-03/motorcyclist-killed-in-traffic-light-crash-at-ovingham/106529814",
+            "title": "Dirt bike rider, 14, among three dead in separate WA Easter long weekend crashes",
+            "url": "https://www.abc.net.au/news/2026-04-03/wa-easter-long-weekend-three-fatal-crashes/106530100",
             "source": "ABC Australia",
             "lean": "center-left"
-          },
-          {
-            "title": "Australians mark Good Friday with seafood, church services and a boat race",
-            "url": "https://www.abc.net.au/news/2026-04-03/australians-mark-good-friday-with-seafood-church-and-boat-race/106529620",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Packed to the gills: shoppers embrace new Sydney Fish Market during Good Friday rush",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/apr/03/packed-to-the-gills-shoppers-embrace-new-sydney-fish-market-during-good-friday-rush",
-            "source": "Guardian AU",
-            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israeli War on Iran Enters Day 35 Amid War Crimes Allegations",
-        "body": "US and Israeli forces struck civilian infrastructure in Iran on day 35 of the conflict, hitting a bridge in Karaj and drawing condemnation from Tehran over what it called a 'moral collapse.' Over 100 American legal experts have formally alleged the strikes constitute war crimes under international law, adding pressure on the Trump administration to define its endgame.\n\nIranians on the ground express deepening fear about escalation, while analysts question whether Washington has a coherent timeline for ending the war. Kuwait also reported missile and drone strikes on a desalination plant and oil refinery, signalling the conflict is spreading beyond Iran's borders and destabilising the wider region.",
+        "headline": "US-Israel War on Iran Draws War Crimes Allegations",
+        "body": "Over 100 American legal experts have condemned US strikes on Iran as possible war crimes, citing attacks on civilian infrastructure including a bridge in Karaj. International law scholars are raising alarms as the conflict stretches on with no clear end in sight, while Iran accuses Washington and Tel Aviv of a deliberate campaign targeting hospitals, medicine supplies, and vaccines.\n\nIranians on the ground describe mounting fear after each new strike. Kuwait reported missile and drone hits on a desalination plant and oil refinery, signalling the conflict is spilling beyond Iran's borders. Iran condemned what it called a US-Israeli moral collapse, as debate intensifies over whether the Trump administration has a coherent exit strategy.",
         "sources": [
+          {
+            "title": "How the US and Israel are waging war on Iran’s medicines, vaccines",
+            "url": "https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "War crimes are no longer shameful. That should terrify you",
             "url": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss",
@@ -322,21 +274,21 @@
             "url": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
-            "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Trump Fires Bondi, Hegseth Purges Army Leadership",
-        "body": "President Trump removed Attorney General Pam Bondi and replaced her with Todd Blanche, his former personal defence lawyer. The dismissal follows a pattern of loyalty-driven reshuffles across the administration.\n\nSeparately, Defence Secretary Pete Hegseth fired the US Army Chief of Staff as part of a reported string of military dismissals. General Christopher LaNeve is set to take command of the Army. The back-to-back purges of both civilian and military leadership in a single news cycle raise fresh questions about institutional stability at the top of the US government.",
+        "headline": "Trump Purges Army Chief and Attorney General in One Day",
+        "body": "Defense Secretary Pete Hegseth forced out the US Army's top general, with General Randy George replaced by Christopher LaNeve in what appears to be a broader sweep of senior military leadership. The dismissal follows a pattern of Hegseth removing commanders seen as insufficiently loyal to the administration's agenda.\n\nSeparately, Trump fired Attorney General Pam Bondi and moved to install Todd Blanche, his former personal defense lawyer, as her replacement. The back-to-back removals of a senior general and the nation's top law enforcement officer in a single day mark an aggressive consolidation of executive control.",
         "sources": [
           {
-            "title": "Who is Christopher LaNeve, set to lead the US army?",
+            "title": "Pete Hegseth asks US Army's top general to step down",
+            "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Who is Christopher LaNeve, set to lead the US Army?",
             "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
@@ -362,32 +314,8 @@
         ]
       },
       {
-        "headline": "Burkina Faso Rejects Democracy; Myanmar Coup Leader Becomes President",
-        "body": "Burkina Faso's military ruler Ibrahim Traore told citizens to 'forget democracy,' cementing the junta's grip after seizing power in 2022. The statement marks one of the bluntest rejections of democratic governance by any sitting leader in recent memory.\n\nIn Myanmar, coup leader Min Aung Hlaing formally assumed the presidency, consolidating power more than four years after the military overthrew the elected government. Both moves reflect a broader authoritarian consolidation across two continents, as international pressure on each regime has largely failed to produce political change.",
-        "sources": [
-          {
-            "title": "Burkina Faso military leader Traore says ‘forget democracy’",
-            "url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Burkina Faso must 'forget' about democracy, military leader says",
-            "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
-            "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Artemis II Breaks Earth Orbit, Heads for Far Side of Moon",
-        "body": "NASA's Artemis II crew fired the spacecraft's engines and successfully left Earth's orbit, putting four astronauts on course for the far side of the Moon. It is the first crewed lunar mission since Apollo 17 in 1972.\n\nThe astronauts spoke from space as the mission hit its early milestones on schedule. A successful Artemis II would set the stage for a crewed lunar landing under Artemis III, marking a generational leap in human spaceflight.",
+        "headline": "Artemis II Breaks Earth Orbit Heading for the Moon",
+        "body": "NASA's Artemis II mission fired its engines and left Earth's orbit on schedule, putting four astronauts on course for the far side of the Moon. It is the first crewed lunar mission since Apollo 17 in 1972. The spacecraft is expected to loop around the Moon before returning to Earth, serving as a critical test ahead of a planned lunar landing.",
         "sources": [
           {
             "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
@@ -400,10 +328,22 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Burkina Faso Junta Tells Citizens to Abandon Democracy",
+        "body": "Burkina Faso's military leader Ibrahim Traore told his country to forget democracy, doubling down on the junta's rejection of civilian governance since seizing power in 2022. Traore framed democratic systems as foreign impositions incompatible with Burkina Faso's current security crisis, where jihadist violence has displaced millions.\n\nThe statement marks one of the most explicit rejections of democratic norms by any sitting head of state in recent memory, and deepens concern over West Africa's democratic backsliding as multiple military governments in the Sahel consolidate power.",
+        "sources": [
+          {
+            "title": "Burkina Faso military leader Traore says ‘forget democracy’",
+            "url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           },
           {
-            "title": "Watch: Artemis II astronauts speak from space",
-            "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Burkina Faso must 'forget' about democracy, military leader says",
+            "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -412,15 +352,9 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Buys Media Outlet, Cuts ChatGPT Business Price",
-        "body": "OpenAI acquired TBPN, a founder-focused tech talk show with a loyal startup audience, in a move that effectively purchases a sympathetic media platform. Wired called it buying positive news coverage. The deal raises obvious questions about editorial independence that OpenAI has not answered.\n\nSeparately, OpenAI quietly lowered the price of ChatGPT Business, signaling pressure in the enterprise market as competitors crowd in. Together, the two moves suggest a company working hard on both perception and pricing to hold its dominant position.",
+        "headline": "OpenAI Buys a Talk Show to Control Its Own Narrative",
+        "body": "OpenAI has acquired TBPN, a founder-focused business talk show with a loyal tech-industry audience. The deal is nakedly strategic: rather than earning favorable coverage, OpenAI is simply buying the outlet that produces it. Critics are already framing this as a media capture play dressed up as a content investment.\n\nThe acquisition raises real questions about editorial independence and what it means when an AI company owns the microphone. TBPN's hosts built credibility by being plugged into startup culture. That credibility now belongs to OpenAI. Expect the show to continue looking independent while functioning as something closer to in-house PR.",
         "sources": [
-          {
-            "title": "Lower Price for ChatGPT Business",
-            "url": "https://help.openai.com/en/articles/8792828-what-is-chatgpt-business",
-            "source": "Hacker News",
-            "lean": null
-          },
           {
             "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
             "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
@@ -432,12 +366,18 @@
             "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
             "source": "TechCrunch",
             "lean": null
+          },
+          {
+            "title": "OpenAI just bought TBPN",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+            "source": "The Verge",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Chatbots Now Prescribing Psychiatric Drugs",
-        "body": "Chatbots are being used to prescribe and refill psychiatric medications, The Verge reports, marking a sharp escalation in AI's role in clinical care. These are not simple triage tools - they are making consequential decisions about drugs that carry serious risks and require careful monitoring.\n\nMeanwhile, Granola's AI note-taking app was found to share notes publicly by default with anyone holding a link, and Perplexity faces a lawsuit alleging its incognito mode collects data it promised not to. The pattern is consistent: AI products moving fast, with privacy and safety guardrails trailing behind.",
+        "headline": "AI Chatbots Are Now Prescribing Psychiatric Medication",
+        "body": "AI chatbots are moving into clinical territory, with some platforms now prescribing and refilling psychiatric drugs for patients. This is not a hypothetical risk. It is happening. The implications for patient safety are serious, particularly for medications that require careful monitoring and dosage adjustment.\n\nSeparately, a lawsuit against Perplexity alleges its \"incognito mode\" offers no real privacy protection, exposing a pattern of AI companies overstating user safeguards. And a privacy warning around Granola, an AI note-taking app, revealed that meeting notes are publicly accessible by default to anyone with a link. Across these stories, the throughline is the same: AI products are moving fast and burying the risks in the fine print.",
         "sources": [
           {
             "title": "Chatbots are now prescribing psychiatric drugs",
@@ -460,26 +400,8 @@
         ]
       },
       {
-        "headline": "EU Folds on Digital Rules Under US Pressure",
-        "body": "The European Union is drawing fierce criticism after backing down on digital regulations following pressure from the United States. Critics are calling it a fatal decision that undermines years of work to rein in dominant US tech platforms. The retreat hands American companies significant leverage they had been lobbying hard to secure.\n\nThe backlash is fueling demand for European tech alternatives. A new directory listing EU-based replacements for Google, Apple, Dropbox and over 120 other American apps has surfaced on Hacker News, reflecting a growing appetite for digital sovereignty that the EU's own institutions appear unwilling to protect.",
-        "sources": [
-          {
-            "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
-            "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
-            "url": "https://only-eu.eu/en/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Rowhammer Attack Hands Attackers Full GPU Machine Control",
-        "body": "Researchers have demonstrated new Rowhammer attacks that exploit Nvidia GPUs to gain complete control of a target machine. The technique manipulates memory at the hardware level, bypassing software defenses. Nvidia GPUs are now ubiquitous in AI infrastructure, which makes the attack surface unusually broad and the stakes unusually high.\n\nGoogle is compounding infrastructure concerns from a different angle, funding a new data center that will draw power from a large gas plant. As AI compute demand surges, the energy trade-offs are becoming harder to ignore.",
+        "headline": "New Rowhammer Attack Hands Hackers Full GPU Control",
+        "body": "Researchers have demonstrated a new class of Rowhammer attacks that can give attackers complete control of machines running Nvidia GPUs. Rowhammer exploits work by repeatedly accessing memory rows to flip bits in adjacent rows, bypassing software-level defenses entirely. GPU-accelerated infrastructure - the backbone of modern AI workloads - is now squarely in the crosshairs.\n\nThe timing is uncomfortable. As data centers race to pack in more GPU capacity, this attack surface grows with them. Google's announcement of a new data center powered by a large gas plant underlines just how much physical and digital infrastructure is being built out right now, and how much is at stake if the security foundations are shaky.",
         "sources": [
           {
             "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -494,16 +416,34 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "EU Folds on Digital Rules as US Pressure Mounts",
+        "body": "Critics are accusing the European Union of surrendering its digital regulatory agenda under pressure from the United States. The concern is that landmark frameworks like the Digital Markets Act, designed to rein in Big Tech, are being quietly softened to avoid trade friction with Washington. For regulators who spent years building these rules, it looks like a capitulation.\n\nMeanwhile, NHS staff in the UK are refusing to use the Federated Data Platform over ethical objections to Palantir, its primary contractor. Both stories point to the same tension: governments are struggling to hold the line on tech governance when commercial and political pressures push the other way.",
+        "sources": [
+          {
+            "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+            "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+            "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Drifts Into Holiday Weekend With Bears in Control",
-        "body": "Bitcoin enters the Good Friday long weekend in a fragile position. ETF inflows and CME futures trading go dark for the holiday, stripping away two of the market's key demand signals at a moment when on-chain data shows the share of supply held in profit has fallen to levels analysts associate with true bear markets. Futures markets are already tilting bearish, and volatility has cooled rather than resolved.\n\nCathie Wood is pushing back on the gloom, arguing Bitcoin is done with the 85% drawdowns that defined earlier cycles and setting a $34,000 floor target. But with a strong March jobs report adding macro uncertainty and institutional flow channels offline until Tuesday, the path of least resistance looks downward through the weekend.",
+        "headline": "Bitcoin Drifts Into Holiday Weekend With Bears Circling",
+        "body": "Bitcoin traded flat heading into the Good Friday long weekend, with ETF inflows and CME futures activity set to go dark for days. Futures markets tilted bearish, volatility cooled, and on-chain data showed Bitcoin supply in profit approaching levels analysts associate with true bear markets. Institutional flows that have propped up price action simply won't be there.\n\nCathie Wood offered a contrarian read, arguing Bitcoin is done with its historic 85% drawdown cycles and setting a $34,000 floor target. That optimism sits awkwardly against the data. Riot Platforms sold 3,778 BTC in Q1, signaling that even major miners are trimming exposure under pressure.",
         "sources": [
           {
-            "title": "U.S. March jobs smash expectations, with 178,000 added",
-            "url": "https://www.coindesk.com/markets/2026/04/03/u-s-march-jobs-smash-expectations-with-178-000-added",
+            "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise",
             "source": "CoinDesk",
             "lean": null
           },
@@ -536,12 +476,18 @@
             "url": "https://cointelegraph.com/news/bitcoin-done-85percent-crashes-cathie-wood-34k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
+          },
+          {
+            "title": "Bitcoin miner Riot sold 3,778 BTC during Q1 amid broader market pressure",
+            "url": "https://cointelegraph.com/news/riot-sells-3778-bitcoin-miners-shift-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Ethereum Foundation Hits Staking Target; Stablecoins Flip ACH Volume",
-        "body": "The Ethereum Foundation completed its staking push, deploying a final tranche to reach its 70,000 ETH target worth roughly $93 million. The move signals a more active treasury posture from an organization historically cautious about staking its own holdings.\n\nSeparately, stablecoins surpassed ACH payment network volume in February, a milestone that puts crypto rails ahead of a system that processes trillions in U.S. payroll and bill payments annually. Circle is pressing further into the space, announcing cirBTC, a wrapped Bitcoin token aimed at institutional markets and positioned to compete directly with BitGo's WBTC and Coinbase's cbBTC. The IMF, meanwhile, acknowledged tokenization improves financial efficiency but warned it introduces new systemic risks.",
+        "headline": "Ethereum Foundation Hits Staking Target as Quantum Threat Looms",
+        "body": "The Ethereum Foundation completed a $93 million ETH staking push, reaching its self-imposed 70,000 ETH target. The move signals a shift toward the Foundation actively participating in network security rather than sitting on idle holdings.\n\nThe timing is notable. Naoris Protocol launched a quantum-resistant blockchain this week, directly citing vulnerabilities in Bitcoin and Ethereum to so-called Q-Day attacks, where sufficiently advanced quantum computers could break current cryptographic standards. Neither network has a deployed fix. The launch puts pressure on both ecosystems to accelerate post-quantum roadmaps before the threat moves from theoretical to practical.",
         "sources": [
           {
             "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target",
@@ -549,6 +495,42 @@
             "source": "CoinDesk",
             "lean": null
           },
+          {
+            "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
+            "url": "https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "DeFi Loses $169M to Hacks as Drift Chases $280M Exploiter",
+        "body": "DeFi protocols shed $169 million across 34 exploits in Q1 2026, according to DefiLlama, though the figure marks a decline from prior quarters. The drop reflects better auditing practices and improved protocol design, but the losses remain substantial.\n\nDrift Protocol took an unusual step this week, sending an on-chain message directly to wallets linked to a $280 million exploit in an attempt to open negotiations. A Bank of Canada study added context to DeFi's structural risks, finding that Aave V3 avoided bad debt during volatile periods by effectively transferring liquidation losses onto borrowers rather than the protocol itself. Efficiency and risk were not eliminated - they were redistributed.",
+        "sources": [
+          {
+            "title": "Aave avoided bad debt by shifting risk to borrowers: Bank of Canada study",
+            "url": "https://cointelegraph.com/news/aave-v3-bad-debt-liquidations-borrower-losses-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Drift sends onchain message to wallets tied to $280M exploit",
+            "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Crypto hackers steal $169M from 34 DeFi protocols in Q1: DefiLlama",
+            "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Stablecoins Overtake ACH Volume as Institutional Interest Builds",
+        "body": "Stablecoins surpassed U.S. automated clearing house transaction volume in February, a milestone that puts the technology's real-world payment scale into sharp relief. Circle moved to press that advantage, announcing cirBTC, a wrapped Bitcoin token targeting institutional markets and taking direct aim at BitGo and Coinbase's competing products.\n\nThe IMF weighed in with a cautious take, acknowledging that tokenization improves financial efficiency but warning it introduces new systemic risks. Meanwhile, South Korean brokerage Korea Investment and Securities is reportedly eyeing a stake in crypto exchange Coinone, adding to a pattern of traditional financial firms seeking direct crypto market exposure.",
+        "sources": [
           {
             "title": "Stablecoins flip automated clearing house volume in February",
             "url": "https://cointelegraph.com/news/stablecoins-flip-ach-monthly-volume-in-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -566,52 +548,10 @@
             "url": "https://cointelegraph.com/news/imf-tokenization-improves-finance-but-introduces-other-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "DeFi Lost $169M to Hacks in Q1; Drift Contacts Its Exploiter On-Chain",
-        "body": "DeFi protocols shed $169 million across 34 exploits in the first quarter of 2026, according to DefiLlama data, though the figure marks a decline from prior periods. Drift Protocol took an unusual step after its $280 million exploit, sending a public on-chain message directly to wallets linked to the attacker in an attempt to open negotiations.\n\nA Bank of Canada study on Aave added nuance to how DeFi handles stress, finding that Aave V3 avoided bad debt during volatile periods by effectively pushing losses onto borrowers through aggressive liquidation mechanics rather than absorbing them at the protocol level. The findings raise questions about who actually bears risk in decentralized lending systems marketed as transparent and neutral.",
-        "sources": [
-          {
-            "title": "Crypto hackers steal $169M from 34 DeFi protocols in Q1: DefiLlama",
-            "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Drift sends onchain message to wallets tied to $280M exploit",
-            "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Aave avoided bad debt by shifting risk to borrowers: Bank of Canada study",
-            "url": "https://cointelegraph.com/news/aave-v3-bad-debt-liquidations-borrower-losses-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Quantum-Resistant Chain Goes Live as Q-Day Threat Grows",
-        "body": "Naoris Protocol launched its quantum-resistant blockchain on Thursday, timing the release to growing concern that advances in quantum computing could eventually break the cryptographic foundations of Bitcoin and Ethereum. The threat, sometimes called Q-Day, remains years away by most estimates, but the race to build resistant infrastructure is accelerating.\n\nElsewhere in infrastructure, South Korean brokerage Korea Investment and Securities is reportedly eyeing a stake in crypto exchange Coinone, a sign that traditional financial firms in Asia continue to push into regulated crypto venues. Big Tech firms also backed the new x402 Foundation, a protocol designed to advance payment rails for autonomous AI agents operating on-chain.",
-        "sources": [
-          {
-            "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
-            "url": "https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats",
-            "source": "CoinDesk",
-            "lean": null
           },
           {
             "title": "South Korean brokerage Korea Investment & Securities eyes Coinone stake: Report",
             "url": "https://cointelegraph.com/news/korea-investment-securities-coinone-stake-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Big Tech firms back new x402 Foundation to advance agentic AI adoption",
-            "url": "https://cointelegraph.com/news/big-tech-companies-join-x402-protocol-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -627,15 +567,15 @@
       "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust when it hits the heat"
     },
     "exercise": {
-      "name": "Deck of Cards Conditioning",
-      "duration": "30–45 minutes",
-      "equipment": "One standard deck of playing cards, a mat",
-      "description": "Assign a bodyweight move to each suit — push-ups, squats, lunges, hollow-body holds — then flip cards one at a time and perform the reps shown, turning a random deck into an unpredictable full-body circuit"
+      "name": "Kettlebell Density Circuit",
+      "duration": "30 minutes",
+      "equipment": "Single kettlebell (16–24 kg)",
+      "description": "Set a timer and cycle through swings, goblet squats, and single-arm cleans every 90 seconds, tracking total rounds completed to beat next time"
     },
     "learn": {
       "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether 'you' today are the same person you were a decade ago.",
-      "why": "Philosophers from Heraclitus to Derek Parfit have used this puzzle to challenge intuitions about continuity and selfhood, and spending an hour with Parfit's 'Reasons and Persons' argument will permanently change how you think about identity, responsibility, and even death"
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and philosophers from Hobbes to Parfit have weaponised it to interrogate whether you are the same person you were ten years ago",
+      "why": "On a Friday it's a surprisingly grounding rabbit hole: Derek Parfit's 'Reasons and Persons' takes the puzzle into neuroscience and mortality, and an hour with it will quietly rewire how you think about continuity, memory, and what you actually owe your past self"
     }
   }
 }
