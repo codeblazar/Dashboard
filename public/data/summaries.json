@@ -1,1 +1,60 @@
-{ "generatedAt": null, "summaries": {}, "suggestions": null }
+{
+  "generatedAt": "2026-04-03T10:35:38.175Z",
+  "model": "anthropic/claude-sonnet-4-6",
+  "summaries": {
+    "us-politics": [
+      {
+        "headline": "US Politics summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
+      }
+    ],
+    "au-politics": [
+      {
+        "headline": "Australian Politics summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
+      }
+    ],
+    "world": [
+      {
+        "headline": "World Events summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
+      }
+    ],
+    "ai": [
+      {
+        "headline": "AI & Technology summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
+      }
+    ],
+    "btc": [
+      {
+        "headline": "Bitcoin & Crypto summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
+      }
+    ]
+  },
+  "suggestions": {
+    "food": {
+      "name": "Shakshuka",
+      "cuisine": "Middle Eastern",
+      "description": "Eggs poached in spiced tomato sauce",
+      "tip": "Add feta on top"
+    },
+    "exercise": {
+      "name": "30-min walk",
+      "duration": "30 min",
+      "equipment": "None",
+      "description": "Easy active recovery"
+    },
+    "learn": {
+      "topic": "The Fermi Paradox",
+      "description": "Why haven't we found alien life?",
+      "why": "One of the biggest unanswered questions in science"
+    }
+  }
+}
