@@ -1,46 +1,38 @@
 import Header from './components/Header'
-import WeatherCard from './components/WeatherCard'
-import SuggestionsCard from './components/SuggestionsCard'
-import NewsSection from './components/NewsSection'
+import WeatherBar from './components/WeatherBar'
+import SuggestionsBar from './components/SuggestionsBar'
+import SummarySection from './components/SummarySection'
 import { useWeather } from './hooks/useWeather'
-import { useFeeds } from './hooks/useFeeds'
-import { getDailySuggestions } from './data/suggestions'
+import { useSummaries } from './hooks/useSummaries'
 import './App.css'
 
 const CATEGORIES = ['us-politics', 'au-politics', 'world', 'ai', 'btc']
 
 export default function App() {
   const { weather, loading: weatherLoading, error: weatherError } = useWeather()
-  const { loading: feedsLoading, error: feedsError, generatedAt, getCategory } = useFeeds()
-  const suggestions = getDailySuggestions()
+  const { summaries, suggestions, generatedAt, loading, error } = useSummaries()
 
   return (
     <div className="app">
       <Header generatedAt={generatedAt} />
-      <main className="grid">
-        <WeatherCard weather={weather} loading={weatherLoading} error={weatherError} />
-        <SuggestionsCard suggestions={suggestions} />
+      <WeatherBar weather={weather} loading={weatherLoading} error={weatherError} />
+      <SuggestionsBar suggestions={suggestions} loading={loading} />
+      <main className="news-grid">
         {CATEGORIES.map(cat => (
-          <NewsSection
+          <SummarySection
             key={cat}
             category={cat}
-            items={getCategory(cat)}
-            loading={feedsLoading}
+            articles={summaries[cat]}
+            loading={loading}
           />
         ))}
       </main>
-      {feedsError && (
-        <div className="error-banner">
-          Could not load feeds: {feedsError}
-        </div>
+      {error && (
+        <div className="error-banner">Could not load briefing: {error}</div>
       )}
       <footer className="site-footer">
-        Dashboard · Open-Meteo weather · RSS news ·{' '}
-        <a
-          href="https://github.com/codeblazar/Dashboard"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        Dashboard · AI briefing by Claude Sonnet via OpenRouter · Weather by Open-Meteo ·{' '}
+        <a href="https://github.com/codeblazar/Dashboard" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
       </footer>

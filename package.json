@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "dev:full": "node scripts/fetch-feeds.mjs && vite",
+    "dev:full": "node scripts/fetch-feeds.mjs && node scripts/summarize.mjs && vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",

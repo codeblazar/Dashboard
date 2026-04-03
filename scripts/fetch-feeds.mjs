@@ -91,8 +91,29 @@ const FEED_SOURCES = [
 
   // ── AI & Tech ──
   {
+    id: 'theverge-ai',
+    url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+    category: 'ai',
+    source: 'The Verge',
+    lean: null,
+  },
+  {
+    id: 'techcrunch-ai',
+    url: 'https://techcrunch.com/category/artificial-intelligence/feed/',
+    category: 'ai',
+    source: 'TechCrunch',
+    lean: null,
+  },
+  {
+    id: 'wired-ai',
+    url: 'https://www.wired.com/feed/tag/ai/latest/rss',
+    category: 'ai',
+    source: 'Wired',
+    lean: null,
+  },
+  {
     id: 'mit-tech-review',
-    url: 'https://www.technologyreview.com/feed/',
+    url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed',
     category: 'ai',
     source: 'MIT Tech Review',
     lean: null,
@@ -109,6 +130,13 @@ const FEED_SOURCES = [
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     category: 'ai',
     source: 'Ars Technica',
+    lean: null,
+  },
+  {
+    id: 'hackernews',
+    url: 'https://news.ycombinator.com/rss',
+    category: 'ai',
+    source: 'Hacker News',
     lean: null,
   },
 
@@ -129,7 +157,8 @@ const FEED_SOURCES = [
   },
 ]
 
-const HOURS = 12
+const DEFAULT_HOURS = 12
+const AI_HOURS = 24   // AI news publishes less frequently
 const TIMEOUT_MS = 12000
 
 // Decode common HTML/XML entities (processEntities:false means parser leaves them raw)
@@ -230,8 +259,8 @@ async function fetchFeed(source) {
   }
 }
 
-function filterRecent(items) {
-  const cutoff = Date.now() - HOURS * 60 * 60 * 1000
+function filterRecent(items, hours = DEFAULT_HOURS) {
+  const cutoff = Date.now() - hours * 60 * 60 * 1000
   return items.filter(item => {
     if (!item.published) return false
     const ts = new Date(item.published).getTime()
@@ -240,14 +269,15 @@ function filterRecent(items) {
 }
 
 async function main() {
-  console.log(`Fetching RSS feeds (filtering to last ${HOURS}h)...\n`)
+  console.log(`Fetching RSS feeds (last ${DEFAULT_HOURS}h, AI last ${AI_HOURS}h)...\n`)
 
   const allItems = []
 
   for (const source of FEED_SOURCES) {
     process.stdout.write(`  Fetching ${source.id}... `)
     const items = await fetchFeed(source)
-    const recent = filterRecent(items)
+    const hours = source.category === 'ai' ? AI_HOURS : DEFAULT_HOURS
+    const recent = filterRecent(items, hours)
     console.log(`${items.length} items → ${recent.length} recent`)
     allItems.push(...recent)
   }
