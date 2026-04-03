@@ -1,0 +1,248 @@
+/* ─── Custom Properties (dark mode first) ────────────────────────── */
+:root {
+  --bg:           #0d0d0d;
+  --surface:      #181818;
+  --surface-2:    #222;
+  --border:       #2e2e2e;
+  --text:         #e2e2e2;
+  --text-muted:   #888;
+  --text-link:    #5aabff;
+  --accent:       #4a9eff;
+  --radius:       10px;
+  --font:         -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ─── Reset & Base ───────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--text-link);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* ─── Layout ─────────────────────────────────────────────────────── */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+  max-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ─── Header ─────────────────────────────────────────────────────── */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.25rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.site-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.header-datetime {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.feeds-age {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+/* ─── Cards ──────────────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.card-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: 0.01em;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.2rem;
+}
+
+/* ─── Weather Card ───────────────────────────────────────────────── */
+.weather-main {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.weather-icon {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.weather-temp {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.weather-desc {
+  color: var(--text-muted);
+  margin-top: 0.15rem;
+}
+
+.weather-location {
+  font-size: 0.88rem;
+  color: var(--text);
+}
+
+.weather-details {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+/* ─── Suggestions Card ───────────────────────────────────────────── */
+.suggestion-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.suggestion-item:last-child { border-bottom: none; }
+
+.suggestion-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.15rem;
+}
+
+.suggestion-name {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.suggestion-reason {
+  font-size: 0.82rem;
+  margin-top: 0.1rem;
+}
+
+/* ─── News Section ───────────────────────────────────────────────── */
+.news-section {
+  min-height: 200px;
+}
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* ─── News Card ──────────────────────────────────────────────────── */
+.news-card {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.news-card:last-child { border-bottom: none; }
+
+.news-title {
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text);
+  line-height: 1.4;
+  margin-bottom: 0.3rem;
+}
+.news-title:hover { color: var(--accent); text-decoration: none; }
+
+.news-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.news-source {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.lean-badge {
+  font-size: 0.68rem;
+  padding: 0.1em 0.45em;
+  border-radius: 3px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.news-time {
+  font-size: 0.72rem;
+  margin-left: auto;
+}
+
+/* ─── Utility ────────────────────────────────────────────────────── */
+.muted { color: var(--text-muted); }
+.small { font-size: 0.78rem; }
+.error-text { color: #f77e7e; }
+
+/* ─── Error Banner ───────────────────────────────────────────────── */
+.error-banner {
+  margin: 1rem;
+  padding: 0.75rem 1rem;
+  background: rgba(107,26,26,0.4);
+  border: 1px solid #6b1a1a;
+  border-radius: var(--radius);
+  color: #f77e7e;
+  font-size: 0.85rem;
+}
+
+/* ─── Footer ─────────────────────────────────────────────────────── */
+.site-footer {
+  margin-top: auto;
+  padding: 0.75rem 1.25rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  text-align: center;
+}
