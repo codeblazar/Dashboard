@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-03T10:40:51.258Z",
+  "generatedAt": "2026-04-03T11:17:52.730Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US-Iran War Escalates as Gulf Refineries Hit and Carriers Deploy",
-        "body": "The conflict between the United States and Iran has intensified significantly, with Iran striking Gulf refineries while President Trump has threatened attacks on Iranian bridges and power plants. The USS Gerald R. Ford aircraft carrier is being redeployed to the Middle East, and B-52 bombers have been brought into the fight, signaling a major escalation in military posture. U.S. troops are also being evacuated from a Bahrain base, prompting community support efforts stateside.\n\nIran's strategic position remains formidable. Analysts note that Tehran's ability to threaten the Strait of Hormuz — through which a significant share of global oil passes — gives it considerable leverage over the United States and global energy markets. Rising gas prices are already being felt domestically, adding political pressure on the administration.\n\nSupporters of the administration point to Trump's meetings with families of slain service members as evidence of moral clarity and resolve, with families reportedly urging him to 'finish the job.' Critics, however, note that public opinion polls suggest Americans are not fully convinced by the case for war, and that the conflict's impact on gas prices and midterm politics could prove costly for the Republican Party.",
+        "headline": "US-Iran Conflict Escalates as Military Deployments and Strikes Intensify",
+        "body": "The United States and Iran are locked in a deepening military confrontation, with Iran striking Gulf refineries and the Trump administration responding with threats to attack Iranian infrastructure including bridges and power plants. B-52 bombers have been deployed to the region, and the USS Gerald R. Ford aircraft carrier is returning to the Middle East, signaling a significant escalation in American military posture.\n\nIran's strategic position remains formidable, particularly its ability to threaten the Strait of Hormuz, through which a substantial share of global oil supplies pass. Analysts note this gives Tehran considerable leverage over the United States and global energy markets, complicating Washington's military calculus. The evacuation of U.S. troops from a Mideast base has prompted community support efforts stateside.\n\nDomestically, the conflict is generating political headwinds for the Trump administration. A Washington Post report indicates the public was not persuaded by Trump's prime-time push for the Iran war, with rising gas prices adding to voter unease. Families of slain service members have been cited by Trump as urging him to \"finish the job,\" framing the conflict as a matter of national honor and obligation.",
         "sources": [
           {
             "title": "Iran hits Gulf refineries as Trump warns U.S. will attack Iranian bridges, power plants",
@@ -20,6 +20,12 @@
             "lean": "center"
           },
           {
+            "title": "Trump pushed the Iran war in prime time. The public wasn’t sold.",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
             "title": "What B-52 bombers bring to Iran fight — and what it means for the war now",
             "url": "https://www.foxnews.com/politics/what-b-52-bombers-bring-iran-fight-what-means-war-now",
             "source": "Fox News",
@@ -30,12 +36,6 @@
             "url": "https://www.foxnews.com/politics/watch-president-trump-reveals-families-slain-us-service-members-urged-him-finish-job",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Takeaways from Trump's tough week, as war and gas prices take a toll",
-            "url": "https://www.npr.org/2026/04/03/nx-s1-5771684/trumps-weird-week",
-            "source": "NPR",
-            "lean": "left"
           },
           {
             "title": "Evacuation of U.S. troops from Mideast base sends community groups scrambling to help",
@@ -52,18 +52,24 @@
         ]
       },
       {
-        "headline": "DOJ and FBI Under Scrutiny Over Bondi Exit, Voter Data, and Epstein Files",
-        "body": "The Department of Justice is facing scrutiny on multiple fronts. Former Attorney General Pam Bondi's departure has been attributed by some analysts to her failure to deliver high-profile prosecutions — so-called 'scalps' — that Trump reportedly sought. Her tenure is being assessed as one shaped more by political expectations than institutional independence, raising broader questions about the DOJ's direction under the current administration.\n\nSeparately, the DOJ is preparing to share state voter registration data with the Department of Homeland Security as part of voter citizenship verification efforts. A key DOJ privacy officer has resigned in protest ahead of the data transfer, citing concerns about civil liberties and legal compliance. Florida and Mississippi have also moved to tighten voter citizenship rules at the state level, a step supporters frame as election integrity reform and critics call voter suppression.\n\nMeanwhile, questions persist about the pace of prosecutions following the release of the Epstein files. Despite the high-profile nature of the documents, few arrests have followed, drawing criticism from across the political spectrum. Advocacy groups have also raised alarms over a Trump administration demand for a list of Jewish faculty at the University of Pennsylvania, calling it a chilling overreach into academic freedom.",
+        "headline": "DOJ in Turmoil: Bondi Ousted, Epstein Inquiry and Voter Data Concerns Raised",
+        "body": "Attorney General Pam Bondi has been removed from her position, triggering a significant shake-up at the Department of Justice. Reporting suggests her failure to deliver high-profile prosecutions — described as Trump's desired \"scalps\" — was central to her dismissal. The Hill identifies five major unresolved questions hanging over the DOJ following her departure, including the direction of ongoing investigations and leadership continuity.\n\nBondi's ouster has cast fresh uncertainty over the Epstein inquiry. Representative Ro Khanna (D-CA) has publicly questioned the future of the investigation, and NPR reports that despite the release of Epstein files, very few arrests have followed, raising questions about prosecutorial will and DOJ priorities under shifting leadership.\n\nSeparately, a key DOJ privacy officer has resigned ahead of a planned transfer of state voter data to the Department of Homeland Security, a move that has drawn sharp criticism from civil liberties advocates. Critics argue the data-sharing arrangement raises serious privacy concerns, while the administration frames it as a necessary step toward election integrity. The confluence of these developments has intensified scrutiny of the DOJ's independence and direction.",
         "sources": [
           {
-            "title": "The Memo: Bondi’s failure to get Trump his ‘scalps’ sealed her fate",
-            "url": "https://thehill.com/homenews/administration/5814211-downfall-pam-bondi-trump/",
+            "title": "Rep. Ro Khanna, D-Calif., on the future of the Epstein inquiry with Bondi's ousting",
+            "url": "https://www.npr.org/2026/04/03/nx-s1-5771625/rep-ro-khanna-d-calif-on-the-future-of-the-epstein-inquiry-with-bondis-ousting",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Five questions hanging over the DOJ shake-up",
+            "url": "https://thehill.com/newsletters/morning-report/5814525-trump-fires-bondi-doj-shakeup/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "‘Incredibly chilling’: Advocacy groups raise alarm over Trump’s demand for list of Jewish faculty at Penn",
-            "url": "https://thehill.com/homenews/education/5813286-penn-antisemitism-probe-trump-jewish-faculty/",
+            "title": "The Memo: Bondi’s failure to get Trump his ‘scalps’ sealed her fate",
+            "url": "https://thehill.com/homenews/administration/5814211-downfall-pam-bondi-trump/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -78,55 +84,19 @@
             "url": "https://www.npr.org/2026/04/03/nx-s1-5768455/privacy-doj-dhs-voter-data",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Florida, Mississippi join wave of states tightening voter citizenship rules",
-            "url": "https://www.foxnews.com/politics/florida-mississippi-join-wave-states-tightening-voter-citizenship-rules",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Trump Administration Advances Domestic Agenda on Drugs, Defense, and Budget",
-        "body": "The Trump administration is pushing forward on several domestic policy fronts. Trump has announced tariffs of up to 100% on some brand-name drug imports, framing the move as an 'America First' effort to reduce reliance on foreign pharmaceutical supply chains. Supporters argue the policy will boost domestic manufacturing and lower long-term costs, while critics warn it could raise prices for consumers in the short term.\n\nDefense Secretary Pete Hegseth has signed a memo opening the door for troops to carry personal firearms on military bases, a move welcomed by Second Amendment advocates and some veterans' groups, but questioned by others who raise safety and protocol concerns. A preview of Trump's 2027 budget suggests sweeping expansions of his core agenda priorities, including border security and defense spending, though details remain limited.\n\nOn Capitol Hill, Republicans are targeting NIH funding for what they describe as transgender-related animal testing, framing it as fiscal responsibility. Vice President JD Vance is also set to meet with Hungarian Prime Minister Viktor Orbán days before Hungary's parliamentary elections, a visit that has drawn criticism from those who see it as inappropriate foreign interference, while supporters view it as routine diplomatic engagement with a key European ally.",
+        "headline": "Trump Administration Faces Scrutiny Over Civil Liberties, Campus Policies, and Endorsements",
+        "body": "The Trump administration is facing criticism on multiple civil liberties fronts. Advocacy groups have raised alarm over a White House demand that the University of Pennsylvania provide a list of Jewish faculty as part of an antisemitism probe, with critics calling the request \"incredibly chilling\" and reminiscent of discriminatory government overreach. The administration contends the inquiry is aimed at combating antisemitism on campus.\n\nOn other domestic policy fronts, Defense Secretary Pete Hegseth has signed a memo opening the door for troops to carry personal firearms on military bases, a move welcomed by Second Amendment advocates but questioned by some military policy experts. Republicans in Congress are also pushing to defund NIH research they characterize as transgender-related animal testing, framing it as fiscal responsibility.\n\nIn electoral politics, Trump's re-endorsement of Republican Congressman Jeff Hurd — after briefly withdrawing support — highlights the unpredictable nature of the president's political alliances. Meanwhile, Palantir's immigration-related government contracts are putting Democratic donors who have ties to the company in an uncomfortable position, and a political outsider, Graham Platner, is gaining traction among Maine Democrats ahead of a Senate race.",
         "sources": [
           {
-            "title": "VP Vance to meet with Viktor Orbán in Hungary days ahead of foreign nation's elections",
-            "url": "https://www.foxnews.com/politics/vance-hungary-orban-parliamentary-election",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "‘Incredibly chilling’: Advocacy groups raise alarm over Trump’s demand for list of Jewish faculty at Penn",
+            "url": "https://thehill.com/homenews/education/5813286-penn-antisemitism-probe-trump-jewish-faculty/",
+            "source": "The Hill",
+            "lean": "center"
           },
-          {
-            "title": "GOP targets transgender animal testing in defund demand to NIH",
-            "url": "https://www.foxnews.com/politics/gop-targets-transgender-animal-testing-defund-demand-nih",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
-            "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Pete Hegseth signs memo opening door for troops to carry personal firearms on bases",
-            "url": "https://www.foxnews.com/politics/pete-hegseth-signs-memo-opening-door-troops-carry-personal-firearms-bases",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump 2027 budget preview hints at sweeping scale-up in core agenda",
-            "url": "https://www.foxnews.com/politics/trump-2027-budget-preview-hints-sweeping-scale-up-core-agenda",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Political Maneuvering Heats Up Ahead of Midterms Across Key Battlegrounds",
-        "body": "With midterm elections on the horizon, political dynamics are shifting in several key states and races. In Maine, Democratic political outsider Graham Platner is gaining traction in the Senate race, appealing to voters frustrated with establishment candidates on both sides. His rise reflects a broader appetite among some Democratic voters for fresh faces untethered from party orthodoxy.\n\nIn Virginia, a new poll shows voters narrowly support redistricting changes that would favor Democrats, a finding that underscores the competitive nature of the state and the ongoing national battle over electoral maps. Meanwhile, Trump's re-endorsement of Republican Congressman Jeff Hurd — after briefly withdrawing support — highlights the transactional and sometimes unpredictable nature of the president's political alliances.\n\nDemocrats are also navigating internal tensions over Palantir, the data analytics firm with deep ties to the defense and immigration enforcement sectors. Campaign donations linked to Palantir have put some Democrats in an awkward position, forcing them to balance donor relationships against their base's concerns about the company's role in immigration enforcement. Press Secretary Karoline Leavitt, meanwhile, defended the SAVE America Act at a Turning Point event, keeping the administration's electoral messaging front and center.",
-        "sources": [
           {
             "title": "Palantir-linked campaign donations put Democrats in tight spot",
             "url": "https://thehill.com/policy/technology/5813636-palantir-controversy-immigration-democrats/",
@@ -140,36 +110,72 @@
             "lean": "center"
           },
           {
-            "title": "Trump pushed the Iran war in prime time. The public wasn’t sold.",
-            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Poll: Virginia voters narrowly support redistricting to favor Democrats",
-            "url": "https://www.washingtonpost.com/politics/2026/04/03/virginia-redistricting-poll-trump-spanberger/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
             "title": "How Trump came to re-endorse a Republican congressman he had just ditched",
             "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-jeff-hurd-endorsement/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
+            "title": "GOP targets transgender animal testing in defund demand to NIH",
+            "url": "https://www.foxnews.com/politics/gop-targets-transgender-animal-testing-defund-demand-nih",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Pete Hegseth signs memo opening door for troops to carry personal firearms on bases",
+            "url": "https://www.foxnews.com/politics/pete-hegseth-signs-memo-opening-door-troops-carry-personal-firearms-bases",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "2028 GOP Race Takes Shape Amid Party Chaos and Vance's Diplomatic Moves",
+        "body": "The Republican Party's internal dynamics are already shaping a nascent 2028 presidential contest, with Vice President JD Vance and Secretary of State Marco Rubio emerging as the two most prominent potential contenders. Analysis from The Hill frames the rivalry through the lens of the broader turbulence of the Trump era, suggesting that the chaotic political environment could benefit or undermine either candidate depending on how events unfold.\n\nVance is meanwhile conducting active foreign policy, with a planned visit to Hungary to meet Prime Minister Viktor Orbán just days before Hungary's parliamentary elections. The trip has drawn attention given Orbán's close ideological alignment with the American populist right. Supporters see the meeting as pragmatic diplomacy; critics argue it signals an endorsement of Orbán's democratic backsliding.\n\nOn the communications front, Press Secretary Karoline Leavitt has been defending the administration's SAVE America Act at public events, while also sharing details about her informal appointment by Trump. Separately, Trump's imposition of tariffs of up to 100% on some brand-name drug imports has been framed by the White House as an \"America First\" healthcare policy, though it has drawn pushback from industry figures, including a celebrity chef involved in America 250 planning.",
+        "sources": [
+          {
+            "title": "The Vance versus Rubio 2028 nomination fight through the lens of chaos",
+            "url": "https://thehill.com/opinion/campaign/5813119-trump-era-gop-chaos-2028/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "VP Vance to meet with Viktor Orbán in Hungary days ahead of foreign nation's elections",
+            "url": "https://www.foxnews.com/politics/vance-hungary-orban-parliamentary-election",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Celebrity chef lashes out at Trump for changing the 'rules' the same year as America 250",
+            "url": "https://www.foxnews.com/politics/celebrity-chef-lashes-out-trump-changing-rules-same-year-as-america-250",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Karoline Leavitt reveals 'anti-climatic' way Trump told her she’d be press secretary: ‘Oh, by the way’",
+            "url": "https://www.foxnews.com/politics/karoline-leavitt-reveals-anti-climatic-way-trump-told-her-shed-press-secretary-oh-way",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
             "title": "Leavitt defends SAVE America Act push at Turning Point event with Erika Kirk",
             "url": "https://thehill.com/homenews/administration/5814397-leavitt-defends-save-america-act/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Trump slaps up to 100% tariff on some brand-name drug imports in major America First push",
+            "url": "https://www.foxnews.com/politics/trump-slaps-up-100-tariff-some-brand-name-drug-imports-major-america-first-push",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Australia's Fuel Security Crisis Deepens Amid Industry and Political Concern",
-        "body": "Australia's fuel security situation is drawing urgent attention, with industry representatives warning that fuel stocks heading to Australia would not last a month. The concern centres on supply chain vulnerabilities exposed by broader regional instability, with a Guardian report documenting how Asia's fuel crisis is affecting ordinary workers and businesses across the region.\n\nPoliticians have proposed several potential solutions, though analysts and industry figures have questioned their effectiveness, describing some ideas as inadequate or misdirected. The crisis has prompted debate about Australia's long-term energy resilience and strategic fuel reserves.\n\nThe situation intersects with broader global energy tensions. A Spectator commentary argues that nations committed to net zero targets are simultaneously engaged in a contradictory race to secure oil supplies, highlighting the tension between climate policy ambitions and immediate energy security needs. The Australian government has faced pressure to articulate a credible response that balances short-term supply concerns with longer-term energy transition goals.",
+        "headline": "Australia's Fuel Security Crisis Deepens Amid Industry and Government Concerns",
+        "body": "Australia is facing a significant fuel security challenge, with industry representatives warning that current fuel reserves heading to the country would not last a month. The shortage is being felt across the Asia-Pacific region, with reports highlighting the day-to-day impact on ordinary workers and businesses throughout Asia.\n\nPoliticians have put forward several proposals to address the crisis, though analysts and critics have questioned the viability of many of these solutions, describing some ideas as falling short of meaningful reform. The situation has prompted debate about Australia's long-term energy resilience and its dependence on imported fuel supplies.\n\nThe crisis also intersects with broader global energy debates. Commentators have noted a tension between nations committed to net-zero emissions targets and their continued reliance on oil, raising questions about the pace and practicality of the energy transition. Energy Minister Chris Bowen has been under pressure to respond, with the industry calling for more substantive and urgent government action to secure supply chains.",
         "sources": [
           {
             "title": "Fuel heading to Australia won't last a month, industry says",
@@ -198,21 +204,9 @@
         ]
       },
       {
-        "headline": "Easter Long Weekend Brings Tragedy, Celebration, and Community Across Australia",
-        "body": "Australians marked Good Friday with a mix of tradition and tragedy. Across the country, communities gathered for church services, seafood meals, and cultural events including a boat race, while the new Sydney Fish Market drew large crowds during its first major holiday period, signalling its embrace by the public.\n\nHowever, the long weekend was also marked by a series of fatal road incidents. Three people died in separate crashes in Western Australia, including a 14-year-old dirt bike rider. A motorcyclist was killed in a traffic light collision in Adelaide, and another died in a crash on the Monaro Highway in southern New South Wales. Authorities have not yet released full details on the circumstances of each incident.\n\nOn the sporting front, NRL and AFL fixtures provided Easter entertainment, with Penrith Panthers delivering a strong performance against Melbourne Storm, and the Adelaide Crows responding against Fremantle. The Bureau of Meteorology reported generally calm weather across most of the country for the weekend, though forecasters were monitoring a potential cyclone system.",
+        "headline": "Easter Long Weekend Brings Tragedy, Tradition and Community Across Australia",
+        "body": "Australians marked Good Friday with a mix of cultural traditions and community gatherings, including seafood meals, church services, and local events such as a boat race. Sydney's newly opened Fish Market drew large crowds during the holiday rush, reflecting the enduring tradition of seafood consumption on Good Friday.\n\nHowever, the long weekend was also marked by tragedy on Australian roads. Three people were killed in separate crashes in Western Australia, including a 14-year-old dirt bike rider. A motorcyclist also died in a crash on the Monaro Highway in southern New South Wales, and another was killed in a traffic light collision in Adelaide, with a second rider hospitalised. Authorities have urged motorists to exercise caution over the remainder of the holiday period.\n\nOn the sporting front, the Easter weekend featured significant AFL and NRL action. Fremantle claimed a dramatic thriller after an Adelaide Crow hit the post in the final minute, while Penrith put in a dazzling performance against Melbourne Storm, who conceded 50 points for the first time since 2003. The long weekend also brought calm weather across most of the country, though the Bureau of Meteorology was monitoring a potential cyclone.",
         "sources": [
-          {
-            "title": "Australians mark Good Friday with seafood, church services and a boat race",
-            "url": "https://www.abc.net.au/news/2026-04-03/australians-mark-good-friday-with-seafood-church-and-boat-race/106529620",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Packed to the gills: shoppers embrace new Sydney Fish Market during Good Friday rush",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/apr/03/packed-to-the-gills-shoppers-embrace-new-sydney-fish-market-during-good-friday-rush",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
           {
             "title": "Dirt bike rider, 14, among three dead in separate WA Easter long weekend crashes",
             "url": "https://www.abc.net.au/news/2026-04-03/wa-easter-long-weekend-three-fatal-crashes/106530100",
@@ -232,14 +226,26 @@
             "lean": "center-left"
           },
           {
-            "title": "Live: Irresistible Panthers putting Storm to the sword as Harry Grant limps off",
-            "url": "https://www.abc.net.au/news/2026-04-03/nrl-live-updates-rabbitohs-bulldogs-panthers-storm-good-friday/106530126",
+            "title": "Australians mark Good Friday with seafood, church services and a boat race",
+            "url": "https://www.abc.net.au/news/2026-04-03/australians-mark-good-friday-with-seafood-church-and-boat-race/106529620",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Live: Crows respond against Dockers after Walker's spray as Roos down Blues",
+            "title": "Packed to the gills: shoppers embrace new Sydney Fish Market during Good Friday rush",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/apr/03/packed-to-the-gills-shoppers-embrace-new-sydney-fish-market-during-good-friday-rush",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Live: Dockers claim thriller after Crow hits post inside final minute",
             "url": "https://www.abc.net.au/news/2026-04-03/afl-round-4-kangaroos-blues-crows-dockers-live-blog-good-friday/106530078",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Live: Storm concedes 50 for first time since 2003 as Penrith dazzles again",
+            "url": "https://www.abc.net.au/news/2026-04-03/nrl-live-updates-rabbitohs-bulldogs-panthers-storm-good-friday/106530126",
             "source": "ABC Australia",
             "lean": "center-left"
           },
@@ -252,8 +258,8 @@
         ]
       },
       {
-        "headline": "Trump Administration Shake-Up and Tariffs Draw International Scrutiny",
-        "body": "The Trump administration is facing significant international and domestic attention following a series of high-profile dismissals and controversial policy moves. Reports indicate that several prominent female allies of the President, including former Attorney-General Pam Bondi, have been removed from their positions, continuing a pattern of turnover within the administration. A Spectator commentary separately characterises the dismissals as part of a broader firing spree.\n\nOn trade, the administration's decision to impose a 100% tariff on pharmaceuticals imported into the United States has prompted a response from the Australian government, which has stated it will not raise domestic drug prices as a result of the measure. The policy has raised concerns about the cost of medicines and the stability of pharmaceutical supply chains for allied nations.\n\nMeanwhile, Trump's recent speech regarding Iran has drawn sharp criticism from a former US envoy involved in the Iran nuclear negotiations, who described the address as delusional. The remarks come amid ongoing tensions over Iran's nuclear programme and broader Middle East instability, which has contributed to the regional fuel supply pressures affecting Australia and its neighbours.",
+        "headline": "Trump Administration Shake-Up and Tariffs Draw International Attention and Concern",
+        "body": "The Trump administration has continued to make headlines internationally, with a series of high-profile firings drawing scrutiny. Among those removed were several prominent female allies of the President, including Attorney-General Pam Bondi, prompting analysis about the shifting dynamics within the administration. Commentators across the political spectrum have noted the breadth and pace of the personnel changes.\n\nAustralia has been directly affected by one of Trump's latest trade moves, with the administration announcing a 100% tariff on pharmaceuticals imported into the United States. The Australian government has responded by stating it will not raise domestic drug prices as a result, seeking to reassure the public that the PBS and medicine affordability will be protected. The move has nonetheless raised concerns about the broader implications for trade relations.\n\nSeparately, a former US envoy involved in the Iran nuclear deal has strongly criticised a recent Trump speech on Iran, describing it as \"delusional.\" This comes as Myanmar's junta chief Min Aung Hlaing was formally elected president, a development that has drawn international concern about democratic backsliding in the region.",
         "sources": [
           {
             "title": "Trump's fiercest female defenders are now on the outer",
@@ -278,12 +284,18 @@
             "url": "https://www.abc.net.au/news/2026-04-03/us-negotiator-in-iran-nuclear-deal-says-trump-delusional/106527524",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Myanmar junta chief Min Aung Hlaing elected president",
+            "url": "https://www.abc.net.au/news/2026-04-03/min-aung-hlaing-elected-new-myanmar-president/106530476",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Domestic Security and Justice: Child Abuse Sentencing and Teen Terror Charges",
-        "body": "Two significant law enforcement matters have emerged in Australia over the past 24 hours. In Queensland, a North Lakes man has been sentenced to 15 years in prison after being convicted of child sexual abuse offences that included live-streaming the abuse online. The case has highlighted the serious and growing challenge of online child exploitation, and the severity of the sentence reflects judicial recognition of the gravity of such offences.\n\nSeparately, two New South Wales teenagers have been charged in connection with violent extremist material allegedly linked to terrorism. Authorities have not released extensive details about the nature of the material or the alleged terror connection, but the charges underscore ongoing concerns about the radicalisation of young people and the spread of extremist content online.\n\nBoth cases raise broader questions about digital safety, the responsibilities of online platforms, and the adequacy of existing legal frameworks to address emerging threats. Law enforcement agencies across Australia have increasingly focused resources on monitoring online spaces for both child exploitation material and extremist content.",
+        "headline": "Australian Safety and Security: Child Abuse Sentencing and Teen Terror Charges",
+        "body": "A Queensland man from North Lakes has been sentenced to 15 years in prison after being convicted of child abuse offences that included live-streaming the abuse of a child. The case has drawn significant attention to the issue of online child exploitation and the role of digital platforms in facilitating such crimes. Authorities and advocates have used the sentencing to renew calls for stronger protections for children online.\n\nIn a separate security matter, two New South Wales teenagers have been charged in connection with violent extremist material allegedly linked to terrorism. Police allege the material was of a nature that raised serious concerns about radicalisation among young people. The charges have prompted discussion about how extremist content spreads online and the challenges law enforcement faces in identifying and intervening early.\n\nTogether, these cases have highlighted ongoing concerns about the safety of vulnerable Australians, particularly children and young people, in both physical and digital environments. Authorities have emphasised their commitment to pursuing such cases vigorously, while community groups have called for greater investment in prevention and education programs.",
         "sources": [
           {
             "title": "Queensland man jailed for 15 years after live-streaming child abuse",
@@ -302,8 +314,8 @@
     ],
     "world": [
       {
-        "headline": "US-Israeli War on Iran Escalates as Regional Tensions Spread to Neighbors",
-        "body": "Now in its 35th day, the US-Israeli military campaign against Iran continues to intensify, with strikes hitting civilian infrastructure including a bridge in Karaj and other populated areas. Iran has condemned what it calls a 'moral collapse' by the US and Israel and vowed retaliation, while former Iranian Foreign Minister Zarif has publicly urged Tehran to 'declare victory and make a deal,' signaling growing internal debate over the war's direction.\n\nThe conflict is increasingly destabilizing the broader region. In Kuwait, a desalination plant and oil refinery were struck by missile and drone attacks, raising fears of wider infrastructure warfare. Iran-allied paramilitaries in Iraq are reportedly drawing that country closer to direct involvement, alarming regional governments and international observers alike.\n\nThe economic ripple effects are also mounting. Pakistan has seen its LNG surplus rapidly erode into a looming shortage as supply chains are disrupted, while China's independent 'teapot' refineries are helping Beijing cushion itself from the oil crisis triggered by the conflict. The war is reshaping energy markets and geopolitical alignments across Asia and the Middle East.",
+        "headline": "US-Israeli War on Iran Escalates as Gulf States Face Missile and Drone Strikes",
+        "body": "Now in its 35th day, the US-Israeli military campaign against Iran has expanded dramatically, with Tehran striking regional infrastructure in retaliation. Kuwait suffered significant damage after missile and drone attacks hit a major desalination plant and an oil refinery, raising fears of a broader regional conflagration drawing Gulf states into the conflict.\n\nIran has vowed further retaliation following a deadly US airstrike on a bridge in Karaj, with Tehran condemning what it calls a US-Israeli 'moral collapse' over attacks on civilian sites. Iran-allied paramilitaries in Iraq are also reportedly escalating their involvement, raising concerns that Baghdad could be dragged deeper into the war.\n\nThe conflict is sending shockwaves through global energy markets. China's independent 'teapot' refineries are helping Beijing weather the oil supply disruption, while Pakistan has seen an LNG surplus rapidly transform into a looming shortage. The crisis is testing regional alliances and supply chains across Asia and the Middle East, with no clear diplomatic off-ramp yet in sight.",
         "sources": [
           {
             "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
@@ -342,7 +354,7 @@
             "lean": null
           },
           {
-            "title": "Iran war live: Ex-FM Zarif says Tehran should ‘declare victory, make deal’",
+            "title": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
             "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -362,8 +374,8 @@
         ]
       },
       {
-        "headline": "Trump Fires Attorney General Bondi and Army Chief in Sweeping Purge",
-        "body": "President Donald Trump has dismissed Attorney General Pam Bondi, replacing her with Todd Blanche in a move that has drawn significant attention given Blanche's prior role as Trump's personal defense attorney. The firing is seen as part of a broader pattern of Trump reshaping key institutions with loyalists, raising concerns among legal observers about the independence of the Justice Department.\n\nSimultaneously, Defense Secretary Pete Hegseth asked the US Army's Chief of Staff to step down, part of what reports describe as a string of dismissals within the military's senior leadership. The moves signal an aggressive effort by the Trump administration to consolidate control over both civilian and military command structures.\n\nTrump also announced a sweeping 100 percent tariff on pharmaceutical drugs, framing it as leverage to force new manufacturing deals and bring drug production back to the United States. Together, these actions reflect an administration moving rapidly to reshape federal institutions, trade policy, and the military establishment in the early months of its new term.",
+        "headline": "Trump Fires Attorney General Bondi and Army Chief Amid Washington Shake-Up",
+        "body": "President Donald Trump has dismissed Attorney General Pam Bondi, replacing her with Todd Blanche in a move that has stunned Washington observers. Bondi, once considered a close Trump loyalist, was removed without a detailed public explanation. Blanche, who previously served as Trump's personal defense attorney, will now lead the Justice Department, raising fresh questions about the independence of federal law enforcement.\n\nThe shake-up did not stop there. Defense Secretary Pete Hegseth also fired the US Army Chief of Staff as part of a reported broader string of military dismissals, continuing a pattern of purges within the Pentagon's senior leadership. Critics have warned that the removal of experienced military commanders could undermine institutional stability.\n\nSeparately, Trump announced a sweeping 100 percent tariff on pharmaceutical imports, framing it as leverage to force foreign drug manufacturers into domestic production deals. The move adds to an already aggressive trade posture and is expected to draw strong reactions from major pharmaceutical exporters in Europe and Asia.",
         "sources": [
           {
             "title": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche?",
@@ -394,23 +406,23 @@
             "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Hegseth asks US Army's top general to step down",
-            "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Artemis II Crew Leaves Earth's Orbit, Heads Toward the Far Side of the Moon",
-        "body": "NASA's Artemis II mission has reached a historic milestone, with its crew successfully departing Earth's orbit and setting course for the far side of the Moon. The mission marks the first time humans have traveled beyond low Earth orbit in over five decades, representing a major step in NASA's broader Artemis program aimed at returning astronauts to the lunar surface.\n\nThe spacecraft is on track according to mission controllers, with the crew expected to conduct a flyby of the Moon's far side before returning to Earth. The mission is primarily a crewed test flight designed to validate the Orion spacecraft and Space Launch System for future lunar landing missions.\n\nThe Artemis II launch has been widely celebrated as a landmark moment for human spaceflight, drawing comparisons to the Apollo era. It comes at a time of renewed international competition in space exploration, with multiple nations and private companies pursuing lunar ambitions, lending the mission additional geopolitical as well as scientific significance.",
+        "headline": "Artemis II Crew Leaves Earth's Orbit, Heading Toward the Far Side of the Moon",
+        "body": "NASA's Artemis II mission has reached a historic milestone, with its crew successfully leaving Earth's orbit and firing engines to set course for the far side of the Moon. The mission marks the first time humans have traveled beyond low Earth orbit in over five decades, representing a major step in NASA's broader goal of returning astronauts to the lunar surface.\n\nThe spacecraft's engine burn was confirmed as nominal, placing the crew on a precise trajectory for a lunar flyby. The mission is designed to test the Orion capsule and Space Launch System under deep-space conditions with a human crew aboard, paving the way for the subsequent Artemis III crewed lunar landing.\n\nThe four-person crew is expected to loop around the Moon before returning to Earth, a journey of roughly ten days. The mission has drawn global attention as a symbol of renewed ambitions in human space exploration, with international partners closely watching its progress.",
         "sources": [
           {
             "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
             "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Artemis II mission fires up engines in next step of moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -422,12 +434,18 @@
         ]
       },
       {
-        "headline": "Myanmar's Coup Leader Becomes President; Cuba Pardons Thousands of Prisoners",
-        "body": "Myanmar's military coup leader, Min Aung Hlaing, has been formally elected president by the country's pro-military parliament, cementing his grip on power more than four years after the February 2021 coup that plunged the nation into a brutal civil war. The move is widely seen as an attempt to legitimize military rule ahead of a planned election, though resistance forces and international observers have rejected the process as a sham.\n\nThe civil war has caused enormous humanitarian suffering, with millions displaced and widespread atrocities documented by human rights groups. The formal elevation of Min Aung Hlaing to the presidency is unlikely to change conditions on the ground, where fighting between the military and various resistance groups continues across much of the country.\n\nIn a separate development, Cuba has announced it will pardon more than 2,000 prisoners, a move that comes amid sustained pressure from the United States. The pardons are seen as a potential diplomatic gesture, though critics argue they fall short of addressing the broader crackdown on political dissidents that followed the 2021 protests on the island.",
+        "headline": "Myanmar's Coup Leader Becomes President; Panama Papers Turn Ten; Global Briefs",
+        "body": "Myanmar's military coup leader, General Min Aung Hlaing, has been formally elected president by the country's pro-military parliament, consolidating his grip on power more than five years after the 2021 coup that plunged the nation into a brutal civil war. The move is widely seen as an attempt to legitimise military rule ahead of a planned but widely disputed election.\n\nThis week also marks ten years since the Panama Papers leak, one of the largest financial data breaches in history. While the revelations exposed widespread offshore tax avoidance and corruption among world leaders and elites, analysts note that systemic change has been limited, with many jurisdictions still offering significant financial secrecy.\n\nIn other news, a baby was shot dead in a pram in New York City in a shocking incident that has prompted renewed calls for gun control measures. In India, a scorching early summer is raising fears that the cost of water and beer could soar due to severe strain on water resources. Tiger Woods also made headlines after it emerged he told police following a car crash that he had been speaking with the US president at the time of the incident.",
         "sources": [
           {
-            "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
-            "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
+            "title": "Ten years since Panama Papers: What did they reveal, did anything change?",
+            "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
+            "url": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -442,14 +460,26 @@
             "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          },
+          {
+            "title": "Baby shot dead in pram in New York City, police say",
+            "url": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+            "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
           }
         ]
       }
     ],
     "ai": [
       {
-        "headline": "OpenAI Acquires Tech Talk Show TBPN, Raising Editorial Independence Concerns",
-        "body": "OpenAI has acquired TBPN, a popular founder-focused business talk show, in a move that has drawn immediate scrutiny over the blurring of lines between tech companies and the media that covers them. The deal gives OpenAI a direct stake in a platform that regularly discusses AI industry developments, prompting critics to question whether the show can maintain credibility as an independent voice.\n\nWired framed the acquisition pointedly, suggesting OpenAI is effectively 'buying itself positive news coverage.' The deal reflects a broader trend of tech giants seeking to shape their own narratives by controlling media properties rather than simply engaging with them.\n\nThe acquisition comes at a sensitive moment for OpenAI, which is navigating intense public and regulatory scrutiny over its rapid growth and commercial ambitions. Owning a buzzy, founder-friendly media outlet could help the company cultivate a favorable image among startup communities and investors, though it risks undermining trust in both the show and OpenAI itself.",
+        "headline": "OpenAI Acquires Media Property TBPN, Raising Editorial Independence Concerns",
+        "body": "OpenAI has acquired TBPN, a founder-focused business talk show that had built a reputation in tech circles for its candid coverage of the startup ecosystem. The deal marks an unusual move for an AI company into media ownership, blurring the line between subject and storyteller.\n\nCritics and observers have been quick to note the conflict of interest inherent in a major AI company owning a outlet that covers the AI industry. Wired's framing was pointed — the acquisition effectively 'buys itself some positive news coverage,' raising questions about editorial integrity going forward.\n\nThe purchase reflects a broader trend of tech giants seeking to shape their own narratives as scrutiny of AI companies intensifies. Whether TBPN will maintain its independent voice or become a de facto promotional vehicle for OpenAI remains to be seen, but the acquisition has already generated significant skepticism across the tech press.",
         "sources": [
           {
             "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
@@ -478,51 +508,9 @@
         ]
       },
       {
-        "headline": "AI Coding Tools Heat Up as Cursor 3 and Claude Code Extensions Launch",
-        "body": "The AI-assisted coding space saw significant activity this week, with Cursor releasing version 3 of its popular editor and introducing a new agentic experience designed to compete directly with Anthropic's Claude Code and OpenAI's Codex. The update positions Cursor as a full AI agent capable of handling complex, multi-step coding tasks autonomously, rather than simply offering inline suggestions.\n\nMeanwhile, a developer published a glowing review of 'Superpowers,' a third-party extension for Claude Code that significantly expands its capabilities, highlighting the growing ecosystem of tools being built around foundation model APIs. Separately, a guide for running Google's Gemma 4 26B model locally on a Mac mini via Ollama circulated widely, underscoring the increasing accessibility of powerful open-weight models for individual developers.\n\nTogether, these developments illustrate how rapidly the developer tooling landscape is evolving, with competition intensifying across commercial products, open-source models, and community-built extensions. The race to become the default AI coding environment for professional developers is clearly accelerating.",
+        "headline": "AI Privacy Under Fire: Perplexity, Granola, and Proton Face Scrutiny",
+        "body": "A wave of privacy concerns is hitting AI and tech products this week. Perplexity AI is facing a lawsuit alleging that its 'Incognito Mode' is a 'sham,' with plaintiffs claiming the feature does not actually prevent user data from being tracked or retained — a serious allegation for a product that markets itself as a trustworthy search alternative.\n\nSeparately, AI note-taking app Granola has drawn attention after it emerged that notes are publicly viewable by anyone with a link by default. The Verge flagged the issue as a significant privacy risk, particularly given that Granola also uses note content for AI training purposes, compounding concerns about user data exposure.\n\nMeanwhile, a critical analysis of Proton Meet found that the privacy-focused video conferencing tool may not live up to the strong guarantees Proton has implied in its marketing. Together, these stories paint a picture of an industry where privacy claims frequently outpace reality, and users are left to discover the gaps themselves.",
         "sources": [
-          {
-            "title": "Cursor 3",
-            "url": "https://cursor.com/blog/cursor-3",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-            "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "A Rave Review of Superpowers (For Claude Code)",
-            "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-            "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Privacy and Security Failures Plague AI and Tech Platforms This Week",
-        "body": "A cluster of privacy and security stories this week exposed significant vulnerabilities across several prominent tech products. Researchers revealed new Rowhammer attacks capable of exploiting hardware-level memory vulnerabilities in systems running Nvidia GPUs, potentially granting attackers complete control over affected machines — a serious concern given how widely Nvidia hardware is used in AI infrastructure and enterprise environments.\n\nOn the privacy front, Perplexity AI is facing a lawsuit alleging that its 'Incognito Mode' is effectively a sham, failing to provide the data protections users are led to expect. Separately, a public service announcement warned that Granola, an AI-powered note-taking app, shares notes via links that are publicly viewable by default — a setting many users are likely unaware of.\n\nNHS staff in the UK are also pushing back against the Federated Data Platform, refusing to use the system due to ethical concerns about its development by Palantir, the controversial data analytics firm. Taken together, these stories reflect growing unease about how AI and data-driven platforms handle sensitive information, and the gap that often exists between stated privacy policies and actual practice.",
-        "sources": [
-          {
-            "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-            "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-            "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-            "source": "Ars Technica",
-            "lean": null
-          },
           {
             "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
             "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
@@ -536,6 +524,36 @@
             "lean": null
           },
           {
+            "title": "Proton Meet Isn't What They Told You It Was",
+            "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Europe Pushes Back on US Tech Dominance Amid Regulatory and Sovereignty Battles",
+        "body": "European digital sovereignty is under pressure on multiple fronts. The EU has drawn sharp criticism from digital rights advocates after reportedly yielding to US pressure on key digital regulations, with critics calling it a 'fatal decision' that could undermine years of effort to establish independent tech governance standards in Europe.\n\nAt the same time, grassroots and institutional efforts to build European alternatives are gaining momentum. A new resource cataloguing European substitutes for over 120 US applications — from Google to Dropbox — has surfaced, reflecting growing demand for homegrown options. Switzerland, meanwhile, is positioning itself as a hub for semiconductor research, hosting what some are calling the 'CERN of semiconductor research,' a major initiative aimed at reducing European dependence on US and Asian chip supply chains.\n\nOn the healthcare front, NHS staff in the UK are reportedly refusing to use the Federated Data Platform due to ethical concerns about its operator, Palantir, highlighting how distrust of US tech firms is influencing adoption of digital tools even within critical public services.",
+        "sources": [
+          {
+            "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+            "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+            "url": "https://only-eu.eu/en/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Switzerland hosts 'CERN of semiconductor research'",
+            "url": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
             "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
             "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
             "source": "Hacker News",
@@ -544,13 +562,37 @@
         ]
       },
       {
-        "headline": "Google Expands AI Video Tools While Funding New Gas-Powered Data Center",
-        "body": "Google made headlines on two fronts this week, announcing a significant AI upgrade to its Google Vids platform while simultaneously drawing criticism for its energy strategy. The Vids update integrates Google's Veo video generation model and Lyria music model, and introduces directable AI avatars — tools that position Google more aggressively in the AI-generated content space alongside competitors like OpenAI's Sora.\n\nHowever, a separate report revealed that a new Google-funded data center will be powered by a large natural gas plant, complicating the company's public commitments to clean energy. The news arrives as global data on energy capacity showed that 86 percent of newly installed generating capacity worldwide in 2025 was renewable — making Google's gas-backed expansion a notable outlier and a point of contention for environmental advocates.\n\nThe juxtaposition highlights a tension increasingly common across the AI industry: the enormous and growing energy demands of AI infrastructure are pushing companies toward fossil fuel sources even as they tout sustainability goals. As AI workloads scale, the gap between green pledges and operational reality is becoming harder to ignore.",
+        "headline": "New Rowhammer GPU Exploit and Google's AI Video Push Headline Tech Developments",
+        "body": "A newly disclosed Rowhammer attack variant has raised serious security alarms, with researchers demonstrating that the technique can give attackers complete control over machines running Nvidia GPUs. The attack exploits physical memory vulnerabilities and is particularly concerning given how widely Nvidia hardware is deployed in AI data centers and cloud infrastructure, where a compromise could have cascading consequences.\n\nOn the AI product side, Google has upgraded its Vids platform with its Veo video generation and Lyria music models, and introduced directable AI avatars — a significant step toward fully AI-generated video content for business and creative use. The update signals Google's intent to compete aggressively in the generative media space.\n\nElsewhere, the AI coding assistant Cursor released version 3, and a new tool called Apfel is offering Mac users a free, locally-run AI assistant. Google also confirmed funding for a new data center that will be powered by a large natural gas plant, reigniting debate about the energy footprint of AI infrastructure at a time when renewables accounted for 86 percent of newly installed global generating capacity in 2025.",
         "sources": [
+          {
+            "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+            "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+            "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+            "source": "Ars Technica",
+            "lean": null
+          },
           {
             "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
             "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
             "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Cursor 3",
+            "url": "https://cursor.com/blog/cursor-3",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Show HN: Apfel – The free AI already on your Mac",
+            "url": "https://apfel.franzai.com",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -571,7 +613,7 @@
     "btc": [
       {
         "headline": "Bitcoin Sentiment Darkens as Bear Market Signals Mount Ahead of Holiday Weekend",
-        "body": "Bitcoin is entering a holiday weekend in a vulnerable position, with multiple indicators pointing toward deteriorating market conditions. Futures markets have tilted bearish as volatility cools, and with ETF inflows and CME trading set to go offline, the asset lacks the institutional support mechanisms that have historically cushioned downturns.\n\nOn-chain data adds to the concern: the share of Bitcoin supply held in profit has dropped to levels analysts associate with a \"true bear market,\" suggesting a significant portion of holders are now underwater. Major miner Riot reinforced the pressure narrative by disclosing it sold 3,778 BTC during Q1, a sign that producers are liquidating holdings rather than accumulating amid broader market stress.\n\nThe confluence of bearish futures positioning, reduced liquidity over the holiday period, and weakening on-chain fundamentals paints a cautious short-term picture for Bitcoin and the broader crypto market.",
+        "body": "Bitcoin is flashing increasingly bearish signals as multiple market indicators converge on a cautious outlook. On-chain data shows that the share of Bitcoin supply held in profit has dropped to levels analysts associate with a 'true bear market,' suggesting significant unrealized losses across the holder base. Futures markets are also tilting bearish, with volatility cooling and price action consolidating rather than recovering.\n\nAdding to the pressure, Bitcoin is heading into a holiday weekend with reduced institutional liquidity, as both ETF flows and CME futures trading go offline. This leaves the market more exposed to sharp moves with fewer stabilizing forces in play. Miner behavior reinforces the cautious mood — Riot Platforms sold 3,778 BTC during Q1, reflecting a broader strategic shift among miners responding to sustained market pressure.\n\nTogether, these signals paint a picture of a market searching for a floor rather than building toward a recovery, with thin weekend liquidity raising the stakes for any unexpected macro or geopolitical developments.",
         "sources": [
           {
             "title": "Crypto consolidates as volatility cools and futures markets tilt bearish",
@@ -600,9 +642,33 @@
         ]
       },
       {
-        "headline": "Stablecoins Surpass ACH Volume and Circle Launches Wrapped Bitcoin Product",
-        "body": "Stablecoins reached a significant milestone in February, surpassing the monthly transaction volume of the Automated Clearing House — the backbone of traditional US bank transfers — signaling that crypto-native payment rails are maturing into a genuine alternative to legacy financial infrastructure.\n\nBuilding on that momentum, Circle announced the launch of cirBTC, a wrapped Bitcoin token targeting institutional markets. The product puts Circle in direct competition with BitGo's WBTC and Coinbase's cbBTC, intensifying rivalry in the wrapped asset space as institutions seek regulated, familiar entry points into Bitcoin exposure on DeFi and other blockchain platforms.\n\nThe International Monetary Fund weighed in on the broader tokenization trend, acknowledging that converting real-world assets to blockchain-based tokens improves financial efficiency but introduces new risks, including liquidity mismatches and operational vulnerabilities. Together, these developments illustrate a financial ecosystem rapidly integrating blockchain rails while regulators and institutions grapple with the accompanying risk landscape.",
+        "headline": "DeFi Security Under Scrutiny as Hackers Steal $169M and Drift Pursues Exploiter",
+        "body": "Decentralized finance continued to grapple with serious security vulnerabilities in the first quarter of 2026, with hackers stealing $169 million across 34 DeFi protocols, according to data from DefiLlama. While the figure represents a decline compared to prior periods, it underscores that exploits remain a persistent and costly threat to the ecosystem.\n\nIn a notable development, Drift Protocol took the unusual step of sending an on-chain message directly to wallets linked to a $280 million exploit, attempting to open a dialogue with the attacker. The tactic, increasingly used in high-profile hacks, reflects the limited enforcement options available to DeFi teams and their growing reliance on public pressure and blockchain transparency to recover funds.\n\nThe string of incidents highlights ongoing challenges around smart contract security and the difficulty of protecting user funds in permissionless environments, even as the industry matures and security auditing practices improve.",
         "sources": [
+          {
+            "title": "Drift sends onchain message to wallets tied to $280M exploit",
+            "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Crypto hackers steal $169M from 34 DeFi protocols in Q1: DefiLlama",
+            "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Stablecoins, Tokenization, and Wrapped Bitcoin Signal Maturing Crypto Infrastructure",
+        "body": "A cluster of developments this week points to crypto infrastructure quietly reaching new levels of institutional relevance. Stablecoins surpassed automated clearing house (ACH) transaction volume in February, a milestone that signals their growing role as a practical payments rail rather than a speculative asset. The figure underscores how digital dollars are beginning to compete directly with legacy financial plumbing.\n\nOn the tokenization front, the IMF acknowledged that tokenizing financial assets improves efficiency and settlement but warned it also introduces new risks, including liquidity mismatches and potential systemic vulnerabilities. Meanwhile, Circle announced plans to launch cirBTC, a wrapped Bitcoin product targeting institutional markets and positioning itself as a competitor to existing offerings from BitGo and Coinbase.\n\nRounding out the infrastructure story, South Korean brokerage Korea Investment & Securities is reportedly eyeing a stake in crypto exchange Coinone, reflecting continued traditional finance interest in gaining direct crypto market exposure. Collectively, these moves suggest the boundary between conventional finance and digital assets is eroding steadily.",
+        "sources": [
+          {
+            "title": "South Korean brokerage Korea Investment & Securities eyes Coinone stake: Report",
+            "url": "https://cointelegraph.com/news/korea-investment-securities-coinone-stake-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Tokenization makes finance more efficient but introduces risks: IMF",
             "url": "https://cointelegraph.com/news/imf-tokenization-improves-finance-but-introduces-other-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -624,31 +690,13 @@
         ]
       },
       {
-        "headline": "DeFi Hacks Cost $169M in Q1 as Quantum Threats Spur New Blockchain Security Push",
-        "body": "Decentralized finance suffered $169 million in losses across 34 protocol exploits during the first quarter of 2026, according to DefiLlama data. While the figure represents a decline from prior periods, it underscores that security vulnerabilities remain a persistent and costly challenge for the sector as it scales.\n\nLooking further ahead, a different class of threat is drawing attention: quantum computing. Naoris Protocol launched what it describes as a quantum-resistant blockchain, positioning itself as a hedge against so-called \"Q-Day\" — the point at which sufficiently powerful quantum computers could break the cryptographic foundations securing Bitcoin and Ethereum. The launch reflects growing urgency among developers to future-proof blockchain infrastructure before that threshold is reached.\n\nTaken together, the near-term hacking losses and the longer-horizon quantum threat highlight that security — both today and tomorrow — remains one of the most critical challenges facing the crypto industry's continued growth and institutional adoption.",
+        "headline": "Quantum Threats, AI Payments, and a New Crypto-Friendly Interim AG Shape Policy Landscape",
+        "body": "The longer-term technological and regulatory backdrop for crypto shifted on several fronts. Naoris Protocol launched what it describes as a quantum-resistant blockchain, directly addressing the so-called 'Q-Day' threat — the point at which sufficiently powerful quantum computers could break the cryptographic foundations underpinning Bitcoin and Ethereum. The launch signals that quantum preparedness is moving from theoretical concern to active development.\n\nOn the AI and payments frontier, a coalition of major technology firms backed the new x402 Foundation, an initiative designed to advance agentic AI adoption through standardized payment protocols. The project builds on crypto payment rails to enable autonomous AI agents to transact, pointing to a convergence of AI and blockchain infrastructure.\n\nIn Washington, Todd Blanche — the author of the DOJ's crypto enforcement memo that reshaped how the department approaches digital asset cases — has been named interim Attorney General. His elevation is likely to be closely watched by the industry, given his direct role in crafting enforcement policy that many in crypto viewed as a significant shift toward a more measured regulatory posture.",
         "sources": [
           {
             "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
             "url": "https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Crypto hackers steal $169M from 34 DeFi protocols in Q1: DefiLlama",
-            "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Regulatory and Institutional Shifts Reshape Crypto's Political and Market Landscape",
-        "body": "The regulatory environment for crypto in the United States shifted notably with Todd Blanche, the author of the Department of Justice's crypto enforcement memo, being named interim Attorney General. Blanche's memo had previously signaled a more restrained federal approach to prosecuting crypto-related cases, and his elevation to the top law enforcement role could have significant implications for how aggressively the DOJ pursues future enforcement actions in the space.\n\nOn the institutional side, South Korean brokerage Korea Investment & Securities is reportedly exploring an acquisition of a stake in crypto exchange Coinone, reflecting continued appetite among traditional financial firms in Asia to gain direct exposure to digital asset infrastructure.\n\nMeanwhile, Big Tech companies have backed the newly formed x402 Foundation, aimed at advancing agentic AI adoption using blockchain-based payment protocols. The initiative signals growing convergence between artificial intelligence and crypto infrastructure, with major technology players betting that autonomous AI agents will increasingly require programmable, machine-readable payment rails.",
-        "sources": [
-          {
-            "title": "South Korean brokerage Korea Investment & Securities eyes Coinone stake: Report",
-            "url": "https://cointelegraph.com/news/korea-investment-securities-coinone-stake-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           },
           {
@@ -672,18 +720,18 @@
       "name": "Manti (Turkish Lamb Dumplings with Yogurt & Chilli Butter)",
       "cuisine": "Turkish / Central Asian",
       "description": "Tiny hand-pinched dumplings filled with spiced minced lamb, drowned in garlicky yogurt and a sizzling paprika-butter sauce — a dish where the contrast of hot and cold is the whole point.",
-      "tip": "Make the dumplings as small as you can manage — tradition holds that a good cook fits 40 in a single spoon, and the smaller they are, the better the sauce-to-filling ratio."
+      "tip": "Make the dumplings as small as you can manage; tradition holds that a proper manti should fit ten in a spoon, and the smaller they are the better the sauce-to-filling ratio."
     },
     "exercise": {
       "name": "Friday Kettlebell Complex",
       "duration": "35 minutes",
-      "equipment": "One kettlebell (12–20 kg depending on level)",
-      "description": "Warm up for 5 minutes with hip circles and arm swings, then perform 5 rounds of: 5 kettlebell swings, 5 cleans per side, 5 presses per side, 5 goblet squats, and 5 renegade rows per side. Rest 90 seconds between rounds. Finish with 5 minutes of slow stretching. The complex format keeps your heart rate elevated while building full-body strength — a perfect end-of-week session."
+      "equipment": "One kettlebell (12–24 kg depending on level)",
+      "description": "Warm up with 5 minutes of hip circles, halos, and goblet squats. Then perform 5 rounds of a 5-move complex without putting the bell down: 5 deadlifts, 5 Romanian deadlifts, 5 swings, 5 cleans, 5 press — each side. Rest 90 seconds between rounds. Finish with 5 minutes of slow Turkish get-up practice on each side. Hits the whole body and leaves a satisfying end-of-week fatigue."
     },
     "learn": {
       "topic": "The Antikythera Mechanism — the world's first analogue computer",
-      "description": "Recovered from a Roman-era shipwreck off the Greek island of Antikythera in 1901, this 2,100-year-old bronze device could predict solar and lunar eclipses, track the positions of the five known planets, and calculate the four-year Olympic cycle — all via an intricate system of at least 30 meshing gears. Recent UCL research (2021) produced the first complete working model of its front face, revealing sophistication that wouldn't be matched in Europe for over a millennium.",
-      "why": "It fundamentally disrupts the assumption that complex mechanical computation was a product of the Industrial Revolution, and new X-ray tomography continues to reveal inscriptions that may unlock further functions — the story is still actively unfolding."
+      "description": "Pulled from a Roman-era shipwreck off the Greek island of Antikythera in 1901, this corroded bronze device from around 100 BCE turns out to be a hand-cranked orrery that predicted solar and lunar eclipses, tracked the Metonic calendar cycle, and modelled the irregular motion of the Moon using a pin-and-slot epicyclic gear train — a mechanical concept not seen again in Europe for over a thousand years. Recent X-ray tomography and the 2021 UCL reconstruction revealed it likely also displayed all five planets known to antiquity.",
+      "why": "It fundamentally rewrites assumptions about ancient Greek technological sophistication, and the ongoing effort to fully decode it — researchers still debate several gear functions — is a live, genuinely open puzzle sitting at the intersection of archaeology, mechanical engineering, and the history of science."
     }
   }
 }
