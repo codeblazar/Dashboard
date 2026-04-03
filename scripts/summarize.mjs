@@ -89,23 +89,30 @@ async function summariseCategory(category, articles) {
     .join('\n\n')
 
   const balanceNote = config.balanced
-    ? 'IMPORTANT: This is a politically sensitive topic. Present all political perspectives fairly and with equal weight. Do not favour any side.'
+    ? 'This is political news. Give equal weight to all sides. Do not favour left or right. Where views differ, say so plainly.'
     : ''
 
-  const prompt = `You are writing a news briefing on ${config.prompt}
+  const prompt = `You are writing a daily news briefing on ${config.prompt}
 
-Here are the articles published in the past 24 hours:
+Articles from the past 24 hours:
 
 ${articleList}
 
 ${balanceNote}
 
-Group these articles into 2–4 major topics or stories. For each topic:
-- Write a clear, informative headline (max 15 words)
-- Write a well-structured summary (3–4 paragraphs, ~200 words total). Synthesise across sources — do not just repeat headlines.
-- Include which article numbers you used as sources
+Group into 2-4 major stories. For each one write:
+- A sharp headline (under 12 words)
+- A tight summary in 2-3 short paragraphs, roughly 120-150 words total
 
-Return ONLY valid JSON in this exact format:
+Writing rules - follow these carefully:
+- Write like a sharp journalist, not a press release
+- Use plain hyphens (-) instead of em dashes or en dashes. Never use -- or - - either. Just rewrite the sentence if needed.
+- Mix short and long sentences deliberately. A short one lands harder after a longer one.
+- Cut anything that doesn't add information. No throat-clearing, no "it is worth noting that", no "in a significant development"
+- Synthesise across sources. Do not just restate headlines.
+- Use active voice. Keep verbs strong.
+
+Return ONLY valid JSON:
 {
   "topics": [
     {
@@ -134,15 +141,15 @@ async function generateSuggestions() {
     weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
   })
 
-  const prompt = `Today is ${today}. Generate three daily suggestions for a personal dashboard:
+  const prompt = `Today is ${today}. Generate three suggestions for a personal dashboard.
 
-1. FOOD: An interesting, specific dish to cook or try today. Include the cuisine, a one-line description of what makes it special, and one key tip.
+Be specific. Be interesting. Avoid the obvious.
 
-2. EXERCISE: A specific workout for today. Include duration, what equipment is needed (if any), and a brief description of the session.
+1. FOOD: A dish worth cooking or trying today. Give it a name, one-line description, cuisine type, and one practical tip.
 
-3. LEARN: One genuinely fascinating topic, article, concept, or rabbit hole worth exploring today. Could be science, history, philosophy, technology, culture — anything intellectually stimulating. Include why it's interesting right now.
+2. EXERCISE: A specific session for today. Name it, give duration, list any equipment needed, and describe it in one sentence.
 
-Vary suggestions day to day — think creatively beyond obvious choices.
+3. LEARN: One genuinely interesting topic, concept, or rabbit hole. Could be science, history, philosophy, tech, culture - anything. Write 1-2 sentences on what it is and why it's worth an hour of your time today.
 
 Return ONLY valid JSON:
 {

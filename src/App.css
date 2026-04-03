@@ -5,11 +5,39 @@
   --surface-2:    #222;
   --border:       #2a2a2a;
   --text:         #e2e2e2;
+  --text-body:    #c8c8c8;
   --text-muted:   #777;
   --text-link:    #5aabff;
   --accent:       #4a9eff;
   --radius:       10px;
   --font:         -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Light mode — explicit [data-theme="light"] or system preference */
+[data-theme="light"] {
+  --bg:           #f4f4f5;
+  --surface:      #ffffff;
+  --surface-2:    #f0f0f1;
+  --border:       #e0e0e2;
+  --text:         #111112;
+  --text-body:    #333335;
+  --text-muted:   #888;
+  --text-link:    #1a6fc4;
+  --accent:       #1a6fc4;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg:           #f4f4f5;
+    --surface:      #ffffff;
+    --surface-2:    #f0f0f1;
+    --border:       #e0e0e2;
+    --text:         #111112;
+    --text-body:    #333335;
+    --text-muted:   #888;
+    --text-link:    #1a6fc4;
+    --accent:       #1a6fc4;
+  }
 }
 
 /* ─── Reset & Base ───────────────────────────────────────────────── */
@@ -53,8 +81,25 @@ a:hover { text-decoration: underline; }
 }
 
 .header-left { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+.header-right { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
 .header-datetime { color: var(--text-muted); font-size: 0.82rem; }
 .feeds-age { color: var(--text-muted); font-size: 0.78rem; }
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  border-radius: 6px;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--text-muted); }
 
 /* ─── Weather Bar ────────────────────────────────────────────────── */
 .weather-bar {
@@ -184,7 +229,7 @@ a:hover { text-decoration: underline; }
 
 .summary-body {
   font-size: 0.84rem;
-  color: #c8c8c8;
+  color: var(--text-body);
   line-height: 1.65;
   display: flex;
   flex-direction: column;

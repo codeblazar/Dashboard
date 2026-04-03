@@ -31,10 +31,13 @@ export default function App() {
         <div className="error-banner">Could not load briefing: {error}</div>
       )}
       <footer className="site-footer">
-        Dashboard · AI briefing by Claude Sonnet via OpenRouter · Weather by Open-Meteo ·{' '}
-        <a href="https://github.com/codeblazar/Dashboard" target="_blank" rel="noopener noreferrer">
-          GitHub
-        </a>
+        Dashboard · AI Briefing by{' '}
+        <a href="https://openrouter.ai" target="_blank" rel="noopener noreferrer">OpenRouter</a>
+        {' '}· Weather by{' '}
+        <a href="https://open-meteo.com" target="_blank" rel="noopener noreferrer">Open-Meteo</a>
+        {' '}·{' '}
+        <a href="https://github.com/codeblazar/Dashboard" target="_blank" rel="noopener noreferrer">GitHub</a>
+        {' '}· © Codeblazar
       </footer>
     </div>
   )
