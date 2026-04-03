@@ -59,8 +59,11 @@ async function callOpenRouter(messages) {
   }
 
   const data = await res.json()
-  const content = data.choices?.[0]?.message?.content
+  let content = data.choices?.[0]?.message?.content
   if (!content) throw new Error('Empty response from API')
+
+  // Strip markdown code fences if model wraps response despite json_object format
+  content = content.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim()
 
   try {
     return JSON.parse(content)
