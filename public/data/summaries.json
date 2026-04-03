@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-03T19:16:59.289Z",
+  "generatedAt": "2026-04-03T20:10:20.748Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Fighter Jet Shot Down Over Iran, Crew Missing",
-        "body": "Iran shot down a US F-15 during ongoing military operations, with one crew member rescued and a search underway for a second. The incident marks a sharp escalation in US-Iran tensions and raises immediate questions about the scope and exit strategy of American military involvement in the region.\n\nA new survey finds roughly half of Americans expect Middle East stability to worsen. Prominent voices across the political spectrum, including podcasters Joe Rogan and Theo Von, have publicly criticised the decision to strike Iran. An opinion piece in The Hill warns that a more dangerous, militarised junta is consolidating power from Iran's collapse, complicating any post-conflict settlement.",
+        "headline": "U.S. Fighter Jet Shot Down Over Iran, One Crew Member Missing",
+        "body": "A U.S. fighter jet was shot down over Iran, with one crew member rescued and a search underway for a second. The incident marks a sharp escalation in tensions with Tehran and comes as Trump's wartime rhetoric has drawn scrutiny for departing from the measured language used by past presidents. Critics argue the tone raises the risk of miscalculation; supporters say it projects strength.\n\nNPR notes Trump's framing of military action differs from predecessors in scope and directness. The downing of the aircraft puts that rhetoric to a concrete test, with real consequences for personnel and diplomacy in a region where roughly half of Americans already expect stability to worsen, according to a recent survey.",
         "sources": [
+          {
+            "title": "How Trump's wartime rhetoric differs from past presidents and why that matters",
+            "url": "https://www.npr.org/2026/04/03/nx-s1-5771820/how-trumps-wartime-rhetoric-differs-from-past-presidents-and-why-that-matters",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "President Trump's rocky week at home and abroad",
+            "url": "https://www.npr.org/2026/04/03/nx-s1-5771618/president-trumps-rocky-week-at-home-and-abroad",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "About half expect worsening stability in Middle East: Survey",
             "url": "https://thehill.com/blogs/in-the-know/5815308-iranian-civilians-casualties/",
@@ -18,36 +30,42 @@
             "url": "https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Live updates: US rescues one F-15 crew member after Iran downs jet, searches for second",
-            "url": "https://thehill.com/homenews/administration/5813088-live-updates-trump-iran-doj-2027-budget/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "A more dangerous, repressive junta is arising out of Iran’s ashes",
-            "url": "https://thehill.com/opinion/national-security/5813324-a-more-dangerous-repressive-junta-is-arising-out-of-irans-ashes/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Rogan, Theo Von slam Trump’s move to attack Iran",
-            "url": "https://thehill.com/homenews/administration/5815051-rogan-von-slam-trump-iran/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Budget Sparks Fights Over Spending, Prisons, and Voting",
-        "body": "The White House released its 2027 budget proposal, drawing immediate Democratic fire. House Minority Leader Hakeem Jeffries called it an attack on ordinary Americans' finances, while Democrats broadly labelled it 'bleak and unacceptable.' The budget eliminates LIHEAP, the low-income heating assistance programme, and proposes a $10 billion fund for Washington DC construction projects.\n\nTrump also seeks $152 million to reopen Alcatraz as a high-security federal prison, and issued an executive order targeting mail-in voting rules. Separately, Illinois Governor Pritzker subpoenaed Trump administration officials over ICE enforcement actions. The White House dismissed the move as a political stunt. About one in four Americans now hold negative views of both major parties.",
+        "headline": "Justice Alito Hospitalised in March; Court Kept It Quiet",
+        "body": "The Supreme Court confirmed Justice Samuel Alito fell ill at a March 20 event and was treated for dehydration at a hospital. The court did not disclose the incident publicly at the time. Alito has since returned to his duties.\n\nThe delayed disclosure has drawn attention given the court's role in high-stakes cases currently before it. The court offered no explanation for why the hospitalisation was not announced sooner. Alito's health had not previously been reported as a concern.",
         "sources": [
           {
-            "title": "Pritzker calls on Trump officials to testify over ICE crackdown, White House blasts move as ‘political stunt’",
-            "url": "https://www.foxnews.com/politics/pritzker-calls-trump-officials-testify-ice-crackdown-white-house-blasts-move-political-stunt",
+            "title": "Justice Alito ‘felt ill’ at March event, was examined by doctor, court says",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/supreme-court-justice-alito-sick-doctor/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Supreme Court confirms Alito fell ill at March event",
+            "url": "https://thehill.com/regulation/court-battles/5815285-supreme-court-alito/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Supreme Court Justice Alito treated for dehydration at hospital in previously undisclosed March 20 incident",
+            "url": "https://www.foxnews.com/politics/supreme-court-justice-alito-treated-dehydration-hospital-previously-undisclosed-march-20-incident",
             "source": "Fox News",
             "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Budget Targets TSA, Alcatraz, and Blue-State Fraud",
+        "body": "Trump's budget proposal would cut TSA funding and require small airports to privatise security screening, raising concerns about wait times and safety standards at regional hubs. Democrats called the broader budget request bleak and unacceptable, pointing to cuts across multiple agencies. Republicans framed the reductions as necessary fiscal discipline.\n\nThe same budget seeks $152 million to reopen Alcatraz as a high-security federal prison, a proposal Trump has championed publicly. Separately, Vice President Vance has been designated to lead a fraud task force targeting what the White House describes as taxpayer theft concentrated in Democratic-led states. Critics called that framing politically motivated.",
+        "sources": [
+          {
+            "title": "Trump budget would cut TSA funding, require privatization at small airports",
+            "url": "https://thehill.com/policy/transportation/5815507-trump-budget-proposal-tsa-funding/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Trump seeks $152M to rebuild Alcatraz as ‘state-of-the-art secure prison’",
@@ -56,10 +74,10 @@
             "lean": "center"
           },
           {
-            "title": "Trump issues order attempting to change rules for mail-in voting",
-            "url": "https://www.washingtonpost.com/politics/2026/03/31/trump-mail-voting-executive-order/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Airport security: Are TSA wait times still long? Here’s how to check",
+            "url": "https://thehill.com/policy/transportation/5815347-airport-security-tsa-wait-times-dhs-funding/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Democrats fume at White House budget request: ‘Bleak and unacceptable’",
@@ -68,35 +86,23 @@
             "lean": "center"
           },
           {
-            "title": "5 things to know about Trump’s 2027 defense budget proposal",
-            "url": "https://thehill.com/policy/defense/5815032-trump-2027-defense-budget-request/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Jeffries: ‘What Donald Trump has done is decimate the bank accounts of the American people’",
-            "url": "https://thehill.com/homenews/house/5815068-jeffries-blasts-trump-policies/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump proposes $10B fund for D.C. construction, beautification projects",
-            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-budget-dc-beautification/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Trump re-ups push to eliminate low-income heating assistance program LIHEAP",
-            "url": "https://thehill.com/policy/energy-environment/5815067-trump-budget-liheap-energy-prices/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Vance tapped as ‘fraud czar’ as Trump targets blue states over taxpayer theft",
+            "url": "https://www.foxnews.com/politics/vance-tapped-fraud-czar-trump-targets-blue-states-over-taxpayer-theft",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "DOJ Shakeup, FBI Breach, and Supreme Court Health Scare",
-        "body": "Todd Blanche, who previously defended Trump in criminal proceedings, has taken over as the Justice Department's top official following Pam Bondi's departure as Attorney General. Fox News reports several contenders are already being floated as her permanent replacement. A judge also blocked grand jury subpoenas targeting Federal Reserve Chair Jerome Powell, a significant check on executive pressure over monetary policy.\n\nThe FBI notified Congress of a major data breach affecting a surveillance system. Justice Samuel Alito was hospitalised for dehydration following a March event, a fact the Supreme Court confirmed only after it became public. Bipartisan senators are separately probing meetings between US officials and a Kremlin-linked delegation.",
+        "headline": "DOJ Shake-Up, Epstein Files, and ActBlue Under Fire",
+        "body": "Todd Blanche, Trump's former personal attorney, has taken over as the acting head of the Justice Department following Pam Bondi's departure as attorney general. The transition puts a loyalist in one of the most powerful legal offices in the country at a moment of intense scrutiny over DOJ priorities. Fox News reports several contenders are being considered to replace Bondi permanently.\n\nOn Capitol Hill, Rep. Nancy Mace is pressing for Bondi to testify about the Epstein files before she leaves office, saying she is not backing down. Separately, Democratic fundraising platform ActBlue faces allegations it misled Congress about foreign donations, a charge the platform disputes. The FBI also notified Congress of a major data breach in a surveillance system.",
         "sources": [
+          {
+            "title": "Mace ‘not backing away’ from Bondi testifying on Epstein",
+            "url": "https://thehill.com/homenews/house/5815527-pam-bondi-epstein-files-testimony-nancy-mace/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Todd Blanche takes on DOJ’s top job and the burden of Trump’s expectations",
             "url": "https://www.washingtonpost.com/national-security/2026/04/03/todd-blanche-doj-bondi-trump/",
@@ -116,69 +122,21 @@
             "lean": "right"
           },
           {
-            "title": "Bipartisan senators probe Kremlin-linked delegation's meetings with US officials",
-            "url": "https://www.foxnews.com/politics/bipartisan-senators-probe-kremlin-linked-delegations-meetings-us-officials",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Supreme Court confirms Alito fell ill at March event",
-            "url": "https://thehill.com/regulation/court-battles/5815285-supreme-court-alito/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Supreme Court Justice Alito treated for dehydration at hospital in previously undisclosed March 20 incident",
-            "url": "https://www.foxnews.com/politics/supreme-court-justice-alito-treated-dehydration-hospital-previously-undisclosed-march-20-incident",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Judge won’t reconsider decision blocking grand jury subpoenas of Fed, Jerome Powell",
-            "url": "https://thehill.com/regulation/court-battles/5815125-judge-boasberg-rules-against-powell-subpoenas/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Immigration Arrests, ActBlue Allegations, and Army Leadership Change",
-        "body": "Immigration officers detained the president of a Milwaukee mosque, adding to a series of high-profile ICE arrests that have drawn legal challenges and protests. The detention follows a pattern of enforcement actions in community institutions that critics say create a climate of fear, while supporters argue they reflect consistent application of immigration law.\n\nOn the political funding front, Democratic fundraising platform ActBlue faces allegations it misled Congress about the origins of foreign donations, a charge that could complicate Democratic fundraising ahead of midterms. Christopher LaNeve is set to become acting Army Chief of Staff amid ongoing military leadership transitions. Senator Fetterman requested heightened security for the NFL Draft in Pittsburgh.",
-        "sources": [
-          {
-            "title": "Immigration officers detain Wisconsin mosque president",
-            "url": "https://thehill.com/immigration/5815156-milwaukee-mosque-president-arrest/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
             "title": "Dem fundraising giant ActBlue rocked by allegations it misled Congress about foreign donations",
             "url": "https://www.foxnews.com/politics/dem-fundraising-giant-actblue-rocked-allegations-misled-congress-about-foreign-donations",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Fetterman asks for heightened security for NFL draft in Pittsburgh",
-            "url": "https://thehill.com/homenews/senate/5815160-john-fetterman-pittsburgh-security-nfl-draft/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Who is Christopher LaNeve, set to become acting chief of staff of the US Army",
-            "url": "https://thehill.com/homenews/5815101-army-christopher-laneve-acting-chief-staff/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "US-Iran War Forces Albanese to Rethink Australia's Strategic Position",
-        "body": "A US fighter jet has been downed over Iran, with its crew member rescued, as the conflict expands well beyond the Strait of Hormuz. The war is reshaping global energy flows and forcing allied governments to confront new security realities.\n\nFor Anthony Albanese, the conflict is acting as a catalyst. Analysts argue it has sharpened his focus on defence and economic reform, with questions mounting about whether the government will translate that urgency into concrete policy. Energy Minister Chris Bowen is already fielding pressure over a domestic fuel crisis tied to the broader instability.\n\nThe stakes are high heading into an election cycle. Whether Albanese moves toward what some are calling ambitious structural reform - or defaults to caution - will define the government's final pitch to voters.",
+        "headline": "Iran War Reshapes Australian Politics and Global Alliances",
+        "body": "The US-Iran conflict is rippling through Australian domestic politics, with Prime Minister Albanese facing pressure to respond to a rapidly shifting strategic environment. The Guardian reports the crisis has prompted Albanese to consider bolder economic reforms, while world leaders including Macron and Merz are growing openly impatient with Trump's handling of the war.\n\nThe conflict's economic fallout is landing hard in Australia's region. The Philippines is sliding toward an energy crisis as gas supplies tighten, and a 'regime change' in the Strait of Hormuz has left 20,000 sailors stranded at sea, threatening global shipping lanes. Energy Minister Chris Bowen is under pressure to explain the domestic fuel impact.\n\nOn tax, both Albanese and opposition leader Taylor are scrambling to match voter expectations, with even Liberal MP Andrew Hastie suggesting miners could pay more.",
         "sources": [
           {
-            "title": "The war is no longer about just the Strait of Hormuz",
+            "title": "World loses patience with Trump as war becomes about more than Iran",
             "url": "https://www.abc.net.au/news/2026-04-04/iran-volodymyr-zelenskyy-gulf-strait-of-hormuz-macron-merz/106511122",
             "source": "ABC Australia",
             "lean": "center-left"
@@ -190,8 +148,26 @@
             "lean": "center-left"
           },
           {
+            "title": "How the Iran war is pushing US ally the Philippines into economic crisis",
+            "url": "https://www.abc.net.au/news/2026-04-04/philippines-south-east-asia-gas-crisis/106530030",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "'Regime change' in the Strait of Hormuz sees 20,000 sailors stranded at sea",
+            "url": "https://www.abc.net.au/news/2026-04-04/strait-of-hormuz-oil-sailors-stranded-first-supertankers/106525462",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
             "title": "Energy minister Chris Bowen on the impact of the fuel crisis - podcast",
             "url": "https://www.theguardian.com/australia-news/audio/2026/apr/04/fuel-crisis-australia-full-story-podcast",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Taxing times for Albanese and Taylor as parties seek to match voter expectations",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/04/taxing-times-for-albanese-and-taylor-alike-as-even-hastie-thinks-miners-could-pay-more",
             "source": "Guardian AU",
             "lean": "left"
           },
@@ -204,32 +180,44 @@
         ]
       },
       {
-        "headline": "Tax Policy Divides Parties as Election Pressure Builds",
-        "body": "Both Labor and the Coalition are scrambling to match voter expectations on tax, with the debate sharpening around whether miners should pay more. Notably, Liberal MP Andrew Hastie has signalled openness to increased resource sector contributions - a crack in traditional Coalition orthodoxy.\n\nAlbanese and opposition leader Angus Taylor are each trying to occupy credible ground on cost-of-living without alarming business or alienating workers. The gap between the parties is narrowing in rhetoric, even as their underlying positions remain distinct.\n\nThe political risk is real for both sides. Labor faces pressure to show it will act on inequality, while the Coalition must avoid looking like it protects vested interests. Neither has yet offered a fully costed position.",
+        "headline": "US Military Expansion in Pacific Divides Local Communities",
+        "body": "Guam is at the centre of a deepening debate over America's military build-up in the Pacific. Residents are split - some see the expanded US presence as essential security, others view it as a threat to sovereignty and daily life. The tension reflects broader anxiety across the region as great-power competition intensifies.\n\nThe story sits alongside Australia's own strategic recalibration, with the Iran war accelerating questions about defence posture, alliance obligations, and economic resilience. How far Australia aligns with US military priorities in the Pacific remains a live political question with no clear consensus.",
         "sources": [
           {
-            "title": "Taxing times for Albanese and Taylor as parties seek to match voter expectations",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/04/taxing-times-for-albanese-and-taylor-alike-as-even-hastie-thinks-miners-could-pay-more",
+            "title": "Strategically critical Pacific island divided over growing US military presence",
+            "url": "https://www.abc.net.au/news/2026-04-04/us-military-expansion-threat-or-saviour-in-guam/106516124",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "World loses patience with Trump as war becomes about more than Iran",
+            "url": "https://www.abc.net.au/news/2026-04-04/iran-volodymyr-zelenskyy-gulf-strait-of-hormuz-macron-merz/106511122",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump’s Iran war has woken Albanese up to a new reality. Will it spur him towards ‘ambitious’ reforms?",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/04/trumps-iran-war-has-woken-albanese-up-to-a-new-reality-will-it-spur-him-towards-ambitious-reforms",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Indigenous Leadership Central to Native Foods Industry Growth",
-        "body": "Australia's native foods sector is growing but remains constrained by a structural problem - First Nations communities are often suppliers rather than owners. Industry advocates argue that without Indigenous leadership at the business level, the sector cannot reach its potential.\n\nThe argument is not just ethical. Proponents say story, cultural knowledge and community trust are core commercial assets in this market, not add-ons. Products without that grounding struggle to compete internationally.\n\nThe federal government has yet to outline a clear policy framework for expanding Indigenous ownership in the sector. Advocates are pushing for procurement rules and investment structures that shift control, not just consultation.",
+        "headline": "Cyclone Narelle Leaves Trail of Destruction Across Australia",
+        "body": "Cyclone Narelle carved a damaging path across Australia, with ABC publishing detailed visual documentation of the storm's progression. The coverage pieced together the cyclone's track frame by frame, illustrating the scale of destruction left in its wake.\n\nThe event adds pressure on governments managing compounding crises - a fuel shortage, global instability, and now a significant natural disaster. Emergency response and infrastructure resilience will face scrutiny in the aftermath.",
         "sources": [
           {
-            "title": "Is Australia’s native foods industry missing an ingredient? ‘It’s not just about products, it’s about people, story and respect’",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/04/australian-native-foods-indigenous-leadership-first-nations-business-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "The destructive path of Cyclone Narelle, pieced together frame by frame",
+            "url": "https://www.abc.net.au/news/2026-04-04/cyclone-narelle-destructive-path-across-australia-pictures-video/106513492",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Queensland Man Jailed 15 Years for Live-Streamed Child Abuse",
-        "body": "A Queensland man from North Lakes has been sentenced to 15 years in prison after live-streaming child sexual abuse. The case highlights the ongoing challenge authorities face in prosecuting online abuse that crosses international platforms and jurisdictions.\n\nThe sentence reflects a hardening judicial stance on offences involving live distribution, which prosecutors treat as aggravated due to the real-time exploitation of victims. The case drew significant law enforcement resources.\n\nChild protection advocates say sentencing alone is insufficient without stronger platform accountability and faster cross-border cooperation between agencies.",
+        "headline": "Queensland Man Jailed for Streaming Child Abuse Online",
+        "body": "A Queensland man has been sentenced to 15 years in prison after live-streaming child sexual abuse. The North Lakes man was convicted on multiple child abuse offences in a case that drew attention to the ongoing threat of online exploitation.\n\nThe sentence reflects courts' increasingly firm approach to crimes involving the live distribution of abuse material, which investigators say complicates detection and intervention compared to static offending.",
         "sources": [
           {
             "title": "Queensland man jailed for 15 years after live-streaming child abuse",
@@ -242,13 +230,19 @@
     ],
     "world": [
       {
-        "headline": "US Fighter Jet Shot Down as Iran War Escalates",
-        "body": "Iranian forces shot down a US fighter jet and launched a search for its crew, releasing footage of American aircraft combing the area. A Red Crescent supply warehouse in southwest Iran was also struck, and drone footage showed an Israeli factory damaged by Iranian missile debris - widening the conflict's footprint across the region.\n\nA French-owned container ship became the first to transit the Strait of Hormuz since the war began, a closely watched test of whether commercial shipping can resume through the critical chokepoint. Trump, meanwhile, told reporters the US could eventually \"take the oil\" in Iran, while separately requesting a record $1.5 trillion defence budget from Congress - the largest in American history.",
+        "headline": "US-Iran War Escalates as Jets Downed, UAE Attacked",
+        "body": "Iran claims it shot down two US fighter jets, with search operations underway for at least one pilot still missing. Tehran released footage of US aircraft conducting search missions over Iranian territory, while drone footage showed an Israeli factory damaged by Iranian missile debris. The conflict is spreading regionally. A strike on the UAE's Habshan gas facility killed at least one person, and the WHO reports more than 20 attacks on Iranian healthcare facilities since March 1, including a Red Crescent supply warehouse. A French-owned container ship became the first commercial vessel to transit the Strait of Hormuz since the war began, a closely watched signal for global shipping. Trump, meanwhile, suggested the US could eventually \"take the oil\" in Iran.",
         "sources": [
           {
-            "title": "French-owned ship passes through Strait of Hormuz",
-            "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
+            "url": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
+            "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -270,19 +264,7 @@
             "lean": null
           },
           {
-            "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
-            "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-            "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Iranian forces launch search for crew of downed US fighter jet",
+            "title": "Iran says it downed two US jets as search for one pilot continues",
             "url": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -304,30 +286,42 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-release-videos-of-us-aircraft-searching-for-pilots-shot-down-in-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Trump Seeks $1.5 Trillion Defence Budget Amid Legal Battles",
+        "body": "The White House submitted a record $1.5 trillion defence budget request to Congress, pairing the military spending surge with deep cuts to domestic programmes. The proposal arrives as the administration fights legal challenges on multiple fronts. Two dozen Democrat-led states filed suit over Trump's restrictions on mail-in voting, and a federal judge upheld a ruling tossing subpoenas targeting Federal Reserve Chair Jerome Powell, blocking attempts to pressure the central bank. The budget request reflects a wartime posture, coming as US forces are actively engaged in Iran and military spending faces intense scrutiny on Capitol Hill.",
+        "sources": [
           {
-            "title": "US jobs surge unexpectedly in March despite Iran war",
-            "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
+            "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-            "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
+            "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Pete Hegseth asks US Army's top general to step down",
-            "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+            "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+            "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Sudan Hospital Bombed; Israel Threatens Lebanon Infrastructure",
-        "body": "A drone strike killed at least 10 people at a hospital in Sudan, according to medical charity MSF. The attack is the latest in a conflict that has repeatedly targeted civilian infrastructure despite international condemnation.\n\nIn the Middle East, Israel threatened to destroy additional bridges in Lebanon as tensions there continue to mount. US unemployment fell in March despite the ongoing Iran war and broader economic uncertainty, though analysts warn the labour market data may not yet reflect the full impact of the conflict.",
+        "headline": "Sudan Hospital Strike Kills 10; Ukraine Claims Battlefield Gains",
+        "body": "A drone strike hit a hospital in Sudan, killing at least 10 people, according to medical charity MSF. The attack is among the deadliest single strikes on civilian infrastructure in the ongoing Sudanese conflict. Separately, Ukraine reported slowing Russian advances and reclaiming territory, while claiming its operations are draining Moscow's war finances. The battlefield update offers Kyiv a rare moment of momentum, though the broader war remains grinding and attritional.",
         "sources": [
           {
             "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
@@ -336,52 +330,16 @@
             "lean": null
           },
           {
-            "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
-            "url": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US unemployment rate drops despite economic uncertainty and Iran war",
-            "url": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US jobs surge unexpectedly in March despite Iran war",
-            "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine Gains Ground; Cuba to Free 2,000 Prisoners",
-        "body": "Ukraine says it has slowed Russian advances, reclaimed territory, and depleted Russian financial reserves, marking a cautious shift in momentum after months of grinding attrition. The assessment signals growing strain on Moscow's war effort.\n\nElsewhere, Cuba announced it will release more than 2,000 prisoners under mounting US pressure, a notable concession from Havana. In Europe, two Greek ministers resigned over a scandal involving fraudulent EU farming subsidies, deepening a political crisis in Athens.",
-        "sources": [
-          {
             "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
             "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
-            "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Greek ministers resign over EU farming subsidy scandal",
-            "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Artemis II Leaves Earth Orbit; Cambodia Targets Scam Networks",
-        "body": "NASA's Artemis II crew captured striking images of Earth as the mission pushed beyond Earth orbit, marking a milestone in the programme's return to deep space human exploration. The crew shared what they called a \"spectacular\" view during the transit.\n\nCambodia's parliament passed new legislation targeting cybercrime scam compounds, which have forced tens of thousands of trafficked workers to run online fraud operations across Southeast Asia. The law gives authorities broader powers to prosecute organisers and dismantle the networks.",
+        "headline": "Artemis II Crew Photographs Earth; Cuba to Free 2,000 Prisoners",
+        "body": "NASA's Artemis II crew captured striking images of Earth during their lunar mission, offering a rare human perspective from deep space. On the ground, Cuba announced it will release more than 2,000 prisoners as US diplomatic pressure intensifies. The move signals a potential shift in Havana's posture, though analysts remain cautious about reading it as a broader political opening. Cambodia's parliament also passed new legislation targeting cybercrime scam networks, which have victimised thousands across Southeast Asia.",
         "sources": [
           {
             "title": "Artemis II crew take 'spectacular' image of Earth",
@@ -396,8 +354,8 @@
             "lean": null
           },
           {
-            "title": "Watch: Artemis II's journey so far as it leaves Earth orbit... in 85 seconds",
-            "url": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
+            "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -406,8 +364,26 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Buys Talk Show as AI Media Ambitions Grow",
-        "body": "OpenAI has acquired TBPN, a tech-focused talk show, adding media production to a portfolio that already stretches well beyond building AI models. The move signals a deliberate push into content distribution, giving the company a direct channel to shape how AI is discussed publicly.\n\nMeanwhile, AI chatbots are quietly moving into clinical territory - platforms are now prescribing and refilling psychiatric medications, raising sharp questions about liability and patient safety. Separately, a startup called Moonbounce, founded by a Facebook content moderation veteran, is pitching AI-era moderation tools to platforms struggling to police machine-generated content. The week underlines how AI is rapidly colonising adjacent industries, from broadcasting to healthcare to trust and safety.",
+        "headline": "AI's Energy Hunger Drives Gas Plant Boom, Neighbors Push Back",
+        "body": "Microsoft, Meta, and Google are commissioning new natural gas plants to feed data center demand, betting that AI's growth justifies locking in fossil fuel infrastructure for decades. Critics warn the buildout undermines climate commitments and hands utilities leverage over tech companies desperate for power at any cost.\n\nLocal opposition is stiffening. A new survey finds Americans would sooner accept an Amazon warehouse next door than a data center, citing noise, water use, and grid strain. The gap between industry promises and community tolerance is widening fast, and regulators in several states are starting to pay attention.",
+        "sources": [
+          {
+            "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+            "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+            "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "OpenAI Buys a Talk Show While Its Executives Exit",
+        "body": "OpenAI acquired TBPN, a tech-focused talk show, adding a media property to a portfolio that already stretches well beyond AI research. The purchase signals a push to control narrative and distribution, not just build models.\n\nInternally, the company is less stable. Fidji Simo, hired less than a year ago to run OpenAI's applications business, is taking medical leave amid a broader executive shake-up. The timing raises questions about leadership continuity as OpenAI navigates a crowded competitive landscape and ongoing restructuring.",
         "sources": [
           {
             "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
@@ -416,34 +392,34 @@
             "lean": null
           },
           {
+            "title": "OpenAI's Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+            "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+            "source": "Wired",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Chatbots Prescribe Psychiatric Drugs as AI Enters the Clinic",
+        "body": "AI chatbots are now prescribing and refilling psychiatric medications for patients, moving from wellness tools into territory that regulators have historically reserved for licensed clinicians. The Verge reports the practice is already live, not theoretical.\n\nThe risks are significant. Psychiatric drugs carry serious side-effect profiles and require monitoring that a chatbot cannot perform. Meanwhile, NHS staff in the UK are separately refusing to use Palantir's Federated Data Platform over ethical concerns, suggesting a growing divide between what health tech companies deploy and what frontline workers will actually use.",
+        "sources": [
+          {
             "title": "Chatbots are now prescribing psychiatric drugs",
             "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "The Facebook insider building content moderation for the AI era",
-            "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Solana Protocol Loses $285M in Governance Hijack",
-        "body": "Drift Protocol, a decentralised exchange on Solana, was drained of $285 million after attackers deployed a fake token and seized control through a governance exploit. The attack combined social engineering with on-chain mechanics, letting the hackers push through a malicious proposal before the community could respond.\n\nThe breach is one of the largest DeFi exploits of the year and exposes a recurring weakness in token-based governance systems: speed of attack consistently outpaces speed of defence. It follows a broader pattern of sophisticated actors targeting protocol-level controls rather than smart contract bugs.",
-        "sources": [
-          {
-            "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
-            "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+            "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+            "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "H.264 License Fees Jump 45x, Threatening Streaming Costs",
-        "body": "Via Licensing Alliance has raised H.264 streaming license fees from $100,000 to $4.5 million, a 45-fold increase that will hit mid-size streaming platforms hardest. Large players can absorb the cost; smaller services may be forced to migrate to royalty-free codecs like AV1 or simply pass costs to subscribers.\n\nThe timing is awkward. An Italian court simultaneously ordered Netflix to refund subscribers up to €500 each for unlawful price hikes, ruling that unilateral fee increases breached consumer contracts. Together, the two stories put the economics of streaming under unusual pressure from both the infrastructure and the regulatory side at once.",
+        "headline": "H.264 License Fees Spike 45x, Hitting Streaming Hard",
+        "body": "Via Licensing Alliance has raised H.264 streaming license fees from $100,000 to $4.5 million, a 45-fold increase that blindsided smaller streaming operators. H.264 remains the most widely used video codec on the internet, meaning few services can simply walk away.\n\nThe hike arrives as the codec licensing landscape grows more contentious. Operators now face a stark choice: absorb costs, accelerate migration to royalty-free alternatives like AV1, or pass fees on to subscribers. An Italian court this week also ordered Netflix to refund customers up to 500 euros for unlawful price hikes, adding pressure on streaming economics from multiple directions.",
         "sources": [
           {
             "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
@@ -458,24 +434,12 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "NHS Staff Reject Palantir Tool Over Ethics Fears",
-        "body": "NHS workers are refusing to use the Federated Data Platform, built by Palantir, citing ethical concerns about the company's history with surveillance and defence contracts. The resistance is grassroots and growing, with staff declining to engage with a system that cost hundreds of millions of pounds to deploy.\n\nThe standoff highlights a tension that procurement processes rarely account for: a tool can be technically functional and contractually sound while still facing rejection from the people expected to use it. Palantir's brand carries baggage that no amount of NHS branding appears to have neutralised.",
-        "sources": [
-          {
-            "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-            "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Circle Faces Heat Over $285M Drift Hack Compliance Failures",
-        "body": "Circle is under mounting pressure after the $285 million Drift protocol exploit, with critics accusing the stablecoin issuer of refusing to freeze stolen USDC. On-chain investigator ZachXBT went further, alleging Circle has racked up $420 million in compliance failures since 2022, painting a pattern of inaction rather than an isolated incident.\n\nDrift, meanwhile, sent on-chain messages directly to wallets linked to the hack in an attempt to open negotiations with the attacker. The episode sharpens a long-running debate about whether centralized stablecoin issuers should act as de facto financial cops, and what liability they carry when they don't.",
+        "headline": "Circle Faces Backlash After $285M Drift Hack Goes Unfrozen",
+        "body": "Circle is under mounting pressure after refusing to freeze USDC linked to a $285 million exploit of the Drift protocol. On-chain investigator ZachXBT escalated the criticism, accusing Circle of over $420 million in compliance failures since 2022, arguing the stablecoin issuer has repeatedly failed to act against illicit flows.\n\nDrift attempted its own workaround, sending an on-chain message directly to wallets tied to the hack in a bid to open negotiations with the attacker. The episode sharpens a long-running debate about whether centralized stablecoin issuers should wield their freeze powers more aggressively, and what it means for trust in USDC when they don't.",
         "sources": [
           {
             "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
@@ -498,13 +462,31 @@
         ]
       },
       {
-        "headline": "Bitcoin Dips Below $70K as Corporate Treasury Strategies Diverge",
-        "body": "Bitcoin slipped below $70,000 this week, and the pressure is exposing cracks in the corporate treasury playbook. Companies that followed MicroStrategy's accumulation model are sitting on paper losses, while a rival camp around Nakamoto-style treasury vehicles is betting on a different structure. The divergence signals that institutional conviction in BTC is real but far from uniform.\n\nCathie Wood offered a contrarian read, arguing Bitcoin is done with its historic 85% drawdown cycles and flagging a new price target. Futures markets are tilting bearish and volatility has cooled, suggesting the market is in a wait-and-see mode rather than a decisive breakdown.",
+        "headline": "Schwab Eyes Spot Crypto Trading as Bitcoin Dips Below $70K",
+        "body": "Charles Schwab plans to launch direct spot trading for Bitcoin and Ether in the first half of 2026, a move that would bring one of America's largest retail brokerages fully into the crypto market. The announcement lands as Bitcoin trades flat near the $70,000 level, with futures markets tilting bearish and volatility cooling across the board.\n\nAltcoins are showing modest relative strength, with XRP climbing to $1.33 before stalling at resistance. Cathie Wood, meanwhile, told investors that Bitcoin's era of 85% drawdowns is over, though she set a near-term target of $34,000 - well below current prices. Corporate Bitcoin treasury strategies are also diverging, with some firms holding firm while others reassess as BTC softens.",
         "sources": [
+          {
+            "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
+            "url": "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "What next as XRP rises to $1.33 but fails to break out",
+            "url": "https://www.coindesk.com/markets/2026/04/03/what-next-as-xrp-rises-to-usd1-33-but-fails-to-break-out",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Crypto Biz: Bitcoin treasuries break ranks as BTC dips below $70K",
             "url": "https://cointelegraph.com/news/corporate-bitcoin-strategy-vs-nakamoto-treasury-divide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise",
+            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -522,8 +504,8 @@
         ]
       },
       {
-        "headline": "Coinbase Trust Charter Bid Stirs Banking Backlash",
-        "body": "US community banks are pushing back hard against the OCC's move to grant Coinbase a trust charter, arguing it hands a crypto firm bank-like powers without equivalent obligations. The opposition reflects a broader anxiety in traditional finance that regulators are opening doors for crypto companies faster than the rulebook can catch up.\n\nThe fight sits inside a wider regulatory churn. In Europe, Malta is clashing with ESMA over crypto oversight authority, raising questions about whether centralized EU-level regulation will squeeze out smaller member states. Both disputes point to the same tension: who gets to set the rules as crypto embeds itself in mainstream finance.",
+        "headline": "Coinbase Trust Charter Draws Fire From Community Banks",
+        "body": "US community banks are pushing back against the OCC's approval of a federal trust charter for Coinbase, arguing the move gives a crypto firm access to banking infrastructure without the same regulatory burden traditional lenders carry. The opposition reflects a broader turf war as crypto companies pursue bank-like licenses that could let them custody assets and offer financial services at scale.\n\nThe fight mirrors tensions in Europe, where Malta is clashing with ESMA over centralized crypto oversight under MiCA. Both disputes point to the same underlying friction: regulators and incumbents are struggling to define where crypto firms fit in a financial system that wasn't built for them.",
         "sources": [
           {
             "title": "US community banks oppose OCC's approval of Coinbase trust charter",
@@ -540,8 +522,8 @@
         ]
       },
       {
-        "headline": "Ethereum Foundation Hits Staking Target as L2 Scaling Debate Heats Up",
-        "body": "The Ethereum Foundation completed its staking push, reaching its 70,000 ETH target after deploying another $93 million worth of ether. The move signals a more active treasury posture from an organization historically cautious about market influence.\n\nOn the infrastructure side, Offchain Labs argued that Ethereum Layer 2 networks need more responsive fee pricing to scale to billions of users, pointing to rigid pricing models as a bottleneck. Separately, Hyperliquid cracked the top 10 in crypto derivatives volume during Q1, with Binance still leading the pack. The data suggests decentralized trading venues are gaining ground, but centralized players remain dominant.",
+        "headline": "Ethereum Foundation Stakes $93M as L2 Scaling Debate Heats Up",
+        "body": "The Ethereum Foundation completed a staking milestone, depositing another $93 million in ETH to hit its 70,000 ETH target. The move signals a more active treasury posture from a body that has historically kept its holdings largely liquid.\n\nOffchain Labs separately argued that Ethereum Layer 2 networks need dynamic, responsive fee pricing to handle the transaction volumes required for mainstream scale. The technical push comes as Binance retained its lead in crypto derivatives through Q1, while Hyperliquid broke into the top 10 for the first time - a sign that decentralized perpetuals are gaining serious ground on centralized venues.",
         "sources": [
           {
             "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target",
@@ -569,19 +551,19 @@
     "food": {
       "name": "Miso-Glazed Black Cod",
       "cuisine": "Japanese (Nobu-style)",
-      "description": "Silky, caramelised fish fillets marinated in white miso, mirin, and sake then broiled until lacquered and golden",
-      "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami and the more dramatic the caramelisation under the grill"
+      "description": "Silky, buttery cod fillets marinated in white miso, mirin, and sake then broiled until caramelised and lacquered",
+      "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust when it hits the heat"
     },
     "exercise": {
-      "name": "The Friday Ladder",
-      "duration": "35 minutes",
-      "equipment": "Pull-up bar, kettlebell (16–24 kg)",
-      "description": "Ascending and descending ladder of kettlebell swings and pull-ups (1+1, 2+2, up to 10+10 then back down), with no fixed rest periods — you rest only as long as it takes to transition, making it a brutal but satisfying end-of-week metabolic finisher"
+      "name": "The Deck of Cards Workout",
+      "duration": "30–45 minutes",
+      "equipment": "One standard deck of playing cards, exercise mat",
+      "description": "Assign a bodyweight move to each suit — push-ups, squats, lunges, plank holds — then flip cards one by one and perform the reps shown, turning a random deck into an unpredictable full-body circuit"
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity — Derek Parfit's take",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains the same object, but philosopher Derek Parfit weaponised it against the self, arguing in 'Reasons and Persons' that personal identity over time is not what matters — survival is a matter of degree, not a binary fact",
-      "why": "Parfit's conclusions are quietly radical: they dissolve the fear of death, undermine self-interest as a rational foundation, and have rippled through ethics, law, and AI consciousness debates — an hour with his ideas will leave you genuinely unsure who you were this morning"
+      "topic": "Stochastic Resonance",
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used in neuroscience, physics, and even hearing aid design",
+      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and once you understand it you start spotting its fingerprints everywhere from how neurons fire to how financial markets move"
     }
   }
 }
