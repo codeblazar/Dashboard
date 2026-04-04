@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-04-04T15:10:00.768Z",
+  "generatedAt": "2026-04-04T16:09:23.247Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Iran Downs US Jets as Hormuz Crisis Deepens",
-        "body": "Iran shot down American fighter jets this week, prompting sharp criticism from both parties. Rep. Seth Moulton warned that Iran is winning the broader conflict, while former National Security Advisor John Bolton suggested Trump may be in panic mode. The incidents mark a serious escalation in an already volatile standoff.\n\nWorld leaders are moving to address the Strait of Hormuz crisis largely without US involvement, raising questions about Washington's diplomatic standing. Critics on the left see the administration as reactive and isolated. Supporters argue Trump's pressure campaign is forcing a reckoning. Either way, the US has lost aircraft and lost the room.",
+        "headline": "Trump Warns Iran as US Jets Downed, Tensions Escalate",
+        "body": "Iran shot down US fighter jets, prompting Trump to warn that 'time is running out' before 'all hell' follows. World leaders are already moving to manage the Strait of Hormuz crisis without waiting for Washington, a sign of eroding US diplomatic leverage. Rep. Seth Moulton said bluntly that 'Iran is winning the war.' Former National Security Advisor John Bolton suggested Trump may be in 'panic mode.' The episode raises hard questions about US deterrence in the region and whether the administration has a coherent strategy beyond public threats.",
         "sources": [
+          {
+            "title": "Trump warns Iran: ‘Time is running out’ before ‘all hell’ rains down",
+            "url": "https://thehill.com/homenews/administration/5816212-trump-warns-iran-time-running-out/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Moulton says ‘Iran is winning the war’ after US jets downed",
             "url": "https://thehill.com/homenews/house/5816063-moulton-iran-winning-war-us-jets-downed/",
@@ -28,8 +34,32 @@
         ]
       },
       {
-        "headline": "Cabinet Shake-Ups Signal Turbulence Inside Trump White House",
-        "body": "The departures of Pam Bondi and Kristi Noem from the Cabinet have fuelled speculation about further shake-ups inside the Trump administration. Both exits were abrupt, and neither came with a clear public explanation from the White House.\n\nNPR's political roundup noted the removals as part of a broader pattern of instability at senior levels. Analysts across the spectrum are watching whether Trump consolidates loyalists or continues rotating officials. The question now is who is next - and whether the churn reflects strategic reshaping or simple dysfunction.",
+        "headline": "Trump Budget Boosts Defense, Slashes Domestic Spending",
+        "body": "The White House released a budget proposal seeking a $1.5 trillion increase in defense spending while cutting deeply across domestic programs. The plan includes $152 million to reopen Alcatraz as a high-security federal prison. Critics argue the cuts will hit services that middle- and working-class Americans rely on most, and at least one analysis warns the US economy is already sliding toward a serious recession driven by declining middle-class purchasing power. Supporters say the defense buildup is overdue and that domestic spending has grown unsustainable.",
+        "sources": [
+          {
+            "title": "Trump unveils $1.5T defense surge, deep domestic cuts — what’s on the budget chopping block",
+            "url": "https://www.foxnews.com/politics/trump-unveils-1-5t-defense-surge-deep-domestic-cuts-whats-chopping-block",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "America is heading for a recession — and it may be the worst yet",
+            "url": "https://thehill.com/opinion/finance/5814974-middle-class-decline-permanent-crisis/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Alcatraz could reopen as a 'state-of-the-art secure prison' under Trump's $152M budget request",
+            "url": "https://www.foxnews.com/politics/alcatraz-could-reopen-state-art-secure-prison-trumps-152m-budget-request",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Cabinet Shake-Ups and SCOTUS Birthright Case Rattle Washington",
+        "body": "The departures of Pam Bondi and Kristi Noem from the Cabinet have fueled speculation about further shake-ups, with questions mounting over internal White House stability. Meanwhile, the Supreme Court is weighing birthright citizenship, a case that could reshape immigration law. One opinion piece argues a constitutional amendment may ultimately be needed to settle the question. NPR's political roundup noted the week exposed tensions across the administration on multiple fronts simultaneously.",
         "sources": [
           {
             "title": "Week in Politics: Trump's latest speech; SCOTUS on birthright citizenship; Pam Bondi",
@@ -42,98 +72,38 @@
             "url": "https://thehill.com/homenews/administration/5815712-bondi-noem-cabinet-shakeups/",
             "source": "The Hill",
             "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Birthright Citizenship Battle Heads Toward Constitutional Showdown",
-        "body": "The Supreme Court is weighing the Trump administration's push to restrict birthright citizenship, a move that has reignited a long-running constitutional debate. A separate opinion piece in The Hill argues the Fourteenth Amendment may need revisiting, reflecting a view gaining traction on the right that current interpretation is too broad.\n\nCritics, including many constitutional scholars and Democrats, say the amendment's language is unambiguous and any executive action to limit it is unlawful. A separate case involving a child of Chinese immigrants charged with planting explosives at a military base has added political heat to the immigration debate, with conservative outlets highlighting it prominently.",
-        "sources": [
+          },
           {
             "title": "Reclaiming our own birthright: We might need to amend the Constitution",
             "url": "https://thehill.com/opinion/immigration/5815807-reclaiming-our-own-birthright-we-might-need-to-amend-the-constitution/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Child of Chinese illegal immigrants charged with planting explosive at US military base",
-            "url": "https://www.foxnews.com/politics/child-chinese-illegal-immigrants-charged-planting-explosive-us-military-base",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Week in Politics: Trump's latest speech; SCOTUS on birthright citizenship; Pam Bondi",
-            "url": "https://www.npr.org/2026/04/04/nx-s1-5771767/week-in-politics-trumps-latest-speech-scotus-on-birthright-citizenship-pam-bondi",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Trump Pushes College Sports Order, Alcatraz Plan Amid Policy Blitz",
-        "body": "President Trump signed an executive order aimed at reforming college sports, but Sen. Richard Blumenthal dismissed it as theater that sidesteps the real issues facing student athletes. The order drew bipartisan skepticism from those who say only Congress can deliver lasting change.\n\nSeparately, the White House has requested $152 million to reopen Alcatraz as a high-security federal prison, a proposal Trump floated publicly earlier this year. He also suggested shifting day care policy to the states, a move child care advocates called unworkable. Taken together, the moves reflect a governing style heavy on bold announcements and light on legislative follow-through - a pattern supporters call disruptive and critics call hollow.",
+        "headline": "Virginia Redistricting Poll, Wyoming Race Signal 2026 Battle Lines",
+        "body": "A narrow majority of Virginia voters support redrawing congressional maps to favor Democrats, according to a new poll - a finding that reflects how redistricting has become a direct partisan tool on both sides. In Wyoming, the son of a prominent Republican megadonor has entered the race for an open at-large House seat, signaling that donor networks are moving early to shape the 2026 midterm landscape. Both stories point to a cycle where structural advantages, not just candidates, will determine control of Congress.",
         "sources": [
           {
-            "title": "Blumenthal: Trump’s order to reform college sports ‘is theater, not a fix’",
-            "url": "https://thehill.com/homenews/senate/5816150-richard-blumenthal-donald-trump-college-sports-reform/",
+            "title": "Narrow majority in Virginia backs redistricting to favor Democrats: Poll",
+            "url": "https://thehill.com/homenews/campaign/5816170-virginia-redistricting-democrats-survey/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Alcatraz could reopen as a 'state-of-the-art secure prison' under Trump's $152M budget request",
-            "url": "https://www.foxnews.com/politics/alcatraz-could-reopen-state-art-secure-prison-trumps-152m-budget-request",
+            "title": "Son of Republican megadonor throws hat in the ring for open at-large House seat in Wyoming",
+            "url": "https://www.foxnews.com/politics/son-republican-megadonor-throws-hat-ring-open-at-large-house-seat-wyoming",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Trump floats letting states handle day care. Advocates call it a lead balloon",
-            "url": "https://thehill.com/homenews/education/5815109-trump-states-day-care-advocates-easter/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Murder charges, missing women dominate crime headlines nationwide",
-        "body": "Victorian police arrested two people in connection with the disappearance of Dezi Freeman, while a man was charged with murder after being intercepted attempting to board an international flight. A separate murder charge was laid against a woman in Laverton following the death of a 24-year-old. Three distinct cases, all breaking within 24 hours.\n\nIn Western Australia, a full-scale search is underway for a woman missing near The Gap in Albany, a popular tourism site. Police have not yet linked that case to any criminal conduct.\n\nThe cluster of cases puts pressure on state police forces already managing complex investigations. No trials have been scheduled and all accused are presumed innocent.",
-        "sources": [
-          {
-            "title": "Man trying to board international flight charged with murder",
-            "url": "https://www.abc.net.au/news/2026-04-04/man-charged-murder-missing-woman-little-river/106531742",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Victoria police arrest two people as part of Dezi Freeman investigation",
-            "url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Police launch full-scale search to locate woman missing in popular tourism spot",
-            "url": "https://www.abc.net.au/news/2026-04-04/search-for-missing-woman-naomi-marie-duckett-the-gap-albany-wa/106531548",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Two arrested as part of investigation into movements of Dezi Freeman",
-            "url": "https://www.abc.net.au/news/2026-04-04/two-arrested-police-investigation-dezi-freeman-movements/106531570",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Woman charged with murder following investigation into death of 24yo",
-            "url": "https://www.abc.net.au/news/2026-04-04/laverton-woman-charged-with-murder-following-investigation/106531444",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Pezzullo report reveals 'reckless' conduct with Liberal powerbroker",
-        "body": "A confidential report found former Home Affairs secretary Michael Pezzullo acted recklessly in his dealings with a Liberal powerbroker, adding detail to the conduct that led to his sacking in 2023. The report's existence and findings have not previously been made public.\n\nPezzullo was dismissed after text messages revealed he had discussed ministerial appointments and political strategy with Liberal operative Scott Briggs over several years. The new report suggests the behaviour was more serious than the public record indicated.\n\nThe findings raise fresh questions about the boundary between senior public servants and political operatives - and whether existing accountability mechanisms caught the problem early enough.",
+        "headline": "Pezzullo found 'reckless' in dealings with Liberal powerbroker",
+        "body": "A confidential report found former Home Affairs secretary Michael Pezzullo acted recklessly in his communications with Liberal powerbroker Scott Briggs, adding detail to the conduct that led to his sacking in 2023. The report's findings go beyond what was previously public, suggesting Pezzullo's engagement crossed lines expected of a senior public servant.\n\nPezzullo has contested aspects of the findings against him. The case raises ongoing questions about the boundaries between senior bureaucrats and political operatives, and whether existing accountability mechanisms are strong enough to catch such conduct early.",
         "sources": [
           {
             "title": "Confidential report found former home affairs boss Michael Pezzullo was ‘reckless’ in engagement with Liberal powerbroker",
@@ -144,53 +114,29 @@
         ]
       },
       {
-        "headline": "Victorian premier faces direct challenge ahead of state election",
-        "body": "Andrew Lethlean will contest Jacinta Allan's seat of Bendigo East at the next Victorian state election, setting up a direct challenge to the premier in her own electorate. Allan has held the seat since 2002 and succeeded Daniel Andrews as premier in 2023.\n\nThe move follows a pattern of opposition parties targeting safe seats held by senior government figures to force premiers onto the defensive locally. Whether Lethlean poses a genuine threat or is primarily a tactical distraction remains to be seen. Allan's government has faced sustained criticism over cost-of-living pressures and infrastructure spending.",
+        "headline": "Two arrested in Victoria over Dezi Freeman investigation",
+        "body": "Victoria Police have arrested two people in connection with the Dezi Freeman investigation, with the arrests made in Porepunkah. Few details about the charges or the suspects have been released publicly at this stage.\n\nThe Freeman case has drawn sustained attention in Victoria. Police have not yet confirmed whether further arrests are expected.",
         "sources": [
           {
-            "title": "Lethlean to challenge Victorian premier in Bendigo East",
-            "url": "https://www.abc.net.au/news/2026-04-04/andrew-lethlean-to-challenge-jacinta-allan-victorian-election/106531610",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Aged care CEO pay hits $679k as fuel supply concerns ease",
-        "body": "Queensland residential aged care CEOs are earning up to $679,000 annually, a financial review has found, reigniting debate about executive pay in a sector that relies heavily on public funding. Critics argue the figures are difficult to justify given ongoing workforce shortages and care quality concerns across the sector.\n\nSeparately, the federal energy minister says fewer service stations are running out of petrol and diesel, describing Australia's fuel supply as stable. The reassurance follows weeks of concern about supply chain resilience, though the Spectator has argued the government's broader energy policy reflects what it calls a pattern of ideological overreach rather than practical management.",
-        "sources": [
-          {
-            "title": "The West’s parasite politics",
-            "url": "https://www.spectator.com.au/2026/04/the-wests-parasite-politics/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Qld residential care sector CEOs paid up to $679k",
-            "url": "https://www.abc.net.au/news/2026-04-04/qld-residential-care-financial-review/106531314",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Fewer service stations running out of petrol and diesel as Australia’s fuel supplies remain strong, energy minister says",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/04/fewer-service-stations-running-out-of-petrol-and-diesel-as-australias-fuel-supplies-remain-strong-energy-minister-says",
+            "title": "Victoria police arrest two people as part of Dezi Freeman investigation",
+            "url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Just, you know, check your tyre pressure",
-            "url": "https://www.spectator.com.au/2026/04/just-you-know-check-your-tyre-pressure/",
-            "source": "Spectator AU",
-            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israeli War on Iran Escalates as Nuclear Plant Hit",
-        "body": "A projectile struck near Iran's Bushehr nuclear plant on day 36 of US-Israeli military operations, killing one person, according to the IAEA. Debris from Iranian projectiles also hit vehicles inside Israel, signalling the conflict is now running in both directions with growing intensity.\n\nIran executed two members of a banned opposition group amid the fighting, a move critics say is designed to suppress dissent under cover of war. A US airman remains missing inside Iran, with rescue teams describing the search as harrowing and dangerous. The conflict shows no sign of a ceiling.",
+        "headline": "Iran-Israel War Escalates With Strikes on Nuclear Site, Universities",
+        "body": "Israel struck a university in Tehran and launched projectiles near Iran's Bushehr nuclear plant, killing one person, according to the IAEA. Iranian debris from intercepted projectiles landed inside Israel, setting vehicles ablaze. Tehran responded with sharp rhetoric, saying the US and Israel \"belong in the Stone Age.\"\n\nIsrael also executed two members of a banned Iranian opposition group amid the fighting. A missing US airman adds a further flashpoint - rescue teams describe a \"harrowing and dangerous\" search inside Iranian territory. The conflict is widening fast, with no diplomatic off-ramp visible.",
         "sources": [
+          {
+            "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
@@ -220,18 +166,36 @@
             "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel Advances Into Lebanon, Strikes Hospital in Tyre",
+        "body": "Israeli forces pushed deeper into southern Lebanon as strikes damaged a hospital in the coastal city of Tyre. Witnesses recorded buildings hit in residential areas. The ground invasion is advancing despite international pressure to halt.\n\nThe strikes mark a significant expansion of Israeli military operations beyond Gaza. Lebanon's health infrastructure is taking direct hits, raising urgent concerns from aid organizations.",
+        "sources": [
+          {
+            "title": "Witness records Israeli strike on building in Lebanon’s Tyre",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/witness-records-israeli-strike-on-building-in-lebanons-tyre?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           },
           {
-            "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
-            "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+            "title": "Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances",
+            "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel’s unchecked war machine",
+            "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Russia Kills Five at Ukraine Market Over Easter Weekend",
-        "body": "Russian strikes hit a Ukrainian market, killing five people, as separate attacks across the country killed at least four more. President Zelensky accused Russia of choosing an Easter escalation over the ceasefire framework that had been under discussion.\n\nThe strikes mark one of the deadlier single-day tolls in recent weeks. Russia has not commented on Zelensky's ceasefire claim.",
+        "headline": "Russia Kills Five in Easter Market Strike, Zelensky Condemns Escalation",
+        "body": "A Russian attack on a Ukrainian market killed five people over the Easter weekend, with at least four more killed in separate strikes across the country. President Zelensky accused Moscow of choosing \"Easter escalation\" over a proposed ceasefire, pointing to the timing as deliberate.\n\nThe attacks undercut recent diplomatic signals and harden Kyiv's position that Russia is not negotiating in good faith.",
         "sources": [
           {
             "title": "Russian attack on Ukraine market kills five",
@@ -254,26 +218,8 @@
         ]
       },
       {
-        "headline": "Israel Strikes Lebanon Hospital as Ground Invasion Advances",
-        "body": "Israeli forces damaged a hospital in the Lebanese city of Tyre as a ground invasion pushed further into the country. The strike on a medical facility drew immediate condemnation and raised fresh questions about the rules of engagement governing Israeli operations across multiple fronts simultaneously.\n\nIsrael is now conducting active military campaigns in Gaza, Lebanon, and against Iran - a scale of simultaneous warfare with few modern precedents.",
-        "sources": [
-          {
-            "title": "Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances",
-            "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel’s unchecked war machine",
-            "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Artemis II Crew Reaches Lunar Halfway Point",
-        "body": "NASA's Artemis II crew passed the halfway mark to the Moon, releasing striking images of Earth from deep space. It is the first crewed lunar mission since Apollo 17 in 1972.\n\nThe milestone comes as the mission continues without reported issues. NASA released the photographs publicly, describing the crew's view of Earth as spectacular.",
+        "headline": "Artemis II Crew Reaches Moon's Halfway Point, Sends Back Earth Images",
+        "body": "NASA's Artemis II crew passed the halfway mark to the Moon, releasing striking images of Earth from deep space. The mission marks the first crewed lunar voyage since Apollo 17 in 1972.\n\nThe images, described by the crew as \"spectacular,\" have drawn wide attention as the mission builds toward a lunar flyby before returning to Earth.",
         "sources": [
           {
             "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
@@ -292,8 +238,8 @@
     ],
     "ai": [
       {
-        "headline": "Anthropic's Busy Week: Biotech Deal, PAC, and OpenClaw Fallout",
-        "body": "Anthropic is moving fast on multiple fronts. The company reportedly acquired biotech startup Coefficient Bio for $400 million, launched a political action committee to expand its Washington presence, and is riding high in private markets - though SpaceX's anticipated IPO may compete for the same investor dollars.\n\nMeanwhile, Anthropic cut off OpenClaw, a third-party Claude client, by requiring its users to pay extra through standard subscriptions - effectively killing the service. The move follows a serious security incident: hackers leaked Claude Code source code and bundled it with malware, and security researchers are urging OpenClaw users to assume their systems were compromised. Claude Code also made headlines for a better reason, having independently discovered a Linux vulnerability that had gone undetected for 23 years.",
+        "headline": "Anthropic Expands Aggressively While Claude Security Troubles Mount",
+        "body": "Anthropic is moving fast on multiple fronts. The company acquired biotech startup Coefficient Bio for $400 million, launched a political action committee, and is riding high in private markets - though SpaceX's anticipated IPO may soon compete for the same investor dollars.\n\nOn the product side, Anthropic cut off OpenClaw's access to Claude Code subscriptions, forcing users to pay extra. The timing is awkward: OpenClaw is already under scrutiny after a security incident, with researchers advising users to assume their accounts are compromised. Separately, hackers are distributing a leaked Claude Code build bundled with malware.\n\nClaude Code also made headlines for a genuine technical win - autonomously uncovering a Linux vulnerability that had gone undetected for 23 years.",
         "sources": [
           {
             "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
@@ -311,6 +257,12 @@
             "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
             "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
             "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+            "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -336,18 +288,12 @@
             "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-            "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Reshuffles Leadership as AGI Chief Steps Away",
-        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap is moving into a new \"special projects\" role, while other executives including Fidji Simo and Kate Rouch are taking on expanded responsibilities. The shuffle comes as the company pushes deeper into product and commercial territory.\n\nSeparately, OpenAI's head of AGI readiness is taking a leave of absence - a notable departure given how central that role is to the company's stated mission. No replacement has been announced. The back-to-back personnel moves suggest internal pressure as OpenAI tries to scale operations while managing its increasingly complex corporate structure.",
+        "headline": "OpenAI Reshuffles Leadership as Key Executives Step Back",
+        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap moves into a new \"special projects\" role, while Fidji Simo, who joined less than a year ago to run the applications business, is taking medical leave. The head of OpenAI's AGI division is also stepping away.\n\nThe simultaneous departures raise questions about internal stability at a company already navigating a fraught transition from nonprofit to for-profit structure. OpenAI has not clarified who absorbs the responsibilities of the departing executives.",
         "sources": [
           {
             "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -360,12 +306,42 @@
             "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
             "source": "The Verge",
             "lean": null
+          },
+          {
+            "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+            "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+            "source": "Wired",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Musk Forces Grok on Banks; Meta Hit by Data Breach",
-        "body": "Elon Musk is reportedly requiring investment banks working on the SpaceX IPO to purchase Grok subscriptions - a coercive tactic that blurs the line between business leverage and product promotion. Banks eager for a role in one of the most anticipated public offerings in years appear to be complying.\n\nAt Meta, a data breach at AI hiring platform Mercor exposed sensitive industry information, prompting Meta to pause its relationship with the company. The incident adds to a difficult stretch for Meta, which is also dealing with a court-ordered gag on Sarah Wynn-Williams, author of \"Careless People,\" barring her from making negative public statements about the company.",
+        "headline": "AI Is Eroding Users' Ability to Think for Themselves",
+        "body": "New research finds that heavy AI users are increasingly willing to outsource their reasoning entirely to language models - a pattern researchers call \"cognitive surrender.\" Participants shown AI-generated answers tended to accept them without scrutiny, even when the answers were wrong.\n\nThe finding lands as a separate cultural backlash takes shape. Creators and brands are now advertising work as \"human-made\" and \"AI-free\" as a selling point, suggesting a growing market for authenticity. The Indie Internet Index, a new directory of independent websites, reflects the same impulse - a desire to find corners of the web that feel genuinely human.",
+        "sources": [
+          {
+            "title": "The Indie Internet Index – submit your favorite sites",
+            "url": "https://iii.social",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Really, you made this without AI? Prove it",
+            "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+            "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Musk Ties SpaceX IPO Banks to Grok Subscriptions",
+        "body": "Elon Musk is reportedly requiring investment banks competing for SpaceX's IPO mandate to purchase Grok subscriptions, effectively using one of the most coveted deals in private markets as leverage to drive revenue to his AI venture xAI. The move blurs the line between business competition and coercion.\n\nMeanwhile, Trump's broader AI infrastructure push is stalling. His own tariffs are raising the cost of hardware needed to build data centers, undermining the policy goals his administration has publicly championed. AI companies are filling some of the gap by constructing dedicated natural gas plants - a workaround that brings its own environmental and regulatory risks.",
         "sources": [
           {
             "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
@@ -374,26 +350,8 @@
             "lean": null
           },
           {
-            "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-            "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Is Eroding Critical Thinking, and Data Centers Are Burning Gas",
-        "body": "New research finds that heavy AI users increasingly defer to model outputs without applying their own judgment - a pattern researchers are calling \"cognitive surrender.\" The effect appears strongest among frequent users, raising questions about long-term impacts on reasoning skills.\n\nOn the infrastructure side, AI companies are racing to build dedicated natural gas plants to power data centers, bypassing the grid entirely. Critics warn of locked-in emissions for decades. Trump's parallel push for a domestic AI data center buildout is stumbling, with his own tariffs driving up hardware costs and deterring the foreign investment his plan depends on.",
-        "sources": [
-          {
-            "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-            "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+            "title": "Trump ignores biggest reasons his AI data center buildout is failing",
+            "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
             "source": "Ars Technica",
             "lean": null
           },
@@ -402,20 +360,14 @@
             "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Trump ignores biggest reasons his AI data center buildout is failing",
-            "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
-            "source": "Ars Technica",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Bears Face $2.5B Wipeout as Market Liquidity Thins",
-        "body": "Bitcoin short sellers are sitting on $2.5 billion in positions that would be liquidated if the price climbs to $72,000, putting bears in a precarious spot. Analysts say the current directionless price action is compressing into a coil that could snap hard in either direction.\n\nThe risk is compounded by deteriorating market depth. Five separate data sources point to the same conclusion: Bitcoin's order books are thinning from the inside, meaning large moves will find less resistance and more volatility. Meanwhile, large traders had a brutal first quarter, losing an average of $337 million per day. The pain has been real, and the setup for a sharp breakout is building.",
+        "headline": "Bitcoin Bears Face $2.5B Wipeout as Market Thins",
+        "body": "Bitcoin short sellers are sitting on $2.5 billion in positions that would be liquidated if price climbs to $72,000 - a level analysts say is increasingly plausible. The setup is precarious for bears, especially as consolidation patterns historically precede sharp directional moves.\n\nUnderneath the surface, five separate data sources point to the same problem: Bitcoin's market liquidity is thinning. Fewer large orders are sitting in the book, meaning any significant buying pressure could trigger outsized price swings. That dynamic cuts both ways, but with short exposure this concentrated, a squeeze would hurt bears hardest.\n\nLarge traders are already bleeding. Wealthy Bitcoin holders lost an average of $337 million per day in Q1 2026, suggesting the current range has been grinding down even the most capitalized players.",
         "sources": [
           {
             "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
@@ -444,8 +396,8 @@
         ]
       },
       {
-        "headline": "Kalshi Blocked in Nevada as Prediction Markets Test Legal Limits",
-        "body": "A Nevada judge extended the ban on Kalshi's sports event contracts, rejecting the platform's argument that its products are federally regulated financial instruments rather than unlicensed gambling. The ruling is a significant setback for prediction markets trying to operate across state lines under CFTC oversight.\n\nThe legal pressure is not limited to the US. Prediction markets are running into similar walls across strict Asian jurisdictions, where regulators are drawing hard lines between financial derivatives and gambling. Polymarket also took heat this week, pulling down a market tied to a missing US pilot after public backlash. The industry is expanding fast but regulators are catching up.",
+        "headline": "Kalshi Blocked in Nevada as Prediction Markets Face Global Pushback",
+        "body": "A Nevada judge extended the ban on Kalshi's sports event contracts, rejecting the platform's argument that its products are federally regulated derivatives rather than unlicensed gambling. The ruling keeps Kalshi out of Nevada and signals that state gambling authorities are not ready to cede ground to CFTC-regulated prediction markets.\n\nThe legal friction is not limited to the US. Prediction market platforms are running into similar resistance across strict Asian jurisdictions, where regulators are drawing hard lines between financial instruments and gambling products. The core legal question - whether event contracts are commodities or bets - remains unresolved in most markets.\n\nPolymarket added to the industry's reputational pressure this week by pulling a market tied to a missing US pilot following public backlash, highlighting the ethical boundaries these platforms are still working out.",
         "sources": [
           {
             "title": "Nevada judge extends ban on Kalshi, rejects event contract defense",
@@ -474,37 +426,31 @@
         ]
       },
       {
-        "headline": "Bitcoin ETFs Set to Overtake Gold, Tether Eyes $500B Valuation",
-        "body": "Analyst James Seyffart argues Bitcoin ETFs will eventually surpass gold ETFs in size, citing Bitcoin's expanding use cases and growing institutional appetite. Gold ETFs took decades to build their base. Bitcoin is moving faster.\n\nSeparately, Tether is weighing a fundraising round at a $500 billion valuation but may delay if investor demand falls short of expectations. The stablecoin giant's hesitation signals that even the most profitable company in crypto is not immune to market sentiment. Both stories point to the same underlying tension: institutional money is circling crypto at scale, but pricing and timing remain contested.",
-        "sources": [
-          {
-            "title": "Tether may delay fundraising if demand falls short at $500B valuation: Report",
-            "url": "https://cointelegraph.com/news/tether-may-delay-fundraising-500b-valuation-demand-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ETFs 'will be larger' than gold ETFs: Analyst",
-            "url": "https://cointelegraph.com/news/bitcoin-gold-etfs-use-cases-analyst-james-seyffart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
         "headline": "24/7 Stock Trading Arrives, Borrowing a Page from Crypto",
-        "body": "Traditional markets are moving toward round-the-clock trading, a shift that traders say will eliminate the after-hours price gaps that have long allowed manipulation to go unchecked. The change mirrors how crypto markets have operated since inception.\n\nFor crypto, the development is both validation and competition. Bitcoin's always-on liquidity has been a core selling point over equities. As stock markets close that gap, the pressure on crypto to differentiate on other dimensions - speed, programmability, self-custody - will only grow. Solana's ongoing struggle to balance quantum-resistant security against transaction speed illustrates exactly that challenge: the next frontier of crypto's technical edge is harder to build than simply staying open on weekends.",
+        "body": "Traditional equity markets are moving toward round-the-clock trading, a shift that traders argue will eliminate the after-hours price gaps that have long allowed manipulation of opening prices. The change mirrors how crypto markets have operated since inception.\n\nFor crypto advocates, the move validates a core argument: that continuous markets are fairer and more efficient. The practical winner is the active trader who can now react to news in real time rather than waiting for a bell.",
         "sources": [
           {
             "title": "Traders are the big winners as 24/7 stocks will finally end the after-hours price 'manipulation'",
             "url": "https://www.coindesk.com/markets/2026/04/04/traders-are-the-big-winners-as-24-7-stocks-will-finally-end-the-after-hours-price-manipulation",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Solana Faces Speed Penalty to Harden Against Quantum Attacks",
+        "body": "Solana's engineers are confronting an uncomfortable tradeoff as they assess quantum-resistant cryptography: the post-quantum algorithms that would protect the network are significantly slower than current ones, threatening the high throughput that defines Solana's competitive edge.\n\nThe dilemma is not unique to Solana, but it hits harder here because speed is the product. Adopting stronger cryptographic standards could degrade performance enough to undermine the network's core value proposition. No timeline for a fix has been announced, and the tension between security and speed has no clean resolution yet.\n\nSeparately, Tether is weighing whether to delay a fundraising round if investor demand falls short of supporting a $500 billion valuation, a sign that even the stablecoin giant is navigating a more cautious capital environment.",
+        "sources": [
           {
             "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
             "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
             "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Tether may delay fundraising if demand falls short at $500B valuation: Report",
+            "url": "https://cointelegraph.com/news/tether-may-delay-fundraising-500b-valuation-demand-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -515,19 +461,19 @@
     "food": {
       "name": "Miso-Glazed Leek and Mushroom Galette",
       "cuisine": "French-Japanese fusion",
-      "description": "A free-form savory pastry with caramelized leeks and shiitake mushrooms bound by a white miso and crème fraîche filling",
-      "tip": "Freeze your butter for 15 minutes before grating it into the flour — it creates flakier layers than cubing and cutting"
+      "description": "A free-form savory tart with caramelized leeks and shiitake mushrooms lacquered in white miso butter on a flaky rough-puff pastry base.",
+      "tip": "Chill your butter cubes in the freezer for 15 minutes before making the pastry — visible butter flakes in the dough are a feature, not a flaw."
     },
     "exercise": {
       "name": "The Saturday Deck of Cards",
       "duration": "35–50 minutes",
       "equipment": "A standard deck of playing cards, a mat",
-      "description": "Assign an exercise to each suit — push-ups, squats, hollow-body holds, and burpees — then flip cards one at a time and perform the number of reps shown, making every session unpredictably brutal and different"
+      "description": "Assign a bodyweight movement to each suit — push-ups, squats, lunges, hollow-body holds — then flip cards one at a time and perform the number of reps shown, turning a random deck into an unpredictable full-body circuit."
     },
     "learn": {
       "topic": "Stochastic Resonance",
-      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous system, crayfish to sense predators, and engineers in signal processing.",
-      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and once you see it, you start noticing its fingerprints in neuroscience, climate science, and even financial markets"
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used in neuroscience, physics, and even hearing-aid design.",
+      "why": "It upends the assumption that noise is always the enemy of clarity, and once you understand it you start seeing its fingerprints everywhere from how neurons fire to why slightly wobbly balance boards improve proprioception in athletes."
     }
   }
 }
