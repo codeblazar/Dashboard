@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-04-04T18:10:11.106Z",
+  "generatedAt": "2026-04-04T19:14:01.910Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
         "headline": "US-Iran Tensions Spike as Deadline Looms and Jets Fall",
-        "body": "Trump warned Iran that 'time is running out' before 'all hell' rains down, while Sen. Graham urged Tehran to 'choose wisely' ahead of a diplomatic deadline. The pressure campaign escalated after Iran downed US fighter jets, prompting Rep. Moulton to declare that 'Iran is winning the war' and former National Security Advisor Bolton to suggest Trump may be in 'panic mode.' World leaders are reportedly moving to manage the Strait of Hormuz crisis independently, bypassing Washington.\n\nOn the home front, Secretary of State Rubio revoked the green cards of two relatives of slain Iranian General Qasem Soleimani, who were subsequently arrested by ICE. Supporters call it a firm national security move. Critics argue it sets a troubling precedent of punishing people for family ties. Analysts are divided on what a US endgame with Iran would even look like.",
+        "body": "Trump warned Iran that 'time is running out' before 'all hell' rains down, while Senator Graham urged Tehran to 'choose wisely' ahead of a diplomatic deadline. The pressure campaign intensified after Iran downed US fighter jets, prompting former National Security Advisor John Bolton to suggest Trump may be in 'panic mode.' Secretary of State Rubio revoked the green cards of two relatives of slain Iranian general Qasem Soleimani, who were then arrested by ICE - a move supporters frame as national security enforcement and critics see as political signaling. Representative Moulton argued Iran is currently winning the war of attrition. Analysts are divided on whether military pressure or diplomacy offers the cleaner path forward, with opinion pieces questioning what 'finishing the job' against Iran would even look like in practice.",
         "sources": [
+          {
+            "title": "The US can beat Iran at its own game, and without boots on the ground",
+            "url": "https://thehill.com/opinion/national-security/5815369-iran-us-war-attrition/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
             "url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
@@ -48,19 +54,19 @@
             "url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "World leaders bypass Trump to tackle Strait of Hormuz crisis",
-            "url": "https://thehill.com/policy/international/5815706-iran-strait-hormuz-tensions-global-plans/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Budget Proposes Defense Surge, Deep Domestic Cuts",
-        "body": "The White House unveiled a budget blueprint seeking a $1.5 trillion boost in defense spending while proposing sharp cuts to domestic programs. The plan includes a $152 million request to reopen Alcatraz as a high-security federal prison. Supporters say the shift reflects a necessary reordering of national priorities. Critics warn the domestic cuts will hit vulnerable Americans hardest and that the overall direction risks a severe recession.\n\nSeparately, former press secretary Kayleigh McEnany cautioned that the 2026 midterms will be 'hard' for Republicans, a rare public admission of electoral vulnerability from within the party's orbit. Cabinet instability adds to the uncertainty, with the departures of Pam Bondi and Kristi Noem fueling speculation about further shake-ups ahead.",
+        "headline": "Trump Budget Cuts Domestic Spending, Boosts Defense and Prisons",
+        "body": "Trump unveiled a budget proposing a $1.5 trillion surge in defense spending paired with deep cuts to domestic programs. The proposal also includes a $152 million request to reopen Alcatraz as a high-security federal prison, a move the administration frames as part of its broader law enforcement push. Critics warn the domestic cuts will hit vulnerable populations hardest, while supporters argue the defense investment is overdue. Separately, a federal judge blocked a Trump administration effort that would have required colleges to certify they do not consider race in admissions - a ruling that preserves existing legal ambiguity on the issue. The week also saw the Supreme Court take up birthright citizenship, keeping constitutional questions about immigration at the center of national debate.",
         "sources": [
+          {
+            "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
+            "url": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Trump unveils $1.5T defense surge, deep domestic cuts — what’s on the budget chopping block",
             "url": "https://www.foxnews.com/politics/trump-unveils-1-5t-defense-surge-deep-domestic-cuts-whats-chopping-block",
@@ -68,28 +74,10 @@
             "lean": "right"
           },
           {
-            "title": "America is heading for a recession — and it may be the worst yet",
-            "url": "https://thehill.com/opinion/finance/5814974-middle-class-decline-permanent-crisis/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
             "title": "Alcatraz could reopen as a 'state-of-the-art secure prison' under Trump's $152M budget request",
             "url": "https://www.foxnews.com/politics/alcatraz-could-reopen-state-art-secure-prison-trumps-152m-budget-request",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "McEnany sounds alarm: Midterms ‘will be hard’ for Republicans",
-            "url": "https://thehill.com/homenews/campaign/5816260-mcenany-warns-republicans-midterms/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Bondi, Noem ousters raise questions about future Cabinet shake-ups",
-            "url": "https://thehill.com/homenews/administration/5815712-bondi-noem-cabinet-shakeups/",
-            "source": "The Hill",
-            "lean": "center"
           },
           {
             "title": "Week in Politics: Trump's latest speech; SCOTUS on birthright citizenship; Pam Bondi",
@@ -100,18 +88,30 @@
         ]
       },
       {
-        "headline": "Courts and Congress Clash Over Race, Rights, and Redistricting",
-        "body": "A federal judge blocked a Trump administration effort requiring colleges to certify they do not consider race in admissions, the latest legal collision over affirmative action policy. The ruling adds to a growing list of court checks on executive action in the education space. Sen. Blumenthal dismissed Trump's separate college sports reform order as 'theater, not a fix.'\n\nOn redistricting, a new poll shows a narrow majority of Virginia voters support redrawing congressional maps to favor Democrats. Meanwhile, Rep. Eric Swalwell's ongoing clash with the FBI is drawing scrutiny as he eyes a California gubernatorial run. A Hill opinion piece argued that Trump's intervention in California's energy policy over a pipeline dispute signals a broader threat to state sovereignty nationwide.",
+        "headline": "Global Standing Slips as China Overtakes US in Approval Ratings",
+        "body": "A new Gallup poll shows China has surpassed the United States in global approval ratings, a notable shift that reflects growing international unease with American foreign policy. The finding lands as the US faces simultaneous pressure points - escalating tensions with Iran, strained alliances, and a domestic political environment marked by sharp partisan conflict. Bipartisan concern also surfaced in the Senate, where Senators Wicker and Shaheen raised alarms about a planned US visit by Russian lawmakers, signaling that Russia policy remains a fault line cutting across party lines.",
         "sources": [
           {
-            "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
-            "url": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race",
-            "source": "NPR",
-            "lean": "left"
+            "title": "China now tops US in global approval ratings: Gallup",
+            "url": "https://thehill.com/policy/international/5816375-china-global-approval-surpasses-us-gallup/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-            "url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california/",
+            "title": "Wicker, Shaheen raise concerns about US visit by Russian lawmakers",
+            "url": "https://thehill.com/homenews/senate/5816118-wickers-shaheen-russian-visit/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Republicans Eye Midterms Nervously as Democrats Maneuver",
+        "body": "Former White House press secretary Kayleigh McEnany warned publicly that the 2026 midterms 'will be hard' for Republicans, an unusually candid admission that reflects anxiety inside the party about voter sentiment. In Virginia, a new poll shows a narrow majority supports redistricting to favor Democrats, adding to GOP concerns about the electoral map. On the Democratic side, Representative Eric Swalwell's ongoing clash with the FBI is drawing scrutiny as he pursues a California governor bid, with opponents arguing the controversy undermines his candidacy. In Wyoming, the son of a Republican megadonor entered the race for an open at-large House seat, signaling that donor-class influence in GOP primaries remains strong heading into the next cycle.",
+        "sources": [
+          {
+            "title": "McEnany sounds alarm: Midterms ‘will be hard’ for Republicans",
+            "url": "https://thehill.com/homenews/campaign/5816260-mcenany-warns-republicans-midterms/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -128,24 +128,18 @@
             "lean": "center"
           },
           {
-            "title": "Blumenthal: Trump’s order to reform college sports ‘is theater, not a fix’",
-            "url": "https://thehill.com/homenews/senate/5816150-richard-blumenthal-donald-trump-college-sports-reform/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Reclaiming our own birthright: We might need to amend the Constitution",
-            "url": "https://thehill.com/opinion/immigration/5815807-reclaiming-our-own-birthright-we-might-need-to-amend-the-constitution/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Son of Republican megadonor throws hat in the ring for open at-large House seat in Wyoming",
+            "url": "https://www.foxnews.com/politics/son-republican-megadonor-throws-hat-ring-open-at-large-house-seat-wyoming",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Albanese bets on gambling ad crackdown ahead of election",
-        "body": "Prime Minister Anthony Albanese is pushing ahead with a major overhaul of gambling advertising rules, staking political capital on reforms that have divided his caucus and drawn fierce lobbying from the sports broadcasting industry. The move follows the Murphy report, which recommended sweeping restrictions on how and when betting ads can run.\n\nSupporters argue the changes protect vulnerable Australians from predatory marketing. Critics, including some within Labor, warn the policy risks alienating commercial broadcasters and could prove unworkable. The timing - deep in an election cycle - makes the gamble sharper. Albanese is betting the public appetite for reform outweighs the industry backlash.",
+        "headline": "Albanese Gambles on Gambling Ad Reform Before Election",
+        "body": "Prime Minister Anthony Albanese faces a high-stakes decision on gambling advertising reform, with the Murphy Report's recommendations sitting on his desk ahead of the federal election. Labor has long promised action on the issue, but the party is caught between public health advocates pushing for a full ban and the commercial interests of broadcasters and sporting codes that depend on gambling revenue.\n\nSupporters of reform argue the current saturation of gambling ads causes measurable harm, particularly to young Australians. Opponents warn that heavy-handed restrictions could damage free-to-air television and live sport. Albanese's handling of the report will be read as a signal of how much political risk he is willing to absorb before voters go to the polls.",
         "sources": [
           {
             "title": "Trash or treasure? Albanese’s big gamble",
@@ -156,42 +150,30 @@
         ]
       },
       {
-        "headline": "Pezzullo found reckless in dealings with Liberal powerbroker",
-        "body": "A confidential report has found former Home Affairs secretary Michael Pezzullo acted recklessly in his communications with a Liberal Party powerbroker, adding fresh detail to one of the more damaging public service scandals in recent years. Pezzullo was dismissed in 2023 after a review found he had used his position inappropriately.\n\nThe newly revealed findings sharpen the picture of how those exchanges were assessed internally. The report's existence and its conclusions had not previously been made public. The case raises ongoing questions about the boundaries between senior bureaucrats and political operatives, and whether existing accountability mechanisms are sufficient to police them.",
+        "headline": "Fuel Costs and University Decline Squeeze Young Australians",
+        "body": "High fuel prices are cutting off some young Australians from work, with regional and outer-suburban workers hit hardest. For those without access to public transport, the cost of commuting is eroding take-home pay to the point where some are turning down shifts or leaving jobs entirely. The problem is sharpest in areas where driving is the only option.\n\nSeparately, Australia's university sector is under pressure from a different direction. A sharp drop in international student numbers, driven by tighter visa settings and reputational concerns, has exposed how financially dependent institutions became on overseas enrolments. Critics argue the system was hollowed out over years of underfunding. Universities now face difficult choices about course cuts, staff reductions, and their long-term academic standing.",
         "sources": [
           {
-            "title": "Confidential report found former home affairs boss Michael Pezzullo was ‘reckless’ in engagement with Liberal powerbroker",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/04/confidential-report-found-former-home-affairs-boss-michael-pezzullo-was-reckless-in-engagement-with-liberal-powerbroker",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Two murder cases grip Victoria as arrests made",
-        "body": "Victoria Police have arrested two people in connection with the investigation into missing woman Dezi Freeman, whose disappearance in the Porepunkah area prompted a major search. The arrests mark a significant escalation in a case that has drawn sustained public attention.\n\nSeparately, a man was charged with murder after being intercepted attempting to board an international flight. Police allege the charge relates to a missing woman at Little River. The two cases are unconnected but together reflect a difficult week for Victoria's law enforcement agencies, both of which are now subject to active criminal proceedings.",
-        "sources": [
-          {
-            "title": "Man trying to board international flight charged with murder",
-            "url": "https://www.abc.net.au/news/2026-04-04/man-charged-murder-missing-woman-little-river/106531742",
+            "title": "High fuel prices mean some young Australians cannot afford to get to work",
+            "url": "https://www.abc.net.au/news/2026-04-05/high-fuel-prices-mean-young-australians-cannot-get-to-work-/106527196",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Victoria police arrest two people as part of Dezi Freeman investigation",
-            "url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "The 'enshitification' of the system has left Australia's unis at a crossroad",
+            "url": "https://www.abc.net.au/news/2026-04-05/university-education-international-students-losing-reputation/106527604",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Victorian election takes shape as Bendigo East challenge emerges",
-        "body": "Andrew Lethlean has confirmed he will contest Bendigo East at the next Victorian state election, setting up a direct challenge to Premier Jacinta Allan in her own seat. Allan holds the electorate comfortably, but a targeted campaign against a sitting premier carries symbolic weight regardless of the margin.\n\nThe move signals that opposition forces are willing to invest resources in seats previously considered safe. Whether Lethlean can convert that intent into a genuine contest will depend on how the broader state political environment shifts before polling day. Allan's government faces pressure on multiple fronts, and a well-resourced local campaign adds another variable.",
+        "headline": "Cocaine Boat's Secret Tunnels End in Sydney Arrest",
+        "body": "A vessel described as having a \"bizarre\" journey from Panama has arrived in Sydney carrying what authorities say are tonnes of cocaine hidden in secret tunnels built into the hull. The MV Raider drew attention during its voyage before Australian Border Force and police moved to intercept it. The scale of the alleged haul makes it one of the larger maritime drug seizures in recent Australian history.\n\nThe case highlights the ongoing challenge of policing Australia's vast coastline against sophisticated smuggling operations. Investigators say the tunnel construction points to a well-resourced criminal network rather than an opportunistic operation. Charges are expected to follow as authorities work through the evidence.",
         "sources": [
           {
-            "title": "Lethlean to challenge Victorian premier in Bendigo East",
-            "url": "https://www.abc.net.au/news/2026-04-04/andrew-lethlean-to-challenge-jacinta-allan-victorian-election/106531610",
+            "title": "Secret tunnels and 'tonnes' of cocaine as boat's 'bizarre' journey ends in Sydney",
+            "url": "https://www.abc.net.au/news/2026-04-05/mv-raider-cocaine-smuggling-panama-sydney/106521308",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -200,13 +182,25 @@
     ],
     "world": [
       {
-        "headline": "US-Israeli War on Iran Escalates With Nuclear Plant Strike",
-        "body": "The US-Israeli military campaign against Iran intensified sharply, with strikes hitting a Tehran university and a projectile landing near the Bushehr nuclear plant, killing one person. The IAEA voiced deep concern over the nuclear site attack. New footage showed US-Israeli munitions destroying an Iranian bridge, while Iranian projectile debris set vehicles ablaze inside Israel.\n\nTrump issued a 48-hour ultimatum for Iran to negotiate a deal, as search teams faced dangerous conditions hunting for a missing US airman downed over Iranian territory. Iran responded defiantly, saying the US and Israel \"belong in the Stone Age.\" Separately, the US arrested relatives of slain general Qasem Soleimani, with Secretary of State Rubio also stripping Soleimani's niece of her US residency.",
+        "headline": "US and Israel Strike Iran as Pilot Search Continues",
+        "body": "The United States and Israel are conducting active military operations against Iran, hitting targets including a Tehran university, an Iranian bridge, and infrastructure near the Bushehr nuclear plant. A projectile struck close to Bushehr, killing one person, prompting the UN's nuclear watchdog to voice deep concern. A US fighter jet was also shot down over Iran, and a search operation described as harrowing is underway for the missing crew member.\n\nTrump issued a 48-hour ultimatum to Tehran to reach a deal, while Secretary of State Marco Rubio moved to strip Soleimani's niece of US residency and authorities arrested other relatives of the late Iranian general. Iran responded defiantly, saying the US and Israel belong in the Stone Age. Italy's Meloni flew to Qatar to secure energy alternatives as the conflict rattles European supply chains.",
         "sources": [
+          {
+            "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+            "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Top diplomat Marco Rubio strips Qassem Soleimani’s niece of US residency",
             "url": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "What we know so far about the US fighter jet shot down over Iran",
+            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
@@ -228,20 +222,8 @@
             "lean": null
           },
           {
-            "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
-            "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
             "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -264,20 +246,38 @@
             "lean": null
           },
           {
-            "title": "Iran executes two convicted members of banned opposition group",
-            "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
+            "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
+            "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Strikes Lebanon Hospital as Ground Invasion Pushes Forward",
-        "body": "Israeli forces struck a hospital in the southern Lebanese city of Tyre and damaged surrounding buildings, as a ground invasion continued to advance. Witnesses recorded strikes on residential structures in the city. Hundreds of thousands of Lebanese remain displaced, with aid workers describing lives \"turned upside down\" across the country.\n\nItaly's Prime Minister Giorgia Meloni flew to Qatar to meet the emir and discuss energy security, a visit shaped directly by the regional war's threat to Gulf supply routes. Three suspects in the UK were remanded in custody over an attack on a Jewish charity, a case authorities linked to the broader tensions rippling out of the Middle East conflict.",
+        "headline": "Russia Kills at Least 15 in Ukraine as Zelenskyy Meets Erdogan",
+        "body": "Russian strikes across Ukraine killed at least 15 people in the past 24 hours, including five in an attack on a market. The strikes hit civilian areas, underscoring the continued targeting of non-military sites despite international pressure. Ukrainian President Zelenskyy met Turkish President Erdogan, likely seeking diplomatic leverage and continued military support.\n\nThe meeting signals Kyiv's ongoing effort to keep international allies engaged as the war grinds on.",
         "sources": [
           {
-            "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
-            "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
+            "title": "Russian attack on Ukraine market kills five",
+            "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "At least 15 killed in Russian attacks on Ukraine as Zelenskyy meets Erdogan",
+            "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel Expands Strikes Into Lebanon as Gaza Fighting Continues",
+        "body": "Israeli forces struck a building in Lebanon's Tyre and damaged a hospital there as a ground invasion advanced further into Lebanese territory. Separately, a drone strike in central Gaza engulfed a vehicle in flames. Hundreds of thousands of Lebanese remain displaced, with aid workers describing lives turned upside down.\n\nThe simultaneous fronts in Gaza and Lebanon reflect an expanding Israeli military posture with little sign of restraint. Three suspects were also remanded in UK custody following an attack on a Jewish charity, a case drawing attention to rising tensions beyond the immediate conflict zones.",
+        "sources": [
+          {
+            "title": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -308,33 +308,15 @@
         ]
       },
       {
-        "headline": "Russia Kills 15 in Ukraine as Zelensky Accuses Easter Escalation",
-        "body": "Russian attacks killed at least 15 people across Ukraine, including five at a market, as President Zelensky accused Moscow of deliberately choosing escalation over a ceasefire during the Easter period. Zelensky met Turkish President Erdogan, pressing for renewed diplomatic pressure on Russia.\n\nThe strikes undercut recent ceasefire signals and drew fresh condemnation from Kyiv's allies. Russia has not publicly responded to the Easter escalation charge.",
+        "headline": "Alcatraz Revival, Mafia Arrest, and Other World Briefs",
+        "body": "President Trump requested $152 million to reopen Alcatraz as a functioning federal prison, reviving a proposal widely seen as symbolic but drawing serious budget scrutiny. In Italy, a fugitive mafia boss wanted for murder was arrested at a luxury villa on the Amalfi Coast after years on the run.\n\nSenegal banned ministers from foreign travel as rising oil prices strain the government's finances. In Australia, officials urged citizens to continue Easter travel plans despite fuel shortages. US-South Africa relations remain strained over land reform disputes and diplomatic friction with the Trump administration.",
         "sources": [
           {
-            "title": "Russian attack on Ukraine market kills five",
-            "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Australians told to continue Easter travel plans despite fuel shortages",
+            "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
-          {
-            "title": "At least 15 killed in Russian attacks on Ukraine as Zelenskyy meets Erdogan",
-            "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-            "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Afghanistan Quake, Senegal Travel Ban, Alcatraz Plan: World in Brief",
-        "body": "An earthquake in Afghanistan killed eight members of the same family. Senegal banned government ministers from travelling abroad as rising global oil prices strain the country's finances. In the US, President Trump requested $152 million to reopen Alcatraz as a functioning federal prison, reviving a proposal widely dismissed by corrections experts. A fugitive Italian mafia boss wanted for murder was arrested at a luxury villa on the Amalfi Coast.",
-        "sources": [
           {
             "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
             "url": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&amp;at_campaign=rss",
@@ -348,15 +330,15 @@
             "lean": null
           },
           {
-            "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
-            "url": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Why have US-South Africa relations soured?",
+            "url": "https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           },
           {
-            "title": "Afghanistan earthquake kills eight members of same family",
-            "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
+            "url": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -364,30 +346,12 @@
     ],
     "ai": [
       {
-        "headline": "Anthropic Cuts Off OpenClaw, Sparks Backlash From Claude Users",
-        "body": "Anthropic has moved to block Claude Code subscribers from using OpenClaw without paying extra, a decision that amounts to a functional ban for most users. The Verge and TechCrunch both confirmed the policy change, which hit the community hard enough to generate a dedicated Hacker News thread. Meanwhile, a separate project called Hybro Hub is pushing in the opposite direction, letting developers run local OpenClaw instances alongside remote agents in an open network.\n\nThe timing is awkward for Anthropic. The company is riding high in private markets, with investor appetite strong - but the OpenClaw move signals a tightening grip on how Claude gets used. Hackers are also exploiting the moment, posting a Claude Code leak bundled with malware, according to Wired. A rough week for trust.",
+        "headline": "Anthropic Squeezes OpenClaw Out of Claude Ecosystem",
+        "body": "Anthropic is forcing Claude Code subscribers to pay extra for OpenClaw usage, a move critics are calling a de facto ban on the open-source agent protocol. The Verge and TechCrunch both covered the decision, which effectively walls off Claude from a growing ecosystem of third-party agents built around OpenClaw's open networking model.\n\nThe timing is notable. Anthropic is riding high in private markets, with investors circling despite competition from SpaceX's Starlink-adjacent ventures threatening to absorb capital. Locking Claude tighter to proprietary tooling while the company courts fresh funding signals a deliberate platform strategy. Meanwhile, hackers are distributing a leaked Claude Code build bundled with malware, adding a security headache to an already fraught week for the company.",
         "sources": [
-          {
-            "title": "Show HN: Running local OpenClaw together with remote agents in an open network",
-            "url": "https://github.com/hybroai/hybro-hub",
-            "source": "Hacker News",
-            "lean": null
-          },
           {
             "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
             "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-            "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
             "source": "TechCrunch",
             "lean": null
           },
@@ -398,27 +362,57 @@
             "lean": null
           },
           {
-            "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-            "url": "https://news.ycombinator.com/item?id=47633396",
+            "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+            "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+            "source": "Wired",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Claude Finds 23-Year Linux Bug; AI Code Quality Debate Sharpens",
+        "body": "Claude Code surfaced a Linux vulnerability that sat undetected for 23 years, a striking demonstration of AI-assisted security research. The find comes alongside new academic work showing that simple self-distillation techniques meaningfully improve code generation in large language models, suggesting the ceiling on AI coding ability is still rising.\n\nNot everyone is impressed with AI-generated output. A GitHub commit adding 12,000 AI-generated blog posts in one shot drew sharp criticism for flooding a repository with low-quality content. The contrast is stark: AI can quietly find bugs humans missed for decades, yet it also enables content spam at industrial scale. A detailed breakdown of coding agent architecture published this week helps explain both outcomes, tracing how agent design choices drive wildly different results.",
+        "sources": [
+          {
+            "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+            "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Simple self-distillation improves code generation",
+            "url": "https://arxiv.org/abs/2604.01193",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "12k AI-generated blog posts added in a single commit",
+            "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Components of a Coding Agent",
+            "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Floods the Web With Fake Content, and Creators Pay the Price",
-        "body": "A folk musician named Murphy Campbell found himself targeted by AI-generated fakes of his music and then hit with copyright trolling on top of it - a double blow that illustrates how AI is weaponizing existing legal systems against the people it harms. The Verge documented his case as a warning for independent artists with no legal resources to fight back.\n\nSeparately, OneUptime quietly pushed 12,000 AI-generated blog posts in a single GitHub commit, a move that drew sharp criticism when spotted online. The scale of it - one commit, thousands of posts - made the practice impossible to ignore. Meanwhile, The Verge reports a growing push to certify human-made creative work, as audiences and platforms struggle to distinguish authentic content from machine output.",
+        "headline": "AI Fakes and Copyright Trolls Are Targeting Independent Artists",
+        "body": "A folk musician named Murphy Campbell found herself caught between two modern threats: AI-generated fakes of her music and a copyright troll exploiting the confusion. The Verge's reporting shows how small independent artists lack the legal resources to fight either problem, making them easy targets when the two collide.\n\nThe case lands as pressure grows to prove human authorship. The Verge separately reports on a nascent movement pushing for \"human-made\" labels on creative work, with designers and writers seeking ways to certify AI-free content. Demand for that kind of signal is rising fast, but no standard exists yet. The gap between the problem and any workable solution remains wide.",
         "sources": [
           {
             "title": "A folk musician became a target for AI fakes and a copyright troll",
             "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "12,000 AI-generated blog posts added in a single commit",
-            "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -430,43 +424,25 @@
         ]
       },
       {
-        "headline": "Claude Code Finds 23-Year Linux Bug; AI Coding Research Advances",
-        "body": "Anthropic's Claude Code uncovered a Linux vulnerability that had sat hidden for 23 years, according to a detailed writeup by Michael Lynch. The find is a concrete demonstration of what AI-assisted code review can do at scale - catching bugs that human eyes missed across decades of patches and audits.\n\nOn the research side, a new paper shows that simple self-distillation techniques meaningfully improve code generation quality in language models. Sebastian Raschka also published a breakdown of how coding agents are actually structured, covering the components that make them work in practice. Taken together, the week's developments suggest AI coding tools are maturing fast, even as the business models around them remain contested.",
+        "headline": "Nvidia eGPUs Come to Arm Macs; GPU Sharing Startup Launches",
+        "body": "Apple has approved a driver enabling Nvidia external GPUs to work with Arm-based Macs, cracking open a hardware combination that was previously blocked. The move gives Mac users a path to serious local GPU power without waiting for Apple Silicon to close the gap on raw compute.\n\nOn the software side, a new service called sllm is letting developers split GPU nodes and share access with others, pitching unlimited tokens as the draw. A separate browser-based project brought Google's TurboQuant vector quantization to WebAssembly this week. Taken together, the flurry of GPU-related projects reflects how acute the compute access problem remains for developers working outside large cloud budgets.",
         "sources": [
           {
-            "title": "Components of a Coding Agent",
-            "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+            "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+            "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Simple self-distillation improves code generation",
-            "url": "https://arxiv.org/abs/2604.01193",
+            "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+            "url": "https://sllm.cloud",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-            "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+            "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+            "url": "https://github.com/teamchong/turboquant-wasm",
             "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Meta Pauses AI Contractor After Data Breach Exposes Industry Secrets",
-        "body": "Meta has suspended its work with Mercor, an AI hiring platform, after a data breach exposed sensitive information that Wired describes as putting AI industry secrets at risk. The breach is a reminder that the infrastructure supporting AI development - recruiting, evaluation, data labeling - carries its own serious security vulnerabilities.\n\nAlso in Meta news, Sarah Wynn-Williams, author of the insider memoir \"Careless People,\" has been legally barred from making negative public statements about the company. The gag order, reported by The Times, comes as her book draws wide attention for its account of life inside Meta. The two stories together paint a company working hard to control its narrative from multiple directions.",
-        "sources": [
-          {
-            "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-            "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-            "source": "Wired",
             "lean": null
           }
         ]
@@ -474,9 +450,21 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Market Thins as Bears Face $2.5B Liquidation Risk",
-        "body": "Bitcoin is consolidating without clear direction, but the pressure building underneath is real. Five separate data sources point to thinning liquidity inside the market, a condition that historically precedes sharp, outsized moves. Bears are exposed: a push to $72K would trigger roughly $2.5 billion in short liquidations.\n\nLarge traders are already bleeding. Wealthy Bitcoin holders lost an average of $337 million per day through Q1 2026. Analysts say the current directionless price action is not calm - it is compression. A breakout, when it comes, could be severe in either direction.",
+        "headline": "Bitcoin Gains Political Backing as Safe-Haven Case Strengthens",
+        "body": "Former UK Chancellor George Osborne has publicly backed Bitcoin as an alternative to what he calls failing financial systems, adding institutional credibility to a narrative that research from Mercado Bitcoin is now quantifying. The firm's analysis finds Bitcoin consistently outperforms gold and equities in the months following major global shocks - a pattern that cuts against its reputation as a pure risk asset.\n\nThe timing matters. Bitcoin shorts face $2.5 billion in potential liquidations if the price reaches $72,000, and five separate data sources flagged by CoinDesk suggest market liquidity is quietly thinning. Bears are exposed. A relatively small price move could trigger a cascade that accelerates the very rally skeptics are betting against.",
         "sources": [
+          {
+            "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
+            "url": "https://www.coindesk.com/markets/2026/03/30/bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-finds",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
+            "url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
             "url": "https://cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-liquidation-72k-are-bears-in-danger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -488,7 +476,13 @@
             "url": "https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin's Big Traders Bleed $337M Daily Through Q1",
+        "body": "Wealthy Bitcoin traders lost an average of $337 million per day in the first quarter of 2026, a figure that reframes the quarter's price action as something far more brutal than headline numbers suggested. Large holders absorbed the bulk of the damage while retail largely sat on the sidelines.\n\nMeanwhile, pressure is mounting on corporate crypto treasuries to justify their existence. A CoinDesk opinion piece argues that simply holding digital assets is no longer enough - treasuries must now generate yield or strategic value to satisfy shareholders. Passive accumulation as a strategy is losing its defenders.",
+        "sources": [
           {
             "title": "Rich Bitcoin traders lost $337M daily in first quarter of 2026",
             "url": "https://cointelegraph.com/news/rich-bitcoin-traders-lost-337m-daily-first-quarter-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -496,40 +490,16 @@
             "lean": null
           },
           {
-            "title": "Bitcoin’s ‘no direction’ action may lead to heavier breakout: Analyst",
-            "url": "https://cointelegraph.com/news/bitcoin-price-direction-consolidation-breakout-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ex-UK Chancellor Backs Bitcoin; Tether Eyes $500B Valuation",
-        "body": "Former UK Chancellor Philip Hammond has publicly endorsed Bitcoin as a credible alternative to institutions he describes as failing. The endorsement adds political weight to a growing argument that Bitcoin serves as a structural hedge, not just a speculative asset.\n\nMeanwhile, Tether is weighing a fundraising round at a $500 billion valuation but may delay if demand falls short. Separately, a CoinDesk opinion piece argues that corporate digital asset treasuries can no longer justify passive holdings - they need to generate yield or face pressure from shareholders. The message across all three stories is the same: Bitcoin and crypto assets are being held to a higher standard of utility.",
-        "sources": [
-          {
-            "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-            "url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
             "title": "Digital asset treasuries must now earn their keep",
             "url": "https://www.coindesk.com/opinion/2026/04/04/digital-asset-treasuries-must-now-earn-their-keep",
             "source": "CoinDesk",
             "lean": null
-          },
-          {
-            "title": "Tether may delay fundraising if demand falls short at $500B valuation: Report",
-            "url": "https://cointelegraph.com/news/tether-may-delay-fundraising-500b-valuation-demand-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Kalshi Blocked Again as Prediction Markets Hit Legal Walls",
-        "body": "A Nevada judge extended the ban on Kalshi's sports event contracts, rejecting the company's argument that its products qualify as federally regulated event contracts rather than unlicensed gambling. The ruling is a setback for prediction markets seeking to operate across state lines under CFTC oversight.\n\nThe legal friction is not limited to the US. Prediction platforms are running into hard resistance across strict Asian markets, where regulators treat event-based trading as gambling by default. Polymarket also pulled a market tied to a missing US pilot after public backlash, highlighting how reputational risk now sits alongside legal risk for the sector.",
+        "headline": "Prediction Markets Hit Legal Walls From Nevada to Asia",
+        "body": "A Nevada judge extended a ban on Kalshi, rejecting the platform's argument that its event contracts fall outside gambling regulations. The ruling is a setback for the broader prediction market industry, which has spent years arguing its products are fundamentally different from sports betting. Courts are not convinced.\n\nThe legal pressure is not limited to the US. CoinTelegraph reports that prediction platforms are testing regulatory limits across strict Asian markets, where the line between financial instruments and gambling is drawn even more aggressively. Polymarket added to the industry's reputational headaches by pulling a market tied to a missing US pilot after public backlash - a reminder that legal exposure and ethical exposure often arrive together.",
         "sources": [
           {
             "title": "Nevada judge extends ban on Kalshi, rejects event contract defense",
@@ -548,29 +518,23 @@
             "url": "https://cointelegraph.com/news/polymarket-removes-missing-us-pilot-market-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Judge continues Nevada ban on Kalshi sports markets",
-            "url": "https://www.coindesk.com/policy/2026/04/04/judge-continues-nevada-ban-on-kalshi-sports-markets",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Solana Faces Quantum Security Tradeoff; Bitcoin Debates Node Conservatism",
-        "body": "Solana's architecture creates a genuine dilemma when stress-tested against quantum computing threats. Upgrading to post-quantum cryptography would significantly slow transaction throughput - the core feature the network sells. Speed and security, at least for now, pull in opposite directions.\n\nOn the Bitcoin side, developer Jimmy Song is pushing for a more conservative node client, arguing that Bitcoin's strength comes from resisting change rather than chasing it. The two debates reflect a broader tension in crypto infrastructure: how much risk do you accept in the name of performance or progress?",
+        "headline": "Solana Faces Quantum Threat, Bitcoin Debates Node Philosophy",
+        "body": "Solana's engineers are confronting an uncomfortable tradeoff: post-quantum cryptographic upgrades would significantly slow the network, undermining the speed that defines its competitive position. The dilemma is not hypothetical - quantum computing timelines are compressing, and blockchains that delay upgrades now may face harder choices later.\n\nOn the Bitcoin side, developer Jimmy Song is pushing for a dedicated conservative node client, one that resists protocol changes and prioritizes stability over new features. The argument is philosophical as much as technical. Song believes Bitcoin's value depends on predictability, and that existing clients are too permissive toward upgrades that could introduce unforeseen risk.",
         "sources": [
-          {
-            "title": "Jimmy Song explains why Bitcoin needs a 'conservative' node client",
-            "url": "https://cointelegraph.com/news/jimmy-song-bitcoin-conservative-node-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
           {
             "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
             "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
             "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Jimmy Song explains why Bitcoin needs a 'conservative' node client",
+            "url": "https://cointelegraph.com/news/jimmy-song-bitcoin-conservative-node-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -579,21 +543,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Leek and Walnut Tart",
-      "cuisine": "Japanese-French Fusion",
-      "description": "A buttery shortcrust tart filled with slow-caramelised leeks, toasted walnuts, and a white miso custard that walks the line between savoury and umami-sweet.",
-      "tip": "Blind-bake the pastry shell for 15 minutes before adding the filling — leeks release a lot of moisture and a soggy base will ruin the whole thing."
+      "name": "Mafaldine al Limone e Bottarga",
+      "cuisine": "Sardinian-Italian",
+      "description": "Ruffled ribbon pasta tossed in brown butter, lemon zest, and shaved cured mullet roe for a briny, citrus-bright hit of umami",
+      "tip": "Grate the bottarga over the finished dish off the heat — direct heat kills its delicate salinity and turns it bitter"
     },
     "exercise": {
-      "name": "The Deck of Cards Workout",
-      "duration": "35–50 minutes",
-      "equipment": "A standard deck of playing cards, exercise mat",
-      "description": "Flip cards one at a time and perform the corresponding exercise for that suit — e.g. hearts = push-ups, spades = squats, clubs = mountain climbers, diamonds = plank seconds — using the card's number as the rep or second count, turning a full deck into a completely unpredictable full-body session."
+      "name": "The Turkish Get-Up Ladder",
+      "duration": "35 minutes",
+      "equipment": "One kettlebell (or a filled water bottle as a substitute)",
+      "description": "Perform Turkish get-ups starting at 1 rep per side, climbing to 5 and back down to 1, resting only as long as it takes to switch hands — a slow, full-body movement that builds shoulder stability, hip mobility, and floor-to-standing coordination simultaneously"
     },
     "learn": {
-      "topic": "Taphonomy: The Science of How Things Become Fossils",
-      "description": "Taphonomy studies the journey an organism takes from death to preservation — why some creatures become fossils while the vast majority vanish without a trace, and how burial conditions, chemistry, and time conspire to distort or erase the fossil record.",
-      "why": "It fundamentally reframes how we read prehistoric life: almost everything we think we know about ancient ecosystems is shaped by what happened to survive the fossilisation lottery, making it a quiet but radical lens on scientific evidence itself."
+      "topic": "Stochastic Resonance",
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous systems of crayfish, exploited in medical devices for balance disorders, and studied in climate science to explain ice age cycles.",
+      "why": "It fundamentally challenges the assumption that noise is always the enemy of clarity, and once you understand it you start seeing its fingerprints everywhere from neuroscience to financial markets to how your own sensory system works"
     }
   }
 }
