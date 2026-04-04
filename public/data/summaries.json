@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-04-04T00:19:50.697Z",
+  "generatedAt": "2026-04-04T01:35:16.896Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
         "headline": "US Warplanes Shot Down Over Iran, Crew Member Missing",
-        "body": "Two US warplanes were shot down during operations over Iran, with recovery helicopters also taking fire. One crew member remains missing. The incidents mark a sharp escalation in what has become an active US military campaign against Iranian targets.\n\nThe operation is drawing bipartisan unease at home. Republican Senator John Curtis called for ending offensive operations without a formal declaration of war, and Rep. Nancy Mace warned against further escalation and opposed deploying ground troops. A Democrat slammed prediction market Polymarket for taking bets on the missing pilot's fate.\n\nNPR notes Trump's wartime rhetoric differs markedly from past presidents in tone and framing - a distinction analysts say carries real consequences for how allies and adversaries read US intentions.",
+        "body": "Two U.S. fighter jets and two helicopters were hit by Iranian fire during ongoing military operations, with at least one crew member still missing. Recovery efforts remain active. The losses mark a serious escalation in what has become an undeclared war with Iran.\n\nOn Capitol Hill, Republican Senator John Curtis called for ending offensive operations without a formal declaration of war, while Rep. Nancy Mace voiced concern about further escalation and ground troop deployment. NPR notes Trump's wartime rhetoric departs sharply from the measured language of past presidents. A Democrat also condemned prediction market Polymarket for taking bets on the missing pilot's fate.",
         "sources": [
+          {
+            "title": "What to know about US fighter jets hit in Iran war",
+            "url": "https://thehill.com/policy/defense/5815865-us-air-force-jets-downed-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "2 US helicopters hit during recovery efforts in Iran",
             "url": "https://thehill.com/policy/defense/5815839-us-military-helicopters-iranian-fire/",
@@ -47,7 +53,7 @@
       },
       {
         "headline": "Trump Budget Draws Fire From Both Parties",
-        "body": "Trump's proposed budget cuts TSA funding, mandates privatisation at small airports, slashes domestic programs, and redirects billions toward defense and a $10 billion DC construction fund. It also seeks $152 million to reopen Alcatraz as a federal prison.\n\nRepublican Senator Susan Collins publicly knocked the domestic funding cuts, a rare break from a senior GOP figure. Senate Democrats separately pressed the Treasury Department over plans to add Trump's name to US currency, calling the move inappropriate.\n\nThe defense side of the budget expands military spending significantly, with FBI Director Kash Patel and Army Secretary Pete McCormick arguing that terror threats inside the US grew under the Biden administration and require a stronger response.",
+        "body": "Trump's proposed federal budget includes a $10 billion fund for Washington D.C. construction and beautification, cuts to TSA funding with mandated privatization at small airports, and a restructured defense spending plan. The proposal has drawn criticism across party lines.\n\nRepublican Senator Susan Collins publicly knocked the funding cuts, signaling the budget faces resistance within the GOP. Senate Democrats separately pressed the Treasury Department over its decision to add Trump's name to U.S. currency. The budget's defense component increases military spending overall, but critics argue the domestic cuts are too deep.",
         "sources": [
           {
             "title": "Susan Collins knocks funding cuts in White House budget proposal",
@@ -78,25 +84,19 @@
             "url": "https://thehill.com/policy/transportation/5815507-trump-budget-proposal-tsa-funding/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump seeks $152M to rebuild Alcatraz as ‘state-of-the-art secure prison’",
-            "url": "https://thehill.com/homenews/administration/5815432-trump-seeks-funds-alcatraz-reopening-budget/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Patel, McCormick warn foreign terror threats inside US grew during Biden years",
-            "url": "https://www.foxnews.com/politics/patel-mccormick-warn-foreign-terror-threats-inside-us-grew-during-biden-years",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       },
       {
-        "headline": "DOJ Reshuffles as Blanche Takes Top Job",
-        "body": "Todd Blanche, Trump's former personal attorney, has taken over as the acting head of the Justice Department following Pam Bondi's departure. Blanche told reporters there is no evidence in the Epstein files that Epstein worked as a spy. Rep. Mace said she is not backing away from her push to have Bondi testify about those files.\n\nSeparately, Senator Thom Tillis set a clear condition for any incoming attorney general nominee - no moves against those convicted over January 6. Trump is also weighing broader Cabinet changes but wants to avoid what aides describe as a massive shake-up, with figures including Howard Lutnick and Todd Blanche among those being assessed for expanded roles.",
+        "headline": "DOJ Shake-Up: Blanche In, Epstein Questions Linger",
+        "body": "Todd Blanche, Trump's former personal attorney, has taken over as the top official at the Justice Department following Pam Bondi's departure. Blanche stated there is no evidence in the Epstein files that Jeffrey Epstein worked as a spy. Mace said she is not backing away from pushing for Bondi to testify on the matter.\n\nMeanwhile, Trump is weighing further Cabinet changes but wants to avoid a broad shake-up, according to the Washington Post. FBI Director Kash Patel and Army Secretary McCormick separately warned that foreign terror threats inside the U.S. grew during the Biden years. Senator Thom Tillis also set a Jan. 6 red line for any future attorney general nominee.",
         "sources": [
+          {
+            "title": "Trump weighs more Cabinet changes, but wants to avoid ‘massive shake-up’",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-cabinet-lutnick-deremer-blanche-bondi/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "Todd Blanche takes on DOJ’s top job and the burden of Trump’s expectations",
             "url": "https://www.washingtonpost.com/national-security/2026/04/03/todd-blanche-doj-bondi-trump/",
@@ -110,6 +110,12 @@
             "lean": "center"
           },
           {
+            "title": "Patel, McCormick warn foreign terror threats inside US grew during Biden years",
+            "url": "https://www.foxnews.com/politics/patel-mccormick-warn-foreign-terror-threats-inside-us-grew-during-biden-years",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
             "title": "Tillis sets Jan. 6 red line on attorney general nominee",
             "url": "https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/",
             "source": "The Hill",
@@ -120,19 +126,25 @@
             "url": "https://thehill.com/homenews/house/5815527-pam-bondi-epstein-files-testimony-nancy-mace/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump mulls more Cabinet changes — but wants to avoid ‘massive shake-up’",
-            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-cabinet-lutnick-deremer-blanche-bondi/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Legal Battles Flare Over ICE, Voting, and Colorado Courts",
-        "body": "Democratic-led states filed suit against Trump's executive order restricting mail-in ballots, arguing it oversteps federal authority over state election administration. The White House has not yet responded publicly to the litigation.\n\nIn Colorado, lawyers report that the state court e-filing system now requires them to certify they will not assist ICE - a requirement critics say puts attorneys in an impossible position between state and federal obligations. Illinois Governor Pritzker called on Trump officials to testify about the ICE crackdown in his state. The White House dismissed the move as a political stunt.\n\nVice President Vance was tapped as a so-called fraud czar, with Trump directing him to investigate what the administration characterises as taxpayer theft in Democratic-governed states.",
+        "headline": "Voting Rights, College Sports, and State Battles With Trump",
+        "body": "Oregon's attorney general sued the Trump administration over its executive order restricting vote-by-mail, calling it a source of \"confusion, chaos and distrust.\" A coalition of Democratic-led states filed a separate lawsuit on the same order. Trump's directive would require proof of citizenship for federal election registration, a requirement critics say will suppress turnout.\n\nOn a different front, Trump signed another executive order targeting college sports, framed as an effort to protect competitive fairness. Colorado lawyers reported that the state's court e-filing system now requires them to certify they will not assist ICE, a move Fox News highlighted as a direct conflict with federal immigration enforcement. Vice President Vance was tapped to lead a new anti-fraud initiative targeting what the White House calls taxpayer theft in Democratic-run states.",
         "sources": [
+          {
+            "title": "Trump again orders changes to ‘save’ college sports",
+            "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-college-sports-order/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "‘Confusion, chaos and distrust’: Oregon challenges Trump’s order restricting vote-by-mail",
+            "url": "https://thehill.com/homenews/nexstar_media_wire/5815881-oregon-ag-sues-trump-mail-voting/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Colorado lawyers say court e-file system now makes them certify they won’t assist ICE",
             "url": "https://www.foxnews.com/politics/colorado-lawyers-say-court-e-file-system-now-makes-them-certify-wont-assist-ice",
@@ -150,38 +162,32 @@
             "url": "https://www.foxnews.com/politics/vance-tapped-fraud-czar-trump-targets-blue-states-over-taxpayer-theft",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Pritzker calls on Trump officials to testify over ICE crackdown, White House blasts move as ‘political stunt’",
-            "url": "https://www.foxnews.com/politics/pritzker-calls-trump-officials-testify-ice-crackdown-white-house-blasts-move-political-stunt",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Tax policy divides parties as election pressure mounts",
-        "body": "Both Labor and the Coalition are scrambling to match voter expectations on tax ahead of the federal election, with the Guardian reporting that even Liberal defence spokesman Andrew Hastie has suggested miners could pay more. The debate signals fractures within the Coalition over resources taxation, while Albanese faces pressure to offer meaningful relief without blowing the budget.\n\nThe Spectator's conservative commentary flags broader concerns about policy drift and what critics see as missed opportunities in the political debate. With cost-of-living still the dominant voter concern, neither major party has landed a clear, credible position. The gap between rhetoric and policy detail is widening.",
+        "headline": "Nine charged as sunken trawler exposes major drug conspiracy",
+        "body": "Nine people face charges over an alleged plot to import tonnes of cocaine and methamphetamine into Australia using a so-called mother ship operating in Australian waters. The operation unravelled after a trawler sank, alerting Victoria Police to the alleged syndicate. Investigators say the scale of the alleged importation is significant.\n\nThe arrests follow a joint law enforcement operation and mark one of the larger drug conspiracy cases in recent memory. Details of how the vessel came to sink, and what evidence it yielded, remain central to the prosecution case. No convictions have been recorded and all accused are presumed innocent.",
         "sources": [
           {
-            "title": "Taxing times for Albanese and Taylor as parties seek to match voter expectations",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/04/taxing-times-for-albanese-and-taylor-alike-as-even-hastie-thinks-miners-could-pay-more",
+            "title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/04/nine-charged-over-alleged-conspiracy-to-import-tonnes-of-cocaine-and-meth-australia-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "What did I miss?",
-            "url": "https://www.spectator.com.au/2026/04/what-did-i-miss-5/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Sunken trawler alerts police to alleged drug-smuggling plan",
+            "url": "https://www.abc.net.au/news/2026-04-04/victoria-cocaine-syndicate-arrests/106531258",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "One Nation leaves SA Liberals fighting for opposition status",
-        "body": "South Australia's Liberal Party is clinging to its position as the official opposition after One Nation's strong showing left the party's numbers in doubt. The situation has few modern precedents at state level, raising questions about parliamentary procedure and whether the Liberals can maintain the resources and speaking rights that come with opposition status.\n\nThe result reflects a broader pattern of minor-party and independent gains eroding the two-party system in Australian state politics. For the Liberals, it compounds a difficult period of rebuilding after successive electoral setbacks. One Nation's rise in SA adds another variable to an already complicated federal election landscape.",
+        "headline": "One Nation leaves SA Liberals clinging to opposition status",
+        "body": "South Australia's Liberal Party is fighting to retain its formal status as the opposition after One Nation's presence in the upper house complicated the parliamentary arithmetic. Analysts describe the situation as having almost no precedent in the state's political history. The Liberals need to hold their position to maintain resources and speaking rights that come with official opposition standing.\n\nThe development reflects a broader pattern of minor parties disrupting traditional two-party dynamics in state legislatures. One Nation's growing footprint in South Australian politics adds pressure on the Liberals to consolidate their base ahead of the next election cycle.",
         "sources": [
           {
             "title": "'So few precedents': One Nation leaves SA Liberals clinging to opposition status",
@@ -192,20 +198,8 @@
         ]
       },
       {
-        "headline": "Sunken trawler unravels alleged Victorian cocaine syndicate",
-        "body": "Victorian police have made arrests after a sunken fishing trawler led investigators to an alleged large-scale cocaine smuggling operation. The vessel's discovery triggered a chain of evidence that exposed the alleged syndicate's supply network, according to ABC reporting.\n\nThe case highlights the use of commercial fishing boats as cover for drug importation, a method authorities have flagged as a growing concern. Details of the arrests and charges are still emerging.",
-        "sources": [
-          {
-            "title": "Sunken trawler alerts police to alleged drug-smuggling plan",
-            "url": "https://www.abc.net.au/news/2026-04-04/victoria-cocaine-syndicate-arrests/106531258",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Iran shoots down US jet, raising stakes for Trump",
-        "body": "Iran has downed a US aircraft, a development ABC analysis describes as likely to shock Americans on multiple fronts - military, diplomatic and political. The incident lands at a volatile moment, with the Trump administration already managing tensions across the Middle East and facing questions about its strategic posture toward Tehran.\n\nABC's analysis warns the episode could become a defining test for Trump, drawing comparisons to past presidential quagmires triggered by sudden military escalation. How Washington responds in the coming days will be closely watched by allies in the Pacific, including Australia.",
+        "headline": "Iran shoots down US jet, raising stakes with Trump administration",
+        "body": "Iran has downed a United States aircraft, an incident analysts say will reverberate through American public opinion in three distinct ways. The episode risks becoming a defining foreign policy test for the Trump administration, which faces pressure to respond without triggering a broader conflict. Commentators warn the incident carries echoes of past moments where US credibility was seen to be on the line.\n\nThe shoot-down raises immediate questions about rules of engagement and the posture of US forces in the region. How Washington responds in the coming days will shape both diplomatic and domestic political calculations.",
         "sources": [
           {
             "title": "Iran's downing of a US jet will shock Americans in three ways",
@@ -214,12 +208,30 @@
             "lean": "center-left"
           }
         ]
+      },
+      {
+        "headline": "Fuel costs bite caravanners as EV novated lease interest grows",
+        "body": "Long-term caravanners say rising fuel prices are forcing itinerary changes and financial stress, with some comparing the disruption to pandemic-era lockdowns. The crisis is hitting travellers in remote areas hardest, where fuel alternatives are scarce and distances between stops are long.\n\nMeanwhile, interest in electric vehicles is growing through novated leases, which allow employees to pay for an EV using pre-tax salary. Advocates say the arrangement offers meaningful savings, though critics note it primarily benefits higher-income earners with access to employer salary-packaging schemes. The contrast between the two stories points to an uneven energy transition playing out across different segments of Australian life.",
+        "sources": [
+          {
+            "title": "Another 'lockdown': How long-term caravanners are dealing with the fuel crisis",
+            "url": "https://www.abc.net.au/news/2026-04-04/travellers-changing-plans-with-high-fuel-costs/106467436",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "More people are using this 'secret deal' to get an EV. Here's what to know",
+            "url": "https://www.abc.net.au/news/2026-04-04/novated-leases-electric-vehicles-explainer/106527770",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran War Escalates as Hormuz Shipping Slowly Resumes",
-        "body": "Iran shot down two US warplanes and closed the Strait of Hormuz as fighting intensified, marking a sharp escalation in the conflict. The WHO reports more than 20 attacks on Iranian healthcare facilities since March 1, while survivors of a US-Israeli bridge strike described scenes of mass panic and destruction.\n\nThe strait showed signs of cautious reopening, with Omani, French, and Japanese vessels completing transits - the first commercial shipping to pass through since the war began. Whether that holds remains uncertain. Israel simultaneously struck bridges in Lebanon, where Christians observed Good Friday under active bombardment. A separate attack on the UAE's Habshan gas facility killed at least one person before being intercepted.",
+        "headline": "US-Iran War Escalates as Hormuz Tensions Grip Region",
+        "body": "Iran shot down two US warplanes and the conflict is now rippling across the wider Middle East, with Israel striking bridges in Lebanon and a US-Israeli strike on an Iranian bridge leaving survivors describing scenes of terror. The WHO reports more than 20 attacks on Iranian healthcare facilities since March 1. A French-owned ship successfully passed through the Strait of Hormuz, but questions over whether force will be used to reopen the waterway remain live. The UAE's Habshan gas facility was also struck in an intercepted attack, killing at least one person, underscoring how the conflict is threatening regional energy infrastructure.",
         "sources": [
           {
             "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
@@ -262,42 +274,36 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/what-we-know-about-the-us-fighter-jet-shot-down-in-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Omani, French and Japanese vessels transit the Strait of Hormuz",
-            "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Russia Drones Ukraine; Sudan Hospital Strike Kills Ten",
-        "body": "Footage released Friday shows a Russian drone striking a residential apartment block in Ukraine, the latest in a sustained campaign targeting civilian infrastructure. The attack drew renewed international condemnation but no new commitments of military support.\n\nIn Sudan, a drone strike killed ten people at a hospital, according to medical charity MSF. The strike follows a pattern of attacks on protected sites that has drawn repeated warnings from humanitarian organisations. Two conflicts, two drone strikes on civilians - within the same 24-hour news cycle.",
+        "headline": "Gaza and Lebanon Christians Mark Good Friday Under Fire",
+        "body": "Palestinian Christians in Gaza and Lebanese Christians observed Good Friday as Israeli military operations continued around them. In Jerusalem's Old City, monks held Easter prayers in streets emptied by the conflict. The scenes highlight how the war has hollowed out Christian communities in some of Christianity's most historically significant places, with worshippers unable to gather freely during one of the faith's most important observances.",
         "sources": [
           {
-            "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+            "title": "Palestinian Christians in Gaza mark Good Friday",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-            "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
+            "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Monks hold Easter prayers in deserted Old City of Jerusalem",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/monks-hold-easter-prayers-in-deserted-old-city-of-jerusalem?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Cuba Frees 2,000 Prisoners; US States Sue Over Ballots",
-        "body": "Cuba began releasing more than 2,000 prisoners as US pressure intensified, a significant concession from Havana that follows months of diplomatic and economic leverage applied by Washington. The releases are ongoing and the full scope of conditions attached remains unclear.\n\nInside the US, two dozen Democrat-led states filed suit against the Trump administration over restrictions on mail-in voting, opening a broad legal front ahead of future elections. Separately, a federal judge upheld the dismissal of subpoenas targeting Federal Reserve Chair Jerome Powell, blocking what critics called an attempt to pressure the central bank.",
+        "headline": "Cuba Frees 2,000 Prisoners as US Pressure Mounts",
+        "body": "Cuba has begun releasing more than 2,000 prisoners in what appears to be a direct response to sustained pressure from Washington. The releases mark a notable shift for Havana, which has long resisted external demands on its domestic governance. The move raises questions about what, if anything, the Cuban government expects in return and whether it signals a broader recalibration of relations with the United States.",
         "sources": [
           {
             "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
@@ -310,24 +316,12 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/cuba-releases-over-2000-prisoners-amid-mounting-us-pressure?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-            "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-            "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
         "headline": "Artemis II Crew Sends Back Stunning Earth Images",
-        "body": "NASA's Artemis II crew captured and released striking photographs of Earth from deep space, offering the most vivid imagery of the planet from a crewed mission in decades. The images were taken as the spacecraft continues its lunar flyby mission - the first crewed trip to the Moon's vicinity since Apollo.\n\nThe photos drew wide attention at a moment when much of the world's focus remains fixed on conflict. NASA described the images as among the most detailed ever taken of Earth from a crewed vehicle.",
+        "body": "NASA's Artemis II crew captured striking photographs of Earth during the mission's lunar trajectory, with both NASA and the crew describing the images as spectacular. The photos are the first taken by astronauts from that distance since the Apollo era. The mission marks a significant step toward returning humans to the Moon, and the images have drawn wide attention as a rare human perspective on the planet from deep space.",
         "sources": [
           {
             "title": "Artemis II crew take 'spectacular' image of Earth",
@@ -346,9 +340,15 @@
     ],
     "ai": [
       {
-        "headline": "Anthropic Blocks OpenClaw, Enters Biotech, Launches PAC",
-        "body": "Anthropic had a busy week. The company effectively cut off OpenClaw - a third-party Claude client - by requiring its users to pay extra beyond their existing subscriptions, drawing complaints on Hacker News from affected Claude Code subscribers. Separately, Ars Technica flagged fresh security concerns around OpenClaw, advising users to assume their accounts may be compromised.\n\nBeyond the platform drama, Anthropic reportedly acquired biotech startup Coefficient Bio for $400 million, signaling a push into life sciences. The company also launched a political action committee, stepping up its Washington presence as AI regulation debates intensify.",
+        "headline": "Anthropic's Big Week: Biotech Deal, PAC, and Claude Crackdown",
+        "body": "Anthropic is moving fast on multiple fronts. The company reportedly acquired biotech startup Coefficient Bio for $400 million, launched a new political action committee to expand its Washington presence, and rolled out new Claude subscription bundles - all within the same news cycle. Private market investors are paying close attention, though a looming SpaceX IPO could suck oxygen from the room.\n\nOn the product side, Anthropic effectively cut off OpenClaw, a popular third-party Claude client, by requiring its users to pay extra on top of existing subscriptions. The move drew immediate backlash. OpenClaw's security practices are also under scrutiny, with researchers warning users to assume their credentials may be compromised.",
         "sources": [
+          {
+            "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+            "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
             "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
@@ -388,8 +388,8 @@
         ]
       },
       {
-        "headline": "OpenAI Reshuffles Executives as Key Leaders Step Back",
-        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap is moving into a new \"special projects\" role, while both Fidji Simo and the company's AGI lead are taking leaves of absence. The timing is awkward - OpenAI is navigating its ongoing restructuring from nonprofit to for-profit while managing intense competitive pressure.\n\nThe departures leave visible gaps in leadership across operations and long-term AI development. No replacements have been announced.",
+        "headline": "OpenAI Reshuffles Leadership as Key Executives Step Back",
+        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap is moving into a new \"special projects\" role, while Fidji Simo - brought in less than a year ago to run the applications business - is taking medical leave. The company's AGI research lead is also stepping away.\n\nThe simultaneous departures raise questions about internal stability at a company already navigating a high-stakes transition to a for-profit structure. OpenAI has not detailed what Lightcap's special projects role will cover.",
         "sources": [
           {
             "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -412,25 +412,13 @@
         ]
       },
       {
-        "headline": "AI Is Eroding Critical Thinking, New Research Warns",
-        "body": "A new study finds that heavy AI users are increasingly outsourcing their reasoning to language models, a pattern researchers call \"cognitive surrender.\" Participants showed reduced willingness to question or verify AI outputs, even when those outputs were wrong. The effect was stronger among frequent users.\n\nThe findings land as AI tools embed deeper into workplaces and schools. Critics argue the industry has little incentive to design tools that push back on users or encourage independent thought.",
+        "headline": "AI's Infrastructure Problem: Tariffs, Gas Plants, and Hostile Neighbors",
+        "body": "The AI industry's data center ambitions are running into hard reality. Trump's own tariffs are driving up construction costs and slowing the buildout his administration championed. Meanwhile, companies are turning to massive natural gas plants to meet power demands, a bet that carries both environmental and regulatory risk.\n\nPublic opinion isn't helping either. Surveys show communities would sooner accept an Amazon warehouse next door than a data center. Iran strikes knocked Amazon's cloud infrastructure offline in Bahrain and Dubai, a reminder of how exposed this concentrated infrastructure can be.",
         "sources": [
           {
-            "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-            "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Musk Ties SpaceX IPO Banks to Grok Subscriptions",
-        "body": "Elon Musk is reportedly requiring investment banks competing for SpaceX's IPO mandate to purchase Grok subscriptions, effectively using a multi-billion-dollar deal as leverage to drive revenue to his AI venture xAI. The move blurs the line between business negotiation and coercion.\n\nMeanwhile, Trump's broader AI data center push is stalling - undercut by his own tariffs raising hardware costs - and a Meta data breach via contractor Mercor exposed sensitive AI industry information. The week illustrated how political and corporate power are increasingly tangled with AI infrastructure.",
-        "sources": [
-          {
-            "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
-            "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
-            "source": "Ars Technica",
+            "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+            "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -440,9 +428,45 @@
             "lean": null
           },
           {
-            "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-            "source": "Wired",
+            "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+            "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+            "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Artemis II Heads to the Moon as NASA Budget Faces Cuts",
+        "body": "The Artemis II crew is en route to the Moon and, by all accounts, the mission is running smoothly. The astronauts have already sent back striking images of Earth from deep space. It is a genuine milestone for NASA and human spaceflight.\n\nThe timing is awkward. The Trump administration has simultaneously proposed steep cuts to NASA's budget, putting future missions in doubt even as this one unfolds. Elon Musk, whose SpaceX is central to the Artemis program, is separately drawing attention for reportedly requiring banks working on the SpaceX IPO to purchase Grok subscriptions.",
+        "sources": [
+          {
+            "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+            "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+            "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+            "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Artemis II crew take “spectacular” image of Earth",
+            "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -451,7 +475,7 @@
     "btc": [
       {
         "headline": "Circle Faces Heat Over $285M Hack and Compliance Failures",
-        "body": "Circle is under serious pressure after the $285 million Drift protocol hack exposed the stablecoin issuer's reluctance to freeze stolen USDC. Critics argue Circle's inaction undermines one of the core arguments for regulated stablecoins - that issuers can act as a backstop against theft.\n\nOn-chain investigator ZachXBT piled on, accusing Circle of $420 million in compliance failures since 2022. The back-to-back allegations paint a damaging picture of a company preparing for a public listing while struggling to police its own network.\n\nThe controversy arrives at a critical moment. With stablecoin legislation moving through Congress, Circle's critics now have concrete examples to argue that USDC's compliance record does not match its regulatory-friendly branding.",
+        "body": "Circle is under serious pressure after the $285 million Drift protocol hack exposed the stablecoin issuer's reluctance to freeze stolen USDC. Critics argue Circle's inaction undermines the core value proposition of a regulated, freezable stablecoin. The backlash is compounding.\n\nOn-chain investigator ZachXBT separately accused Circle of $420 million in compliance failures dating back to 2022, alleging the company repeatedly failed to act on illicit fund flows. Together, the two cases paint a damaging picture of a company preparing for a public listing while struggling to defend its compliance credibility. Regulators and institutional partners will be watching closely.",
         "sources": [
           {
             "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
@@ -469,7 +493,7 @@
       },
       {
         "headline": "Schwab Eyes Spot Crypto Trading as Bitcoin Dips Below $70K",
-        "body": "Charles Schwab confirmed plans to launch direct spot trading for Bitcoin and Ether in the first half of 2026, a move that would bring one of America's largest retail brokerages fully into the crypto market. The announcement signals that institutional appetite for crypto infrastructure remains intact despite recent price weakness.\n\nBitcoin slipped below $70,000 this week, putting pressure on corporate treasury strategies. Some firms that followed MicroStrategy's playbook are now reassessing their positions, creating a visible split between committed Bitcoin holders and those treating it as a tactical trade.\n\nOne former hedge fund manager warned that Bitcoin may be underpricing the risk of a prolonged Iran conflict, adding a geopolitical dimension to an already uncertain macro backdrop. Strong U.S. jobs data - 178,000 added in March - gave broader markets a lift but offered little immediate relief for crypto.",
+        "body": "Charles Schwab plans to launch direct spot trading for Bitcoin and Ether in the first half of 2026, a move that signals mainstream brokerage firms are no longer willing to cede crypto market share to dedicated exchanges. The announcement comes as Bitcoin slips below $70,000, rattling corporate treasury strategies built around the asset.\n\nThe price dip is creating visible tension among Bitcoin treasury holders, with some firms breaking from the aggressive accumulation playbook popularized by Strategy. A former hedge fund manager also flagged that Bitcoin may be underpricing the risk of a prolonged Iran conflict, adding a geopolitical dimension to an already uncertain macro backdrop.",
         "sources": [
           {
             "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
@@ -488,28 +512,16 @@
             "url": "https://cointelegraph.com/news/corporate-bitcoin-strategy-vs-nakamoto-treasury-divide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "U.S. March jobs smash expectations, with 178,000 added",
-            "url": "https://www.coindesk.com/markets/2026/04/03/u-s-march-jobs-smash-expectations-with-178-000-added",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Coinbase Trust Charter Draws Community Bank Opposition",
-        "body": "A coalition of U.S. community banks is pushing back against the OCC's move to grant Coinbase a federal trust charter, arguing it would give the crypto exchange access to banking privileges without equivalent regulatory burdens. The opposition reflects growing anxiety among traditional lenders as crypto firms pursue direct access to the financial system.\n\nThe fight over Coinbase's charter is part of a broader regulatory tug-of-war. In Europe, Malta is clashing with ESMA over crypto oversight, with smaller jurisdictions resisting centralized EU control. Cambodia, meanwhile, is taking a harder line domestically - lawmakers there proposed severe prison sentences for crypto scammers this week.\n\nTaken together, the moves show regulators worldwide tightening their grip, even as they disagree sharply on who should hold the reins.",
+        "headline": "Coinbase Trust Charter Draws Banking Opposition, Regulatory Scrutiny",
+        "body": "US community banks are pushing back against the OCC's approval of a trust charter for Coinbase, arguing it grants the crypto exchange bank-like privileges without equivalent regulatory obligations. The opposition reflects a broader anxiety in traditional finance about crypto firms gaining institutional footholds through regulatory side doors.\n\nMeanwhile, Cambodia's lawmakers are moving in a different direction, proposing severe prison sentences for crypto scammers in a sign that emerging markets are tightening enforcement frameworks. Across both stories, the central tension is the same - who gets to operate in financial markets, and on what terms.",
         "sources": [
           {
             "title": "US community banks oppose OCC's approval of Coinbase trust charter",
             "url": "https://cointelegraph.com/news/community-banks-oppose-coinbase-trust-charter-approval-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Centralizing crypto: Why Malta’s clash with ESMA is about more than one small state",
-            "url": "https://cointelegraph.com/news/centralizing-crypto-why-malta-clash-with-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -523,7 +535,7 @@
       },
       {
         "headline": "Ethereum Staking Milestone Nears as L2 Scaling Debate Heats Up",
-        "body": "The Ethereum Foundation is close to hitting its 70,000 staked ETH target, a milestone that reinforces the network's shift toward a staking-driven security model. The progress comes as Offchain Labs argued that Ethereum Layer 2 networks need more responsive fee pricing to handle billions of users at scale.\n\nThe two developments are connected. Staking growth strengthens Ethereum's base layer, but L2s remain the practical path to mass adoption - and their fee mechanisms are still catching up. Hyperliquid's entry into the top 10 crypto derivatives platforms in Q1, per CoinGlass data, shows that newer execution layers are already pulling volume away from established venues.\n\nMeanwhile, decentralized email platform Dmail announced it will shut down on May 15, a reminder that not every Web3 infrastructure bet survives long enough to find its users.",
+        "body": "The Ethereum Foundation is closing in on its 70,000 staked ETH target, a milestone that reinforces the network's shift toward a staking-driven security model. The progress comes as Offchain Labs argues that Ethereum Layer 2 networks need more responsive, dynamic fee pricing to handle the transaction volumes required for mainstream adoption. Static pricing, the firm contends, is a ceiling on scale.\n\nBinance dominated crypto derivatives in Q1 while Hyperliquid cracked the top ten for the first time, according to CoinGlass data. The ranking underscores how execution quality and platform reliability are becoming the competitive battleground - a theme echoed by analysts arguing that execution risk has replaced custody risk as the primary concern for serious traders.",
         "sources": [
           {
             "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
@@ -544,8 +556,8 @@
             "lean": null
           },
           {
-            "title": "Decentralized email platform Dmail to cease services on May 15",
-            "url": "https://cointelegraph.com/news/dmail-network-shutdown-decentralized-email-costs-funding-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Execution risk in crypto is the new custody risk",
+            "url": "https://cointelegraph.com/news/execution-risk-is-new-custody-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -555,21 +567,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Black Cod",
-      "cuisine": "Japanese (Nobu-style)",
-      "description": "Silky, buttery cod fillets marinated in white miso, mirin, and sake then broiled until caramelised and lacquered",
-      "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust you get under the broiler"
+      "name": "Miso-Glazed Leek and Walnut Tart",
+      "cuisine": "Japanese-French fusion",
+      "description": "A buttery shortcrust tart filled with slow-caramelised leeks, toasted walnuts, and a white miso custard that walks the line between savoury and umami-sweet.",
+      "tip": "Blind-bake the shell until fully golden before adding the filling — miso custard is wetter than it looks and will turn the base soggy if you skip this step."
     },
     "exercise": {
-      "name": "The Deck of Cards Workout",
-      "duration": "30–45 minutes",
-      "equipment": "A standard deck of playing cards, some floor space",
-      "description": "Assign a bodyweight move to each suit — push-ups, squats, lunges, burpees — then flip cards one by one and perform the reps shown, making every session completely unpredictable and surprisingly brutal"
+      "name": "The April Ladder",
+      "duration": "35 minutes",
+      "equipment": "A single kettlebell (or heavy backpack), a timer",
+      "description": "A ascending-rep ladder of kettlebell swings, push-ups, and reverse lunges — starting at 3 reps each and climbing by 2 every round until form breaks, then descending back down, making it both a strength and mental endurance session."
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and philosophers from Locke to Parfit have weaponised it to ask the same unsettling question about you, since every cell in your body is eventually replaced",
-      "why": "On a quiet Saturday it's a perfect rabbit hole because it connects ancient Greek thought to modern neuroscience and questions of consciousness, and it will genuinely make you uncertain about something you assumed was obvious — namely, whether the person who wakes up tomorrow is really you"
+      "topic": "Stochastic Resonance",
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous systems of crayfish, exploited in medical devices for balance disorders, and studied in climate science to explain ice age cycles.",
+      "why": "It upends the instinct that noise is always the enemy of clarity, and once you understand it you start spotting its fingerprints everywhere from neuroscience to financial modelling — a genuinely mind-shifting Saturday rabbit hole."
     }
   }
 }
