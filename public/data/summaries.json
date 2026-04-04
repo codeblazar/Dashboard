@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-04T04:37:16.522Z",
+  "generatedAt": "2026-04-04T05:29:28.006Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Jets Downed Over Iran; Congress Pushes Back on War",
-        "body": "Two US warplanes were shot down over Iran, with at least one crew member still missing as recovery operations continue. Two US helicopters were also hit during those recovery efforts, raising the human and military cost of the ongoing conflict. The Pentagon has not confirmed full details of the incidents.\n\nOn Capitol Hill, Republican Senator John Curtis called for ending Iran operations without a formal declaration of war, and Rep. Nancy Mace voiced concern about escalation and the prospect of ground troops. GOP lawmakers also rallied around Army Chief of Staff General George after his ouster by Defense Secretary Hegseth. NPR notes Trump's wartime rhetoric diverges sharply from past presidents, a contrast that is drawing scrutiny across the political spectrum.",
+        "headline": "US Jets Downed Over Iran as War Escalates",
+        "body": "Two US warplanes were shot down during operations in Iran, with at least one crew member still missing. Recovery helicopters were also hit during search efforts, raising the human cost of the conflict sharply. The Pentagon has not confirmed all details publicly.\n\nThe losses are drawing bipartisan unease on Capitol Hill. Republican Senator John Curtis called for ending offensive operations without a formal war declaration, while Rep. Nancy Mace voiced concern about escalation. Democrats slammed prediction market Polymarket for taking bets on the missing pilot's fate.\n\nNPR notes Trump's wartime rhetoric departs from past presidential norms, with analysts warning the framing could complicate diplomatic off-ramps. The administration has not outlined a clear endgame.",
         "sources": [
           {
             "title": "What to know about US fighter jets hit in Iran war",
@@ -38,12 +38,6 @@
             "lean": "center"
           },
           {
-            "title": "GOP praise pours in for Army chief of staff ousted by Hegseth",
-            "url": "https://thehill.com/policy/defense/5815588-republicans-support-general-george/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
             "title": "Democrat rips Polymarket for taking bets on fate of US pilot shot down over Iran",
             "url": "https://thehill.com/policy/technology/5815579-rep-moulton-slams-polymarket/",
             "source": "The Hill",
@@ -58,8 +52,8 @@
         ]
       },
       {
-        "headline": "Trump Budget Draws Fire; Cabinet Shake-Up Looms",
-        "body": "Trump's budget proposal includes a $10 billion fund for Washington DC construction and a significant defense spending plan, but it is already facing Republican resistance. Senator Susan Collins publicly knocked the White House's proposed funding cuts, a rare break from a GOP colleague that signals the budget faces a difficult path in the Senate.\n\nMeanwhile, Trump is weighing further Cabinet changes while trying to avoid what aides describe as a massive shake-up. Todd Blanche has taken over as acting Attorney General at the DOJ, stepping into a role carrying heavy expectations from the White House. Blanche told reporters there is no evidence in the Epstein files that Epstein worked as a spy, though calls for Pam Bondi to testify on the matter continue.",
+        "headline": "Cabinet Shake-Up Looms as Blanche Takes DOJ Helm",
+        "body": "Todd Blanche has stepped into the role of acting Attorney General following Pam Bondi's departure, inheriting a department under intense political scrutiny. Blanche told reporters there is no evidence in the Epstein files that Epstein worked as a spy. Rep. Mace is still pushing for Bondi to testify on the matter.\n\nTrump is weighing further Cabinet changes but wants to avoid what aides describe as a massive shake-up, according to the Washington Post. Senator Thom Tillis separately set a Jan. 6 red line for any incoming attorney general nominee, signalling that Senate confirmation could be contested.\n\nFBI Director Kash Patel and Army Secretary Pete McCormick also warned publicly that foreign terror threats inside the US grew during the Biden years, a claim Democrats dispute.",
         "sources": [
           {
             "title": "Trump weighs more Cabinet changes, but wants to avoid ‘massive shake-up’",
@@ -74,6 +68,36 @@
             "lean": "center-left"
           },
           {
+            "title": "Blanche: No evidence in Epstein files he was a spy",
+            "url": "https://thehill.com/homenews/administration/5815644-epstein-spy-evidence-blanche/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Tillis sets Jan. 6 red line on attorney general nominee",
+            "url": "https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Mace ‘not backing away’ from Bondi testifying on Epstein",
+            "url": "https://thehill.com/homenews/house/5815527-pam-bondi-epstein-files-testimony-nancy-mace/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Patel, McCormick warn foreign terror threats inside US grew during Biden years",
+            "url": "https://www.foxnews.com/politics/patel-mccormick-warn-foreign-terror-threats-inside-us-grew-during-biden-years",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Budget Draws Fire From Collins, Democratic States Sue on Voting",
+        "body": "Trump's budget proposal includes a $10 billion fund for Washington DC construction and beautification alongside a defence spending plan, but Republican Senator Susan Collins broke with the White House, criticising deep cuts in the proposal. The defence budget outline has drawn mixed reactions across both parties.\n\nSeparately, Oregon and a coalition of Democratic-led states filed lawsuits challenging Trump's executive order restricting vote-by-mail, calling it a source of confusion, chaos and distrust. Oregon's attorney general argues the order conflicts with state law and the Constitution. Senate Democrats are also pressing the Treasury Department over reports that Trump's name may be added to US currency.",
+        "sources": [
+          {
             "title": "Susan Collins knocks funding cuts in White House budget proposal",
             "url": "https://thehill.com/homenews/senate/5815864-collins-criticizes-trump-budget/",
             "source": "The Hill",
@@ -86,8 +110,8 @@
             "lean": "center"
           },
           {
-            "title": "Blanche: No evidence in Epstein files he was a spy",
-            "url": "https://thehill.com/homenews/administration/5815644-epstein-spy-evidence-blanche/",
+            "title": "Senate Democrats press Treasury Department on decision to add Trump name to currency",
+            "url": "https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -98,40 +122,22 @@
             "lean": "center-left"
           },
           {
-            "title": "Mace ‘not backing away’ from Bondi testifying on Epstein",
-            "url": "https://thehill.com/homenews/house/5815527-pam-bondi-epstein-files-testimony-nancy-mace/",
+            "title": "Democratic-led states sue over Trump mail-in ballot order",
+            "url": "https://thehill.com/homenews/5815473-democratic-states-sue-trump-voter-order/",
             "source": "The Hill",
             "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "States Sue Over Mail-In Voting Order; Colorado Lawyers Revolt",
-        "body": "A coalition of Democratic-led states filed suit against Trump's executive order restricting vote-by-mail, with Oregon's attorney general calling the order a source of confusion, chaos and distrust. The legal challenges argue the order oversteps federal authority over state election administration. Courts are expected to move quickly given the stakes.\n\nSeparately, lawyers in Colorado say the state court's electronic filing system now requires them to certify they will not assist ICE, a requirement critics say puts attorneys in an impossible position. The two disputes reflect a broader battle between states and the federal government over immigration enforcement and election rules, with no resolution in sight.",
-        "sources": [
+          },
           {
             "title": "‘Confusion, chaos and distrust’: Oregon challenges Trump’s order restricting vote-by-mail",
             "url": "https://thehill.com/homenews/nexstar_media_wire/5815881-oregon-ag-sues-trump-mail-voting/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Colorado lawyers say court e-file system now makes them certify they won’t assist ICE",
-            "url": "https://www.foxnews.com/politics/colorado-lawyers-say-court-e-file-system-now-makes-them-certify-wont-assist-ice",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Democratic-led states sue over Trump mail-in ballot order",
-            "url": "https://thehill.com/homenews/5815473-democratic-states-sue-trump-voter-order/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Signs College Sports Order; Senate Confirms Nominees",
-        "body": "Trump signed an executive order targeting reform in college sports, his second such action aimed at reshaping the NCAA landscape. The order focuses on athlete compensation and eligibility rules, areas where Congress has so far failed to act. Supporters say federal intervention is overdue; critics question whether executive orders are the right tool for sports governance.\n\nIn the Senate, Senator Thom Tillis set a clear condition for supporting the attorney general nominee, saying any candidate who does not affirm the legitimacy of January 6 prosecutions will lose his vote. Trump also issued a Good Friday message calling for a resurgence of religion in America. On currency, Senate Democrats pressed the Treasury Department over reports that Trump's name may appear on US banknotes.",
+        "headline": "Trump Signs College Sports Order; Good Friday Message Stirs Debate",
+        "body": "Trump signed an executive order targeting reforms in college sports, his second such action on the issue. The order takes aim at athlete compensation rules and NCAA governance, though critics question whether executive power is the right tool for what has historically been a legislative or judicial matter.\n\nOn Good Friday, Trump issued a message declaring America needs God and touting what he called a resurgence of religion. Supporters framed it as a welcome affirmation of faith in public life. Critics argued it blurs the line between church and state. The message drew wide attention heading into the Easter weekend.",
         "sources": [
           {
             "title": "Trump signs order aimed at reforming college sports",
@@ -150,44 +156,38 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-college-sports-order/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Trump gives rare praise to persistent GOP foe after White House ballroom vote",
-            "url": "https://www.foxnews.com/politics/trump-gives-rare-praise-persistent-gop-foe-after-white-house-ballroom-vote",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Senate Democrats press Treasury Department on decision to add Trump name to currency",
-            "url": "https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Tillis sets Jan. 6 red line on attorney general nominee",
-            "url": "https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel Shortage Fears Ease But Demand Stays High",
-        "body": "Energy Minister Chris Bowen says fewer service stations are running dry as Australia's fuel supply stabilises, pushing back against panic-buying that has kept demand elevated. The government is pointing to improved supply chains, but motorists in some regions are still encountering shortages at the bowser.\n\nThe Spectator has taken a sharper line, arguing the crisis exposed poor energy policy and urging drivers to take basic precautions like checking tyre pressure rather than waiting on government reassurance. Meanwhile, farmers used the moment to press supermarkets for fairer prices on fresh produce, arguing fuel cost pressures are squeezing margins across the supply chain.",
+        "headline": "Two arrested in Dezi Freeman investigation as case develops",
+        "body": "Victoria Police have arrested two people as part of their investigation into the movements of Dezi Freeman, whose disappearance has drawn sustained public attention. The arrests mark a significant operational step, though police have not yet detailed the charges or the suspects' connection to Freeman.\n\nThe case centres on the Porepunkah area in Victoria's alpine northeast. Investigators have been working to piece together Freeman's last known movements, and the arrests suggest that work is producing results. Further details are expected as the investigation continues.",
+        "sources": [
+          {
+            "title": "Victoria police arrest two people as part of Dezi Freeman investigation",
+            "url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Two arrested as part of investigation into movements of Dezi Freeman",
+            "url": "https://www.abc.net.au/news/2026-04-04/two-arrested-police-investigation-dezi-freeman-movements/106531570",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Fuel supply fears persist despite minister's reassurances",
+        "body": "Energy Minister Chris Bowen says fewer service stations are running dry, pointing to strong national fuel reserves. But panic buying driven by supply anxiety has kept demand elevated, complicating the picture on the ground.\n\nFarmers used the moment to push a separate grievance - urging supermarkets to pay fairer prices for fresh produce, arguing that tight margins leave agricultural businesses exposed when input costs like fuel spike. The dual pressure on food and fuel supply chains highlights broader vulnerabilities in Australia's logistics network that neither reassuring ministerial statements nor market signals have yet resolved.",
         "sources": [
           {
             "title": "Fewer service stations running out of petrol and diesel as Australia’s fuel supplies remain strong, energy minister says",
             "url": "https://www.theguardian.com/australia-news/2026/apr/04/fewer-service-stations-running-out-of-petrol-and-diesel-as-australias-fuel-supplies-remain-strong-energy-minister-says",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Just, you know, check your tyre pressure",
-            "url": "https://www.spectator.com.au/2026/04/just-you-know-check-your-tyre-pressure/",
-            "source": "Spectator AU",
-            "lean": "right"
           },
           {
             "title": "Fuel demand stays high, as farmers urge supermarkets to pay more for fresh produce",
@@ -198,8 +198,8 @@
         ]
       },
       {
-        "headline": "Nine Charged Over Massive Drug Smuggling Operation",
-        "body": "Nine people face charges after police uncovered an alleged conspiracy to import tonnes of cocaine and methamphetamine into Australia using a so-called mother ship operating in Australian waters. The operation unravelled after a trawler sank, alerting authorities to the syndicate.\n\nPolice allege the network was sophisticated and large-scale. The arrests follow a joint investigation involving multiple agencies. No political dimension has emerged yet, but the case will likely renew debate about Australia's maritime border security and the resourcing of federal law enforcement.",
+        "headline": "Nine charged over alleged 'mother ship' drug smuggling operation",
+        "body": "Nine people face charges over an alleged conspiracy to import large quantities of cocaine and methamphetamine into Australia using a vessel operating as a so-called mother ship in Australian waters. The operation unravelled after a trawler sank, alerting police to the alleged smuggling network.\n\nVictoria Police coordinated the investigation, which targeted what authorities describe as a sophisticated syndicate. The scale of the alleged importation - measured in tonnes - places it among the larger drug interception cases in recent years. Charges have been laid but the matter is yet to be tested in court.",
         "sources": [
           {
             "title": "Nine charged over alleged conspiracy to import tonnes of cocaine and meth via ‘mother ship’ in Australian waters",
@@ -216,40 +216,22 @@
         ]
       },
       {
-        "headline": "Iran Shoots Down US Aircraft, Raising Geopolitical Stakes",
-        "body": "Iran has downed two US aircraft in an incident analysts say will reverberate sharply in Washington. ABC's coverage frames it as a potential quagmire moment for the Trump administration, drawing comparisons to past US military entanglements in the Middle East.\n\nThe incident raises immediate questions about how the US responds and whether it escalates a conflict already stretched across multiple fronts. It comes as Russia continued Good Friday strikes on Ukraine, killing 14 people in daytime attacks on residential areas in Kyiv. Both events point to a volatile international environment with direct implications for Australian foreign and defence policy.",
+        "headline": "Sydney councils warn data centres threaten housing and health",
+        "body": "Local councils in Sydney are raising alarms about a wave of proposed data centres, arguing the facilities risk causing localised blackouts, consuming land earmarked for housing, and generating noise and heat that affects nearby residents. The concerns put councils on a collision course with state and federal governments keen to attract digital infrastructure investment.\n\nCritics of the councils' position say data centres are essential to Australia's economic and technological future and that opposition risks pushing investment offshore. The dispute reflects a wider tension between rapid infrastructure expansion and the planning systems designed to manage its impacts on communities.",
         "sources": [
           {
-            "title": "Iran's downing of two US aircraft will shock Americans in three ways",
-            "url": "https://www.abc.net.au/news/2026-04-04/iran-shoots-down-jet-us-president-donald-trump-quagmire-moment/106531174",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Russia launches Good Friday daytime attacks on Ukraine, killing 14",
-            "url": "https://www.abc.net.au/news/2026-04-04/russian-military-strikes-kyiv-residential-buildings-good-friday/106531332",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Queensland Aged Care CEO Pay Draws Scrutiny",
-        "body": "Queensland residential aged care executives are earning up to $679,000 a year, according to a new financial review, raising questions about how sector funding is being distributed. The figures sit uncomfortably alongside ongoing concerns about staffing levels and care quality in the sector.\n\nCritics argue high executive pay in a heavily government-subsidised industry warrants closer oversight. Providers counter that competitive salaries are necessary to attract capable leadership. The data lands in an election-sensitive environment where aged care remains a live political issue for both major parties.",
-        "sources": [
-          {
-            "title": "Qld residential care sector CEOs paid up to $679k",
-            "url": "https://www.abc.net.au/news/2026-04-04/qld-residential-care-financial-review/106531314",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Sydney councils fear new datacentres could cause blackouts, block housing and affect locals’ health",
+            "url": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israel War on Iran Escalates Into Direct Exchanges",
-        "body": "Now in its 36th day, the US-Israeli military campaign against Iran has intensified sharply. Tehran downed two American warplanes and launched missile strikes on residential areas in central Israel, while Israel bombed bridges in Lebanon. A US crew member remains missing after a search operation in Iran described as harrowing and dangerous.\n\nThe conflict is spreading beyond Iran's borders. Israel struck Lebanese infrastructure, and an intercepted attack on a UAE gas facility at Habshan killed at least one person. The WHO reports more than 20 attacks on Iranian healthcare facilities since March 1.\n\nThe Strait of Hormuz remains a flashpoint. A French-owned ship passed through the waterway as questions mount over whether military force will be used to keep it open - a move that could dramatically widen the war.",
+        "headline": "US-Israel War on Iran Escalates Into Regional Conflagration",
+        "body": "Now 36 days in, the US-Israeli military campaign against Iran has widened sharply. Tehran claims it downed two American warplanes, while Iranian missiles struck residential areas in central Israel. Israel simultaneously bombed bridges in Lebanon, drawing Lebanese civilians into a conflict already straining the region's infrastructure and population.\n\nThe Strait of Hormuz remains a flashpoint, with questions mounting over whether force will be used to reopen the critical oil shipping lane. The WHO reports more than 20 attacks on Iranian healthcare facilities since March 1. A US crew member is missing in Iran, with rescue teams describing the search as harrowing. A separate attack near a UAE gas facility killed at least one person, signalling the war's reach beyond its core theatres.",
         "sources": [
           {
             "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
@@ -282,6 +264,12 @@
             "lean": null
           },
           {
+            "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
             "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
             "url": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
             "source": "Al Jazeera",
@@ -292,40 +280,28 @@
             "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "French-owned ship passes through Strait of Hormuz",
-            "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Easter Observed Amid War From Gaza to Jerusalem",
-        "body": "Palestinian Christians in Gaza marked Good Friday under blockade and bombardment, while monks held Easter prayers in a largely deserted Old City of Jerusalem. In Lebanon, Christians observed the holy day as Israeli strikes continued nearby.\n\nThe scenes underscored how comprehensively the regional conflict has disrupted civilian and religious life across the Middle East. European Parliament member Rima Hassan, a prominent Palestinian-French voice, says she is facing coordinated political harassment for her advocacy.",
+        "headline": "Artemis II Crew Sends Back Stunning Images of Earth",
+        "body": "NASA's Artemis II mission has released its first photographs of Earth taken from deep space, offering images that astronauts described as spectacular. The pictures, captured as the crew travels toward the Moon, mark the first time humans have photographed Earth from that distance since the Apollo era.\n\nThe mission represents a major milestone in NASA's broader push to return humans to lunar orbit. The images have drawn widespread attention, underscoring both the scientific ambition of the programme and its value as a moment of collective perspective.",
         "sources": [
           {
-            "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
+            "title": "NASA unveils first images of Earth from Artemis II",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Palestinian Christians in Gaza mark Good Friday",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Artemis II crew take 'spectacular' image of Earth",
+            "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Monks hold Easter prayers in deserted Old City of Jerusalem",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/monks-hold-easter-prayers-in-deserted-old-city-of-jerusalem?traffic_source=rss",
+            "title": "NASA releases stunning first photos of Earth from Artemis II moon mission",
+            "url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -333,7 +309,7 @@
       },
       {
         "headline": "Cuba Frees 2,000 Prisoners as US Pressure Bites",
-        "body": "Cuba has begun releasing more than 2,000 prisoners in what analysts see as a direct response to sustained US pressure. The releases mark one of the largest such moves by Havana in years and signal the government is willing to make concessions to ease its deepening economic isolation.\n\nThe timing is notable. Cuba's economy has deteriorated sharply, and the prisoner releases appear calibrated to create diplomatic space with Washington rather than reflect any broader political opening.",
+        "body": "Cuba has begun releasing more than 2,000 prisoners in what analysts see as a direct response to sustained US pressure. The scale of the release is significant - it follows months of diplomatic and economic squeezing by Washington and represents one of the largest prisoner releases the island has seen in years.\n\nThe move raises questions about what, if anything, Havana expects in return. The US has not publicly signalled any easing of sanctions.",
         "sources": [
           {
             "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
@@ -350,18 +326,30 @@
         ]
       },
       {
-        "headline": "Artemis II Crew Sends Back Stunning Earth Images",
-        "body": "NASA's Artemis II crew has released the first photographs of Earth taken from the moon mission, described as spectacular. The images mark a milestone for the program, which aims to return humans to lunar orbit for the first time in over five decades.\n\nThe mission is proceeding on schedule. The photos offer a rare human-captured perspective of Earth from deep space and have drawn widespread attention as the program builds toward an eventual crewed lunar landing.",
+        "headline": "Sudan Hospital Strike Kills 10 as Orban Faces Rare Political Threat",
+        "body": "A drone strike on a hospital in Sudan killed at least 10 people, according to medical charity MSF. The attack is the latest in a pattern of strikes on civilian infrastructure as the country's civil war grinds on with little international intervention.\n\nIn Europe, Hungarian Prime Minister Viktor Orban faces what analysts describe as the most serious electoral challenge of his 16-year rule, with opposition forces consolidating around a credible rival. Separately, two dozen US states sued the Trump administration over restrictions on mail-in ballots, and a federal judge upheld the dismissal of subpoenas targeting Federal Reserve Chair Jerome Powell.",
         "sources": [
           {
-            "title": "Artemis II crew take 'spectacular' image of Earth",
-            "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+            "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "NASA releases stunning first photos of Earth from Artemis II moon mission",
-            "url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss",
+            "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
+            "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
+            "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
+            "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -370,8 +358,8 @@
     ],
     "ai": [
       {
-        "headline": "Anthropic Expands Aggressively While Tightening Its Ecosystem",
-        "body": "Anthropic is having a busy week. The company acquired biotech startup Coefficient Bio for $400 million, launched a political action committee, and is commanding serious attention in private markets - though analysts warn a SpaceX IPO could suck oxygen from the room by competing for the same investor dollars.\n\nOn the product side, Anthropic moved to block Claude Code subscribers from using OpenClaw, a third-party client, by requiring them to pay extra. OpenClaw already had security problems drawing scrutiny, giving Anthropic cover for a move that effectively walls off its API from unauthorized wrappers. The decision drew immediate backlash on Hacker News.",
+        "headline": "Anthropic Moves Fast: Biotech Deal, PAC, and Market Surge",
+        "body": "Anthropic is having a breakout week. The company acquired biotech startup Coefficient Bio for $400 million, launched a political action committee to shape AI policy, and is commanding serious attention in private markets - though analysts warn a SpaceX IPO could suck oxygen from the room by competing for the same investor dollars.\n\nMeanwhile, Anthropic tightened its grip on Claude access by forcing OpenClaw users onto a more expensive subscription tier, effectively pricing out a popular third-party client. OpenClaw already had security problems drawing scrutiny, giving Anthropic cover for the move. Users are not happy.",
         "sources": [
           {
             "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -412,8 +400,8 @@
         ]
       },
       {
-        "headline": "OpenAI Shuffles Executives as Leadership Instability Grows",
-        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap is moving into a new \"special projects\" role, while Fidji Simo, who joined less than a year ago to run the applications division, is taking medical leave. The company's head of AGI readiness is also stepping back.\n\nThe simultaneous departures and reshuffling raise questions about internal stability at a company already navigating a fraught transition from nonprofit to for-profit structure. OpenAI has not detailed timelines for any of the roles.",
+        "headline": "OpenAI Reshuffles Executives as AGI Lead Steps Away",
+        "body": "OpenAI is reorganizing at the top. COO Brad Lightcap picks up a new 'special projects' role, while Fidji Simo is taking medical leave shortly after joining. The company's AGI lead is also stepping back, leaving a notable gap at the division tasked with building the technology OpenAI was founded to chase.\n\nThe timing is awkward. OpenAI is under commercial pressure from Anthropic and navigating a complicated corporate restructuring. Losing multiple senior figures at once, whatever the reasons, adds uncertainty to an already turbulent moment.",
         "sources": [
           {
             "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -436,12 +424,24 @@
         ]
       },
       {
-        "headline": "Musk Ties SpaceX IPO Access to Buying Grok Subscriptions",
-        "body": "Elon Musk is reportedly requiring banks seeking roles in a SpaceX IPO to purchase subscriptions to Grok, his xAI chatbot product. The move blurs the line between business leverage and product promotion in ways that are likely to draw regulatory attention.\n\nMeanwhile, Trump's broader AI ambitions are running into self-inflicted headwinds. His administration's tariffs are raising costs for the data center buildout he has championed, and public opposition to new facilities is stiffening - surveys show people prefer Amazon warehouses to data centers as neighbors.",
+        "headline": "Musk Demands Banks Buy Grok to Work on SpaceX IPO",
+        "body": "Elon Musk is reportedly requiring investment banks pursuing SpaceX IPO business to purchase Grok subscriptions, bundling access to a lucrative deal with a mandate to support his AI product. It is a brazen use of leverage, and banks appear to be complying rather than walking away from one of the most anticipated listings in years.\n\nThe move raises obvious conflict-of-interest questions and fits a pattern of Musk using his companies' market power to cross-promote his other ventures.",
         "sources": [
           {
             "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
             "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Is Eroding Critical Thinking, and Data Centers Face Backlash",
+        "body": "New research finds that heavy AI users increasingly defer to model outputs without applying their own judgment - a pattern researchers are calling 'cognitive surrender.' The finding lands as AI tools become embedded in daily work and decision-making, raising questions about long-term effects on reasoning skills.\n\nSeparately, public appetite for AI infrastructure is souring. Surveys show communities prefer Amazon warehouses to data centers as neighbors, citing noise, water use, and power demands. That resistance is compounding problems for Trump's AI buildout push, which is already being undercut by his own tariffs raising hardware costs.",
+        "sources": [
+          {
+            "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+            "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
             "source": "Ars Technica",
             "lean": null
           },
@@ -452,27 +452,15 @@
             "lean": null
           },
           {
-            "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-            "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+            "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+            "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
             "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Erodes Critical Thinking as Meta Suffers Data Breach",
-        "body": "New research finds that heavy AI users increasingly outsource their reasoning to language models, a pattern researchers are calling \"cognitive surrender.\" The findings suggest habitual reliance on LLMs is measurably degrading users' independent logical thinking.\n\nSeparately, Meta has paused its work with hiring platform Mercor after a data breach exposed sensitive AI industry information. The breach is significant because Mercor handles recruiting for multiple major AI labs, meaning the compromised data could include proprietary technical and organizational details across the sector.",
-        "sources": [
-          {
-            "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-            "source": "Wired",
             "lean": null
           },
           {
-            "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-            "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-            "source": "Ars Technica",
+            "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+            "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -480,30 +468,18 @@
     ],
     "btc": [
       {
-        "headline": "Circle Faces Heat Over $285M Hack and Compliance Failures",
-        "body": "Circle is under serious pressure after the $285 million Drift protocol hack exposed its reluctance to freeze stolen USDC. Critics argue the stablecoin issuer had both the technical ability and legal grounds to act but chose not to, raising hard questions about how much control Circle actually exercises over its token.\n\nOn-chain investigator ZachXBT piled on, accusing Circle of $420 million in compliance failures dating back to 2022. Together, the two stories paint a damaging picture of a company preparing for an IPO while struggling to defend its role as a responsible financial gatekeeper. The timing could not be worse.",
-        "sources": [
-          {
-            "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
-            "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "ZachXBT accuses Circle of $420M in 'compliance failures' since 2022",
-            "url": "https://cointelegraph.com/news/zachxbt-accuses-circle-420m-compliance-failures-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin ETFs Set to Eclipse Gold as Schwab Joins the Race",
-        "body": "Analyst James Seyffart argues Bitcoin ETFs will eventually surpass gold ETFs in size, citing Bitcoin's broader and more flexible use cases. Gold ETFs took decades to build their base. Bitcoin is moving faster.\n\nCharles Schwab is accelerating that timeline, announcing plans to launch direct spot Bitcoin and Ether trading in the first half of 2026. That puts one of America's largest retail brokerages squarely in the crypto market, not just offering ETF wrappers but actual spot exposure. For institutional adoption, Schwab's entry carries more weight than another fund launch.",
+        "headline": "Schwab Enters Spot Crypto Trading as Institutional Appetite Grows",
+        "body": "Charles Schwab plans to launch direct spot Bitcoin and Ether trading in the first half of 2026, a move that signals mainstream brokerages are done sitting out the crypto market. The timing matters. Bitcoin ETFs are already drawing comparisons to gold ETFs, with analyst James Seyffart arguing they will eventually surpass gold funds in size - a claim that would have seemed absurd just two years ago.\n\nThe Ethereum Foundation is also pushing deeper into its own ecosystem, nearing its 70,000 staked ETH target. Together, these moves paint a picture of institutional and foundational players doubling down on crypto infrastructure rather than retreating.",
         "sources": [
           {
             "title": "Bitcoin ETFs 'will be larger' than gold ETFs: Analyst",
             "url": "https://cointelegraph.com/news/bitcoin-gold-etfs-use-cases-analyst-james-seyffart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
+            "url": "https://cointelegraph.com/news/ethereum-foundation-nearly-reaches-70000-staked-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -516,8 +492,26 @@
         ]
       },
       {
-        "headline": "Quantum Threat to Bitcoin Is Real but Not Yet Imminent",
-        "body": "Headlines claiming quantum computers can crack Bitcoin in nine minutes are misleading. The research describes a theoretical attack on Bitcoin's elliptic curve cryptography under highly specific conditions using hardware that does not yet exist at the required scale. Current quantum machines remain far below the threshold needed.\n\nThat said, the underlying concern is legitimate. Bitcoin's cryptographic foundations will eventually need upgrading, and the window to plan that transition is finite. The danger is not today's quantum computers. It is complacency about tomorrow's.",
+        "headline": "Circle Faces Backlash After $285M Hack Goes Unaddressed",
+        "body": "Circle is under pressure after failing to freeze USDC stolen in a $285 million hack of Drift, reigniting a long-running debate about whether stablecoin issuers should act as de facto financial cops. Critics argue Circle's inaction undermined one of the core selling points of regulated stablecoins - the ability to intervene when funds are clearly stolen.\n\nThe controversy lands at a sensitive moment. The OCC's approval of a Coinbase trust charter is already drawing opposition from US community banks, who see crypto firms gaining regulatory footholds without equivalent obligations. Both stories point to the same tension: crypto wants institutional legitimacy but resists institutional accountability.",
+        "sources": [
+          {
+            "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+            "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "US community banks oppose OCC's approval of Coinbase trust charter",
+            "url": "https://cointelegraph.com/news/community-banks-oppose-coinbase-trust-charter-approval-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Quantum Threat to Bitcoin Is Real but Distant",
+        "body": "Headlines claiming quantum computers can crack Bitcoin in nine minutes are misleading. The research describes a theoretical attack on Bitcoin's elliptic curve cryptography under highly specific conditions - not a practical threat to the network today. Current quantum hardware remains nowhere near the scale required.\n\nStill, the underlying concern is legitimate. Bitcoin's cryptographic foundations will eventually need upgrading, and the window to plan that transition is finite. The story is less about imminent danger and more about whether the Bitcoin development community moves fast enough before the hardware catches up.",
         "sources": [
           {
             "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
@@ -528,24 +522,12 @@
         ]
       },
       {
-        "headline": "Crypto Regulation Tightens From Cambodia to Washington",
-        "body": "Cambodian lawmakers are pushing legislation that would impose severe prison sentences on crypto scammers, a sharp response to the country's reputation as a hub for fraud operations. The move signals that even markets outside the Western regulatory orbit are moving toward formal enforcement frameworks.\n\nIn the US, community banks are fighting back against the OCC's approval of a trust charter for Coinbase, arguing it gives crypto firms an unfair regulatory shortcut. Meanwhile, the Ethereum Foundation is close to hitting its 70,000 staked ETH target, a milestone that strengthens the network's validator base as staking becomes a mainstream institutional activity.",
+        "headline": "Cambodia Targets Crypto Scammers With Prison Time",
+        "body": "Cambodian lawmakers are proposing serious prison sentences for crypto scammers, a notable shift for a country long associated with Southeast Asia's fraud networks. The legislation signals that regional governments are moving from passive observation to active enforcement as crypto scams continue to drain billions from victims globally.\n\nThe proposal also reflects growing geopolitical pressure on crypto crime hubs. Whether Cambodia follows through with enforcement - rather than legislation alone - will determine whether the crackdown has real teeth.",
         "sources": [
           {
             "title": "Cambodian lawmakers propose severe prison time for crypto scammers",
             "url": "https://cointelegraph.com/news/cambodia-law-prison-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "US community banks oppose OCC's approval of Coinbase trust charter",
-            "url": "https://cointelegraph.com/news/community-banks-oppose-coinbase-trust-charter-approval-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
-            "url": "https://cointelegraph.com/news/ethereum-foundation-nearly-reaches-70000-staked-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -555,21 +537,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Black Cod",
-      "cuisine": "Japanese (Nobu-style)",
-      "description": "Silky, buttery cod fillets marinated in white miso, mirin, and sake then broiled until caramelised and lacquered",
-      "tip": "Marinate for at least 24 hours — the longer the fish sits, the deeper the umami penetration and the more dramatic the caramelisation under the broiler"
+      "name": "Miso-Glazed Leek and Walnut Tart",
+      "cuisine": "Japanese-French fusion",
+      "description": "A buttery shortcrust tart filled with slow-cooked leeks caramelised in white miso, topped with toasted walnuts and a whisper of thyme.",
+      "tip": "Blind-bake the pastry shell for 12 minutes before adding the filling — leeks release moisture and a soggy base will ruin the whole thing."
     },
     "exercise": {
-      "name": "The Saturday Deck of Cards",
-      "duration": "35–50 minutes",
-      "equipment": "A standard deck of playing cards, some floor space",
-      "description": "Assign a bodyweight movement to each suit — push-ups, squats, burpees, hollow-body holds — then flip cards one by one and perform the reps shown, turning a lazy Saturday into a genuinely unpredictable full-body session"
+      "name": "The Farmer's Saturday",
+      "duration": "40 minutes",
+      "equipment": "Two kettlebells or heavy dumbbells, a pull-up bar (optional)",
+      "description": "A loaded carry and grip-strength circuit — farmer carries, suitcase deadlifts, and dead hangs — that builds functional strength through the hands, shoulders, and core in a way machines never replicate."
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether you are the same person you were ten years ago",
-      "why": "On a Saturday with some breathing room, tracing this idea from Plutarch through Locke's memory theory to Derek Parfit's radical conclusions about the self is the kind of rabbit hole that quietly rewires how you think about continuity, change, and what you owe your past self"
+      "topic": "Stochastic Resonance",
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous systems of crayfish, by neurons in the human brain, and increasingly in engineering.",
+      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and once you understand it you start seeing its fingerprints in biology, economics, and perception science — a genuinely mind-shifting Saturday rabbit hole."
     }
   }
 }
