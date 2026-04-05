@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-05T17:11:12.634Z",
+  "generatedAt": "2026-04-05T18:10:49.863Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Threatens Iran With Strikes After Colonel Rescue",
-        "body": "The US rescued a downed airman from behind enemy lines in Iran on Easter Sunday, with the CIA running a deception campaign to support the operation. Trump followed the news with a profanity-laced social media post threatening to bomb Iran's power plants and bridges if the Strait of Hormuz is not reopened.\n\nSupporters say the rescue shows US military capability and that Trump's pressure is working. Critics, including a former Trump adviser, warn the threats make a negotiated deal less likely. One House Republican argued any US ground presence should be limited strictly to securing enriched uranium.\n\nA retired Army general predicted the conflict could wrap up within 60 days. Meanwhile, Iran's economy is reportedly collapsing toward a barter system, and jet fuel costs are spiking globally, squeezing airlines and travelers.",
+        "headline": "Trump Escalates Iran Threats, Refuses to Rule Out Ground Troops",
+        "body": "President Trump spent Easter Sunday issuing profanity-laced threats against Iran on social media, warning he would strike power plants and bridges if the Strait of Hormuz remains closed. He declined to rule out deploying ground troops if a nuclear deal is not reached. The threats came as the US rescued a downed service member from behind enemy lines inside Iran, with CIA assistance in a deception operation.\n\nOpinions on the strategy split sharply. A retired Army general predicted the conflict could end in under 60 days. A former Trump adviser warned the escalating rhetoric makes a deal less likely, not more. One House Republican said the only legitimate ground-troop mission would be seizing enriched uranium. A House Democrat argued Iran's grip on the Strait poses a greater strategic threat than its nuclear programme. The former World Bank chief said Iran's economy is already collapsing toward a barter system.",
         "sources": [
+          {
+            "title": "Trump declines to rule out ground troops if Iran doesn’t make a deal",
+            "url": "https://thehill.com/homenews/administration/5817060-trump-iran-ground-troops/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+            "url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "House Republican: ‘Only purpose’ for US boots on the ground in Iran is ‘to get the enriched uranium’",
             "url": "https://thehill.com/homenews/house/5816999-lawler-iran-us-troops-uranium/",
@@ -20,16 +32,16 @@
             "lean": "center"
           },
           {
+            "title": "House Democrat: Iran’s control of Strait of Hormuz ‘more strategically vital’ than nuclear weapon",
+            "url": "https://thehill.com/homenews/house/5816966-auchincloss-trump-iran-strait-of-hormuz-nuclear-weapon/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
             "title": "Inside the daring rescue of airman behind enemy lines: How CIA assisted with 'deception campaign'",
             "url": "https://www.foxnews.com/politics/inside-daring-rescue-airmen-behind-enemy-lines-cia-assisted-deception-campaign",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
-            "url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/",
-            "source": "Washington Post",
-            "lean": "center-left"
           },
           {
             "title": "Trump drops Easter Sunday f-bomb in new threat to Iran",
@@ -50,14 +62,38 @@
             "lean": "center"
           },
           {
-            "title": "Retired Army general predicts Iran war wrapped up in ‘less than 60 days’",
-            "url": "https://thehill.com/policy/defense/5816677-retired-army-general-predicts-iran-war-wrapped-up-in-less-than-60-days/",
+            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
+            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
-            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
+            "title": "Retired Army general predicts Iran war could wrap up in ‘less than 60 days’",
+            "url": "https://thehill.com/policy/defense/5816677-retired-army-general-predicts-iran-war-wrapped-up-in-less-than-60-days/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "NATO Fractures, Energy Costs Surge as Iran War Widens",
+        "body": "The conflict with Iran is straining the Atlantic alliance. Spain's decision to ban US military aircraft from its airspace signals a broader fracturing of NATO solidarity, with analysts describing a shift toward a fragmented, post-global alliance structure. Trump's pressure on NATO allies has deepened existing tensions within the bloc.\n\nAt home, the economic fallout is accelerating. Jet fuel costs have skyrocketed, forcing flight cancellations and fare hikes for travellers. Energy analysts argue the crisis exposes America's vulnerability to oil supply disruptions and makes the case for diversifying toward domestic and renewable energy sources. The White House, meanwhile, is separately pushing an ambitious moon-base agenda, framing space as the next strategic frontier.",
+        "sources": [
+          {
+            "title": "The war in Iran is showing why the US needs diverse energy resources",
+            "url": "https://thehill.com/opinion/energy-environment/5815286-renewable-energy-diversity-importance/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump roils NATO as pressure builds over Strait of Hormuz",
+            "url": "https://thehill.com/policy/defense/5815848-trump-nato-tensions-rise-withdrawal-threats/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "The ‘post-global’ NATO: Spain’s airspace ban signals the death of universal alliances",
+            "url": "https://thehill.com/opinion/international/5815888-post-global-nato-alliance/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -68,29 +104,17 @@
             "lean": "center"
           },
           {
-            "title": "Trump unleashes curse-filled social media rant at Iran after U.S. rescues colonel",
-            "url": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
-            "source": "NPR",
-            "lean": "left"
+            "title": "The White House vows America will never give up the moon again",
+            "url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Fires Bondi, NATO Strains Deepen Over Iran Crisis",
-        "body": "Trump fired Attorney General Pam Bondi, a move Democrats say exposes the vulnerability of the position to presidential pressure. Senator Tim Kaine called it a warning to whoever comes next. NPR reported the firing alongside Trump moving to walk back several campaign promises.\n\nSeparately, Trump's handling of the Iran conflict is straining NATO. Spain's decision to ban US military aircraft from its airspace has prompted analysts to question the durability of the alliance. The Hill's reporting suggests Trump has threatened withdrawal from NATO commitments as pressure mounts over the Strait of Hormuz.\n\nOn the domestic front, House Minority Leader Hakeem Jeffries called on Speaker Johnson to end the House recess amid a lapse in DHS funding. Johnson has not responded publicly.",
+        "headline": "Bondi Firing Rattles Washington; DHS Funding Lapses",
+        "body": "Trump's dismissal of Attorney General Pam Bondi is generating bipartisan concern. Senator Tim Kaine called it a warning to whoever takes the job next, arguing the firing illustrates the political risks of serving in Trump's cabinet. NPR reporting framed the move alongside what it described as Trump walking back campaign commitments on law enforcement independence.\n\nSeparately, House Minority Leader Hakeem Jeffries demanded Speaker Mike Johnson recall the House from recess after a lapse in DHS funding. Johnson has not responded publicly. Democrats are using the funding gap to press the case that Republican leadership is absent on basic government operations. A new ad campaign, backed by some Republicans, also launched this week opposing Trump's push to federalise election administration.",
         "sources": [
-          {
-            "title": "Jeffries calls on Johnson to end House recess amid DHS funding lapse",
-            "url": "https://thehill.com/homenews/house/5817006-jeffries-johnson-house-recess-dhs-funding/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump roils NATO as pressure builds over Strait of Hormuz",
-            "url": "https://thehill.com/policy/defense/5815848-trump-nato-tensions-rise-withdrawal-threats/",
-            "source": "The Hill",
-            "lean": "center"
-          },
           {
             "title": "Kaine: Bondi firing ‘should be a lesson’ for next attorney general nominee",
             "url": "https://thehill.com/homenews/senate/5816960-kaine-bondi-firing-lesson/",
@@ -110,17 +134,29 @@
             "lean": "left"
           },
           {
-            "title": "The ‘post-global’ NATO: Spain’s airspace ban signals the death of universal alliances",
-            "url": "https://thehill.com/opinion/international/5815888-post-global-nato-alliance/",
+            "title": "Jeffries calls on Johnson to end House recess amid DHS funding lapse",
+            "url": "https://thehill.com/homenews/house/5817006-jeffries-johnson-house-recess-dhs-funding/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "New ad campaign speaks out against Trump’s threat to ‘federalize’ elections",
+            "url": "https://thehill.com/homenews/administration/5815433-republican-ad-trump-elections/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Pope Leo Calls for Peace as US Politics Turns Inward",
-        "body": "Pope Leo used his Easter address to deliver a broad call for peace, with the Washington Post noting the message carried implicit weight given active US military operations in Iran. The speech drew wide attention across the political spectrum.\n\nBack in Washington, a new ad campaign backed by Republicans is pushing back against Trump's stated interest in federalizing elections, warning it would undermine state control of voting. A federal judge also blocked a Trump administration effort to collect race-based admissions data from universities, a ruling Fox News covered as a setback for the administration's education agenda.\n\nFox News separately flagged Kamala Harris's recent travel and public comments as early signals of a 2028 presidential run, a read other outlets have not yet confirmed.",
+        "headline": "Pope Leo Calls for Peace; Democrats Eye Affordability Trap",
+        "body": "Newly elected Pope Leo used his first Easter address to deliver a forceful call for peace, speaking directly to a world marked by active conflicts including the US-Iran war. The address drew wide attention given its timing and the new pontiff's commanding tone.\n\nOn the domestic political front, analysts are warning that Democrats face a strategic risk on the economy. Despite hammering Republicans on cost-of-living issues, the party has struggled to offer concrete affordability policies, and some centrist observers argue that gap could cost them in the midterms. A federal judge this week also blocked a Trump administration effort to collect race-based college admissions data, adding another legal setback to the administration's higher-education agenda.",
         "sources": [
+          {
+            "title": "‘Affordability’ could eventually bite Democrats in the bum",
+            "url": "https://thehill.com/opinion/finance/5815849-democrats-affordability-midterm-elections/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "On Easter, Pope Leo delivers commanding message of peace to a world at war",
             "url": "https://www.washingtonpost.com/world/2026/04/05/pope-leo-easter-trump-war-peace/",
@@ -132,74 +168,14 @@
             "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-push-collect-race-based-admissions-data",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "New ad campaign speaks out against Trump’s threat to ‘federalize’ elections",
-            "url": "https://thehill.com/homenews/administration/5815433-republican-ad-trump-elections/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Kamala Harris' travels and comments clearly point to 2028",
-            "url": "https://www.foxnews.com/politics/kamala-harris-travels-comments-clearly-point-2028",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Iran War Reshapes Energy Debate and Hospital Safety Concerns Rise",
-        "body": "The conflict in Iran is fueling a broader domestic debate about US energy policy. Opinion writers at The Hill argued the war demonstrates the strategic risk of relying on any single energy source, making the case for diversifying toward renewables alongside traditional fuels. The White House, meanwhile, reaffirmed its commitment to lunar resource development under the Artemis program.\n\nOn a separate domestic front, a Hill opinion piece raised concerns about hospital corporatization and its effect on patient safety, arguing that profit-driven consolidation is eroding care standards. A product safety recall also emerged, with roughly 740,000 frying pans sold at Walmart and Costco flagged as potential burn hazards.",
-        "sources": [
-          {
-            "title": "The war in Iran is showing why the US needs diverse energy resources",
-            "url": "https://thehill.com/opinion/energy-environment/5815286-renewable-energy-diversity-importance/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "When hospitals become corporations, what happens to patient safety?",
-            "url": "https://thehill.com/opinion/healthcare/5813199-hospital-corporatization-patient-care/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "The White House vows America will never give up the moon again",
-            "url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "740K pans sold at Walmart, Costco may pose burn hazards",
-            "url": "https://thehill.com/homenews/state-watch/5816584-recall-740k-pans-sold-at-walmart-costco-may-pose-burn-hazards/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Bites Farmers as EV Demand Surges",
-        "body": "Australia's fuel crisis is hitting rural communities hard, with farmers reporting they cannot afford to put food on the table as fuel costs spiral. The squeeze is reshaping consumer behaviour in cities too, where secondhand electric vehicle prices are climbing as buyers rush to ditch combustion engines.\n\nThe divergence is stark. Urban Australians with the means to switch are doing so quickly, while those in regional areas - dependent on fuel for machinery and transport - have no easy alternative. The crisis is exposing a two-speed economy where geography determines who absorbs the pain.",
-        "sources": [
-          {
-            "title": "‘Doesn’t make sense to hold onto a combustion engine’: used EV prices rise as Australia’s fuel crisis hits",
-            "url": "https://www.theguardian.com/environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "'Struggling massively': Farmer finds it hard to put food on the table",
-            "url": "https://www.abc.net.au/news/2026-04-05/fuel-cost-hit-some-farmers-and-families-hard/106532904",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Tasmanian Forest Logged Despite Recorded Swift Parrot Habitat",
-        "body": "A patch of Tasmanian forest where the endangered swift parrot's call was recorded dozens of times has been logged, raising fresh questions about how wildlife data is used in forestry approvals. The swift parrot is critically endangered, with habitat loss identified as a primary driver of its decline.\n\nConservationists argue the logging demonstrates that environmental protections are failing in practice, even when evidence of threatened species is documented. Forestry interests maintain that approvals followed legal processes. The case is likely to intensify debate over Tasmania's native forest industry ahead of any federal review.",
+        "headline": "Logging of Swift Parrot Habitat Reignites Tasmanian Forest Debate",
+        "body": "A patch of Tasmanian forest was logged after researchers recorded the call of the critically endangered swift parrot dozens of times within it. The bird is already under severe pressure from habitat loss, and conservationists argue the incident exposes failures in environmental protections meant to prevent exactly this outcome.\n\nThe case lands during a broader national conversation about land use and species protection. Critics of current forestry regulations say detection of an endangered species should trigger an automatic halt to logging. Industry and government have not publicly responded to this specific incident, but have previously defended existing approval processes as legally sound and scientifically informed.",
         "sources": [
           {
             "title": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
@@ -210,8 +186,8 @@
         ]
       },
       {
-        "headline": "Family Court Orders Return of Aboriginal Child Moved 1,700km",
-        "body": "A family court has ruled that an Aboriginal child removed from a remote Northern Territory community and relocated 1,700 kilometres away must be returned. The decision highlights ongoing tensions between child protection authorities and Indigenous families over removal practices that critics say echo the policies of the Stolen Generations.\n\nThe case raises serious questions about how welfare decisions are made for remote Indigenous children and whether cultural connection is given adequate legal weight. Supporters of the family say the removal was unjustified. Authorities have not publicly detailed their reasoning. The ruling adds pressure on governments to reform child protection frameworks in Indigenous communities.",
+        "headline": "Court Orders Return of Aboriginal Child Moved 1,700km From Community",
+        "body": "The Family Court has ruled that an Aboriginal child taken 1,700 kilometres from a remote Northern Territory community must be returned. The decision is a significant rebuke to whoever authorised the move, and raises fresh questions about child protection decisions affecting Indigenous families.\n\nAboriginal communities and advocates have long argued that removals of Indigenous children replicate the harms of historical policies. The ruling does not resolve the underlying child welfare concerns that prompted the move, and the case is likely to continue through the courts. It adds pressure on NT authorities to demonstrate that cultural connection and family ties are being properly weighed in child protection decisions.",
         "sources": [
           {
             "title": "Aboriginal child moved 1,700km from remote NT community should be returned, family court rules",
@@ -222,45 +198,45 @@
         ]
       },
       {
-        "headline": "US Airman Rescued from Iran as Nuclear Talks Shift",
-        "body": "American special forces rescued a US F-15 airman from Iran in a covert operation, a significant escalation of direct US military activity inside Iranian territory. The rescue comes as Iran separately signalled openness to renewed diplomacy with the Trump administration, offering what analysts describe as a calibrated olive branch.\n\nThe two developments sit in tension. A special forces incursion is not the backdrop either side would typically choose for negotiations. Whether Washington treats the rescue as a closed incident or a provocation will shape whether the diplomatic opening holds. The situation remains fluid.",
+        "headline": "Fuel Crisis Pushes Used EV Prices Higher Across Australia",
+        "body": "Australia's ongoing fuel crisis is reshaping the secondhand car market, with used electric vehicle prices rising as more buyers look to cut their exposure to volatile petrol costs. Sellers report stronger demand and shorter listing times, with some buyers citing the crisis as the tipping point in a decision they had been weighing for years.\n\nThe shift puts pressure on supply, since Australia's EV charging infrastructure and new vehicle stock remain uneven across states and regional areas. The trend benefits early EV adopters but risks leaving lower-income buyers behind, as affordable used EVs become harder to find. The government has not announced any emergency measures to address the supply gap.",
         "sources": [
           {
-            "title": "Iran has offered Trump an olive branch",
-            "url": "https://www.spectator.com.au/2026/04/iran-has-offered-trump-an-olive-branch/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
+            "title": "‘Doesn’t make sense to hold onto a combustion engine’: used EV prices rise as Australia’s fuel crisis hits",
+            "url": "https://www.theguardian.com/environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Police Negligence Lawsuit Looms After Officer Killed by Dezi Freeman",
+        "body": "The sisters of a police officer killed by Dezi Freeman are preparing to sue the force for negligence, according to their lawyer. The case centres on whether police command made decisions that put the officer in foreseeable danger.\n\nFreeman's name has been linked to prior incidents, and the family's legal team is expected to argue that systemic failures contributed to the officer's death. A successful negligence claim against a police force would be legally significant and could force a review of operational protocols. Police have not publicly commented on the planned lawsuit.",
+        "sources": [
           {
-            "title": "US F-15 airman rescued in Iran after special forces operation",
-            "url": "https://www.abc.net.au/news/2026-04-05/us-airman-rescued-in-iran-after-special-forces-operation/106533008",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Sisters of officer killed by Dezi Freeman plan to sue police for negligence, lawyer says",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/05/sisters-of-officer-killed-by-dezi-freeman-plan-to-sue-police-for-negligence-lawyer-says-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran War Escalates as Hormuz Closure Shocks Global Markets",
-        "body": "Iran has closed the Strait of Hormuz and struck an industrial zone in southern Israel, while continuing missile and drone attacks on Gulf states including Kuwait, where power and water facilities were damaged. Trump threatened Iran with \"hell\" as a diplomatic deadline passed, but offered no concrete plan to reopen the waterway that carries roughly a fifth of the world's oil. Europe is scrambling. Nepal has already announced two-day weekends to conserve fuel.\n\nA US F-15E was shot down over Iran, with the seriously wounded pilot rescued in a covert operation Trump confirmed publicly. Iran's former foreign minister Zarif has proposed a peace roadmap, and Oman is mediating talks on Hormuz transit. Political scientist Mearsheimer sees no quick exit. Iran's World Cup participation is now also in doubt, with its minister citing the conflict as grounds to relocate matches away from the US.",
+        "headline": "US-Iran War Escalates as Hormuz Crisis Grips Global Markets",
+        "body": "Iran has closed the Strait of Hormuz, sending shockwaves through European energy markets and pushing oil prices sharply higher. Trump threatened Iran with \"hell\" as a diplomatic deadline approached, but offered no concrete plan to reopen the waterway. Oman stepped in as a back-channel mediator, with Muscat announcing talks with Tehran on restoring transit. Iran's former foreign minister Zarif separately floated a peace roadmap, though Gulf states voiced deep skepticism.\n\nThe conflict's reach is already global. Nepal announced two-day weekends to conserve fuel. OPEC+ agreed to hike output but warned recovery would be slow. Analyst John Mearsheimer told Al Jazeera he sees no signs of a quick end to the fighting. Iran also struck an industrial area in southern Israel, while Israeli strikes killed at least 14 people across Lebanon.",
         "sources": [
           {
-            "title": "Seriously wounded US airman rescue from inside Iran, Trump says",
-            "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
+            "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
             "title": "Iranian missile strikes industrial area in southern Israel",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How downed F-15 US airman was rescued inside Iran",
-            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           },
           {
@@ -272,18 +248,6 @@
           {
             "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
             "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran’s World Cup participation depends on relocation from US, minister says",
-            "url": "https://www.aljazeera.com/sports/2026/4/5/irans-world-cup-participation-depends-on-relocation-from-us-minister-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
-            "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -310,10 +274,28 @@
             "url": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Wounded US Airman Rescued from Inside Iran",
+        "body": "A seriously wounded US airman was rescued from inside Iranian territory after his F-15E was shot down, President Trump confirmed. The operation involved a covert extraction - details of which the BBC has partially reconstructed - marking one of the most dramatic American rescue missions in years. The airman was described as in serious but stable condition.\n\nThe rescue adds a human dimension to a conflict that is rapidly expanding in scope and risk. Separately, analysts and regional officials raised alarm over the potential consequences of strikes on Iran's Bushehr nuclear plant, warning that an attack could trigger a catastrophic radioactive release across the Gulf.",
+        "sources": [
+          {
+            "title": "How downed F-15 US airman was rescued inside Iran",
+            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
           },
           {
-            "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
+            "title": "Seriously wounded US airman rescued from Iran, Trump says",
+            "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
+            "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -322,22 +304,22 @@
             "url": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-            "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Strikes Lebanon, Ben-Gvir Pushes Palestinian Death Row",
-        "body": "Israeli strikes killed at least 14 people across Lebanon on Easter Sunday, displacing Christian families during one of the most significant days in their calendar. The strikes mark a continued expansion of Israeli military operations beyond Gaza.\n\nInside Israel's government, National Security Minister Itamar Ben-Gvir outlined plans to introduce a death row system for Palestinian prisoners. Separately, footage emerged showing an Israeli military dog attacking a Palestinian man inside a mosque. Ukraine meanwhile struck Russian oil infrastructure, hitting a port in Primorsk and a refinery in Nizhny Novgorod.",
+        "headline": "Pope Leo Urges Peace at Easter as Lebanon Burns",
+        "body": "Newly elected Pope Leo used his first Easter Mass to call on world leaders to choose peace, warning that the world is growing dangerously indifferent to violence. The address landed as Christian families in Lebanon celebrated Easter while displaced from their homes by Israeli strikes. At least 14 people were killed across Lebanon in the past 24 hours.\n\nIsrael's national security minister Itamar Ben-Gvir also drew international condemnation after detailing plans to establish a Palestinian \"death row,\" while footage emerged of an Israeli military dog attacking a Palestinian man inside a mosque.",
         "sources": [
           {
             "title": "At least 14 people killed in Israeli strikes across Lebanon",
             "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pope warns world is becoming ‘indifferent’ to violence",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -354,40 +336,22 @@
             "lean": null
           },
           {
-            "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-            "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Pope Leo Urges Peace at First Easter Mass",
-        "body": "Pope Leo delivered his first Easter Mass, calling on world leaders to choose peace and warning that the world is growing dangerously indifferent to violence. The address came as conflicts raged across the Middle East, Eastern Europe, and beyond. It was a pointed debut for the new pontiff.",
-        "sources": [
-          {
-            "title": "Pope warns world is becoming ‘indifferent’ to violence",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
             "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
             "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
+          },
+          {
+            "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Artemis II Crew Photographs Moon; Bangladesh Measles Kills 100 Children",
-        "body": "NASA's Artemis II crew, including Canadian Jeremy Hansen - the first Canadian to travel to the Moon - sent back striking photographs of Earth and the lunar surface, blurring the line between scientific documentation and spectacle. The mission marks a milestone in crewed deep-space exploration.\n\nOn the ground, a suspected measles outbreak in Bangladesh has killed nearly 100 children, raising urgent questions about vaccination coverage. Separately, Hungary alleged a plot to blow up a gas pipeline ahead of national elections, and the Democratic Republic of Congo agreed to accept third-country deportees from the United States under a new deal with the Trump administration.",
+        "headline": "Artemis II Crew Photographs Moon as Bangladesh Measles Crisis Deepens",
+        "body": "NASA's Artemis II crew, including Canadian Jeremy Hansen - the first Canadian heading to the Moon - sent back striking photographs of Earth and the lunar surface, reigniting debate over the boundary between scientific documentation and spectacle. The mission marks a major milestone in the return of crewed lunar exploration.\n\nOn the ground, a suspected measles outbreak has killed nearly 100 children in Bangladesh, raising urgent questions about vaccination coverage. In Europe, Hungary alleged a plot to blow up a gas pipeline days before a national election, a claim that opposition figures quickly questioned. Ukraine struck a Russian oil refinery in Nizhny Novgorod and a port in Primorsk, continuing its campaign against Russian energy infrastructure.",
         "sources": [
           {
             "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
@@ -396,20 +360,8 @@
             "lean": null
           },
           {
-            "title": "Dozens missing after migrant boat capsizes in Mediterranean",
-            "url": "https://www.dw.com/en/dozens-missing-after-migrant-boat-capsizes-in-mediterranean/a-76674357?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
             "title": "Earth in rear-view of Artemis II astronauts",
             "url": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "DR Congo to receive ‘third-country’ deportees from the US under new deal",
-            "url": "https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -430,14 +382,20 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          },
+          {
+            "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
+            "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           }
         ]
       }
     ],
     "ai": [
       {
-        "headline": "Suno's AI Music Tool Is a Copyright Lawsuit Waiting to Happen",
-        "body": "Suno lets users generate music that sounds uncannily like real artists, and The Verge's deep dive makes clear the legal exposure is severe. The platform can produce convincing covers and stylistic imitations without licensing the underlying works, putting it squarely in the crosshairs of ongoing industry litigation against AI music generators.\n\nThe broader problem is structural. Suno's training data almost certainly includes copyrighted recordings, and its outputs can closely replicate protected styles and melodies. Rights holders are watching, and courts are still working out where the lines fall. Suno may be building a product on a foundation that could be legally dismantled beneath it.",
+        "headline": "Suno's AI Music Tool Walks Into a Copyright Minefield",
+        "body": "Suno, the AI music generation startup, is drawing fresh scrutiny over how its models handle copyrighted material. The Verge reports the tool can produce outputs that closely mimic existing artists and recordings, raising unresolved questions about liability that the music industry is watching closely.\n\nThe legal framework around AI-generated music remains largely untested. Suno has not secured blanket licensing deals with major labels, leaving users exposed if generated tracks surface in commercial contexts. The problem is structural, not incidental. As AI music tools scale, the gap between what they can produce and what they are legally permitted to reproduce is widening fast.",
         "sources": [
           {
             "title": "Suno is a music copyright nightmare",
@@ -448,26 +406,32 @@
         ]
       },
       {
-        "headline": "OpenAI Moves Codex to Metered Pricing for All Users",
-        "body": "OpenAI is ending any flat-rate access to Codex, its AI coding tool, and shifting all users to API-based consumption pricing. The move signals OpenAI's intent to monetize developer tools more aggressively as competition in the coding assistant space intensifies from rivals like GitHub Copilot and Anthropic's Claude.\n\nFor heavy users, costs could climb fast. Metered pricing rewards light usage but punishes teams that have built Codex into automated workflows. The timing is notable given that a developer on Hacker News separately documented building a full project in three months using AI tools that would have taken eight years solo - exactly the kind of intensive use case that will now carry a steeper bill.",
+        "headline": "OpenAI Shifts Codex to Pay-Per-Use, Ending Free Access",
+        "body": "OpenAI is moving Codex, its AI coding tool, to API-based pricing for all users. The change ends any remaining free tier and ties costs directly to usage volume, a shift that will hit hobbyists and small developers hardest.\n\nThe move mirrors a broader industry pattern: AI companies offer generous free access to build adoption, then tighten the economics once users are locked in. OpenAI published a rate card outlining the new pricing structure. Developers who built workflows around Codex now face a direct cost calculation that did not exist before.",
         "sources": [
           {
             "title": "Codex is switching to API pricing based usage for all users",
             "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
             "source": "Hacker News",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Japan's Labor Shortage Is Becoming a Robot Proving Ground",
+        "body": "Japan is deploying physical AI robots into roles that human workers have abandoned, from warehouse logistics to elder care. TechCrunch reports the country's acute demographic crunch is accelerating real-world adoption faster than anywhere else, turning Japan into an unplanned stress test for commercial robotics.\n\nThe framing matters. Where Western debates center on robots displacing workers, Japan's situation is the inverse - there are not enough workers to displace. That changes the political calculus entirely and may explain why public resistance is lower. If the deployments hold up, Japan's data will become the benchmark other markets use to justify their own rollouts.",
+        "sources": [
           {
-            "title": "Eight years of wanting, three months of building with AI",
-            "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-            "source": "Hacker News",
+            "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+            "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Artemis II Crew Rounds the Moon as SpaceX Eyes Orbital Data Centers",
-        "body": "The Artemis II crew captured the first live footage of the Moon's far side this week, a milestone that underscores how routine deep-space human flight is becoming. The mission is reportedly going smoothly enough that the most newsworthy detail is a frozen urine management problem aboard the capsule.\n\nMeanwhile, TechCrunch reports that SpaceX is exploring orbital data centers as a way to justify its enormous valuation. The idea is speculative but not absurd - low-latency compute in orbit has niche appeal for defense and scientific applications. Whether it can move the needle on a valuation already priced for dominance is a harder sell.",
+        "headline": "Gemini Enters Google Maps, SpaceX Eyes Orbital Data Centers",
+        "body": "Google has begun integrating Gemini into Maps, letting users hand off day planning to the AI assistant. The Verge tested it and found the experience genuinely useful, with Gemini pulling together routes, venues, and timing into coherent itineraries rather than just answering isolated queries. It is a concrete consumer use case at scale.\n\nMeanwhile, TechCrunch reports that SpaceX is exploring orbital data centers as a potential revenue stream, one that analysts suggest could help support the company's enormous private valuation. The idea is early-stage, but it signals that space infrastructure ambitions are expanding well beyond launch services and Starlink connectivity.",
         "sources": [
           {
             "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
@@ -476,33 +440,9 @@
             "lean": null
           },
           {
-            "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-            "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Artemis II is going so well that we're left to talk about frozen urine",
-            "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Japan's Robot Workforce and Gemini's Map Skills Signal AI's Practical Turn",
-        "body": "Japan is deploying physical AI robots in roles that human workers simply won't take, from warehouse logistics to elder care. TechCrunch finds the results genuinely promising - not robots replacing workers, but filling a structural labor gap that demographics made inevitable. It is a quieter story than the displacement narrative, but arguably more consequential.\n\nOn the consumer side, Google's Gemini integration in Maps is drawing cautiously positive reviews. The Verge's hands-on found it useful for day planning in a way that felt practical rather than gimmicky. Taken together, both stories point to the same shift: AI earning trust through mundane competence rather than headline-grabbing capability.",
-        "sources": [
-          {
             "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
             "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-            "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -510,9 +450,15 @@
     ],
     "btc": [
       {
-        "headline": "North Korea Spent Six Months Draining $270M from Drift",
-        "body": "The $270 million exploit of Solana-based trading platform Drift was a sustained North Korean intelligence operation, not an opportunistic hack. Preliminary findings show attackers spent roughly six months embedding themselves before executing the theft, planting insiders and mapping the protocol's vulnerabilities methodically.\n\nThe scale and patience of the operation mark it as one of the most sophisticated DeFi attacks on record. It reinforces a pattern: state-sponsored groups are no longer smashing windows. They are picking locks slowly, and most protocols are not watching closely enough to notice.",
+        "headline": "North Korea Behind $270M Drift Protocol Heist",
+        "body": "The Drift Protocol exploit was not a smash-and-grab. According to post-incident findings, North Korean intelligence operatives spent six months infiltrating the platform before draining roughly $270-280 million in a coordinated attack. The operation involved deliberate preparation across multiple stages, suggesting state-level resources and patience.\n\nThe breach adds to a growing ledger of DPRK-linked crypto thefts, which analysts say fund the regime's weapons programs. Ledger's CTO separately warned this week that AI is accelerating the threat, giving attackers better tools to probe vulnerabilities, craft phishing campaigns, and automate exploits at scale. The security window for crypto protocols is narrowing fast.",
         "sources": [
+          {
+            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
+            "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
             "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
@@ -528,8 +474,8 @@
         ]
       },
       {
-        "headline": "Bitcoin Holds at $67K While Sentiment Craters",
-        "body": "Bitcoin is stuck near $67,000 and some traders see lower lows as inevitable, yet the price has refused to collapse despite sentiment hitting its worst levels since the Iran war began. The divergence is notable. Historically, extreme negative sentiment has preceded recoveries, not further selloffs.\n\nOne reason for the resilience may be structural. ETF inflows mean institutional money now positions ahead of Federal Reserve decisions rather than reacting after the fact, effectively front-running macro catalysts. That changes the timing of Bitcoin's moves relative to traditional markets. Robert Kiyosaki, meanwhile, is using the gloom to repeat his case for Bitcoin and gold as the dollar's long-term decline continues.",
+        "headline": "Bitcoin Holds at $67K as Sentiment Turns Deeply Bearish",
+        "body": "Bitcoin is stuck near $67,000 and traders are losing patience. Sentiment has hit its worst levels since the Iran war began, yet price has not collapsed - a divergence that some read as resilience and others read as a coiled spring waiting to break lower. At least one prominent trader argues new lows are a matter of time.\n\nThe macro backdrop is shifting beneath the market. CoinDesk reports that Bitcoin is now front-running Federal Reserve decisions rather than reacting to them, a behavioral change driven by institutional ETF flows that have made BTC more sensitive to rate expectations. Meanwhile, a Bitcoin Policy Institute executive framed BTC and the US dollar as symbiotic rather than adversarial, pushing back on the narrative that one must destroy the other.",
         "sources": [
           {
             "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
@@ -550,38 +496,44 @@
             "lean": null
           },
           {
-            "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
-            "url": "https://cointelegraph.com/news/robert-kiyosaki-1974-shift-bitcoin-gold-real-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec",
+            "url": "https://cointelegraph.com/news/bitcoin-us-dollar-symbiotic-relationship-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Is Breaking Crypto Security and Building New Rails",
-        "body": "Ledger's CTO is warning that AI is accelerating crypto's security crisis, making phishing attacks more convincing, exploit code easier to generate, and social engineering harder to detect. The threat is not theoretical. Sophisticated attacks like the Drift operation show how much damage patient, well-resourced adversaries can do.\n\nAt the same time, Ant Group's blockchain arm is pushing in the opposite direction, launching a platform that lets AI agents transact autonomously on crypto rails. The bet is that AI and blockchain are complementary. The risk is that the same tools enabling autonomous transactions also make it easier to steal from them.",
+        "headline": "Token Oversupply Threatens Crypto's Long-Term Value Case",
+        "body": "A structural problem is quietly undermining the broader crypto market: token supply is growing faster than the value those tokens represent. New issuance from vesting schedules, protocol launches, and incentive programs keeps hitting the market, diluting holders and suppressing prices even when fundamentals look reasonable. Critics call it an existential issue.\n\nRobert Kiyosaki resurfaced this week to argue that Bitcoin and gold remain the answer, drawing a line from the 1974 decoupling of the dollar from hard assets to today's inflationary environment. His framing is familiar, but the timing lands against a backdrop of genuine structural concern about whether most crypto tokens can sustain any value at all.",
         "sources": [
           {
-            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
-            "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
-            "source": "CoinDesk",
+            "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
+            "url": "https://cointelegraph.com/news/robert-kiyosaki-1974-shift-bitcoin-gold-real-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
-            "url": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
-            "source": "CoinDesk",
+            "title": "‘Existential’ token problem seen as supply outpaces value creation",
+            "url": "https://cointelegraph.com/news/crypto-existential-token-problem-supply-outpaces-value-creation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Token Oversupply Is Quietly Killing Crypto's Value Case",
-        "body": "A growing body of analysis points to an existential problem in crypto markets: token supply is expanding far faster than genuine value creation. Projects launch tokens to fund themselves, insiders dump on retail, and prices drift lower even when underlying usage grows. The cycle is eroding trust across the broader market.\n\nThis structural issue sits beneath the current price stagnation. Bitcoin's relative stability masks a weaker picture in altcoins, where inflation from vesting schedules and new issuance is a constant headwind. Until projects tie token supply more tightly to real economic activity, the problem compounds.",
+        "headline": "Ant Group Builds Crypto Rails for AI Agents to Transact",
+        "body": "Ant Group's blockchain division has launched a platform designed to let AI agents conduct transactions on crypto infrastructure autonomously. The system targets use cases where software agents need to pay for services, settle agreements, or move value without human sign-off at each step. It is an early but concrete bet that AI and crypto converge at the payments layer.\n\nThe move arrives as Anthropic launched a political action committee amid growing tensions with the Trump administration over AI regulation. Neither development is purely a crypto story, but both signal that the boundary between AI infrastructure and blockchain rails is collapsing faster than most of the industry anticipated.",
         "sources": [
           {
-            "title": "‘Existential’ token problem seen as supply outpaces value creation",
-            "url": "https://cointelegraph.com/news/crypto-existential-token-problem-supply-outpaces-value-creation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
+            "url": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Anthropic launches PAC amid tensions with Trump administration over AI policy",
+            "url": "https://cointelegraph.com/news/anthropic-launches-pac-ai-policy-tensions-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -593,19 +545,19 @@
     "food": {
       "name": "Miso-Glazed Leek and Mushroom Galette",
       "cuisine": "French-Japanese fusion",
-      "description": "A free-form savory tart with caramelized leeks and shiitake mushrooms bound by a white miso butter glaze on a rough puff pastry base.",
-      "tip": "Chill your pastry dough for at least 30 minutes before rolling — cold fat creates the flaky layers that make a galette worth the effort."
+      "description": "A free-form savory tart with caramelized leeks and shiitake mushrooms lacquered in white miso butter on a flaky rough-puff pastry base.",
+      "tip": "Blind-bake the pastry for 8 minutes before adding the filling to prevent a soggy bottom — the miso glaze releases moisture as it cooks."
     },
     "exercise": {
-      "name": "The Farmer's Sunday Circuit",
-      "duration": "40 minutes",
-      "equipment": "Two heavy bags, backpack, or actual dumbbells",
-      "description": "A loaded carry and functional strength session built around farmer walks, suitcase carries, and stair climbs with weight — training grip, posture, and real-world endurance in a single loop around your home or block."
+      "name": "The Sunday Tempo Ladder",
+      "duration": "45 minutes",
+      "equipment": "Running shoes, a flat route or treadmill",
+      "description": "A structured run that builds through four 8-minute blocks at progressively faster paces — easy, moderate, comfortably hard, and back to moderate — training your body to recover at speed rather than at rest."
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether 'you' today are the same person you were a decade ago.",
-      "why": "On a quiet Sunday it's a rare chance to sit with a question that has no clean answer, one that threads through philosophy, neuroscience, and law — and quietly reframes how you think about change, continuity, and who you're becoming."
+      "topic": "Eigenvalues and the Google PageRank Algorithm",
+      "description": "PageRank, the algorithm that made Google dominant, is essentially an application of a linear algebra concept called the dominant eigenvector — it treats the entire web as a matrix and finds which pages the system naturally 'settles on' as important.",
+      "why": "Understanding this collapses the mystery behind how recommendation engines, social network influence scores, and even epidemiological spread models actually work — it's one idea that quietly runs much of the modern world."
     }
   }
 }
