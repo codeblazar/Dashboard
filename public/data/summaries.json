@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-04-05T01:34:59.192Z",
+  "generatedAt": "2026-04-05T03:04:25.595Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Escalates Iran Threats as Military Jets Shot Down",
-        "body": "The US-Iran conflict sharpened this week as Trump warned Tehran that 'time is running out' before 'all hell' rains down, while Senator Lindsey Graham urged Iran to 'choose wisely.' Trump separately described a deal as 'near completion,' leaving his administration's endgame unclear. Military losses are mounting - US jets shot down by enemy fire mark the first such losses in over 20 years, a significant battlefield development.\n\nAt home, the administration arrested two relatives of slain Iranian general Qasem Soleimani after Secretary of State Rubio revoked their green cards. Critics see the move as political signaling; supporters call it a national security necessity. Analysts remain divided on what 'finishing the job' against Iran would actually require, with some arguing the US can prevail through attrition without ground troops.",
+        "headline": "US Jets Downed, Iran Threats Escalate as Deadline Nears",
+        "body": "US military aircraft have been shot down by enemy fire for the first time in over 20 years during the ongoing conflict with Iran, marking a sharp escalation. Trump has publicly declared the war \"near completion\" while simultaneously raising new threats, and Sen. Lindsey Graham is urging Tehran to \"choose wisely\" as a diplomatic deadline approaches.\n\nAnalysts and opinion writers are divided on what \"finishing the job\" actually means in practice, with some arguing the US can prevail through attrition without ground troops. Secretary Rubio revoked the green cards of two relatives of slain Iranian general Qasem Soleimani living in the US, who were subsequently arrested by ICE. A Fox News commentary frames Trump as shouldering the burdens of a wartime presidency, while critics question the strategy's endgame.",
         "sources": [
           {
             "title": "Sunday shows preview: Trump ups threats on Iran after saying war ‘near completion’",
             "url": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "TEVI TROY: Trump faces the burdens of a wartime presidency",
-            "url": "https://www.foxnews.com/politics/tevi-troy-trump-faces-burdens-wartime-presidency",
-            "source": "Fox News",
-            "lean": "right"
           },
           {
             "title": "US military jets hit in Iran war are the first shot down by enemy fire in over 20 years",
@@ -56,23 +50,35 @@
             "lean": "center"
           },
           {
-            "title": "Trump warns Iran: ‘Time is running out’ before ‘all hell’ rains down",
-            "url": "https://thehill.com/homenews/administration/5816212-trump-warns-iran-time-running-out/",
+            "title": "TEVI TROY: Trump faces the burdens of a wartime presidency",
+            "url": "https://www.foxnews.com/politics/tevi-troy-trump-faces-burdens-wartime-presidency",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Judge Blocks Trump College Admissions Race Compliance Order",
+        "body": "A federal judge has halted the Trump administration's effort to force colleges to certify they are not considering race in admissions decisions, a move that followed the Supreme Court's 2023 ban on affirmative action. The administration had threatened to pull federal funding from institutions that could not prove compliance.\n\nSupporters of the order argue it is a necessary enforcement mechanism to ensure universities follow the law. Critics, including civil liberties groups, say the certification requirement was vague and coercive. The ruling is a setback for the administration's broader push to reshape higher education policy, though an appeal is widely expected.",
+        "sources": [
+          {
+            "title": "Judge blocks Trump bid to require colleges to prove race not considered in admissions",
+            "url": "https://thehill.com/homenews/5816716-federal-judge-blocks-trump-education-data/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
+            "url": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       },
       {
         "headline": "Trump Budget Proposes Defense Surge, Deep Domestic Cuts",
-        "body": "The White House unveiled a budget blueprint seeking $1.5 trillion in defense spending while proposing sharp reductions across domestic programs. The proposal reflects Trump's stated priority of military expansion, but faces resistance in a Congress where even Republican allies have raised concerns about cuts to programs their constituents rely on.\n\nFormer White House press secretary Kayleigh McEnany warned publicly that the 2026 midterms 'will be hard' for Republicans, a rare candid admission from within the party's orbit. A separate Gallup poll showing China now outpacing the US in global approval ratings adds external pressure, suggesting the administration's posture abroad is costing diplomatic standing even as it pursues military strength.",
+        "body": "The White House has unveiled a budget proposal seeking a $1.5 trillion increase in defense spending while targeting significant reductions across domestic programs. The plan reflects the administration's stated priority of military strength, particularly as the US is engaged in active conflict with Iran.\n\nRepublicans broadly support the defense buildup, though former White House press secretary Kayleigh McEnany has warned that the midterms \"will be hard\" for the party, signaling internal concern about the political cost of domestic cuts. Democrats are expected to attack the proposal as harmful to social programs. The budget sets up a major congressional fight heading into the 2026 election cycle.",
         "sources": [
-          {
-            "title": "McEnany sounds alarm: Midterms ‘will be hard’ for Republicans",
-            "url": "https://thehill.com/homenews/campaign/5816260-mcenany-warns-republicans-midterms/",
-            "source": "The Hill",
-            "lean": "center"
-          },
           {
             "title": "Trump unveils $1.5T defense surge, deep domestic cuts — what’s on the budget chopping block",
             "url": "https://www.foxnews.com/politics/trump-unveils-1-5t-defense-surge-deep-domestic-cuts-whats-chopping-block",
@@ -80,22 +86,16 @@
             "lean": "right"
           },
           {
-            "title": "China now tops US in global approval ratings: Gallup",
-            "url": "https://thehill.com/policy/international/5816375-china-global-approval-surpasses-us-gallup/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "America is heading for a recession — and it may be the worst yet",
-            "url": "https://thehill.com/opinion/finance/5814974-middle-class-decline-permanent-crisis/",
+            "title": "McEnany sounds alarm: Midterms ‘will be hard’ for Republicans",
+            "url": "https://thehill.com/homenews/campaign/5816260-mcenany-warns-republicans-midterms/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Courts Check Trump on Race, Ballroom and College Policy",
-        "body": "A federal judge blocked the Trump administration's effort to require colleges to certify they do not consider race in admissions, handing a legal setback to one of its higher education priorities. Separately, Trump filed an emergency appeal to continue construction of a White House ballroom after a court moved to halt the project, with a lawsuit challenging the renovation still unresolved.\n\nThe Wisconsin Supreme Court race is drawing national attention as a test of Republican strength in a key swing state, with the state GOP facing an uphill battle. In California, a clash between the FBI and Democratic congressman Eric Swalwell is complicating his gubernatorial bid, while an opinion piece in The Hill argues Trump's pipeline order in California sets a precedent for federal overreach into state authority.",
+        "headline": "White House Ballroom Fight, Wisconsin Race Signal Political Tensions",
+        "body": "Trump has filed an emergency appeal to continue construction of a ballroom inside the White House complex after a judge blocked the project, with critics arguing the renovation raises legal and ethical questions about use of public property. The dispute adds to a string of legal battles surrounding the administration.\n\nSeparately, Wisconsin Republicans are struggling ahead of a state Supreme Court race, spotlighting the party's difficulties in competitive state-level contests. A new poll shows a narrow majority of Virginians support redistricting to favor Democrats. China has also surpassed the US in global approval ratings according to a new Gallup survey, a finding that cuts across partisan lines on questions of American standing abroad.",
         "sources": [
           {
             "title": "Wisconsin judicial race spotlights state GOP’s struggles",
@@ -116,55 +116,67 @@
             "lean": "center-left"
           },
           {
-            "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
-            "url": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-            "url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california/",
+            "title": "China now tops US in global approval ratings: Gallup",
+            "url": "https://thehill.com/policy/international/5816375-china-global-approval-surpasses-us-gallup/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Swalwell-FBI clash draws attention to Trump foe’s California governor bid",
-            "url": "https://thehill.com/homenews/campaign/5815551-eric-swalwell-trump-fbi-california-governor-race/",
+            "title": "Narrow majority in Virginia backs redistricting to favor Democrats: Poll",
+            "url": "https://thehill.com/homenews/campaign/5816170-virginia-redistricting-democrats-survey/",
             "source": "The Hill",
             "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "ICE Crash Dispute, Louisiana Parade Incident Fuel Immigration Debate",
-        "body": "The Department of Homeland Security pushed back hard against Democratic Senator Chris Van Hollen after he claimed an illegal immigrant caused a crash while fleeing ICE, with DHS disputing key details of his account. The exchange reflects the broader partisan battle over how immigration enforcement is conducted and communicated to the public.\n\nA separate incident in Louisiana, where a vehicle drove into a crowd at a parade injuring several people, drew immediate attention amid a heightened national focus on public safety events. Authorities have not confirmed the circumstances or motive. FBI Director Kash Patel also made headlines with a blunt warning to anyone who attacks law enforcement, saying the bureau would 'put you down' - language that drew both praise from supporters and criticism from civil liberties advocates.",
-        "sources": [
-          {
-            "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-            "url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Several injured after vehicle drives into crowd at Louisiana parade",
-            "url": "https://thehill.com/homenews/5816645-several-injured-after-vehicle-drives-into-crowd-at-louisiana-parade/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "FBI's Patel delivers blunt warning to law enforcement attackers: 'We're going to put you down'",
-            "url": "https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel prices bite as NSW targets price-gouging service stations",
-        "body": "NSW is boosting funding for its FuelCheck app and urging motorists to report service stations suspected of unjustified price hikes, as fuel costs continue to squeeze household budgets. The move follows growing community pressure on governments to act against what critics describe as opportunistic pricing at the bowser.\n\nOn the ground, the impact is already reshaping daily life. Some Australians are changing how they commute, and for lower-income households food is becoming, in their own words, a privilege. The NSW government's approach leans on consumer reporting rather than direct price controls, a distinction that critics argue stops well short of meaningful intervention.",
+        "headline": "Murder charge, police shooting mark violent Easter weekend",
+        "body": "A man arrested at Melbourne Airport attempting to board an international flight has been charged with murdering a woman, with police intervening before he could leave the country. In Tasmania, a separate incident left a man in serious condition after being shot by police in Goodwood, southern Hobart. Details on the circumstances of the Tasmania shooting remain limited, with authorities yet to release a full account.\n\nThe cases add to a grim Easter period. Three people died and two remain critical following a spate of crashes on Queensland roads over the holiday weekend. Authorities have not yet indicated whether charges will follow the Queensland incidents.",
         "sources": [
+          {
+            "title": "Man arrested attempting to board international flight at Melbourne airport charged with murdering woman",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/05/man-arrested-attempting-to-board-international-flight-at-melbourne-airport-after-allegedly-murdering-woman-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Man in serious condition after being shot by Tasmania Police",
+            "url": "https://www.abc.net.au/news/2026-04-05/tas-person-injured-in-firearms-incident-in-goodwood-southern-tas/106532674",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Three dead, two critical in spate of crashes on Queensland roads",
+            "url": "https://www.abc.net.au/news/2026-04-05/queensland-road-deaths-easter-weekend/106532370",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Victoria Police face lawsuit over officer killed by Freeman",
+        "body": "The sisters of Senior Constable Neal Thompson, killed by Dezi Freeman, are suing Victoria Police. The legal action signals the family holds the force partly responsible for the circumstances surrounding Thompson's death, though the specific allegations have not yet been detailed publicly.\n\nThe case is likely to intensify scrutiny of police procedures and duty-of-care obligations. Victoria Police has faced sustained pressure over officer safety protocols in recent years. The outcome could have broad implications for how the force manages risk and supports frontline officers.",
+        "sources": [
+          {
+            "title": "Sisters of officer killed by Dezi Freeman to sue Victoria Police",
+            "url": "https://www.abc.net.au/news/2026-04-05/vic-neal-thompson-sisters-to-sue-police/106532620",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Fuel costs bite as WA and NSW tighten price oversight",
+        "body": "Western Australia is expanding its FuelWatch scheme from May, requiring all regional service stations to report prices - a move the government says will improve transparency and competition in areas where motorists have few alternatives. In New South Wales, authorities are urging drivers to report suspected price gouging through the FuelCheck platform, backed by fresh funding.\n\nThe pressure is real. Some Australians say rising fuel costs are forcing changes to how they commute, and that food is becoming a luxury. Both state governments are leaning on disclosure and public reporting rather than direct price controls, a distinction critics may question if costs keep climbing.",
+        "sources": [
+          {
+            "title": "All WA regional stations must report fuel prices from May as FuelWatch scheme expands",
+            "url": "https://www.abc.net.au/news/2026-04-05/more-regional-retailers-ordered-to-join-fuelwatch-reporting/106532630",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
           {
             "title": "Motorists urged to dob in service stations over fuel price hikes",
             "url": "https://www.abc.net.au/news/2026-04-05/nsw-fuel-check-funding-boost-petrol-prices/106532390",
@@ -180,33 +192,15 @@
         ]
       },
       {
-        "headline": "Melbourne murder suspect caught fleeing on international flight",
-        "body": "A man was arrested at Melbourne Airport on Saturday after allegedly murdering a woman, with police intercepting him as he attempted to board an international flight. Details of the victim and the relationship between the two have not been fully disclosed by authorities.\n\nThe arrest raises questions about alert systems at Australian airports and how quickly law enforcement can act when suspects attempt to flee across borders. Police have not yet indicated where the man was attempting to travel.",
+        "headline": "Victoria First Nations treaty elections begin; Gaza flotilla returns",
+        "body": "Victoria's First Nations treaty body is holding its inaugural elections, a milestone in the state's treaty process. Advocates describe it as communities asserting authority over negotiations that directly affect them. The elections mark a concrete step forward after years of groundwork, though the broader treaty process still has a long road ahead.\n\nSeparately, Australian activists are preparing to rejoin a flotilla heading to Gaza despite the ongoing conflict. One participant asked publicly whether they would face punishment for returning. The effort reflects continued pressure from parts of Australian civil society over the humanitarian situation in Gaza, a question that remains politically contested across party lines.",
         "sources": [
           {
-            "title": "Man arrested attempting to board international flight at Melbourne airport after allegedly murdering woman",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/05/man-arrested-attempting-to-board-international-flight-at-melbourne-airport-after-allegedly-murdering-woman-ntwnfb",
+            "title": "‘Will I be punished for daring to return?’ Australian flotilla activists to head back to Gaza as wider war rages",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/04/gaza-flotilla-global-sumud-activists-return-war-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Gambling reform slammed as Labor's response falls short",
-        "body": "ACT Senator David Pocock has publicly condemned the federal Labor government's response to gambling reform, arguing it amounts to little more than tinkering at the edges of a serious public health crisis. Writing in the Guardian, Pocock says the government's measures fail the millions of Australians harmed by gambling-related damage each year.\n\nLabor has resisted calls for stricter advertising bans and betting limits, citing industry and broadcaster concerns. Pocock and other advocates argue that incremental reform protects commercial interests over community welfare. The government has not publicly responded to the latest criticism.",
-        "sources": [
-          {
-            "title": "We cannot celebrate tinkering when it comes to gambling reform. Labor’s response falls tragically short | David Pocock",
-            "url": "https://www.theguardian.com/commentisfree/2026/apr/05/gambling-reform-australia-david-pocock",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Victoria's First Nations treaty body holds historic first elections",
-        "body": "Victoria's First Peoples' Assembly is conducting its first elections for the treaty negotiating body, a milestone in what would be Australia's first formal treaty process between a state government and its Indigenous peoples. Candidates and community members have emphasised the importance of self-determination, with one participant quoted saying 'we're the experts in our own lives.'\n\nThe process has broad support among First Nations communities in Victoria, though treaty negotiations remain complex and no agreement has yet been reached with the state government. The elections mark a structural step forward regardless of where those talks ultimately land.",
-        "sources": [
+          },
           {
             "title": "‘We’re the experts in our own lives’: Victoria’s First Nations treaty body is holding its first elections",
             "url": "https://www.theguardian.com/australia-news/2026/apr/05/victoria-first-nations-treaty-first-elections-ntwnfb",
@@ -218,9 +212,15 @@
     ],
     "world": [
       {
-        "headline": "US-Israel Strike Iran as Trump Issues 48-Hour Ultimatum",
-        "body": "The United States and Israel have escalated military strikes on Iranian infrastructure, hitting universities, bridges, and a Tehran psychiatric hospital. A US fighter jet was shot down over Iran, and the search for the missing airman continues, presenting what analysts describe as a serious diplomatic and military test for Washington. Tehran has rejected Trump's ultimatum demanding a deal within 48 hours, with Iranian officials trading threats of 'hell' with their American counterparts.\n\nThe US has arrested relatives of slain Iranian general Qasem Soleimani, with Secretary of State Marco Rubio stripping Soleimani's niece of her US residency. A fire broke out at a Kuwait oil complex amid the broader regional tensions. Neighbouring Pakistan faces mounting pressure to navigate the fallout, while Italy's Meloni met the Qatari emir to discuss energy security as markets brace for supply disruption.",
+        "headline": "US-Israel Strike Iran as Tehran Rejects Trump Ultimatum",
+        "body": "The United States and Israel have escalated military strikes on Iranian infrastructure, hitting universities, bridges, and a psychiatric hospital in Tehran. Trump gave Iran a 48-hour deadline to negotiate, threatening to unleash \"hell\" if it refused. Tehran rejected the ultimatum outright.\n\nA US fighter jet was shot down over Iran, and the search for the missing airman continues - presenting what analysts call a serious test for Washington. The US has arrested relatives of slain Iranian general Qasem Soleimani, with Secretary of State Marco Rubio personally stripping Soleimani's niece of her US residency. Planet Labs, a US satellite firm, announced a blackout on imagery related to the conflict.",
         "sources": [
+          {
+            "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
+            "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
             "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
@@ -264,18 +264,6 @@
             "lean": null
           },
           {
-            "title": "Iran’s coastline: architecture of control",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
-            "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
             "title": "Marco Rubio says he has stripped Qassem Soleimani’s niece of US residency",
             "url": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss",
             "source": "Al Jazeera",
@@ -296,18 +284,54 @@
         ]
       },
       {
-        "headline": "Israel Tightens Grip on Hebron Mosque, Arrests Antiwar Protesters",
-        "body": "Israeli authorities have moved to restrict access to the Ibrahimi Mosque in Hebron, deepening Palestinian concerns over the site's status. Israeli police also arrested antiwar demonstrators in Tel Aviv, signalling growing domestic pressure on the government over its military campaigns. Drone strikes continued in central Gaza, with footage showing a vehicle engulfed in flames.\n\nIndonesia received the bodies of UN peacekeepers killed in southern Lebanon, highlighting the human cost of the wider regional conflict. Displaced Lebanese civilians describe lives 'turned upside down' as the fallout from ongoing hostilities continues to ripple across the region.",
+        "headline": "Iran War Ripples Through Region's Energy and Security",
+        "body": "Iran declared Iraqi ships free to transit the Strait of Hormuz as shipping movements through the critical waterway increased, signalling Tehran's effort to manage regional alliances while under attack. A fire broke out at a Kuwait oil complex, adding to energy market anxiety. Italy's Prime Minister Meloni flew to Qatar to discuss energy security with the emir.\n\nPakistan faces mounting pressure over how to navigate the fallout from a war on its doorstep. Indonesia received the bodies of UN peacekeepers killed in southern Lebanon, a reminder of the broader regional toll. Iran has tightened coastal defences, with new footage showing the architecture of its maritime control.",
         "sources": [
           {
-            "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
-            "url": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss",
+            "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+            "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How will Pakistan deal with the fallout from Iran war?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
             "title": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
             "url": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran’s coastline: architecture of control",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
+            "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel Cracks Down on Protesters and Hebron Mosque",
+        "body": "Israeli police arrested antiwar demonstrators in Tel Aviv as domestic opposition to the country's military campaigns grows. In the occupied West Bank, Israeli authorities tightened restrictions on the Ibrahimi Mosque in Hebron, further limiting Palestinian access to one of the region's most contested religious sites. Israeli drone strikes continued in central Gaza, with footage showing a vehicle engulfed in flames.",
+        "sources": [
+          {
+            "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
+            "url": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -322,19 +346,19 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Displaced in Lebanon: 'Lives turned upside down'",
-            "url": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Russia Kills Five in Ukraine Market Strike",
-        "body": "A Russian attack on a market in Ukraine killed five people, the latest in a series of strikes targeting civilian areas. The attack drew renewed condemnation but no immediate shift in the diplomatic stalemate over the war.\n\nSeparately, Germany is considering requiring males under 45 to obtain military approval before taking extended stays abroad, a move reflecting Berlin's sharpening focus on defence readiness as European security concerns deepen.",
+        "headline": "Germany Eyes Military Travel Rules; Russia Kills Five in Ukraine",
+        "body": "Germany is considering requiring men under 45 to obtain military approval before taking extended stays abroad, a move reflecting Europe's sharpening focus on defence readiness amid ongoing continental instability. The proposal has drawn significant public debate.\n\nIn Ukraine, a Russian strike on a market killed five people. Separately, the world's oldest serving leader is set to appoint a deputy for the first time in his 43-year rule, while a car ploughed into a Lao New Year parade in Louisiana, injuring around 15 people.",
         "sources": [
+          {
+            "title": "German males under 45 may need military approval for long stays abroad",
+            "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Russian attack on Ukraine market kills five",
             "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&amp;at_campaign=rss",
@@ -342,27 +366,15 @@
             "lean": null
           },
           {
-            "title": "German males under 45 may need military approval for long stays abroad",
-            "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "World's oldest leader to get a deputy for first time in 43-year rule",
+            "url": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Car Hits Louisiana Parade; New York Baby Shooting Suspect Charged",
-        "body": "A vehicle ploughed into a Lao New Year parade in Louisiana, injuring around 15 people. Authorities are investigating the circumstances of the crash. The incident follows a pattern of vehicle attacks on public gatherings that has prompted renewed scrutiny of crowd safety measures at community events.\n\nIn New York, a man has been charged in connection with the fatal shooting of a baby in a pram, a case that drew widespread outrage. The charge marks a significant step in an investigation that shocked the city.",
-        "sources": [
+          },
           {
             "title": "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
             "url": "https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Man charged over fatal shooting of baby in pram in New York",
-            "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           }
         ]
@@ -370,15 +382,9 @@
     ],
     "ai": [
       {
-        "headline": "Claude Code Leak Weaponized With Malware by Hackers",
-        "body": "Hackers are distributing a leaked version of Anthropic's Claude Code tool bundled with malware, turning a software leak into an active threat vector. The incident puts pressure on Anthropic at an awkward moment - the company separately announced that Claude Code subscribers will need to pay extra for OpenClaw support, a pricing move likely to frustrate developers already invested in the platform.\n\nMeanwhile, researchers at Anthropic published findings on how emotion concepts function inside large language models, and Andrej Karpathy shared a public \"idea file\" framed around LLM applications. The AI ecosystem is generating news on multiple fronts simultaneously, from security incidents to pricing friction to foundational research.",
+        "headline": "Claude Code Leak Spawns Malware, Pricing Dispute Follows",
+        "body": "Anthropic is dealing with two Claude Code crises at once. Hackers are distributing copies of the leaked Claude Code source alongside malware payloads, turning the breach into an active security threat for anyone who downloads unofficial versions.\n\nMeanwhile, Anthropic confirmed that Claude Code subscribers will face additional charges to use OpenClaw, a move that has frustrated developers who expected broader access under existing plans. The pricing change lands at a bad moment, with trust in the platform already strained by the leak. Together, the incidents put Anthropic on the defensive over both security and commercial practices.",
         "sources": [
-          {
-            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-            "source": "Wired",
-            "lean": null
-          },
           {
             "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
             "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
@@ -386,22 +392,16 @@
             "lean": null
           },
           {
-            "title": "Emotion concepts and their function in a large language model",
-            "url": "https://www.anthropic.com/research/emotion-concepts-function",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "LLM Wiki – example of an \"idea file\"",
-            "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-            "source": "Hacker News",
+            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+            "source": "Wired",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Fakes and Copyright Trolls Are Targeting Folk Musicians",
-        "body": "A folk musician named Murphy Campbell has become a case study in how AI-generated fakes and opportunistic copyright trolls can combine to devastate independent artists. Fake versions of Campbell's music circulated online, and rather than receiving protection, Campbell faced legal pressure from a copyright troll exploiting the confusion.\n\nThe story lands alongside a broader cultural anxiety about authenticity. The Verge reports that creators are increasingly being asked to prove their work is human-made, with a new \"human-made\" logo emerging as a kind of certification mark. The demand for proof of human authorship signals how thoroughly AI has eroded baseline trust in creative work.",
+        "headline": "AI Fakes and Copyright Trolls Are Targeting Independent Musicians",
+        "body": "Folk musician Murphy Campbell found herself caught between two modern threats: AI-generated fakes mimicking her voice and a copyright troll exploiting the chaos to file claims against her own work. The Verge's account illustrates how independent artists face a compounding problem - synthetic media muddies ownership, and bad actors use that confusion as cover.\n\nSeparately, The Verge reports growing pressure on creators to prove their work is human-made, with some platforms and clients now demanding certification. The burden of proof has quietly shifted onto artists. That's a structural change, not a trend.",
         "sources": [
           {
             "title": "A folk musician became a target for AI fakes and a copyright troll",
@@ -418,26 +418,8 @@
         ]
       },
       {
-        "headline": "Right-to-Repair and Digital ID Laws Face Industry Pushback",
-        "body": "Tech companies are lobbying hard to weaken Colorado's right-to-repair law, one of the strongest in the United States, by pushing amendments that would hollow out its core consumer protections. The effort follows a familiar playbook - accept the headline, gut the substance.\n\nIn Europe, Germany's implementation of the eIDAS digital identity standard has drawn criticism for a different reason: the architecture requires users to have an Apple or Google account to function, effectively handing two American platform giants a chokepoint over European digital identity infrastructure. Both stories reflect the same tension between legislative intent and the practical power of large technology companies to shape how laws actually operate.",
-        "sources": [
-          {
-            "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-            "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "German implementation of eIDAS will require an Apple/Google account to function",
-            "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
         "headline": "Linux 7.0 Cuts PostgreSQL Performance in Half on AWS",
-        "body": "An AWS engineer has reported that Linux 7.0 cuts PostgreSQL performance by roughly 50 percent, a serious regression for one of the most widely deployed database stacks in cloud infrastructure. The fix is not straightforward, suggesting the performance hit could persist across production environments for some time.\n\nThe finding is a reminder that kernel upgrades carry real operational risk, particularly at scale. AWS running PostgreSQL on Linux represents an enormous slice of global database workloads, and a regression of this magnitude will force many teams to delay kernel upgrades or absorb the performance cost.",
+        "body": "An AWS engineer has reported that upgrading to Linux 7.0 roughly halves PostgreSQL performance, and a quick fix looks unlikely. The regression appears tied to low-level kernel changes affecting how the database handles I/O, putting production workloads at risk for teams that have already upgraded.\n\nThe finding is significant because Linux kernel upgrades are often treated as routine. This one isn't. AWS and the broader PostgreSQL community now face pressure to either patch around the kernel behavior or wait on an upstream fix, with no clear timeline on either path.",
         "sources": [
           {
             "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
@@ -446,12 +428,30 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Anthropic Studies Emotion in Claude, Microsoft Drowns in Copilots",
+        "body": "Anthropic published research examining how emotion concepts function inside Claude, finding that the model develops internal representations that behave similarly to emotional states during processing. The paper stops short of claiming sentience but adds weight to ongoing debates about what large language models are actually doing under the hood.\n\nOn a lighter note, an analysis of Microsoft's product lineup found the company has applied the Copilot name to a bewildering number of distinct products. The branding sprawl reflects a broader industry rush to attach AI labels to everything - a strategy that risks meaning nothing at all.",
+        "sources": [
+          {
+            "title": "How many products does Microsoft have named 'Copilot'?",
+            "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Emotion concepts and their function in a large language model",
+            "url": "https://www.anthropic.com/research/emotion-concepts-function",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Gains Political and Institutional Credibility After Global Shocks",
-        "body": "A former UK Chancellor has publicly backed Bitcoin as an alternative to what he called failing financial systems, adding political weight to a growing institutional narrative. Research from Mercado Bitcoin reinforces the case - Bitcoin has historically outperformed both gold and equities in the aftermath of major global shocks, recovering faster and delivering stronger returns.\n\nThe timing matters. With macro uncertainty elevated, Bitcoin is attracting endorsements from figures who once represented the traditional financial order. That shift in tone from establishment voices is harder to dismiss than retail enthusiasm.",
+        "headline": "Bitcoin Gains Political and Institutional Credibility as Safe Haven",
+        "body": "A former UK Chancellor has publicly backed Bitcoin as an alternative to what he calls failing financial systems, adding political weight to a growing institutional narrative. Research from Mercado Bitcoin reinforces the case: Bitcoin has historically outperformed both gold and equities in the months following major global shocks.\n\nThe timing matters. With macro uncertainty elevated, the argument that Bitcoin functions as a crisis asset is moving from crypto-native circles into mainstream finance and politics. That shift in who is making the argument may prove as significant as the argument itself.",
         "sources": [
           {
             "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
@@ -468,20 +468,8 @@
         ]
       },
       {
-        "headline": "Digital Asset Treasuries Face Pressure to Generate Real Returns",
-        "body": "Corporate Bitcoin and crypto treasury strategies are under scrutiny. A new opinion piece argues that simply holding digital assets on a balance sheet is no longer enough - treasuries must now demonstrate yield, utility, or strategic value to justify the position.\n\nThe critique lands at a moment when several firms have built identities around Bitcoin accumulation. Passive holding worked when prices climbed. In a more volatile, competitive environment, the bar is rising.",
-        "sources": [
-          {
-            "title": "Digital asset treasuries must now earn their keep",
-            "url": "https://www.coindesk.com/opinion/2026/04/04/digital-asset-treasuries-must-now-earn-their-keep",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Jimmy Song Pushes for a Conservative Bitcoin Node Client",
-        "body": "Bitcoin developer and educator Jimmy Song is calling for a dedicated node client built around conservative principles - one that resists protocol changes and prioritizes stability over new features. His argument targets what he sees as creeping complexity in Bitcoin's software ecosystem.\n\nThe proposal reflects a long-running tension in Bitcoin development between those who want the protocol to evolve and those who treat ossification as a feature. Song sits firmly in the latter camp.",
+        "headline": "Bitcoin's Node Infrastructure Needs a Conservative Overhaul, Says Song",
+        "body": "Developer and author Jimmy Song is calling for a dedicated 'conservative' Bitcoin node client, one that prioritizes stability and resistance to change over feature development. His argument centers on the risk that the existing client ecosystem is too susceptible to well-intentioned but potentially destabilizing upgrades.\n\nThe proposal reflects a broader tension inside Bitcoin development between ossification advocates and those pushing for continued protocol evolution. Song's position is that Bitcoin's value depends on predictability, and that a client explicitly designed to resist change would serve as a meaningful check on that risk.",
         "sources": [
           {
             "title": "Jimmy Song explains why Bitcoin needs a 'conservative' node client",
@@ -492,19 +480,25 @@
         ]
       },
       {
-        "headline": "24/7 Stock Trading and Telegram's Iran Ban Both Signal Shifting Power",
-        "body": "Two separate stories point to the same underlying theme: legacy gatekeepers losing control. The push toward round-the-clock stock trading would eliminate the after-hours window where thin liquidity has long allowed outsized price moves - a structural advantage that has frustrated retail traders for years.\n\nMeanwhile, Telegram founder Pavel Durov says Iran's government ban on the platform backfired, driving user growth rather than suppressing it. Both cases illustrate how attempts to restrict open systems often accelerate the adoption of alternatives.",
+        "headline": "Digital Asset Treasuries Face Pressure to Generate Real Returns",
+        "body": "Corporate and institutional holders of digital assets are under growing pressure to do more than simply hold Bitcoin on a balance sheet. A new opinion piece argues that passive treasury strategies are losing their edge as the novelty premium fades and shareholders demand yield or strategic utility.\n\nThe critique lands at a pivotal moment. Several firms built their identities around Bitcoin accumulation, but with the trade now crowded and scrutiny rising, the next phase likely requires active treasury management rather than a buy-and-hold posture.",
+        "sources": [
+          {
+            "title": "Digital asset treasuries must now earn their keep",
+            "url": "https://www.coindesk.com/opinion/2026/04/04/digital-asset-treasuries-must-now-earn-their-keep",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Iran's Telegram Ban Backfires as Durov Claims Surge in Usage",
+        "body": "Telegram founder Pavel Durov says Iran's attempt to block the platform has produced the opposite of its intended effect, driving a surge in user activity rather than suppressing it. Durov framed the ban as evidence that government-imposed restrictions on communication tools tend to accelerate adoption.\n\nThe claim carries relevance for crypto. Telegram remains a primary organizing and communication layer for much of the crypto industry, and its resilience against state-level censorship directly affects how decentralized communities operate in restricted markets.",
         "sources": [
           {
             "title": "Telegram founder Pavel Durov says Iranian government's ban backfired",
             "url": "https://cointelegraph.com/news/telegram-durov-iran-ban-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Traders are the big winners as 24/7 stocks will finally end the after-hours price 'manipulation'",
-            "url": "https://www.coindesk.com/markets/2026/04/04/traders-are-the-big-winners-as-24-7-stocks-will-finally-end-the-after-hours-price-manipulation",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -515,19 +509,19 @@
     "food": {
       "name": "Miso-Glazed Leek and Mushroom Galette",
       "cuisine": "French-Japanese fusion",
-      "description": "A free-form pastry tart with caramelised leeks and shiitake mushrooms bound in a white miso béchamel",
-      "tip": "Freeze your butter for 10 minutes before grating it into the flour — it creates flakier layers than cutting it in by hand"
+      "description": "A free-form savory tart with caramelized leeks and shiitake mushrooms bound by a white miso butter glaze on a flaky rough-puff pastry base.",
+      "tip": "Chill your butter in the freezer for 15 minutes before making the pastry and handle it as little as possible — visible butter streaks in the dough are what create the flaky layers."
     },
     "exercise": {
-      "name": "Loaded Carry Circuit",
-      "duration": "35 minutes",
-      "equipment": "Two kettlebells or heavy shopping bags, a clear 10-metre stretch of floor",
-      "description": "Cycle through farmer's carries, suitcase carries, and overhead carries with deliberate rest periods — brutally effective for grip strength, posture, and core stability in a way most gym sessions never touch"
+      "name": "The Sunday Tempo Ladder",
+      "duration": "45 minutes",
+      "equipment": "Running shoes, a flat route or treadmill",
+      "description": "A structured run that builds through four 8-minute blocks at progressively faster paces — easy jog, comfortable, comfortably hard, and tempo — with 2-minute walk recoveries between each, training your body to shift gears rather than just log miles."
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — philosophers like Derek Parfit extended this to human consciousness, asking whether 'you' tomorrow are truly the same person as 'you' today given constant cellular and psychological change.",
-      "why": "On a quiet Sunday it's a genuinely unsettling and productive rabbit hole — Parfit's book Reasons and Persons will rewire how you think about continuity, memory, and why you bother planning for your future self at all"
+      "topic": "Taphonomy — the science of how things become fossils",
+      "description": "Taphonomy studies the journey an organism takes from death to discovery, covering decay, burial, mineralisation, and the extraordinary filters of chance that determine what the fossil record actually shows us.",
+      "why": "It reframes everything you think you know about prehistoric life — most soft-bodied creatures left no trace at all, meaning our picture of ancient ecosystems is radically incomplete in ways that are themselves scientifically fascinating to map."
     }
   }
 }
