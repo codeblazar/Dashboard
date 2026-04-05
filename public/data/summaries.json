@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-05T14:13:06.280Z",
+  "generatedAt": "2026-04-05T15:11:23.496Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US-Iran War Escalates: Threats, Rescue, Economic Fallout",
-        "body": "Trump issued a blunt Easter Sunday warning to Iran, threatening strikes on power plants and bridges if the Strait of Hormuz is not reopened. The threat came as the US confirmed it had rescued a service member whose jet was shot down over Iran - a rare piece of good news amid a widening conflict. Supporters point to Trump's willingness to apply maximum pressure; critics question the risks of escalating against a nuclear-adjacent state.\n\nThe economic damage is already spreading. Jet fuel costs are spiking, airlines are cancelling flights, and a former World Bank chief warns Iran's economy is collapsing toward a barter system. One retired Army general predicts the conflict wraps up in under 60 days. That timeline is contested, and the human and financial costs are mounting fast.",
+        "headline": "US Rescues Downed Airman From Iran, Trump Threatens Strikes",
+        "body": "The US military rescued a service member shot down over Iran, with the CIA running a deception campaign to support the operation. Trump announced the rescue on Easter Sunday, framing it as a demonstration of American resolve in the ongoing conflict.\n\nTrump also issued a profane threat on social media, warning Iran that the US would strike power plants and bridges if the Strait of Hormuz is not reopened. The waterway is critical to global oil flows, and its closure has already sent jet fuel costs surging, hitting airlines and travelers hard.\n\nA retired Army general predicted the war would conclude in under 60 days. The former World Bank chief warned Iran's economy is collapsing toward a barter system under the pressure of the conflict and sanctions.",
         "sources": [
+          {
+            "title": "Inside the daring rescue of airman behind enemy lines: How CIA assisted with 'deception campaign'",
+            "url": "https://www.foxnews.com/politics/inside-daring-rescue-airmen-behind-enemy-lines-cia-assisted-deception-campaign",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+            "url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "Trump drops Easter Sunday f-bomb in new threat to Iran",
             "url": "https://thehill.com/homenews/administration/5816887-trump-threatens-iran-infrastructure-strait-of-hormuz/",
@@ -26,14 +38,14 @@
             "lean": "center"
           },
           {
-            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
-            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
+            "title": "Retired Army general predicts Iran war wrapped up in ‘less than 60 days’",
+            "url": "https://thehill.com/policy/defense/5816677-retired-army-general-predicts-iran-war-wrapped-up-in-less-than-60-days/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Retired Army general predicts Iran war wrapped up in ‘less than 60 days’",
-            "url": "https://thehill.com/policy/defense/5816677-retired-army-general-predicts-iran-war-wrapped-up-in-less-than-60-days/",
+            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
+            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -52,14 +64,20 @@
         ]
       },
       {
-        "headline": "Trump Fires Bondi, Faces Legal Setbacks and Election Pushback",
-        "body": "Trump dismissed Attorney General Pam Bondi, a loyalist he appointed after his 2024 win, in a move that caught Washington off guard. NPR reports the firing coincides with Trump walking back several campaign promises, raising questions about the administration's direction heading into its second year.\n\nOn other legal fronts, a federal judge blocked the administration's push to collect race-based admissions data from universities. A separate ad campaign, backed by Republicans, is pushing back against Trump's stated interest in federalising election administration. The legal and political resistance is coming from multiple directions - including from within his own party.",
+        "headline": "Trump Fires Bondi, Faces Pushback on Emergency Powers and Elections",
+        "body": "Trump fired Attorney General Pam Bondi, a move NPR reports comes alongside signs he is retreating from some campaign commitments. The dismissal adds to a pattern of executive turbulence that critics across the spectrum are watching closely.\n\nA federal judge blocked the administration's push to collect race-based admissions data from universities. Separately, a new ad campaign backed by Republicans is pushing back against Trump's stated interest in federalizing election administration, a rare instance of intra-party public opposition.\n\nCommentators at The Hill argue Trump's use of emergency powers has itself become the emergency, citing broad invocations of executive authority. Supporters counter that strong executive action is necessary given the scale of challenges the administration faces at home and abroad.",
         "sources": [
           {
             "title": "Politics chat: Trump fires Attorney General Bondi, seeks to break campaign promises",
             "url": "https://www.npr.org/2026/04/05/nx-s1-5773193/politics-chat-trump-fires-attorney-general-bondi-seeks-to-break-campaign-promises",
             "source": "NPR",
             "lean": "left"
+          },
+          {
+            "title": "Trump’s abuse of emergency powers is the real national emergency",
+            "url": "https://thehill.com/opinion/white-house/5813835-presidential-emergency-powers-abuse/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Federal judge blocks Trump push to collect race-based admissions data",
@@ -76,8 +94,8 @@
         ]
       },
       {
-        "headline": "Pope Leo Calls for Peace as Global Alliances Fracture",
-        "body": "Pope Leo used his first Easter address to deliver a direct call for peace, with the US-Iran war and other conflicts as the backdrop. The message landed as a pointed contrast to the tone coming from Washington.\n\nMeanwhile, analysts are questioning the durability of Western alliances. Spain's decision to ban US military aircraft from its airspace has prompted debate about whether NATO can function as a unified bloc when member states diverge sharply on US foreign policy. Separately, Trump and Vice President Vance are backing Viktor Orban in Hungary's upcoming election, a move the Washington Post frames as part of a broader alignment between Washington and nationalist governments in Europe.",
+        "headline": "Pope Leo Calls for Peace; NATO Fractures Over Spain Airspace Row",
+        "body": "Pope Leo used his Easter address to deliver a pointed call for peace, with the Washington Post noting the message landed squarely against the backdrop of the US-Iran conflict and broader global instability. The speech drew wide attention given the timing.\n\nMeanwhile, Spain's decision to ban US military aircraft from its airspace is prompting analysts to question the durability of NATO as a universal alliance. The Hill describes it as a sign of a 'post-global' era in which shared alliances no longer guarantee shared obligations. Trump and Vice President Vance are also backing Viktor Orban in Hungary's upcoming election, a stance that further strains relations with European partners who view Orban as a democratic backslider.",
         "sources": [
           {
             "title": "On Easter, Pope Leo delivers commanding message of peace to a world at war",
@@ -100,12 +118,12 @@
         ]
       },
       {
-        "headline": "Harris Eyes 2028 as Democrats Search for Direction",
-        "body": "Former Vice President Kamala Harris is travelling and speaking in ways that Fox News and other observers read as early groundwork for a 2028 presidential run. She has not declared, but her public schedule and rhetoric are drawing scrutiny from both parties.\n\nDemocrats are also pushing back on ICE enforcement tactics. Black Democratic lawmakers have drawn explicit parallels between agents wearing face masks during arrests and historical imagery of masked law enforcement, framing it as an intentional intimidation tactic. The administration has not responded directly to that characterisation.",
+        "headline": "Harris Eyes 2028; White House Pledges Permanent Moon Presence",
+        "body": "Fox News reports that Kamala Harris's recent travel schedule and public comments point clearly toward a 2028 presidential run, though Harris has made no formal announcement. Her appearances have grown more frequent and more pointed since the 2024 loss.\n\nOn a different front, the White House signaled a firm commitment to the Artemis program, vowing the US will not cede ground on the moon to rival powers. Officials framed a permanent lunar base as both a scientific and strategic priority, with China's own moon ambitions serving as the backdrop.",
         "sources": [
           {
-            "title": "In fight against ICE facemasks, Black Democrats point to history",
-            "url": "https://thehill.com/homenews/house/5813945-ice-facemasks-black-democrats/",
+            "title": "The White House vows America will never give up the moon again",
+            "url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -121,7 +139,7 @@
     "au-politics": [
       {
         "headline": "Australia scrambles to secure fuel supply amid shortage fears",
-        "body": "Japan and other Asian nations have assured Australia that normal fuel supplies will continue, as Prime Minister Albanese works to head off a domestic shortage. The assurances follow a period of acute supply anxiety that prompted NSW authorities to fine nearly 100 service stations $1,100 each for displaying misleading prices at the pump.\n\nFarmers are among those feeling the pressure hardest. Some say rising fuel costs have made it difficult to cover basic expenses, with one describing the situation as \"struggling massively.\" The crisis has exposed how thinly stretched rural operations are when input costs spike.\n\nThe government's diplomatic push appears to have steadied nerves for now, but the episode has sharpened debate about Australia's long-term fuel security and its dependence on imported supply chains.",
+        "body": "Japan and other Asian nations have assured Australia that fuel supplies will continue normally, as Prime Minister Albanese works to contain a growing domestic shortage. The assurances follow diplomatic outreach to key regional partners, with Japan's government among those offering direct guarantees.\n\nAt home, NSW authorities fined nearly 100 service stations $1,100 each for displaying misleading petrol prices during the crunch. The crackdown signals regulators are watching retail behaviour closely as supply anxiety spreads.\n\nFarmers are feeling the pressure hardest. Some say rising fuel costs have made it difficult to cover basic expenses, with one describing the situation as \"struggling massively.\" The crisis cuts across city and country, and the government faces pressure to show it has the situation under control before it worsens.",
         "sources": [
           {
             "title": "'Struggling massively': Farmer finds it hard to put food on the table",
@@ -150,8 +168,8 @@
         ]
       },
       {
-        "headline": "Police negligence claim filed after officer killed by Dezi Freeman",
-        "body": "The sisters of a police officer killed by Dezi Freeman are preparing to sue NSW Police for negligence, according to their lawyer. The case centres on whether police command failed in its duty of care to the officer before the fatal incident.\n\nThe lawsuit adds legal pressure to an institution already facing scrutiny over how it handles risk to frontline officers. Police forces have consistently defended their operational decisions in similar cases, arguing commanders cannot foresee every threat.\n\nThe outcome could set a significant precedent for how courts assess institutional responsibility when officers are killed on duty.",
+        "headline": "Police negligence lawsuit looms after officer killed by Dezi Freeman",
+        "body": "The sisters of a police officer killed by Dezi Freeman are preparing to sue NSW Police for negligence, according to their lawyer. The case centres on whether police failed in their duty of care in the lead-up to the fatal incident.\n\nThe lawsuit raises uncomfortable questions about internal police decision-making and risk management. If it proceeds, it could expose operational failures and set a precedent for how courts assess police liability when officers are harmed on duty.\n\nPolice have not publicly responded to the planned legal action. The case is likely to draw significant attention given its intersection of workplace safety, institutional accountability, and the circumstances surrounding Freeman's actions.",
         "sources": [
           {
             "title": "Sisters of officer killed by Dezi Freeman plan to sue police for negligence, lawyer says",
@@ -163,7 +181,7 @@
       },
       {
         "headline": "US airman rescued from Iran as nuclear diplomacy stirs",
-        "body": "A US Air Force F-15 airman has been rescued from Iran following a special forces operation, after apparently coming down inside Iranian territory. The rescue adds a sharp operational dimension to an already tense diplomatic moment.\n\nSeparately, Iran has signalled openness to renewed dialogue with the Trump administration, with the Spectator reporting Tehran has extended what amounts to a diplomatic olive branch. Whether Washington treats the gesture as credible or tactical remains unclear.\n\nThe two developments together illustrate the volatile mix of military activity and back-channel diplomacy currently defining US-Iran relations.",
+        "body": "US special forces rescued an F-15 airman from Iran in a covert operation, the details of which remain limited. The rescue adds tension to an already volatile diplomatic picture between Washington and Tehran.\n\nSeparately, Iran has signalled a willingness to negotiate with the Trump administration, with commentary from the right describing the move as an olive branch. Whether the rescue operation complicates or runs parallel to those diplomatic overtures is unclear, and neither government has directly addressed the overlap.\n\nThe two developments together illustrate the contradictory pressures shaping US-Iran relations - back-channel diplomacy on one track, military operations on another.",
         "sources": [
           {
             "title": "Iran has offered Trump an olive branch",
@@ -180,8 +198,8 @@
         ]
       },
       {
-        "headline": "Easter weekend: crashes, quakes and sport across Australia",
-        "body": "A seven-year-old girl died after an ATV rollover in Adelaide's north-east, one of several serious incidents across the Easter long weekend. A magnitude-5.5 earthquake rattled a remote APY Lands community on Sunday morning, causing alarm but no reported injuries. The North West Coastal Highway reopened after Cyclone Narelle damage, giving Easter travellers a welcome route back.\n\nOn the sporting front, Tim Tszyu claimed a boxing title in Wollongong with a dominant performance over Denis Nurja. The Sydney Kings won a dramatic NBL overtime game against the Adelaide 36ers, then promptly broke the trophy. The Western Bulldogs beat Essendon in AFL but lost two more players to injury in the process.",
+        "headline": "Easter weekend: tragedy, celebration, and sport across Australia",
+        "body": "A seven-year-old girl died after an ATV rollover in Adelaide's north-east on Easter Sunday, one of several crash fatalities reported over the long weekend. The incident is under investigation.\n\nAcross the country, Australians marked Easter with community events and egg hunts, with ABC reporting a broadly upbeat public mood despite global economic uncertainty. Tim Tszyu added to the weekend's headlines by dominating Denis Nurja in Wollongong to claim a boxing title, delivering a commanding performance in front of a home crowd.\n\nIn sport, the Western Bulldogs beat Essendon in AFL despite losing two more players to injury, the Sydney Kings claimed the NBL championship in overtime after Adelaide blew a late lead, and the Canberra Raiders suffered a heavy NRL loss to the Newcastle Knights.",
         "sources": [
           {
             "title": "7yo girl dies after ATV rollover in Adelaide's north-east",
@@ -218,27 +236,27 @@
             "url": "https://www.abc.net.au/news/2026-04-05/nbl-finals-live-game-five-sydney-kings-vs-adelaide-36ers/106531510",
             "source": "ABC Australia",
             "lean": "center-left"
-          },
-          {
-            "title": "Travellers celebrate as major highway reopens after Cyclone Narelle",
-            "url": "https://www.abc.net.au/news/2026-04-05/nwch-reopens-after-cyclone-narelle-for-easter-road-trips/106532742",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Magnitude-5.5 earthquake 'morning wake-up call' to remote community",
-            "url": "https://www.abc.net.au/news/2026-04-05/magnitude-5-5-earthquake-recorded-at-apy-lands/106532694",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Iran War Enters Day 37 as Hormuz Crisis Deepens",
-        "body": "US and Israeli strikes on Iran entered their 37th day as Iran's closure of the Strait of Hormuz sent shockwaves through European energy markets. Trump offered no concrete plan to reopen the waterway, while Italian Prime Minister Meloni warned the Gulf is fundamental to European security. Iran continued striking Gulf infrastructure, hitting power and water facilities in Kuwait.\n\nOman stepped in as a back-channel, holding talks with Tehran on restoring transit through the strait. Iran separately signalled Iraqi ships could pass, a small but deliberate carve-out. Former Iranian Foreign Minister Zarif proposed a peace roadmap, though Gulf states complained of being excluded from negotiations. Thousands rallied in Iraq against the war. Polling shows the conflict remains deeply unpopular with the American public.",
+        "headline": "US-Iran War Enters Critical Phase as Gulf Feels the Burn",
+        "body": "Now 37 days in, the US-Israeli military campaign against Iran is reshaping the entire Gulf region. Iran has struck Kuwait's power and water infrastructure, closed the Strait of Hormuz to international shipping, and downed at least two US F-15E fighters - though both pilots were rescued inside Iranian territory, with Trump calling the second recovery 'miraculous'.\n\nThe Hormuz closure is sending shockwaves through Europe and beyond. Nepal has moved to two-day weekends to conserve fuel, gas prices are surging in the US, and European leaders are scrambling. Italy's prime minister called the Gulf 'fundamental' to European security. Trump has offered no concrete plan to reopen the strait.\n\nDiplomacy is flickering. Oman is mediating transit talks with Iran, and former Iranian foreign minister Zarif has floated a peace roadmap - though Gulf states say trust has collapsed. Polls show the war is deeply unpopular with the American public.",
         "sources": [
+          {
+            "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
+            "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
+            "url": "https://www.aljazeera.com/news/2026/4/5/nepal-announces-two-day-weekends-as-fuel-crisis-caused-by-iran-war-deepens?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
             "url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
@@ -264,9 +282,33 @@
             "lean": null
           },
           {
+            "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
+            "url": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "What we know so far about rescue of US airman in Iran",
+            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
             "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
             "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US airman injured but safe after rescue from inside Iran, Trump says",
+            "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
@@ -288,46 +330,22 @@
             "lean": null
           },
           {
-            "title": "Trump’s unpopular war on Iran",
-            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
-            "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Rescues Two Pilots Downed Over Iran",
-        "body": "The US military rescued a second downed F-15E pilot from inside Iranian territory, with Trump calling the operation miraculous. Both rescues came amid active combat conditions, raising sharp questions about how American aircraft are being lost and how rescue teams are operating deep inside Iran.\n\nDetails remain limited. The Pentagon has not explained the circumstances of either shootdown or the mechanics of the extractions. The incidents confirm US aircraft are flying strike missions over Iranian territory and facing effective air defences.",
-        "sources": [
-          {
-            "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
-            "url": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "What we know so far about rescue of US airman in Iran",
-            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
             "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
             "url": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          },
+          {
+            "title": "Trump’s unpopular war on Iran",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Houthis Strike Ben Gurion; West Bank Tensions Rise",
-        "body": "Yemen's Houthis claimed a cluster missile attack on Israel's Ben Gurion airport, the latest in a sustained campaign of long-range strikes against Israeli targets. The attack signals the conflict's regional spread shows no sign of narrowing.\n\nInside the occupied West Bank, footage emerged of an Israeli military dog attacking a Palestinian man inside a mosque. Palestinian Christians marked a subdued Holy Week under Israeli movement restrictions, with access to holy sites in Jerusalem tightly controlled.",
+        "headline": "Houthis Strike Ben Gurion; Israeli Forces Filmed Attacking Mosque",
+        "body": "Yemen's Houthis claimed a cluster missile attack on Israel's Ben Gurion airport, escalating their campaign against Israeli targets. The strike marks one of the most direct Houthi hits on Israeli civilian infrastructure to date.\n\nSeparately, footage circulating online shows an Israeli military dog attacking a Palestinian man inside a mosque, drawing sharp international condemnation. Palestinian Christians are marking a subdued Holy Week under heavy Israeli movement restrictions in the West Bank and Jerusalem. An Al Jazeera opinion piece argues Israel's sustained campaign against UNRWA is a deliberate strategy to dismantle Palestinian civilian support structures.",
         "sources": [
           {
             "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
@@ -356,9 +374,15 @@
         ]
       },
       {
-        "headline": "Canada Heads to the Moon; Ukraine Hits Russian Oil",
-        "body": "Astronaut Jeremy Hansen became the first Canadian selected for a lunar mission, joining NASA's Artemis programme for a flight around the moon. The announcement marks a milestone for Canada's space programme.\n\nMeanwhile, Ukraine launched drone strikes on Russian oil infrastructure, hitting a port in Primorsk and a refinery in Nizhny Novgorod. Fires and fuel leaks were reported at both sites. In Estonia, rumours of a separatist movement in the city of Narva circulated online, though analysts dismissed the claims as Russian disinformation.",
+        "headline": "Pope Leo Urges Peace; Canada Heads to the Moon",
+        "body": "Newly elected Pope Leo used his first Easter Mass to call on world leaders to choose peace, delivering the message as multiple armed conflicts rage across the Middle East and Eastern Europe. The address carried particular weight given the scale of ongoing violence in Gaza, Iran, and Ukraine.\n\nOn a brighter note, Canadian astronaut Jeremy Hansen has been confirmed as the first Canadian to travel to the moon, joining NASA's Artemis lunar program. In Ukraine, drone strikes hit a Russian oil refinery in Nizhny Novgorod and a port in Primorsk, continuing Kyiv's campaign against Russian energy infrastructure.",
         "sources": [
+          {
+            "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+            "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Jeremy Hansen is the first Canadian to head to the moon",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
@@ -370,11 +394,17 @@
             "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Measles Kills Nearly 100 Children in Bangladesh",
+        "body": "A suspected measles outbreak has killed close to 100 children in Bangladesh, alarming health officials across South Asia. The outbreak points to gaps in vaccination coverage, likely worsened by disruptions to routine immunisation programmes in recent years.\n\nAuthorities are racing to contain the spread, but the scale of child deaths has already prompted calls for an emergency public health response. The outbreak is one of the deadliest measles events in the region in recent memory.",
+        "sources": [
           {
-            "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
-            "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Suspected measles outbreak kills nearly 100 children in Bangladesh",
+            "url": "https://www.aljazeera.com/news/2026/4/5/suspected-measles-outbreak-kills-nearly-100-children-in-bangladesh?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -382,8 +412,8 @@
     ],
     "ai": [
       {
-        "headline": "Google's Gemini Bets Big on Maps Integration",
-        "body": "Google's Gemini AI is now embedded directly in Maps, handling full-day itinerary planning with enough competence to impress skeptical testers. The Verge's hands-on found it genuinely useful, a rare outcome for AI features that typically overpromise.\n\nThe integration signals Google's broader push to make Gemini a practical layer across its core products rather than a standalone chatbot. Meanwhile, Microsoft is running a parallel experiment in branding chaos - one analyst counted multiple distinct products all named 'Copilot,' raising real questions about whether the strategy builds recognition or just confusion. Both companies are betting that embedding AI into familiar tools beats asking users to adopt new ones.",
+        "headline": "AI Creeps Into Maps, Music, and Your Daily Routine",
+        "body": "Google's Gemini integration in Maps is now planning full itineraries, and a hands-on test found it genuinely useful rather than gimmicky. Meanwhile, Japan is deploying physical AI robots to fill labor shortages in jobs that go unfilled, not to displace workers who exist. The contrast matters: AI is landing softest where it solves a concrete, unglamorous problem.\n\nNot everyone is benefiting. A folk musician found herself targeted by AI-generated fakes of her voice, then hit with copyright claims from a troll exploiting the resulting confusion. The story illustrates a pattern where AI creates the harm and existing legal frameworks fail to address it cleanly. Karpathy's publicly shared LLM idea file adds a quieter note: even leading researchers are still figuring out how to think with these tools.",
         "sources": [
           {
             "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
@@ -392,21 +422,33 @@
             "lean": null
           },
           {
-            "title": "How many products does Microsoft have named 'Copilot'?",
-            "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+            "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+            "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "A folk musician became a target for AI fakes and a copyright troll",
+            "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "LLM Wiki – example of an \"idea file\"",
+            "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Fakes, Copyright Trolls, and a Folk Musician's Nightmare",
-        "body": "A folk musician found themselves targeted by both AI-generated imitations of their work and a separate copyright troll operation - two distinct threats that arrived nearly simultaneously. The Verge's account illustrates how smaller artists face compounding legal and reputational risks that major labels have resources to fight but independent musicians largely do not.\n\nGrammarly is also navigating AI-era identity problems. The Verge's 'sloppelganger' story details how the writing tool's AI pivot has created friction with its core user base, who trusted the product for a specific, well-defined job. Anthropic added its own pricing wrinkle, announcing Claude Code subscribers will pay extra for OpenClaw support - a reminder that AI tooling costs are still being figured out in real time.",
+        "headline": "Always-On AI Glasses Draw Backlash, Grammarly Stumbles",
+        "body": "A new campaign called Banray is pushing back hard against always-on AI glasses, arguing the devices normalize ambient surveillance in public spaces. The site frames the technology not as a convenience but as a social threat. It arrives as wearable AI hardware accelerates toward mainstream release.\n\nGrammarly, meanwhile, is facing scrutiny over what The Verge calls its 'sloppelganger saga' - a pattern where the AI writing tool introduces errors rather than catching them. One developer spent eight years wanting to build a personal project and finished it in three months using AI assistance, a sharp counterpoint that shows the technology's uneven performance depending on task type.",
         "sources": [
           {
-            "title": "A folk musician became a target for AI fakes and a copyright troll",
-            "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-            "source": "The Verge",
+            "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
+            "url": "https://banray.eu/en/index.html",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -416,16 +458,16 @@
             "lean": null
           },
           {
-            "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-            "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-            "source": "TechCrunch",
+            "title": "Eight years of wanting, three months of building with AI",
+            "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Security Leaks Hit BrowserStack and US Border Agency",
-        "body": "BrowserStack appears to have an internal data leak problem - a researcher traced unique tagged email addresses back to the company, suggesting someone with access to user records is selling or exposing them. BrowserStack has not publicly acknowledged the issue.\n\nSeparately, Customs and Border Protection facility codes appear to have leaked through online flashcard sets, likely created by employees studying for internal exams. Ars Technica's report highlights a recurring and underappreciated attack surface: sensitive information casually digitized for personal convenience and left publicly indexed. Neither incident involved a sophisticated breach. Both were avoidable.",
+        "headline": "Security Failures Hit BrowserStack, CBP, and Google Workspace",
+        "body": "BrowserStack appears to be leaking user email addresses, with evidence pointing to an internal source rather than an external breach. Separately, sensitive CBP facility codes surfaced in online flashcard sets, likely uploaded by trainees who didn't realize the material was restricted. Both cases show that data exposure often comes from mundane operational failures, not sophisticated attacks.\n\nGoogle Workspace users got a reminder of a different risk: account suspensions with little recourse. One detailed account describes losing access to years of business data with no clear path to appeal. Platform dependency at scale continues to carry real, underappreciated costs.",
         "sources": [
           {
             "title": "Someone at BrowserStack Is Leaking Users' Email Address",
@@ -438,22 +480,34 @@
             "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
             "source": "Ars Technica",
             "lean": null
+          },
+          {
+            "title": "Sad Story of My Google Workspace Account Suspension",
+            "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+            "source": "Hacker News",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Linux 7.0 Slashes PostgreSQL Performance, Fix Unclear",
-        "body": "An AWS engineer has reported that Linux 7.0 cuts PostgreSQL performance roughly in half under certain workloads, a serious regression for one of the most widely deployed database stacks in production infrastructure. The fix is not straightforward, and the timeline for a resolution remains uncertain.\n\nThe issue lands alongside a separate but telling data point: Ubuntu's latest release now demands more RAM than Windows 11, inverting a long-standing assumption that Linux runs leaner. Together, the two stories complicate the narrative that open-source Linux is the obvious default for performance-sensitive or resource-constrained deployments.",
+        "headline": "Artemis II Flies On; Microsoft's Copilot Branding Is a Mess",
+        "body": "NASA's Artemis II crew caught their first view of the Moon's far side, and the mission is going smoothly enough that the biggest news is a frozen urine management issue. That's a good problem to have. The mission marks the first crewed lunar flyby in over fifty years.\n\nBack on the ground, a breakdown of Microsoft's product naming finds the company has applied the 'Copilot' label to a sprawling, inconsistent range of products. The analysis counts enough distinct Copilot-branded offerings to suggest the name has lost any specific meaning. It reads less like a strategy and more like a branding accident that compounded over time.",
         "sources": [
           {
-            "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-            "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+            "title": "Artemis II crew see first glimpse of far side of Moon",
+            "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Ubuntu now requires more RAM than Windows 11",
-            "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+            "title": "Artemis II is going so well that we're left to talk about frozen urine",
+            "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "How many products does Microsoft have named 'Copilot'?",
+            "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
             "source": "Hacker News",
             "lean": null
           }
@@ -463,7 +517,7 @@
     "btc": [
       {
         "headline": "North Korea Drained $270M From Drift in Six-Month Operation",
-        "body": "Drift Protocol has confirmed that a $270-280 million exploit was the result of a six-month North Korean intelligence operation, not an opportunistic hack. Attackers spent months embedding themselves before executing the theft, marking one of the most methodical state-sponsored crypto heists on record.\n\nThe scale and patience of the operation signals a maturation in how nation-state actors approach DeFi targets. North Korea has long used crypto theft to fund its weapons programs, but the Drift case suggests its operatives are now willing to play a long game - studying protocols deeply before striking.",
+        "body": "Drift Protocol has confirmed that a $270-280 million exploit was the work of North Korean state-linked hackers who spent six months embedding themselves inside the project before striking. The attack was not opportunistic. Investigators describe months of deliberate preparation, suggesting the operation involved intelligence tradecraft rather than simple code vulnerabilities.\n\nThe breach is one of the largest DeFi exploits on record and raises hard questions about how nation-state actors are targeting crypto infrastructure. North Korea has a well-documented history of using crypto theft to fund its weapons programs, and the Drift case shows the patience and sophistication those operations now involve.",
         "sources": [
           {
             "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
@@ -480,8 +534,8 @@
         ]
       },
       {
-        "headline": "AI and Quantum Threats Are Closing In on Crypto Security",
-        "body": "Ledger's CTO warned this week that AI is actively worsening crypto's security landscape, lowering the barrier for sophisticated phishing, social engineering, and exploit development. The threat is no longer theoretical.\n\nAt the same time, Bitcoin faces a longer-horizon risk. With $1.3 trillion in assets secured by cryptography that quantum computers could eventually break, developers are racing to build quantum-resistant alternatives before that window closes. Ant Group's blockchain arm added another dimension by launching a platform letting AI agents transact autonomously on crypto rails - raising fresh questions about what attack surfaces that creates when AI and crypto infrastructure become deeply intertwined.",
+        "headline": "AI and Quantum Threats Are Rewriting Crypto's Security Calculus",
+        "body": "Ledger's CTO warned this week that AI is actively worsening crypto's security landscape, making phishing attacks more convincing and exploit development faster. The warning lands as Bitcoin developers race separately to quantum-proof a $1.3 trillion network before quantum computing matures enough to crack existing cryptography.\n\nAnt Group's blockchain arm added another dimension by launching a platform that lets AI agents transact autonomously on crypto rails - a capability that expands the attack surface further. The convergence of AI and crypto is accelerating on both sides of the security equation. Defenders are scrambling while the tools available to attackers keep improving.",
         "sources": [
           {
             "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
@@ -504,8 +558,8 @@
         ]
       },
       {
-        "headline": "Bitcoin Stuck at $67K as Bearish Sentiment Hits Months-Long High",
-        "body": "Bitcoin is grinding sideways near $67,000 while bearish chatter on social media climbs to its highest level in five weeks, according to Santiment data. Sentiment has not been this negative since the early months of the Iran war, yet price has held relatively firm - a dynamic some contrarian traders watch closely.\n\nNot everyone reads the stagnation as a floor. At least one prominent trader argues new lows are a matter of time if Bitcoin cannot break out of its current range. Robert Kiyosaki, meanwhile, used the moment to renew his case for Bitcoin and gold, drawing a parallel to the 1974 decoupling of the dollar from hard assets.",
+        "headline": "Bitcoin Stalls at $67K as Bearish Sentiment Hits Multi-Week High",
+        "body": "Bitcoin is stuck near $67,000 and the mood around it is souring fast. Bearish social media chatter hit a five-week high according to Santiment, while separate sentiment data shows BTC entering April at its most negative reading since the Iran war began. At least one trader is calling new price lows a matter of time.\n\nThe broader token market is adding to the gloom. A CoinTelegraph analysis argues crypto faces an existential supply problem - new tokens are being minted faster than genuine value is being created, diluting the ecosystem. Robert Kiyosaki, meanwhile, is using the uncertainty to push his familiar case for Bitcoin and gold as hard assets, drawing parallels to the 1974 breakdown of dollar-gold convertibility.",
         "sources": [
           {
             "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
@@ -516,6 +570,12 @@
           {
             "title": "New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K",
             "url": "https://cointelegraph.com/news/new-bitcoin-price-lows-matter-of-time-says-trader-btc-stuck-67k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Crypto faces ‘existential’ token problem as supply outpaces value creation",
+            "url": "https://cointelegraph.com/news/crypto-existential-token-problem-supply-outpaces-value-creation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -532,38 +592,26 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Crypto's Token Supply Glut Is Becoming an Existential Problem",
-        "body": "The crypto market is drowning in tokens. New analysis argues that supply creation has dramatically outpaced genuine value creation, diluting returns and eroding confidence across the broader market. Projects continue launching tokens with thin utility, flooding liquidity and leaving investors holding depreciating assets.\n\nThe problem is structural. Without mechanisms that tie token issuance tightly to real economic activity, the market risks a slow bleed rather than a sharp correction - making it harder to identify and price genuine innovation amid the noise.",
-        "sources": [
-          {
-            "title": "Crypto faces ‘existential’ token problem as supply outpaces value creation",
-            "url": "https://cointelegraph.com/news/crypto-existential-token-problem-supply-outpaces-value-creation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Aubergine (Nasu Dengaku)",
-      "cuisine": "Japanese",
-      "description": "Halved aubergines broiled until silky inside with a caramelised sweet-savoury miso crust",
-      "tip": "Score the flesh in a crosshatch before broiling — it helps the glaze sink in and speeds up cooking by about 4 minutes"
+      "name": "Manti",
+      "cuisine": "Turkish / Central Asian",
+      "description": "Tiny hand-pinched dumplings filled with spiced lamb, drowned in garlicky yogurt and chilli butter",
+      "tip": "Make the dumplings thumb-nail small — the ratio of dough to filling is what makes them special, so resist the urge to go bigger"
     },
     "exercise": {
-      "name": "Sunday Staircase Pyramid",
-      "duration": "35 minutes",
-      "equipment": "A staircase of at least 10 steps",
-      "description": "Climb the stairs using five different movement patterns — walk, side-step, skip a step, backwards, and sprint — cycling through them in ascending then descending rep counts to build cardio and coordination without leaving the house"
+      "name": "Deck of Cards Workout",
+      "duration": "30–45 minutes",
+      "equipment": "One standard deck of playing cards, exercise mat",
+      "description": "Assign a bodyweight move to each suit, flip cards one by one, and perform the reps shown — the randomness kills boredom and guarantees an unpredictable full-body session"
     },
     "learn": {
-      "topic": "Taphonomy — the science of how things become fossils",
-      "description": "Taphonomy studies the journey of an organism from death to discovery, covering decay, burial, mineralisation, and the extraordinary biases this introduces into the fossil record — most life that ever existed left no trace whatsoever.",
-      "why": "It reframes everything you think you know about prehistoric life; the gaps in the record aren't random noise but patterned absences you can actually reason about, which makes deep time feel both stranger and more knowable"
+      "topic": "The Ship of Theseus and Personal Identity",
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether you are the same person you were ten years ago.",
+      "why": "On a slow Sunday it's the perfect rabbit hole because it branches naturally into Derek Parfit's work on personal identity, Buddhist concepts of the self, and even modern debates about consciousness — one hour in and you'll be questioning something you've never thought to question before"
     }
   }
 }
