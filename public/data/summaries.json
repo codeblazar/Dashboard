@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-04-05T12:10:00.095Z",
+  "generatedAt": "2026-04-05T13:25:43.752Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Rescues Downed Airman as Iran War Grinds On",
-        "body": "The US military rescued an airman shot down over Iran, with Trump announcing the operation publicly. A retired Army general predicted the conflict could wrap up in under 60 days, though that timeline remains contested and unverified.\n\nThe war is already hitting American wallets. Jet fuel costs have skyrocketed, forcing airlines to cancel flights and raise fares. A former World Bank chief warned Iran's economy is collapsing into a barter system under the pressure of sustained conflict and sanctions.\n\nThe rescue offers a rare piece of good news amid a costly and uncertain campaign. How long the fighting lasts - and what it ultimately costs - remains the central question.",
+        "headline": "US-Iran War Escalates as Airman Rescued, Hormuz Threatened",
+        "body": "Trump threatened to bomb Iranian power plants and bridges on Easter Sunday if Iran does not reopen the Strait of Hormuz, using unusually blunt language in his public warning. The US military simultaneously rescued a service member whose jet was shot down over Iran, a rare piece of good news amid an intensifying conflict. A retired Army general predicted the war could conclude in under 60 days, though analysts remain divided on that timeline. The economic fallout is already spreading. Jet fuel costs have spiked sharply, forcing airlines to cancel flights and raise fares. A former World Bank chief warned Iran's economy is collapsing toward a barter system under the pressure of sustained conflict and sanctions.",
         "sources": [
           {
-            "title": "US rescues missing service member in Iran: Trump",
-            "url": "https://thehill.com/policy/defense/5816854-us-rescues-missing-service-member-iran/",
+            "title": "Trump drops Easter Sunday f-bomb in new threat to Iran",
+            "url": "https://thehill.com/homenews/administration/5816887-trump-threatens-iran-infrastructure-strait-of-hormuz/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
-            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
+            "title": "Trump vows US will strike Iran’s power plants, bridges if Strait of Hormuz is not reopened",
+            "url": "https://www.foxnews.com/politics/trump-vows-us-will-strike-irans-power-plants-bridges-strait-of-hormuz-not-reopened",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "US rescues missing service member from downed jet in Iran: Trump",
+            "url": "https://thehill.com/policy/defense/5816854-us-rescues-missing-service-member-iran/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -36,13 +42,25 @@
             "url": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
             "source": "NPR",
             "lean": "left"
+          },
+          {
+            "title": "Former World Bank chief says Iran economy collapsing into ‘barter system’ amid conflict",
+            "url": "https://thehill.com/policy/international/5816733-iran-economy-collapse-predicted/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Judge Blocks Trump Push to Police College Admissions by Race",
-        "body": "A federal judge has blocked the Trump administration's effort to require colleges to prove race played no role in admissions decisions. The ruling halts a data-collection push that critics called a backdoor enforcement mechanism following the Supreme Court's 2023 ban on affirmative action.\n\nSupporters of the administration's move argued it was a legitimate step to enforce existing law and ensure universities comply with the court's ruling. Opponents said the requirement was vague, burdensome, and designed to intimidate institutions rather than enforce anything specific.\n\nThe ruling is a setback for Trump's broader push to reshape higher education policy, though the administration is expected to appeal.",
+        "headline": "Trump Fires Bondi, Courts Face Off Over Education Data",
+        "body": "Trump fired Attorney General Pam Bondi, a move NPR framed alongside reports that Trump is walking back several campaign promises. The White House has not offered a detailed public explanation for the dismissal. Separately, a federal judge blocked the administration's push to require colleges to submit race-based admissions data, ruling against a policy critics said was designed to expose and penalise affirmative action practices. Supporters of the administration argued the data collection was a legitimate transparency measure. The ruling adds to a growing list of judicial checks on executive action, which critics across the political spectrum have flagged as an overuse of emergency and executive powers.",
         "sources": [
+          {
+            "title": "Politics chat: Trump fires Attorney General Bondi, seeks to break campaign promises",
+            "url": "https://www.npr.org/2026/04/05/nx-s1-5773193/politics-chat-trump-fires-attorney-general-bondi-seeks-to-break-campaign-promises",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Federal judge blocks Trump push to collect race-based admissions data",
             "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-push-collect-race-based-admissions-data",
@@ -54,12 +72,42 @@
             "url": "https://thehill.com/homenews/5816716-federal-judge-blocks-trump-education-data/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Trump’s abuse of emergency powers is the real national emergency",
+            "url": "https://thehill.com/opinion/white-house/5813835-presidential-emergency-powers-abuse/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "ICE Tactics, Immigration Clash Fuel Partisan Flashpoints",
-        "body": "Black Democrats in Congress have pushed back against ICE agents wearing face masks during operations, drawing comparisons to historical uses of masked enforcement to intimidate communities. Republicans and DHS have defended the practice as a safety measure for agents.\n\nA separate dispute erupted after Democratic Senator Chris Van Hollen claimed an undocumented immigrant caused a crash while fleeing ICE. DHS disputed his account directly, saying the facts did not support his framing. Both sides are using the incident to press their broader arguments on immigration enforcement.\n\nThe fights reflect a wider pattern - immigration enforcement tactics are now a daily political battleground, with each incident quickly absorbed into competing narratives.",
+        "headline": "Alliance Fractures, Hungary Vote, and the Pope's Peace Call",
+        "body": "Spain's decision to ban US military aircraft from its airspace has prompted debate about whether NATO's era of universal collective action is ending. Analysts describe a drift toward transactional, bilateral arrangements replacing the bloc's traditional unity. In Hungary, Trump and Putin are both backing Viktor Orban ahead of a closely watched election, a rare alignment that has drawn scrutiny from European governments. Pope Leo used his Easter address to deliver a pointed call for peace, with the Washington Post noting the message carried implicit weight given active US military operations. The speech drew wide attention but no formal response from the White House.",
+        "sources": [
+          {
+            "title": "The ‘post-global’ NATO: Spain’s airspace ban signals the death of universal alliances",
+            "url": "https://thehill.com/opinion/international/5815888-post-global-nato-alliance/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "In Hungarian election, Trump and Putin are backing Viktor Orban",
+            "url": "https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "On Easter, Pope Leo delivers commanding message of peace to a world at war",
+            "url": "https://www.washingtonpost.com/world/2026/04/05/pope-leo-easter-trump-war-peace/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "ICE Mask Fight, Election Ads, and Harris Eyes 2028",
+        "body": "Black Democratic lawmakers are pushing back against ICE agents wearing face masks during enforcement operations, drawing on historical arguments about accountability and anonymous state power. Republicans have defended the practice as a safety measure for agents. A new ad campaign backed by Republicans is targeting Trump's push to federalise election administration, arguing it threatens state control over voting systems. The ads signal rare intra-party friction on the issue. Meanwhile, Fox News reports that Kamala Harris's recent travel schedule and public statements point clearly toward a 2028 presidential run, though Harris has made no formal announcement.",
         "sources": [
           {
             "title": "In fight against ICE facemasks, Black Democrats point to history",
@@ -68,28 +116,10 @@
             "lean": "center"
           },
           {
-            "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-            "url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Election Control, Orban, and Harris: The Political Backdrop",
-        "body": "A new ad campaign backed by Republicans is targeting Trump's push to federalize US elections, warning it would strip states of control over their own voting systems. The effort signals that opposition to some Trump policies is not confined to Democrats.\n\nAbroad, Trump and Putin are both backing Viktor Orban ahead of Hungary's election, according to the Washington Post. Vice President Vance has been linked to outreach efforts. Critics say the alignment raises questions about US foreign policy priorities.\n\nMeanwhile, Fox News flagged that Kamala Harris is traveling and speaking in ways that suggest a 2028 presidential run. Harris has not confirmed any plans. The speculation is early, but the political positioning has already begun.",
-        "sources": [
-          {
             "title": "New ad campaign speaks out against Trump’s threat to ‘federalize’ elections",
             "url": "https://thehill.com/homenews/administration/5815433-republican-ad-trump-elections/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "In Hungary election, Trump and Putin are backing Viktor Orban",
-            "url": "https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/",
-            "source": "Washington Post",
-            "lean": "center-left"
           },
           {
             "title": "Kamala Harris' travels and comments clearly point to 2028",
@@ -102,8 +132,8 @@
     ],
     "au-politics": [
       {
-        "headline": "Australia scrambles to secure fuel supply amid shortage fears",
-        "body": "Japan and other Asian nations have assured Australia that fuel supplies will continue normally, as Prime Minister Albanese works to head off a domestic shortage. The assurances follow a period of acute concern about supply chains, with the crisis already biting at the bowser. Nearly 100 NSW service stations have been fined $1,100 each for displaying misleading prices during the crunch, while Western Australia has moved to expand its FuelWatch scheme, ordering all regional stations to report prices from May. Farmers are among the hardest hit. One grower told the ABC the cost of fuel is making it difficult to put food on the table. The government is under pressure to show it has the crisis under control before it deepens further.",
+        "headline": "Australia's Fuel Crisis: Assurances Flow as Prices Mislead",
+        "body": "Japan and other Asian nations have assured Australia that fuel supplies will continue normally, as Prime Minister Albanese works to contain a shortage that has rattled consumers and businesses. Farmers are among the hardest hit, with some reporting they cannot cover basic costs as fuel prices bite into already thin margins.\n\nIn New South Wales, regulators have fined nearly 100 service stations $1,100 each for displaying misleading prices during the crunch. Western Australia is moving to expand its FuelWatch scheme, requiring all regional stations to report prices from May - a transparency push that mirrors the pressure building on retailers nationally.",
         "sources": [
           {
             "title": "'Struggling massively': Farmer finds it hard to put food on the table",
@@ -138,8 +168,8 @@
         ]
       },
       {
-        "headline": "Sisters of slain officer to sue Victoria Police for negligence",
-        "body": "The sisters of Constable Neal Thompson, killed by Dezi Freeman, plan to sue Victoria Police for negligence, their lawyer has confirmed. They allege police failed in their duty of care and say the family feels abandoned by the force. Freeman shot Thompson during a confrontation that drew intense scrutiny of police decision-making and risk management protocols. The lawsuit will test whether Victoria Police can be held liable for the circumstances that led to Thompson's death. The case is likely to reignite debate about officer safety, mental health support for police families, and institutional accountability. Victoria Police has not yet publicly responded to the planned legal action.",
+        "headline": "Victoria Police Sued Over Officer Neal Thompson's Death",
+        "body": "The sisters of Senior Constable Neal Thompson, killed by Dezi Freeman, plan to sue Victoria Police for negligence. Their lawyer says the family feels abandoned by the force, arguing police failed in their duty of care before the fatal incident.\n\nThe case puts institutional accountability at the centre of a public debate about how police manage known risks to their own officers. Victoria Police has not yet responded publicly to the legal action. The lawsuit is separate from any criminal proceedings against Freeman and will test what obligations the force owes to its members.",
         "sources": [
           {
             "title": "Sisters of officer killed by Dezi Freeman plan to sue police for negligence, lawyer says",
@@ -156,8 +186,8 @@
         ]
       },
       {
-        "headline": "Murder arrest at Melbourne airport; Tasmania Police shooting",
-        "body": "A man was arrested at Melbourne Airport while attempting to board an international flight, and has since been charged with murdering a woman. Police intercepted him before he could leave the country. Separately, a man is in serious condition in Tasmania after being shot by police in Goodwood, south of Hobart. Tasmanian authorities have not released details about the circumstances that led officers to discharge their weapons. Both incidents are under investigation.",
+        "headline": "Murder Arrest at Melbourne Airport; Tasmania Police Shooting",
+        "body": "A man was arrested at Melbourne Airport while attempting to board an international flight, and has since been charged with murdering a woman. The arrest prevented what police believe was an attempt to flee the country.\n\nSeparately in Tasmania, a man is in serious condition after being shot by police in Goodwood, southern Tasmania. Details of the circumstances remain limited, with an investigation underway. Both incidents add to a weekend of serious law enforcement events across the country.",
         "sources": [
           {
             "title": "Man arrested attempting to board international flight at Melbourne airport charged with murdering woman",
@@ -174,12 +204,42 @@
         ]
       },
       {
-        "headline": "Fatal crashes claim girl, 7, as highway reopens after Cyclone Narelle",
-        "body": "A seven-year-old girl has died after an ATV rollover in Adelaide's north-east, one of two separate crash fatalities reported on the same day. The deaths come as travellers celebrated the reopening of a major highway closed by Cyclone Narelle, with many Australians taking to the roads over the Easter long weekend. A magnitude-5.5 earthquake also rattled a remote APY Lands community in South Australia early on Sunday, described by locals as a sharp morning wake-up call. No injuries were reported from the quake.",
+        "headline": "Easter Weekend: Sport, Tragedy and Celebrations Across Australia",
+        "body": "Tim Tszyu claimed a boxing title in Wollongong with a dominant performance over Denis Nurja, delivering a rare piece of good news for Australian sport on a weekend that also saw the Western Bulldogs defeat Essendon while losing two players to injury, and the Sydney Kings win a dramatic NBL overtime game - then break the trophy.\n\nThe weekend carried darker moments. A seven-year-old girl died after an ATV rollover in Adelaide's north-east. A magnitude-5.5 earthquake shook a remote APY Lands community early in the morning. Australians otherwise marked Easter with celebrations, and travellers welcomed the reopening of a major highway closed by Cyclone Narelle.",
         "sources": [
           {
             "title": "7yo girl dies after ATV rollover in Adelaide's north-east",
             "url": "https://www.abc.net.au/news/2026-04-05/one-girl-two-riders-die-in-separate-crashes/106533090",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Tim Tszyu dominates Denis Nurja to claim title in Wollongong",
+            "url": "https://www.abc.net.au/news/2026-04-05/tim-tszyu-claims-boxing-title-against-denis-nurja/106533078",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australians find joy amid global uncertainty in Easter celebrations",
+            "url": "https://www.abc.net.au/news/2026-04-05/australia-easter-egg-hunt-christianity-national-wrap-2026/106532532",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Bulldogs down plucky Bombers but lose two key players to injury",
+            "url": "https://www.abc.net.au/news/2026-04-05/afl-easter-sunday-live-blog/106530544",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Raiders' season lurches towards disaster as Knights run riot",
+            "url": "https://www.abc.net.au/news/2026-04-05/nrl-live-updates-sharks-warriors-knights-raiders/106532864",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Kings break NBL trophy after dramatic overtime win as 36ers blow late lead",
+            "url": "https://www.abc.net.au/news/2026-04-05/nbl-finals-live-game-five-sydney-kings-vs-adelaide-36ers/106531510",
             "source": "ABC Australia",
             "lean": "center-left"
           },
@@ -200,8 +260,8 @@
     ],
     "world": [
       {
-        "headline": "US-Israel War on Iran Enters Day 37 With Escalating Strikes",
-        "body": "US and Israeli forces continued strikes on Iran for a 37th consecutive day, while Iran hit back by attacking power and water infrastructure in Kuwait, widening the conflict across the Gulf. A US F-15E was downed over Iranian territory, but both pilots were rescued - Trump called the second recovery 'miraculous.' The war is polling badly at home, with drivers already blaming Trump as fuel prices surge.\n\nIran is selectively easing pressure on Gulf shipping, announcing Iraqi vessels may pass the Strait of Hormuz freely. Yemen's Houthis meanwhile claimed a cluster missile strike on Ben Gurion airport. US satellite firm Planet Labs announced it would black out imagery of the conflict zone, raising concerns about transparency as Trump signals he wants an exit that avoids the appearance of failure.",
+        "headline": "US-Iran War Enters Day 37 as Conflict Spreads Regionally",
+        "body": "American and Israeli strikes on Iran entered their 37th day, with Iran retaliating by hitting power and water infrastructure in Kuwait. The conflict is widening fast. Thousands rallied in Baghdad against what protesters called senseless aggression, while Yemen's Houthis claimed a cluster missile strike on Ben Gurion airport.\n\nTrump confirmed the rescue of a second downed US pilot inside Iranian territory, calling it miraculous. The F-15E crew recoveries offer a rare piece of good news for Washington as domestic opposition to the war grows - polls show the conflict is deeply unpopular with American voters. Trump is now said to be seeking an exit that avoids the appearance of outright failure.",
         "sources": [
           {
             "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
@@ -213,12 +273,6 @@
             "title": "What we know so far about rescue of US airman in Iran",
             "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-            "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -256,24 +310,48 @@
             "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Iran Offers Peace Roadmap While Squeezing the Strait of Hormuz",
+        "body": "Former Iranian Foreign Minister Zarif floated a peace roadmap even as Iran's military actions continued to rattle the Gulf. Gulf states responded coolly, citing deep erosion of trust. Iran separately signaled it would allow Iraqi and some other vessels through the Strait of Hormuz, while Oman held talks with Tehran aimed at keeping transit lanes open.\n\nThe diplomatic maneuvering reflects Iran's dual strategy - keeping economic pressure on Gulf neighbors through selective access to Hormuz while dangling the prospect of negotiations. Italy's prime minister, visiting the region, called the Gulf fundamental to European security, underlining how far the conflict's economic consequences now reach.",
+        "sources": [
+          {
+            "title": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
+            "url": "https://www.aljazeera.com/news/2026/4/5/irans-former-fm-zarif-proposes-peace-roadmap-gulf-states-voice-exclusion?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Italian PM says the Gulf is ‘fundamental’ for Europe’s security",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
+            "url": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
+            "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           },
           {
             "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
             "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
-            "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine Drones Hit Russian Oil Refinery and Port",
-        "body": "Ukraine struck a Russian oil refinery in Nizhny Novgorod and a port facility in Primorsk, with fires and fuel leaks reported at both sites. The attacks mark a continued Ukrainian push to degrade Russian energy and logistics infrastructure deep inside Russian territory.\n\nThe strikes come as the broader war grinds on with no ceasefire in sight, and as global attention remains split between the Russia-Ukraine conflict and the expanding US-Israel war on Iran.",
+        "headline": "Ukraine Strikes Deep Into Russian Oil Infrastructure",
+        "body": "Ukrainian drones hit a port in Russia's Primorsk and an oil refinery in Nizhny Novgorod, sparking fires and reported fuel leaks. The strikes mark some of Ukraine's deepest hits on Russian energy infrastructure in recent weeks.\n\nThe attacks are part of Kyiv's sustained campaign to degrade Russian fuel supply chains and export capacity. Nizhny Novgorod sits roughly 400 kilometers east of Moscow, signaling an extended operational reach for Ukrainian drone forces.",
         "sources": [
           {
             "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
@@ -284,8 +362,8 @@
         ]
       },
       {
-        "headline": "Canadian Astronaut Hansen Becomes First to Fly to the Moon",
-        "body": "Jeremy Hansen has become the first Canadian to travel to the moon, joining NASA's Artemis program as it pushes crewed lunar missions forward. Hansen's inclusion marks a milestone for Canada's role in international space exploration under its partnership with NASA.\n\nThe mission reflects a broader acceleration of lunar ambitions more than five decades after Apollo, with multiple nations and private actors now competing for presence beyond Earth orbit.",
+        "headline": "Canadian Astronaut Hansen Heads to the Moon",
+        "body": "Jeremy Hansen became the first Canadian to travel to the moon, joining NASA's Artemis program as it pushes forward with crewed lunar missions. Hansen's inclusion marks a milestone for Canada's space program and reflects the increasingly multinational character of deep-space exploration.\n\nThe mission adds a rare note of international cooperation to a global news cycle otherwise dominated by conflict and economic strain.",
         "sources": [
           {
             "title": "Jeremy Hansen is the first Canadian to head to the moon",
@@ -294,47 +372,17 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Israeli Forces Use Dog to Attack Palestinian Man in Mosque",
-        "body": "Footage circulating online shows an Israeli military dog attacking a Palestinian man inside a mosque, drawing widespread condemnation. The incident adds to mounting documentation of Israeli military conduct in Palestinian territories during Holy Week, a period already marked by heavy movement restrictions on Palestinian Christians in the West Bank and Gaza.\n\nCritics argue the restrictions and incidents like the mosque attack are part of a systematic campaign against Palestinian life and institutions, including sustained pressure on UNRWA, the UN agency providing humanitarian relief in Gaza.",
-        "sources": [
-          {
-            "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-            "url": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week",
-            "url": "https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
       }
     ],
     "ai": [
       {
-        "headline": "AI Creep Erodes Creative Work and Human Skill",
-        "body": "A folk musician named Murphy Campbell found himself targeted by AI-generated fakes of his music, then hit with copyright trolling when he tried to fight back. His case illustrates how AI tools are being weaponized against the very creators they supposedly serve. Meanwhile, a growing backlash is pushing platforms and buyers to demand proof that work is human-made, with new logos and certifications emerging for \"AI-free\" creative content.\n\nOn the skills side, a widely-shared essay argues the real danger of AI isn't job loss but comfortable drift - people slowly stop understanding what they're doing as machines handle more of the thinking. Grammarly's own story adds texture: its AI-review feature reportedly flagged its own marketing copy as low-quality. The tools are eating their makers.",
+        "headline": "AI Tools Blur Authorship as Fakes and Confusion Multiply",
+        "body": "Grammarly's AI writing tools are producing what The Verge calls a 'sloppelganger' problem - text that sounds like you but isn't, eroding trust in your own voice over time. Separately, a folk musician found herself targeted by AI-generated fakes of her work alongside a copyright troll exploiting the chaos, illustrating how the same technology that blurs authorship also creates new legal vulnerabilities for small creators.\n\nAndrej Karpathy published an example 'idea file' using an LLM wiki format, prompting discussion on Hacker News about how AI tools are quietly reshaping how people think and record knowledge. One essayist put it bluntly: the real threat is not AI taking over, but users drifting into not understanding what they are doing.",
         "sources": [
           {
             "title": "Grammarly’s sloppelganger saga",
             "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "The threat is comfortable drift toward not understanding what you're doing",
-            "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -344,33 +392,27 @@
             "lean": null
           },
           {
-            "title": "Really, you made this without AI? Prove it",
-            "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Anthropic Adds Fees as AI Coding Tools Multiply",
-        "body": "Anthropic confirmed that Claude Code subscribers will need to pay extra to use OpenClaw, its integration with external coding environments. The move signals that AI coding tools are entering a tiered, monetized phase after an era of bundled access. Costs are rising just as competition intensifies.\n\nAndrey Karpathy published a public \"idea file\" for an LLM wiki, offering a rare glimpse into how a leading AI researcher organizes speculative thinking. Separately, a detailed breakdown of coding agent architecture lays out how retrieval, planning, and execution components fit together in production systems. Microsoft's Copilot branding chaos - one analysis counts a bewildering number of distinct products sharing the name - suggests the industry is still struggling to explain what these tools actually are.",
-        "sources": [
-          {
             "title": "LLM Wiki – example of an \"idea file\"",
             "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
             "source": "Hacker News",
             "lean": null
           },
           {
+            "title": "The threat is comfortable drift toward not understanding what you're doing",
+            "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Anthropic Adds Fees as Microsoft Drowns in Copilot Branding",
+        "body": "Anthropic confirmed that Claude Code subscribers will pay extra to use OpenClaw, tightening the cost structure around its developer-focused AI tools just as competition in the coding-assistant market intensifies. The move signals that the era of bundled AI access is ending fast.\n\nMeanwhile, a new analysis counted the number of distinct Microsoft products carrying the Copilot name and found the branding has sprawled into near-incoherence. The confusion is not just cosmetic - it reflects genuine fragmentation in Microsoft's AI strategy, where different Copilot products run on different models, have different capabilities, and target different users with little to distinguish them publicly.",
+        "sources": [
+          {
             "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
             "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
             "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Components of a Coding Agent",
-            "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -382,12 +424,18 @@
         ]
       },
       {
-        "headline": "Hardware Friction Slows Software: Linux, GPUs, and Repair Rights",
-        "body": "An AWS engineer reported that Linux 7.0 cuts PostgreSQL performance roughly in half, with no easy fix in sight. The regression affects a workload that millions of production systems depend on, and kernel maintainers have not yet identified a clean solution. Infrastructure teams running recent kernels should treat this as urgent.\n\nOn the hardware access front, Apple approved a driver letting Nvidia external GPUs work with Arm Macs, a small but meaningful win for users locked out of GPU upgrades. Less encouraging: tech companies are actively lobbying to gut Colorado's right-to-repair law before it takes full effect. And Germany's eIDAS digital identity rollout will require users to have an Apple or Google account, handing two American platforms a mandatory role in European civic infrastructure.",
+        "headline": "Security Stumbles: CBP Codes Leak, Google Locks Out Users",
+        "body": "Sensitive U.S. Customs and Border Protection facility codes appear to have leaked through online flashcard sets, likely created by employees studying for internal certifications. Ars Technica found the codes sitting in publicly accessible study decks. It is a reminder that human habits routinely outpace institutional security controls.\n\nOn the consumer side, a detailed account of a Google Workspace account suspension went viral on Hacker News, describing how a paying user lost access to years of data with little recourse and opaque appeals. Germany's eIDAS digital identity rollout adds another wrinkle: its implementation will require users to have an Apple or Google account to function, handing two American platforms a mandatory role in European digital identity infrastructure.",
         "sources": [
           {
-            "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-            "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+            "title": "CBP facility codes sure seem to have leaked via online flashcards",
+            "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Sad Story of My Google Workspace Account Suspension",
+            "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
             "source": "Hacker News",
             "lean": null
           },
@@ -396,16 +444,22 @@
             "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
             "source": "Hacker News",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Linux 7.0 Halves PostgreSQL Speed, Ubuntu Bloat Grows",
+        "body": "An AWS engineer reported that Linux 7.0 cuts PostgreSQL performance roughly in half under certain workloads, and a fix is not straightforward. The regression is significant for cloud infrastructure teams running high-throughput databases, and it arrives at a moment when kernel upgrades are often treated as routine.\n\nSeparately, Ubuntu's latest release now requires more RAM than Windows 11 to run, a threshold that would have seemed absurd a few years ago. The two stories together point to a broader trend: open-source software, long celebrated for running lean, is accumulating weight at both the OS and kernel level in ways that carry real operational costs.",
+        "sources": [
           {
-            "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-            "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-            "source": "Ars Technica",
+            "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+            "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-            "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+            "title": "Ubuntu now requires more RAM than Windows 11",
+            "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
             "source": "Hacker News",
             "lean": null
           }
@@ -414,8 +468,26 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Stalls at $67K as Bearish Sentiment Peaks",
-        "body": "Bitcoin is grinding sideways around $67,000 while bearish social media chatter hits a five-week high, according to Santiment data. Sentiment has soured to its worst levels since the Iran war began, with traders openly calling new price lows a matter of time.\n\nThe pessimism is broad but not necessarily a death sentence. Historically, peak negative sentiment has preceded reversals, and some analysts argue the lack of capitulation selling keeps the floor intact. Still, with no clear catalyst on the horizon, bulls are struggling to make a case for a near-term breakout.",
+        "headline": "North Korea Spent Six Months Infiltrating Drift Before $280M Heist",
+        "body": "Drift Protocol has confirmed that the $270-280 million exploit targeting its platform was a deliberate North Korean intelligence operation spanning roughly six months. Attackers embedded themselves inside the project before executing the theft, suggesting a level of patience and sophistication far beyond typical crypto hacks.\n\nThe findings point to state-sponsored actors treating DeFi protocols as strategic targets rather than opportunistic ones. For the broader industry, the implication is stark: perimeter security alone is insufficient when adversaries are willing to play a long game from the inside.",
+        "sources": [
+          {
+            "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
+            "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Drift Protocol $280M exploit took 'months of deliberate preparation'",
+            "url": "https://cointelegraph.com/news/drift-protocol-exploit-preparation-preliminary-findings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Stuck at $67K as Bearish Sentiment Hits Multi-Week High",
+        "body": "Bitcoin is grinding sideways around $67,000 while social media bearishness hits a five-week peak, according to Santiment data. Sentiment has deteriorated to its worst levels since the Iran war began, yet price has held relatively firm - a dynamic that contrarian traders sometimes read as a floor signal.\n\nNot everyone is buying that logic. At least one prominent trader argues new lows are a matter of time if Bitcoin cannot break out of its current range. The tension between stubborn price support and collapsing crowd confidence is defining the market's mood heading deeper into April.",
         "sources": [
           {
             "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
@@ -438,8 +510,8 @@
         ]
       },
       {
-        "headline": "Crypto's Token Glut Is Quietly Killing the Market",
-        "body": "Token supply is growing far faster than the value those tokens represent, and analysts are calling it an existential problem for the industry. Projects continue launching new assets into a market already drowning in supply, diluting returns and eroding confidence across the board.\n\nThe dynamic creates a structural headwind that price action alone cannot fix. Until projects tie token issuance more tightly to real utility and revenue, the flood of new supply will keep capping upside for even legitimate projects.",
+        "headline": "Crypto's Token Glut Is an Existential Problem, Analysts Warn",
+        "body": "Token supply is growing faster than the value those tokens represent, and analysts are calling it an existential threat to the asset class. New issuance has become trivially cheap, flooding markets with projects that dilute attention and capital without delivering real utility.\n\nThe problem compounds during flat markets. When price appreciation masks weak fundamentals, the glut is tolerable. When it doesn't, investors are left holding tokens with no clear reason to exist. The industry has long promised to separate signal from noise - so far, supply keeps winning.",
         "sources": [
           {
             "title": "Crypto faces ‘existential’ token problem as supply outpaces value creation",
@@ -450,20 +522,8 @@
         ]
       },
       {
-        "headline": "Drift Protocol's $280M Hack Was Months in the Making",
-        "body": "Preliminary findings from the Drift Protocol exploit reveal the attacker spent months preparing before draining $280 million from the Solana-based platform. This was not an opportunistic hit. The deliberate, extended preparation points to a sophisticated actor who studied the protocol's mechanics carefully before striking.\n\nThe case underscores a persistent gap between how fast DeFi protocols ship code and how thoroughly they audit it. Slow, patient attackers keep finding that gap profitable.",
-        "sources": [
-          {
-            "title": "Drift Protocol $280M exploit took 'months of deliberate preparation'",
-            "url": "https://cointelegraph.com/news/drift-protocol-exploit-preparation-preliminary-findings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ant Group Bets on AI Agents Spending Crypto Autonomously",
-        "body": "Ant Group's blockchain division has launched a platform designed to let AI agents transact directly on crypto rails, without human approval for each payment. The move positions Ant at the intersection of two of tech's hottest trends, and signals that autonomous AI spending is moving from theory to infrastructure.\n\nThe platform raises immediate questions about accountability and compliance when no human initiates a transaction. Bitcoin's parallel quantum-proofing push adds another layer of urgency - the security assumptions underpinning crypto rails are being stress-tested from multiple directions at once as the stakes grow larger.",
+        "headline": "Ant Group and Quantum Threats Push Crypto's Infrastructure Frontier",
+        "body": "Ant Group's blockchain arm has launched a platform letting AI agents transact autonomously over crypto rails, positioning programmable money as the settlement layer for machine-to-machine commerce. The move reflects growing conviction that AI and blockchain infrastructure will converge sooner than most expected.\n\nMeanwhile, Bitcoin faces a longer-horizon threat. Researchers and developers are racing to quantum-proof the $1.3 trillion network before advances in quantum computing can crack its cryptographic foundations. Several initiatives are now underway, though no consensus has formed around a single solution. Both stories point to the same underlying pressure: the infrastructure built in crypto's early years was not designed for what the technology is becoming.",
         "sources": [
           {
             "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
@@ -483,21 +543,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Leek and Mushroom Galette",
-      "cuisine": "French-Japanese fusion",
-      "description": "A rustic free-form pastry filled with caramelised leeks and shiitake mushrooms bound with a white miso and crème fraîche mixture",
-      "tip": "Freeze your butter for 15 minutes before grating it into the flour — it creates flakier layers than cubing and cutting"
+      "name": "Miso-Glazed Leeks with Soft-Boiled Eggs",
+      "cuisine": "Japanese-inspired",
+      "description": "Charred leeks brushed with a sweet-savory miso butter, served over rice with jammy eggs and toasted sesame",
+      "tip": "Halve the leeks lengthwise and press them cut-side down in a dry pan until deeply caramelized before adding the glaze — the char is the whole point"
     },
     "exercise": {
-      "name": "The Sunday Tempo Ladder",
+      "name": "The Sunday Carry",
       "duration": "40 minutes",
-      "equipment": "Running shoes, a flat route or treadmill",
-      "description": "A structured run that builds through four 8-minute blocks — easy, moderate, comfortably hard, and easy again — training your body to shift gears rather than plod at one pace"
+      "equipment": "Two heavy bags, backpack, or loaded shopping bags",
+      "description": "A farmer's carry walk around your neighborhood or park, alternating grip styles and distances to build functional grip strength, posture, and quiet cardio without a gym"
     },
     "learn": {
-      "topic": "Tektites and the Australasian Strewn Field",
-      "description": "Around 800,000 years ago, a meteorite impact scattered glassy debris called tektites across roughly 10% of Earth's surface — from southern China to Antarctica — yet the source crater has never been conclusively found",
-      "why": "It's a genuine open mystery in planetary science, and tracing the forensic logic scientists use to hunt an invisible crater will change how you look at the ground beneath your feet"
+      "topic": "Stochastic Resonance",
+      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous system, crayfish, and now medical devices",
+      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and has surprising implications for how your own brain processes faint sensory information"
     }
   }
 }
