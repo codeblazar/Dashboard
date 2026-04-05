@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-05T22:08:12.484Z",
+  "generatedAt": "2026-04-05T23:10:30.578Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Threatens Iran With Strikes, Refuses to Rule Out Ground Troops",
-        "body": "President Trump escalated pressure on Iran over Easter weekend, posting a profanity-laced threat to bomb power plants and bridges if the Strait of Hormuz is not reopened. He declined to rule out ground troops if Tehran refuses a deal, though a House Republican said boots on the ground would serve only one purpose - seizing enriched uranium.\n\nReactions split sharply across party lines. Rep. Marjorie Taylor Greene broke with Trump, calling the threats \"insane.\" Top Armed Services Democrat Adam Smith warned a war with Iran would be a costly mistake. A former Trump adviser said the aggressive rhetoric makes a negotiated deal less likely, not more.\n\nHouse Democrats argued Iran's grip on the Strait of Hormuz poses a greater strategic threat than its nuclear program. NATO allies are watching closely as Trump's posture strains alliance relationships.",
+        "headline": "US-Iran Conflict Escalates as Trump Threatens Ground Invasion",
+        "body": "Trump refused to rule out ground troops if Iran does not reach a nuclear deal, posting an Easter message threatening Iran with 'Hell' over the Strait of Hormuz. Iran claims it destroyed a US aircraft during a recovery mission for a missing service member, while Fox News reports the CIA assisted a separate rescue of an airman behind enemy lines using a deception campaign. The incidents mark a sharp escalation in direct military confrontation.\n\nOpinion in Congress is divided but cautious. House Republicans say ground troops should only be used to seize enriched uranium, not to open the strait by force. Democrats, including Rep. Adam Smith and Rep. Jake Auchincloss, warn that a full war would be costly and that Iran's grip on the strait poses a greater strategic threat than its nuclear program. Former Trump adviser Brett McGurk said the threatening rhetoric makes a deal less likely, not more.",
         "sources": [
+          {
+            "title": "Iran says US aircraft destroyed during recovery mission for missing service member",
+            "url": "https://thehill.com/policy/defense/5817315-daring-rescue-mission-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Rep. Madeleine Dean discusses Iran and President Trump's proposed budget",
+            "url": "https://www.npr.org/2026/04/05/nx-s1-5773342/rep-madeleine-dean-discusses-iran-and-president-trumps-proposed-budget",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "House Republican says he doesn’t think ground troops will be needed to open the Strait of Hormuz",
             "url": "https://thehill.com/homenews/house/5817265-ground-invasion-strait-hormuz/",
@@ -38,12 +50,6 @@
             "lean": "center-left"
           },
           {
-            "title": "Trump roils NATO as pressure builds over Strait of Hormuz",
-            "url": "https://thehill.com/policy/defense/5815848-trump-nato-tensions-rise-withdrawal-threats/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
             "title": "House Republican: ‘Only purpose’ for US boots on the ground in Iran is ‘to get the enriched uranium’",
             "url": "https://thehill.com/homenews/house/5816999-lawler-iran-us-troops-uranium/",
             "source": "The Hill",
@@ -62,23 +68,23 @@
             "lean": "center"
           },
           {
-            "title": "Trump drops Easter Sunday f-bomb in new threat to Iran",
-            "url": "https://thehill.com/homenews/administration/5816887-trump-threatens-iran-infrastructure-strait-of-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump vows US will strike Iran’s power plants, bridges if Strait of Hormuz is not reopened",
-            "url": "https://www.foxnews.com/politics/trump-vows-us-will-strike-irans-power-plants-bridges-strait-of-hormuz-not-reopened",
+            "title": "Inside the daring rescue of airman behind enemy lines: How CIA assisted with 'deception campaign'",
+            "url": "https://www.foxnews.com/politics/inside-daring-rescue-airmen-behind-enemy-lines-cia-assisted-deception-campaign",
             "source": "Fox News",
             "lean": "right"
           }
         ]
       },
       {
-        "headline": "DHS Funding Lapse Deepens as GOP Divisions Stall Reopening",
-        "body": "The Department of Homeland Security remains unfunded as House Republicans struggle to agree on a path forward during recess. Internal GOP divisions and what sources describe as Trump's detachment from the negotiations have stymied efforts to resolve the lapse.\n\nHouse Minority Leader Hakeem Jeffries publicly called on Speaker Mike Johnson to cut the recess short and return members to Washington. Senator Tim Kaine used the moment to warn that the firing of Attorney General Pam Bondi should serve as a cautionary lesson for whoever Trump nominates next.\n\nTrump told reporters not to expect a broader Cabinet shake-up following the departures of Bondi and Kristi Noem. Democrats and some Republicans are pressing for action, but no vote is currently scheduled.",
+        "headline": "Cabinet Shake-Up Continues as DHS Funding Lapses",
+        "body": "Trump fired Attorney General Pam Bondi and Homeland Security Secretary Kristi Noem within days of each other, then told reporters not to expect further Cabinet changes. SNL mocked Bondi's departure in its cold open. Senator Tim Kaine called the firing a warning to whoever takes the job next, while Trump said he remains satisfied with his broader team.\n\nThe firings landed as DHS faces a funding lapse caused by Republican divisions in the House. Speaker Johnson and Senate Majority Leader Thune have struggled to align their caucuses, and Trump has shown little public engagement with the impasse. House Minority Leader Hakeem Jeffries called on Johnson to cancel recess and return members to Washington. The shutdown leaves DHS operations in limbo at a moment when the administration is simultaneously managing an active military conflict.",
         "sources": [
+          {
+            "title": "SNL rips Bondi’s departure in cold open",
+            "url": "https://thehill.com/media/5817305-snl-rips-bondis-departure-in-cold-open/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Republican divisions, Trump’s detachment stymie GOP efforts to reopen DHS",
             "url": "https://thehill.com/homenews/house/5815769-johnson-thune-trump-dhs-shutdown/",
@@ -102,12 +108,18 @@
             "url": "https://thehill.com/homenews/senate/5816960-kaine-bondi-firing-lesson/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Senate Democrat says Trump ‘needs a lot of prayer’",
+            "url": "https://thehill.com/homenews/senate/5816985-warock-trump-accountability-prayer-easter/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Budget Draws Fire on NASA Cuts and Defense Spending",
-        "body": "Trump's proposed federal budget is facing scrutiny from both parties. NASA's administrator stepped forward to defend deep proposed cuts to the agency, framing them as a necessary realignment toward priorities like lunar exploration - though critics argue the reductions undermine long-term American competitiveness in space.\n\nRep. Madeleine Dean used a weekend interview to challenge the budget's overall direction, linking its defense spending assumptions to the escalating Iran situation. Maryland Governor Wes Moore argued separately that ending foreign wars would do more to lower gas prices than any domestic energy policy shift.\n\nAn opinion piece in The Hill warned that Democrats risk political damage if they fail to develop a credible affordability message before the midterms, suggesting the budget fight could become a defining electoral battleground.",
+        "headline": "Trump Budget Draws Fire on NASA, Defense and Domestic Spending",
+        "body": "Trump's proposed budget is drawing scrutiny across multiple fronts. NASA's administrator defended deep proposed cuts, arguing the agency must prioritize lunar and Mars missions over legacy programs. Democrats, including Rep. Madeleine Dean, pushed back on the overall budget framework, citing cuts to domestic programs alongside rising military spending tied to the Iran conflict.\n\nMaryland Governor Wes Moore argued that ending foreign wars would do more to lower gas prices than domestic energy policy changes. An opinion piece in The Hill warned that Democrats risk losing credibility on affordability if they fail to offer concrete economic alternatives ahead of the midterms. The budget debate is shaping up as a central fault line heading into the 2026 election cycle.",
         "sources": [
           {
             "title": "Rep. Madeleine Dean discusses Iran and President Trump's proposed budget",
@@ -138,18 +150,12 @@
             "url": "https://thehill.com/opinion/energy-environment/5815286-renewable-energy-diversity-importance/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "The White House vows America will never give up the moon again",
-            "url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Democrats Eye 2028 as Khanna and Gallego Make Early Moves",
-        "body": "Arizona Senator Ruben Gallego said his party must \"look at\" a potential 2028 presidential run, stopping short of a formal declaration but signaling serious interest. His comments come as Democrats search for a post-Biden identity and a candidate capable of winning back working-class voters.\n\nRep. Ro Khanna pushed back against Democrats who argue the party should avoid engaging with unconventional media figures like streamer Hasan Piker. Khanna said that reluctance to meet voters where they are will cost the party future elections. The debate reflects a broader internal argument about outreach strategy and whether traditional media appearances are enough.",
+        "headline": "Democrats Eye 2028 as Party Debates Strategy and Outreach",
+        "body": "Arizona Senator Ruben Gallego said he is seriously considering a 2028 presidential run, telling reporters 'we have to look at it.' His potential candidacy reflects broader Democratic uncertainty about who leads the party after its 2024 losses. No formal moves have been announced.\n\nRep. Ro Khanna sparked internal debate by defending his appearance with streamer Hasan Piker, arguing that Democrats who refuse to engage with non-traditional media audiences will pay for it at the ballot box. The exchange highlights a live tension inside the party between outreach to younger, online audiences and concerns about association with controversial figures. Both debates point to a party still working out its post-Biden identity.",
         "sources": [
           {
             "title": "Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’",
@@ -168,8 +174,26 @@
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Reshapes Australian Commuting and Energy Debate",
-        "body": "Soaring fuel prices are pushing Australians toward alternatives at speed. E-bike retailers report surging sales as commuters ditch cars, while used electric vehicle prices are climbing as demand outstrips supply. Petrol station owners, caught between squeezed margins and angry customers, are questioning whether their businesses remain viable.\n\nThe crisis has a global dimension. Energy Minister Chris Bowen has called for the Strait of Hormuz to reopen after Iran began charging vessels transit fees - one ship reportedly paid US$2 million to pass. Trump has threatened to bomb Iranian power plants in response to the standoff, raising fears of further supply disruption. Australia, heavily exposed to global oil markets, faces continued price pressure if the strait remains contested.",
+        "headline": "Deeming Secures Top Victorian Liberal Ticket Spot",
+        "body": "Moira Deeming has won preselection for the top position on the Victorian Liberal Senate ticket, a result that cements her position in the party despite a prolonged internal battle. The outcome is a blow to Liberal moderates who sought to limit her influence following her attendance at a controversial anti-trans rally in 2023.\n\nDeeming's supporters argue the result reflects grassroots member sentiment and a rejection of factional interference from party leadership. Critics warn her prominence will complicate the Liberals' efforts to broaden their appeal in Victoria ahead of the next federal election. The preselection fight has exposed deep divisions within the state party that leadership has so far failed to resolve.",
+        "sources": [
+          {
+            "title": "Moira Deeming wins Victorian Liberal preselection battle",
+            "url": "https://www.abc.net.au/news/2026-04-06/vic-moira-deeming-wins-preselection/106534018",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Fuel Crisis Reshapes Australian Transport and Politics",
+        "body": "Soaring fuel prices are driving measurable shifts in Australian behaviour, with e-bike sales surging and used electric vehicle prices rising sharply as drivers seek alternatives. Petrol station owners are also feeling the squeeze, with some questioning whether their businesses remain viable under current conditions.\n\nEnergy Minister Chris Bowen has called for the reopening of the Strait of Hormuz, where Iran has been charging vessels up to US$2 million for passage - a move analysts say signals a new era of maritime economic pressure. The crisis has added urgency to the federal election debate over energy policy, with the government under pressure to demonstrate a credible response to both short-term price pain and longer-term fuel security.",
         "sources": [
           {
             "title": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
@@ -185,7 +209,7 @@
           },
           {
             "title": "Price crunch has some servo owners asking: 'Is it really worth doing this?'",
-            "url": "https://www.abc.net.au/news/2026-04-06/petrol-station-workers-bare-brunt-of-fuel-price-rise-stress/106517260",
+            "url": "https://www.abc.net.au/news/2026-04-06/petrol-station-workers-bear-brunt-of-fuel-price-rise-stress/106517260",
             "source": "ABC Australia",
             "lean": "center-left"
           },
@@ -200,25 +224,13 @@
             "url": "https://www.theguardian.com/environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Live: Trump threatens to bomb Iran power plants in expletive-laden post",
-            "url": "https://www.abc.net.au/news/2026-04-06/iran-middle-east-war-live-updates-april-6-2026/106533544",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Victorian Liberals Back Deeming; Rights Commission Probes NSW Discrimination",
-        "body": "Moira Deeming has secured the top spot on the Victorian Liberal Senate ticket, a result that cements her position within the party after a period of internal conflict with former leader Matthew Guy. Her preselection signals the party's conservative wing retains significant influence heading into the federal election.\n\nSeparately, the Australian Human Rights Commission has launched an investigation into alleged racial discrimination by the NSW government. Details of the specific conduct under scrutiny remain limited, but the probe adds to ongoing national debate about institutional treatment of Aboriginal and Torres Strait Islander people - a debate also reflected in a family court ruling ordering an Aboriginal child returned to their remote NT community after being moved 1,700 kilometres away.",
+        "headline": "Human Rights Commission Probes NSW Racial Discrimination Claim",
+        "body": "The Australian Human Rights Commission is investigating an allegation of racial discrimination against the NSW government, adding to a series of legal and political pressures on the state over its treatment of Aboriginal communities. Separately, a family court has ordered the return of an Aboriginal child moved 1,700 kilometres from their remote Northern Territory community, ruling the relocation was not in the child's best interests.\n\nThe two cases together highlight ongoing tensions between government agencies and Indigenous families over child welfare and decision-making authority. Advocates say both matters reflect systemic failures in how governments consult and engage with Aboriginal communities.",
         "sources": [
-          {
-            "title": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
           {
             "title": "Australian Human Rights Commission investigates alleged racial discrimination by NSW government",
             "url": "https://www.theguardian.com/australia-news/2026/apr/05/alleged-racial-discrimination-by-nsw-government-investigated-by-human-rights-commission",
@@ -234,42 +246,36 @@
         ]
       },
       {
-        "headline": "Youth Justice Cells Condemned; Aboriginal Rangers Tackle Biosecurity",
-        "body": "A government watchdog has called for urgent upgrades to youth detention cells it describes as harmful, warning current conditions obstruct access to justice. The findings add pressure on state governments already facing scrutiny over youth crime policy, with critics and advocates divided on whether the priority should be rehabilitation or stronger deterrence.\n\nOn country, a national conference of young Aboriginal land and sea rangers focused on practical challenges including feral animal control and biosecurity threats. Rangers play a frontline role in managing invasive species across remote Australia, and the conference highlighted growing demand for structured career pathways in the sector.",
+        "headline": "Middle East Escalation Draws Australian Diplomatic Attention",
+        "body": "Donald Trump has threatened to bomb Iranian power plants in an expletive-laden social media post, raising alarm among analysts who say his shifting statements make any coherent US strategy hard to read. US intelligence has also alleged that Chinese satellite imagery of military bases is being shared with Iran, deepening concerns about the conflict's geopolitical dimensions.\n\nIsrael has struck Christian villages in southern Lebanon with no Hezbollah affiliation, drawing international criticism. For Australia, the instability carries direct economic consequences through fuel supply chains, and the Albanese government faces pressure to articulate a clear foreign policy position as the election approaches.",
         "sources": [
           {
-            "title": "Watchdog seeks upgrade to 'harmful' youth cells to improve access to justice",
-            "url": "https://www.abc.net.au/news/2026-04-06/watchdog-calls-for-upgrade-to-harmful-youth-cells/106522446",
+            "title": "Trump's latest tirade shows timeframes 'all but meaningless'",
+            "url": "https://www.abc.net.au/news/2026-04-06/iran-israel-war-daily-news-briefing/106525578",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Feral animals, biosecurity and careers on agenda for young Aboriginal rangers",
-            "url": "https://www.abc.net.au/news/2026-04-06/aboriginal-land-and-sea-ranger-conference-south-australia/106478424",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Swift Parrot Habitat Logged; Bat Deaths Follow Cyclone Narelle",
-        "body": "A patch of Tasmanian forest where the critically endangered swift parrot was recorded calling dozens of times has been logged, raising fresh questions about the effectiveness of environmental protections for threatened species. The swift parrot is considered one of Australia's most at-risk birds, and conservationists say the incident exposes gaps between survey findings and forestry decisions.\n\nIn the Northern Territory, wildlife rescuers are responding to mass deaths of baby flying foxes following Cyclone Narelle. Hundreds of juvenile bats have been found dying near Katherine and Pine Creek, with carers stretched thin. The losses come as bilby populations show encouraging growth inside predator-free sanctuaries, offering a rare conservation bright spot over the Easter period.",
-        "sources": [
-          {
-            "title": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
-            "url": "https://www.theguardian.com/environment/2026/apr/06/the-swift-parrots-distinctive-call-was-recorded-dozens-of-times-in-a-patch-of-tasmanian-forest-then-the-forest-was-logged",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Wildlife rescuers scramble as hundreds of baby bats lie dying in outback",
-            "url": "https://www.abc.net.au/news/2026-04-06/nt-katherine-pine-creek-dead-baby-flying-foxes-cyclone-narelle/106532588",
+            "title": "Live: Trump threatens to bomb Iran power plants in expletive-laden post",
+            "url": "https://www.abc.net.au/news/2026-04-06/iran-middle-east-war-live-updates-april-6-2026/106533544",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "'Easter bilby' populations booming across sanctuaries",
-            "url": "https://www.abc.net.au/news/2026-04-06/bilby-populations-increase-across-australia/106520820",
+            "title": "Christian villages in Lebanon with no affiliation to Hezbollah attacked by Israel",
+            "url": "https://www.abc.net.au/news/2026-04-06/man-injured-in-israel-attack-south-lebanon-border-towns/106529574",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "US intelligence says Chinese satellite imagery of bases is helping Iran",
+            "url": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "One ship paid US$2m to pass Iran. Now we're looking at a new era",
+            "url": "https://www.abc.net.au/news/2026-04-06/iran-strait-of-hormuz-maritime-tollbooths/106532804",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -278,8 +284,8 @@
     ],
     "world": [
       {
-        "headline": "Iran-Israel War Escalates as Trump Threatens Hormuz Consequences",
-        "body": "The conflict between Israel and Iran has widened sharply. Iranian missiles struck a residential building in Haifa and an industrial zone in southern Israel, while Israel launched retaliatory air strikes on Iranian targets and continued pounding Lebanon, killing at least 14 people there. A US airman was rescued from a remote part of Iran during the fighting, with Trump declaring victory - though analysts warn significant threats to US operations remain.\n\nTrump followed the rescue with an expletive-laden social media post threatening Iran with 'hell' if it moves to block the Strait of Hormuz. BBC reporters near the strait described conditions on the edge of a battlefield. Iran's internet has been shut down throughout the conflict, now breaking records as the longest wartime blackout the country has seen.",
+        "headline": "US-Iran War: Airman Rescued, Hormuz Tensions Escalate",
+        "body": "A US airman stranded in a remote part of Iran has been rescued in an operation Trump is now calling a victory, though analysts warn significant threats to US forces in the region remain. Iran's internet has been shut down for a record-breaking stretch under wartime conditions, with millions cut off from outside communication.\n\nTrump followed the rescue with an expletive-laden social media post threatening Iran over any attempt to block the Strait of Hormuz, a chokepoint for roughly a fifth of global oil supply. OPEC+ responded by agreeing to hike output, while warning recovery from recent attacks on energy infrastructure will be slow. A BBC crew reporting near the strait described conditions on the edge of an active battlefield.",
         "sources": [
           {
             "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
@@ -318,28 +324,16 @@
             "lean": null
           },
           {
-            "title": "Video captures Iranian missile striking residential building in Haifa",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/video-captures-iranian-missile-striking-residential-building-in-haifa?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iranian missile strikes industrial area in southern Israel",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
-            "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
+            "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
+            "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Gaza Deteriorates as Hamas Rejects Disarmament and Strikes Continue",
-        "body": "Hamas's armed wing, the Qassam Brigades, flatly rejected demands to disarm, calling them unacceptable while Israeli air strikes continued across Gaza City. One strike hit a crowd, with footage circulating widely. Israel is simultaneously conducting operations in Gaza, Lebanon, and against Iran - a multi-front campaign drawing growing international criticism.\n\nConditions inside Gaza are worsening fast. Tent camps are overrun with rodent infestations, aid access remains severely restricted, and Christians marked Easter in mourning rather than celebration. Israel's far-right minister Itamar Ben-Gvir outlined plans for a Palestinian 'death row', adding to alarm over the direction of Israeli policy. The Pope used Easter to warn that the world is growing indifferent to violence.",
+        "headline": "Israel Strikes Gaza, Lebanon and Iran Simultaneously",
+        "body": "Israel carried out strikes across Gaza, Lebanon and Iran in the past 24 hours, killing at least 14 people in Lebanon alone. An Iranian missile struck a residential building in Haifa while another hit an industrial zone in southern Israel, marking continued direct exchanges between the two countries.\n\nIn Gaza, an Israeli airstrike hit a crowd in Gaza City as Hamas's armed wing flatly rejected disarmament demands, calling them unacceptable. Christians in Gaza marked Easter under bombardment. Tent camps are now battling rodent infestations alongside the ongoing assault. Israel's far-right minister Ben-Gvir publicly outlined plans for a Palestinian death row, drawing fresh condemnation.",
         "sources": [
           {
             "title": "Has the humanitarian crisis in Gaza been ignored?",
@@ -372,6 +366,12 @@
             "lean": null
           },
           {
+            "title": "Video captures Iranian missile striking residential building in Haifa",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/video-captures-iranian-missile-striking-residential-building-in-haifa?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
             "title": "Rodent infestations and attacks spread in Gaza tent camps",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/rodent-infestations-and-attacks-spread-in-gaza-tent-camps?traffic_source=rss",
             "source": "Al Jazeera",
@@ -384,8 +384,20 @@
             "lean": null
           },
           {
-            "title": "Pope warns world is becoming ‘indifferent’ to violence",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss",
+            "title": "Israeli air strikes, shelling across Lebanon add to rising death toll",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strikes-shelling-across-lebanon-add-to-rising-death-toll?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "At least 14 people killed in Israeli strikes across Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iranian missile strikes industrial area in southern Israel",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -398,8 +410,8 @@
         ]
       },
       {
-        "headline": "Explosives Found at Russia-Linked Gas Pipeline in Central Europe",
-        "body": "Serbia and Hungary both reported discovering explosives planted at a Russian gas pipeline running through the region. Hungary separately alleged a plot to blow up the infrastructure ahead of its upcoming election, framing the incident in political terms. The pipeline carries gas critical to both countries.\n\nThe incident raises fresh concerns about energy security in Central Europe at a time when the region remains heavily dependent on Russian supply routes. No group has claimed responsibility. Investigators in both countries are treating it as a serious sabotage attempt.",
+        "headline": "Gas Pipeline Bomb Plot Uncovered in Central Europe",
+        "body": "Serbia and Hungary say explosives were found planted on a Russian gas pipeline running through the region, with Hungary alleging the discovery is linked to a deliberate plot timed ahead of its upcoming election. No group has claimed responsibility.\n\nThe incident raises alarm across Central Europe, where energy infrastructure remains a strategic vulnerability. Hungary's government has framed the alleged plot in political terms, though independent verification of the claims is limited.",
         "sources": [
           {
             "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
@@ -416,18 +428,24 @@
         ]
       },
       {
-        "headline": "OPEC+ Boosts Output as Migrant Deaths Mount in Mediterranean",
-        "body": "OPEC+ agreed to increase oil production but cautioned that recovery from recent conflict-related disruptions to energy markets will be slow. The decision comes as fighting around the Strait of Hormuz threatens one of the world's most critical oil shipping lanes, adding pressure on global supply chains.\n\nSeparately, dozens of migrants are missing after a boat capsized near Libya in the Mediterranean. The incident is the latest in a string of deadly crossings as migration routes from North Africa remain active despite ongoing instability in the region.",
+        "headline": "Nigeria Church Attack, Libya Migrant Disaster, Ukraine-Syria Pact",
+        "body": "Nigeria's army rescued 31 hostages following an attack on a church, in the latest episode of militant violence targeting civilians in the country's troubled regions. Separately, dozens of migrants are missing after a boat capsized near Libya in the Mediterranean, adding to a grim toll of sea crossings this year.\n\nOn the diplomatic front, Ukraine and Syria announced an agreement to share military and security experience, a notable alignment between two countries both navigating active conflict and post-conflict reconstruction. Ukraine's Zelenskyy framed the deal as part of broader efforts to build security partnerships outside traditional Western channels.",
         "sources": [
           {
-            "title": "Dozens missing after boat carrying migrants capsizes near Libya",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
+            "title": "Nigeria's army rescues 31 hostages after church attack",
+            "url": "https://www.dw.com/en/nigeria-s-army-rescues-31-hostages-after-church-attack/a-76675665?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Ukraine and Syria to cooperate on security, Zelenskyy says",
+            "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
-            "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss",
+            "title": "Dozens missing after boat carrying migrants capsizes near Libya",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -442,8 +460,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Music Tools Face Copyright Backlash From Artists",
-        "body": "Suno, the AI music generator, is generating legal and ethical heat over its handling of copyrighted material. The Verge reports the platform's outputs closely mirror existing recordings, raising serious questions about how training data was sourced and whether artists consented. A separate musician has gone public claiming an AI company cloned her music and is now filing copyright claims against her - flipping the usual dynamic where artists sue platforms.\n\nTogether these cases signal that the music industry's legal reckoning with generative AI is accelerating. Unlike text or image disputes, music copyright has well-established precedent around melody and sound-alike recordings, giving artists stronger ground to stand on. Expect more litigation.",
+        "headline": "AI Music Tools Face Copyright Reckoning From Artists",
+        "body": "Suno is generating music that closely mimics real artists' styles, raising serious copyright questions that existing law is poorly equipped to answer. A musician has now gone public claiming an AI company cloned her work and is filing claims against her rather than the other way around - flipping the usual power dynamic.\n\nThe disputes expose a structural problem: AI music platforms trained on copyrighted recordings are commercially live while litigation and regulation lag years behind. Suno in particular has built a large user base before courts have settled whether its outputs infringe at all. Artists are increasingly finding that by the time legal remedies arrive, the damage is done.",
         "sources": [
           {
             "title": "Musician says AI company is cloning her music, filing claims against her",
@@ -460,21 +478,15 @@
         ]
       },
       {
-        "headline": "Microsoft Calls Copilot Entertainment, Not a Reliable Tool",
-        "body": "Microsoft's terms of service now describe Copilot as being \"for entertainment purposes only\" - a striking disclaimer for a product the company has aggressively marketed as a productivity tool embedded across Office, Windows, and enterprise software. TechCrunch flagged the language, which effectively shields Microsoft from liability if Copilot produces wrong or harmful outputs.\n\nThe framing puts Microsoft in an awkward position. It charges businesses real money for Copilot access while legally treating it as a novelty. This mirrors broader industry hedging, where AI companies tout transformative capability in marketing while quietly limiting accountability in the fine print. Users relying on Copilot for serious work should take note.",
+        "headline": "Google's Gemma 4 Arrives on Phones and Local Machines",
+        "body": "Google's Gemma 4 model is now running on iPhones via the AI Edge Gallery app and on local hardware through LM Studio's new headless CLI, paired with Claude Code for agentic workflows. The releases mark a meaningful step toward capable open models that don't require cloud infrastructure.\n\nSeparately, Qwen-3.6-Plus became the first model to cross one trillion tokens processed in a single day on OpenRouter, signaling that open and open-weight model usage is scaling fast. Meanwhile, Gemini's integration into Google Maps is drawing positive early reactions, with users reporting it handles day-planning tasks better than expected. The week underscores how quickly AI is moving from cloud APIs into everyday devices and apps.",
         "sources": [
           {
-            "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-            "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-            "source": "TechCrunch",
+            "title": "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
+            "url": "https://twitter.com/openrouter/status/2040239467865489874",
+            "source": "Hacker News",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Gemma 4 Arrives on iPhones and Local Machines",
-        "body": "Google's Gemma 4 model is now running on iPhones via the AI Edge Gallery app, and developers are also deploying it locally using LM Studio's new headless CLI alongside Claude Code. The combination points to a maturing ecosystem for running capable models entirely on-device or on local hardware, without routing data through cloud APIs.\n\nFor privacy-conscious developers and enterprises, local inference has long been the goal. Gemma 4's arrival on consumer hardware suggests the performance gap between cloud and on-device models is narrowing faster than expected. One developer documented running it end-to-end in a workflow that would have required cloud infrastructure just months ago.",
-        "sources": [
+          },
           {
             "title": "Gemma 4 on iPhone",
             "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
@@ -486,22 +498,46 @@
             "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
             "source": "Hacker News",
             "lean": null
+          },
+          {
+            "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+            "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+            "source": "The Verge",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Developers Push Back on AI-Generated Code in Open Source",
-        "body": "A software developer has published a formal policy refusing AI-generated content in their open source projects, citing concerns about code quality, provenance, and the erosion of genuine understanding among contributors. The post resonates with a broader unease captured in another piece arguing that the real danger of AI coding tools is \"comfortable drift\" - developers shipping code they no longer fully understand.\n\nThese aren't fringe positions. As AI coding assistants become default tools, open source maintainers face a practical problem: reviewing contributions where the human author may not grasp what they submitted. The debate is sharpening around accountability, not just quality.",
+        "headline": "Iran Threatens OpenAI's Abu Dhabi Data Center With Satellite Video",
+        "body": "Iran's government posted a video featuring satellite imagery of OpenAI's 1-gigawatt Stargate data center under construction in Abu Dhabi, threatening its \"complete and utter annihilation.\" The move is a direct escalation targeting the physical infrastructure behind the $30 billion project, which is central to OpenAI and SoftBank's Gulf expansion.\n\nThe threat highlights a vulnerability that hyperscale AI buildout has largely ignored: massive, fixed, high-value facilities are soft targets in geopolitically unstable regions. SpaceX is already pitching orbital data centers as a future alternative, partly on the logic that space-based infrastructure is harder to strike or sanction. Whether that pitch gains traction may depend on how seriously investors weigh the risks now on display in Abu Dhabi.",
         "sources": [
           {
-            "title": "Policy on adding AI generated content to my software projects",
-            "url": "https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/",
+            "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+            "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "The threat is comfortable drift toward not understanding what you're doing",
-            "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+            "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+            "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Microsoft Calls Copilot Entertainment, Faces GUI Strategy Critique",
+        "body": "Microsoft's terms of service now classify Copilot as being \"for entertainment purposes only,\" a legal hedge that sits awkwardly alongside the company's aggressive push to sell it as a productivity tool for enterprise customers. The disclaimer limits liability but also hands critics an obvious line of attack.\n\nThe news lands alongside a sharp essay arguing Microsoft has lacked a coherent graphical interface strategy since Charles Petzold's era, cycling through frameworks without ever committing to one. Together the two stories sketch a company that ships fast and litigates carefully but struggles to project a consistent vision of what its software is actually for.",
+        "sources": [
+          {
+            "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+            "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+            "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
             "source": "Hacker News",
             "lean": null
           }
@@ -510,21 +546,33 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Holds at $67K as Sentiment Craters Amid War Fears",
-        "body": "Bitcoin is stuck around $67,000 with market sentiment at its worst levels since the Iran conflict began, and traders are calling new lows a matter of time. Polymarket briefly showed 63% odds of a US invasion of Iran before pulling controversial related prediction markets after public backlash - a sign of how raw the geopolitical mood is right now.\n\nDespite the gloom, one structural shift is working in Bitcoin's favor. ETF-driven institutional money has changed how Bitcoin responds to macro signals - it now front-runs Federal Reserve moves rather than reacting to them, suggesting a more sophisticated investor base is setting the tone. A Bitcoin Policy Institute executive also argued this week that Bitcoin and the US dollar share a symbiotic relationship, pushing back on the zero-sum framing that dominates most macro commentary.",
+        "headline": "North Korea Behind $270M Drift Exploit, Legal Fallout Follows",
+        "body": "Drift Protocol has confirmed that a $270 million exploit was the result of a six-month intelligence operation run by North Korean state actors. The attack was not a smash-and-grab but a sustained, methodical infiltration - raising serious questions about how long the threat went undetected.\n\nA crypto attorney now says Drift may face civil negligence liability, suggesting the platform's security posture will face scrutiny in court, not just in the press. The incident underscores a warning from Ledger's CTO that AI tools are actively lowering the barrier for sophisticated attacks across the crypto industry. State-sponsored hacking and AI-assisted exploits are converging into a threat that most protocols are not built to handle.",
         "sources": [
           {
-            "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
-            "url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-enters-april-at-its-most-hated-level-since-the-war-began",
+            "title": "Crypto attorney says Drift incident may qualify as 'civil negligence'",
+            "url": "https://cointelegraph.com/news/crypto-attorney-says-drift-incident-may-qualify-as-civil-negligence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
+            "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K",
-            "url": "https://cointelegraph.com/news/new-bitcoin-price-lows-matter-of-time-says-trader-btc-stuck-67k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
+            "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
+            "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Holds at $67K as Geopolitical Pressure Mounts",
+        "body": "Bitcoin is stuck near $67,000 with traders warning that new price lows are a matter of time. Sentiment has hit its worst levels since the Iran war began, yet the price has not collapsed - a resilience that analysts attribute partly to ETF-driven institutional flows that now front-run Federal Reserve signals rather than react to them.\n\nPolymarket odds of a US invasion of Iran climbed to 63% following a Trump post, briefly drawing fresh attention to the platform before it pulled controversial Iran-related prediction markets after public backlash. The geopolitical noise is heavy, but Bitcoin's correlation with macro risk assets remains the dominant price driver. A Bitcoin Policy Institute executive described the BTC-dollar relationship as symbiotic, arguing the two assets reinforce rather than undermine each other.",
+        "sources": [
           {
             "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post",
             "url": "https://cointelegraph.com/news/polymarket-odds-us-invade-iran-2027-60-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -538,35 +586,35 @@
             "lean": null
           },
           {
+            "title": "Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec",
+            "url": "https://cointelegraph.com/news/bitcoin-us-dollar-symbiotic-relationship-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
             "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
             "url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec",
-            "url": "https://cointelegraph.com/news/bitcoin-us-dollar-symbiotic-relationship-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
+            "url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-enters-april-at-its-most-hated-level-since-the-war-began",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K",
+            "url": "https://cointelegraph.com/news/new-bitcoin-price-lows-matter-of-time-says-trader-btc-stuck-67k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "North Korea Pulled Off $270M Drift Hack Over Six Months",
-        "body": "The $270 million exploit of crypto exchange Drift was not a smash-and-grab. The platform confirmed it was a six-month North Korean intelligence operation, pointing to a level of patience and sophistication that sets it apart from typical crypto hacks.\n\nThe attack lands as Ledger's CTO warns that AI is actively making crypto's security problem worse - lowering the bar for attackers to craft convincing phishing campaigns and automate vulnerability discovery. Quantum computing adds another layer of long-term threat, with new analysis explaining how advances in the field could eventually break the cryptographic foundations Bitcoin relies on. The security picture across the industry is deteriorating on multiple fronts simultaneously.",
+        "headline": "Quantum Computing Poses Real, Long-Term Threat to Bitcoin",
+        "body": "A new explainer from CoinDesk lays out why quantum computing is a genuine long-term threat to Bitcoin's cryptographic foundations. Current quantum machines cannot break Bitcoin's encryption, but the trajectory of the technology means the window to develop post-quantum protections is finite and closing.\n\nThe concern is not theoretical panic but an engineering deadline. Bitcoin's elliptic curve signatures, which secure wallets and transactions, are vulnerable to a sufficiently powerful quantum computer. The broader crypto industry has been slow to treat this as urgent. Developers and protocol designers face a hard problem: upgrading cryptographic standards across a decentralized network without a central authority to mandate the change.",
         "sources": [
-          {
-            "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
-            "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
-            "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
-            "source": "CoinDesk",
-            "lean": null
-          },
           {
             "title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
             "url": "https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin",
@@ -576,8 +624,8 @@
         ]
       },
       {
-        "headline": "Ant Group Bets on AI Agents Transacting Directly on Crypto Rails",
-        "body": "Ant Group's blockchain division has launched a platform designed to let AI agents conduct transactions autonomously using cryptocurrency infrastructure. The move positions one of China's largest fintech players at the intersection of two of the most overhyped - and genuinely consequential - technology trends.\n\nThe practical bet here is that AI agents will need financial rails that don't require human intermediaries for every transaction, and that crypto infrastructure is better suited to that than traditional banking. It is an early-stage thesis, but Ant Group's scale gives it more weight than a typical startup pitch.",
+        "headline": "Ant Group Launches Crypto Rails for AI Agent Payments",
+        "body": "Ant Group's blockchain division has unveiled a platform that lets AI agents transact directly on crypto infrastructure. The move positions the Alibaba affiliate at the intersection of two of the most active areas in tech, autonomous AI systems and programmable money.\n\nThe platform allows AI agents to hold, send, and receive digital assets without human intermediaries at each step. That capability matters because AI agents increasingly need to pay for compute, data, and services in real time. Crypto rails offer a programmable, permissionless settlement layer that traditional payment systems cannot easily replicate. It is an early but concrete signal that AI-native financial infrastructure is being built now, not in the abstract future.",
         "sources": [
           {
             "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
@@ -586,38 +634,26 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Kiyosaki Revives 1974 Monetary Argument for Bitcoin and Gold",
-        "body": "Robert Kiyosaki is back with a historical frame, arguing that the current moment mirrors the 1974 breakdown of the Bretton Woods system and that Bitcoin and gold are the logical response. The argument is familiar - fiat currency loses purchasing power over time, hard assets win - but Kiyosaki is pointing to a specific structural shift rather than just inflation anxiety.\n\nThe timing matters. With geopolitical tension elevated and sentiment in crypto at multi-month lows, the hard-money narrative has a receptive audience even if the messenger is polarizing.",
-        "sources": [
-          {
-            "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
-            "url": "https://cointelegraph.com/news/robert-kiyosaki-1974-shift-bitcoin-gold-real-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Leek and Walnut Tart",
-      "cuisine": "Japanese-French fusion",
-      "description": "A buttery shortcrust shell filled with slow-roasted leeks lacquered in white miso and honey, topped with toasted walnuts.",
-      "tip": "Salt the leeks and let them sit for 10 minutes before roasting — it draws out moisture and intensifies their sweetness dramatically."
+      "name": "Mafaldine al Limone e Bottarga",
+      "cuisine": "Southern Italian (Sardinian-Neapolitan fusion)",
+      "description": "Ruffled ribbon pasta tossed in a bright lemon-butter sauce finished with shaved cured mullet roe",
+      "tip": "Grate the bottarga over the pasta off the heat at the very end — heat destroys its delicate briny complexity"
     },
     "exercise": {
-      "name": "The Sunday Locomotive",
-      "duration": "40 minutes",
-      "equipment": "A park, open path, or quiet street — no gear needed",
-      "description": "Alternate between 3 minutes of brisk walking, 90 seconds of skipping, and 60 seconds of walking lunges in a continuous loop, finishing with 5 minutes of slow walking and deliberate nasal breathing to wind down."
+      "name": "The Sunday Tempo Ladder",
+      "duration": "45 minutes",
+      "equipment": "Running shoes, a flat route or treadmill",
+      "description": "A structured run that climbs through three effort zones — 10 min easy, 15 min comfortably hard, 10 min hard, 10 min easy cooldown — teaching your body to shift gears rather than plod at one pace"
     },
     "learn": {
-      "topic": "Stochastic Resonance",
-      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — used by the nervous systems of crayfish, and now engineered into medical devices and hearing aids.",
-      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and once you understand it you start seeing its fingerprints in neuroscience, economics, and even how the brain processes ambiguous images."
+      "topic": "The Ship of Theseus and Personal Identity Over Time",
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same thing — philosophers from Hobbes to Parfit have weaponised it to interrogate whether *you* are the same person you were ten years ago",
+      "why": "On a quiet Sunday it's a genuinely unsettling rabbit hole: Derek Parfit's 'Reasons and Persons' reframes the question around psychological continuity and has convinced serious thinkers that personal identity is far less solid — and less important — than we assume"
     }
   }
 }
