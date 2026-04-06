@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-04-06T12:17:33.147Z",
+  "generatedAt": "2026-04-06T13:32:25.551Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Iran Ultimatum Raises War Fears and Legal Questions",
-        "body": "President Trump is pressing Iran toward a nuclear deal under a tightening deadline, with administration officials signaling the endgame is near. The Strait of Hormuz - through which roughly a fifth of global oil flows - sits at the center of the standoff, giving Iran significant leverage if talks collapse. Fox News frames the pressure campaign as nearing completion; NPR reports Trump faces a tight political spot domestically.\n\nSen. Chris Murphy called Trump's threats against Iran a 'clear war crime,' while The Hill's opinion section argued nuclear launch authority should not rest with a single person. Sen. Tim Kaine separately pushed back on Trump's $1.5 trillion military budget request. The debate cuts across legal, strategic, and constitutional lines, with no consensus in sight.",
+        "headline": "Trump Presses Iran as Ceasefire Draft Circulates",
+        "body": "Trump held press conferences Monday as his deadline for Iran to reopen the Strait of Hormuz approached, warning of consequences if Tehran refuses. Reports emerged that both the US and Iran have received a draft ceasefire proposal, suggesting back-channel diplomacy is running alongside the public pressure campaign. The Strait carries roughly a fifth of global oil traffic, making any military escalation a serious economic risk.\n\nSupporters say Trump's hardline posture is forcing Iran to the table. Critics, including NPR and Democratic Senator Tim Kaine, argue Trump is politically exposed - his $1.5 trillion military budget request faces pushback, and opinion analysts note public appetite for another Middle East conflict is limited. Some national security voices warn that nuclear decisions should not rest with one person.",
         "sources": [
+          {
+            "title": "Live updates: Trump to hold press conferences as deadline nears for Iran to open Strait of Hormuz",
+            "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Watch live: Trump briefs press ahead of deadline on Iran",
+            "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "US, Iran receive draft ceasefire proposal: Reports",
+            "url": "https://thehill.com/homenews/5817637-us-iran-ceasefire-proposal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Nuclear war shouldn’t come down to just one person — especially when it’s Trump",
             "url": "https://thehill.com/opinion/national-security/5815120-trump-iran-nuclear-threat/",
@@ -36,19 +54,43 @@
             "url": "https://www.npr.org/2026/04/06/nx-s1-5773194/sen-tim-kaine-d-va-on-trumps-1-5t-military-budget-request",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Chris Murphy on Trump’s Iran threat: ‘A clear war crime’",
-            "url": "https://thehill.com/homenews/senate/5817456-murphy-slams-trump-iran-threats/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "GOP Scrambles on ICE Funding as Internal Divisions Widen",
-        "body": "House Republicans are racing to pass a standalone bill boosting ICE and Border Patrol funding, but the push is straining an already crowded legislative agenda. The Hill reports the gambit is squeezing the broader Republican reconciliation package, with competing priorities creating friction inside the caucus. Fox News frames the effort as urgent border enforcement; critics see it as a political maneuver ahead of midterms.\n\nThe funding fight lands alongside a separate controversy: a 3-year-old immigrant child allegedly suffered sexual abuse during months in federal custody, according to the child's family. The administration has not publicly responded to the specific allegations. The two stories together are sharpening the immigration debate heading into a high-stakes election season.",
+        "headline": "Trump Backs Steve Hilton for California Governor",
+        "body": "President Trump endorsed former Fox News host Steve Hilton in the 2026 California gubernatorial race, calling him a future great governor. The endorsement hands Hilton a significant boost in a state where Republicans have struggled for decades, and sets up a sharp contrast with incumbent Governor Gavin Newsom.\n\nNewsom is already under pressure over California's high-speed rail project, which officials now admit will cost $126 billion - with no tracks yet laid. Republicans are using the figure to argue Newsom mismanaged the state's finances. Democrats counter that infrastructure projects routinely face cost revisions and that California's broader economic record remains strong.",
         "sources": [
+          {
+            "title": "Trump endorses former Fox News host Steve Hilton in California governor race",
+            "url": "https://thehill.com/homenews/campaign/5817681-donald-trump-steve-hilton-endorsement/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Newsom's California rail project now expected to cost $126B, official admits, with still no tracks laid",
+            "url": "https://www.foxnews.com/politics/newsoms-california-rail-project-expected-cost-126b-official-admits-still-tracks-laid",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "President Trump makes endorsement in California gubernatorial race: 'He will be a GREAT Governor'",
+            "url": "https://www.foxnews.com/politics/president-trump-makes-endorsement-california-gubernatorial-race-he-great-governor",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "GOP Scrambles on ICE Funding as Internal Divisions Bite",
+        "body": "House Republicans are racing to pass a standalone ICE and Border Patrol funding bill, but the push is exposing fault lines within the party. Some members want the funding folded into the broader reconciliation package, while others argue a separate vote is faster and cleaner. The standoff is slowing the overall Republican legislative agenda.\n\nThe debate reflects wider tensions over immigration strategy. A Fox News report highlights divisions over sequencing and priorities. A Hill opinion piece argues media coverage of enforcement is too soft, while a separate report details allegations that a three-year-old immigrant suffered abuse during months in federal custody - a story that Democrats are amplifying to challenge the administration's record.",
+        "sources": [
+          {
+            "title": "3-year-old immigrant suffered alleged sexual abuse during months in federal custody: Family",
+            "url": "https://thehill.com/policy/national-security/5817073-trump-administration-family-separation/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "GOP’s ICE funding gambit squeezes Republican agenda",
             "url": "https://thehill.com/homenews/house/5815556-ice-funding-dhs-reconciliation/",
@@ -60,24 +102,18 @@
             "url": "https://www.foxnews.com/politics/gop-races-pass-ice-border-patrol-funding-bill-priorities-pile-up-divisions-emerge",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "3-year-old immigrant suffered alleged sexual abuse during months in federal custody: Family",
-            "url": "https://thehill.com/policy/national-security/5817073-trump-administration-family-separation/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Anti-Trump Protests Draw Scrutiny; Democrats Face Primary Turbulence",
-        "body": "Fox News reports that the 'No Kings' protest in St. Paul was backed by a $250,000 production operation, framing the demonstration as an organized political machine rather than a grassroots event. Organizers have not disputed the spending. The story reflects a broader conservative effort to question the authenticity of anti-Trump activism.\n\nOn the Democratic side, streamer Hasan Piker's appearance at a Michigan Senate rally for Abdul El-Sayed has ignited a backlash, with critics arguing the association damages the party's image. Rep. Ayanna Pressley drew separate fire from the right for calling evictions an 'act of violence.' Meanwhile, Trump endorsed a candidate in California's gubernatorial race, and high-stakes primaries this month are set to test both parties' directions.",
+        "headline": "Democrats Eye Midterm Edge as Internal Fights Simmer",
+        "body": "Analysts at The Hill argue Democrats hold a structural advantage heading into the 2026 midterms, pointing to historical patterns and Republican headwinds on the economy and foreign policy. A Washington Post poll finds Virginia Governor Abigail Spanberger deeply divides her state just months after a landslide win, suggesting even Democratic gains carry fragility.\n\nInternally, Democrats face their own turbulence. A controversy over streamer Hasan Piker's role in a Michigan Senate primary rally is generating backlash and complicating the party's coalition-building. High-stakes primaries this month will test whether Democrats can hold together a broad base while Republicans push to consolidate their own agenda before the election cycle fully opens.",
         "sources": [
           {
-            "title": "Behind 'No Kings' St. Paul protest: $250K production machine equal to a Def Leppard concert",
-            "url": "https://www.foxnews.com/politics/behind-no-kings-st-paul-protest-250k-production-machine-equal-to-a-def-leppard-concert",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Democrats still have the edge heading into the Midterms",
+            "url": "https://thehill.com/opinion/campaign/5816157-midterms-democrats-republican-headwinds/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Hasan Piker controversy heats up Michigan Senate primary for Democrats",
@@ -86,44 +122,14 @@
             "lean": "center"
           },
           {
-            "title": "Ayanna Pressley ripped for calling evictions an 'act of violence'",
-            "url": "https://www.foxnews.com/politics/ayanna-pressley-ripped-calling-evictions-act-violence",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "President Trump makes endorsement in California gubernatorial race: 'He will be a GREAT Governor'",
-            "url": "https://www.foxnews.com/politics/president-trump-makes-endorsement-california-gubernatorial-race-he-great-governor",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
             "title": "Primary pause, political firestorm: High-stakes elections this month take center stage",
             "url": "https://www.foxnews.com/politics/primary-pause-political-firestorm-high-stakes-elections-month-take-center-stage",
             "source": "Fox News",
             "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Spanberger Approval Slips; Mail-In Voting Order Sparks Legal Fight",
-        "body": "Virginia Governor Abigail Spanberger, who won her race by a wide margin, is now deeply dividing voters just months into her term, according to a Washington Post poll. Affordability concerns are driving dissatisfaction, a warning sign for Democrats in a state they need to hold. Early popularity does not guarantee durability.\n\nStacey Abrams called Trump's executive order restricting mail-in voting 'patently illegal,' adding to a growing list of legal challenges against administration election policies. The Washington Post also reports that Trump administration secrecy around global health deals is alarming public health experts and foreign governments. Taken together, the stories point to a White House that is generating legal and institutional friction on multiple fronts simultaneously.",
-        "sources": [
+          },
           {
             "title": "Virginians deeply divided on Spanberger months after her landslide win",
             "url": "https://www.washingtonpost.com/politics/2026/04/06/virginia-spanberger-approval-poll-affordability/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Stacey Abrams on Trump’s mail-in voting order: ‘Patently illegal’",
-            "url": "https://thehill.com/homenews/administration/5817423-stacey-abrams-trump-mail-in-voting/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump administration’s secrecy on health deals alarms experts, governments",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/",
             "source": "Washington Post",
             "lean": "center-left"
           }
@@ -132,8 +138,8 @@
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Bites as Diesel Prices Stay High",
-        "body": "Australia's fuel crisis is squeezing households and regional communities despite Labor's temporary fuel tax relief. Diesel prices remain volatile, with the Guardian's tracker showing ongoing shortages and supply disruptions across the country. The government's intervention has not delivered the relief it promised.\n\nThe pain is sharpest in outback Australia. A remote Queensland pub recorded just two visitors over Easter, with the owner directly blaming fuel costs for keeping tourists away. Critics on the right argue the government's response has been slow and poorly designed, while Labor defends the relief measure as a necessary short-term fix in a tight global market.",
+        "headline": "Australia's Fuel Crisis Bites Motorists, Businesses and Outback Tourism",
+        "body": "Diesel prices remain volatile despite Labor's fuel tax relief measures, with tracking data showing ongoing supply instability across the country. The pain is spreading beyond the bowser - an outback Queensland roadhouse reported just two visitors over Easter, with owners blaming high fuel costs for keeping tourists away from remote destinations.\n\nThe Guardian's live fuel tracker shows petrol and diesel prices fluctuating sharply, with some regional areas facing both higher prices and intermittent supply. Critics on the right argue the government's relief measures are inadequate and poorly targeted, while Labor points to global oil market pressures as the primary driver. The crisis is cutting into household budgets and threatening small businesses that depend on long-distance travel.",
         "sources": [
           {
             "title": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
@@ -152,30 +158,6 @@
             "url": "https://www.theguardian.com/australia-news/2026/apr/06/petrol-diesel-price-tracker-check-fuel-australia-crisis-shortage-gas-oil-reserves-charts-graphs",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Election Season: Hanson Rises, Government Under Fire",
-        "body": "With the federal election approaching, Pauline Hanson and One Nation are drawing attention as a potential preference force. The Spectator argues Hanson's direct style is resonating with voters frustrated by major-party politics, pointing to polling that places her favourably among disaffected Australians.\n\nThe Albanese government is facing criticism from the right over what commentators describe as bureaucratic overreach and poor policy delivery. The Spectator's commentary frames the government as out of touch, while auction clearance rates hitting a four-year low add economic pressure to Labor's campaign pitch. The opposition has not yet offered a clear alternative on cost-of-living, leaving both major parties exposed.",
-        "sources": [
-          {
-            "title": "Free online therapy from a headache-inducing government",
-            "url": "https://www.spectator.com.au/2026/04/free-online-therapy-from-a-headache-inducing-government/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Pauline Hanson: straight to number one",
-            "url": "https://www.spectator.com.au/2026/04/pauline-hanson-straight-to-number-one/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Australian decadence",
-            "url": "https://www.spectator.com.au/2026/04/australian-decadence/",
-            "source": "Spectator AU",
-            "lean": "right"
           },
           {
             "title": "National auction clearance rate hits lowest point since 2022 – as it happened",
@@ -186,20 +168,56 @@
         ]
       },
       {
-        "headline": "Queensland Braces for Second Cyclone in Three Weeks",
-        "body": "Severe Tropical Cyclone Maila is tracking toward far north Queensland, potentially making landfall just weeks after Cyclone Narelle caused significant damage to the same region. Emergency services are on alert, and communities are being urged to prepare early given the compressed recovery window.\n\nThe back-to-back threat highlights the growing intensity of Australia's cyclone season. Narelle's damage is still being assessed in some areas, raising concerns about infrastructure resilience and the capacity of local services to respond to a second major event so quickly.",
+        "headline": "Cyclone Maila Threatens Far North Queensland After Narelle's Destruction",
+        "body": "A second severe tropical cyclone is bearing down on far north Queensland just three weeks after Cyclone Narelle caused significant damage to the region. Authorities are warning communities that back-to-back cyclones leave little time for recovery and infrastructure repair before the next hit.\n\nThe timing is particularly difficult for affected areas still dealing with Narelle's aftermath. Separately, a man's body was recovered after he was swept away in outback floodwaters near Innamincka, and a toddler died after being pulled from water on a Queensland property - a grim cluster of weather-related tragedies across the state over the Easter long weekend.",
         "sources": [
           {
             "title": "Severe Tropical Cyclone Maila could hit far north Queensland three weeks after Narelle tore through",
             "url": "https://www.theguardian.com/australia-news/2026/apr/06/severe-tropical-cyclone-maila-far-north-queensland",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Man’s body found after being swept away in outback flood waters",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/mans-body-found-swept-away-innamincka-outback-australia-flood",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Toddler dies after being pulled from water on Queensland property",
+            "url": "https://www.abc.net.au/news/2026-04-06/toddler-dies-tara-hospital-western-downs-drowning/106535356",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Chinese AI Aids Iran Targeting as US Pilot Rescued",
-        "body": "Chinese satellite intelligence is reportedly helping Iran strike US forces in the Middle East with greater accuracy, according to ABC reporting citing US defence sources. The development marks a significant escalation in the indirect involvement of major powers in the regional conflict.\n\nSeparately, US forces successfully rescued a downed fighter pilot from inside Iran using a deception operation, in what officials describe as a high-risk extraction. The two stories together paint a picture of a conflict growing more complex and technologically sophisticated, with direct implications for Australia's alliance commitments and regional security posture.",
+        "headline": "Hanson Preferences and Jury Trials Divide Conservative Commentators",
+        "body": "Right-leaning outlet the Spectator has published analysis arguing Pauline Hanson and One Nation are positioned to direct preferences effectively at the coming federal election, framing this as a significant factor for the Coalition's fortunes. The piece reflects ongoing debate within conservative circles about how to manage the minor-party vote.\n\nSeparately, the Spectator has run a sharp critique of proposals to scale back jury trials in Australia, arguing the move would undermine a fundamental democratic safeguard. The outlet also published commentary accusing the Albanese government of producing policies so confusing they function as unintentional satire - a line of attack the government disputes, pointing to its fuel relief and cost-of-living measures as evidence of practical action.",
+        "sources": [
+          {
+            "title": "Pauline Hanson: straight to number one",
+            "url": "https://www.spectator.com.au/2026/04/pauline-hanson-straight-to-number-one/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Scrapping jury trials will cost us all",
+            "url": "https://www.spectator.com.au/2026/04/scrapping-jury-trials-will-cost-us-all/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Free online therapy from a headache-inducing government",
+            "url": "https://www.spectator.com.au/2026/04/free-online-therapy-from-a-headache-inducing-government/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Chinese AI, Iran Conflict and US Pilot Rescue Dominate Foreign Coverage",
+        "body": "ABC reporting reveals Chinese artificial intelligence is allegedly being used to help Iranian forces target US military assets with greater precision, raising serious questions about technology transfer and the role of Beijing in Middle East hostilities. The claims add to existing tensions between Washington and both Tehran and Beijing.\n\nIn a separate development, details have emerged of a complex deception operation that allowed US forces to extract a downed fighter pilot from Iranian territory. The rescue involved coordinated misdirection to prevent capture. Both stories carry implications for Australia given its alliance commitments and its increasingly strained relationship with China.",
         "sources": [
           {
             "title": "Chinese AI helping Iran target US forces with 'incredible precision'",
@@ -218,9 +236,33 @@
     ],
     "world": [
       {
-        "headline": "US-Israel War on Iran Enters Day 38 With Strikes Escalating",
-        "body": "US and Israeli forces bombed Iran's top university on day 38 of the conflict, killing at least 34 people. Trump separately confirmed that the US armed Iranian dissidents through Kurdish intermediaries - a claim Kurdish groups deny - effectively validating Tehran's long-standing accusations about foreign-backed unrest.\n\nPakistan has proposed a two-phase truce deal, but Iran says it will not reopen the Strait of Hormuz under a temporary ceasefire. Tehran is also threatening to close the Bab al-Mandeb strait, a chokepoint for global shipping connecting the Red Sea to the Gulf of Aden. Yemen's Houthis have entered the conflict, deepening fears among Yemeni civilians of a wider regional war.\n\nTrump's so-called 'Bridge Day' ceasefire ultimatum hangs over negotiations, with analysts skeptical any last-ditch deal can hold given the scale of military operations.",
+        "headline": "US-Israel War on Iran Enters Day 38 With Heavy Strikes",
+        "body": "US and Israeli forces bombed Iran's top university on day 38 of their military campaign, killing at least 34 people. Ukraine's war has pushed the smell of conflict to St Petersburg as Kyiv hammers Russian refineries, but Iran now dominates global attention as the conflict widens.\n\nPresident Trump confirmed the US armed Iranian dissidents through Kurdish intermediaries - a claim Kurdish groups deny and one that appears to validate Iran's earlier allegations. Pakistan has proposed a two-phase truce, but Iran says it will not reopen the Strait of Hormuz under a temporary deal. Iran is also threatening to close the Bab al-Mandeb strait, a chokepoint carrying roughly 10 percent of global trade.\n\nA US air force officer was rescued from inside Iran in a covert operation, details of which emerged Monday. The Houthis have now entered the conflict, raising fears among Yemeni civilians of intensified retaliation.",
         "sources": [
+          {
+            "title": "The US could still try to play the ethnic card in Iran",
+            "url": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
+            "url": "https://www.aljazeera.com/features/2026/4/6/smell-of-war-comes-to-st-petersburg-as-ukraine-hammers-russian-refineries?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How US operation to rescue air officer from Iran unfolded",
+            "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How rescue of US airman in remote part of Iran unfolded",
+            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
             "url": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss",
@@ -268,19 +310,19 @@
             "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "A new regional order for the Strait of Hormuz",
-            "url": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Displaces 1.2 Million as Lebanon Bombardment Intensifies",
-        "body": "Israeli airstrikes have destroyed towns across southern Lebanon and hit areas around Beirut previously designated as safe zones, forcing up to 1.2 million people to flee their homes. Displaced families are sheltering in Lebanon's mountain regions, with humanitarian conditions deteriorating rapidly.\n\nThe scale of displacement rivals the worst phases of previous Lebanon conflicts. Aid organizations warn that mountain shelters are overwhelmed and that supply routes are increasingly cut off by ongoing strikes.",
+        "headline": "Israel Escalates in Lebanon, Displacing Over a Million",
+        "body": "Israeli strikes have destroyed towns across southern Lebanon and hit areas around Beirut previously designated as safe zones, forcing up to 1.2 million people to flee. Families are sheltering in mountain villages with little infrastructure to absorb them.\n\nThe assault marks a sharp escalation beyond the ceasefire lines that held through late 2025. Gaza remains under severe economic pressure in parallel, with young Palestinians unable to work as Israel restricts the territory's economy. The dual fronts in Lebanon and Gaza are stretching humanitarian capacity across the region.",
         "sources": [
+          {
+            "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
+            "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
             "url": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
@@ -298,30 +340,12 @@
             "url": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Displaced in Lebanon: 'Lives turned upside down'",
-            "url": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "DR Congo Agrees to Accept US Deportees",
-        "body": "The Democratic Republic of Congo has agreed to accept deportees from the United States, a deal that follows similar arrangements the Trump administration has pressured other nations to sign. The agreement marks a significant shift for Kinshasa, which had previously resisted US deportation demands.\n\nThe move comes as the administration continues to expand its network of deportation agreements with African and developing nations, using diplomatic and economic leverage to secure compliance.",
-        "sources": [
-          {
-            "title": "DR Congo agrees to take deportees from the US",
-            "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bangladesh Measles Deaths Prompt Emergency Vaccination Drive",
-        "body": "At least 100 children have died from suspected measles in Bangladesh within a single month, triggering an emergency vaccination campaign. Health authorities are racing to contain the outbreak, which has exposed gaps in routine immunization coverage across the country.\n\nThe deaths highlight a broader regional vulnerability to vaccine-preventable diseases, worsened by disruptions to health services in recent years. Officials have not yet confirmed whether all deaths are laboratory-verified measles cases.",
+        "headline": "Bangladesh Measles Outbreak Kills 100 Children in a Month",
+        "body": "Bangladesh has launched emergency vaccination drives after at least 100 children died from suspected measles within a single month. Health officials are racing to contain the outbreak, which has exposed gaps in routine immunisation coverage.\n\nThe scale of deaths in such a short window signals a breakdown in herd immunity in affected communities. Officials have not yet confirmed the full geographic spread of the outbreak.",
         "sources": [
           {
             "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
@@ -330,28 +354,34 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "DR Congo Agrees to Accept US Deportation Flights",
+        "body": "The Democratic Republic of Congo has agreed to accept deportees from the United States, making it one of the few African nations to formally cooperate with the Trump administration's aggressive deportation programme. The deal follows US pressure on countries to take back their nationals.\n\nThe agreement is notable given Congo's fragile political situation and ongoing internal conflict. Critics argue the US is leveraging aid and diplomatic ties to extract compliance from governments with limited room to refuse.",
+        "sources": [
+          {
+            "title": "DR Congo agrees to take deportees from the US",
+            "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
       }
     ],
     "ai": [
       {
-        "headline": "Gemma 4 Goes Local as On-Device AI Momentum Builds",
-        "body": "Google's Gemma 4 model is now running on iPhones via the AI Edge Gallery app and on desktop through LM Studio's new headless CLI, with developers sharing hands-on results this week. A separate project called Parlor demonstrates real-time audio and video input with voice output running entirely on an M3 Pro chip. No cloud, no API keys.\n\nThe trend extends further: a browser-embedded tool called Gemma Gem lets users run the model locally without any external dependencies. Together these releases mark a practical shift - capable open models are now genuinely usable on consumer hardware. The question is no longer whether local AI works, but how fast developers build around it.",
+        "headline": "Gemma 4 Goes Local: On iPhones, Macs, and Browsers",
+        "body": "Google's Gemma 4 model is showing up everywhere this week. It runs on iPhone via Google's AI Edge Gallery app, on M3 Pro Macs for real-time audio and video processing, and inside browsers without API keys or cloud dependencies. Developers are also running it locally through LM Studio's new headless CLI alongside Claude Code.\n\nThe flurry of projects signals a broader shift: capable open models are now practical on consumer hardware. That changes the economics of AI development, cutting out cloud costs and data-sharing concerns entirely. The browser-based Gemma Gem project and the Parlor voice assistant demo both show hobbyists moving fast without waiting for infrastructure.",
         "sources": [
-          {
-            "title": "Gemma 4 on iPhone",
-            "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-            "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-            "source": "Hacker News",
-            "lean": null
-          },
           {
             "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
             "url": "https://github.com/kessler/gemma-gem",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Gemma 4 on iPhone",
+            "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
             "source": "Hacker News",
             "lean": null
           },
@@ -360,47 +390,23 @@
             "url": "https://github.com/fikrikarim/parlor",
             "source": "Hacker News",
             "lean": null
+          },
+          {
+            "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+            "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+            "source": "Hacker News",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Microsoft Calls Copilot Entertainment. Employers Mine Your Salary Data.",
-        "body": "Microsoft's terms of service quietly classify Copilot as being \"for entertainment purposes only,\" a legal hedge that strips users of any reasonable expectation of reliability for professional work. It sits awkwardly alongside the company's aggressive enterprise sales pitch for the same product.\n\nMeanwhile, a MarketWatch investigation finds employers are systematically using personal data - spending habits, location history, financial signals - to calculate the lowest salary a candidate will accept before making an offer. Both stories point at the same underlying problem: AI and data tools are being deployed against users' interests while the fine print quietly disclaims responsibility.",
+        "headline": "Microsoft Calls Copilot Entertainment. Suno Faces Copyright Fire.",
+        "body": "Microsoft's terms of service quietly classify Copilot as being \"for entertainment purposes only\" - a legal hedge that contradicts how the product is marketed to businesses and developers. It raises real questions about liability when enterprises rely on the tool for code, legal drafts, or financial analysis.\n\nMeanwhile, AI music startup Suno is under scrutiny for a different kind of legal exposure. The Verge reports the platform is generating content that closely mimics copyrighted recordings, putting it at the center of an unresolved fight over what AI-generated music is actually allowed to reproduce. Both cases show the same pattern: AI companies building fast while the legal frameworks lag badly behind.",
         "sources": [
           {
             "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
             "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
             "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Employers use your personal data to figure out the lowest salary you'll accept",
-            "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Age Verification Laws Are Building a Surveillance Network",
-        "body": "A new report from the Tbote Project argues that age verification mandates, framed as child safety measures, are quietly constructing mass surveillance infrastructure. The systems being deployed require identity checks that generate persistent, linkable records of who accesses what online - far beyond what age confirmation alone would require.\n\nThe findings land as governments in the US, UK, and EU push these laws forward with little public debate about the data architecture underneath them. Once built, that infrastructure is available for other uses. The child safety framing makes opposition politically difficult, which is precisely what makes the design choices worth scrutinizing now.",
-        "sources": [
-          {
-            "title": "Age Verification as Mass Surveillance Infrastructure",
-            "url": "https://tboteproject.com/surveillancefindings/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Chip Packaging and AI Music Copyrights Reshape Industry Bets",
-        "body": "Intel is wagering that advanced chip packaging - stacking and connecting dies in novel configurations - will matter as much as raw transistor counts in the next phase of AI hardware. Wired reports the bet could be worth billions if AI workloads keep scaling and traditional fabrication hits its limits. It is an unglamorous technology with enormous leverage.\n\nOn the content side, The Verge digs into Suno's copyright exposure, finding the AI music platform sits on legally precarious ground as it generates tracks that closely mirror copyrighted recordings. Lawsuits are already in motion. Both stories reflect the same dynamic - the infrastructure layer of AI, whether silicon or content, is where the serious money and legal risk now concentrate.",
-        "sources": [
-          {
-            "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-            "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
-            "source": "Wired",
             "lean": null
           },
           {
@@ -410,23 +416,71 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Earth Mapping, Chip Packaging, and the Next AI Infrastructure Race",
+        "body": "Spain's Xoople raised $130 million in a Series B to build high-resolution geospatial data for AI applications - betting that models will need detailed, structured maps of the physical world to power logistics, climate, and autonomous systems. It is a niche that has attracted little attention compared to compute or foundation models.\n\nOn the hardware side, Wired reports that Intel is making a serious push on chip packaging technology, arguing that how chips are physically assembled and connected could matter as much as raw transistor counts in the next phase of AI scaling. Tiny Corp also teased its Exabox hardware project this week. The common thread: the infrastructure layer beneath AI models is becoming its own fierce competitive arena.",
+        "sources": [
+          {
+            "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+            "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+            "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Tiny Corp's Exabox",
+            "url": "https://twitter.com/__tinygrad__/status/2040944508402360592",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Reshapes Small Sellers, Salary Negotiations, and LLM Detection",
+        "body": "MIT Technology Review reports that AI tools from platforms like Alibaba's Accio are changing how small online sellers choose what to make and stock, shifting product decisions from gut instinct to data-driven forecasting. The gains are real but so is the dependency on platform algorithms.\n\nElsewhere, employers are reportedly using personal data - browsing history, purchase records, and more - to estimate the lowest salary a candidate will accept before making an offer. It is a quiet but significant use of data that most job seekers have no visibility into. A busy Hacker News thread also tackled how systems and humans detect LLM-written text, reflecting growing anxiety about authenticity as AI-generated content floods professional and academic contexts.",
+        "sources": [
+          {
+            "title": "AI is changing how small online sellers decide what to make",
+            "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+            "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
+            "url": "https://news.ycombinator.com/item?id=47659807",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Reclaims $69K as Iran Ceasefire Hopes Squeeze Shorts",
-        "body": "Bitcoin surged back above $69,000 Monday after reports of Iran ceasefire talks gave traders a reason to cover short positions. The move liquidated a wave of bearish bets and pushed Algorand and other altcoins higher alongside it. Prediction markets tracked the geopolitical shift in real time, with Sygnum noting that Iran war contracts have become a live macro signal for crypto traders.\n\nThe rally arrives with a caveat. One analyst warns that unless Bitcoin reclaims $75,000 and holds it, a deeper drop toward $10,000 remains a credible scenario. Bulls are watching for the first confirmed bull signal since 2025, but the market is still trading on headlines rather than fundamentals.",
+        "headline": "Bitcoin Reclaims $69K as Iran Ceasefire Talks Spark Rally",
+        "body": "Bitcoin climbed back above $69,000 Monday as reports of Iran ceasefire negotiations triggered a short squeeze, forcing bearish traders to cover positions quickly. The move came after Trump delayed an Iran deadline, easing immediate geopolitical pressure and sending crypto markets broadly higher alongside Algorand and other altcoins.\n\nAnalysts remain cautious. One warned that without a sustained reclaim of $75,000, a collapse toward $10,000 stays on the table. Prediction markets, meanwhile, are functioning as real-time macro indicators - tracking Iran war probabilities with enough precision that institutional desk Sygnum flagged them as a serious geopolitical tool. The rally has room, but the catch is clear: macro uncertainty hasn't gone away.",
         "sources": [
           {
-            "title": "Bitcoin rallies on report of Iran ceasefire talks, Algorand extends gains",
-            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains",
+            "title": "Bitcoin has room to rally, but there's a catch",
+            "url": "https://www.coindesk.com/daybook-us/2026/04/06/bitcoin-has-room-to-rally-but-there-s-a-catch",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "First real bull signal since 2025? Five things to know in Bitcoin this week",
-            "url": "https://cointelegraph.com/news/first-bull-signal-since-2025-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin rallies on report of Iran ceasefire talks, Algorand extends gains",
+            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains",
+            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -456,13 +510,31 @@
         ]
       },
       {
-        "headline": "Circle Launches Quantum-Resistant Blockchain as IMF Flags Tokenization Risk",
-        "body": "Circle unveiled Arc, a new layer-1 blockchain built with post-quantum cryptography from day one. The stablecoin issuer is positioning Arc as infrastructure that can survive the eventual arrival of quantum computers capable of breaking current encryption standards. It is a forward-looking bet, but one that signals serious long-term thinking from a firm that processes trillions in stablecoin volume.\n\nThe timing is notable. The IMF published a warning this week that tokenizing real-world assets could drag crypto-native risks into global financial markets, raising systemic concerns for regulators. Circle's quantum roadmap and the IMF's caution together frame a broader tension: institutional adoption of blockchain is accelerating, but the guardrails are still being built.",
+        "headline": "Strategy Buys $330M More Bitcoin, Holdings Near 767,000 BTC",
+        "body": "Strategy added 4,871 bitcoin for roughly $330 million, pushing its total holdings close to 767,000 BTC. The purchase ended a week-long buying pause that had prompted speculation about whether Michael Saylor was stepping back from his aggressive accumulation strategy. He wasn't.\n\nThe buy reinforces Strategy's position as the largest corporate bitcoin holder by a wide margin. Saylor had hinted at the purchase on social media before the filing confirmed it. With bitcoin still trading well below its all-time highs, the company is averaging down while betting that institutional demand will eventually drive prices significantly higher.",
         "sources": [
           {
-            "title": "IMF warns tokenization could bring crypto risks into global financial markets",
-            "url": "https://www.coindesk.com/markets/2026/04/06/imf-warns-tokenization-could-bring-crypto-risks-into-global-financial-markets",
+            "title": "Strategy added another 4,871 bitcoin for $330 million, with holdings nearing 767,000 BTC",
+            "url": "https://www.coindesk.com/markets/2026/04/06/strategy-buys-another-4-871-bitcoin-for-usd330-million-as-holdings-near-767-000-btc",
             "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Michael Saylor hints at next Strategy Bitcoin buy after weeklong pause",
+            "url": "https://cointelegraph.com/news/michael-saylor-hints-at-next-strategy-bitcoin-buy-after-weeklong-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Quantum Computing Splits Crypto: Circle Acts, Mow Warns",
+        "body": "Circle launched a quantum-resistant roadmap for its new layer-1 blockchain Arc, building post-quantum cryptography into the chain from day one rather than retrofitting it later. The move positions Arc ahead of most existing blockchains on a threat that remains theoretical but is advancing faster than many expected.\n\nNot everyone thinks urgency is the right response. Samson Mow warned that rushing a quantum fix onto Bitcoin could backfire badly, introducing new vulnerabilities in the scramble to patch old ones. The tension between acting early and acting carefully is real. Circle is betting on preparation. Mow is betting that patience beats panic.",
+        "sources": [
+          {
+            "title": "Rushed quantum fix may backfire for Bitcoin, Samson Mow warns",
+            "url": "https://cointelegraph.com/news/rushed-quantum-fix-backfire-bitcoin-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
@@ -480,30 +552,12 @@
         ]
       },
       {
-        "headline": "North Korea Has Quietly Infiltrated DeFi for Seven Years",
-        "body": "A cybersecurity researcher says North Korean operatives have been embedding themselves inside DeFi protocols since the summer of 2020, working as developers on projects that likely had no idea who they had hired. The infiltration spans countless protocols and represents a sustained, systematic effort to extract funds and intelligence from the sector.\n\nThe disclosure adds context to a string of high-profile DeFi exploits and raises hard questions about hiring practices across the industry. Meanwhile, onchain perpetual DEX volumes have fallen for five straight months since an October peak, suggesting the retail speculation that once masked such vulnerabilities is cooling fast.",
+        "headline": "Deepfakes, North Korea, and AI Threaten Crypto's Security Layer",
+        "body": "A new AI-powered cybercrime tool is targeting crypto platforms and bank KYC systems using deepfakes to bypass identity verification. The tool lowers the technical barrier for fraud significantly, putting pressure on exchanges and financial institutions that rely on document and facial checks as their primary defense.\n\nSeparately, a cybersecurity researcher revealed that North Korean operatives have been embedding themselves inside DeFi protocols for seven years - since DeFi Summer in 2020 - working on codebases across countless projects. China also ordered Apple to remove Jack Dorsey's Bitchat messaging app, which gained traction during Iran protests, from its App Store. The moves collectively highlight how state actors and criminal networks are treating crypto infrastructure as an active battlefield.",
         "sources": [
           {
-            "title": "Onchain perp DEX volumes fall for five straight months after October peak",
-            "url": "https://cointelegraph.com/news/onchain-perp-dex-volumes-decline-hyperliquid-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "North Korean workers have been infiltrating DeFi for 7 years: Researcher",
-            "url": "https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "China Pulls Dorsey's Bitchat and Pushes Blockchain Into Banking",
-        "body": "Apple removed Jack Dorsey's Bitchat messaging app from its China App Store after Beijing requested the takedown. The app gained traction during Iran protests for its encrypted, decentralized design - exactly the features that made it a target for Chinese censors. The removal follows a familiar pattern of Beijing pressuring Apple to comply with domestic content rules.\n\nIn a separate move, China's tax authority told banks to adopt blockchain for lending services, framing the technology as a tool for state oversight rather than financial freedom. The two actions in a single day capture Beijing's approach precisely: embrace blockchain where it strengthens control, and suppress it where it doesn't.",
-        "sources": [
-          {
-            "title": "China's tax authority urges banks to implement blockchain for lending services",
-            "url": "https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "New AI cybercrime tool targets crypto, bank KYC systems via deepfakes",
+            "url": "https://cointelegraph.com/news/ai-cybercrime-tool-crypto-bank-kyc-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -511,6 +565,12 @@
             "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
             "url": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
             "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "North Korean workers have been infiltrating DeFi for 7 years: Researcher",
+            "url": "https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
@@ -525,21 +585,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Cabbage Steaks",
-      "cuisine": "Japanese-inspired",
-      "description": "Thick-cut cabbage roasted until caramelised and lacquered with a sweet-salty miso and rice vinegar glaze",
-      "tip": "Press the cabbage slices dry with a cloth before roasting — moisture is the enemy of the deep char that makes this dish"
+      "name": "Miso-Glazed Black Cod",
+      "cuisine": "Japanese (Nobu-style)",
+      "description": "Silky, buttery cod fillets marinated in white miso and mirin, broiled until caramelised and lacquered",
+      "tip": "Marinate for at least 24 hours — the longer the fish sits in the miso mixture, the deeper the umami and the more dramatic the caramelisation under the broiler"
     },
     "exercise": {
-      "name": "Monday Reset: Loaded Carry Circuit",
-      "duration": "30 minutes",
-      "equipment": "Two kettlebells or heavy shopping bags, a clear corridor or outdoor path",
-      "description": "Alternate between farmer carries, suitcase carries, and overhead carries for 40-metre lengths, resting only between variations — builds grip, core stability, and real-world strength in a way machines never replicate"
+      "name": "The Monday Reset: Loaded Carry Circuit",
+      "duration": "35 minutes",
+      "equipment": "Two kettlebells or dumbbells, open floor space",
+      "description": "Cycle through farmer carries, suitcase carries, and overhead carries at varying weights to build grip strength, core stability, and posture — a brutally effective session that most people never think to do"
     },
     "learn": {
       "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to humans, whose cells, memories, and beliefs constantly change, it becomes genuinely unsettling",
-      "why": "On a Monday at the start of a new week it's a quietly powerful prompt to ask which parts of yourself are continuous and which have already been replaced without you noticing — philosophers from Locke to Parfit have wrestled with it and never fully won"
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to humans, whose cells, beliefs, and memories constantly change, it becomes genuinely unsettling",
+      "why": "On a Monday at the start of a new week, it's a sharp prompt to ask which version of yourself is showing up today — and whether continuity of identity is a fact or a useful fiction we tell ourselves"
     }
   }
 }
