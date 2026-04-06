@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-06T19:24:59.982Z",
+  "generatedAt": "2026-04-06T20:13:46.836Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Warns Iran as Rescue Mission Raises War Stakes",
-        "body": "President Trump declared Iran could be \"taken out in one night\" at a press conference Sunday, hours after the U.S. completed a high-risk mission to recover a wounded airman shot down over Iranian territory. Trump called Iran's subsequent ceasefire proposal \"significant\" but \"not good enough,\" keeping his deadline in place. Israel struck an Iranian petrochemical plant the same day, adding pressure.\n\nA House Republican predicted troop deployment is likely, while a senior GOP defense voice argued the U.S. could reopen the Strait of Hormuz without a ground invasion. JPMorgan's Jamie Dimon warned a prolonged conflict could tip the economy into recession. Sen. Bernie Sanders called Trump's threats the \"ravings of a dangerous and mentally unbalanced individual.\" Analysts note Iran may not need to win outright - simply not losing could exhaust U.S. resolve, as past conflicts have shown.",
+        "headline": "Trump Warns Iran, Calls Ceasefire Offer 'Not Good Enough'",
+        "body": "President Trump escalated pressure on Iran this week, warning the country could be 'taken out in one night' and threatening strikes on power plants and bridges. He acknowledged Iran submitted a 'significant' ceasefire proposal but rejected it as insufficient, while extending his own deadline - a move former National Security Advisor John Bolton says signals to Tehran that Trump is not serious.\n\nA House Republican predicted troop deployment is likely, while a senior GOP defense voice argued the U.S. can reopen the Strait of Hormuz without a ground invasion. Senator Bernie Sanders dismissed Trump's threats as the 'ravings of a dangerous and mentally unbalanced individual.' One Hill opinion piece warned that Iran could effectively win any prolonged conflict simply by not losing - drawing parallels to Vietnam and Afghanistan.",
         "sources": [
           {
             "title": "Live updates: Trump warns all of Iran ‘could be taken out in one night’ as he sticks to deadline",
@@ -14,8 +14,8 @@
             "lean": "center"
           },
           {
-            "title": "Trump says US will go after ‘leaker’ of info on downed pilot in Iran",
-            "url": "https://thehill.com/homenews/media/5818117-trump-rescue-mission-iran/",
+            "title": "Bolton: Trump extending deadline shows Iran ‘he’s not really serious’",
+            "url": "https://thehill.com/homenews/5818315-bolton-trump-iran-threats/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -24,18 +24,6 @@
             "url": "https://thehill.com/homenews/senate/5818119-sanders-slams-trump-iran-ravings/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump touts airman rescue mission, boasts Iran could be 'taken out in 1 night'",
-            "url": "https://www.foxnews.com/politics/trump-touts-airman-rescue-mission-boasts-iran-could-taken-1-night",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "‘God is good’: Inside the high-risk US mission to save a wounded airman shot down in Iran",
-            "url": "https://www.foxnews.com/politics/god-good-inside-high-risk-us-mission-save-wounded-airman-shot-down-iran",
-            "source": "Fox News",
-            "lean": "right"
           },
           {
             "title": "Iran could defeat the US just by not losing",
@@ -72,24 +60,48 @@
             "url": "https://www.foxnews.com/politics/trump-reveals-iran-made-significant-proposal-ultimatum-not-good-enough",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Israel hits petrochemical plant in Iran ahead of Trump deadline",
-            "url": "https://thehill.com/policy/defense/5817879-israel-strikes-iran-petrochemical-plant/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Dimon warns Iran war could sink economy into a recession",
-            "url": "https://thehill.com/business/5817802-jamie-dimon-warns-inflation-recession/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Supreme Court Sides With Bannon on Jan. 6 Conviction",
-        "body": "The Supreme Court ruled in favor of Steve Bannon Sunday, backing his bid to dismiss his January 6-related conviction. The decision marks a significant legal victory for one of Trump's closest allies and is likely to intensify debate over accountability for the Capitol riot.\n\nSeparately, Rep. Jamie Raskin demanded the Justice Department hand over details of a settlement reached with former National Security Adviser Michael Flynn. The Flynn inquiry adds to broader Democratic scrutiny of DOJ conduct under the Trump administration. Rep. Don Bacon, a Republican, also broke with his party's leadership, calling Defense Secretary Hegseth's firing of top military officers \"not morally right nor wise.\"",
+        "headline": "U.S. Rescues Downed Airman From Iran in Covert Mission",
+        "body": "American forces carried out a high-risk operation to recover a wounded airman shot down over Iran, with Trump publicly touting the mission's success. Defense Secretary Pete Hegseth drew religious comparisons, calling the rescued pilot 'a pilot reborn' and linking the mission to the Easter story - framing that drew both praise from supporters and criticism from those who saw it as inappropriate.\n\nTrump separately vowed to pursue whoever leaked details of the operation to the press, raising press freedom concerns. Former CIA Director David Petraeus, meanwhile, assessed that Russia no longer holds the upper hand in Ukraine - a separate but related signal about shifting U.S. military posture abroad.",
+        "sources": [
+          {
+            "title": "Hegseth ties Iran rescue to Easter story and Jesus Christ: 'A pilot reborn'",
+            "url": "https://www.foxnews.com/politics/hegseth-ties-iran-rescue-easter-story-jesus-christ-a-pilot-reborn",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Former CIA director: ‘Russia no longer has the upper hand’ in Ukraine war",
+            "url": "https://thehill.com/policy/defense/5818227-david-petraeus-ukraine-russia-war/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump says US will go after ‘leaker’ of info on downed pilot in Iran",
+            "url": "https://thehill.com/homenews/media/5818117-trump-rescue-mission-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump touts airman rescue mission, boasts Iran could be 'taken out in 1 night'",
+            "url": "https://www.foxnews.com/politics/trump-touts-airman-rescue-mission-boasts-iran-could-taken-1-night",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "‘God is good’: Inside the high-risk US mission to save a wounded airman shot down in Iran",
+            "url": "https://www.foxnews.com/politics/god-good-inside-high-risk-us-mission-save-wounded-airman-shot-down-iran",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Backs Bannon; Flynn Settlement Faces Scrutiny",
+        "body": "The Supreme Court sided with Steve Bannon in his bid to dismiss his January 6 contempt conviction, a significant legal win for one of Trump's closest allies. The ruling adds to a series of legal developments reshaping accountability cases tied to the Capitol riot.\n\nSeparately, Representative Jamie Raskin demanded the Justice Department hand over details of a settlement reached with Michael Flynn, raising questions about whether the DOJ is offering favorable treatment to Trump allies. Republican Representative Don Bacon also broke with the administration, calling Hegseth's firing of senior military officers 'not morally right nor wise' - a rare public rebuke from within the GOP.",
         "sources": [
           {
             "title": "Supreme Court sides with Steve Bannon in bid to dismiss Jan. 6 conviction",
@@ -112,12 +124,18 @@
         ]
       },
       {
-        "headline": "Trump Accounts Launch, BNY Named as Manager",
-        "body": "The Treasury Department named BNY as the manager for Trump Accounts ahead of the savings program's formal launch. The accounts, a signature domestic policy initiative, are designed to give Americans a new federally managed investment vehicle. Details on eligibility and contribution limits remain limited.\n\nOpenAI CEO Sam Altman separately released a policy blueprint calling for federal taxation and regulation of artificial intelligence, signaling that major tech players are moving to shape the rules before Congress does. The NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, clearing the automaker of safety concerns that had drawn regulatory attention.",
+        "headline": "AP Cuts Staff; CBS Replaces Colbert; OpenAI Proposes AI Rules",
+        "body": "The Associated Press announced it is cutting dozens of staffers as part of a restructuring, continuing a broader wave of layoffs hitting legacy news organizations. CBS confirmed that Byron Allen's 'Comics Unleashed' will take over Stephen Colbert's Late Show time slot after Colbert's departure.\n\nOn the technology front, OpenAI CEO Sam Altman released a policy blueprint calling for new taxes and regulations on artificial intelligence - a notable move given the industry's historical resistance to oversight. Federal regulators also closed their investigation into Tesla's 'Actually Smart Summon' feature, clearing the company of safety concerns tied to the semi-autonomous parking tool.",
         "sources": [
           {
-            "title": "BNY to manage Trump Accounts ahead of program’s launch",
-            "url": "https://thehill.com/business/5818134-trump-accounts-treasury-bny/",
+            "title": "Associated Press cutting dozens of staffers",
+            "url": "https://thehill.com/homenews/media/5818302-ap-restructuring-job-cuts/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "CBS announces what’s taking over Colbert’s ‘Late Show’ time slot",
+            "url": "https://thehill.com/blogs/in-the-know/5818192-byron-allen-comics-unleashed-cbs-colbert-late-show/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -134,30 +152,12 @@
             "lean": "center"
           }
         ]
-      },
-      {
-        "headline": "Late Show Era Ends; CBS Fills Colbert's Slot",
-        "body": "CBS confirmed that Byron Allen's \"Comics Unleashed\" will take over the Late Show time slot following Stephen Colbert's departure. The move ends a decade-long run for Colbert and signals a broader shift away from traditional late-night political commentary at a major broadcast network.\n\nThe decision comes as Democrats face mounting internal pressure. Opinion writers across the political spectrum note the party lacks a coherent rebuilding strategy and cannot afford to rely on Trump's stumbles alone to recover ground. The cultural and political landscape is shifting simultaneously - and neither party has a clear answer for what comes next.",
-        "sources": [
-          {
-            "title": "CBS announces what’s taking over Colbert’s ‘Late Show’ time slot",
-            "url": "https://thehill.com/blogs/in-the-know/5818192-byron-allen-comics-unleashed-cbs-colbert-late-show/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Democrats have too many troubles to cheer Trump’s failures",
-            "url": "https://thehill.com/opinion/campaign/5815549-democratic-party-rebuilding-strategy/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Cyclone Maila Threatens Far North Queensland Weeks After Narelle",
-        "body": "Severe Tropical Cyclone Maila is tracking toward Far North Queensland, threatening a region still recovering from Cyclone Narelle, which struck just three weeks ago. Authorities are monitoring the system closely as communities brace for a second major weather event in quick succession.\n\nThe back-to-back cyclones put emergency services and local infrastructure under renewed pressure. Residents in affected areas have been urged to prepare early and follow official guidance as the storm's path becomes clearer.",
+        "headline": "Cyclone Maila Bears Down on Far North Queensland",
+        "body": "Severe Tropical Cyclone Maila is forecast to cross far north Queensland, threatening a region still recovering from Cyclone Narelle just three weeks ago. Emergency services are urging residents to prepare now as the system intensifies offshore.\n\nThe back-to-back cyclone threat puts pressure on local infrastructure and emergency response capacity already stretched by the earlier event. Authorities have not yet confirmed a precise landfall location, but the far north coast remains in the danger zone. Communities from Cairns northward are on alert.",
         "sources": [
           {
             "title": "Tropical Cyclone Maila likely to cross Far North Queensland",
@@ -174,8 +174,20 @@
         ]
       },
       {
-        "headline": "Election Watch: Murdoch Son-in-Law Backs Farrer Independent Candidate",
-        "body": "Rupert Murdoch's pro-climate son-in-law is funding an independent candidate in the New South Wales seat of Farrer, adding an unusual dimension to the federal election campaign. The move highlights growing financial backing for independents from donors outside traditional party networks.\n\nThe Spectator has separately flagged Pauline Hanson's One Nation as a rising force, arguing the party is gaining momentum heading into the election. The two stories together illustrate the pressure building on major parties from both the teal independent movement and the populist right.",
+        "headline": "First Nations Voters Questioned on Identity at SA Polling Booths",
+        "body": "Aboriginal voters in South Australia report being asked to verify their Indigenous identity at polling booths during elections for the state's Voice to Parliament, with some describing the experience as humiliating. Phrases like 'are you sure?' were reportedly used by electoral officials checking rolls.\n\nCritics are calling for a formal review of the process, arguing it singles out First Nations people in a way that no other voter group faces. Supporters of the current system say roll integrity checks are standard practice. The reports reignite debate about how Indigenous-specific electoral processes are administered and whether existing safeguards create new forms of discrimination.",
+        "sources": [
+          {
+            "title": "'Are you sure?': First Nations voters asked about identity at polling booths",
+            "url": "https://www.abc.net.au/news/2026-04-07/call-to-review-sa-voice-to-parliament-voter-experience/106529974",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Murdoch Son-in-Law Funds Independent; AACo Escapes Cattle Probe",
+        "body": "Rupert Murdoch's pro-climate son-in-law Leopoldo Alejandro Betancourt Lopez is backing the independent candidate in the NSW seat of Farrer, a safe Nationals electorate. The funding adds an unusual dimension to the teal-style independent push in regional Australia, given its connection to the Murdoch family.\n\nSeparately, the Queensland government has ruled out investigating Australian Agricultural Company after the cattle giant provided assurances to regulators following the deaths of livestock from thirst. Critics say the decision lets a major agribusiness avoid scrutiny over animal welfare failures. The government argues the company's response was sufficient. Both stories raise questions about accountability - for political donors and for corporate actors - ahead of the federal election.",
         "sources": [
           {
             "title": "Pro-climate son-in-law to Rupert Murdoch backs Farrer independent",
@@ -184,19 +196,19 @@
             "lean": "center-left"
           },
           {
-            "title": "Pauline Hanson: straight to number one",
-            "url": "https://www.spectator.com.au/2026/04/pauline-hanson-straight-to-number-one/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "AACo spared investigation into cattle thirst deaths after reassuring regulators",
+            "url": "https://www.abc.net.au/news/2026-04-07/qld-government-rule-out-investigating-aaco-cattle-thirst-deaths/106516756",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "AI Risks Grow: Jobs, Environment Assessments and Robodebt Warnings",
-        "body": "Scientists are warning that using AI to prepare and evaluate environmental assessments could produce robodebt-style failures, where automated systems make consequential decisions without adequate human oversight. The concern centres on accountability gaps when errors occur at scale.\n\nSeparately, a broader examination of AI's impact on the workforce finds the technology is already reshaping employment across multiple sectors. The Spectator takes a more sceptical view of government digital initiatives, criticising what it calls a headache-inducing approach to online public services. Across the spectrum, the debate over who bears responsibility for AI-driven outcomes is sharpening.",
+        "headline": "AI Reshapes Jobs and Environmental Rules as Risks Mount",
+        "body": "Artificial intelligence is already cutting tech sector workforces, with companies reducing junior and mid-level roles as AI tools absorb tasks once done by humans. The shift is accelerating faster than many workers anticipated, and retraining pathways remain unclear.\n\nScientists are separately warning that using AI to prepare and assess environmental impact statements risks repeating the errors of the robodebt scandal - automated decisions made at scale with inadequate human oversight. The concern is that flawed AI outputs could approve harmful projects or reject valid ones before anyone notices the pattern. Both developments point to the same underlying tension: AI is moving faster than the regulatory and social frameworks designed to manage it.",
         "sources": [
           {
-            "title": "A world without work. How do we survive the AI revolution?",
+            "title": "Tech starts to eat itself as AI reshapes workforce",
             "url": "https://www.abc.net.au/news/2026-04-07/how-ai-is-already-reshaping-the-workforce/106535204",
             "source": "ABC Australia",
             "lean": "center-left"
@@ -206,38 +218,14 @@
             "url": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Free online therapy from a headache-inducing government",
-            "url": "https://www.spectator.com.au/2026/04/free-online-therapy-from-a-headache-inducing-government/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Iran War Updates: Ceasefire Rejected, Chinese AI Aids Targeting",
-        "body": "Iran has rejected a 45-day ceasefire proposal from the United States as fighting continues, with Trump separately praising the rescue of a downed US airman. The rejection signals little near-term diplomatic progress despite ongoing pressure.\n\nA significant intelligence concern has emerged alongside the conflict: reports indicate China is providing satellite data that allows Iranian forces to target US military assets with greater precision. The claim, if confirmed, would mark a serious escalation in indirect Chinese involvement in the conflict and adds a new layer to already strained US-China relations.",
-        "sources": [
-          {
-            "title": "Trump praises airman's rescue as Iran rejects 45-day ceasefire proposal",
-            "url": "https://www.abc.net.au/news/2026-04-07/iran-war-live-updates-trump-press-conference/106534506",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Chinese AI helping Iran target US forces with 'incredible precision'",
-            "url": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israeli Strikes Intensify as Iran Deadline Looms",
-        "body": "US and Israeli forces have escalated strikes across Iran, hitting residential areas, a major university, and pharmaceutical facilities. Defense Secretary Hegseth confirmed the campaign is intensifying as Trump's deadline - tied to demands over the Strait of Hormuz - approaches. Trump called the deadline final while Iran pushed a counter-proposal to end the conflict.\n\nIranians are bracing for strikes on power plants and civilian bridges, with analysts warning of catastrophic infrastructure collapse. Bombing of pharmaceutical producers is already threatening patients dependent on locally made medicines. A US airman was rescued from a remote part of Iran during the campaign, an operation Trump publicly celebrated at a White House Easter event.\n\nDemocrats condemned Trump's threat to commit what they called war crimes. Most Republicans backed the approach. North Korea, meanwhile, is keeping its distance from Tehran, according to South Korean intelligence.",
+        "headline": "US-Israeli Strikes on Iran Intensify as Hormuz Deadline Looms",
+        "body": "US and Israeli forces have struck targets across Iran including homes, a major university, and infrastructure sites, with Defense Secretary Hegseth confirming strikes are increasing. Trump has called his deadline for Iran to halt its nuclear program final, while Iran has pushed a counter-proposal to end hostilities. The strikes have left rescue teams searching rubble for survivors in residential areas.\n\nIranians are bracing for further attacks on power plants and bridges as Trump threatens to destroy critical infrastructure. Democrats have condemned the campaign as potential war crimes; Republicans are broadly supportive. North Korea, meanwhile, is keeping distance from Tehran, according to South Korean intelligence. A US airman was rescued from Iranian territory during the chaos, an operation Trump publicly celebrated at a White House Easter event.",
         "sources": [
           {
             "title": "Rescuers search for survivors after strikes hit homes in Iran",
@@ -304,19 +292,19 @@
             "url": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Bombing of Iran's pharma producers threatens patients' lives",
-            "url": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Gaza Violence Continues as WHO Worker Killed",
-        "body": "Israeli forces fired on a World Health Organization vehicle in southern Gaza, killing one person. Separately, ten people died in Israeli strikes and clashes between Hamas and a rival militia. The violence continues to grind down civilian life across the territory.\n\nA camp offering children psychological safety has drawn attention amid the relentless conflict. One grandmother described losing her entire family to Israeli attacks. The war shows no sign of pausing.",
+        "headline": "Gaza and Lebanon Bleed as Israeli Offensive Widens",
+        "body": "Israeli strikes killed at least ten people in Gaza in the past 24 hours, with fighting also erupting between Hamas and a rival militia. An Israeli army vehicle fired on a WHO convoy in southern Gaza, killing one aid worker. A grandmother described losing her entire family to the bombardment. Children in displacement camps are receiving psychological support as the humanitarian situation deteriorates.\n\nIn Lebanon, renewed Israeli strikes are accompanying a deepening ground offensive. The dual-front campaign is stretching Israeli military operations across two borders simultaneously, with civilian casualties mounting in both territories.",
         "sources": [
+          {
+            "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
             "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&amp;at_campaign=rss",
@@ -344,8 +332,8 @@
         ]
       },
       {
-        "headline": "Global Energy Crisis Deepens as Conflicts Disrupt Supply",
-        "body": "The war in Iran is sending shockwaves through global energy markets, with Asia bearing the sharpest impact as oil flows through the Strait of Hormuz remain under threat. Libya's internal oil disputes are compounding the crisis, stoking fears across Europe over supply security. Cairo has begun dimming its streets as soaring energy prices bite.\n\nUkraine struck the Russian Black Sea energy hub at Novorossiysk, adding another pressure point to an already strained global market. The convergence of conflicts across the Middle East and Eastern Europe is pushing prices to levels that are reshaping daily life far beyond the war zones.",
+        "headline": "Global Energy Crisis Deepens as Conflicts Choke Supply Routes",
+        "body": "The war in Iran and the standoff over the Strait of Hormuz are sending shockwaves through global energy markets, with Asia bearing the sharpest impact as oil supply routes face disruption. Libya's internal oil disputes are compounding the crisis, stoking energy security fears across Europe. Cairo has begun dimming city lights as electricity costs soar.\n\nUkraine struck the Russian Black Sea energy hub at Novorossiysk, adding further pressure to an already strained global supply chain. The convergence of conflicts across the Middle East and Eastern Europe is pushing energy prices to levels that are reshaping daily life from Egypt to East Asia.",
         "sources": [
           {
             "title": "How Asia became ground zero for the oil crisis",
@@ -374,19 +362,25 @@
         ]
       },
       {
-        "headline": "Artemis II Sets Record; Myanmar Junta Chief Becomes President",
-        "body": "NASA's Artemis II crew broke the record for the farthest distance humans have ever traveled from Earth, marking a milestone in the push to return people to deep space.\n\nIn Myanmar, junta chief Min Aung Hlaing was elected president, consolidating military control after years of brutal crackdown following the 2021 coup. The move raises questions about any path back to civilian governance. Elsewhere, seven Eritrean footballers failed to return home after an international match, the latest in a pattern of players seeking asylum abroad.",
+        "headline": "Russia Escalates Ukraine Strikes; Artemis II Sets Distance Record",
+        "body": "Russia has ramped up aerial strikes on Ukraine, with rescue teams pulling a child from rubble following the latest wave of attacks. The intensification comes as Ukraine conducts its own long-range strike on Novorossiysk, targeting Russian energy infrastructure on the Black Sea.\n\nOn a brighter note, NASA's Artemis II crew has broken the Apollo 13 record for the farthest distance humans have traveled from Earth, marking a milestone in the return to deep space exploration. Elsewhere, Myanmar's junta chief has been formally elected president, raising questions about the country's political trajectory, and South Korea reports that Kim Jong Un's daughter is now considered the most likely successor to lead North Korea.",
         "sources": [
           {
-            "title": "Artemis II breaks record for farthest human travel from Earth",
+            "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II breaks Apollo 13 record for farthest human travel from Earth",
             "url": "https://www.aljazeera.com/news/2026/4/6/artemis-ii-breaks-record-for-the-furthest-human-travel-from-earth?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Seven Eritrean players fail to return home after international match",
-            "url": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "North Korea: Kim's daughter now seen as likely heir — South",
+            "url": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           },
           {
@@ -401,7 +395,7 @@
     "ai": [
       {
         "headline": "Iran Threatens Stargate AI Data Centers in Abu Dhabi",
-        "body": "Iran has issued threats against OpenAI's Stargate data centers in Abu Dhabi, raising security concerns over the Gulf region's growing role as an AI infrastructure hub. The threats come as the UAE has positioned itself as a key partner in the Stargate project, which represents hundreds of billions in planned AI investment.\n\nThe timing is awkward for OpenAI, which last week published a sweeping economic vision calling for public wealth funds, robot taxes, and a four-day work week to manage AI's disruption of labor markets. Building the physical infrastructure to power that future now faces geopolitical friction that no policy paper addresses.",
+        "body": "Iran has issued threats against OpenAI's Stargate data centers in the UAE, raising security concerns for one of the most ambitious AI infrastructure projects underway. The threats come as Stargate - the joint venture backed by OpenAI, SoftBank, and Oracle - pushes to build out massive compute capacity across the Middle East and beyond.\n\nThe timing is awkward for OpenAI, which this week also published a policy vision calling for public wealth funds, robot taxes, and a four-day work week to manage AI's economic disruption. The company is simultaneously pitching a utopian AI future while its physical infrastructure faces real-world geopolitical risk.",
         "sources": [
           {
             "title": "Iran threatens ‘Stargate’ AI data centers",
@@ -424,11 +418,29 @@
         ]
       },
       {
-        "headline": "AI Coding Tools Face Backlash Over Quality and Hype",
-        "body": "Criticism of AI-assisted development is sharpening. A widely circulated essay argues that \"vibe coding\" - writing software by prompting AI without understanding the output - has become a dangerous cult, producing brittle code that developers cannot maintain or debug. The piece challenges the assumption that lowering the barrier to writing code is the same as lowering the barrier to building good software.\n\nSeparately, a growing thread on GitHub documents that Claude Code has become \"unusable for complex engineering tasks\" following Anthropic's February updates, with engineers reporting degraded reasoning and increased errors on multi-step problems. Freestyle, a new startup, is pitching sandboxed environments for AI coding agents as one structural fix - isolating agent actions before they touch production systems.",
+        "headline": "Offline AI Speech Tools Arrive From Google and Indie Developers",
+        "body": "Google quietly launched an offline-first AI dictation app for iOS, bringing on-device speech-to-text to users without requiring a cloud connection. The move signals growing demand for private, local AI processing - and Google is not alone. An independent developer separately released Ghost Pepper, a hold-to-talk speech-to-text tool for macOS that runs entirely on-device.\n\nBoth tools reflect a clear shift in user expectations. People increasingly want AI capabilities that do not send audio to remote servers. Local inference is fast enough now that the cloud is no longer a prerequisite for quality transcription.",
         "sources": [
           {
-            "title": "The Cult of Vibe Coding Is Insane",
+            "title": "Google quietly launched an AI dictation app that works offline",
+            "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS",
+            "url": "https://github.com/matthartman/ghost-pepper",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Vibe Coding Backlash Grows as Claude Code Draws Complaints",
+        "body": "A sharp essay calling the vibe coding movement \"insane\" gained traction this week, arguing that AI-assisted coding is producing a generation of developers who ship without understanding what they built. The critique lands as Anthropic faces a separate, concrete problem: users are reporting that Claude Code became significantly less capable for complex engineering tasks after a February update.\n\nThe two stories together paint a messy picture for AI coding tools. Enthusiasm is high, but reliability is uneven - and the gap between demo and production use remains wide. Freestyle, a new startup offering sandboxed environments for AI coding agents, launched this week betting that infrastructure, not the models themselves, is the missing piece.",
+        "sources": [
+          {
+            "title": "The cult of vibe coding is insane",
             "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
             "source": "Hacker News",
             "lean": null
@@ -448,26 +460,8 @@
         ]
       },
       {
-        "headline": "Google Launches Offline AI Dictation; ChatGPT Adds App Integrations",
-        "body": "Google quietly shipped an offline-first AI dictation app for iOS, processing speech entirely on-device without sending audio to the cloud. It is a notable privacy-forward move from a company that built its business on cloud data, and signals growing confidence in running capable AI models locally on consumer hardware.\n\nOpenAI moved in the opposite direction, deepening ChatGPT's connections to external services including DoorDash, Spotify, and Uber. The integrations let users trigger real-world actions through conversation. Together the two releases sketch out a split emerging in consumer AI - one path toward private, local processing, another toward AI as a universal remote for the internet.",
-        "sources": [
-          {
-            "title": "Google quietly releases an offline-first AI dictation app on iOS",
-            "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-            "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Adobe's Hosts File Manipulation Draws Sharp User Backlash",
-        "body": "Adobe has been caught silently modifying the system hosts file on users' machines to detect whether Creative Cloud is installed - a technique typically associated with malware, not enterprise software. The modification serves no user benefit and was made without disclosure, reigniting long-running frustration with Adobe's aggressive software practices.\n\nThe incident lands as a case study in eroding user trust. Developers and power users who discovered the change reacted with alarm, not because the technical impact is severe, but because the behavior treats the user's machine as Adobe's property. It is the kind of move that accelerates migration to alternatives.",
+        "headline": "Adobe's Hosts File Manipulation Fuels User Privacy Anger",
+        "body": "Adobe has been caught silently modifying the system hosts file on user machines to detect whether Creative Cloud is installed - a behavior users and security researchers are calling deceptive and overreaching. The hosts file is a sensitive system resource, and altering it without clear disclosure crosses a line many consider fundamental to software trust.\n\nThe backlash is fierce. For a company already under scrutiny over its subscription practices and data-use policies, this is another self-inflicted wound. It reinforces a broader pattern of enterprise software vendors treating user machines as extensions of their own infrastructure.",
         "sources": [
           {
             "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
@@ -480,9 +474,15 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Hovers Near $70K as Iran Tensions Drive Volatility",
-        "body": "Bitcoin climbed above $70,000 Monday before profit-taking pulled it back, with geopolitical noise doing most of the driving. Trump's ultimatum to Iran rattled markets early, but reports of ceasefire talks sparked a quick rally - illustrating how sensitive crypto has become to macro headlines.\n\nAnalysts see contrarian bottoming signals building, including weakening bearish momentum and thin short positioning. Whether that translates into a sustained move toward $75,000 depends heavily on how the Iran situation develops and whether broader risk appetite recovers. Prediction markets are now tracking Iran war probabilities in real time, functioning as a live macro sentiment gauge for traders.",
+        "headline": "Bitcoin Hovers Near $70K as Geopolitics Drive Swings",
+        "body": "Bitcoin climbed above $70,000 Monday before profit-taking pulled it back, with Trump's ultimatum to Iran driving much of the volatility. Reports of ceasefire talks sparked a brief rally, while prediction markets emerged as real-time gauges of war risk - with traders watching Iran bets as closely as any macro indicator.\n\nThe options market tells a more cautious story. Traders are quietly pricing significant downside protection, even as contrarian signals suggest a potential bottom is forming. Analysts see room to rally but flag profit-taking pressure and macro uncertainty as the key obstacles.\n\nStrategy added another 4,871 BTC for $330 million, pushing holdings near 767,000 BTC despite paper losses topping $14.5 billion in Q1. The buy signals institutional conviction remains intact, whatever the short-term noise.",
         "sources": [
+          {
+            "title": "Bitcoin options market is quietly pricing a major downside move",
+            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Can Trump’s ultimatum to Iran push Bitcoin price back up to $75K?",
             "url": "https://cointelegraph.com/news/can-trump-ultimatum-iran-push-bitcoin-price-back-up-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -499,6 +499,24 @@
             "title": "Bitcoin profit taking keeps BTC below $70K as Trump doubles down on Iran",
             "url": "https://cointelegraph.com/news/bitcoin-profit-taking-keeps-btc-below-70k-trump-doubles-down-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
+            "url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Strategy added another 4,871 bitcoin for $330 million, with holdings nearing 767,000 BTC",
+            "url": "https://www.coindesk.com/markets/2026/04/06/strategy-buys-another-4-871-bitcoin-for-usd330-million-as-holdings-near-767-000-btc",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin has room to rally, but there's a catch",
+            "url": "https://www.coindesk.com/daybook-us/2026/04/06/bitcoin-has-room-to-rally-but-there-s-a-catch",
+            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -522,32 +540,8 @@
         ]
       },
       {
-        "headline": "Strategy Buys More Bitcoin While Sitting on $14.5B Loss",
-        "body": "Strategy added 4,871 bitcoin for $330 million last week, pushing its total holdings to nearly 767,000 BTC. The purchase came despite the firm reporting paper losses exceeding $14.5 billion in Q1 - a figure that underscores just how exposed the company is to price swings.\n\nThe buy signals continued conviction from Michael Saylor's firm, but it also raises questions about risk tolerance at that scale. Meanwhile, Bitmine moved its stock listing to the NYSE as its ether treasury hit 4.8 million ETH, suggesting the corporate crypto treasury model is spreading well beyond bitcoin.",
-        "sources": [
-          {
-            "title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
-            "url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitmine's ether treasury hits 4.8 million ETH as stock listing moves to NYSE",
-            "url": "https://www.coindesk.com/markets/2026/04/06/bitmine-s-ether-treasury-hits-4-8-million-eth-as-stock-listing-moves-to-nyse",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Strategy added another 4,871 bitcoin for $330 million, with holdings nearing 767,000 BTC",
-            "url": "https://www.coindesk.com/markets/2026/04/06/strategy-buys-another-4-871-bitcoin-for-usd330-million-as-holdings-near-767-000-btc",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Dimon Warns on Tokenization Rivals as IMF Flags Systemic Risk",
-        "body": "Jamie Dimon used JPMorgan's annual letter to warn that blockchain and stablecoins are producing real competitors - and that the bank needs to move faster. JPMorgan already runs Kinexys, its own tokenization platform, but Dimon's tone suggests urgency rather than comfort.\n\nThe IMF pushed back from the other direction, warning that tokenization could drag crypto's volatility and liquidity risks into mainstream financial markets. China's tax authority separately urged banks to adopt blockchain for lending. The convergence of Wall Street ambition, regulatory caution, and state-level adoption is reshaping how seriously institutions treat the technology - even as they disagree sharply on the risks.",
+        "headline": "Dimon Warns JPMorgan Must Move Faster on Tokenization",
+        "body": "Jamie Dimon used JPMorgan's annual letter to flag blockchain and stablecoins as genuine competitive threats, pointing to the bank's own Kinexys platform as evidence the firm is moving - but warning it needs to move faster. The IMF echoed the urgency from a different angle, cautioning that tokenization could drag crypto-market risks into the heart of global finance.\n\nBernstein analysts argued tokenized credit could double Figure Technology's stock price, while China's tax authority pushed banks to adopt blockchain for lending. The institutional embrace of tokenization is accelerating on multiple fronts simultaneously.\n\nThe tension is clear: legacy finance sees tokenization as both opportunity and existential threat, while regulators are still working out whether the plumbing is safe enough to carry systemic weight.",
         "sources": [
           {
             "title": "JPMorgan's Jamie Dimon sees ‘new competitors’ from blockchain,  stablecoins",
@@ -582,9 +576,15 @@
         ]
       },
       {
-        "headline": "US Crypto Legislation Advances as Prediction Markets Win in Court",
-        "body": "A Senate Banking Committee member confirmed an April timeline for crypto market structure legislation, adding momentum to what has been a slow-moving regulatory process. Clear rules on asset classification remain the central sticking point between lawmakers and the industry.\n\nOn the markets side, a federal appeals court blocked New Jersey from shutting down Kalshi's sports prediction markets, a significant legal win for the sector. Polymarket also launched a full exchange upgrade, taking direct control of its order book and oracle systems. Together, the moves suggest prediction markets are maturing fast - legally and technically - just as Washington starts to catch up.",
+        "headline": "US Crypto Legislation Gets April Timeline, Aave Loses Risk Manager",
+        "body": "A US Senate Banking Committee member confirmed an April target for crypto market structure legislation, giving the industry its clearest regulatory timeline yet. The news arrives as the sector pushes hard for rules that would clarify which assets are securities and which are commodities.\n\nInside DeFi, Aave is dealing with a messier situation. Chaos Labs, one of its key risk managers, has departed amid a broader contributor exodus and unresolved disputes - raising questions about governance stability at one of the protocol's most critical junctures.\n\nMeanwhile, Polymarket launched a full exchange upgrade to take direct control of its trading infrastructure and data feeds, and an appeals court blocked New Jersey from shutting down Kalshi's sports prediction markets. Prediction platforms are quietly accumulating both technical and legal wins.",
         "sources": [
+          {
+            "title": "Aave loses key risk manager, Chaos Labs, amid contributor exodus and disputes",
+            "url": "https://www.coindesk.com/tech/2026/04/06/aave-loses-key-risk-manager-chaos-labs-amid-contributor-exodus-and-disputes",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "US Senate Banking panel member confirms April timeline for crypto market structure",
             "url": "https://cointelegraph.com/news/us-senator-bill-hagerty-timeline-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -604,26 +604,50 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "AI Deepfakes Target Crypto KYC as Quantum Risk Debate Heats Up",
+        "body": "A new AI-powered cybercrime tool is exploiting deepfakes to defeat KYC systems at crypto exchanges and banks, adding a sharp edge to concerns about identity verification in an era of synthetic media. The threat is practical and immediate, not theoretical.\n\nOn a longer time horizon, Samson Mow warned that rushing a quantum-computing fix into Bitcoin could backfire badly, arguing that a poorly implemented patch poses more danger than the quantum threat itself. The debate reflects a broader tension between acting early and acting carefully on low-probability, high-impact risks.\n\nElsewhere, a solo Bitcoin miner beat 1-in-28,000 odds to claim a $210,000 block reward - a reminder that the network's fundamentals keep ticking regardless of the noise above.",
+        "sources": [
+          {
+            "title": "Solo bitcoin miner overcomes 1-in-28,000 odds to secure $210,000 block reward",
+            "url": "https://www.coindesk.com/tech/2026/04/06/solo-bitcoin-miner-overcomes-1-in-28-000-odds-to-secure-usd210-000-block-reward",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "New AI cybercrime tool targets crypto, bank KYC systems via deepfakes",
+            "url": "https://cointelegraph.com/news/ai-cybercrime-tool-crypto-bank-kyc-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Rushed quantum fix may backfire for Bitcoin, Samson Mow warns",
+            "url": "https://cointelegraph.com/news/rushed-quantum-fix-backfire-bitcoin-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Cabbage Steaks",
-      "cuisine": "Japanese-inspired",
-      "description": "Thick-cut cabbage slabs roasted until caramelised and lacquered with a sweet-salty miso butter glaze",
-      "tip": "Press the cabbage slices dry before roasting and use the highest oven heat you have — the char on the edges is the whole point"
+      "name": "Miso-Glazed Black Cod",
+      "cuisine": "Japanese (Nobu-style)",
+      "description": "Silky, caramelised fish fillets marinated in white miso, mirin, and sake then broiled until lacquered and golden",
+      "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust when it hits the heat"
     },
     "exercise": {
-      "name": "The Monday Reset: Loaded Carry Circuit",
-      "duration": "30 minutes",
-      "equipment": "Two kettlebells or heavy dumbbells, a clear corridor or outdoor path",
-      "description": "Alternate between farmer carries, suitcase carries, and overhead carries for timed sets, building grip strength, core stability, and posture after a weekend of likely sitting"
+      "name": "The Viking Row",
+      "duration": "28 minutes",
+      "equipment": "Rowing machine",
+      "description": "Six hard 3-minute rowing intervals at near-maximum effort, each separated by 90 seconds of slow recovery rowing, bookended by a 2-minute warm-up and cool-down — brutal on the lungs, kind to the joints"
     },
     "learn": {
-      "topic": "Stochastic Resonance",
-      "description": "Stochastic resonance is the counterintuitive phenomenon where adding a precise amount of random noise to a weak signal actually makes that signal easier to detect — it has been observed in neurons, sensory systems, and even climate models",
-      "why": "It quietly dismantles the assumption that noise is always the enemy of clarity, and once you understand it you start noticing its fingerprints in biology, engineering, and perception science everywhere"
+      "topic": "The Ship of Theseus and Personal Identity",
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — philosophers have extended this to human cells, memories, and consciousness itself",
+      "why": "On a Monday in early April it is oddly grounding to sit with the question of whether the you who woke up this morning is the same person who went to sleep last night — Derek Parfit's modern take in 'Reasons and Persons' will genuinely unsettle your assumptions about continuity and what you owe your future self"
     }
   }
 }
