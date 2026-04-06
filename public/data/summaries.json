@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-04-06T15:17:54.234Z",
+  "generatedAt": "2026-04-06T16:16:59.522Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Iran Rejects US Proposal as Hormuz Deadline Looms",
-        "body": "Iran dismissed a US ceasefire proposal as 'unrealistic' ahead of Trump's self-imposed deadline for the country to open the Strait of Hormuz. Trump held press conferences Monday to address the standoff, signaling he is prepared to escalate. A draft ceasefire proposal has reportedly been circulated, but Tehran's rejection leaves the path forward unclear.\n\nJPMorgan CEO Jamie Dimon warned that a war with Iran could tip the US economy into recession, citing inflation risks and energy market disruption. Opinion writers have raised separate alarms about nuclear decision-making, arguing that war powers of this magnitude should not rest with a single person. The standoff is shaping up as one of the most consequential foreign policy tests of Trump's second term.",
+        "headline": "Trump Presses Iran as Deadline Looms and Talks Stall",
+        "body": "President Trump held a press conference Sunday after posting a profanity-laced ultimatum demanding Iran open the Strait of Hormuz. Iran rejected the US proposal as 'unrealistic,' while Trump said Tehran had made a 'significant proposal' of its own - but called it 'not good enough.' Talks remain deadlocked.\n\nIsrael struck an Iranian petrochemical plant ahead of the US deadline, raising the stakes further. JPMorgan CEO Jamie Dimon warned that a war with Iran could tip the US economy into recession. Supporters of Trump's hardline approach say maximum pressure is working; critics argue the brinkmanship risks a conflict with severe economic consequences.",
         "sources": [
+          {
+            "title": "Trump set to hold press conference after profanity-laced post on Iran",
+            "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump reveals Iran made 'significant proposal' after ultimatum, but 'not good enough'",
+            "url": "https://www.foxnews.com/politics/trump-reveals-iran-made-significant-proposal-ultimatum-not-good-enough",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Israel hits petrochemical plant in Iran ahead of Trump deadline",
+            "url": "https://thehill.com/policy/defense/5817879-israel-strikes-iran-petrochemical-plant/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Live updates: Trump to hold press conferences as deadline nears for Iran to open Strait of Hormuz",
             "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Dimon warns Iran war could sink economy into a recession",
+            "url": "https://thehill.com/business/5817802-jamie-dimon-warns-inflation-recession/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -24,30 +48,12 @@
             "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "US, Iran receive draft ceasefire proposal: Reports",
-            "url": "https://thehill.com/homenews/5817637-us-iran-ceasefire-proposal/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Dimon warns Iran war could sink economy into a recession",
-            "url": "https://thehill.com/business/5817802-jamie-dimon-warns-inflation-recession/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Nuclear war shouldn’t come down to just one person — especially when it’s Trump",
-            "url": "https://thehill.com/opinion/national-security/5815120-trump-iran-nuclear-threat/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Supreme Court Clears Way for Bannon Conviction Dismissal",
-        "body": "The Supreme Court sided with Steve Bannon Monday, clearing the path for his contempt of Congress conviction to be dismissed. The ruling follows a Trump pardon and applies similar logic to a separate case involving a former Cincinnati city councilman also pardoned by Trump. The court did not rule on the underlying merits of either contempt charge.\n\nCritics argue the decisions set a troubling precedent for congressional oversight power. Supporters say the pardons were lawful exercises of executive authority and the courts are simply following established procedure. The rulings add to a broader pattern of Trump-era legal cases being unwound through the pardon power.",
+        "headline": "Supreme Court Clears Path to Dismiss Bannon Conviction",
+        "body": "The Supreme Court sided with Steve Bannon on Sunday, clearing the way for his contempt of Congress conviction to be dismissed. The ruling follows Trump's pardon of Bannon and applies similar logic to a separate case involving a pardoned former Cincinnati city councilman convicted of bribery.\n\nSupporters say the decisions reflect the proper scope of presidential pardon power. Critics argue the rulings shield Trump allies from accountability for defying congressional oversight. The court also returned a separate state-secrets privilege case to a lower court, adding to a busy day of consequential rulings.",
         "sources": [
           {
             "title": "Supreme Court sides with Steve Bannon in bid to dismiss Jan. 6 conviction",
@@ -56,38 +62,44 @@
             "lean": "center-left"
           },
           {
+            "title": "Supreme Court returns state-secrets privilege case to lower court",
+            "url": "https://thehill.com/regulation/court-battles/5817736-supreme-court-declines-state-secrets-review/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
             "title": "Supreme Court clears the way for Bannon contempt case to be dismissed",
             "url": "https://www.npr.org/2026/04/06/nx-s1-5647647/supreme-court-bannon",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Supreme Court paves way for dismissal of Steve Bannon contempt of Congress case",
-            "url": "https://thehill.com/homenews/5817721-supreme-court-steve-bannon-conviction/",
+            "title": "Supreme Court clears way for dismissal in case of ex-Cincinnati City Council member pardoned by Trump",
+            "url": "https://thehill.com/regulation/court-battles/5817731-cincinnati-councilman-bribery-pardon-supreme-court/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Supreme Court clears way for dismissal in case of ex-Cincinnati City Council member pardoned by Trump",
-            "url": "https://thehill.com/regulation/court-battles/5817731-cincinnati-councilman-bribery-pardon-supreme-court/",
+            "title": "Supreme Court paves way for dismissal of Steve Bannon contempt of Congress case",
+            "url": "https://thehill.com/homenews/5817721-supreme-court-steve-bannon-conviction/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Democrats Target State Legislatures, Eye Midterm Advantage",
-        "body": "Democrats announced their first slate of state legislative targets ahead of November, with the DLCC identifying Republican-held seats it believes are in play. Analysts writing in The Hill argue Democrats still hold a structural edge heading into the midterms, pointing to historical patterns of opposition-party gains and Republican headwinds on policy.\n\nA separate challenge is emerging on the media front. Democratic strategists are grappling with the growing influence of right-leaning podcasters, a space Republicans have dominated since 2024. Some argue the party has been slow to adapt its communications strategy to meet voters where they now get their news.",
+        "headline": "Democrats Plot Comeback While Debating Their Own Weaknesses",
+        "body": "Democrats announced their first slate of state legislative targets ahead of November's midterms, focusing on flipping Republican-held seats. Party strategists argue structural headwinds still favour Democrats, pointing to voter backlash against Trump-era policies.\n\nBut internal critics are less optimistic. Several analysts warn the party is too quick to celebrate Trump's stumbles rather than rebuilding a coherent message. A separate piece flags the rise of right-leaning podcasters as a media force Democrats have failed to counter effectively. The picture is of a party with real electoral opportunities but unresolved questions about strategy and identity.",
         "sources": [
           {
-            "title": "Democrats announce first slate of state legislative targets ahead of November",
-            "url": "https://thehill.com/homenews/campaign/5817709-dlcc-targets-gop-state-legislature-seats/",
+            "title": "Democrats have too many troubles to cheer Trump’s failures",
+            "url": "https://thehill.com/opinion/campaign/5815549-democratic-party-rebuilding-strategy/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Democrats still have the edge heading into the Midterms",
-            "url": "https://thehill.com/opinion/campaign/5816157-midterms-democrats-republican-headwinds/",
+            "title": "Democrats announce first slate of state legislative targets ahead of November",
+            "url": "https://thehill.com/homenews/campaign/5817709-dlcc-targets-gop-state-legislature-seats/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -96,16 +108,28 @@
             "url": "https://thehill.com/opinion/campaign/5816706-maga-media-political-shift/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Democrats still have the edge heading into the Midterms",
+            "url": "https://thehill.com/opinion/campaign/5816157-midterms-democrats-republican-headwinds/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Endorses Hilton, Offshore Drilling Rules Rolled Back",
-        "body": "Trump endorsed former Fox News host Steve Hilton in the California governor's race, injecting a high-profile name into a contest that could test Republican competitiveness in the nation's largest state. Hilton would face a steep climb in a heavily Democratic electorate. Meanwhile, California's high-speed rail project drew fresh scrutiny after an official admitted costs have ballooned to $126 billion with no tracks yet laid.\n\nOn the regulatory front, the Trump administration moved to recombine two federal offshore drilling agencies that were separated after the 2010 Deepwater Horizon disaster. Environmental groups warned the merger weakens safety oversight. Supporters say it streamlines permitting and reduces bureaucratic duplication.",
+        "headline": "AI Rules, Tesla Probe, and California Rail Costs Dominate Tech and Policy",
+        "body": "OpenAI CEO Sam Altman released a policy blueprint calling for federal taxes and regulations on artificial intelligence, a notable move from a leading industry figure. The proposal puts AI governance back on the legislative agenda at a moment when Congress has struggled to act.\n\nElsewhere, federal regulators closed their investigation into Tesla's 'Actually Smart Summon' feature, finding no grounds to proceed. And California's high-speed rail project now carries an estimated price tag of $126 billion, with no tracks yet laid - a figure that drew sharp criticism from fiscal conservatives and renewed questions about the project's viability.",
         "sources": [
           {
-            "title": "Trump endorses former Fox News host Steve Hilton in California governor race",
-            "url": "https://thehill.com/homenews/campaign/5817681-donald-trump-steve-hilton-endorsement/",
+            "title": "OpenAI’s Altman releases blueprint for taxing, regulating artificial intelligence",
+            "url": "https://thehill.com/policy/technology/5817906-openai-ai-policy-recommendations/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Regulator closes investigation into Tesla ‘actually smart summon’ feature",
+            "url": "https://thehill.com/policy/technology/5817880-nhtsa-tesla-smart-summon-investigation-closed/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -114,20 +138,14 @@
             "url": "https://www.foxnews.com/politics/newsoms-california-rail-project-expected-cost-126b-official-admits-still-tracks-laid",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Trump administration recombining two federal agencies separated after Gulf oil spill",
-            "url": "https://thehill.com/policy/energy-environment/5817845-offshore-drilling-gulf-of-mexico-oil-gas/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Bites Tourism, Commuters as Costs Spiral",
-        "body": "Soaring fuel prices are reshaping how Australians move and travel. Sydney commuters are abandoning cars for bikes in growing numbers, citing costs they describe as unsustainable. The shift is visible on city roads and in cycling retail.\n\nRegional tourism is hurting badly. An outback Queensland roadhouse that typically draws Easter crowds reported just two visitors over the long weekend. Operators say the fuel price pinch is keeping travellers close to home, threatening businesses that depend on holiday traffic.\n\nNo government response has been announced. The squeeze is hitting both urban and remote communities, though in very different ways.",
+        "headline": "Fuel Crisis Bites Tourism and Commuters Across Australia",
+        "body": "Soaring fuel prices are reshaping daily life and regional economies. Sydney commuters are abandoning cars for bikes in growing numbers, while an outback pub in remote Queensland recorded just two visitors over Easter - a stark sign of how cost pressures are keeping travellers home.\n\nThe shift is not just inconvenient. Remote communities that depend on tourist traffic face real economic strain, and small operators have little buffer against prolonged downturns. The fuel crisis is quietly redrawing where Australians go and how they get there.",
         "sources": [
           {
             "title": "Cars make way for bikes as Sydney commuters saddle up to circumvent ‘crazy’ fuel costs",
@@ -144,20 +162,8 @@
         ]
       },
       {
-        "headline": "AI in Environmental Reviews Draws Robodebt Comparisons",
-        "body": "Scientists are warning that using artificial intelligence to prepare and assess environmental impact statements risks repeating the failures of the robodebt scheme. Their concern is that automated systems will produce confident-sounding but flawed conclusions, with real consequences for ecosystems and communities before errors are caught.\n\nThe robodebt comparison is pointed. That scheme used automated data-matching to issue welfare debt notices, many of them wrong, causing serious harm before courts intervened. Researchers argue environmental assessments carry similar risks if human expert judgment is removed from the process.\n\nThe warning comes as governments look to speed up approval processes. Critics say cutting corners on scrutiny is precisely what makes large-scale automated failures possible.",
-        "sources": [
-          {
-            "title": "Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say",
-            "url": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
         "headline": "Cyclone Maila Threatens Far North Queensland Again",
-        "body": "A second severe tropical cyclone is bearing down on far north Queensland just three weeks after Cyclone Narelle caused significant damage to the region. Cyclone Maila has been upgraded to severe status, raising fears that communities still recovering from Narelle have little time to prepare.\n\nBack-to-back cyclones in the same area within weeks is unusual and stretches emergency resources. Authorities have not yet confirmed a precise landfall location, but the far north coast is in the projected path. Residents are being urged to monitor warnings closely.\n\nThe timing compounds an already difficult recovery period for affected towns and infrastructure.",
+        "body": "A second severe tropical cyclone in three weeks is bearing down on far north Queensland. Cyclone Maila is tracking toward the same region battered by Cyclone Narelle in mid-March, raising serious concerns about compounding damage to infrastructure and communities still recovering.\n\nEmergency services and residents face the grim prospect of responding to a major weather event before the last one is fully dealt with. The back-to-back cyclones will test the capacity of state and federal disaster response systems and renew debate about climate resilience in northern Australia.",
         "sources": [
           {
             "title": "Severe Tropical Cyclone Maila could hit far north Queensland three weeks after Narelle tore through",
@@ -168,28 +174,40 @@
         ]
       },
       {
-        "headline": "Jury Trial Debate and Hanson Preferences Stir Political Commentary",
-        "body": "Conservative commentators are raising two distinct political concerns this Easter Monday. The Spectator has published a piece arguing that moves to scrap jury trials in certain cases represent a serious erosion of civil liberties, warning that efficiency-driven court reforms carry long-term democratic costs.\n\nSeparately, commentary on Pauline Hanson and One Nation's preference flows is circulating ahead of the federal election cycle. Right-leaning analysts argue Hanson's positioning gives her outsized influence over preference deals, while critics question whether major parties should accept or direct One Nation preferences at all.\n\nThe two debates reflect broader tensions on the right between libertarian instincts and electoral pragmatism. Neither major party has responded publicly to the commentary.",
+        "headline": "AI in Government Decision-Making Draws Robodebt Comparisons",
+        "body": "Scientists are warning that using artificial intelligence to prepare and evaluate environmental impact assessments risks repeating the failures of the robodebt scheme. Their concern centres on AI systems producing outputs that appear authoritative but contain errors that go unchecked - with potentially serious consequences for ecosystems and affected communities.\n\nThe Spectator, from the right, separately criticises the government's rollout of free online mental health services as emblematic of bureaucratic overreach. Both critiques, from opposite ends of the spectrum, point to a shared anxiety: that automated or remote government services can cause harm when accountability is weak.",
         "sources": [
           {
-            "title": "Scrapping jury trials will cost us all",
-            "url": "https://www.spectator.com.au/2026/04/scrapping-jury-trials-will-cost-us-all/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say",
+            "url": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Pauline Hanson: straight to number one",
-            "url": "https://www.spectator.com.au/2026/04/pauline-hanson-straight-to-number-one/",
+            "title": "Free online therapy from a headache-inducing government",
+            "url": "https://www.spectator.com.au/2026/04/free-online-therapy-from-a-headache-inducing-government/",
             "source": "Spectator AU",
             "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Timor-Leste Linked to Alleged Sanctioned Scam Network",
+        "body": "An investigation has revealed alleged links between Timor-Leste and a sanctioned criminal empire accused of running large-scale online scam operations. The report points to private jet travel, undeveloped resort land and remote coastal sites as part of a network with ties to the Prince Group, a conglomerate already subject to international sanctions.\n\nThe findings raise questions about oversight in Australia's near region and the role of foreign investment in Pacific and Southeast Asian nations with limited regulatory capacity. Australia has strategic and development interests in Timor-Leste, and the allegations add pressure on policymakers to scrutinise financial flows in the region more closely.",
+        "sources": [
+          {
+            "title": "Private jets, deserted shores and an unbuilt resort: alleged links to sanctioned ‘scam’ empire revealed in Timor-Leste",
+            "url": "https://www.theguardian.com/world/ng-interactive/2026/apr/06/prince-group-timor-leste-links-to-alleged-scam-empire",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israel War on Iran Escalates as Ceasefire Talks Stall",
-        "body": "US and Israeli strikes killed 34 people and hit Iran's top university, power plants, pharmaceutical producers, and civilian bridges over the past 24 hours. The attacks are gutting civilian infrastructure - bombing pharma facilities threatens patients dependent on domestic drug supply, while power plant strikes risk widespread blackouts. Iran has responded by threatening to close the Bab al-Mandeb strait, a chokepoint carrying roughly 10% of global trade.\n\nPakistan floated a two-phase truce proposal, but Iran rejected any deal that requires keeping the Strait of Hormuz open under a temporary ceasefire. Trump complicated diplomacy further by publicly claiming the US armed Iranian dissidents through Kurdish intermediaries - Kurdish groups denied it. A separate US special operations mission rescued an American air officer from inside Iran, raising the operational tempo on the ground.",
+        "headline": "US-Iran War Escalates as Ceasefire Talks Stall",
+        "body": "Trump has threatened to strike Iranian power plants, pharmaceutical facilities, and civilian bridges, raising fears of a humanitarian catastrophe inside Iran. Pakistan has proposed a two-phase truce deal, but Iran has rejected any temporary ceasefire that does not lift the threat permanently, and has warned it could close the Bab al-Mandeb strait - a chokepoint carrying a significant share of global trade.\n\nTrump also confirmed the US armed Iranian dissidents through Kurdish intermediaries, a claim Kurdish groups deny. A separate US special operations mission successfully extracted an American air officer from inside Iran. Yemen's Houthis have entered the conflict, deepening regional spillover and alarming Yemeni civilians already living under years of war.",
         "sources": [
           {
             "title": "Where are Iran’s power plants that Trump has threatened to destroy?",
@@ -207,6 +225,18 @@
             "title": "Bombing of Iran's pharma producers threatens patients' lives",
             "url": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "How US operation to rescue air officer from Iran unfolded",
+            "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How rescue of US airman in remote part of Iran unfolded",
+            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
@@ -234,35 +264,35 @@
             "lean": null
           },
           {
+            "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
+            "url": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
             "title": "Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim",
             "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-armed-iranian-dissidents-via-kurds-kurdish-groups-deny-claim?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How US operation to rescue air officer from Iran unfolded",
-            "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How rescue of US airman in remote part of Iran unfolded",
-            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
-            "url": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Pounds Lebanon, Displacing Over a Million People",
-        "body": "Israeli airstrikes have flattened towns across southern Lebanon and hit areas around Beirut previously designated safe zones, forcing up to 1.2 million people to flee. Families are sheltering in mountain villages with little infrastructure to absorb the displacement. The scale of destruction mirrors the early weeks of the Gaza campaign.\n\nYemen's Houthis have formally entered the conflict on Iran's side, deepening fears among Yemeni civilians of intensified US and Israeli retaliation against their already war-battered country. Gaza's economy remains strangled - Israel's blockade has left young Palestinians jobless with no path out.",
+        "headline": "Israel Expands Strikes Across Gaza and Lebanon",
+        "body": "Israeli forces have intensified attacks on southern Lebanon, destroying entire towns and hitting areas previously designated as safe zones near Beirut. Up to 1.2 million people have been displaced, with families sheltering in mountain communities as their homes are reduced to rubble.\n\nIn Gaza, the economic collapse is accelerating. Young Palestinians face mass unemployment as Israel maintains a blockade that has effectively strangled the territory's economy. A grandmother who lost her entire family to Israeli strikes has become one of many faces of a civilian toll that shows no sign of easing.",
         "sources": [
+          {
+            "title": "Gaza grandmother loses her family due to Israeli attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-grandmother-loses-her-family-due-to-israeli-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
+            "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
             "url": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
@@ -280,24 +310,12 @@
             "url": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
-            "url": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
-            "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine Strikes Deep Into Russia's Energy Network",
-        "body": "Ukrainian forces hit the Black Sea port of Novorossiysk, a major Russian energy export hub, and continued a sustained campaign against refineries that residents of St Petersburg say they can now smell burning. The strikes mark a significant escalation in Ukraine's strategy of targeting Russia's energy revenue rather than purely frontline positions.\n\nThe refinery attacks are designed to squeeze the fuel supply that sustains Russian military logistics. Russia has not publicly confirmed the extent of the damage.",
+        "headline": "Ukraine Hits Russian Energy Infrastructure Deep Inside Russia",
+        "body": "Ukraine struck the Black Sea port city of Novorossiysk, a major Russian energy hub, and continued a campaign targeting oil refineries that has brought the smell of burning fuel to St Petersburg. The strikes mark a significant expansion of Ukraine's reach into Russian territory, hitting infrastructure central to Russia's export economy.\n\nThe attacks signal a deliberate Ukrainian strategy to pressure Russia's energy revenues rather than focus solely on front-line positions.",
         "sources": [
           {
             "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
@@ -314,19 +332,13 @@
         ]
       },
       {
-        "headline": "Myanmar Junta Chief Becomes President; Bangladesh Measles Crisis",
-        "body": "Myanmar's military ruler Min Aung Hlaing has been formally elected president, consolidating power more than four years after the 2021 coup. The move signals the junta intends to legitimise its rule through a controlled political process rather than return to civilian government. Regional observers expect little to change for the millions displaced by the civil war.\n\nSeparately, Bangladesh declared a health emergency after 100 children died of suspected measles within a single month, prompting an emergency vaccination drive. DR Congo agreed to accept deportees from the United States under a deal with the Trump administration.",
+        "headline": "Myanmar Junta Chief Takes Presidency; Bangladesh Measles Crisis Grows",
+        "body": "Myanmar's military chief has been formally elected president, consolidating the junta's grip on power years after the 2021 coup. Analysts see little prospect of a democratic transition, with the move likely to deepen international isolation.\n\nSeparately, Bangladesh is battling a measles outbreak that has killed around 100 children in a single month. Authorities have launched emergency vaccination drives, but health workers warn that weakened immunisation coverage during recent political unrest left large numbers of children exposed.",
         "sources": [
           {
             "title": "Myanmar junta chief elected president — what comes next?",
             "url": "https://www.dw.com/en/myanmar-junta-chief-elected-president-what-comes-next/a-76679169?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "DR Congo agrees to take deportees from the US",
-            "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           },
           {
@@ -340,9 +352,33 @@
     ],
     "ai": [
       {
-        "headline": "AI Propaganda Goes Viral, and It's Getting Sophisticated",
-        "body": "A coordinated pro-Iran campaign used Lego-themed videos to spread political messaging across social platforms, offering a concrete example of what analysts are calling a new era of AI-assisted propaganda. The campaign blended innocuous aesthetics with targeted narratives, making content harder to flag and easier to share.\n\nThe broader pattern is alarming. AI tools now let small, underfunded actors produce high-volume, emotionally resonant content that spreads before fact-checkers can respond. Virality itself becomes the message - reach signals legitimacy to casual viewers. Researchers warn that the bottleneck is no longer production but detection, and detection is losing.",
+        "headline": "OpenAI Sketches Economic Blueprint as Geopolitical Threats Mount",
+        "body": "OpenAI published a policy vision calling for public wealth funds, taxes on robots, and a four-day work week to manage AI-driven economic disruption. The document signals the company is positioning itself as a stakeholder in post-automation policy, not just a technology vendor. It is a notable shift for a firm whose products are accelerating the very job displacement it now proposes to cushion.\n\nMeanwhile, Iran has threatened OpenAI's Stargate data center under construction in Abu Dhabi, adding a hard security dimension to the company's Gulf expansion. The threat underscores how AI infrastructure is becoming a geopolitical target, and how quickly the ambitions of the Stargate project have drawn adversarial attention.",
         "sources": [
+          {
+            "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+            "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Floods Music Charts and Rewires How Sellers Work",
+        "body": "An AI-generated artist named Eddie Dalton now holds eleven spots on the iTunes singles chart, a concrete demonstration of how synthetic content can dominate commercial platforms without any human performer behind it. The story sits alongside a broader pattern: AI propaganda is increasingly engineered for virality, exploiting the same algorithmic incentives that once rewarded human creators.\n\nSmall online sellers are also reshaping their businesses around AI tools, using platforms like Alibaba's Accio to decide what products to make before committing to inventory. ChatGPT meanwhile launched app integrations with DoorDash, Spotify, and Uber, embedding the model deeper into everyday commercial transactions. Across music, retail, and services, AI is quietly becoming the layer between intent and action.",
+        "sources": [
+          {
+            "title": "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
+            "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "When Virality Is the Message: The New Age of AI Propaganda",
             "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
@@ -350,41 +386,35 @@
             "lean": null
           },
           {
-            "title": "The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign",
-            "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "ChatGPT Gets Real-World Hooks via DoorDash, Uber, Spotify",
-        "body": "OpenAI rolled out app integrations letting ChatGPT users order food, book rides, and control music without leaving the chat interface. The move pushes ChatGPT closer to an operating layer for daily tasks rather than a standalone question-answering tool.\n\nThe integrations signal OpenAI's ambition to own the user session, not just the query. By embedding commerce and services directly, it competes less with Google Search and more with super-app models like WeChat. Whether users actually route these tasks through a chatbot remains the open question.",
-        "sources": [
-          {
             "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
             "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
             "source": "TechCrunch",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Microsoft Calls Copilot Entertainment. Lawyers Are Watching.",
-        "body": "Microsoft's terms of service quietly classify Copilot as being for entertainment purposes only, a legal hedge that strips users of any reasonable-reliance argument if the AI gives bad advice. The framing contradicts how Microsoft markets the product to businesses and professionals.\n\nIt's a familiar pattern. Companies deploy AI aggressively in high-stakes contexts while burying liability disclaimers in fine print. As enterprise adoption grows, the gap between marketing claims and legal protections is becoming a serious regulatory target.",
-        "sources": [
+          },
           {
-            "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-            "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-            "source": "TechCrunch",
+            "title": "AI is changing how small online sellers decide what to make",
+            "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+            "source": "MIT Tech Review",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Spain's Xoople Raises $130M to Feed AI Earth Data",
-        "body": "Barcelona-based Xoople closed a $130 million Series B to expand its geospatial mapping platform, which processes satellite and sensor data into structured datasets for AI training and inference. The raise reflects surging demand for high-quality real-world data as model builders exhaust conventional text corpora.\n\nGeospatial data is increasingly strategic. Logistics, climate modeling, defense, and urban planning all depend on accurate, continuously updated Earth observation. Xoople is betting that mapping the physical world at scale becomes foundational infrastructure for the next wave of AI applications.",
+        "headline": "Intel Bets on Chip Packaging as AI Hardware Race Intensifies",
+        "body": "Intel is wagering that advanced chip packaging - stacking and connecting multiple dies into a single module - could be its path back to relevance in the AI hardware boom. The approach sidesteps the raw transistor race and instead competes on how efficiently chips can be assembled and interconnected. Analysts suggest the bet could generate billions if AI demand for dense, efficient compute keeps climbing.\n\nCisco's CEO Chuck Robbins separately floated the idea of data centers in space, framing orbital infrastructure as a long-term answer to power and land constraints on the ground. Spain's Xoople also raised $130 million to build AI-ready geospatial mapping of the Earth. The infrastructure layer of AI is expanding in every direction.",
         "sources": [
+          {
+            "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+            "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Cisco CEO Chuck Robbins wants data centers in space",
+            "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+            "source": "The Verge",
+            "lean": null
+          },
           {
             "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
             "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
@@ -392,52 +422,34 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Germany Names REvil Leader as Employers Mine Worker Data",
+        "body": "German authorities publicly identified the operator behind REvil and GandCrab, two of the most destructive ransomware operations of the past decade. The doxing of the figure known as UNKN is a rare instance of Western law enforcement naming a Russian cybercriminal still believed to be operating freely inside Russia. It signals a shift toward public attribution as a deterrence tool.\n\nOn a quieter but equally invasive front, employers are increasingly using personal data scraped from outside sources to calculate the lowest salary a candidate will accept before making an offer. The practice turns job seekers' own digital footprints against them. Both stories point to the same underlying reality: data is now a weapon, and most people have no idea how it is being used.",
+        "sources": [
+          {
+            "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+            "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+            "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Reclaims $69K as Iran Ceasefire Talks Spark Rally",
-        "body": "Bitcoin climbed back above $69,000 Monday after reports of Iran ceasefire negotiations triggered a short squeeze and lifted broader crypto markets. Geopolitical tension had been weighing on prices, and the sudden shift in sentiment caught leveraged bears off guard. Prediction markets had been tracking Iran war probabilities in real time, effectively functioning as macro indicators for traders.\n\nAnalysts remain cautious. One warned that without a sustained reclaim of $75,000, a drop toward $10,000 stays on the table. NEAR Protocol led altcoin gains with an 8.1% weekend jump, while XRP edged to $1.33 but stayed range-bound. The week ahead keeps inflation data in focus as a key test for the rally's durability.",
+        "headline": "Bitcoin Reclaims $69K on Ceasefire Hopes, Shorts Squeezed",
+        "body": "Bitcoin surged back above $69,000 Monday after reports of Iran ceasefire talks triggered a short squeeze, wiping out bearish positions that had built up during last week's selloff. Algorand and several altcoins extended gains alongside BTC, with NEAR Protocol up 8.1% over the weekend per the CoinDesk 20 index.\n\nAnalysts see room for further upside but flag macro headwinds - inflation data dominates the economic calendar this week and could cap any rally. Prediction markets are now functioning as real-time geopolitical sensors, with Iran war contracts on platforms like Kalshi moving in lockstep with broader risk assets, according to Sygnum.",
         "sources": [
-          {
-            "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) jumps 8.1% over weekend",
-            "url": "https://www.coindesk.com/coindesk-indices/2026/04/06/coindesk-20-performance-update-near-protocol-near-jumps-8-1-over-weekend",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin has room to rally, but there's a catch",
-            "url": "https://www.coindesk.com/daybook-us/2026/04/06/bitcoin-has-room-to-rally-but-there-s-a-catch",
-            "source": "CoinDesk",
-            "lean": null
-          },
           {
             "title": "Bitcoin rallies on report of Iran ceasefire talks, Algorand extends gains",
             "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "First real bull signal since 2025? Five things to know in Bitcoin this week",
-            "url": "https://cointelegraph.com/news/first-bull-signal-since-2025-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Iran war bets turn prediction markets into real-time macro radar: Sygnum",
-            "url": "https://cointelegraph.com/news/iran-war-bets-turn-crypto-prediction-markets-real-time-macro-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Inflation takes center stage: Crypto Week Ahead",
-            "url": "https://www.coindesk.com/markets/2026/04/06/inflation-takes-center-stage-crypto-week-ahead",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "XRP drifts higher to $1.33, but range-bound trade still dominates",
-            "url": "https://www.coindesk.com/markets/2026/04/06/xrp-drifts-higher-to-usd1-33-but-range-bound-trade-still-dominates",
             "source": "CoinDesk",
             "lean": null
           },
@@ -448,39 +460,45 @@
             "lean": null
           },
           {
-            "title": "Bitcoin meltdown to $10,000 remains likely unless prices reclaim $75,000, analyst says",
-            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-meltdown-to-usd10-000-remains-likely-unless-prices-reclaim-usd75-000-analyst-says",
+            "title": "First real bull signal since 2025? Five things to know in Bitcoin this week",
+            "url": "https://cointelegraph.com/news/first-bull-signal-since-2025-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin has room to rally, but there's a catch",
+            "url": "https://www.coindesk.com/daybook-us/2026/04/06/bitcoin-has-room-to-rally-but-there-s-a-catch",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Trump-Iran deadline chaos sends crypto higher while ceasefire hopes rise",
-            "url": "https://cointelegraph.com/news/crypto-markets-bounce-trump-delays-deadline-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Inflation takes center stage: Crypto Week Ahead",
+            "url": "https://www.coindesk.com/markets/2026/04/06/inflation-takes-center-stage-crypto-week-ahead",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Iran war bets turn prediction markets into real-time macro radar: Sygnum",
+            "url": "https://cointelegraph.com/news/iran-war-bets-turn-crypto-prediction-markets-real-time-macro-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) jumps 8.1% over weekend",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/04/06/coindesk-20-performance-update-near-protocol-near-jumps-8-1-over-weekend",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Strategy Buys $330M More Bitcoin Despite $14.5B Paper Loss",
-        "body": "Strategy added 4,871 bitcoin for roughly $330 million last week, pushing its total holdings to nearly 767,000 BTC. The purchase came after a brief pause that had prompted Michael Saylor to hint publicly at an imminent buy. The firm's Q1 paper losses topped $14.5 billion, yet management shows no sign of slowing accumulation.\n\nSeparately, a solo miner beat 1-in-28,000 odds to mine a block and collect a $210,000 reward, a reminder that the network's proof-of-work lottery still occasionally pays out to small operators. Bitmine also made headlines, disclosing an ether treasury of 4.8 million ETH and announcing its stock will move to the NYSE.",
+        "headline": "Strategy Buys More Bitcoin While Paper Losses Hit $14.5B",
+        "body": "Strategy added 4,871 bitcoin for $330 million last week, pushing its total holdings to nearly 767,000 BTC. The purchase came despite the firm reporting over $14.5 billion in paper losses for Q1 - a figure that underscores how aggressively it has bought through the downturn.\n\nSeparately, Bitmine's ether treasury reached 4.8 million ETH as the company prepares to list on the NYSE, signaling that the corporate crypto treasury playbook is spreading beyond bitcoin. Both moves reflect a broader institutional bet that current prices represent a buying opportunity rather than a warning sign.",
         "sources": [
-          {
-            "title": "Solo bitcoin miner overcomes 1-in-28,000 odds to secure $210,000 block reward",
-            "url": "https://www.coindesk.com/tech/2026/04/06/solo-bitcoin-miner-overcomes-1-in-28-000-odds-to-secure-usd210-000-block-reward",
-            "source": "CoinDesk",
-            "lean": null
-          },
           {
             "title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
             "url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitmine's ether treasury hits 4.8 million ETH as stock listing moves to NYSE",
-            "url": "https://www.coindesk.com/markets/2026/04/06/bitmine-s-ether-treasury-hits-4-8-million-eth-as-stock-listing-moves-to-nyse",
-            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -490,20 +508,32 @@
             "lean": null
           },
           {
-            "title": "Michael Saylor hints at next Strategy Bitcoin buy after weeklong pause",
-            "url": "https://cointelegraph.com/news/michael-saylor-hints-at-next-strategy-bitcoin-buy-after-weeklong-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitmine's ether treasury hits 4.8 million ETH as stock listing moves to NYSE",
+            "url": "https://www.coindesk.com/markets/2026/04/06/bitmine-s-ether-treasury-hits-4-8-million-eth-as-stock-listing-moves-to-nyse",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Circle Launches Quantum-Resistant Blockchain as Mow Urges Caution",
-        "body": "Circle unveiled Arc, a new layer-1 blockchain built with quantum-resistant cryptography from launch. The stablecoin issuer is positioning Arc as infrastructure ready for a post-quantum world, a bet that the threat is close enough to warrant building defenses in now rather than retrofitting them later.\n\nNot everyone agrees with the urgency. Samson Mow warned that rushing a quantum fix onto Bitcoin could backfire, arguing that a poorly implemented patch poses more immediate risk than quantum computers themselves. The debate reflects a broader tension in the industry between acting early and acting carefully on a threat that remains years from being practical.",
+        "headline": "Tokenization Goes Mainstream - With Warnings Attached",
+        "body": "Jamie Dimon told JPMorgan staff the bank must accelerate its tokenization efforts as the technology begins reshaping settlement, lending, and asset management across traditional finance. His comments landed the same day the IMF cautioned that tokenization could import crypto's volatility and liquidity risks directly into global financial markets.\n\nChina's tax authority separately urged domestic banks to adopt blockchain for lending services - a rare endorsement of the technology from Beijing. Circle added another dimension, unveiling a quantum-resistant roadmap for its new Arc layer-1 blockchain, positioning the infrastructure ahead of cryptographic threats that most networks have yet to address.",
         "sources": [
           {
-            "title": "Rushed quantum fix may backfire for Bitcoin, Samson Mow warns",
-            "url": "https://cointelegraph.com/news/rushed-quantum-fix-backfire-bitcoin-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Jamie Dimon says JPMorgan must move faster as tokenization reshapes finance",
+            "url": "https://www.coindesk.com/markets/2026/04/06/jamie-dimon-says-jpmorgan-must-move-faster-as-tokenization-reshapes-finance",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "IMF warns tokenization could bring crypto risks into global financial markets",
+            "url": "https://www.coindesk.com/markets/2026/04/06/imf-warns-tokenization-could-bring-crypto-risks-into-global-financial-markets",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "China's tax authority urges banks to implement blockchain for lending services",
+            "url": "https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -522,8 +552,8 @@
         ]
       },
       {
-        "headline": "North Korean Infiltrators, Deepfake KYC Tools Raise DeFi Security Alarm",
-        "body": "A cybersecurity researcher revealed that North Korean operatives have been embedding themselves inside DeFi protocols since the 2020 DeFi summer, working on codebases across countless projects over seven years. The scale and duration of the infiltration is larger than most in the industry had publicly acknowledged.\n\nA separate threat has also emerged: a new AI-powered cybercrime tool is targeting crypto platforms and banks by using deepfakes to defeat KYC identity checks. Together, the two developments highlight how security vulnerabilities in crypto are increasingly human and social rather than purely technical. China also ordered Apple to remove Jack Dorsey's encrypted messaging app Bitchat from its App Store, citing the app's use during Iran protests.",
+        "headline": "AI Deepfakes Crack Crypto KYC; North Korea Ran DeFi Ops for Years",
+        "body": "A new AI-powered cybercrime toolkit is targeting crypto exchanges and banks by generating deepfakes capable of bypassing KYC verification systems - raising fresh questions about identity security across the industry. The tool is already circulating on criminal forums, researchers warn.\n\nThe threat compounds a longer-running problem: North Korean operatives have quietly embedded themselves inside DeFi protocols since at least 2019, according to a cybersecurity analyst who tracked the infiltration across dozens of projects. China also ordered Apple to remove Jack Dorsey's encrypted messaging app Bitchat from its App Store - the app had gained traction among Iranian protesters - highlighting how decentralized communication tools are drawing state-level pressure.",
         "sources": [
           {
             "title": "New AI cybercrime tool targets crypto, bank KYC systems via deepfakes",
@@ -532,15 +562,15 @@
             "lean": null
           },
           {
-            "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
-            "url": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
             "title": "North Korean workers have been infiltrating DeFi for 7 years: Researcher",
             "url": "https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
+            "url": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
+            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -555,21 +585,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Black Cod",
-      "cuisine": "Japanese (Nobu-style)",
-      "description": "Silky, caramelised white fish marinated in sweet miso and mirin, broiled until lacquered and just flaking",
-      "tip": "Marinate the cod for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust you'll get under the grill"
+      "name": "Miso-Glazed Cabbage Steaks",
+      "cuisine": "Japanese-inspired",
+      "description": "Thick-cut cabbage roasted until caramelised and lacquered with a sweet-salty miso and mirin glaze",
+      "tip": "Score the cut face in a crosshatch before glazing so the miso penetrates rather than just sitting on the surface"
     },
     "exercise": {
-      "name": "Monday Reset: Loaded Carry Circuit",
+      "name": "Monday Loaded Carry Circuit",
       "duration": "35 minutes",
-      "equipment": "Two kettlebells or dumbbells (moderate weight)",
-      "description": "Cycle through farmer's carries, suitcase carries, and overhead carries across a set distance, resting only between variations — brutal for grip, core, and posture after a weekend of sitting"
+      "equipment": "Two kettlebells or dumbbells, a clear corridor or outdoor path",
+      "description": "Alternate between farmer carries, suitcase carries, and overhead carries for timed sets, building grip strength, core stability, and real-world functional fitness in a way machines never replicate"
     },
     "learn": {
       "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — philosophers have extended this to human cells, memory, and consciousness, spawning centuries of debate about what makes you *you*.",
-      "why": "On a Monday at the start of a new week it's a quietly destabilising hour well spent — Derek Parfit's modern take in *Reasons and Persons* will make you question whether the person who went to sleep Sunday night is strictly the same one reading this now"
+      "description": "The ancient paradox asks whether an object that has had every component replaced remains fundamentally the same thing — and philosophers from Locke to Parfit have weaponised it to interrogate whether you are the same person you were ten years ago",
+      "why": "On a Monday at the start of a new week it is a quietly destabilising and productive question: if your cells, beliefs, and memories are all in flux, what exactly is making your plans for the week ahead?"
     }
   }
 }
