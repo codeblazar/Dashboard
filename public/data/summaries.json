@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-04-06T07:34:21.428Z",
+  "generatedAt": "2026-04-06T08:32:45.019Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Iran Threats Divide Congress, Spark War Crime Debate",
-        "body": "President Trump's Easter message threatening Iran has drawn sharp criticism from both parties. Sen. Chris Murphy called the threat a clear war crime, while Rep. Madeleine Dean raised concerns about Trump's proposed budget alongside the Iran standoff. Even Marjorie Taylor Greene broke with the president, calling the rhetoric insane.\n\nThe military dimension is already live. Iran says a US aircraft was destroyed during a recovery mission for a missing service member, while Netanyahu confirmed he spoke with Trump and congratulated him on rescuing a downed pilot. The two accounts suggest active and risky US operations in the region.\n\nOne House Republican said ground troops will not be needed to open the Strait of Hormuz. Maryland Governor Wes Moore argued ending foreign wars is the fastest route to lower gas prices at home.",
+        "headline": "US Rescues Downed Pilot Near Iran, Tensions Escalate",
+        "body": "A US service member was rescued after going down near Iran, with American aircraft destroyed during the recovery operation. Iran confirmed the incident, and Netanyahu called Trump to congratulate him on the mission's success. The episode has sharpened an already volatile standoff.\n\nSen. Chris Murphy called Trump's earlier threats against Iran 'a clear war crime,' while a House Republican said he does not expect ground troops will be needed to open the Strait of Hormuz. Rep. Madeleine Dean also weighed in, raising concerns about the administration's posture. The rescue drew bipartisan attention but no consensus on what comes next.",
         "sources": [
           {
             "title": "Chris Murphy on Trump’s Iran threat: ‘A clear war crime’",
             "url": "https://thehill.com/homenews/senate/5817456-murphy-slams-trump-iran-threats/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Netanyahu says he spoke with Trump, congratulated him on rescuing downed pilot",
+            "url": "https://thehill.com/policy/international/5817394-netanyahu-trump-cooperation-rescue/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -30,24 +36,12 @@
             "url": "https://thehill.com/homenews/house/5817265-ground-invasion-strait-hormuz/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Marjorie Taylor Greene rails against ‘insane’ Trump after Easter Iran threat",
-            "url": "https://thehill.com/homenews/administration/5817247-trump-iran-easter-message-greene-criticism/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Moore: Ending foreign wars ‘best thing that we could do’ to lower gas prices",
-            "url": "https://thehill.com/business/5817250-wes-moore-gas-price-foreign-wars/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Mail-In Voting Order Faces Legal Pushback From Democrats",
-        "body": "Stacey Abrams called Trump's executive order targeting mail-in voting patently illegal, arguing it oversteps presidential authority and threatens ballot access. The order has reignited a long-running fight over voting rules that split sharply along partisan lines.\n\nRepublicans argue mail-in voting invites fraud and that tightening rules protects election integrity. Democrats say the order is a deliberate attempt to suppress turnout among groups that rely heavily on postal ballots. Courts are likely to be the next battleground.",
+        "headline": "Trump's Mail-In Voting Order Draws Legal Challenges",
+        "body": "Trump signed an executive order targeting mail-in voting, prompting swift pushback from Democrats. Stacey Abrams called the order 'patently illegal,' arguing it oversteps presidential authority and threatens ballot access. Republicans have long argued mail-in voting creates fraud risks, a claim courts have largely not upheld.\n\nThe order is likely to face legal challenges before any implementation. The fight over voting rules has become a recurring flashpoint, with both parties framing the stakes as existential heading into future election cycles.",
         "sources": [
           {
             "title": "Stacey Abrams on Trump’s mail-in voting order: ‘Patently illegal’",
@@ -59,7 +53,7 @@
       },
       {
         "headline": "GOP Splits Stall DHS Reopening as Trump Stays Distant",
-        "body": "Republican divisions in Congress are blocking efforts to reopen the Department of Homeland Security, with Speaker Johnson and Senate Majority Leader Thune struggling to align their caucuses. Trump's detachment from the negotiations has made the impasse harder to break.\n\nThe standoff reflects a broader tension inside the GOP between hardliners who want deeper spending cuts and members wary of the political cost of a prolonged shutdown. No deal appears imminent.",
+        "body": "Republican divisions and what sources describe as Trump's detachment are blocking efforts to reopen the Department of Homeland Security after a partial shutdown. Speaker Johnson and Senate Majority Leader Thune have struggled to align their caucuses, with competing factions disagreeing on conditions for a deal.\n\nThe standoff highlights the limits of Republican unity even with full control of Congress and the White House. Democrats have largely stayed on the sidelines, letting internal GOP friction do the work.",
         "sources": [
           {
             "title": "Republican divisions, Trump’s detachment stymie GOP efforts to reopen DHS",
@@ -70,8 +64,8 @@
         ]
       },
       {
-        "headline": "Democrats Defend Cuba Visit, Slam US Fuel Blockade",
-        "body": "Two Democratic lawmakers returned from Cuba and publicly condemned US policy, describing the restrictions on fuel as an economic bombing of the island. The comments drew immediate criticism from Republicans, who argue the embargo is a necessary response to Cuba's authoritarian government.\n\nThe visit highlights a persistent divide over Cuba policy. Democrats who made the trip say ordinary Cubans bear the cost of sanctions. Republicans counter that easing pressure rewards a regime with a long record of human rights abuses.",
+        "headline": "Democrats Condemn Cuba Sanctions After Island Visit",
+        "body": "Two Democratic lawmakers visited Cuba and returned calling US sanctions a 'blockade of fuel' and 'economic bombing.' The comments drew criticism from Republicans, who argue the Castro government bears responsibility for the island's conditions and that easing pressure rewards an authoritarian regime.\n\nThe debate over Cuba policy has persisted across administrations. Supporters of sanctions say they pressure the government toward reform. Critics say ordinary Cubans pay the price. The lawmakers' visit is unlikely to shift policy but keeps the argument alive.",
         "sources": [
           {
             "title": "Pair of Democrat lawmakers slam 'blockade of fuel' to Cuba, 'economic bombing' after visit to island",
@@ -84,9 +78,21 @@
     ],
     "au-politics": [
       {
-        "headline": "Australia's Fuel Crisis Bites Hard Over Easter Long Weekend",
-        "body": "Australia's ongoing fuel crisis is squeezing households and businesses across the country, with supply shortages pushing prices higher and disrupting Easter travel. An outback pub near Oodnadatta reported just two visitors over the long weekend, with the owner blaming fuel costs for keeping tourists away from remote destinations that depend on holiday traffic to survive.\n\nThe government says fuel shipments are secured well into May, but critics argue that is not enough. The Spectator argues Australia should follow the US model of guaranteeing domestic oil supply, pointing to strategic reserve failures as a structural policy problem. Used electric vehicle prices have surged in response, with buyers rushing to insulate themselves from petrol costs. The Guardian's live tracker shows ongoing service station outages and volatile pricing across multiple states.",
+        "headline": "Fuel Crisis Bites as Second Cyclone Threatens Far North Queensland",
+        "body": "Australia's fuel crisis is reshaping daily life. Diesel prices remain volatile despite Labor's fuel tax relief measures, with regional communities hit hardest - an outback pub near Innamincka recorded just two visitors over Easter as high fuel costs kept tourists away. National auction clearance rates have fallen to their lowest since 2022, adding to signs of broader economic strain.\n\nMeanwhile, Severe Tropical Cyclone Maila is tracking toward far north Queensland, arriving just three weeks after Cyclone Narelle tore through the same region. Emergency services are already stretched. A man's body was also recovered after being swept away in separate outback floodwaters near Innamincka, underscoring the dangerous conditions across remote Australia this Easter period.",
         "sources": [
+          {
+            "title": "Severe Tropical Cyclone Maila on track to hit far north Queensland three weeks after Narelle tore through",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/severe-tropical-cyclone-maila-far-north-queensland",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
           {
             "title": "Outback tourist pub had two visitors this Easter amid fuel price pinch",
             "url": "https://www.abc.net.au/news/2026-04-06/fuel-impacts-pink-roadhouse-tourists-and-welfare-agencies/106534990",
@@ -100,34 +106,10 @@
             "lean": "left"
           },
           {
-            "title": "Used EV prices rise as Australia’s fuel crisis hits: ‘Doesn’t make sense to hold on to a combustion engine’",
-            "url": "https://www.theguardian.com/environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
+            "title": "Man’s body found after being swept away in outback flood waters",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/mans-body-found-swept-away-innamincka-outback-australia-flood",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "The US guaranteed its oil, why can’t Australia?",
-            "url": "https://www.spectator.com.au/2026/04/the-us-guaranteed-its-oil-why-cant-australia/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Australia's fuel shipments secured 'well into' May",
-            "url": "https://www.abc.net.au/news/2026-04-06/australias-fuel-shipments-secured-well-into-may/106534572",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Property Market Weakens as Auction Clearance Hits Four-Year Low",
-        "body": "Australia's national auction clearance rate has fallen to its lowest point since 2022, adding to signs that the property market is cooling under sustained interest rate and cost-of-living pressure. The result marks a notable shift after years of resilience in major city markets.\n\nThe data lands during a period of broader economic strain, with fuel costs, housing affordability and household budgets all under pressure simultaneously. The Spectator's commentary on what it calls Australian decadence frames the moment as a broader cultural and economic reckoning, though that view sits well to the right of mainstream economic analysis. The clearance rate drop will likely sharpen debate heading into the federal political cycle about housing policy and the Reserve Bank's next move.",
-        "sources": [
-          {
-            "title": "Australian decadence",
-            "url": "https://www.spectator.com.au/2026/04/australian-decadence/",
-            "source": "Spectator AU",
-            "lean": "right"
           },
           {
             "title": "National auction clearance rate hits lowest point since 2022 – as it happened",
@@ -138,35 +120,77 @@
         ]
       },
       {
-        "headline": "Victoria's Free Train Tickets Backfire as Passengers Left Standing",
-        "body": "Victoria's free public transport offer over the Easter long weekend overwhelmed regional train services, leaving passengers standing for hours on routes not built for the surge in demand. The policy was designed to ease cost-of-living pressure and reduce road congestion, but the execution drew sharp criticism from stranded travellers.\n\nThe incident raises questions about whether the Andrews-era infrastructure investment has kept pace with demand, and whether free-travel incentives need better capacity planning before rollout. It is a rare case where a cost-of-living measure generated its own backlash. The state government has not yet responded publicly to the complaints.",
+        "headline": "Fuel Security Debate Sharpens as Prices Stay High",
+        "body": "The fuel crisis is drawing sharp political debate. The Spectator argues Australia should replicate the US model of guaranteed domestic oil reserves, criticising successive governments for leaving the country exposed to global supply shocks. Labor's fuel tax relief has so far failed to stabilise diesel prices, which remain unpredictable at the bowser.\n\nCritics on the right contend the government lacks a credible long-term energy security strategy. Labor points to its relief measures as evidence of action. The gap between those positions is wide, and with prices still volatile, neither side has closed the argument.",
         "sources": [
           {
-            "title": "Passengers forced to stand for hours on regional Victoria trains as free tickets supercharge long weekend demand",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/06/victoria-trains-free-travel-passengers-forced-stand",
+            "title": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Track current petrol and diesel prices, service station outages and shipments – Australia's fuel crisis in charts",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/06/petrol-diesel-price-tracker-check-fuel-australia-crisis-shortage-gas-oil-reserves-charts-graphs",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "The US guaranteed its oil, why can’t Australia?",
+            "url": "https://www.spectator.com.au/2026/04/the-us-guaranteed-its-oil-why-cant-australia/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Jury Trial Debate and Legal Rights Draw Conservative Warning",
-        "body": "The Spectator has published a sharp argument against moves to scrap or limit jury trials in Australian courts, framing the issue as a fundamental threat to civil liberties and the common law tradition. The piece warns that efficiency-driven reforms to the justice system risk stripping ordinary citizens of a core democratic safeguard.\n\nThe argument sits within a broader conservative critique of institutional change, but the underlying legal debate crosses party lines. Jury trial reform has been floated in various states as courts face backlogs worsened by the pandemic. Supporters of reform argue the system is slow and costly. Critics say speed is no justification for removing a check on state power that has existed for centuries.",
+        "headline": "Chinese AI Aids Iran Targeting as US Pilot Rescued",
+        "body": "Chinese artificial intelligence is reportedly helping Iran strike US forces with greater accuracy, according to reporting citing satellite intelligence links between Beijing and Tehran. The claim raises direct questions about Australia's alliance commitments and exposure to Middle East conflict escalation.\n\nSeparately, details have emerged of a complex deception operation that secured the rescue of a downed US fighter pilot from inside Iran. The operation involved coordinated misdirection across multiple agencies. Both stories land at a sensitive moment for Australian foreign policy, with the government balancing its US alliance against trade dependencies on China.",
+        "sources": [
+          {
+            "title": "Chinese AI helping Iran target US forces with 'incredible precision'",
+            "url": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Deception campaign key to rescue of downed US fighter pilot from Iran",
+            "url": "https://www.abc.net.au/news/2026-04-06/how-us-forces-rescued-stranded-airman-in-iran-explainer/106533914",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Jury Trial Debate and Media Shifts Signal Institutional Change",
+        "body": "The Spectator has published a pointed defence of jury trials, warning that moves to scrap them in certain cases would erode a foundational democratic safeguard. The piece argues cost and efficiency arguments are being used to quietly dismantle rights that took centuries to establish. No government has formally proposed abolition, but reform discussions are live in several jurisdictions.\n\nElsewhere, Seven News confirmed it will end its Launceston nightly bulletin after 64 years, shifting production to Hobart. Critics say the move further hollows out regional media. Both developments reflect pressure on institutions - legal and journalistic - that Australians have long taken for granted.",
         "sources": [
           {
             "title": "Scrapping jury trials will cost us all",
             "url": "https://www.spectator.com.au/2026/04/scrapping-jury-trials-will-cost-us-all/",
             "source": "Spectator AU",
             "lean": "right"
+          },
+          {
+            "title": "Nightly news bulletin to move from Launceston after 64 years",
+            "url": "https://www.abc.net.au/news/2026-04-06/tasmania-7news-move-broadcast-from-launceston-to-hobart/106534216",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Iran War Escalates as Trump Claims Victory, Hormuz Tensions Rise",
-        "body": "A US airman shot down over Iran has been rescued in a covert operation, with Trump declaring victory even as his administration issues a deadline to Tehran over the Strait of Hormuz. Iran has flatly rejected the ultimatum. Two people were killed in a strike on Haifa, and BBC reporters near the strait describe conditions at the edge of an active battlefield.\n\nThe conflict is rippling far beyond the region. Vietnam's gig workers are absorbing punishing fuel cost increases tied to the war's disruption of global oil markets. A new regional power dynamic around the Strait of Hormuz is already taking shape, with analysts debating who fills the vacuum as the fighting continues.",
+        "headline": "Iran War Escalates as Tehran Rejects Trump's Hormuz Deadline",
+        "body": "Now in its 38th day, the US-Israeli military campaign against Iran is entering a new phase of brinkmanship. Tehran has rejected Trump's deadline to reopen the Strait of Hormuz, while two people were killed in a missile strike on Haifa. Trump declared victory after a downed US airman was rescued from a remote part of Iran, but officials warn threats to American operations persist.\n\nThe standoff over Hormuz is reshaping the region's strategic order, with analysts debating what a new security architecture around the strait might look like. The war's economic shockwaves are spreading far beyond the Middle East - Vietnam's gig workers are being squeezed by surging fuel costs directly tied to the conflict. UK police arrested seven protesters near an RAF base used by US forces, a sign of growing domestic pressure on Western governments.",
         "sources": [
+          {
+            "title": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+            "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "A new regional order for the Strait of Hormuz",
             "url": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
@@ -202,54 +226,6 @@
             "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Gaza Strikes Continue as Hamas Refuses Disarmament Demands",
-        "body": "Israel struck a crowd in Gaza City, adding to a mounting civilian toll as the humanitarian situation draws renewed international scrutiny. Hamas's armed wing, the Qassam Brigades, has rejected disarmament as a precondition for any deal, calling the demand unacceptable. Talks appear deadlocked.\n\nCritics argue the humanitarian crisis in Gaza has been systematically sidelined in diplomatic negotiations. Aid access remains severely restricted, and displacement across the region continues to worsen, with Lebanon also reporting communities whose lives have been upended by ongoing conflict spillover.",
-        "sources": [
-          {
-            "title": "Displaced in Lebanon: 'Lives turned upside down'",
-            "url": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Has the humanitarian crisis in Gaza been ignored?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Hamas armed wing says disarmament demands not acceptable",
-            "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli air strike hits crowd in Gaza City",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Nigeria Army Frees 31 Hostages After Church Attack",
-        "body": "Nigerian army forces rescued 31 hostages following an attack on a church, in one of the more significant counter-insurgency operations the military has carried out in recent months. Details on the perpetrators and the location of the rescue remain limited, but the operation points to continued instability in parts of the country where armed groups target civilian gatherings.\n\nSeparately, UK police arrested seven protesters near an RAF base being used by US forces, reflecting growing domestic opposition in Britain to its role in supporting American military operations in the Iran conflict.",
-        "sources": [
-          {
-            "title": "Nigeria's army rescues 31 hostages after church attack",
-            "url": "https://www.dw.com/en/nigeria-s-army-rescues-31-hostages-after-church-attack/a-76675665?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
           },
           {
             "title": "UK police arrest seven protesters near RAF base used by US",
@@ -260,12 +236,18 @@
         ]
       },
       {
-        "headline": "Russians in Exile Grieve as Ukraine Deepens Syria Security Ties",
-        "body": "Russians who fled their country since the war in Ukraine began are navigating grief and displacement with no clear path home, caught between a regime they oppose and countries that view them with suspicion. Their communities abroad are fractured, and many describe mourning losses, both personal and national, in isolation.\n\nUkraine is meanwhile expanding its strategic footprint, with President Zelenskyy announcing a security and military cooperation agreement with Syria. The deal signals Kyiv's effort to build alliances beyond its immediate neighborhood as the war with Russia grinds on.",
+        "headline": "Lebanon Displacement Deepens as Nigeria Rescues Church Hostages",
+        "body": "Hundreds of thousands of Lebanese remain displaced, with aid workers describing lives \"turned upside down\" as communities struggle to rebuild amid continued instability. The crisis has drawn renewed attention to the region's fragile humanitarian infrastructure.\n\nIn Nigeria, the army rescued 31 hostages seized during an attack on a church, a reminder of the persistent threat from armed groups across the country's middle belt. Separately, Ukraine and Syria announced a cooperation agreement on security and military experience, a notable diplomatic signal as both countries navigate ongoing conflicts.",
         "sources": [
           {
-            "title": "Russians living in exile cope with grief far from home",
-            "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-world-4025-rdf",
+            "title": "Displaced in Lebanon: 'Lives turned upside down'",
+            "url": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Nigeria's army rescues 31 hostages after church attack",
+            "url": "https://www.dw.com/en/nigeria-s-army-rescues-31-hostages-after-church-attack/a-76675665?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           },
@@ -276,12 +258,36 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Russians in Exile Grieve as Modi Courts Assam Voters",
+        "body": "Russians living abroad are grappling with grief and displacement, cut off from family and unable to return home as the war in Ukraine drags on. For many, exile has become indefinite.\n\nIn India, the BJP is deploying a dual strategy in Assam ahead of elections - blending Hindutva identity politics with targeted welfare schemes to consolidate its base. Critics argue the approach papers over deeper ethnic and economic tensions in the state. Meanwhile, Mediterranean shark populations are collapsing with no binding regional legal framework in place to stop the decline.",
+        "sources": [
+          {
+            "title": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+            "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Mediterranean sharks are vanishing in a legal void",
+            "url": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Russians living in exile cope with grief far from home",
+            "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          }
+        ]
       }
     ],
     "ai": [
       {
-        "headline": "Gemma 4 Goes Local: Google's Model Runs Everywhere",
-        "body": "Google's Gemma 4 is having a moment. Developers are running it on iPhones via the Google AI Edge Gallery app, spinning it up locally with LM Studio's headless CLI, and building real-time audio/video pipelines on M3 Pro MacBooks. The model is landing across hardware that would have seemed implausible for on-device AI just a year ago.\n\nSeparately, a browser-embedded project called Gemma Gem lets users run the model with no API keys and no cloud dependency at all. The pattern is clear: smaller, capable open models are fragmenting away from centralized inference. Developers are not waiting for hosted APIs when the hardware in their pocket or on their desk can handle the job.",
+        "headline": "Google's Gemma 4 runs locally on phones and laptops",
+        "body": "Google's Gemma 4 model is now running on consumer hardware, with developers reporting successful local deployments on iPhones via the Google AI Edge Gallery app and on Apple Silicon Macs using LM Studio's new headless CLI. The push toward on-device AI is accelerating fast. Separate projects are piling on: one developer shipped a real-time audio/video AI assistant running Gemma on an M3 Pro, while another released Gemma Gem, a browser-embedded version requiring no API keys or cloud connection. Together these projects signal a concrete shift - capable models are escaping the data center and landing in everyday devices, cutting latency, cost, and privacy exposure in one move.",
         "sources": [
           {
             "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
@@ -310,31 +316,43 @@
         ]
       },
       {
-        "headline": "Microsoft Calls Copilot 'Entertainment Only' in Fine Print",
-        "body": "Microsoft's terms of service quietly classify Copilot as being for entertainment purposes only, a designation that strips users of any reasonable expectation of reliability or accuracy. For a product Microsoft markets aggressively to enterprise customers, the legal hedge is striking.\n\nThe disclosure lands alongside a broader critique that Microsoft has lacked a coherent software strategy for decades. Critics argue the company layers new products onto shaky foundations without resolving the underlying architectural confusion. Copilot's disclaimer reads less like legal caution and more like an admission that the product is not ready to be trusted with real work.",
+        "headline": "Microsoft calls Copilot entertainment; LLMs reshape how developers code",
+        "body": "Microsoft's terms of service now describe Copilot as being \"for entertainment purposes only,\" a quiet legal hedge that sits awkwardly against the company's aggressive push to sell AI productivity tools to enterprises. The disclaimer limits liability but raises real questions about how seriously Microsoft stands behind its flagship AI product. Meanwhile, developers are wrestling with a practical side effect of LLM-assisted coding: one analysis argues that writing code with AI naturally pushes architects toward microservices, because LLMs handle bounded, self-contained problems better than sprawling monoliths. A separate developer built a tiny language model from scratch specifically to demystify how these systems work under the hood.",
         "sources": [
+          {
+            "title": "Does coding with LLMs mean more microservices?",
+            "url": "https://ben.page/microservices",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Show HN: I built a tiny LLM to demystify how language models work",
+            "url": "https://github.com/arman-bd/guppylm",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
             "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-            "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Japan's Labor Shortage Is Proving Physical AI Works",
-        "body": "Japan is deploying robots not to displace workers but to fill roles that go unfilled. An aging population and a cultural resistance to mass immigration have created acute shortages in logistics, elder care, and hospitality. Physical AI systems are stepping into that gap, and the results are showing that real-world deployment is more viable than lab demos suggested.\n\nThe country is functioning as an accidental proving ground. Robots operating in messy, unpredictable environments are accumulating the kind of edge-case experience that simulation cannot replicate. What Japan is learning now will shape how the rest of the world thinks about physical AI deployment.",
+        "headline": "Japan's robots fill labor gaps; Suno's AI music hits copyright walls",
+        "body": "Japan is deploying physical AI robots not to displace workers but to fill roles that go unfilled due to an aging population and chronic labor shortages. TechCrunch reports the country is proving that experimental physical AI can handle real-world conditions, from warehouses to care facilities. It is a different framing than the displacement narrative dominating Western AI coverage. On the creative side, Suno is facing a copyright reckoning - The Verge reports the AI music platform is generating covers and derivative works that sit in a legal gray zone, with rights holders and courts still unprepared to handle AI-generated music at scale.",
         "sources": [
           {
             "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
             "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
             "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Suno is a music copyright nightmare",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+            "source": "The Verge",
             "lean": null
           },
           {
@@ -346,9 +364,15 @@
         ]
       },
       {
-        "headline": "Employers Mine Personal Data to Lowball Salary Offers",
-        "body": "Companies are using personal data, drawn from social profiles, spending patterns, and employment history, to estimate the minimum salary a candidate will accept before making an offer. The practice turns the negotiation table sharply in the employer's favor, letting them anchor offers below what they might otherwise pay.\n\nThe tactic is a direct consequence of the data economy reaching into hiring. Workers rarely know what signals they are broadcasting or how those signals are being scored. The asymmetry is significant: employers arrive at negotiations with a data-derived floor, while candidates are still guessing.",
+        "headline": "Employers mine personal data to lowball salary offers",
+        "body": "Companies are using personal data - spending habits, location history, social profiles - to model the minimum salary a candidate will accept before making an offer, according to MarketWatch. The practice turns routine data collection into a negotiating weapon, systematically shifting leverage away from workers. It is legal in most jurisdictions and largely invisible to job seekers. The story lands alongside a broader week of data-control flashpoints, including media scraper gallery-dl moving to Codeberg after receiving a DMCA takedown notice from GitHub, highlighting how platforms increasingly shape who controls access to information.",
         "sources": [
+          {
+            "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+            "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "Employers use your personal data to figure out the lowest salary you'll accept",
             "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
@@ -361,8 +385,14 @@
     "btc": [
       {
         "headline": "Bitcoin Bounces to $69K as Geopolitical Tensions Ease",
-        "body": "Bitcoin reclaimed $69,000 Monday as ceasefire talks and a delayed Trump deadline on Iran lifted sentiment across crypto markets. Short sellers got caught offside, amplifying the move higher as forced buybacks added fuel. XRP edged up to $1.33 but remains stuck in a tight range, suggesting broader conviction is still thin.\n\nNot everyone is buying the recovery. One analyst warns Bitcoin faces a collapse to $10,000 unless prices can reclaim $75,000 and hold it. Polymarket puts the odds of a US invasion of Iran this year at 63%, meaning the geopolitical risk that briefly lifted markets could just as quickly reverse them.",
+        "body": "Bitcoin reclaimed $69,000 Monday as ceasefire talks between the U.S. and Iran emerged and Trump delayed a key deadline, triggering a short squeeze that pushed crypto markets broadly higher. The relief rally came after weeks of pressure, with XRP also edging up to $1.33 in thin, range-bound trade.\n\nNot everyone is convinced the worst is over. At least one analyst warns that without a decisive reclaim of $75,000, a collapse toward $10,000 remains a credible scenario. The bounce looks fragile against that backdrop.\n\nMichael Saylor added fuel to sentiment by hinting Strategy is preparing its next Bitcoin purchase after a week-long pause. Inflation data due this week could determine whether the rally holds or fades fast.",
         "sources": [
+          {
+            "title": "XRP drifts higher to $1.33, but range-bound trade still dominates",
+            "url": "https://www.coindesk.com/markets/2026/04/06/xrp-drifts-higher-to-usd1-33-but-range-bound-trade-still-dominates",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin reclaims $69,000 as ceasefire talks surface and crypto shorts get squeezed",
             "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-reclaims-usd69-000-as-ceasefire-talks-surface-and-crypto-shorts-get-squeezed",
@@ -376,28 +406,22 @@
             "lean": null
           },
           {
-            "title": "Trump-Iran deadline chaos sends crypto higher while ceasefire hopes rise",
-            "url": "https://cointelegraph.com/news/crypto-markets-bounce-trump-delays-deadline-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Michael Saylor hints at next Strategy Bitcoin buy after weeklong pause",
+            "url": "https://cointelegraph.com/news/michael-saylor-hints-at-next-strategy-bitcoin-buy-after-weeklong-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "XRP drifts higher to $1.33, but range-bound trade still dominates",
-            "url": "https://www.coindesk.com/markets/2026/04/06/xrp-drifts-higher-to-usd1-33-but-range-bound-trade-still-dominates",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post",
-            "url": "https://cointelegraph.com/news/polymarket-odds-us-invade-iran-2027-60-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Trump-Iran deadline chaos sends crypto higher while ceasefire hopes rise",
+            "url": "https://cointelegraph.com/news/crypto-markets-bounce-trump-delays-deadline-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Circle Builds Quantum Defenses Into Its New Layer-1 Blockchain",
-        "body": "Circle has unveiled a quantum-resistant roadmap for Arc, its forthcoming layer-1 blockchain, baking post-quantum cryptography in from the start rather than retrofitting it later. The move positions Arc ahead of most existing chains, which remain vulnerable to the threat quantum computers pose to standard elliptic-curve encryption.\n\nThe timing is deliberate. Quantum hardware is advancing faster than most blockchain developers have planned for, and Circle is betting that security-first infrastructure will matter to institutional users of its stablecoin products. A broader explainer published this week underscores the stakes - a sufficiently powerful quantum computer could theoretically crack Bitcoin's private keys.",
+        "headline": "Circle Builds Quantum Defenses Into New Arc Blockchain",
+        "body": "Circle launched a quantum-resistant roadmap for Arc, its new layer-1 blockchain, embedding post-quantum cryptography from the ground up rather than bolting it on later. The move positions Arc ahead of most existing chains, which remain vulnerable to the cryptographic attacks that sufficiently advanced quantum computers could eventually execute.\n\nThe timing is deliberate. As quantum hardware matures faster than many expected, stablecoin infrastructure sitting on breakable cryptography becomes a systemic risk. Circle is betting that building the defense in now is cheaper than retrofitting it later.",
         "sources": [
           {
             "title": "Circle future-proofs Arc blockchain against quantum threats",
@@ -410,34 +434,22 @@
             "url": "https://cointelegraph.com/news/circle-quantum-proof-roadmap-layer-1-arc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
-            "url": "https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "North Korea Has Quietly Worked Inside DeFi for Seven Years",
-        "body": "North Korean IT workers have been embedding themselves inside DeFi protocols since the 2020 DeFi summer, according to a cybersecurity researcher - far longer than most in the industry have acknowledged. The operatives worked on real codebases, earning salaries and siphoning intelligence, while their identities went undetected across countless projects.\n\nThe revelation reframes past exploits. Many high-profile DeFi hacks may have had inside knowledge behind them rather than purely external attacks. The findings add pressure on protocols to tighten contributor vetting, a process the decentralized nature of these projects makes genuinely difficult.",
+        "headline": "China Kills Bitchat, North Korea Haunts DeFi for Years",
+        "body": "Apple pulled Jack Dorsey's Bitchat from its China App Store at Beijing's request. The encrypted messaging app gained traction during Iran protests, making it a clear target for governments hostile to censorship-resistant communication. Dorsey has not publicly responded.\n\nSeparately, a cybersecurity researcher revealed that North Korean operatives have been embedding themselves inside DeFi protocols since the 2020 DeFi summer, quietly working on codebases across the industry for seven years. The scale of the infiltration is wider than previously understood, raising hard questions about how many live protocols carry compromised code.",
         "sources": [
+          {
+            "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
+            "url": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "North Korean workers have been infiltrating DeFi for 7 years: Researcher",
             "url": "https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Saylor Eyes More Bitcoin; Bitchat Pulled From China App Store",
-        "body": "Michael Saylor signaled Strategy is preparing another Bitcoin purchase after a week-long pause, keeping markets alert to a buy announcement that has historically nudged prices upward. Meanwhile, Apple removed Jack Dorsey's Bitchat app from its China App Store at Beijing's request. Bitchat uses Bitcoin's Lightning Network for messaging, making it a censorship-resistance tool that Chinese authorities clearly found threatening.\n\nRwanda also moved to block Bybit's peer-to-peer platform, which had been offering franc-to-crypto trading, citing regulatory concerns. Separately, a crypto attorney flagged that the recent Drift protocol incident could expose its operators to civil negligence claims - another sign that legal accountability in DeFi is tightening.",
-        "sources": [
-          {
-            "title": "Michael Saylor hints at next Strategy Bitcoin buy after weeklong pause",
-            "url": "https://cointelegraph.com/news/michael-saylor-hints-at-next-strategy-bitcoin-buy-after-weeklong-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
@@ -446,7 +458,13 @@
             "url": "https://cointelegraph.com/news/bitchat-jack-dorsey-china-app-store-removed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Rwanda Blocks Bybit, Drift Faces Negligence Claims",
+        "body": "Rwanda's financial regulator shut down Bybit's peer-to-peer platform, which had been offering franc-to-crypto trading in the country. The move signals that African regulators are sharpening their oversight of crypto on-ramps, even as demand for dollar-denominated assets grows across the continent.\n\nIn a separate legal development, a crypto attorney argued that a recent incident involving Solana-based exchange Drift could meet the threshold for civil negligence. The specifics remain contested, but the case adds to a growing body of DeFi disputes where users are testing whether traditional legal frameworks can reach decentralized protocols.",
+        "sources": [
           {
             "title": "Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading",
             "url": "https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -465,21 +483,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso-Glazed Aubergine (Nasu Dengaku)",
-      "cuisine": "Japanese",
-      "description": "Halved aubergines broiled until silky and caramelised under a sweet-savoury miso and mirin glaze",
-      "tip": "Score the flesh in a crosshatch before glazing so the miso penetrates deeper and the surface blisters beautifully rather than burning"
+      "name": "Miso-Glazed Black Cod",
+      "cuisine": "Japanese (Nobu-style)",
+      "description": "Silky, caramelised fish fillets marinated in white miso, mirin, and sake then broiled until lacquered and golden",
+      "tip": "Marinate the cod for at least 24 hours — the longer fermentation breaks down proteins and gives you that signature melt-in-the-mouth texture"
     },
     "exercise": {
-      "name": "Monday Reset: Loaded Carry Circuit",
+      "name": "The Monday Reset: Loaded Carry Circuit",
       "duration": "35 minutes",
-      "equipment": "Two kettlebells or dumbbells (moderate weight)",
-      "description": "Alternate between farmer carries, suitcase carries, and overhead carries across a set distance, building grip strength, core stability, and posture after a weekend of likely sitting"
+      "equipment": "Two kettlebells or dumbbells, a clear corridor or outdoor path of at least 20 metres",
+      "description": "Cycle through farmer's carries, suitcase carries, and overhead carries at varying loads to build grip strength, core stability, and postural endurance — the kind of functional fitness that transfers to everything else"
     },
     "learn": {
-      "topic": "The Ship of Theseus and Personal Identity Over Time",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — philosophers have extended this to human cells, memory, and selfhood",
-      "why": "On a Monday at the start of a new week it is a quietly unsettling and productive question to sit with: the person who made last week's decisions has been partially replaced, and understanding why that feels wrong reveals a great deal about how identity is constructed rather than discovered"
+      "topic": "The Ship of Theseus and Personal Identity",
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether 'you' today are the same person you were ten years ago.",
+      "why": "Philosophers from Heraclitus to Derek Parfit have used this idea to challenge assumptions about continuity, identity, and what we actually mean when we say 'I' — spending an hour here will quietly rewire how you think about change, responsibility, and self-improvement"
     }
   }
 }
