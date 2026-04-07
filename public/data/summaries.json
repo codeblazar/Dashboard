@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-04-07T09:29:07.030Z",
+  "generatedAt": "2026-04-07T10:24:18.520Z",
   "model": "anthropic/claude-sonnet-4-6",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Threatens Wider Iran Bombing, Impeachment Push Follows",
-        "body": "President Trump held a press conference warning Iran of broader military action, invoking religious justification for the U.S. campaign. Key takeaways include a looming diplomatic deadline and signals that strikes could escalate if Tehran does not comply. The Pentagon abruptly cancelled a scheduled briefing with Defense Secretary Hegseth and General Caine, fuelling speculation about internal coordination gaps.\n\nOn Capitol Hill, Democratic Rep. Ansari introduced articles of impeachment against Hegseth, citing the Iran war as grounds. Republicans have dismissed the move as political theatre. The episode highlights a deepening partisan divide over war powers and civilian oversight of the military, with no bipartisan support for impeachment currently visible.",
+        "headline": "Trump Escalates Iran War Threats, GOP Patience Frays",
+        "body": "President Trump held a press conference warning of wider bombing campaigns against Iran, invoking religious justification for the military operation and threatening further escalation. The Pentagon canceled a scheduled Tuesday briefing with Defense Secretary Hegseth and General Caine, fueling speculation over internal coordination gaps. Republican patience is thinning. Several GOP lawmakers are privately pushing back on the pace and scope of the conflict, even as Trump presses forward. On the Democratic side, Rep. Ansari introduced articles of impeachment against Hegseth over the Iran operation, while Rep. Ilhan Omar publicly called Trump an \"unhinged lunatic\" and demanded his removal. The clash reflects a deepening divide over war powers and executive authority that cuts across both parties.",
         "sources": [
+          {
+            "title": "Ilhan Omar calls Trump an 'unhinged lunatic,' urges booting him out of office",
+            "url": "https://www.foxnews.com/politics/ilhan-omar-calls-trump-unhinged-lunatic-urges-booting-him-out-office",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "GOP patience with Iran operation growing thinner as Trump escalates tensions",
+            "url": "https://thehill.com/homenews/house/5818652-iran-gop-trump/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "House Democrat says she’ll move to impeach Hegseth over Iran war",
             "url": "https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/",
@@ -30,19 +42,19 @@
             "url": "https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump’s looming deadline for Iran",
-            "url": "https://thehill.com/homenews/5818593-trump-iran-deal-deadline/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "2026 Battlegrounds Take Shape: Courts, Primaries, and Gas Prices",
-        "body": "Wisconsin's Supreme Court race is drawing national attention, with liberals positioned to lock in a majority for years if they win. Democrats are simultaneously road-testing gas prices as a campaign message, betting that economic anxiety can drive turnout in 2026 midterms. Republicans are working to shore up their fragile House majority, with Trump backing a candidate in the Georgia district vacated by Marjorie Taylor Greene.\n\nA Democratic Senate primary is fracturing after one candidate aligned with a streamer who made inflammatory remarks about 9/11, handing Republicans an attack line. Virginia Governor Abigail Spanberger is facing falling poll numbers tied to gerrymandering controversy. An AI-backed super PAC is also expanding into multiple GOP primaries, adding a new and largely untested variable to the primary landscape.",
+        "headline": "Key Elections Tuesday: Wisconsin Court, Georgia House Seat",
+        "body": "Two consequential races land Tuesday. In Wisconsin, a Supreme Court seat is on the ballot - a liberal win would hand progressives a court majority with potential reach over redistricting, abortion rights, and election law for years. In Georgia, a Trump-backed candidate is competing for the House seat vacated by Marjorie Taylor Greene, with Republicans eyeing the race as a chance to shore up their narrow House majority. Democrats are entering both contests with economic messaging centered on gas prices, which party strategists see as a durable attack line heading into the 2026 cycle. Results in both races will be read as early indicators of the national political environment.",
         "sources": [
+          {
+            "title": "What to know about Tuesday’s elections in Wisconsin, Georgia",
+            "url": "https://thehill.com/homenews/campaign/5817950-wisconsin-supreme-court-georgia-house-elections/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump-backed candidate aims to pad GOP's fragile House majority battle in showdown for MTG's seat",
             "url": "https://www.foxnews.com/politics/trump-backed-candidate-aims-pad-gops-fragile-house-majority-battle-showdown-mtgs-seat",
@@ -60,6 +72,30 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/07/democrats-gas-prices-election-2026/",
             "source": "Washington Post",
             "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Conversion Therapy Ruling Reignites Free Speech Fight",
+        "body": "The Supreme Court issued a ruling touching on conversion therapy that has reopened a sharp debate between free speech protections and LGBTQ advocacy. Supporters of the decision argue it protects licensed therapists from government compelled speech restrictions. Critics contend it legitimizes a practice widely condemned by major medical associations as harmful. The ruling lands in a politically charged moment, with both sides claiming the court is either protecting or eroding constitutional rights depending on the lens applied.",
+        "sources": [
+          {
+            "title": "Supreme Court stirs free speech debate with conversion therapy ruling",
+            "url": "https://thehill.com/policy/healthcare/5818630-conversion-therapy-free-speech/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Democrats Divided as Emanuel Pushes Party to Reinvent Itself",
+        "body": "Former Chicago Mayor Rahm Emanuel is making a public case that Democrats must change course, arguing the party has lost touch with working-class voters and needs sharper economic messaging over cultural politics. His intervention reflects a broader internal argument that has grown louder since 2024. The tension is visible elsewhere too. A Democratic Senate primary in a key state erupted after one candidate appeared alongside a streamer who made inflammatory comments about 9/11, drawing condemnation and handing Republicans an attack line. Virginia Governor Abigail Spanberger is also facing a polling dip tied to backlash over gerrymandering. The party is heading into the 2026 cycle without a settled message or unified leadership.",
+        "sources": [
+          {
+            "title": "Rahm Emanuel makes case for change to a divided Democratic Party",
+            "url": "https://thehill.com/homenews/campaign/5818596-rahm-emanuel-democrats-critic/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Dem Senate primary erupts in key state as candidate teams up with radical streamer: 'America deserved 9/11'",
@@ -72,81 +108,21 @@
             "url": "https://www.foxnews.com/politics/new-poll-reveals-spanbergers-popularity-amid-backlash-gerrymandering",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "AI-backed super PAC expands into multiple GOP primaries after claiming early wins",
-            "url": "https://www.foxnews.com/politics/ai-backed-super-pac-expands-multiple-gop-primaries-claiming-early-wins",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Clashes With Supreme Court Over Key Legal Battles",
-        "body": "Trump publicly criticised the Supreme Court over its handling of birthright citizenship and tariff-related cases, a rare direct attack on the judiciary from a sitting president. The remarks signal growing White House frustration with legal constraints on its policy agenda. Both issues remain active in the courts, and the administration has not indicated it will back down.\n\nSeparately, the EPA took an early procedural step toward rolling back methane flaring rules, a move environmentalists oppose and the energy industry supports. The DOJ also pushed back against New York City Mayor Mamdani's new racial equity plan, framing it as legally problematic. These clashes illustrate the administration's broad use of federal authority to contest state and local policy.",
-        "sources": [
-          {
-            "title": "Mamdani unveils new 'racial equity plan' for more 'equitable future' that prompts quick DOJ pushback",
-            "url": "https://www.foxnews.com/politics/mamdani-unveils-new-racial-equity-plan-more-equitable-future-prompts-quick-doj-pushback",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "EPA takes early step in methane rule rollback",
-            "url": "https://thehill.com/policy/energy-environment/5818608-epa-methane-rule-flaring/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump rips Supreme Court over birthright citizenship, tariffs",
-            "url": "https://thehill.com/homenews/administration/5818557-birthright-citizenship-trump-sc/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Washington Notebook: Youngkin, Obama Center, and Airport Enforcement",
-        "body": "Former Virginia Governor Glenn Youngkin told Sean Hannity he has \"more to give,\" keeping his national political ambitions alive without committing to a specific race. Rep. Anna Luna called on two House colleagues to resign, adding to internal congressional tensions. These storylines reflect ongoing jockeying within both parties ahead of 2026.\n\nFox News highlighted a perceived contradiction between the Obama Presidential Center requiring ID for free entry and Democratic opposition to voter ID laws. The White House's Easter Egg Roll saw Trump mock former President Biden over autopen use. On immigration enforcement, Senator Mullin pressed cities with international airports to cooperate with federal customs operations, a push that is likely to face resistance from Democratic-led municipalities.",
-        "sources": [
-          {
-            "title": "Obama Center takes heat as critics cry foul over ID rules for free entry — while Dems blast voter ID laws",
-            "url": "https://www.foxnews.com/politics/obama-center-heat-critics-cry-foul-over-id-rules-free-entry-while-dems-blast-voter-id-laws",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Mullin to cities with international airports: ‘You’ve got to partner with us’",
-            "url": "https://thehill.com/homenews/administration/5818744-mullin-customs-enforcement-cities-partnership-airports/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Luna says Gonzales, Cherfilus-McCormick ‘need to go’",
-            "url": "https://thehill.com/homenews/house/5818676-luna-demands-lawmakers-resign/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Youngkin on political future: ‘I have more to give’",
-            "url": "https://thehill.com/homenews/campaign/5818653-youngkin-podcast-interview-hannity/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump roasts Biden over autopen use in viral interaction with kids at White House Easter Egg Roll",
-            "url": "https://www.foxnews.com/politics/trump-roasts-biden-over-autopen-use-viral-interaction-kids-white-house-easter-egg-roll",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Ben Roberts-Smith charged with five Afghan war crime murders",
-        "body": "Former SAS soldier and Victoria Cross recipient Ben Roberts-Smith has been arrested and charged with five counts of murder over alleged killings in Afghanistan. The charges mark a dramatic escalation following his failed defamation case, in which a court found it was substantially true he had committed war crimes.\n\nThe Australian War Memorial has confirmed it will review its display honouring Roberts-Smith. Pauline Hanson declared she would not abandon him, while the Greens argued no one should be above the law - a split that reflects broader political divisions over how Australia reckons with its military conduct abroad.",
+        "headline": "Ben Roberts-Smith Arrested on Five War Crime Murder Charges",
+        "body": "Australia's most decorated living soldier, Ben Roberts-Smith, has been charged with five counts of murder over alleged killings of Afghan civilians during SAS operations. The arrest follows years of criminal investigation after a landmark defamation case in which a Federal Court found the allegations were substantially proven on the balance of probabilities.\n\nPauline Hanson has publicly backed Roberts-Smith, saying she will not abandon him, while the Greens argue no one should be above the law. The Australian War Memorial has confirmed it will review his display. The charges mark a significant escalation in Australia's reckoning with alleged war crimes committed in Afghanistan.",
         "sources": [
+          {
+            "title": "The arrest of Australia's most decorated war hero Ben Roberts-Smith – podcast",
+            "url": "https://www.theguardian.com/australia-news/audio/2026/apr/07/ben-roberts-smith-war-crimes-full-story-podcast",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
           {
             "title": "Ben Roberts-Smith arrested: former Australian soldier charged with five war crime murders in Afghanistan",
             "url": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb",
@@ -168,54 +144,12 @@
         ]
       },
       {
-        "headline": "Albanese fast-tracks Singapore trip to secure fuel supply",
-        "body": "Prime Minister Anthony Albanese has brought forward a trip to Singapore to negotiate fuel shipments as global trade disruption - driven largely by US tariff policy - tightens Australia's petrol supply chains. The move signals growing concern inside government about energy security.\n\nAustralia relies heavily on imported refined fuel, leaving it exposed to shipping and refinery disruptions. The early visit is a rare instance of the government acting pre-emptively on supply risk rather than responding after prices spike.",
+        "headline": "Albanese Acts on Fuel Security as Trump Tariffs Bite",
+        "body": "Prime Minister Anthony Albanese has brought forward a trip to Singapore and held talks with China to secure petrol shipments to Australia, as global trade disruption triggered by US tariffs raises fuel supply concerns. The moves signal growing anxiety in Canberra about energy security under a volatile international trading environment.\n\nSeparately, Australians purchased a record number of new electric vehicles, suggesting consumer demand is shifting even as the government scrambles to protect liquid fuel supply chains. The two developments together highlight the tension between Australia's fossil fuel dependency and its accelerating transition toward electrification.",
         "sources": [
           {
-            "title": "Anthony Albanese brings forward trip to Singapore in bid to shore up petrol shipments to Australia",
+            "title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
             "url": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Queensland crime data cuts through election-year noise",
-        "body": "New Queensland government statistics show crime offences per capita have fallen, complicating the political narrative that drove the state's tough 'adult crime, adult time' laws. Separately, the Guardian reports that in the eleven years since those laws passed, no child has actually been charged under them.\n\nThe data lands as a carjacking spree near Toowoomba and a Townsville crime wave keep law-and-order issues prominent in the media. The gap between headline incidents and broader trend data is a recurring tension in Queensland criminal justice debate.",
-        "sources": [
-          {
-            "title": "Man charged over alleged carjacking spree across southern Queensland",
-            "url": "https://www.abc.net.au/news/2026-04-07/beau-wallace-flegler-charged-alleged-carjacking-spree-toowoomba/106537336",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "No children charged with Queensland’s new ‘adult crime, adult time’ offences in 11 years, government statistics show",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/07/queensland-adult-time-crime-offences-statistics-bill-expanding-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Townsville victim counts cost of crime spree that saw nine arrested",
-            "url": "https://www.abc.net.au/news/2026-04-07/townsville-crime-spree-police-injured-cars-allegedly-stolen/106536828",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "New data on crime in Queensland shows drop in offences per capita",
-            "url": "https://www.abc.net.au/news/2026-04-07/queensland-crime-data-victim-offence-numbers/106538088",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "ABC drops diversity sponsorships as EV sales hit record",
-        "body": "The ABC has quietly ended its financial sponsorship of LGBTQ+, disability and diversity organisations including Acon, drawing criticism from advocates who say the national broadcaster is retreating from inclusion commitments. The ABC has not publicly explained the decision.\n\nElsewhere in policy and consumer news, Australians purchased a record number of new electric vehicles in the latest sales period, suggesting demand-side momentum for the energy transition is building regardless of the political debate around EV incentives.",
-        "sources": [
-          {
-            "title": "ABC drops sponsorship of LGBTQ+, disability and diversity groups including Acon",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/07/abc-drops-lgbtq-diversity-inclusion-sponsorship-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
@@ -226,13 +160,49 @@
             "lean": "left"
           }
         ]
+      },
+      {
+        "headline": "ABC Cuts Diversity Sponsorships Amid Funding Pressure",
+        "body": "The ABC has dropped sponsorships of LGBTQ+, disability and diversity organisations including Acon, in a move that has drawn criticism from advocacy groups. The broadcaster has not publicly detailed the financial reasoning, but the cuts come against a backdrop of ongoing budget pressure on the national broadcaster.\n\nSupporters of the groups say the ABC's withdrawal removes a meaningful signal of institutional backing. Critics of the sponsorships argue public broadcasters should not direct funds toward advocacy organisations. The decision is likely to fuel existing political debate over the ABC's role and funding priorities.",
+        "sources": [
+          {
+            "title": "ABC drops sponsorship of LGBTQ+, disability and diversity groups including Acon",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/07/abc-drops-lgbtq-diversity-inclusion-sponsorship-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Remote NT Community Endures Nine Weeks Without Reliable Connectivity",
+        "body": "The remote Northern Territory community of Wadeye has suffered nine weeks of rolling phone and internet outages, leaving residents without reliable access to emergency services, health information and basic communications. Telstra has been identified as the provider responsible for the affected infrastructure.\n\nThe prolonged outage highlights the persistent gap in telecommunications reliability between remote Indigenous communities and the rest of Australia. Advocates say the situation would be treated as a crisis if it occurred in a major city. No firm restoration timeline has been publicly confirmed.",
+        "sources": [
+          {
+            "title": "Nine weeks of rolling phone, internet outages in remote NT community",
+            "url": "https://www.abc.net.au/news/2026-04-07/nt-community-wadeye-experiences-weeks-of-rolling-telstra-outages/106535008",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
       }
     ],
     "world": [
       {
-        "headline": "US-Israeli Strikes on Iran Enter Day 39 With No Deal",
-        "body": "Thirty-nine days into the US-Israeli military campaign against Iran, Trump has issued a deadline threatening further strikes - including on power plants - if Tehran does not agree to terms over the Strait of Hormuz. Little sign of a breakthrough exists. Israel separately warned Iranians to avoid trains and railways, signalling imminent infrastructure strikes.\n\nA US-Israeli projectile struck a synagogue in Tehran, which Iran says was completely destroyed - an incident likely to complicate any diplomatic off-ramp. Trump and Defense Secretary Hegseth held a press conference invoking religious language to frame the war effort. Analysts question why Iran would accept a ceasefire given what they describe as a poor track record from both Washington and Tel Aviv.",
+        "headline": "US-Israeli strikes on Iran enter day 39 with no ceasefire",
+        "body": "US and Israeli forces continued strikes on Iran on Tuesday, with attacks reported in northern Iran and Tehran itself. A synagogue in the Iranian capital was destroyed, drawing sharp international condemnation. Israel separately warned Iranians to avoid trains and railways, signalling infrastructure strikes may be imminent as a Trump-imposed deadline approaches.\n\nThree people were killed in a shooting near the Israeli consulate in Istanbul, adding to regional tensions. Lebanese firefighters responded to fresh Israeli strikes, and analysts are tracking whether the Houthis will formally enter the conflict. Trump and Defence Secretary Hegseth held a press conference invoking religious language to frame the campaign, while critics warned military action undermines nonproliferation goals.",
         "sources": [
+          {
+            "title": "‘US-Israel playing Russian roulette with security of the region’",
+            "url": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israel-playing-russian-roulette-with-security-of-the?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US-Israeli strikes destroy buildings in northern Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "‘Military action is not an effective means to pursue nonproliferation’",
             "url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
@@ -248,6 +218,18 @@
           {
             "title": "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack",
             "url": "https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Lebanese firefighters respond to aftermath of Israeli strike",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/lebanese-firefighters-respond-to-aftermath-of-israeli-strike?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "What is driving the Houthis’ decision-making on joining the Iran war",
+            "url": "https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -270,79 +252,43 @@
             "lean": null
           },
           {
-            "title": "Trump’s threat to strike Iran’s power plants looms",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
             "title": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Little sign of breakthrough as Trump's Iran deadline nears",
-            "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-            "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
+            "title": "Three killed in shooting near Israeli consulate in Turkiye’s Istanbul",
+            "url": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Lebanon Hit Again as Houthis Weigh Entering Iran War",
-        "body": "Israeli strikes continued to hit Lebanon, with firefighters responding to fresh aftermath on Tuesday. Analysts say the attacks are deliberately stoking internal Lebanese divisions, deepening fissures between communities already strained by years of crisis.\n\nMeanwhile, Yemen's Houthis are weighing whether to formally join the Iran war. Their calculus involves both ideological solidarity with Tehran and the practical risks of escalating US retaliation. A downed US airman was also rescued from a remote part of Iran, with details of the operation emerging.",
+        "headline": "Russia-Ukraine drone war kills six civilians in one day",
+        "body": "Russia and Ukraine each killed three civilians in reciprocal drone strikes on Tuesday, underscoring the grinding attrition that has defined the conflict in recent months. Neither side claimed a tactical breakthrough. The tit-for-tat pattern signals both parties retain enough drone capacity to sustain strikes deep into civilian areas despite ongoing international pressure for negotiations.",
         "sources": [
           {
-            "title": "Lebanese firefighters respond to aftermath of Israeli strike",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/lebanese-firefighters-respond-to-aftermath-of-israeli-strike?traffic_source=rss",
+            "title": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
+            "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "What is driving the Houthis’ decision-making on joining the Iran war",
-            "url": "https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
-            "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How rescue of US airman in remote part of Iran unfolded",
-            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Vance Flies to Budapest to Boost Orban Before Sunday Vote",
-        "body": "US Vice President JD Vance is travelling to Hungary to publicly back Viktor Orban ahead of Sunday's election - an unusually direct intervention by a sitting US official in a European vote. Orban faces a stronger-than-expected challenge from opposition candidate Peter Magyar.\n\nThe visit underscores the Trump administration's alignment with nationalist governments in Europe and its willingness to use the vice presidency as a campaign tool abroad.",
+        "headline": "Vance backs Orbán in Budapest ahead of Sunday election",
+        "body": "US Vice President JD Vance travelled to Hungary to publicly support Viktor Orbán before Sunday's general election, a rare instance of a sitting US official campaigning for a foreign leader. The visit cements the Trump administration's alignment with Europe's nationalist right. Orbán faces his toughest electoral challenge in years from a united opposition.",
         "sources": [
           {
-            "title": "JD Vance due in Hungary to back Orban's re-election bid",
+            "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
             "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
+            "title": "Vance visits Hungary to shore up Orban’s support before Sunday vote",
             "url": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -350,8 +296,8 @@
         ]
       },
       {
-        "headline": "Australia Charges Most-Decorated Living Soldier With War Crimes",
-        "body": "Ben Roberts-Smith, Australia's most-decorated living soldier and a Victoria Cross recipient, has been charged with war crimes allegedly committed in Afghanistan. The charges follow a years-long legal battle that included a defamation case Roberts-Smith lost in 2023, when a court found allegations of unlawful killings were substantially true.\n\nThe criminal charges mark a significant escalation. They signal that Australian authorities are prepared to prosecute elite soldiers despite the political sensitivity surrounding decorated veterans.",
+        "headline": "Australia charges decorated soldier with Afghan war crimes",
+        "body": "Ben Roberts-Smith, Australia's most decorated living soldier, was formally charged with war crimes allegedly committed in Afghanistan. Roberts-Smith, a Victoria Cross recipient, had previously won a defamation case against newspapers that reported the allegations, but prosecutors pressed ahead. The charges mark a significant moment for Australian military accountability and follow years of inquiry into special forces conduct in Afghanistan.",
         "sources": [
           {
             "title": "Australia's most-decorated living soldier charged over alleged war crimes",
@@ -370,25 +316,25 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Faces Internal Trust Crisis While Expanding Global Footprint",
-        "body": "OpenAI insiders are openly questioning CEO Sam Altman's leadership, with sources describing a culture of distrust around his decision-making and direction for the company. The tensions surface as OpenAI pushes aggressively outward - publishing an economic vision that includes public wealth funds, robot taxes, and a four-day workweek to manage AI's labor disruption.\n\nMeanwhile, Iran has threatened OpenAI's Stargate data center under construction in Abu Dhabi, raising security concerns about the Gulf region's emerging role as an AI infrastructure hub. A separate fund run by OpenAI alumni is quietly deploying up to $100 million into early-stage startups, signaling that the company's diaspora is already shaping the next generation of competitors.",
+        "headline": "OpenAI faces threats abroad and distrust at home",
+        "body": "Iran has threatened OpenAI's Stargate data center under construction in Abu Dhabi, raising security concerns about the Gulf's emerging AI infrastructure. The threats come as OpenAI simultaneously published a policy vision calling for public wealth funds, robot taxes, and a four-day workweek to manage AI's economic disruption.\n\nInternally, the company is under pressure from a different direction. A report citing OpenAI insiders describes deep distrust of CEO Sam Altman, with employees questioning his judgment and transparency. Meanwhile, a new fund run by OpenAI alumni has been quietly deploying capital, potentially up to $100 million, suggesting the talent exodus is becoming an investment force of its own.",
         "sources": [
           {
-            "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
-            "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-            "source": "Ars Technica",
+            "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-            "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+            "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+            "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-            "source": "The Verge",
+            "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+            "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
@@ -398,34 +344,16 @@
             "lean": null
           },
           {
-            "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-            "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+            "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+            "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Anthropic Deepens Google and Broadcom Ties for AI Compute",
-        "body": "Anthropic has expanded its partnership with Google and Broadcom to secure next-generation compute infrastructure, a move that tightens its dependence on - and alignment with - two of the most powerful players in AI hardware. The deal reflects a broader race among frontier AI labs to lock in chip supply and custom silicon before demand outpaces availability.\n\nThe announcement comes alongside growing debate about AI's economic footprint. MIT Technology Review points to a specific gap in labor data that makes it nearly impossible to measure how AI is actually reshaping jobs - a problem that matters more as companies like Anthropic scale rapidly.",
-        "sources": [
-          {
-            "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-            "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "The one piece of data that could actually shed light on your job and AI",
-            "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-            "source": "MIT Tech Review",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Physical AI Hits 99% Reliability in Real-World Tasks",
-        "body": "Generalist's GEN-1 robotics model has reached 99% task reliability across diverse physical jobs - folding boxes, fixing vacuums - marking a significant jump toward production-ready robotic systems. That threshold matters because industrial deployment typically demands near-perfect consistency, and most general-purpose robots have fallen well short.\n\nOn the software side, an Indian startup called Rocket is pitching AI-generated strategy consulting reports at a fraction of McKinsey's rates, targeting businesses that want data-driven analysis without the premium fees. Both developments point to the same pressure: AI moving from demo to deployment across physical and knowledge work simultaneously.",
+        "headline": "Robotics hits production reliability, AI floods the music charts",
+        "body": "Generalist's GEN-1 robotics model has reached 99% task reliability across physical jobs like folding boxes and repairing vacuums - a threshold that makes deployment in real production environments credible for the first time. The result signals a shift from lab demos to factory floors.\n\nOn a stranger frontier, an AI-generated singer named Eddie Dalton now holds eleven spots on the iTunes singles chart, despite being neither human nor real. The chart takeover is a stress test for music platforms that have so far struggled to police synthetic artists at scale.",
         "sources": [
           {
             "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
@@ -434,27 +362,45 @@
             "lean": null
           },
           {
-            "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-            "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-            "source": "TechCrunch",
+            "title": "AI singer now occupies eleven spots on iTunes singles chart",
+            "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Singer Floods iTunes; Vibe Coding Backlash Grows",
-        "body": "An AI-generated artist named Eddie Dalton now holds eleven spots on the iTunes singles chart despite having no human identity behind the project. The chart takeover is a stress test the music industry was not ready for, and it raises immediate questions about platform rules and what counts as an artist.\n\nSeparately, a sharp critique of vibe coding - the practice of building software almost entirely through AI prompts with minimal engineering oversight - is gaining traction, with critics arguing the approach produces brittle, unmaintainable code at scale. Google also quietly released an offline-first AI dictation app for iOS, a low-key move that puts pressure on third-party transcription tools.",
+        "headline": "Anthropic, Google, and the race to lock in compute",
+        "body": "Anthropic has expanded its partnership with Google and Broadcom to secure next-generation compute, a move that deepens its reliance on Google infrastructure while signaling that custom silicon is becoming a strategic moat in the AI race. The deal follows a broader industry pattern of frontier labs vertically integrating toward hardware.\n\nOn the chip side, Intel is doubling down on advanced packaging technology as a path to staying competitive without winning the raw transistor race. Together, the moves reflect an industry increasingly convinced that who controls the hardware controls the model.",
         "sources": [
           {
-            "title": "AI singer now occupies eleven spots on iTunes singles chart",
-            "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-            "source": "Hacker News",
+            "title": "Intel is going all-in on advanced chip packaging",
+            "url": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "The cult of vibe coding is dogfooding run amok",
-            "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+            "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+            "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
             "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI creeps into mental health, dictation, and consulting",
+        "body": "Google updated Gemini to surface mental health resources faster when users show signs of distress, a quiet but consequential change to how a mass-market AI handles vulnerable moments. Separately, Google launched an offline-first AI dictation app for iOS with little fanfare, competing directly with tools like Whisper-based apps already popular among privacy-conscious users.\n\nIn the enterprise space, Indian startup Rocket is pitching McKinsey-style strategy reports generated by AI at a fraction of traditional consulting fees. The pitch reflects a growing category of startups betting that AI can commoditize knowledge work that once commanded premium prices.",
+        "sources": [
+          {
+            "title": "Gemini is making it faster for distressed users to reach mental health resources",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+            "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
@@ -468,9 +414,15 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin ETF inflows surge to $471M, highest since February",
-        "body": "Spot Bitcoin ETFs pulled in $471 million in a single day, the strongest inflow figure since late February. The surge came even as Bitcoin itself slipped toward $68,000, with on-chain data pointing to weakening retail demand and whale selling pressure.\n\nThe disconnect between ETF appetite and spot price action suggests institutional buyers are stepping in while broader market sentiment stays cautious. Geopolitical noise added to the uncertainty, with crypto markets holding relatively steady as Trump set a Tuesday night deadline for an Iran nuclear deal.",
+        "headline": "Bitcoin steadies near $68K as ETF inflows surge",
+        "body": "Bitcoin slipped toward $68,000 Monday as whale selling and weakening demand weighed on price, but the dip drew buyers back into ETFs - inflows hit $471 million, the highest single-day figure since late February. The bounce in institutional appetite came even as geopolitical pressure mounted, with Trump setting a Tuesday deadline for an Iran nuclear deal.\n\nAnalysts noted Bitcoin's RSI pattern is tracking the end of the 2022 bear market almost exactly, a signal some read as a setup for recovery. More striking is what Bitcoin is doing relative to tech stocks - it is decoupling from software equities as the Iran conflict and AI spending reshape how investors categorize risk assets. That divergence is new.",
         "sources": [
+          {
+            "title": "Bitcoin RSI ‘nearly perfectly’ copying end of 2022 bear market: Analysis",
+            "url": "https://cointelegraph.com/news/bitcoin-rsi-nearly-perfectly-copying-end-2022-bear-market-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Bitcoin ETF inflows hit $471M, highest since late February",
             "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-471-million-highest-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -494,12 +446,18 @@
             "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-drops-toward-usd68-000-as-demand-weakens-and-whales-sell",
             "source": "CoinDesk",
             "lean": null
+          },
+          {
+            "title": "Bitcoin pulls away from software stocks as Iran war, AI reshape market dynamic",
+            "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-pulls-away-from-software-stocks-as-iran-war-ai-reshape-market-dynamic",
+            "source": "CoinDesk",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "SEC drafts crypto safe harbor rules, 'Reg Crypto' incoming",
-        "body": "The SEC's proposed crypto safe harbor framework has landed at the White House for final review, signaling the clearest regulatory momentum the industry has seen in years. Chair Paul Atkins separately confirmed the agency is close to releasing dedicated fundraising guidance - effectively a 'Reg Crypto' - to replace the patchwork of enforcement-driven precedent.\n\nThe twin developments mark a sharp shift in tone from the SEC. Clear fundraising rules would remove one of the biggest legal risks hanging over token issuers and early-stage crypto projects.",
+        "headline": "SEC crypto safe harbor heads to White House for final review",
+        "body": "The SEC's proposed crypto safe harbor framework has landed at the White House for final review, with Chair Paul Atkins signaling the agency is close to publishing \"reg crypto\" - a dedicated ruleset addressing fundraising questions for digital asset projects. The move marks the most concrete regulatory progress for the industry in years.\n\nAtkins framed the effort as replacing enforcement-driven guidance with clear rules. For token issuers who have operated in legal grey zones since 2017, the shift matters. The timeline remains unconfirmed, but White House review is typically the last step before formal publication.",
         "sources": [
           {
             "title": "Crypto market safe harbor lands at White House for review",
@@ -516,20 +474,26 @@
         ]
       },
       {
-        "headline": "Bitcoin miners face AI power competition as Anthropic signs gigawatt deal",
-        "body": "Anthropic has signed a multi-gigawatt compute deal, putting AI data centers in direct competition with Bitcoin miners for access to cheap electricity. Miners have long relied on surplus or low-cost power to stay profitable, but hyperscale AI infrastructure can outbid them and lock up capacity for years.\n\nThe pressure is structural, not temporary. As AI investment accelerates, miners face a tightening market for the one input they cannot easily substitute.",
+        "headline": "AI giants muscle into power markets, squeezing Bitcoin miners",
+        "body": "Anthropic has signed a multi-gigawatt compute deal that puts it in direct competition with Bitcoin miners for cheap electricity. As AI firms scale infrastructure aggressively, miners face rising power costs and shrinking margins - a structural pressure that compounds the post-halving revenue squeeze already hitting the sector.\n\nGrayscale added a separate long-term concern to the mix, arguing that Bitcoin's quantum computing vulnerability is less a technical problem than a social one. Upgrading the network's cryptography would require broad consensus among a fragmented global community. Getting that agreement, Grayscale suggests, is the harder challenge.",
         "sources": [
           {
             "title": "Bitcoin miners face a new rival for cheap power as Anthropic signs multi-gigawatt compute deal",
             "url": "https://www.coindesk.com/tech/2026/04/07/bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawatt-compute-deal",
             "source": "CoinDesk",
             "lean": null
+          },
+          {
+            "title": "Bitcoin’s quantum challenges are ‘more social than technical’: Grayscale",
+            "url": "https://cointelegraph.com/news/bitcoin-quantum-challenges-more-social-than-technical-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
           }
         ]
       },
       {
-        "headline": "Blockchain evidence convicts terrorists; Solana tightens DeFi security",
-        "body": "On-chain data played a decisive role in convicting three terrorism financiers in Indonesia, with TRM Labs providing blockchain analytics as courtroom evidence. The case is one of the clearest examples yet of crypto's forensic trail being used against bad actors rather than shielding them.\n\nMeanwhile, the Solana Foundation launched new security tools and an incident response network as DeFi attacks on the chain continue. The moves reflect a broader push across the industry to harden infrastructure before regulators force the issue.",
+        "headline": "Onchain data convicts terrorists; Solana tightens DeFi defenses",
+        "body": "Blockchain analytics firm TRM Labs says onchain evidence was central to convicting three terrorism financiers in Indonesia - one of the clearest real-world demonstrations yet of crypto's traceability as a law enforcement tool. The case relied on transaction data to establish financial links that traditional records could not.\n\nOn the security front, the Solana Foundation launched new tools and an incident response network aimed at hardening DeFi protocols after a string of exploits. Separately, risk manager Chaos Labs announced it is stepping away from Aave, saying the decision was deliberate rather than reactive. XRP also struggled, slipping to $1.31 after a failed breakout as liquidity thinned.",
         "sources": [
           {
             "title": "Onchain evidence was key to convicting 3 terrorism financiers: TRM Labs",
@@ -542,6 +506,18 @@
             "url": "https://cointelegraph.com/news/solana-foundation-launches-new-security-tools-and-incident-response-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
+          },
+          {
+            "title": "Chaos Labs taps out as Aave's risk provider, decision ‘not made in haste’",
+            "url": "https://cointelegraph.com/news/defi-risk-manager-chaos-labs-leaves-aave-says-decision-not-made-haste?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "XRP slips to $1.31 after failed breakout as liquidity dries up",
+            "url": "https://www.coindesk.com/markets/2026/04/07/xrp-slips-to-usd1-31-after-failed-breakout-as-liquidity-dries-up",
+            "source": "CoinDesk",
+            "lean": null
           }
         ]
       }
@@ -551,19 +527,19 @@
     "food": {
       "name": "Miso-Glazed Black Cod",
       "cuisine": "Japanese (Nobu-style)",
-      "description": "Silky, caramelised fish fillets marinated in white miso, mirin, and sake then broiled until lacquered and golden",
-      "tip": "Marinate for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust when it hits the heat"
+      "description": "Silky, caramelised white fish marinated in sweet miso and mirin, broiled until lacquered and just flaking",
+      "tip": "Marinate the cod for at least 24 hours — the longer the miso sits on the fish, the deeper the umami crust when it hits the heat"
     },
     "exercise": {
-      "name": "Farmer's Carry Ladder",
-      "duration": "25 minutes",
-      "equipment": "Two kettlebells or dumbbells (heavy)",
-      "description": "Walk 20 metres carrying heavy weights at your sides, set them down, do 5 deadlifts, then pick up and walk back — increasing weight each round to build grip strength, core stability, and real-world carrying power"
+      "name": "Loaded Carry Circuit",
+      "duration": "35 minutes",
+      "equipment": "Two kettlebells or heavy dumbbells, open floor space",
+      "description": "Cycle through farmer's carries, suitcase carries, and overhead carries at varying distances, building grip strength, core stability, and real-world functional power in a way that no machine can replicate"
     },
     "learn": {
       "topic": "The Ship of Theseus and Personal Identity",
-      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether you are the same person you were ten years ago.",
-      "why": "Philosophers from Heraclitus to Derek Parfit have used it to challenge assumptions about continuity and selfhood, and spending an hour with Parfit's 'Reasons and Persons' argument will quietly unsettle how you think about your past decisions and future self in a genuinely useful way"
+      "description": "The ancient paradox asks whether an object that has had all its components replaced remains fundamentally the same object — and when applied to human cells, memories, and beliefs, it becomes a sharp question about whether 'you' today are the same person you were a decade ago.",
+      "why": "Philosophers from Heraclitus to Derek Parfit have used this puzzle to challenge assumptions about continuity, selfhood, and what we actually mean when we say 'I' — an hour spent here will quietly reframe how you think about change, responsibility, and identity for years"
     }
   }
 }
