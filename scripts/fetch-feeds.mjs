@@ -278,8 +278,12 @@ async function main() {
     const items = await fetchFeed(source)
     const hours = source.category === 'ai' ? AI_HOURS : DEFAULT_HOURS
     const recent = filterRecent(items, hours)
-    console.log(`${items.length} items → ${recent.length} recent`)
-    allItems.push(...recent)
+    // BTC sources cover all crypto — keep only Bitcoin-specific articles
+    const filtered = source.category === 'btc'
+      ? recent.filter(item => /bitcoin|\bbtc\b/i.test(item.title))
+      : recent
+    console.log(`${items.length} items → ${recent.length} recent → ${filtered.length} kept`)
+    allItems.push(...filtered)
   }
 
   // Sort newest-first

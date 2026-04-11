@@ -4,6 +4,9 @@ const THEMES = ['system', 'light', 'dark']
 const THEME_ICONS = { system: '⚙️', light: '☀️', dark: '🌙' }
 const THEME_LABELS = { system: 'System', light: 'Light', dark: 'Dark' }
 
+const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN
+const WORKFLOW_URL = 'https://api.github.com/repos/codeblazar/Dashboard/actions/workflows/fetch-feeds.yml/dispatches'
+
 function applyTheme(theme) {
   const root = document.documentElement
   if (theme === 'dark') {
@@ -18,6 +21,7 @@ function applyTheme(theme) {
 export default function Header({ generatedAt }) {
   const [now, setNow] = useState(new Date())
   const [theme, setTheme] = useState(() => localStorage.getItem('theme') ?? 'system')
+  const [triggering, setTriggering] = useState(false)
 
   useEffect(() => {
     const id = setInterval(() => setNow(new Date()), 60_000)
@@ -36,6 +40,30 @@ export default function Header({ generatedAt }) {
 
   const nextTheme = () => setTheme(t => THEMES[(THEMES.indexOf(t) + 1) % THEMES.length])
 
+  async function triggerNow() {
+    if (!window.confirm('Trigger a new AI briefing now?\n\nThis uses your API quota and will take about 2 minutes.')) return
+    setTriggering(true)
+    try {
+      const res = await fetch(WORKFLOW_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${GITHUB_TOKEN}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ ref: 'main' }),
+      })
+      if (res.ok || res.status === 204) {
+        alert('Briefing triggered. Check back in about 2 minutes.')
+      } else {
+        alert(`Could not trigger workflow (HTTP ${res.status}).`)
+      }
+    } catch {
+      alert('Network error — could not trigger workflow.')
+    } finally {
+      setTriggering(false)
+    }
+  }
+
   return (
     <header className="site-header">
       <div className="header-left">
@@ -45,6 +73,11 @@ export default function Header({ generatedAt }) {
       <div className="header-right">
         {generatedAt && (
           <span className="feeds-age">Briefing updated {relativeTime(generatedAt)}</span>
+        )}
+        {GITHUB_TOKEN && (
+          <button className="trigger-btn" onClick={triggerNow} disabled={triggering}>
+            {triggering ? 'Triggering…' : 'Trigger Now'}
+          </button>
         )}
         <button className="theme-toggle" onClick={nextTheme} title={`Theme: ${THEME_LABELS[theme]}`}>
           {THEME_ICONS[theme]} {THEME_LABELS[theme]}

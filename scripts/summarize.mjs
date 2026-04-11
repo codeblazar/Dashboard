@@ -30,9 +30,9 @@ const CATEGORY_CONFIG = {
     prompt: 'artificial intelligence, technology, and related developments.',
   },
   'btc': {
-    label: 'Bitcoin & Crypto',
+    label: 'Bitcoin',
     balanced: false,
-    prompt: 'Bitcoin, cryptocurrency markets, and blockchain developments.',
+    prompt: 'Bitcoin specifically. Focus only on Bitcoin (BTC) - price moves, adoption, regulation, and technology. Do not cover altcoins, Ethereum, or other cryptocurrencies.',
   },
 }
 
@@ -107,10 +107,12 @@ Group into 2-4 major stories. For each one write:
 Writing rules - follow these carefully:
 - Write like a sharp journalist, not a press release
 - Use plain hyphens (-) instead of em dashes or en dashes. Never use -- or - - either. Just rewrite the sentence if needed.
-- Mix short and long sentences deliberately. A short one lands harder after a longer one.
-- Cut anything that doesn't add information. No throat-clearing, no "it is worth noting that", no "in a significant development"
+- Vary sentence length deliberately and often. Short sentences punch. Longer ones build context and carry the detail that makes a story land. Then cut back short. Vary the rhythm across every paragraph - never two sentences of the same length back to back.
+- Vary sentence structure: mix simple, compound, and complex. Start some sentences mid-thought. Lead with the news, not the actor. Occasionally flip the structure.
+- Cut anything that doesn't add information. No throat-clearing, no "it is worth noting that", no "in a significant development", no "this comes as", no "meanwhile"
 - Synthesise across sources. Do not just restate headlines.
 - Use active voice. Keep verbs strong.
+- Sound like a person wrote this, not a machine. Read it back - if it sounds robotic, rewrite it.
 
 Return ONLY valid JSON:
 {
