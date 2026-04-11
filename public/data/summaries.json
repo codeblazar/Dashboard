@@ -1,44 +1,269 @@
 {
-  "generatedAt": "2026-04-11T10:41:18.600Z",
-  "model": "anthropic/claude-3-haiku",
+  "generatedAt": "2026-04-11T10:43:54.693Z",
+  "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Politics summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Swalwell Sexual Assault Claims Spark California Democratic Turmoil",
+        "body": "California gubernatorial candidate Eric Swalwell faces a major political crisis after a former staffer alleged sexual assault. The accusations have prompted rapid fallout - campaign chairs and key endorsements are abandoning his bid. Democratic leaders like Nancy Pelosi have described the allegations as indefensible, creating significant internal party tension.\n\nThe claims threaten to derail Swalwell's political ambitions and expose deep fault lines within California's Democratic establishment. Party leaders are struggling to navigate the sensitive allegations while maintaining party unity.",
+        "sources": [
+          {
+            "title": "Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer",
+            "url": "https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations: 'Indefensible'",
+            "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Swalwell loses campaign chairs, endorsements over sexual assault allegations",
+            "url": "https://thehill.com/homenews/campaign/5826574-swalwell-loses-campaign-chair-endorsements-over-sexual-assault-allegations/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Swalwell's former female staffer drops bombshell allegations of sexual assault, exposing himself: report",
+            "url": "https://www.foxnews.com/politics/swalwells-former-female-staffer-drops-bombshell-allegations-sexual-assault-exposing-himself-report",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "US-Iran Peace Talks Reach Critical Moment in Pakistan",
+        "body": "High-stakes diplomatic negotiations between the US and Iran are underway in Pakistan, with Senator J.D. Vance leading American efforts to stabilize a fragile ceasefire. The talks represent a complex diplomatic challenge - Vance, previously skeptical of military interventions, now finds himself at the center of delicate international negotiations.\n\nDiplomatic sources describe the talks as tense but potentially pivotal. Success could reduce regional tensions, while failure might escalate existing conflicts in the Middle East.",
+        "sources": [
+          {
+            "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy",
+            "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Vance arrives in Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters",
+            "url": "https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "The Memo: Stakes are huge for tense US-Iran talks in Islamabad",
+            "url": "https://thehill.com/homenews/administration/5826584-iran-us-ceasefire-lebanon/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
+            "url": "https://www.washingtonpost.com/politics/2026/04/11/vance-war-skeptic-peace-talks/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump's Influence Continues to Shape Republican Party Dynamics",
+        "body": "Former President Donald Trump remains a powerful force in Republican politics, actively endorsing candidates and influencing party strategy. In California, Trump's backing of a GOP candidate tests local party leadership's independence. Meanwhile, Republican strategists are closely watching how Trump's political playbook continues to impact candidate selection and campaign tactics.\n\nTrump's ongoing involvement suggests he remains a central figure in shaping the party's future direction, despite legal challenges and internal party debates.",
+        "sources": [
+          {
+            "title": "Trump adversary running for Senate borrows his filibuster playbook",
+            "url": "https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump backs Hilton ahead of California GOP vote, testing Bianco’s grip on party endorsement",
+            "url": "https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump, sounding like Biden, says he deserves more credit",
+            "url": "https://www.washingtonpost.com/politics/2026/04/11/trump-biden-economy-approval/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Australian Politics summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Albanese's Singapore Trip: Diplomatic Success or Missed Opportunity?",
+        "body": "Prime Minister Anthony Albanese returned from Singapore with mixed reviews about his diplomatic mission. While the Guardian suggests the visit was strategically valuable, questions remain about concrete outcomes - particularly regarding fuel supply and regional relationships.\n\nThe trip highlights the complex balancing act of international diplomacy. Albanese sought to strengthen ties with a key regional partner, but critics argue more tangible results were needed. The nuanced assessment reflects the ongoing challenges of Australia's international engagement.",
+        "sources": [
+          {
+            "title": "Albanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a success",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/11/albanese-singapore-australia-fuel-supply-petrol-prices-diesel-analysis",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "The war has put Thailand's multi-billion-dollar fishing industry in 'big trouble'",
+            "url": "https://www.abc.net.au/news/2026-04-11/middle-east-war-fuel-prices-hit-thailand-fishing-industry-work/106554192",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Sydneysiders are leaving cars at home as fuel crisis changes behaviour",
+            "url": "https://www.abc.net.au/news/2026-04-11/fuel-crisis-sees-less-cars-on-sydney-roads-data-shows/106552126",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "High-Stakes Legal Battle: Lehrmann Case Collapses at High Court",
+        "body": "The High Court has effectively ended Bruce Lehrmann's defamation case, marking a dramatic conclusion to a highly publicized legal dispute. The ruling represents a significant moment in Australian media and legal circles - one that will likely prompt broader discussions about legal accountability and public discourse.\n\nLehrmann's case has been closely watched as a test of legal and journalistic boundaries. The court's decision suggests a comprehensive rejection of the plaintiff's arguments, potentially setting important precedents for future defamation proceedings.",
+        "sources": [
+          {
+            "title": "High Court has made Bruce Lehrmann's defamation case a complete failure",
+            "url": "https://www.abc.net.au/news/2026-04-11/high-court-bruce-lehrmann-defamation-case-complete-failure/106548078",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Tensions Escalate: Lebanese Australians Respond to Middle East Conflict",
+        "body": "Australian Lebanese communities are experiencing intense emotional responses to ongoing conflicts in the Middle East. The Guardian reports deep feelings of outrage and fear as violence continues to impact their ancestral homeland.\n\nThe story underscores the complex ways global conflicts reverberate through diaspora communities. Personal connections transform international tensions into deeply felt local experiences - highlighting the human dimension of geopolitical struggles.",
+        "sources": [
+          {
+            "title": "‘There’s people dying for your petrol’: while Israel bombs Beirut, Lebanese Australians feel outrage and fear",
+            "url": "https://www.theguardian.com/news/2026/apr/11/lebanese-australians-reaction-israel-bombing-beirut-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Israel's mass killing has forced Trump to think about Lebanon",
+            "url": "https://www.abc.net.au/news/2026-04-11/israels-mass-killing-has-forced-trump-to-think-about-lebanon/106554032",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "After October 7, deterrence is no longer enough",
+            "url": "https://www.spectator.com.au/2026/04/after-october-7-deterrence-is-no-longer-enough/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
       }
     ],
     "world": [
       {
-        "headline": "World Events summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
-      }
-    ],
-    "ai": [
-      {
-        "headline": "FBI Exploits Push Notifications for Surveillance",
-        "body": "The FBI has found a way to hijack push notifications on people's devices, allowing them to monitor and gather information without users' knowledge or consent. This revelation raises serious concerns about privacy and the government's ability to conduct surveillance through everyday technology. Experts warn that this tactic undermines the security and trust that people place in their devices and apps, and call for greater transparency and accountability from law enforcement agencies.",
+        "headline": "US-Iran Talks Loom as Tensions Simmer in Middle East",
+        "body": "High-stakes diplomatic negotiations between the US and Iran are set to begin, with both sides signaling cautious optimism. Pakistan has positioned itself as a critical mediator, with its prime minister calling the talks make or break for regional stability.\n\nThe backdrop remains tense. Trump suggests the strategic Strait of Hormuz will reopen soon, while satellite providers face pressure over image restrictions. Diplomatic sources hint at potential breakthrough - but deep mistrust could still derail progress.",
         "sources": [
           {
-            "title": "Your Push Notifications Aren’t Safe From the FBI",
-            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-            "source": "Wired",
+            "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Video: Vance arrives in Pakistan for talks with Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+            "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+            "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Artemis II Mission Ends, NASA Faces Uncertain Future",
-        "body": "The Artemis II mission, which sent four astronauts on a daring journey around the Moon, has safely returned to Earth. However, the successful completion of this mission raises questions about NASA's next steps. With the Artemis program facing budget constraints and technical challenges, the space agency must now determine its priorities and chart a course forward that balances ambition with pragmatism. Experts suggest that NASA may need to reevaluate its long-term goals and explore alternative approaches to achieve its objectives.",
+        "headline": "NASA Celebrates Artemis II Mission's Successful Return",
+        "body": "NASA's Artemis II mission completed a historic lunar journey with a triumphant Pacific Ocean splashdown. The mission marks a significant milestone in human space exploration - returning astronauts to lunar proximity for the first time in decades.\n\nWhile NASA hails the mission's success, agency leaders acknowledge substantial work remains to fully realize lunar exploration goals. The splashdown represents more than a technical achievement - it signals renewed human ambition in space.",
+        "sources": [
+          {
+            "title": "NASA hails success of Artemis moon mission but says more work to do",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+            "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Moment Artemis II splashes down after moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II mission was a triumph - now comes the hard part",
+            "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel-Gaza Conflict Escalates with Deadly Drone Attacks",
+        "body": "Israeli military operations in Gaza have intensified, with at least seven Palestinians killed in recent attacks. A drone strike near a mosque underscores the ongoing brutality of the conflict.\n\nRegional tensions extend beyond Gaza. Israel has rejected a potential ceasefire with Hezbollah ahead of scheduled talks, suggesting continued military pressure across multiple fronts. The cycle of violence shows no immediate signs of abating.",
+        "sources": [
+          {
+            "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+            "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "headline": "Artemis II Completes Historic Lunar Mission",
+        "body": "NASA successfully completed the Artemis II mission, with four astronauts returning safely to Earth after orbiting the Moon. The mission marks a critical milestone in human space exploration - the first crewed lunar flight since Apollo. Detailed mission reports suggest the journey tested spacecraft capabilities and human endurance in deep space environments.",
         "sources": [
           {
             "title": "The Artemis II mission has ended. Where does NASA go from here?",
@@ -61,25 +286,67 @@
         ]
       },
       {
-        "headline": "Californians Sue Over AI Tool Recording Doctor Visits",
-        "body": "A group of Californians have filed a lawsuit against a healthcare provider for using an AI tool that secretly records patient-doctor conversations. The plaintiffs argue that this practice violates their privacy and undermines the trust and confidentiality that should exist in the doctor-patient relationship. The case highlights the growing concerns around the use of AI in sensitive healthcare settings and the need for stronger regulations to protect individuals' rights and personal information.",
+        "headline": "AI and Tech Tensions Spark Legal and Security Challenges",
+        "body": "Tech companies face mounting pressures from legal and security challenges. Anthropic temporarily banned a creator from accessing its Claude AI, while a lawsuit emerged over an AI tool recording doctor visits. In a separate incident, a 20-year-old was arrested for allegedly throwing a Molotov cocktail at an AI executive's home - highlighting growing tensions around artificial intelligence development.",
         "sources": [
           {
             "title": "Californians sue over AI tool that records doctor visits",
             "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
             "source": "Ars Technica",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Anthropic Bans OpenClaw Creator from Accessing Claude",
-        "body": "Anthropic, the AI research company, has temporarily banned the creator of the OpenClaw project from accessing its language model, Claude. This move comes after the creator allegedly used the model in ways that Anthropic deemed inappropriate or unauthorized. The incident raises questions about the control and oversight that AI companies have over their models, and the potential tensions that can arise between researchers and the companies developing these powerful technologies.",
-        "sources": [
+          },
           {
             "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
             "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
             "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+            "source": "Wired",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Government and Cybersecurity Shifts Reshape Tech Landscape",
+        "body": "France announced plans to replace Windows with Linux, citing strategic risks from US technology. Meanwhile, new vulnerabilities emerged - including a Windows Defender exploit that could grant system access. The FBI's ability to access push notifications raised additional privacy concerns. These developments signal significant shifts in governmental and corporate technology strategies.",
+        "sources": [
+          {
+            "title": "Your Push Notifications Aren’t Safe From the FBI",
+            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
+            "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+            "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
+            "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
+            "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
@@ -87,8 +354,8 @@
     ],
     "btc": [
       {
-        "headline": "Bhutan Dumps 70% of Bitcoin Holdings in 18 Months",
-        "body": "The tiny Himalayan nation of Bhutan has sold off 70% of its Bitcoin holdings over the past 18 months, according to a report from CoinDesk. The country may have also halted its Bitcoin mining operations. Bhutan's central bank, the Royal Monetary Authority, has not provided a clear explanation for the sell-off, leading to speculation that the country is scaling back its crypto ambitions. The news comes as a surprise, as Bhutan had been seen as a rare example of a government embracing Bitcoin and exploring its potential use cases.",
+        "headline": "Bhutan Dumps Most Bitcoin Holdings - Mining Likely Halted",
+        "body": "The Himalayan nation has dramatically reduced its cryptocurrency portfolio. Bhutan sold 70% of its Bitcoin reserves over the past 18 months - a significant pullback from its initial crypto investment strategy.\n\nThe move signals potential shifts in the country's approach to digital assets. Sources suggest Bhutan may have completely stopped Bitcoin mining operations, marking a stark reversal from its earlier enthusiasm for cryptocurrency investments.",
         "sources": [
           {
             "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
@@ -102,21 +369,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Lamb Tagine",
-      "cuisine": "Moroccan",
-      "description": "Slow-cooked lamb in a fragrant blend of spices, dried fruits, and vegetables, served over fluffy couscous.",
-      "tip": "Let the tagine simmer for at least 2 hours to allow the flavors to meld and the meat to become tender."
+      "name": "Kyoto Spring Risotto",
+      "cuisine": "Japanese-Italian fusion",
+      "description": "Creamy arborio rice with fresh bamboo shoots, spring peas, and cherry blossom-infused butter",
+      "tip": "Toast rice in butter before adding liquid to enhance nutty undertones"
     },
     "exercise": {
-      "name": "Yoga Flow for Strength and Flexibility",
-      "duration": "60 minutes",
-      "equipment": "Yoga mat",
-      "description": "A dynamic yoga sequence that combines challenging poses to build strength and improve overall flexibility."
+      "name": "Urban Parkour Flow Session",
+      "duration": "45 minutes",
+      "equipment": "Lightweight training shoes, gloves optional",
+      "description": "Improvised movement through city environments, focusing on efficient transitions between obstacles and controlled landings"
     },
     "learn": {
-      "topic": "The History of Cryptography",
-      "description": "Explore the fascinating evolution of cryptography, from ancient ciphers to modern-day encryption techniques.",
-      "why": "Understanding the history of cryptography provides valuable insights into the ongoing battle between code-makers and code-breakers, and how it has shaped our digital world."
+      "topic": "Biomimicry in Sustainable Design",
+      "description": "Exploring how nature's evolutionary solutions can inspire innovative technological and architectural solutions to complex human challenges",
+      "why": "Reveals profound connections between natural systems and human innovation, offering transformative perspectives on problem-solving"
     }
   }
 }
