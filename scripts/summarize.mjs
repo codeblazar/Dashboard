@@ -5,7 +5,7 @@ import path from 'path'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY
-const MODEL = 'anthropic/claude-3-haiku'
+const MODEL = 'anthropic/claude-3.5-haiku'
 const BASE_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
 const CATEGORY_CONFIG = {
