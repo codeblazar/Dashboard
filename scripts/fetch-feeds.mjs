@@ -280,7 +280,7 @@ async function main() {
     const recent = filterRecent(items, hours)
     // BTC sources cover all crypto — keep only Bitcoin-specific articles
     const filtered = source.category === 'btc'
-      ? recent.filter(item => /bitcoin|\bbtc\b/i.test(item.title))
+      ? recent.filter(item => /bitcoin|\bbtc\b|satoshi|lightning network|bitcoin etf/i.test(item.title))
       : recent
     console.log(`${items.length} items → ${recent.length} recent → ${filtered.length} kept`)
     allItems.push(...filtered)

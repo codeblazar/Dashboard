@@ -65,6 +65,10 @@ async function callOpenRouter(messages) {
   // Strip markdown code fences if model wraps response despite json_object format
   content = content.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim()
 
+  // Extract the JSON object in case the model prepends/appends prose
+  const jsonMatch = content.match(/\{[\s\S]*\}/)
+  if (jsonMatch) content = jsonMatch[0]
+
   try {
     return JSON.parse(content)
   } catch {
@@ -113,6 +117,7 @@ Writing rules - follow these carefully:
 - Synthesise across sources. Do not just restate headlines.
 - Use active voice. Keep verbs strong.
 - Sound like a person wrote this, not a machine. Read it back - if it sounds robotic, rewrite it.
+- Paraphrase direct quotes rather than quoting verbatim. Do not use quotation marks around speech.
 
 Return ONLY valid JSON:
 {
