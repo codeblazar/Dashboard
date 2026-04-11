@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T10:05:51.446Z",
+  "generatedAt": "2026-04-11T10:21:16.007Z",
   "model": "anthropic/claude-3-haiku",
   "summaries": {
     "us-politics": [
@@ -18,76 +18,192 @@
     ],
     "world": [
       {
-        "headline": "World Events summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Artemis II Splashes Down After Historic Moon Mission",
+        "body": "NASA's Artemis II mission successfully returned astronauts to the Moon for the first time in over 50 years, with the crew safely splashing down in the Pacific Ocean. While hailing the mission as a triumph, NASA acknowledged more work is needed to make future Artemis flights a reality. The agency said it will continue to refine the spacecraft and systems to ensure the long-term sustainability of lunar exploration.",
+        "sources": [
+          {
+            "title": "NASA hails success of Artemis moon mission but says more work to do",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+            "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Moment Artemis II splashes down after moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II mission was a triumph - now comes the hard part",
+            "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Djibouti's President Wins Sixth Term Amid Opposition Concerns",
+        "body": "Djibouti's President Ismail Omar Guelleh has won a sixth consecutive term in office, securing 97.8% of the vote. The election was criticized by opposition groups, who alleged irregularities and a lack of a level playing field. Guelleh, who has ruled the strategic Horn of Africa nation since 1999, dismissed the concerns, saying the vote was 'free and transparent'.",
+        "sources": [
+          {
+            "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+            "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+            "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tensions Flare in Gaza as Israel Rejects Ceasefire with Hezbollah",
+        "body": "At least seven Palestinians have been killed in recent Israeli airstrikes on Gaza, as tensions escalate in the region. Israel has rejected a ceasefire proposal with Hezbollah, ahead of talks next week with Lebanon. The attacks come amid concerns over the potential for a wider conflict, with the US and Iran also set to hold talks in the coming days that could have significant implications for the region.",
+        "sources": [
+          {
+            "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+            "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+            "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+            "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "UK Delays Chagos Islands Deal Amid US Opposition",
+        "body": "The UK has decided to hold off on a deal to cede the Chagos Islands to Mauritius, amid opposition from the United States. The Chagos Islands, which were part of the British Indian Ocean Territory, have been a source of longstanding dispute, with Mauritius claiming sovereignty over the archipelago. The UK's decision to delay the deal comes as it navigates the complex geopolitical landscape surrounding the strategically important islands.",
+        "sources": [
+          {
+            "title": "UK to hold off on deal ceding Chagos Islands amid US opposition",
+            "url": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
       }
     ],
     "ai": [
       {
-        "headline": "AI & Technology summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "France Ditches Windows for Linux, Citing US Tech Risks",
+        "body": "The French government is moving away from Windows and towards Linux, citing concerns over the strategic risks posed by US technology. This decision comes as part of a broader effort to reduce reliance on American tech giants and strengthen France's digital sovereignty. The shift is seen as a significant step towards greater technological independence and a potential model for other European nations looking to reduce their exposure to US-based platforms and services.",
+        "sources": [
+          {
+            "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+            "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Artemis II Splashes Down After Daring Moon Mission",
+        "body": "NASA's Artemis II mission has successfully concluded, with the four astronauts safely returning to Earth after a daring journey around the Moon. The mission marks a significant milestone in the Artemis program, paving the way for future crewed missions to the lunar surface. As the Artemis program moves forward, NASA must now determine its next steps, balancing the program's ambitious goals with budgetary and technical challenges.",
+        "sources": [
+          {
+            "title": "The Artemis II mission has ended. Where does NASA go from here?",
+            "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Four astronauts are back home after a daring ride around the Moon",
+            "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Artemis II safely splashes down",
+            "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Tool Recording Doctor Visits Sparks Californian Lawsuit",
+        "body": "Californians have filed a lawsuit over an AI tool that records doctor visits without patients' consent. The tool, which is used by some healthcare providers, has raised concerns about patient privacy and the potential misuse of sensitive medical data. The case highlights the growing tensions between the adoption of AI technologies in healthcare and the need to protect individual rights and personal information.",
+        "sources": [
+          {
+            "title": "Californians sue over AI tool that records doctor visits",
+            "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Anthropic Bans OpenClaw Creator from Accessing AI Model",
+        "body": "Anthropic, the AI research company, has temporarily banned the creator of the OpenClaw tool from accessing its AI model, Claude. The move comes after concerns were raised about the reliability and stability of OpenClaw's interactions with the model. The incident underscores the challenges faced by AI developers in balancing the need for open access and the responsibility to ensure the safe and responsible use of their technology.",
+        "sources": [
+          {
+            "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+            "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
+            "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Arizona Court Blocks Crackdown on Crypto Contracts",
-        "body": "A federal court has blocked Arizona from bringing criminal charges against Kalshi, a platform that offers event contracts. The state had sought to classify these contracts as illegal gambling, but the court ruled that the contracts are not gambling and are protected by the First Amendment. This is a significant win for the crypto industry, as it prevents states from overreaching in their regulation of innovative financial products.",
-        "sources": [
-          {
-            "title": "Federal court blocks Arizona crackdown on Kalshi’s event contracts",
-            "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Federal judge blocks Arizona from bringing criminal charges against Kalshi",
-            "url": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitwise Edges Closer to Launching Hyperliquid ETF",
-        "body": "Bitwise Asset Management has filed a second amended application with the SEC for its Hyperliquid Bitcoin ETF. This brings the company one step closer to launching the product, which aims to provide investors with exposure to Bitcoin through a highly liquid and transparent investment vehicle. The ETF's unique structure could make it an attractive option for institutional and retail investors seeking regulated access to the crypto market.",
-        "sources": [
-          {
-            "title": "Bitwise edges closer to Hyperliquid ETF launch with second amended filing",
-            "url": "https://cointelegraph.com/news/bitwise-edges-closes-to-hyperliquid-etf-launch-with-second-amended-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "XRP Price Shows Signs of Bottoming Out",
-        "body": "The price of XRP, the native cryptocurrency of the Ripple network, has held a key support level, suggesting a potential bottom may be forming. Analysts are closely watching the altcoin's performance, as a sustained recovery could signal a broader upturn in the crypto markets. While the ongoing legal battle between Ripple and the SEC continues to weigh on XRP, the latest price action provides some optimism for investors.",
-        "sources": [
-          {
-            "title": "XRP price bottom signals emerge after the altcoin holds key support level",
-            "url": "https://cointelegraph.com/news/xrp-price-bottom-signals-emerge-after-the-altcoin-holds-key-support-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "CFTC Unveils Innovation Task Force to Provide Crypto Clarity",
-        "body": "The Commodity Futures Trading Commission (CFTC) has announced the members of its new Innovation Task Force, which aims to provide greater regulatory clarity for the crypto industry. The task force will work to identify emerging trends, assess risks, and develop appropriate policies and guidance. This move is seen as a positive step towards fostering innovation in the crypto space while ensuring appropriate oversight and consumer protection.",
-        "sources": [
-          {
-            "title": "CFTC unveils innovation task force members in crypto clarity push",
-            "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bhutan Sells 70% of Its Bitcoin in 18 Months",
-        "body": "The small Himalayan nation of Bhutan has reportedly sold off 70% of the Bitcoin it acquired in 2021, and may have also stopped mining the cryptocurrency. The country's decision to scale back its crypto holdings comes amid a broader market downturn and regulatory uncertainty. This move highlights the challenges faced by governments and institutions in navigating the volatile and rapidly evolving crypto landscape.",
+        "headline": "Bhutan Dumps 70% of Bitcoin Holdings in 18 Months",
+        "body": "The tiny Himalayan nation of Bhutan has sold off a significant portion of its Bitcoin holdings, offloading 70% of its BTC in just 18 months. The country, which had previously embraced Bitcoin mining, may have also halted those operations entirely. This dramatic shift in Bhutan's crypto strategy comes as the country grapples with economic challenges and a need to shore up its finances.",
         "sources": [
           {
             "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
@@ -104,18 +220,18 @@
       "name": "Moroccan Lamb Tagine",
       "cuisine": "Moroccan",
       "description": "Slow-cooked lamb in a fragrant sauce of spices, dried fruits, and vegetables, served over couscous.",
-      "tip": "Let the tagine simmer for at least 2 hours to allow the flavors to meld."
+      "tip": "Let the tagine simmer for at least 2 hours to allow the flavors to meld and the meat to become tender."
     },
     "exercise": {
       "name": "Yoga Flow for Flexibility",
       "duration": "45 minutes",
       "equipment": "Yoga mat",
-      "description": "A dynamic sequence of poses focused on improving overall flexibility and mobility."
+      "description": "A dynamic yoga sequence focused on improving overall flexibility, with a emphasis on deep stretches for the hips, hamstrings, and back."
     },
     "learn": {
-      "topic": "The Fermi Paradox",
-      "description": "The Fermi Paradox explores the apparent contradiction between the high probability of the existence of extraterrestrial civilizations and the lack of evidence for their existence.",
-      "why": "Understanding the Fermi Paradox can provide insights into the challenges and complexities of interstellar communication and the potential rarity of intelligent life in the universe."
+      "topic": "The Antikythera Mechanism",
+      "description": "An ancient Greek analog computer from the 2nd century BC, used to predict astronomical positions and eclipses.",
+      "why": "This remarkably sophisticated device, discovered in a shipwreck, is a testament to the advanced engineering and scientific knowledge of the ancient Greeks, and offers insights into the history of technology."
     }
   }
 }
