@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-11T09:14:19.364Z",
-  "model": "anthropic/claude-sonnet-4-6",
+  "generatedAt": "2026-04-11T10:05:51.446Z",
+  "model": "anthropic/claude-3-haiku",
   "summaries": {
     "us-politics": [
       {
@@ -32,29 +32,90 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin & Crypto summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Arizona Court Blocks Crackdown on Crypto Contracts",
+        "body": "A federal court has blocked Arizona from bringing criminal charges against Kalshi, a platform that offers event contracts. The state had sought to classify these contracts as illegal gambling, but the court ruled that the contracts are not gambling and are protected by the First Amendment. This is a significant win for the crypto industry, as it prevents states from overreaching in their regulation of innovative financial products.",
+        "sources": [
+          {
+            "title": "Federal court blocks Arizona crackdown on Kalshi’s event contracts",
+            "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Federal judge blocks Arizona from bringing criminal charges against Kalshi",
+            "url": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitwise Edges Closer to Launching Hyperliquid ETF",
+        "body": "Bitwise Asset Management has filed a second amended application with the SEC for its Hyperliquid Bitcoin ETF. This brings the company one step closer to launching the product, which aims to provide investors with exposure to Bitcoin through a highly liquid and transparent investment vehicle. The ETF's unique structure could make it an attractive option for institutional and retail investors seeking regulated access to the crypto market.",
+        "sources": [
+          {
+            "title": "Bitwise edges closer to Hyperliquid ETF launch with second amended filing",
+            "url": "https://cointelegraph.com/news/bitwise-edges-closes-to-hyperliquid-etf-launch-with-second-amended-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "XRP Price Shows Signs of Bottoming Out",
+        "body": "The price of XRP, the native cryptocurrency of the Ripple network, has held a key support level, suggesting a potential bottom may be forming. Analysts are closely watching the altcoin's performance, as a sustained recovery could signal a broader upturn in the crypto markets. While the ongoing legal battle between Ripple and the SEC continues to weigh on XRP, the latest price action provides some optimism for investors.",
+        "sources": [
+          {
+            "title": "XRP price bottom signals emerge after the altcoin holds key support level",
+            "url": "https://cointelegraph.com/news/xrp-price-bottom-signals-emerge-after-the-altcoin-holds-key-support-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "CFTC Unveils Innovation Task Force to Provide Crypto Clarity",
+        "body": "The Commodity Futures Trading Commission (CFTC) has announced the members of its new Innovation Task Force, which aims to provide greater regulatory clarity for the crypto industry. The task force will work to identify emerging trends, assess risks, and develop appropriate policies and guidance. This move is seen as a positive step towards fostering innovation in the crypto space while ensuring appropriate oversight and consumer protection.",
+        "sources": [
+          {
+            "title": "CFTC unveils innovation task force members in crypto clarity push",
+            "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bhutan Sells 70% of Its Bitcoin in 18 Months",
+        "body": "The small Himalayan nation of Bhutan has reportedly sold off 70% of the Bitcoin it acquired in 2021, and may have also stopped mining the cryptocurrency. The country's decision to scale back its crypto holdings comes amid a broader market downturn and regulatory uncertainty. This move highlights the challenges faced by governments and institutions in navigating the volatile and rapidly evolving crypto landscape.",
+        "sources": [
+          {
+            "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
+            "url": "https://www.coindesk.com/markets/2026/04/11/bhutan-has-sold-70-of-its-bitcoin-in-18-months-it-may-have-stopped-btc-mining-too",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Shakshuka",
-      "cuisine": "Middle Eastern",
-      "description": "Eggs poached in spiced tomato sauce",
-      "tip": "Add feta on top"
+      "name": "Moroccan Lamb Tagine",
+      "cuisine": "Moroccan",
+      "description": "Slow-cooked lamb in a fragrant sauce of spices, dried fruits, and vegetables, served over couscous.",
+      "tip": "Let the tagine simmer for at least 2 hours to allow the flavors to meld."
     },
     "exercise": {
-      "name": "30-min walk",
-      "duration": "30 min",
-      "equipment": "None",
-      "description": "Easy active recovery"
+      "name": "Yoga Flow for Flexibility",
+      "duration": "45 minutes",
+      "equipment": "Yoga mat",
+      "description": "A dynamic sequence of poses focused on improving overall flexibility and mobility."
     },
     "learn": {
       "topic": "The Fermi Paradox",
-      "description": "Why haven't we found alien life?",
-      "why": "One of the biggest unanswered questions in science"
+      "description": "The Fermi Paradox explores the apparent contradiction between the high probability of the existence of extraterrestrial civilizations and the lack of evidence for their existence.",
+      "why": "Understanding the Fermi Paradox can provide insights into the challenges and complexities of interstellar communication and the potential rarity of intelligent life in the universe."
     }
   }
 }
