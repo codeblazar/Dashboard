@@ -96,7 +96,11 @@ async function summariseCategory(category, articles) {
     ? 'This is political news. Give equal weight to all sides. Do not favour left or right. Where views differ, say so plainly.'
     : ''
 
-  const prompt = `You are writing a daily news briefing on ${config.prompt}
+  const today = new Date().toLocaleDateString('en-AU', {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC',
+  })
+
+  const prompt = `Today is ${today}. You are writing a daily news briefing on ${config.prompt}
 
 Articles from the past 24 hours:
 
