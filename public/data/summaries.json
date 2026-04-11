@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-04-11T10:43:54.693Z",
+  "generatedAt": "2026-04-11T11:57:51.136Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Swalwell Sexual Assault Claims Spark California Democratic Turmoil",
-        "body": "California gubernatorial candidate Eric Swalwell faces a major political crisis after a former staffer alleged sexual assault. The accusations have prompted rapid fallout - campaign chairs and key endorsements are abandoning his bid. Democratic leaders like Nancy Pelosi have described the allegations as indefensible, creating significant internal party tension.\n\nThe claims threaten to derail Swalwell's political ambitions and expose deep fault lines within California's Democratic establishment. Party leaders are struggling to navigate the sensitive allegations while maintaining party unity.",
+        "headline": "Trump Brokers Iran Ceasefire Amid Internal GOP Tensions",
+        "body": "President Trump has navigated a delicate diplomatic breakthrough with Iran, securing a fragile ceasefire after weeks of escalating tensions. The peace talks in Pakistan represent a potential turning point in US-Iran relations - though deep divisions remain both internationally and within Trump's own political base.\n\nWhile some Republican supporters praise the diplomatic effort, others question the strategy. The negotiations have exposed fault lines in Trump's coalition, with foreign policy hawks and diplomatic moderates offering competing interpretations of the emerging agreement.",
+        "sources": [
+          {
+            "title": "Week in Politics: Trump navigates ceasefire with Iran; division among his supporters",
+            "url": "https://www.npr.org/2026/04/11/nx-s1-5778488/week-in-politics-trump-navigates-ceasefire-with-iran-division-among-his-supporters",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
+            "url": "https://www.washingtonpost.com/politics/2026/04/11/vance-war-skeptic-peace-talks/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy",
+            "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Vance arrives in Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters",
+            "url": "https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Swalwell Sexual Assault Claims Spark California Democratic Infighting",
+        "body": "California Governor candidate Eric Swalwell faces mounting pressure after sexual assault allegations from a former staffer emerged. Democratic leadership - including Nancy Pelosi - has swiftly condemned the accusations as indefensible, creating potential complications for Swalwell's gubernatorial campaign.\n\nThe scandal highlights ongoing tensions within the Democratic Party about accountability and candidate vetting. Party leaders are struggling to balance internal discipline with electoral strategy as the 2028 political landscape takes shape.",
         "sources": [
           {
             "title": "Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer",
@@ -18,70 +48,22 @@
             "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Swalwell loses campaign chairs, endorsements over sexual assault allegations",
-            "url": "https://thehill.com/homenews/campaign/5826574-swalwell-loses-campaign-chair-endorsements-over-sexual-assault-allegations/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Swalwell's former female staffer drops bombshell allegations of sexual assault, exposing himself: report",
-            "url": "https://www.foxnews.com/politics/swalwells-former-female-staffer-drops-bombshell-allegations-sexual-assault-exposing-himself-report",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       },
       {
-        "headline": "US-Iran Peace Talks Reach Critical Moment in Pakistan",
-        "body": "High-stakes diplomatic negotiations between the US and Iran are underway in Pakistan, with Senator J.D. Vance leading American efforts to stabilize a fragile ceasefire. The talks represent a complex diplomatic challenge - Vance, previously skeptical of military interventions, now finds himself at the center of delicate international negotiations.\n\nDiplomatic sources describe the talks as tense but potentially pivotal. Success could reduce regional tensions, while failure might escalate existing conflicts in the Middle East.",
+        "headline": "Education Department Reshapes Title IX Gender Identity Guidelines",
+        "body": "The Trump administration has rescinded previous Title IX agreements on gender identity, signaling a significant shift in federal education policy. The move creates uncertainty for schools and potentially rolls back protections for transgender students.\n\nEducation advocates and civil rights groups are preparing legal challenges, while conservative supporters view the change as a necessary correction to previous policies. The decision reflects broader cultural and political debates about gender, education, and federal intervention.",
         "sources": [
           {
-            "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy",
-            "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Vance arrives in Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters",
-            "url": "https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "The Memo: Stakes are huge for tense US-Iran talks in Islamabad",
-            "url": "https://thehill.com/homenews/administration/5826584-iran-us-ceasefire-lebanon/",
+            "title": "Title IX agreements on shaky ground after Education Department rescinds gender-identity deals",
+            "url": "https://thehill.com/homenews/education/5824262-title-ix-agreements-trump-gender-identity/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
-            "url": "https://www.washingtonpost.com/politics/2026/04/11/vance-war-skeptic-peace-talks/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump's Influence Continues to Shape Republican Party Dynamics",
-        "body": "Former President Donald Trump remains a powerful force in Republican politics, actively endorsing candidates and influencing party strategy. In California, Trump's backing of a GOP candidate tests local party leadership's independence. Meanwhile, Republican strategists are closely watching how Trump's political playbook continues to impact candidate selection and campaign tactics.\n\nTrump's ongoing involvement suggests he remains a central figure in shaping the party's future direction, despite legal challenges and internal party debates.",
-        "sources": [
-          {
-            "title": "Trump adversary running for Senate borrows his filibuster playbook",
-            "url": "https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump backs Hilton ahead of California GOP vote, testing Bianco’s grip on party endorsement",
-            "url": "https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump, sounding like Biden, says he deserves more credit",
-            "url": "https://www.washingtonpost.com/politics/2026/04/11/trump-biden-economy-approval/",
+            "title": "Early audition for 2028 hopefuls focuses on civil rights issues",
+            "url": "https://www.washingtonpost.com/politics/2026/04/11/early-audition-2028-hopefuls-focuses-civil-rights-issues/",
             "source": "Washington Post",
             "lean": "center-left"
           }
@@ -90,39 +72,21 @@
     ],
     "au-politics": [
       {
-        "headline": "Albanese's Singapore Trip: Diplomatic Success or Missed Opportunity?",
-        "body": "Prime Minister Anthony Albanese returned from Singapore with mixed reviews about his diplomatic mission. While the Guardian suggests the visit was strategically valuable, questions remain about concrete outcomes - particularly regarding fuel supply and regional relationships.\n\nThe trip highlights the complex balancing act of international diplomacy. Albanese sought to strengthen ties with a key regional partner, but critics argue more tangible results were needed. The nuanced assessment reflects the ongoing challenges of Australia's international engagement.",
+        "headline": "PM's Singapore Trip: Diplomatic Success or Missed Opportunity?",
+        "body": "Prime Minister Anthony Albanese returned from Singapore without securing a major diesel shipment - but diplomatic sources suggest the visit achieved broader strategic goals. The Guardian argues the trip was more nuanced than simple fuel procurement, highlighting potential long-term regional cooperation.",
         "sources": [
           {
             "title": "Albanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a success",
             "url": "https://www.theguardian.com/australia-news/2026/apr/11/albanese-singapore-australia-fuel-supply-petrol-prices-diesel-analysis",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "The war has put Thailand's multi-billion-dollar fishing industry in 'big trouble'",
-            "url": "https://www.abc.net.au/news/2026-04-11/middle-east-war-fuel-prices-hit-thailand-fishing-industry-work/106554192",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Sydneysiders are leaving cars at home as fuel crisis changes behaviour",
-            "url": "https://www.abc.net.au/news/2026-04-11/fuel-crisis-sees-less-cars-on-sydney-roads-data-shows/106552126",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "High-Stakes Legal Battle: Lehrmann Case Collapses at High Court",
-        "body": "The High Court has effectively ended Bruce Lehrmann's defamation case, marking a dramatic conclusion to a highly publicized legal dispute. The ruling represents a significant moment in Australian media and legal circles - one that will likely prompt broader discussions about legal accountability and public discourse.\n\nLehrmann's case has been closely watched as a test of legal and journalistic boundaries. The court's decision suggests a comprehensive rejection of the plaintiff's arguments, potentially setting important precedents for future defamation proceedings.",
+        "headline": "Universities Grapple with Free Speech and Gaza Conflict Tensions",
+        "body": "RMIT University dropped misconduct proceedings against a student who accused the institution of being complicit in Gaza-related violence. The case highlights growing tensions around campus free speech and international conflict discourse. Student activism continues to challenge institutional responses to complex geopolitical issues.",
         "sources": [
-          {
-            "title": "High Court has made Bruce Lehrmann's defamation case a complete failure",
-            "url": "https://www.abc.net.au/news/2026-04-11/high-court-bruce-lehrmann-defamation-case-complete-failure/106548078",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
           {
             "title": "RMIT drops misconduct case against student who accused university of being ‘complicit in Gaza genocide’",
             "url": "https://www.theguardian.com/australia-news/2026/apr/11/rmit-drops-misconduct-case-student-gaza-claims-ntwnfb",
@@ -132,24 +96,12 @@
         ]
       },
       {
-        "headline": "Tensions Escalate: Lebanese Australians Respond to Middle East Conflict",
-        "body": "Australian Lebanese communities are experiencing intense emotional responses to ongoing conflicts in the Middle East. The Guardian reports deep feelings of outrage and fear as violence continues to impact their ancestral homeland.\n\nThe story underscores the complex ways global conflicts reverberate through diaspora communities. Personal connections transform international tensions into deeply felt local experiences - highlighting the human dimension of geopolitical struggles.",
+        "headline": "Police Powers Expansion Sparks Government Controversy",
+        "body": "The government is moving to permanently entrench expanded police powers, a decision drawing sharp criticism from civil liberties advocates. The proposed legislation would codify emergency-era regulations into standard legal frameworks. Critics argue the move represents an unprecedented expansion of state authority.",
         "sources": [
           {
-            "title": "‘There’s people dying for your petrol’: while Israel bombs Beirut, Lebanese Australians feel outrage and fear",
-            "url": "https://www.theguardian.com/news/2026/apr/11/lebanese-australians-reaction-israel-bombing-beirut-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Israel's mass killing has forced Trump to think about Lebanon",
-            "url": "https://www.abc.net.au/news/2026-04-11/israels-mass-killing-has-forced-trump-to-think-about-lebanon/106554032",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "After October 7, deterrence is no longer enough",
-            "url": "https://www.spectator.com.au/2026/04/after-october-7-deterrence-is-no-longer-enough/",
+            "title": "Government set to make extreme police powers permanent",
+            "url": "https://www.spectator.com.au/2026/04/government-set-to-make-extreme-police-powers-permanent/",
             "source": "Spectator AU",
             "lean": "right"
           }
@@ -158,8 +110,38 @@
     ],
     "world": [
       {
-        "headline": "US-Iran Talks Loom as Tensions Simmer in Middle East",
-        "body": "High-stakes diplomatic negotiations between the US and Iran are set to begin, with both sides signaling cautious optimism. Pakistan has positioned itself as a critical mediator, with its prime minister calling the talks make or break for regional stability.\n\nThe backdrop remains tense. Trump suggests the strategic Strait of Hormuz will reopen soon, while satellite providers face pressure over image restrictions. Diplomatic sources hint at potential breakthrough - but deep mistrust could still derail progress.",
+        "headline": "Artemis II Crew Returns Safely from Historic Moon Mission",
+        "body": "NASA celebrated a landmark achievement as the Artemis II mission successfully splashed down in the Pacific Ocean. Four astronauts completed humanity's first crewed lunar voyage in over 50 years - a critical step toward returning humans to the moon. Recovery teams quickly retrieved the crew from their capsule, marking a pivotal moment for the US space program. NASA officials praised the mission's success while acknowledging significant work remains to establish sustainable lunar exploration.",
+        "sources": [
+          {
+            "title": "Artemis II crew seen on recovery ship after moon mission return",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-crew-seen-on-recovery-ship-after-moon-mission-return?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "NASA hails success of Artemis moon mission but says more work to do",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+            "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US-Iran Tensions Simmer as Critical Talks Approach",
+        "body": "High-stakes diplomatic negotiations loom between the United States and Iran amid ongoing regional tensions. US and Iranian representatives are preparing for crucial talks aimed at de-escalating conflict and potentially reopening the strategically vital Strait of Hormuz. Pakistan has positioned itself as a key intermediary - with its prime minister describing the upcoming discussions as potentially make-or-break for regional stability. The 43-day conflict has strained international relations and raised global economic concerns.",
         "sources": [
           {
             "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
@@ -200,45 +182,15 @@
         ]
       },
       {
-        "headline": "NASA Celebrates Artemis II Mission's Successful Return",
-        "body": "NASA's Artemis II mission completed a historic lunar journey with a triumphant Pacific Ocean splashdown. The mission marks a significant milestone in human space exploration - returning astronauts to lunar proximity for the first time in decades.\n\nWhile NASA hails the mission's success, agency leaders acknowledge substantial work remains to fully realize lunar exploration goals. The splashdown represents more than a technical achievement - it signals renewed human ambition in space.",
+        "headline": "Israel Continues Gaza Attacks Despite International Pressure",
+        "body": "Israeli military operations in Gaza intensified, with at least seven Palestinians killed in recent drone and ground attacks. The conflict continues to draw international condemnation - particularly from regional leaders concerned about escalating violence. South Korea has publicly challenged Israel over Palestinian human rights abuses, adding diplomatic pressure. Israel remains defiant - rejecting ceasefire proposals with Hezbollah and maintaining its current military posture in the region.",
         "sources": [
           {
-            "title": "NASA hails success of Artemis moon mission but says more work to do",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+            "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
-          {
-            "title": "Artemis II marks historic lunar return with Pacific splashdown success",
-            "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Title: Artemis II astronauts journey back to Earth after Moon mission",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Moment Artemis II splashes down after moon mission",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Artemis II mission was a triumph - now comes the hard part",
-            "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Israel-Gaza Conflict Escalates with Deadly Drone Attacks",
-        "body": "Israeli military operations in Gaza have intensified, with at least seven Palestinians killed in recent attacks. A drone strike near a mosque underscores the ongoing brutality of the conflict.\n\nRegional tensions extend beyond Gaza. Israel has rejected a potential ceasefire with Hezbollah ahead of scheduled talks, suggesting continued military pressure across multiple fronts. The cycle of violence shows no immediate signs of abating.",
-        "sources": [
           {
             "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
             "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
@@ -246,7 +198,7 @@
             "lean": null
           },
           {
-            "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+            "title": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
             "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -262,8 +214,8 @@
     ],
     "ai": [
       {
-        "headline": "Artemis II Completes Historic Lunar Mission",
-        "body": "NASA successfully completed the Artemis II mission, with four astronauts returning safely to Earth after orbiting the Moon. The mission marks a critical milestone in human space exploration - the first crewed lunar flight since Apollo. Detailed mission reports suggest the journey tested spacecraft capabilities and human endurance in deep space environments.",
+        "headline": "NASA Completes Historic Artemis II Lunar Mission",
+        "body": "Four astronauts returned safely to Earth after completing the Artemis II mission - a critical milestone in NASA's lunar exploration program. The spacecraft splashed down in the Pacific Ocean, marking the first crewed lunar orbit since the Apollo era.\n\nThe successful mission sets the stage for future lunar expeditions. NASA will now analyze mission data and prepare for subsequent Artemis missions, which aim to establish a sustainable human presence on the Moon.",
         "sources": [
           {
             "title": "The Artemis II mission has ended. Where does NASA go from here?",
@@ -286,8 +238,8 @@
         ]
       },
       {
-        "headline": "AI and Tech Tensions Spark Legal and Security Challenges",
-        "body": "Tech companies face mounting pressures from legal and security challenges. Anthropic temporarily banned a creator from accessing its Claude AI, while a lawsuit emerged over an AI tool recording doctor visits. In a separate incident, a 20-year-old was arrested for allegedly throwing a Molotov cocktail at an AI executive's home - highlighting growing tensions around artificial intelligence development.",
+        "headline": "AI and Tech Face Mounting Legal and Security Challenges",
+        "body": "A series of high-profile incidents highlight growing tensions in the tech world. Anthropic temporarily banned a user from accessing Claude - its AI model - while OpenAI CEO Sam Altman faced a serious security threat when a 20-year-old was arrested for allegedly throwing a Molotov cocktail at his home.\n\nLegal pressures are mounting across the industry. Californians have sued over an AI tool recording doctor visits, and the US government continues to demand user data from tech platforms, signaling intensifying scrutiny of AI and digital technologies.",
         "sources": [
           {
             "title": "Californians sue over AI tool that records doctor visits",
@@ -308,6 +260,12 @@
             "lean": null
           },
           {
+            "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
+            "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
             "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
             "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
             "source": "Wired",
@@ -316,21 +274,9 @@
         ]
       },
       {
-        "headline": "Government and Cybersecurity Shifts Reshape Tech Landscape",
-        "body": "France announced plans to replace Windows with Linux, citing strategic risks from US technology. Meanwhile, new vulnerabilities emerged - including a Windows Defender exploit that could grant system access. The FBI's ability to access push notifications raised additional privacy concerns. These developments signal significant shifts in governmental and corporate technology strategies.",
+        "headline": "France Shifts Tech Strategy - Dumps Windows for Linux",
+        "body": "The French government is moving away from US-based technology, announcing a strategic shift to Linux from Windows. Officials cited national security concerns as a primary motivation for the change.\n\nThis move signals growing geopolitical tensions in technology and underscores increasing skepticism about US tech dominance. The decision could prompt other governments to reassess their digital infrastructure and software dependencies.",
         "sources": [
-          {
-            "title": "Your Push Notifications Aren’t Safe From the FBI",
-            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
-            "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
-            "source": "Hacker News",
-            "lean": null
-          },
           {
             "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
             "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
@@ -338,15 +284,9 @@
             "lean": null
           },
           {
-            "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
-            "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
-            "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
-            "source": "Ars Technica",
+            "title": "Your Push Notifications Aren’t Safe From the FBI",
+            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+            "source": "Wired",
             "lean": null
           }
         ]
@@ -354,8 +294,8 @@
     ],
     "btc": [
       {
-        "headline": "Bhutan Dumps Most Bitcoin Holdings - Mining Likely Halted",
-        "body": "The Himalayan nation has dramatically reduced its cryptocurrency portfolio. Bhutan sold 70% of its Bitcoin reserves over the past 18 months - a significant pullback from its initial crypto investment strategy.\n\nThe move signals potential shifts in the country's approach to digital assets. Sources suggest Bhutan may have completely stopped Bitcoin mining operations, marking a stark reversal from its earlier enthusiasm for cryptocurrency investments.",
+        "headline": "Bhutan Dumps Bitcoin, Signals Retreat from Crypto Strategy",
+        "body": "Bhutan has dramatically scaled back its bitcoin experiment, selling 70% of its holdings in just 18 months. The small Himalayan nation - once touted as a crypto mining haven - appears to be walking away from its ambitious digital asset strategy.\n\nThe sell-off suggests growing skepticism about bitcoin's long-term potential in national investment portfolios. Bhutan's pivot could signal broader challenges for countries attempting to leverage cryptocurrency as a national economic tool.",
         "sources": [
           {
             "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
@@ -371,19 +311,19 @@
     "food": {
       "name": "Kyoto Spring Risotto",
       "cuisine": "Japanese-Italian fusion",
-      "description": "Creamy arborio rice with fresh bamboo shoots, spring peas, and cherry blossom-infused butter",
+      "description": "Creamy arborio rice with fresh bamboo shoots, spring peas, and cherry blossoms, finished with yuzu zest",
       "tip": "Toast rice in butter before adding liquid to enhance nutty undertones"
     },
     "exercise": {
       "name": "Urban Parkour Flow Session",
       "duration": "45 minutes",
       "equipment": "Lightweight training shoes, gloves optional",
-      "description": "Improvised movement through city environments, focusing on efficient transitions between obstacles and controlled landings"
+      "description": "Improvised movement through city landscape, combining precision jumps, wall runs, and fluid transitions between architectural elements"
     },
     "learn": {
       "topic": "Biomimicry in Sustainable Design",
-      "description": "Exploring how nature's evolutionary solutions can inspire innovative technological and architectural solutions to complex human challenges",
-      "why": "Reveals profound connections between natural systems and human innovation, offering transformative perspectives on problem-solving"
+      "description": "Exploring how nature's evolutionary solutions can inspire innovative engineering and architectural approaches to solving complex environmental challenges",
+      "why": "Reveals profound interconnections between natural systems and human innovation, offering transformative perspectives on sustainable problem-solving"
     }
   }
 }
