@@ -89,7 +89,10 @@ async function summariseCategory(category, articles) {
 
   const articleList = articles
     .slice(0, 30)
-    .map((a, i) => `[${i + 1}] ${a.title} — ${a.source}${a.lean ? ` (${a.lean})` : ''}\nURL: ${a.url}`)
+    .map((a, i) => {
+      const date = a.published ? new Date(a.published).toISOString().slice(0, 16).replace('T', ' ') + ' UTC' : ''
+      return `[${i + 1}] ${a.title} — ${a.source}${a.lean ? ` (${a.lean})` : ''}${date ? ` [${date}]` : ''}\nURL: ${a.url}`
+    })
     .join('\n\n')
 
   const balanceNote = config.balanced
