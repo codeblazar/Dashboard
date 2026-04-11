@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-04-11T12:06:20.607Z",
+  "generatedAt": "2026-04-11T12:19:19.680Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Brokers Iran Ceasefire Amid Internal GOP Tensions",
-        "body": "President Trump has navigated a delicate diplomatic breakthrough with Iran, securing a fragile ceasefire after weeks of escalating tensions. The deal - brokered through Pakistani mediation - represents a potential diplomatic win, though significant challenges remain in stabilizing regional relations.\n\nInternally, the President faces growing divisions within his own support base. Some Republican factions question the ceasefire's terms, while others praise Trump's negotiation strategy. Senator Vance - previously skeptical of military engagement - now plays a key role in maintaining the peace talks.",
+        "headline": "Swalwell Faces Sexual Assault Claims Amid Governor Bid",
+        "body": "California Democratic congressman Eric Swalwell confronts mounting pressure after sexual assault allegations from a former staffer. Swalwell flatly denies the claims, calling them completely false. Democratic leadership - including Nancy Pelosi - has labeled the accusations indefensible, creating significant political tension for his gubernatorial campaign.\n\nThe allegations threaten to derail Swalwell's political ambitions. Party leaders are visibly divided, with some calling for his withdrawal from the race while others await further investigation. The timing could not be more precarious for Swalwell, who was positioning himself as a strong candidate for California governor.",
+        "sources": [
+          {
+            "title": "Swalwell calls sexual assault claims ‘flat false’ as pressure mounts to drop governor bid",
+            "url": "https://thehill.com/homenews/campaign/5826864-eric-swalwell-california-governor-bid-assault-claims/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer",
+            "url": "https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations: 'Indefensible'",
+            "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Brokers Iran Ceasefire Amid Diplomatic Complexity",
+        "body": "President Trump has navigated a delicate diplomatic breakthrough with Iran, hosting peace talks in Pakistan to stabilize a fragile ceasefire. Senator J.D. Vance - previously skeptical of military engagement - now plays a key role in negotiating potential resolution.\n\nThe talks represent a significant diplomatic test for the administration. Multiple sources suggest the negotiations are tenuous, with potential for rapid escalation or breakthrough. Trump's approach has created divisions among his own supporters, reflecting the complex geopolitical landscape.",
         "sources": [
           {
             "title": "Week in Politics: Trump navigates ceasefire with Iran; division among his supporters",
@@ -34,46 +58,34 @@
         ]
       },
       {
-        "headline": "Swalwell Sexual Assault Claims Roil California Democratic Race",
-        "body": "California Governor candidate Eric Swalwell faces serious sexual assault allegations from a former staffer, triggering a political firestorm within Democratic circles. Senior party figures - including Nancy Pelosi - have swiftly condemned the accusations as indefensible.\n\nThe scandal threatens to derail Swalwell's gubernatorial campaign and potentially reshape the California Democratic primary landscape. Party leadership appears divided on how to respond to the explosive claims, with some calling for immediate accountability.",
+        "headline": "2028 Presidential Hopefuls Begin Early Political Positioning",
+        "body": "Potential presidential candidates are already maneuvering for the 2028 election, with early focus on civil rights issues and political differentiation. The emerging landscape shows candidates testing messaging and building political capital well ahead of formal announcements.\n\nPolitical strategists see this period as crucial for establishing narrative and distinguishing themselves from current political figures. The jockeying reveals deep ideological divisions and suggests a potentially fractious primary season ahead.",
         "sources": [
           {
-            "title": "Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer",
-            "url": "https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Pelosi, California Dems slam Swalwell over bombshell sexual assault allegations: 'Indefensible'",
-            "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible",
+            "title": "Trump adversary running for Senate borrows his filibuster playbook",
+            "url": "https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook",
             "source": "Fox News",
             "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Title IX Gender Identity Rules Rescinded by Education Department",
-        "body": "The Trump administration has rescinded key Title IX agreements related to gender identity protections, signaling a significant shift in federal education policy. The move creates uncertainty for schools and potentially rolls back existing transgender student safeguards.\n\nEducation advocates and civil rights groups are likely to challenge the decision, setting the stage for potential legal battles. The policy change represents another front in ongoing national debates about gender, identity, and institutional rights.",
-        "sources": [
-          {
-            "title": "Title IX agreements on shaky ground after Education Department rescinds gender-identity deals",
-            "url": "https://thehill.com/homenews/education/5824262-title-ix-agreements-trump-gender-identity/",
-            "source": "The Hill",
-            "lean": "center"
           },
           {
             "title": "Early audition for 2028 hopefuls focuses on civil rights issues",
             "url": "https://www.washingtonpost.com/politics/2026/04/11/early-audition-2028-hopefuls-focuses-civil-rights-issues/",
             "source": "Washington Post",
             "lean": "center-left"
+          },
+          {
+            "title": "Democratic leaders navigate minefield amid liberal clamor to remove Trump",
+            "url": "https://thehill.com/homenews/house/5826381-jeffries-schumer-trump-liberals-25th-amendment-impeachment/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Government Launches Fuel Savings Push Amid Price Pressures",
-        "body": "The Albanese government has unveiled a multi-million-dollar campaign to help Australians reduce fuel costs. The initiative comes as petrol prices continue to challenge household budgets - a persistent economic pain point for many voters.\n\nWhile the Prime Minister's recent Singapore visit did not secure immediate diesel shipments, government sources suggest the campaign will focus on practical fuel-saving strategies and potential long-term supply solutions. The program aims to provide tangible relief amid ongoing global energy market volatility.",
+        "headline": "Albanese's Singapore Trip: Diplomacy Amid Fuel Price Pressures",
+        "body": "Prime Minister Anthony Albanese defended his recent diplomatic mission to Singapore, despite criticism over fuel supply expectations. The visit aimed to strengthen regional ties and explore energy strategies, though no immediate diesel shipments materialized.\n\nAnalysts suggest the trip's value extends beyond immediate fuel solutions. Strategic relationships and long-term energy cooperation remain critical for Australia's economic interests, with potential future benefits not immediately visible.",
         "sources": [
           {
             "title": "Government launches multi-million-dollar fuel saving campaign",
@@ -90,26 +102,8 @@
         ]
       },
       {
-        "headline": "Sydney Police Chase Reveals Complex Criminal Network",
-        "body": "A stolen car linked to multiple shootings has exposed potential organized crime networks in Sydney. Three men were arrested after a high-speed police pursuit that highlighted ongoing challenges in urban law enforcement.\n\nAuthorities are investigating connections between the vehicle, its occupants, and a series of violent incidents. The case underscores growing concerns about criminal activity and the resources required to track and prevent such networks from operating.",
-        "sources": [
-          {
-            "title": "Stolen car used by Sydney men in police chase linked to 'number of shootings'",
-            "url": "https://www.abc.net.au/news/2026-04-11/three-men-fled-stolen-car-arrested-after-police-chase-lidcombe/106554674",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Government set to make extreme police powers permanent",
-            "url": "https://www.spectator.com.au/2026/04/government-set-to-make-extreme-police-powers-permanent/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Middle East Tensions Ripple Through Australian Communities",
-        "body": "Ongoing conflicts in the Middle East are generating significant emotional responses within Australian diaspora communities. Lebanese Australians have expressed deep concern about recent bombing incidents in Beirut, reflecting the complex transnational impacts of international tensions.\n\nPolitical discussions are emerging around Australia's diplomatic positioning and the humanitarian implications of regional conflicts. The situation continues to provoke passionate debate about international relations and community solidarity.",
+        "headline": "Middle East Tensions Spark Australian Community Concerns",
+        "body": "Escalating conflicts in the Middle East are generating significant emotional responses within Australian communities. Lebanese Australians have expressed deep concern over recent bombings in Beirut, highlighting the personal impact of international tensions.\n\nSimultaneously, diplomatic channels remain active. Ongoing peace talks between US and Iranian delegations offer potential pathways to de-escalation, though the situation remains complex and volatile.",
         "sources": [
           {
             "title": "‘There’s people dying for your petrol’: while Israel bombs Beirut, Lebanese Australians feel outrage and fear",
@@ -118,16 +112,40 @@
             "lean": "left"
           },
           {
-            "title": "Israel's mass killing has forced Trump to think about Lebanon",
-            "url": "https://www.abc.net.au/news/2026-04-11/israels-mass-killing-has-forced-trump-to-think-about-lebanon/106554032",
+            "title": "Live: US and Iranian delegations set for crucial peace talks",
+            "url": "https://www.abc.net.au/news/2026-04-11/iran-war-live-updates-pakistan-peace-talks-trump-vance/106554508",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "After October 7, deterrence is no longer enough",
-            "url": "https://www.spectator.com.au/2026/04/after-october-7-deterrence-is-no-longer-enough/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Israel's mass killing has forced Trump to think about Lebanon",
+            "url": "https://www.abc.net.au/news/2026-04-11/israels-mass-killing-has-forced-trump-to-think-about-lebanon/106554032",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Government Launches Fuel Efficiency Campaign Amid Economic Pressures",
+        "body": "The Australian government has initiated a multi-million-dollar campaign focused on fuel savings and efficiency. The program aims to address rising fuel costs and support consumers struggling with economic pressures.\n\nThe campaign comes amid global energy market volatility, with recent geopolitical tensions impacting fuel prices and supply chains. Strategies will likely include public education and potential incentive programs to reduce consumer fuel expenditure.",
+        "sources": [
+          {
+            "title": "Government launches multi-million-dollar fuel saving campaign",
+            "url": "https://www.abc.net.au/news/2026-04-11/government-launches-multi-million-dollar-fuel-saving-campaign/106555004",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "The war has put Thailand's multi-billion-dollar fishing industry in 'big trouble'",
+            "url": "https://www.abc.net.au/news/2026-04-11/middle-east-war-fuel-prices-hit-thailand-fishing-industry-work/106554192",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Ban on live sheep trade has another knock-on effect on WA wool",
+            "url": "https://www.abc.net.au/news/rural/2026-04-11/elders-to-move-wool-sales-to-victoria-from-western-australia/106550942",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
@@ -135,7 +153,7 @@
     "world": [
       {
         "headline": "Artemis II Returns: NASA Celebrates Historic Moon Mission",
-        "body": "NASA celebrated a landmark achievement as the Artemis II crew successfully splashed down in the Pacific after completing humanity's first crewed lunar mission since 1972. The four astronauts were quickly recovered by support ships - a critical milestone in the United States' renewed lunar exploration program.\n\nAgency leaders hailed the mission's success while acknowledging significant work remains ahead. The return marks a pivotal moment for space exploration - demonstrating technological capabilities and reigniting public imagination about human spaceflight beyond low Earth orbit.",
+        "body": "NASA celebrated a landmark achievement as the Artemis II crew successfully splashed down in the Pacific after completing humanity's first crewed lunar mission since 1972. The four astronauts were quickly recovered by support ships, marking a critical milestone in the United States' return to deep space exploration.\n\nWhile hailing the mission's success, NASA officials emphasized that significant work remains ahead. The Artemis program aims to establish a sustainable human presence on the moon - a complex technological and logistical challenge that will require continued innovation and investment.",
         "sources": [
           {
             "title": "Artemis II crew seen on recovery ship after moon mission return",
@@ -164,8 +182,8 @@
         ]
       },
       {
-        "headline": "US-Iran Tensions Simmer as Crucial Talks Approach",
-        "body": "High-stakes diplomatic negotiations between the United States and Iran are set to begin amid escalating regional tensions. US officials suggest potential reopening of the strategically critical Strait of Hormuz - a key maritime chokepoint that has been a flashpoint of conflict.\n\nPakistan is playing a crucial mediating role, with its prime minister describing the upcoming talks as potentially make-or-break for regional stability. The discussions come against a backdrop of ongoing military confrontations and complex geopolitical maneuvering.",
+        "headline": "US-Iran Talks Seek Strait of Hormuz Resolution Amid Tensions",
+        "body": "High-stakes diplomatic negotiations between the United States and Iran are underway, with both sides signaling cautious optimism about potential de-escalation. US officials suggest the Strait of Hormuz could reopen soon - a critical maritime chokepoint whose closure has disrupted global trade and heightened regional tensions.\n\nPakistan is playing a key diplomatic role, with its prime minister describing the talks as potentially make-or-break. The ongoing conflict has already stretched into its 43rd day, with significant geopolitical and economic implications for the region.",
         "sources": [
           {
             "title": "We need a regional agreement for the Strait of Hormuz",
@@ -212,9 +230,15 @@
         ]
       },
       {
-        "headline": "Israeli Attacks Continue as Diplomatic Tensions Rise",
-        "body": "Israeli military operations in Gaza have intensified - killing at least seven Palestinians in recent drone strikes near a mosque. The attacks come amid growing international criticism and diplomatic friction, including a notable dispute with South Korea over Palestinian human rights concerns.\n\nIsrael has also rejected a potential ceasefire with Hezbollah ahead of planned talks with Lebanon. The ongoing violence continues to draw global attention and condemnation, with humanitarian concerns mounting.",
+        "headline": "Israeli Attacks Continue as Diplomatic Tensions Escalate",
+        "body": "Israeli military operations in Gaza have resulted in at least seven Palestinian deaths in the past 24 hours, including a drone strike near a mosque. The ongoing violence has drawn international condemnation and further strained diplomatic relations.\n\nTensions are particularly high with South Korea, which has raised concerns about Palestinian human rights abuses. Israel has rejected a potential ceasefire with Hezbollah ahead of planned talks, signaling continued regional instability and potential for further conflict.",
         "sources": [
+          {
+            "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
             "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
@@ -234,12 +258,6 @@
             "lean": null
           },
           {
-            "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-            "url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
             "title": "Still in shock, Beirut tries to heal after deadly Israeli attacks",
             "url": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
@@ -251,7 +269,7 @@
     "ai": [
       {
         "headline": "NASA Completes Historic Artemis II Lunar Mission",
-        "body": "Four astronauts returned safely to Earth after completing the Artemis II mission - a critical milestone in NASA's lunar exploration program. The mission marked humanity's first crewed lunar orbit since the Apollo era, testing critical systems for future moon landings.\n\nWith the splashdown, NASA validated key technologies and human spaceflight capabilities. The successful mission sets the stage for Artemis III, which aims to return humans to the lunar surface later this decade.",
+        "body": "Four astronauts returned safely to Earth after completing the Artemis II mission - the first crewed lunar flight since Apollo. The spacecraft splashed down in the Pacific Ocean, marking a critical milestone for NASA's lunar exploration program. This mission tested critical systems and human endurance for future moon landings, setting the stage for humanity's return to lunar surface exploration.",
         "sources": [
           {
             "title": "The Artemis II mission has ended. Where does NASA go from here?",
@@ -274,25 +292,25 @@
         ]
       },
       {
-        "headline": "AI and Tech Firms Face Growing Privacy and Security Challenges",
-        "body": "Tech companies confronted multiple privacy and security pressures this week. Anthropic temporarily banned a user from its Claude AI platform, while reports emerged that push notifications could be monitored by law enforcement.\n\nIn another development, France's government announced plans to replace Windows with Linux, citing strategic risks from US technology providers. These moves underscore increasing tensions around digital privacy, surveillance, and technological sovereignty.",
+        "headline": "AI and Tech Face Mounting Legal and Security Challenges",
+        "body": "A series of high-profile incidents highlight growing tensions in technology and AI. Anthropic banned an OpenClaw creator from accessing Claude, signaling increasing scrutiny of AI development practices. In a separate incident, a 20-year-old was arrested for allegedly throwing a Molotov cocktail at Sam Altman's house - underscoring the volatile public sentiment around AI leadership. Meanwhile, France's government announced plans to replace Windows with Linux, citing strategic risks from US tech companies.",
         "sources": [
           {
-            "title": "Your Push Notifications Aren’t Safe From the FBI",
-            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
-            "source": "Wired",
+            "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+            "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+            "source": "The Verge",
             "lean": null
           },
           {
             "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
             "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
             "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-            "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-            "source": "TechCrunch",
             "lean": null
           },
           {
@@ -306,8 +324,8 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Market Splits as Investors Take Sides",
-        "body": "The bitcoin market is experiencing a sharp divide, with distinct investor groups emerging amid global tensions. Institutional and retail investors are showing markedly different buying and selling behaviors, creating unusual market dynamics.\n\nTraders are polarizing into camps - some viewing bitcoin as a safe haven, others seeing it as too volatile. This split reflects broader economic uncertainties and changing perceptions of cryptocurrency's role in turbulent times.",
+        "headline": "Bitcoin Market Splits as Geopolitical Tensions Drive Divergent Trades",
+        "body": "The bitcoin market is experiencing a stark divide in trading behavior amid ongoing global conflicts. Institutional and retail investors are showing markedly different strategies - with some aggressively buying while others rapidly liquidate positions.\n\nAnalysts suggest the market split reflects broader economic uncertainties. Large institutional players appear to be using bitcoin as a potential hedge, while smaller investors react more nervously to geopolitical volatility. The result is a fragmented trading landscape with significant price implications.",
         "sources": [
           {
             "title": "The bitcoin market is splitting in two. Here's who is buying and selling amid the war",
@@ -318,8 +336,8 @@
         ]
       },
       {
-        "headline": "Bhutan Dumps Bitcoin, Signals Shift in National Crypto Strategy",
-        "body": "Bhutan has dramatically reduced its bitcoin holdings, selling 70% of its cryptocurrency portfolio in just 18 months. The small Himalayan nation appears to be stepping back from its previous crypto-friendly stance, potentially halting bitcoin mining operations.\n\nThis move signals a potential trend among smaller nations reconsidering their cryptocurrency investments. Bhutan's strategic retreat could influence other countries' approaches to digital asset management and national crypto policies.",
+        "headline": "Bhutan Dramatically Reduces Bitcoin Holdings and Mining Operations",
+        "body": "Bhutan has dramatically scaled back its bitcoin exposure, selling 70% of its cryptocurrency holdings in just 18 months. The small Himalayan nation appears to be stepping away from its previous aggressive crypto strategy.\n\nThe selloff signals potential shifts in national cryptocurrency policies. By reducing its bitcoin position and potentially halting mining operations, Bhutan may be responding to regulatory pressures or reassessing the economic viability of its crypto investments.",
         "sources": [
           {
             "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
@@ -333,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Hokkaido Milk Bread Rolls",
-      "cuisine": "Japanese Fusion",
-      "description": "Ultra-soft, cloud-like bread rolls with a delicate buttery crumb and golden exterior",
-      "tip": "Use tangzhong method (pre-cooking a small portion of flour and liquid) to ensure maximum softness"
+      "name": "Hokkaido Milk Bread Swirl",
+      "cuisine": "Japanese-inspired fusion",
+      "description": "Ultra-soft enriched bread with matcha and black sesame swirl, creating a visually stunning and delicately flavored loaf",
+      "tip": "Use a tangzhong (water roux) technique to ensure maximum softness and prevent drying out"
     },
     "exercise": {
       "name": "Urban Parkour Flow Session",
       "duration": "45 minutes",
       "equipment": "Lightweight training shoes, gloves (optional)",
-      "description": "Improvised movement practice combining precision jumps, wall runs, and fluid transitions through an urban environment with controlled, mindful progression"
+      "description": "Improvised movement practice exploring vertical urban landscapes, combining precision jumps, wall runs, and fluid transitions through a local park or downtown environment"
     },
     "learn": {
-      "topic": "Biomimicry in Architectural Design",
-      "description": "Exploring how natural structures and biological systems inspire innovative, sustainable architectural solutions that solve complex engineering challenges",
-      "why": "Reveals profound connections between nature's design principles and human innovation, offering radical perspectives on solving contemporary environmental and structural problems"
+      "topic": "Biomimicry in Sustainable Design",
+      "description": "Exploring how nature's evolutionary solutions can inspire innovative technological and architectural solutions that are more efficient and environmentally harmonious",
+      "why": "Understanding biomimicry offers profound insights into solving complex human challenges by studying billions of years of natural problem-solving"
     }
   }
 }
