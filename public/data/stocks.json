@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T12:43:40.681Z",
+  "updatedAt": "2026-04-12T00:23:10.838Z",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -64,15 +64,6 @@
       "change": -2.477000000000004,
       "changePct": -1.8975462895577526,
       "prevClose": 130.537
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "price": 72943.51,
-      "change": 604.1,
-      "changePct": 0.835,
-      "prevClose": 72339.40999999999,
-      "isCrypto": true
     }
   ],
   "stockFearGreed": {
@@ -81,7 +72,7 @@
     "previousClose": 36
   },
   "btcFearGreed": {
-    "value": 15,
+    "value": 16,
     "rating": "Extreme Fear"
   }
 }
