@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-12T02:05:49.374Z",
+  "generatedAt": "2026-04-12T02:15:48.552Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Historic US-Iran Talks Open Amid Geopolitical Tensions",
-        "body": "Direct diplomatic talks between the US and Iran resumed for the first time since 1979, with a fragile ceasefire hanging in the balance. Negotiations in Pakistan mark a potential breakthrough - and significant risk - in long-frozen relations between the two nations.\n\nThe talks come as China reportedly prepares to deliver advanced air defense systems to Iran, adding complexity to already delicate negotiations. US officials are walking a tightrope between diplomatic engagement and strategic caution.",
+        "headline": "US-Iran Talks Break Historic Ground Amid Fragile Ceasefire",
+        "body": "Diplomatic relations between the US and Iran reached a historic milestone with direct talks in Pakistan - the first since 1979. The negotiations come as a fragile ceasefire holds in the region, with tensions still high over recent conflicts.\n\nKey challenges remain. Military experts warn of potential escalation, while diplomatic sources suggest cautious optimism. The talks involve complex negotiations around regional security, with both sides seeking to de-escalate ongoing tensions.",
         "sources": [
           {
             "title": "Sunday shows preview: Ceasefire on shaky ground as US, Iran hold direct talks in Pakistan",
@@ -20,14 +20,8 @@
             "lean": "center"
           },
           {
-            "title": "China preparing delivery of new air defense systems to Iran, report says",
-            "url": "https://thehill.com/policy/international/5827443-china-preparing-delivery-of-new-air-defense-systems-to-iran-report-says/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Former general urges Trump to call Xi over Iran, Strait of Hormuz",
-            "url": "https://thehill.com/policy/international/5827300-keane-trump-iran-strait-china/",
+            "title": "Kelly rips Witkoff, Kushner role in Iran talks: Can’t send ‘two real estate developers’ to negotiate peace",
+            "url": "https://thehill.com/homenews/senate/5827235-kelly-criticizes-witkoff-kushner-iran-diplomacy/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -35,7 +29,7 @@
       },
       {
         "headline": "Swalwell Faces Sexual Misconduct Allegations and Potential Ouster",
-        "body": "Democratic Representative Eric Swalwell confronts serious sexual misconduct allegations that have triggered a Manhattan District Attorney investigation. Swalwell has strongly denied the claims, vowing to fight them aggressively.\n\nRepublican lawmakers are moving to capitalize on the controversy. Representative Anna Paulina Luna has initiated a motion to remove Swalwell from Congress, escalating the political pressure on the embattled Democrat.",
+        "body": "Congressman Eric Swalwell confronts serious sexual misconduct allegations that have triggered a Manhattan DA investigation. The congressman has denied the claims, vowing to fight them aggressively.\n\nRepublican lawmakers are moving to capitalize on the controversy. Representative Anna Paulina Luna has initiated a motion to remove Swalwell from Congress, while the allegations continue to generate significant political pressure.",
         "sources": [
           {
             "title": "Swalwell staffers stand with accusers as Manhattan DA confirms investigation",
@@ -68,19 +62,37 @@
             "lean": "right"
           }
         ]
+      },
+      {
+        "headline": "China Expands Global Influence Through Iran and Energy Strategies",
+        "body": "China is preparing to deliver advanced air defense systems to Iran, signaling deepening geopolitical alignments. The move comes amid growing concerns about Beijing's global strategic expansionism.\n\nCritics argue China's international strategy relies heavily on forced labor and aggressive economic tactics. The air defense system delivery represents another potential flashpoint in global diplomatic tensions, with potential implications for US strategic interests.",
+        "sources": [
+          {
+            "title": "China preparing delivery of new air defense systems to Iran, report says",
+            "url": "https://thehill.com/policy/international/5827443-china-preparing-delivery-of-new-air-defense-systems-to-iran-report-says/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "China’s energy dominance plan is built on the backs of forced labor",
+            "url": "https://thehill.com/opinion/energy-environment/5825459-beijing-five-year-plan-forced-labor/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Former general urges Trump to call Xi over Iran, Strait of Hormuz",
+            "url": "https://thehill.com/policy/international/5827300-keane-trump-iran-strait-china/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Albanese Weighs Household Relief Amid Iran War Impact",
-        "body": "The Albanese government is considering new economic relief measures as the ongoing conflict in Iran continues to strain Australian households. Economic pressures are mounting, with potential long-term consequences for national finances and consumer spending.\n\nMinisterial sources suggest targeted support could help mitigate rising costs. The government is particularly concerned about fuel prices and broader economic disruptions, signaling a proactive approach to managing international conflict fallout.",
+        "headline": "Albanese Warns of Economic Fallout from Iran War",
+        "body": "The Albanese government is preparing new household relief measures as economic pressures mount from ongoing tensions in the Middle East. Officials are signaling a potentially prolonged economic impact from the Iran conflict, with independent supermarkets already feeling significant strain.\n\nMinisterial sources suggest the government is exploring targeted support to help Australian families manage rising costs. The economic warning comes as businesses report increasing challenges, with supply chains and fuel prices emerging as key pressure points.",
         "sources": [
-          {
-            "title": "Australia news live: government ad campaign urges lower fuel use; woman charged with attempted poisoning murder of girl, 10",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
           {
             "title": "New relief for households being considered as Albanese government warns of ‘long tail’ from Iran war",
             "url": "https://www.theguardian.com/australia-news/2026/apr/12/new-relief-for-households-being-considered-as-albanese-government-warns-of-long-tail-from-iran-war",
@@ -92,12 +104,18 @@
             "url": "https://www.abc.net.au/news/2026-04-12/iran-war-independent-supermarkets-under-pressure-as-costs-rise/106545358",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Australia news live: government ad campaign urges lower fuel use; woman charged with attempted poisoning murder of girl, 10",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Victoria's Opposition Proposes Overseas Police Recruitment Plan",
-        "body": "Victorian Liberal Party leadership has unveiled a controversial strategy to address police staffing shortages by recruiting officers from overseas. The proposal aims to quickly bolster law enforcement capabilities amid ongoing recruitment challenges.\n\nThe plan has sparked debate about local job opportunities and the potential impact on police training and cultural integration. Opposition leaders argue the measure is necessary to improve public safety and address current workforce gaps.",
+        "headline": "Victoria Opposition Proposes Overseas Police Recruitment Plan",
+        "body": "Victorian Liberal Party leaders have unveiled a controversial strategy to address police staffing shortages by recruiting officers from overseas. The proposal aims to quickly bolster Victoria Police ranks amid ongoing recruitment challenges.\n\nThe plan has sparked debate about local job opportunities and the potential impacts of international recruitment. While supporters argue it could provide immediate relief to understaffed police units, critics question the long-term effectiveness and potential cultural integration challenges.",
         "sources": [
           {
             "title": "Opposition plans to recruit overseas officers to fill Victoria Police vacancies",
@@ -112,27 +130,15 @@
             "lean": "center-left"
           }
         ]
-      },
-      {
-        "headline": "Nick Xenophon's SA Best Party Dissolves After Years of Struggle",
-        "body": "Nick Xenophon's political vehicle, SA Best, has officially disbanded after failing to maintain sustained political momentum. The party - which once promised to disrupt South Australian politics - could not sustain its initial electoral promise.\n\nXenophon's political legacy now faces critical reassessment, with the party's dissolution representing a significant moment in the state's independent political landscape. The move reflects ongoing challenges for minor political movements seeking long-term representation.",
-        "sources": [
-          {
-            "title": "Nick Xenophon-founded SA Best party comes to an end",
-            "url": "https://www.abc.net.au/news/2026-04-12/nick-xenophon-sa-best-party-comes-to-an-end/106539806",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Talks Reach Critical Point Amid Geopolitical Tensions",
-        "body": "High-stakes negotiations between the United States and Iran have entered a pivotal phase in Islamabad. US negotiator Vance confirmed they have presented their best and final offer - a delicate diplomatic moment with global implications.\n\nThe talks unfold against a complex backdrop of military posturing. US naval ships recently transited the Strait of Hormuz for mine-clearing operations, while Pakistan has dispatched fighter jets to Saudi Arabia. Iran's deputy foreign minister claims Tehran holds the strategic advantage - signaling the fragile nature of these discussions.",
+        "headline": "US-Iran Talks Continue in Islamabad Amid Fragile Ceasefire",
+        "body": "High-stakes diplomatic negotiations between the United States and Iran entered a second day in Islamabad, with both sides signaling cautious optimism. US President Trump claimed victory regardless of the talks' outcome, while Iran's deputy foreign minister suggested Tehran holds the strategic advantage.\n\nThe discussions unfold against a complex geopolitical backdrop. Regional tensions remain high, with Pakistan sending fighter jets to Saudi Arabia and US naval ships conducting mine-clearing operations in the Strait of Hormuz. Pope Leo has also urged world leaders to prioritize negotiation over conflict.",
         "sources": [
           {
-            "title": "Iran war live: Vance says no deal yet, US sent ‘our best and final offer’",
+            "title": "Iran war live: Talks with US to continue for a second day in Islamabad",
             "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -140,6 +146,18 @@
           {
             "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pope Leo urges world leaders to reject war and negotiate peace",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -164,8 +182,8 @@
         ]
       },
       {
-        "headline": "Israel Expands Settlements, Tensions Escalate in Occupied Territories",
-        "body": "Israel has approved new settlements in the occupied West Bank - a move that has drawn sharp condemnation from Palestinians and international observers. The controversial decision comes amid ongoing violence, with Israeli settlers killing a Palestinian during a village raid.\n\nDiplomatic tensions are further strained after Israel reprimanded a Spanish diplomat for an incident involving a detonated Netanyahu effigy. The actions underscore the continuing volatility in the region and the deep-seated conflicts surrounding territorial claims.",
+        "headline": "Israel Expands Settlements - Tensions Escalate in West Bank",
+        "body": "Israeli authorities approved new settlements in the occupied West Bank, drawing sharp condemnation from Palestinians and intensifying regional friction. The move comes amid ongoing violence - Israeli settlers killed a Palestinian during a village raid, while Israeli strikes in southern Lebanon killed at least 18 people.\n\nDiplomatic tensions further simmered as Israel reprimanded a Spanish diplomat for allegedly detonating an effigy of Prime Minister Netanyahu. The incidents underscore the persistent volatility of Israeli-Palestinian relations and the challenges facing potential peace negotiations.",
         "sources": [
           {
             "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
@@ -180,8 +198,8 @@
             "lean": null
           },
           {
-            "title": "Has Israeli society become conditioned to permanent war?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
+            "title": "Israeli strikes kill at least 18 people across southern Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -194,8 +212,8 @@
         ]
       },
       {
-        "headline": "Hungary Faces Potential Political Transformation in Key Election",
-        "body": "Hungarian voters are poised to potentially end Prime Minister Viktor Orbán's 16-year political dominance. The election represents a critical moment for the nation's political trajectory, with opposition forces challenging the long-standing leadership.\n\nUS President Trump's influence looms large over the electoral landscape. Analysts are closely examining the extent of Trump's potential sway on Hungarian voters - a dynamic that could significantly impact the election's outcome.",
+        "headline": "Hungary Votes - Orbán's 16-Year Rule Faces Serious Challenge",
+        "body": "Hungarian voters will decide whether to end Viktor Orbán's 16-year political dominance in a pivotal election. The contest has drawn international attention, with speculation about former US President Trump's potential influence on the electoral dynamics.\n\nThe election represents a critical moment for Hungary's political landscape. The far-right Alternative for Germany (AfD) party has simultaneously adopted a radical manifesto, signaling broader shifts in European conservative politics.",
         "sources": [
           {
             "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
@@ -204,15 +222,15 @@
             "lean": null
           },
           {
-            "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
             "title": "How much sway does Trump have over Hungarian voters?",
             "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+            "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -220,8 +238,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Benchmarks Shattered - Berkeley Team Claims Breakthrough",
-        "body": "Researchers at UC Berkeley have reportedly cracked top AI agent performance benchmarks, signaling a potential leap in artificial intelligence capabilities. Their work suggests small models can now uncover vulnerabilities previously thought accessible only to advanced systems.\n\nThe breakthrough challenges existing performance metrics and raises critical questions about AI evaluation standards. Berkeley's team hints at broader implications for AI development - pointing toward more nuanced, adaptive intelligence testing beyond current computational frameworks.",
+        "headline": "AI Research Pushes Boundaries with New Benchmark Breakthroughs",
+        "body": "Researchers at Berkeley's Research and Development Institute have made significant strides in AI agent performance, challenging existing benchmark limitations. Their work suggests small AI models can now uncover vulnerabilities previously thought to require more complex systems.\n\nThe breakthrough highlights a growing trend of efficiency in AI development. By identifying critical weaknesses in current testing frameworks, the team has opened new pathways for more nuanced and robust artificial intelligence evaluation.",
         "sources": [
           {
             "title": "Dark Castle",
@@ -238,8 +256,8 @@
         ]
       },
       {
-        "headline": "Tech Tensions Rise: Sam Altman Responds to Home Attack Report",
-        "body": "OpenAI CEO Sam Altman has publicly responded to a controversial New Yorker article following an alleged attack on his residence. The incident highlights escalating tensions surrounding high-profile tech leadership and the growing public scrutiny of AI industry figures.\n\nAltman characterized the article as incendiary, suggesting deeper conflicts between media narratives and the technological leadership's perspective. The response underscores the increasingly fraught relationship between tech innovators and journalistic coverage.",
+        "headline": "Tech Giants Shuffle as Cirrus Labs Joins OpenAI",
+        "body": "OpenAI has announced the acquisition of Cirrus Labs, signaling another strategic move in the rapidly evolving AI landscape. The merger suggests continued consolidation among leading artificial intelligence research organizations.\n\nThis development comes amid ongoing industry shifts - including high-profile leadership tensions and increasing scrutiny of AI development practices. The acquisition may provide OpenAI with additional technical capabilities and talent to maintain its competitive edge.",
         "sources": [
           {
             "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
@@ -248,16 +266,16 @@
             "lean": null
           },
           {
-            "title": "Your article about AI doesn’t need AI art",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-            "source": "The Verge",
+            "title": "Cirrus Labs to join OpenAI",
+            "url": "https://cirruslabs.org/",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Memory Tech Breakthrough: Atomic-Scale Storage Hits 447 TB per Centimeter",
-        "body": "Scientists have achieved a groundbreaking memory storage density of 447 terabytes per square centimeter using atomic-scale technology on fluorographane. This development represents a quantum leap in data storage potential - dramatically compressing massive data volumes into microscopic spaces.\n\nThe research, published on Zenodo, could revolutionize computing infrastructure. Unprecedented storage density suggests transformative implications for data centers, mobile computing, and long-term archival technologies.",
+        "headline": "Breakthrough in Atomic-Scale Memory Storage Promises Massive Density",
+        "body": "Scientists have achieved a remarkable milestone in data storage technology - creating a memory system with 447 terabytes per square centimeter at zero retention energy. The breakthrough on fluorographane represents a potential revolution in computational memory density.\n\nThis advancement could dramatically reshape storage technologies across computing, from personal devices to massive data centers. The research suggests unprecedented potential for miniaturization and energy efficiency in future computing systems.",
         "sources": [
           {
             "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
@@ -266,8 +284,8 @@
             "lean": null
           },
           {
-            "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-            "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+            "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+            "url": "https://www.v68k.org/advanced-mac-substitute/",
             "source": "Hacker News",
             "lean": null
           }
@@ -276,32 +294,32 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Price Signals Potential Market Shift",
-        "body": "Bitcoin traders are watching for signs of a potential market reversal as seller activity shows signs of exhaustion. Realized losses are declining - a potential indicator that selling pressure might be waning. Open interest in Bitcoin derivatives has climbed near $25 billion, suggesting increased market activity and potential for a short squeeze.",
+        "headline": "Bitcoin Drops as US-Iran Tensions Spark Market Volatility",
+        "body": "Bitcoin prices tumbled amid escalating geopolitical tensions after negotiations between the United States and Iran failed to produce a resolution. The cryptocurrency market experienced significant downward pressure, reflecting broader investor uncertainty.\n\nTrading volumes remained volatile throughout the day, with open interest approaching $25 billion. Short-term traders saw potential squeeze opportunities as market sentiment wavered between caution and speculative movement.",
         "sources": [
+          {
+            "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
+            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "'Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
+            "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
+            "source": "Decrypt",
+            "lean": null
+          },
           {
             "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
             "url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
-            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin, broader market flat as U.S.-Iran negotiations begin",
-            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "SpaceX Maintains Bitcoin Holdings Despite AI Losses",
-        "body": "Elon Musk's SpaceX continues to hold $603 million in Bitcoin, even after reporting a $5 billion loss from its xAI venture. The tech company's commitment to cryptocurrency remains steady despite significant financial challenges in other sectors. This holding underscores the ongoing institutional interest in Bitcoin as a potential hedge against broader economic uncertainties.",
+        "headline": "Bitcoin Signals Market Recovery as Seller Pressure Wanes",
+        "body": "Bitcoin showed signs of potential stabilization as realized losses declined, suggesting possible seller exhaustion in the market. Investors and analysts are watching closely for signs of a potential trend reversal.\n\nMeanwhile, corporate interest remains strong. SpaceX continues to hold $603 million in bitcoin, demonstrating institutional confidence despite recent challenges in other sectors of Elon Musk's business portfolio.",
         "sources": [
           {
             "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
@@ -309,6 +327,18 @@
             "source": "CoinDesk",
             "lean": null
           },
+          {
+            "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
+            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Morgan Stanley Expands Crypto Strategy Beyond Bitcoin",
+        "body": "Morgan Stanley signaled deeper engagement with cryptocurrency technologies, indicating plans that extend beyond bitcoin. The financial institution is exploring tokenization and tax solutions as part of its broader crypto strategy.\n\nThis move suggests continued institutional interest in blockchain and digital asset technologies, potentially driving further mainstream adoption and integration of cryptocurrency into traditional financial systems.",
+        "sources": [
           {
             "title": "'Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
             "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
@@ -323,19 +353,19 @@
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
       "cuisine": "North African",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
+      "tip": "Use cast iron skillet for best heat distribution and authentic presentation"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence to realign spine and release tension after prolonged sitting",
-      "tip": "Set a 45-minute timer and do a 2-minute standing twist and shoulder roll sequence each interval"
+      "description": "A targeted micro-movement sequence to decompress and realign the spine after prolonged sitting",
+      "tip": "Set a 45-minute timer and do a 2-minute standing stretch that includes side bends, gentle twists, and shoulder rolls"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are increasingly copying nature's efficient, adaptive systems for solving complex infrastructure challenges",
-      "why": "Reveals fascinating intersections between ecological intelligence and human engineering, offering radical new perspectives on sustainable living"
+      "description": "How cities are increasingly copying natural systems and biological structures to solve complex environmental and infrastructure challenges",
+      "why": "It represents a revolutionary approach to sustainable design that could fundamentally reshape how humans interact with built environments"
     }
   }
 }
