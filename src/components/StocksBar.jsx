@@ -143,8 +143,10 @@ export default function StocksBar({ stocks, stockFearGreed, btcFearGreed, loadin
         <span className={`market-status ${open ? 'market-open' : 'market-closed'}`}>
           {open ? '● Open' : '○ Closed'}
         </span>
-        <GaugeDial data={stockFearGreed} label="Market" gradId="gauge-grad-market" />
-        <GaugeDial data={btcFearGreed} label="₿" gradId="gauge-grad-btc" />
+        <div className="gauges-row">
+          <GaugeDial data={stockFearGreed} label="Market" gradId="gauge-grad-market" />
+          <GaugeDial data={btcFearGreed} label="₿" gradId="gauge-grad-btc" />
+        </div>
       </div>
     </div>
   )

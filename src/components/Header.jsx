@@ -73,12 +73,12 @@ export default function Header({ generatedAt }) {
       <div className="header-right">
         {generatedAt && (
           <span className="feeds-age">
-            Briefing {formatTime(generatedAt)} · Next {nextUpdateTime(generatedAt)}
+            Briefing {formatTime(generatedAt)} · Next {nextUpdateTime()}
           </span>
         )}
         {GITHUB_TOKEN && (
           <button className="trigger-btn" onClick={triggerNow} disabled={triggering}>
-            {triggering ? 'Triggering…' : 'Trigger Now'}
+            {triggering ? 'Refreshing…' : 'Refresh Now'}
           </button>
         )}
         <button className="theme-toggle" onClick={nextTheme} title={`Theme: ${THEME_LABELS[theme]}`}>
@@ -93,16 +93,16 @@ function formatTime(iso) {
   return new Date(iso).toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
 }
 
-// Cron schedule: 6,9,12,15,18,21 UTC — find next slot after generatedAt
-function nextUpdateTime(iso) {
-  const SLOTS = [6, 9, 12, 15, 18, 21]
-  const base = new Date(iso)
-  // Next slot is generatedAt + 3 hours (each slot is 3h apart)
-  const next = new Date(base.getTime() + 3 * 60 * 60 * 1000)
-  // Round up to the nearest scheduled UTC hour
-  const utcH = next.getUTCHours()
-  const slot = SLOTS.find(h => h >= utcH) ?? (SLOTS[0] + 24)
-  const nextDate = new Date(next)
-  nextDate.setUTCHours(slot, 0, 0, 0)
-  return nextDate.toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
+// Cron schedule: 6, 12, 18 UTC — find next slot after now
+function nextUpdateTime() {
+  const SLOTS = [6, 12, 18]
+  const now = new Date()
+  const utcH = now.getUTCHours()
+  const utcM = now.getUTCMinutes()
+  const totalMins = utcH * 60 + utcM
+  const slot = SLOTS.find(h => h * 60 > totalMins) ?? (SLOTS[0] + 24)
+  const next = new Date(now)
+  next.setUTCHours(slot > 23 ? slot - 24 : slot, 0, 0, 0)
+  if (slot > 23) next.setUTCDate(next.getUTCDate() + 1)
+  return next.toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
 }
