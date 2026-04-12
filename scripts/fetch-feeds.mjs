@@ -155,6 +155,27 @@ const FEED_SOURCES = [
     source: 'CoinTelegraph',
     lean: null,
   },
+  {
+    id: 'bitcoinmagazine',
+    url: 'https://bitcoinmagazine.com/.rss/full/',
+    category: 'btc',
+    source: 'Bitcoin Magazine',
+    lean: null,
+  },
+  {
+    id: 'decrypt',
+    url: 'https://decrypt.co/feed',
+    category: 'btc',
+    source: 'Decrypt',
+    lean: null,
+  },
+  {
+    id: 'theblock',
+    url: 'https://www.theblock.co/rss.xml',
+    category: 'btc',
+    source: 'The Block',
+    lean: null,
+  },
 ]
 
 const DEFAULT_HOURS = 12

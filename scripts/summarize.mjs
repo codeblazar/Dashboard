@@ -161,14 +161,14 @@ Be specific. Be interesting. Avoid the obvious.
 
 1. FOOD: A dish worth cooking or trying today. Give it a name, one-line description, cuisine type, and one practical tip.
 
-2. EXERCISE: A specific session for today. Name it, give duration, list any equipment needed, and describe it in one sentence.
+2. HEALTH: A specific health tip for today. Pick exactly ONE category from: Exercise, Supplement, Sleep, Nutrition, Mental Health, Hydration, Posture, Recovery. Be specific and interesting — no generic advice. Give it a short name and describe it in one clear sentence, then add one practical tip.
 
 3. LEARN: One genuinely interesting topic, concept, or rabbit hole. Could be science, history, philosophy, tech, culture - anything. Write 1-2 sentences on what it is and why it's worth an hour of your time today.
 
 Return ONLY valid JSON:
 {
   "food": { "name": "...", "cuisine": "...", "description": "...", "tip": "..." },
-  "exercise": { "name": "...", "duration": "...", "equipment": "...", "description": "..." },
+  "health": { "category": "...", "name": "...", "description": "...", "tip": "..." },
   "learn": { "topic": "...", "description": "...", "why": "..." }
 }`
 
@@ -216,7 +216,7 @@ async function main() {
     console.error(`  ✗ Suggestions failed: ${err.message}`)
     suggestions = {
       food: { name: 'Shakshuka', cuisine: 'Middle Eastern', description: 'Eggs poached in spiced tomato sauce', tip: 'Add feta on top' },
-      exercise: { name: '30-min walk', duration: '30 min', equipment: 'None', description: 'Easy active recovery' },
+      health: { category: 'Exercise', name: '30-min walk', description: 'Easy active recovery session outdoors', tip: 'Walk outside for natural light and vitamin D' },
       learn: { topic: 'The Fermi Paradox', description: 'Why haven\'t we found alien life?', why: 'One of the biggest unanswered questions in science' },
     }
   }

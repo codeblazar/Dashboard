@@ -1,9 +1,11 @@
 import Header from './components/Header'
 import WeatherBar from './components/WeatherBar'
+import StocksBar from './components/StocksBar'
 import SuggestionsBar from './components/SuggestionsBar'
 import SummarySection from './components/SummarySection'
 import { useWeather } from './hooks/useWeather'
 import { useSummaries } from './hooks/useSummaries'
+import { useStocks } from './hooks/useStocks'
 import './App.css'
 
 const CATEGORIES = ['us-politics', 'au-politics', 'world', 'ai', 'btc']
@@ -11,11 +13,13 @@ const CATEGORIES = ['us-politics', 'au-politics', 'world', 'ai', 'btc']
 export default function App() {
   const { weather, loading: weatherLoading, error: weatherError } = useWeather()
   const { summaries, suggestions, generatedAt, loading, error } = useSummaries()
+  const { stocks, stockFearGreed, btcFearGreed, loading: stocksLoading, error: stocksError } = useStocks()
 
   return (
     <div className="app">
       <Header generatedAt={generatedAt} />
       <WeatherBar weather={weather} loading={weatherLoading} error={weatherError} />
+      <StocksBar stocks={stocks} stockFearGreed={stockFearGreed} btcFearGreed={btcFearGreed} loading={stocksLoading} error={stocksError} />
       <SuggestionsBar suggestions={suggestions} loading={loading} />
       <main className="news-grid">
         {CATEGORIES.map(cat => (

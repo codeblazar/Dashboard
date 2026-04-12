@@ -72,7 +72,9 @@ export default function Header({ generatedAt }) {
       </div>
       <div className="header-right">
         {generatedAt && (
-          <span className="feeds-age">Briefing updated {relativeTime(generatedAt)}</span>
+          <span className="feeds-age">
+            Briefing {formatTime(generatedAt)} · Next {nextUpdateTime(generatedAt)}
+          </span>
         )}
         {GITHUB_TOKEN && (
           <button className="trigger-btn" onClick={triggerNow} disabled={triggering}>
@@ -87,11 +89,20 @@ export default function Header({ generatedAt }) {
   )
 }
 
-function relativeTime(iso) {
-  const diff = Date.now() - new Date(iso).getTime()
-  const mins = Math.floor(diff / 60_000)
-  if (mins < 2) return 'just now'
-  if (mins < 60) return `${mins}m ago`
-  const hrs = Math.floor(mins / 60)
-  return `${hrs}h ago`
+function formatTime(iso) {
+  return new Date(iso).toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
+}
+
+// Cron schedule: 6,9,12,15,18,21 UTC — find next slot after generatedAt
+function nextUpdateTime(iso) {
+  const SLOTS = [6, 9, 12, 15, 18, 21]
+  const base = new Date(iso)
+  // Next slot is generatedAt + 3 hours (each slot is 3h apart)
+  const next = new Date(base.getTime() + 3 * 60 * 60 * 1000)
+  // Round up to the nearest scheduled UTC hour
+  const utcH = next.getUTCHours()
+  const slot = SLOTS.find(h => h >= utcH) ?? (SLOTS[0] + 24)
+  const nextDate = new Date(next)
+  nextDate.setUTCHours(slot, 0, 0, 0)
+  return nextDate.toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
 }
