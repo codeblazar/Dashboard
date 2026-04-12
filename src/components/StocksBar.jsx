@@ -52,7 +52,7 @@ function GaugeDial({ data, label, gradId }) {
       className="gauge-dial"
       title={`${label} Fear & Greed: ${value}${previousClose != null ? ` — was ${previousClose} yesterday` : ''}`}
     >
-      <svg width="90" height="46" viewBox="0 0 90 46" style={{ overflow: 'visible' }}>
+      <svg className="gauge-svg" viewBox="0 0 90 46" style={{ overflow: 'visible', width: '90px', height: '46px' }}>
         <defs>
           <linearGradient id={gradId} x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%"   stopColor="#d43f3f" />
