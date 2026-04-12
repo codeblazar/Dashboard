@@ -93,16 +93,19 @@ function formatTime(iso) {
   return new Date(iso).toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
 }
 
-// Cron schedule: 6, 12, 18 UTC — find next slot after now
+// Cron: 22,4,10 UTC = 6am, 12pm, 6pm SGT (UTC+8)
 function nextUpdateTime() {
-  const SLOTS = [6, 12, 18]
+  const SLOTS_UTC = [4, 10, 22]  // sorted ascending
   const now = new Date()
-  const utcH = now.getUTCHours()
-  const utcM = now.getUTCMinutes()
-  const totalMins = utcH * 60 + utcM
-  const slot = SLOTS.find(h => h * 60 > totalMins) ?? (SLOTS[0] + 24)
+  const nowMins = now.getUTCHours() * 60 + now.getUTCMinutes()
+  const slotMins = SLOTS_UTC.map(h => h * 60)
+  const nextMins = slotMins.find(m => m > nowMins)
   const next = new Date(now)
-  next.setUTCHours(slot > 23 ? slot - 24 : slot, 0, 0, 0)
-  if (slot > 23) next.setUTCDate(next.getUTCDate() + 1)
+  if (nextMins !== undefined) {
+    next.setUTCHours(nextMins / 60, 0, 0, 0)
+  } else {
+    next.setUTCDate(next.getUTCDate() + 1)
+    next.setUTCHours(SLOTS_UTC[0], 0, 0, 0)
+  }
   return next.toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit' })
 }

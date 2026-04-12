@@ -2,7 +2,7 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '0 6,12,18 * * *'   # 6am, 12pm, 6pm UTC
+    - cron: '0 22,4,10 * * *'   # 6am, 12pm, 6pm SGT (UTC+8)
   push:
     branches: [main]
     paths-ignore:

@@ -348,7 +348,6 @@ a:hover { text-decoration: underline; }
   border: 1px solid var(--border);
   white-space: nowrap;
   font-size: 0.79rem;
-  font-variant-numeric: tabular-nums;
   text-decoration: none;
   transition: border-color 0.15s, background 0.15s;
 }
@@ -448,12 +447,13 @@ a:hover { text-decoration: underline; }
     padding: 0.45rem 0.9rem;
     gap: 0.5rem;
   }
+  /* Keep stocks-right as column so market status sits above gauges */
   .stocks-right {
     width: 100%;
-    flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
+  }
+  .gauges-row {
     justify-content: flex-start;
-    gap: 1rem;
   }
 }
 
@@ -473,19 +473,23 @@ a:hover { text-decoration: underline; }
   .summary-body     { font-size: 0.85rem; }
   .summary-sources  { font-size: 0.72rem; }
 
-  /* Two chips per row */
+  /* Two chips per row, proportional font, small enough to fit */
   .stocks-chips {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0.3rem;
+    gap: 0.28rem;
     width: 100%;
   }
   .stock-chip {
-    font-size: 0.74rem;
-    padding: 0.18rem 0.4rem;
+    font-size: 0.67rem;
+    font-variant-numeric: proportional-nums;
+    padding: 0.16rem 0.38rem;
     justify-content: space-between;
+    min-width: 0;
+    overflow: hidden;
   }
-  .stock-symbol { font-size: 0.72rem; }
+  .stock-symbol { font-size: 0.67rem; }
+  .stock-price  { overflow: hidden; text-overflow: ellipsis; }
 
   .gauge-svg { width: 72px !important; height: 38px !important; }
   .gauges-row { gap: 0.5rem; }
