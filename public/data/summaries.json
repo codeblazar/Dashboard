@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-04-12T05:02:30.280Z",
+  "generatedAt": "2026-04-12T10:18:45.190Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US-Iran Talks Collapse as Tensions Rise in Middle East",
-        "body": "Diplomatic efforts to negotiate with Iran ended in stalemate after 21 hours of intense negotiations. Senator J.D. Vance reported no progress in ceasefire talks, calling it bad news for Iran. Meanwhile, a new report suggests China is preparing to deliver advanced air defense systems to Iran - a move that could further complicate regional dynamics.\n\nThe talks, held in Pakistan, highlight the fragile state of US-Iran relations. Military preparations continue, with US forces already beginning to remove mines from the Strait of Hormuz - a critical maritime chokepoint.",
+        "headline": "US-Iran Talks Collapse, Tensions Rise in Middle East",
+        "body": "Diplomatic efforts to ease tensions between the United States and Iran ended in failure after 21 hours of negotiations in Islamabad. Senator J.D. Vance characterized the talks as unproductive, suggesting potential escalation.\n\nReports indicate China may be preparing to deliver new air defense systems to Iran, further complicating the geopolitical landscape. The breakdown of talks raises concerns about potential military confrontations and regional stability.",
         "sources": [
+          {
+            "title": "No Deal: U.S.-Iran peace talks in Islamabad collapse",
+            "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Vance says US-Iran talks end without deal after 21 hours of negotiations",
             "url": "https://www.foxnews.com/politics/vance-says-us-iran-talks-end-without-deal-21-hours-negotiations",
@@ -24,55 +30,19 @@
             "url": "https://thehill.com/policy/international/5827443-china-preparing-delivery-of-new-air-defense-systems-to-iran-report-says/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Sunday shows preview: Ceasefire on shaky ground as US, Iran hold direct talks in Pakistan",
-            "url": "https://thehill.com/homenews/sunday-talk-shows/5827398-sunday-shows-preview-ceasefire-on-shaky-ground-as-us-iran-hold-direct-talks-in-pakistan/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "US military starts removing mines from Strait of Hormuz",
-            "url": "https://thehill.com/policy/defense/5827218-us-military-demining-strait-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Swalwell Faces Mounting Pressure Over Sexual Assault Allegations",
-        "body": "Democratic Congressman Eric Swalwell confronts serious legal and political challenges after multiple allegations of sexual misconduct. The Manhattan District Attorney has confirmed an investigation into the claims. House Republicans are preparing a motion to remove Swalwell from Congress.\n\nAdditional scrutiny emerged from a Fox News report alleging Swalwell improperly paid a campaign nanny who lacked work authorization. Swalwell's staff have publicly stood with his accusers, signaling potential internal party fractures.",
+        "headline": "Trump's White House Project Moves Forward Despite Legal Challenges",
+        "body": "A federal appeals court has allowed construction to continue on Trump's controversial White House ballroom project, temporarily resolving ongoing legal disputes. The decision comes amid renewed national security debates about the project's implications.\n\nTrump has also unveiled plans for a triumphal arch in Washington, DC, drawing mixed reactions from political observers and architectural critics. The project continues to spark intense political discussion about presidential legacy and urban design.",
         "sources": [
           {
-            "title": "Eric Swalwell accused of paying nanny with campaign funds while she lacked work authorization",
-            "url": "https://www.foxnews.com/politics/eric-swalwell-accused-paying-nanny-campaign-funds-lacked-work-authorization",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Swalwell staffers stand with accusers as Manhattan DA confirms investigation",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/11/swalwell-investigation-manhattan-district-attorney/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Manhattan DA to investigate Swalwell over sexual assault allegation",
-            "url": "https://thehill.com/homenews/5827287-manhattan-da-investigates-swalwell/",
+            "title": "Trump’s ballroom saga invokes national security threats",
+            "url": "https://thehill.com/regulation/court-battles/5826276-trump-white-house-ballroom-security/",
             "source": "The Hill",
             "lean": "center"
           },
-          {
-            "title": "House Republican plans motion to oust Swalwell from Congress amid sexual assault allegations",
-            "url": "https://www.foxnews.com/politics/house-republican-plans-motion-oust-swalwell-congress-amid-sexual-assault-allegations",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "White House Construction Battle Continues in Federal Courts",
-        "body": "A federal appeals court has temporarily allowed White House ballroom construction to proceed, delivering a partial victory to the current administration. The ruling comes amid ongoing legal challenges and political controversy surrounding the project.\n\nFormer President Trump has simultaneously touted new plans for a Washington DC architectural project - a triumphal arch - further highlighting the ongoing tensions between competing political visions for the nation's capital.",
-        "sources": [
           {
             "title": "White House ballroom construction can continue for now, appeals court says",
             "url": "https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker",
@@ -90,10 +60,34 @@
             "url": "https://www.npr.org/2026/04/11/nx-s1-5782027/trump-triumphal-arch-plans-architecture",
             "source": "NPR",
             "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "AI and Economic Shifts Reshape American Career Expectations",
+        "body": "Artificial intelligence is dramatically reshaping higher education and career paths, forcing universities to rapidly adapt their academic offerings. Students are reconsidering traditional majors in response to emerging job market trends.\n\nParallel economic pressures are challenging traditional notions of the American Dream, with some states emerging as more attractive locations for family formation. These shifts reflect broader economic and technological transformations affecting workforce dynamics.",
+        "sources": [
+          {
+            "title": "The states revealed as best to start a family amid cratering belief in the American Dream",
+            "url": "https://www.foxnews.com/politics/states-revealed-best-start-family-amid-cratering-belief-american-dream",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "Federal judges say White House ballroom construction can continue, for now",
-            "url": "https://www.washingtonpost.com/politics/2026/04/11/judges-trump-ballroom-appeal/",
+            "title": "As AI pushes students to reconsider majors, universities struggle to adapt",
+            "url": "https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Democrats see gas prices as a potent political tool. Here’s the catch.",
+            "url": "https://www.washingtonpost.com/politics/2026/04/12/nevada-gas-prices-governors-race/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "At a mahjong table in Iowa, a struggle over which party to trust",
+            "url": "https://www.washingtonpost.com/politics/2026/04/12/iowa-midterm-voters-women/",
             "source": "Washington Post",
             "lean": "center-left"
           }
@@ -102,100 +96,100 @@
     ],
     "au-politics": [
       {
-        "headline": "Labor Weighs Household Relief Amid Global Tensions",
-        "body": "The Albanese government is considering new economic support measures as global conflicts create financial pressure. Foreign Minister Penny Wong expressed disappointment over failed US-Iran peace talks, signaling potential long-term economic impacts.\n\nTreasury is exploring relief options to help Australian households manage rising costs. Treasurer Jim Chalmers warned of increasingly polarised political dynamics, suggesting the economic challenges could reshape national political discourse.",
+        "headline": "One Nation Under Fire: Convicted Staffer Sparks Political Storm",
+        "body": "The Liberal Party has launched a scathing attack on One Nation after revelations that the party employed a convicted rapist. Liberal senator Andrew Bragg said the staffing decision makes it very difficult to take the party seriously - a pointed criticism that could further damage One Nation's political credibility.\n\nThe controversy highlights ongoing tensions within Australia's conservative political landscape. One Nation leader Pauline Hanson has not yet publicly responded to the allegations, leaving her party vulnerable to sustained political pressure.",
         "sources": [
           {
-            "title": "Australia news live: Wong says it’s ‘disappointing’ peace talks between US and Iran failed; Chalmers warns of ‘more polarising politics’",
+            "title": "One Nation’s employment of convicted rapist makes it ‘very hard’ to take party seriously, Liberal senator says",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/12/one-nation-convicted-rapist-staff-pauline-hanson-liberal-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Chalmers warns of ‘more polarising politics’ – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "New relief for households being considered as Albanese government warns of ‘long tail’ from Iran war",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/12/new-relief-for-households-being-considered-as-albanese-government-warns-of-long-tail-from-iran-war",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "No work, no savings, no way to wait: India's migrant workers head home",
-            "url": "https://www.abc.net.au/news/2026-04-12/iran-war-shut-down-indias-ceramics-capital/106546296",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Western Australia Confronts Fuel Supply and Infrastructure Challenges",
-        "body": "Western Australia is exploring a separate diesel stockpile to address potential fuel shortages. The state government is examining strategic reserves as a contingency against supply disruptions.\n\nAdditional infrastructure challenges emerged with reports of caravan park residents being evicted after ownership changes. These developments highlight ongoing economic and housing pressures in the state.",
+        "headline": "Foreign Minister Calls for Renewed US-Iran Peace Efforts",
+        "body": "Foreign Minister Penny Wong expressed disappointment after peace talks between the United States and Iran failed to produce a breakthrough. She urged both parties to resume negotiations, emphasizing diplomatic dialogue as the most constructive path forward.\n\nThe talks in Islamabad represented a rare diplomatic opening between the two nations. While details remain limited, Wong's intervention signals Australia's commitment to active international mediation and conflict resolution.",
         "sources": [
           {
-            "title": "WA considering separate stockpile of diesel amid fuel shortages",
-            "url": "https://www.abc.net.au/news/2026-04-12/fuel-worries-prompt-wa-government-to-consider-diesel-stockpile/106555882",
+            "title": "Key takeaways from the Islamabad peace talks between US and Iran",
+            "url": "https://www.abc.net.au/news/2026-04-12/iran-us-war-ceasefire-peace-talks-jd-vance-negotiations/106555976",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "WA caravan park residents evicted after change of ownership",
-            "url": "https://www.abc.net.au/news/2026-04-12/residents-of-albany-caravan-park-evicted-after-ownership-change/106468830",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Minister casts doubt on road user tax due to EV uptake concerns",
-            "url": "https://www.abc.net.au/news/2026-04-12/road-user-tax-cast-into-doubt-concerns-it-could-hurt-ev-uptake/106555742",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Penny Wong calls failed peace talks between US and Iran ‘disappointing’ and urges resumption",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Talks Collapse as Tensions Escalate in Middle East",
-        "body": "Diplomatic efforts between the United States and Iran have broken down, with US Vice President JD Vance declaring no deal reached after intense negotiations in Pakistan. The talks ended in a stalemate, with Vance claiming the US has made its best and final offer.\n\nTensions continue to simmer, with the UN watchdog warning Iran against charging tolls in the Strait of Hormuz. US naval ships have already transited the strategic waterway, signaling continued military preparedness in the region.",
+        "headline": "US-Iran Talks Collapse - Tensions Simmer in Middle East",
+        "body": "High-stakes diplomatic negotiations between the United States and Iran ended without resolution in Pakistan, leaving a fragile ceasefire hanging by a thread. US and Iranian delegations failed to bridge deep-seated differences after marathon talks, with both sides trading accusations of intransigence.\n\nThe breakdown threatens stability in the Strait of Hormuz, a critical maritime chokepoint. Oil tankers continue to navigate cautiously, while the UN maritime chief warned Iran against imposing tolls - a potential flashpoint for further conflict.",
         "sources": [
           {
-            "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
+            "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US delegation leaves Pakistan without reaching Iran deal",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
+            "title": "US and Iran fail to reach a deal after marathon talks in Pakistan",
+            "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran must not charge tolls in Strait of Hormuz, UN watchdog chief says",
+            "title": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
+            "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
             "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Vance says no deal reached, US has made ‘best, final offer’",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
-            "url": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine Marks Grim Easter as War Grinds On",
-        "body": "Ukraine enters another Easter season under the shadow of prolonged conflict, with hopes for peace remaining elusive. The ongoing war continues to drain national morale and resources, despite international calls for a resolution.\n\nThe conflict shows no signs of immediate resolution, with both sides seemingly entrenched in their positions. Civilians bear the brunt of the continued hostilities, yearning for an end to the destructive stalemate.",
+        "headline": "Legendary Bollywood Singer Asha Bhosle Dies at 92",
+        "body": "Asha Bhosle - the iconic voice that defined generations of Indian cinema - passed away, leaving behind an unparalleled musical legacy. Her career spanned over seven decades, during which she recorded thousands of songs and became a cultural touchstone for millions.\n\nBhosle was more than a playback singer. She was a musical innovator who transcended genres, collaborating with artists worldwide and earning global recognition for her extraordinary vocal range and emotional depth.",
+        "sources": [
+          {
+            "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+            "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+            "url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "India: Legendary playback singer Asha Bhosle dies at 92",
+            "url": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine War Grinds On Despite Easter Truce Hopes",
+        "body": "Easter weekend brought no respite to Ukraine's war-torn landscape, with both Russian and Ukrainian forces accusing each other of numerous ceasefire violations. The grim reality of continued conflict overshadowed traditional hopes for peace.\n\nSoldiers and civilians alike expressed deep war fatigue. The persistent fighting underscores the seemingly intractable nature of a conflict that has devastated communities and reshaped geopolitical relationships.",
         "sources": [
           {
             "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
@@ -204,45 +198,9 @@
             "lean": null
           },
           {
-            "title": "Pope Leo urges world leaders to reject war and negotiate peace",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Israel Expands Settlements, Tensions Escalate with Palestinians",
-        "body": "Israel has approved new settlements in the occupied West Bank, drawing sharp condemnation from Palestinians and international observers. Prime Minister Netanyahu's rhetoric remains uncompromising - recently claiming Israel has strangled its opponents and intends to continue doing so.\n\nDiplomatic tensions have further heightened, with Israel reprimanding a Spanish diplomat over the symbolic detonation of a Netanyahu effigy. The move underscores the increasingly fraught international relations surrounding the ongoing conflict.",
-        "sources": [
-          {
-            "title": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Has Israeli society become conditioned to permanent war?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli strikes kill at least 18 people across southern Lebanon",
-            "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+            "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -250,32 +208,32 @@
     ],
     "ai": [
       {
-        "headline": "AI Breakthroughs Crack Agent Performance Benchmarks",
-        "body": "Researchers at Berkeley's Research and Development Institute have claimed a significant breakthrough in AI agent performance testing. Their latest work suggests small AI models can now identify vulnerabilities previously thought detectable only by advanced systems - challenging existing assumptions about machine intelligence capabilities.\n\nThe findings hint at a potential shift in how we evaluate artificial intelligence. By demonstrating that less complex models can match sophisticated counterparts in critical detection tasks, the team has opened new conversations about AI scalability and intelligent system design.",
+        "headline": "AI Tensions Rise: Threats of Violence Spark Debate",
+        "body": "A provocative article on Hacker News suggests artificial intelligence could trigger violent backlash - a sentiment echoed by growing public unease about technological disruption. The piece argues that AI's rapid advancement might push some groups toward extreme resistance.\n\nThe underlying tension reflects deeper anxieties about technological change. While some entrepreneurs are building lean, efficient tech businesses, the broader societal impact of AI remains uncertain and potentially volatile.",
         "sources": [
           {
-            "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-            "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+            "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+            "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Small models also found the vulnerabilities that Mythos found",
-            "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+            "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+            "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-            "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-            "source": "Ars Technica",
+            "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+            "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Brain-Computer Interface Lets ALS Patient Dance Through Thought",
-        "body": "A groundbreaking neural interface has enabled a dancer with ALS to perform live using only brainwave signals. The technology translates neural activity directly into movement - allowing artistic expression despite severe physical limitations.\n\nThis breakthrough represents more than a medical innovation. It signals a profound expansion of human-machine interaction, where neural signals can bridge seemingly impossible gaps between intention and action. The performance challenges traditional understanding of disability and technological potential.",
+        "headline": "Tech Breakthroughs: Memory Storage and Brain-Computer Interfaces Advance",
+        "body": "Researchers have achieved a stunning breakthrough in atomic-scale memory storage - cramming 447 terabytes per square centimeter with zero retention energy. This development could revolutionize data storage technologies.\n\nIn parallel, neurotechnology is making remarkable strides. A dancer with ALS demonstrated how brain-wave interfaces can enable performance, showcasing the transformative potential of human-machine interaction.",
         "sources": [
           {
             "title": "How a dancer with ALS used brainwaves to perform live",
@@ -288,14 +246,50 @@
             "url": "https://zenodo.org/records/19513269",
             "source": "Hacker News",
             "lean": null
+          },
+          {
+            "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+            "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Legal and Tech Shifts Challenge Traditional Boundaries",
+        "body": "A US appeals court struck down a 158-year-old ban on home distilling, signaling a willingness to reassess outdated regulations. This judicial move highlights how legal frameworks struggle to keep pace with technological and cultural changes.\n\nIn the tech world, similar boundary-pushing continues. Apple faces scrutiny over iOS security, while software preservation efforts document the evolution of programming languages like C++.",
+        "sources": [
+          {
+            "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+            "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Apple update looks like Czech mate for locked-out iPhone user",
+            "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Software Preservation Group: C++ History Collection",
+            "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+            "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+            "source": "Hacker News",
+            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles as US-Iran Tensions Spark Market Selloff",
-        "body": "Bitcoin prices dropped sharply after diplomatic negotiations between the United States and Iran failed to resolve escalating geopolitical tensions. The cryptocurrency market experienced significant volatility, with traders responding to the potential for increased global conflict. Market sentiment turned bearish as investors sought safer assets amid the uncertain international landscape.",
+        "headline": "Bitcoin Slides as Geopolitical Tensions Rattle Markets",
+        "body": "Bitcoin tumbled on Sunday after U.S. and Iranian diplomatic talks collapsed, triggering broader market uncertainty. The cryptocurrency dropped alongside other risk assets, reflecting heightened geopolitical tensions and investor nervousness.\n\nMarket analysts suggest the failure of negotiations has pushed investors toward safer havens. Bitcoin's price sensitivity to global political developments underscores its ongoing volatility - a reminder that macro events can swiftly reshape digital asset valuations.",
         "sources": [
           {
             "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
@@ -306,31 +300,13 @@
         ]
       },
       {
-        "headline": "Bitcoin Shows Signs of Market Stabilization Despite Volatility",
-        "body": "Bitcoin traders are detecting potential market stabilization as seller activity declines and short-term indicators suggest a possible trend reversal. Open interest in Bitcoin derivatives has approached $25 billion, signaling growing institutional engagement. Realized losses are decreasing - a potential signal that market participants may be reaching a point of capitulation and price equilibrium.",
+        "headline": "Technical Signals Point to Potential Bitcoin Trend Reversal",
+        "body": "Bitcoin approaches critical technical levels that could signal a significant market shift, according to leading cryptocurrency analysts. Macro investors are closely watching price movements that might indicate an imminent trend change.\n\nThe current price zone represents a potential inflection point. Traders are monitoring key support and resistance levels for signs of a broader market sentiment transformation. Technical indicators suggest the cryptocurrency might be preparing for a directional move in the coming days.",
         "sources": [
           {
-            "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
-            "url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin, Ether near levels that could signal trend reversal: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-ether-crypto-market-trend-reversal-macro-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
-            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Musk's SpaceX Maintains Substantial Bitcoin Holdings",
-        "body": "SpaceX continues to hold $603 million in Bitcoin despite experiencing a $5 billion loss related to Elon Musk's xAI venture. The sustained cryptocurrency position suggests ongoing confidence in digital assets as a strategic investment, even amid broader financial challenges. The tech company's commitment to Bitcoin remains unwaveringly consistent with Musk's long-standing interest in cryptocurrency.",
-        "sources": [
-          {
-            "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
-            "url": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -342,18 +318,18 @@
       "name": "Moroccan Shakshuka Sunrise",
       "cuisine": "North African",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
+      "tip": "Use a cast-iron skillet for better heat distribution and a more authentic flavor profile"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that resets spinal alignment and breaks sedentary tension every 45 minutes",
-      "tip": "Use a wall to do a 30-second standing back press, rolling each vertebra against the surface"
+      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching positions every 25 minutes to reset spinal alignment",
+      "tip": "Set a subtle phone alarm that prompts you to do a 90-second mobility sequence, focusing on shoulder rolls and gentle spine twists"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are increasingly copying natural ecosystem strategies for sustainable infrastructure and problem-solving",
-      "why": "Reveals fascinating intersections between engineering, ecology, and human innovation that could reshape how we think about urban living"
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystem principles and evolutionary adaptations",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide ingenious solutions to modern environmental challenges"
     }
   }
 }
