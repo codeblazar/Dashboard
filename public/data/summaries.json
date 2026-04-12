@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-12T00:23:57.267Z",
+  "generatedAt": "2026-04-12T01:57:35.034Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Historic US-Iran Talks Open Amid Geopolitical Tensions",
-        "body": "Diplomatic barriers crumbled as US and Iranian officials met face-to-face for the first time since 1979 - a breakthrough fraught with complexity. Direct negotiations in Pakistan aim to stabilize a fragile ceasefire, with international observers cautiously optimistic about potential de-escalation.\n\nThe talks come against a backdrop of regional instability. China reportedly prepares to deliver advanced air defense systems to Iran, while US military personnel have begun removing mines from the strategically critical Strait of Hormuz. Former diplomats and military experts remain divided on the potential outcomes.",
+        "headline": "US-Iran Talks Break Decades of Silence - Tensions Simmer",
+        "body": "Historic direct talks between the US and Iran unfolded in Pakistan, marking the first face-to-face diplomatic engagement since 1979. The fragile ceasefire hangs in the balance, with both sides navigating complex geopolitical tensions.\n\nMeanwhile, strategic moves continue to shape the diplomatic landscape. China reportedly prepares to deliver advanced air defense systems to Iran, while US military personnel have begun removing mines from the Strait of Hormuz - a critical maritime chokepoint.",
         "sources": [
           {
             "title": "China preparing delivery of new air defense systems to Iran, report says",
@@ -26,6 +26,12 @@
             "lean": "center"
           },
           {
+            "title": "US military starts removing mines from Strait of Hormuz",
+            "url": "https://thehill.com/policy/defense/5827218-us-military-demining-strait-hormuz/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
             "title": "US, Iran begin face-to-face talks for first time since 1979",
             "url": "https://thehill.com/homenews/administration/5827150-historic-us-iran-meeting/",
             "source": "The Hill",
@@ -34,8 +40,8 @@
         ]
       },
       {
-        "headline": "Swalwell Faces Sexual Misconduct Allegations and Potential Ouster",
-        "body": "Democratic Representative Eric Swalwell confronts serious sexual assault allegations that have triggered a Manhattan District Attorney investigation. Swalwell categorically denies the claims, vowing to fight them aggressively.\n\nCongressional Republicans are mobilizing to potentially remove Swalwell from office. Representative Anna Paulina Luna has signaled plans to initiate a motion to expel him from the House. Swalwell's staffers have publicly stood with his accusers, adding pressure to an already volatile situation.",
+        "headline": "Swalwell Faces Sexual Misconduct Allegations - House Divided",
+        "body": "Rep. Eric Swalwell confronts serious sexual assault allegations, with the Manhattan District Attorney launching an official investigation. Swalwell vehemently denies the claims, pledging to fight them aggressively.\n\nPolitical fallout intensifies as House Republicans prepare a motion to remove Swalwell from Congress. His staffers have publicly stood with his accusers, adding pressure to an already volatile situation.",
         "sources": [
           {
             "title": "Swalwell staffers stand with accusers as Manhattan DA confirms investigation",
@@ -68,36 +74,54 @@
             "lean": "right"
           }
         ]
+      },
+      {
+        "headline": "Trump Continues Political Offensive in Virginia Battleground",
+        "body": "Former President Trump escalated his political rhetoric in Virginia, criticizing Governor Spanberger and warning of potential tax base exodus. He painted a stark picture of the state's economic challenges.\n\nThe political landscape remains highly charged, with Trump positioning himself as a key influencer in upcoming electoral contests. His comments signal continued engagement in state-level political dynamics.",
+        "sources": [
+          {
+            "title": "Trump blasts Spanberger ahead of Virginia meetings, says state faces tax base exodus like New York, California",
+            "url": "https://www.foxnews.com/politics/trump-blasts-spanberger-ahead-virginia-meetings-says-state-faces-tax-base-exodus-like-new-york-california",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump says Virginia ‘has lost its Energy, Vitality, and Strength’ under Spanberger",
+            "url": "https://thehill.com/homenews/administration/5827019-trump-slams-virginia-gov-spanberger/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "New York, California compete as disaster tourism destinations for economists",
+            "url": "https://thehill.com/opinion/campaign/5826467-newsom-policies-economic-disaster/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Hits Remote Communities Hard",
-        "body": "Australia faces mounting pressure from a persistent fuel supply crisis. The government has launched a national ad campaign urging drivers to minimise fuel consumption amid rising costs and global tensions.\n\nRemote and Indigenous communities are experiencing the most significant impact. Prices are squeezing already struggling households, with some areas seeing dramatic increases that threaten basic transportation and economic activity.",
+        "headline": "Albanese Warns of Economic Impact from Iran Conflict",
+        "body": "The Albanese government is preparing new household relief measures as economic fallout from the Iran war continues to ripple through Australian markets. Government sources suggest potential targeted support for families facing rising costs from global supply chain disruptions.\n\nIndependent supermarkets are already feeling intense pressure, with rising import costs threatening to push prices higher. The government acknowledges a potentially long-term economic challenge that could reshape Australia's trade and economic strategies in the coming months.",
         "sources": [
           {
-            "title": "Australia news live: government ad campaign urges drivers to minimise fuel use as supply crisis persists",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
+            "title": "New relief for households being considered as Albanese government warns of ‘long tail’ from Iran war",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/12/new-relief-for-households-being-considered-as-albanese-government-warns-of-long-tail-from-iran-war",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "How Australia’s remote communities are experiencing the fuel crisis: ‘A knock-on effect for people already struggling’",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/12/australia-fuel-crisis-remote-indigenous-communities-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "The fuel excise has been cut, so why is diesel so expensive?",
-            "url": "https://www.abc.net.au/news/2026-04-12/diesel-prices-soar-despite-fuel-excise-cuts-amid-iran-war/106550124",
+            "title": "Independent supermarkets struggle to keep prices down as Iran war hurts",
+            "url": "https://www.abc.net.au/news/2026-04-12/iran-war-independent-supermarkets-under-pressure-as-costs-rise/106545358",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Victoria Opposition Proposes Overseas Police Recruitment",
-        "body": "Victorian Liberal Party has proposed recruiting international officers to address critical police staffing shortages. The plan signals growing concerns about law enforcement capacity in the state.\n\nThe proposal comes amid ongoing challenges in Victoria's policing infrastructure. Opposition leaders argue that international recruitment could provide a rapid solution to current workforce gaps and operational pressures.",
+        "headline": "Victoria Opposition Proposes Overseas Recruitment for Police",
+        "body": "Victorian Liberal Party leaders have unveiled a controversial plan to recruit international police officers to address critical staffing shortages in the state's law enforcement. The proposal aims to quickly fill vacancies and boost police capacity amid ongoing recruitment challenges.\n\nThe plan signals a significant policy approach from the opposition, targeting workforce gaps through international recruitment. It reflects growing concerns about public safety and policing resources in Victoria.",
         "sources": [
           {
             "title": "Opposition plans to recruit overseas officers to fill Victoria Police vacancies",
@@ -106,38 +130,8 @@
             "lean": "center-left"
           },
           {
-            "title": "Tas Labor has 'a bit of a shock coming', party elders warn",
-            "url": "https://www.abc.net.au/news/2026-04-12/tas-labor-party-future-state-conference/106496566",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Nick Xenophon-founded SA Best party comes to an end",
-            "url": "https://www.abc.net.au/news/2026-04-12/nick-xenophon-sa-best-party-comes-to-an-end/106539806",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "NDIS Reforms Spark Debate on Disability Support",
-        "body": "Significant challenges continue to emerge in Australia's National Disability Insurance Scheme. Experts are highlighting systemic issues - particularly around support for children with moderate disabilities.\n\nWhistleblower protections remain under scrutiny, with reports of workers facing potential retaliation for speaking out about service gaps. The debate underscores ongoing tensions between policy implementation and actual support delivery.",
-        "sources": [
-          {
-            "title": "Susan was forced out of a disability support job after speaking out. Are NDIS whistleblower laws still too weak?",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "The biggest group of kids at risk of falling through NDIS cracks",
-            "url": "https://www.abc.net.au/news/2026-04-12/moderate-children-at-risk-under-thriving-kids-ndis/106385602",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Visa warning as migrant confronts 'horrible situation'",
-            "url": "https://www.abc.net.au/news/2026-04-12/swedish-migrant-faces-uncertain-future-over-visa-stress/106478474",
+            "title": "Three charged over alleged 'kill car' pursuit in Sydney's west",
+            "url": "https://www.abc.net.au/news/2026-04-12/nsw-three-charged-lidcombe-kill-car-pursuit/106555664",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,9 +140,33 @@
     ],
     "world": [
       {
-        "headline": "Global Tensions Rise as US-Iran Talks Remain Fragile",
-        "body": "Diplomatic channels between the United States and Iran remain strained despite ongoing negotiations. Iran's deputy foreign minister claimed Tehran holds the upper hand in talks - a bold statement that underscores the complex geopolitical standoff. \n\nMeanwhile, US naval ships transited the strategically critical Strait of Hormuz for mine-clearing operations, signaling continued military preparedness. Pakistan has further complicated the regional dynamics by sending fighter jets to Saudi Arabia, highlighting the delicate balance of power in the Middle East.",
+        "headline": "US-Iran Talks Continue in Islamabad Amid Fragile Ceasefire",
+        "body": "High-stakes diplomatic negotiations between the United States and Iran entered a second day in Islamabad, with both sides signaling cautious optimism. US President Trump claimed victory regardless of the talks' outcome, while Iran's deputy foreign minister suggested Tehran holds the strategic advantage.\n\nThe talks unfold against a complex geopolitical backdrop. Regional tensions remain high, with Pakistan sending fighter jets to Saudi Arabia and US naval ships transiting the Strait of Hormuz for mine-clearing operations. Pope Leo has urged world leaders to reject war and pursue peaceful negotiations.",
         "sources": [
+          {
+            "title": "Iran war live: Talks with US to continue for a second day in Islamabad",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pope Leo urges world leaders to reject war and negotiate peace",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
@@ -166,24 +184,42 @@
             "url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Israel Expands Settlements - Tensions Escalate in West Bank",
+        "body": "Israel's approval of new settlements in the occupied West Bank has drawn sharp condemnation from Palestinians and international observers. The move comes amid ongoing violence - Israeli settlers killed a Palestinian during a village raid, further inflaming regional tensions.\n\nDiplomatic friction continues, with Israel reprimanding a Spanish diplomat for detonating a Netanyahu effigy. The incidents highlight the increasingly volatile relationship between Israel and its critics, raising questions about the potential for further escalation in the region.",
+        "sources": [
           {
-            "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+            "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+            "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli strikes kill at least 18 people across southern Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
+            "url": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Hungary Votes to Potentially End Orbán's 16-Year Reign",
-        "body": "Hungarian voters head to the polls today in a pivotal election that could end Viktor Orbán's long-standing political dominance. The opposition hopes to unseat the incumbent leader who has shaped the country's political landscape for over a decade and a half. \n\nUS President Trump's potential influence looms large over the election, with political analysts closely watching how his endorsements might sway voter sentiment. The election represents a critical test of Hungary's democratic processes and potential political realignment.",
+        "headline": "Hungary Votes - Orbán's 16-Year Rule Faces Serious Challenge",
+        "body": "Hungarian voters will decide whether to end Viktor Orbán's 16-year political dominance in a pivotal election. The contest has drawn international attention, with speculation about former US President Trump's potential influence on the electoral dynamics.\n\nThe election represents a critical moment for Hungary's political future. The far-right Alternative for Germany (AfD) party has already adopted a radical manifesto ahead of key polls, signaling broader shifts in European political landscapes.",
         "sources": [
           {
             "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
@@ -196,22 +232,10 @@
             "url": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "India Faces Global Criticism Over Marital Rape Laws",
-        "body": "India continues to resist criminalizing marital rape - a decision drawing intense international scrutiny and criticism. The controversial stance highlights deep-rooted social and legal challenges surrounding women's rights in the country. \n\nThe issue has sparked renewed debate about gender equality and legal protections for women in Indian society. Activists are using new documentary series and media platforms to shine a spotlight on the systemic challenges faced by women seeking legal recourse against sexual violence within marriage.",
-        "sources": [
-          {
-            "title": "India refuses to criminalise marital rape. This new series shines a light on it",
-            "url": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
           },
           {
-            "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-            "url": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+            "url": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -220,8 +244,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Benchmarks Shattered - But at What Cost?",
-        "body": "Berkeley researchers claim to have broken top AI agent performance metrics - a breakthrough that raises more questions than answers. Their latest report suggests current evaluation methods fail to capture the true complexity of artificial intelligence systems.\n\nThe study highlights critical gaps in how we measure AI capabilities. By exposing weaknesses in existing benchmarks, the team has opened a crucial dialogue about the reliability of performance testing. What looks like progress might be nothing more than statistical sleight of hand.",
+        "headline": "AI Research Pushes Boundaries with New Benchmark Breakthroughs",
+        "body": "Researchers at Berkeley's Research and Development Institute have made significant strides in AI agent performance. Their latest work challenges existing benchmarks - revealing critical insights into AI capabilities and limitations. The team demonstrated how smaller AI models can uncover vulnerabilities previously thought detectable only by advanced systems. This breakthrough suggests a more nuanced understanding of AI's potential and risks is emerging.",
         "sources": [
           {
             "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
@@ -238,43 +262,31 @@
         ]
       },
       {
-        "headline": "Astronauts Return from Historic Lunar Mission",
-        "body": "NASA's Artemis II mission concluded successfully this weekend, with four astronauts safely returning from a groundbreaking lunar journey. The mission marks a significant milestone in humanity's return to deep space exploration.\n\nAfter circling the Moon, the crew touched down on Earth - completing a voyage that signals renewed ambition in space travel. This mission represents more than a technical achievement. It's a bold statement about human potential and our continuing drive to push beyond known boundaries.",
+        "headline": "Tech Giants Shift as Cirrus Labs Joins OpenAI",
+        "body": "OpenAI has announced the acquisition of Cirrus Labs - a move signaling continued consolidation in the AI industry. The deal suggests ongoing strategic realignments among major technology companies. While details remain sparse, the acquisition could potentially expand OpenAI's technological capabilities or research portfolio. Industry watchers are closely monitoring the potential implications for AI development and competitive landscapes.",
         "sources": [
           {
-            "title": "The Artemis II mission has ended. Where does NASA go from here?",
-            "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-            "source": "Ars Technica",
+            "title": "Cirrus Labs to join OpenAI",
+            "url": "https://cirruslabs.org/",
+            "source": "Hacker News",
             "lean": null
           },
-          {
-            "title": "Four astronauts are back home after a daring ride around the Moon",
-            "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Tensions: Sam Altman Responds to Personal Attack",
-        "body": "OpenAI's CEO Sam Altman addressed a controversial New Yorker article following a reported attack on his home. The incident highlights the growing personal and professional pressures facing tech leadership in the AI era.\n\nAltman's response suggests a complex narrative beyond simple sensationalism. As AI becomes increasingly central to global technology discourse, its key figures are finding themselves under unprecedented scrutiny and personal risk.",
-        "sources": [
           {
             "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
             "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
             "source": "TechCrunch",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Atomic-Scale Memory Breakthrough Promises Massive Data Storage",
+        "body": "Scientists have achieved a remarkable breakthrough in data storage technology. A new atomic-scale memory technique using fluorographane promises unprecedented density - reaching 447 terabytes per square centimeter with zero retention energy. This development could revolutionize data storage, offering exponentially more compact and efficient memory solutions. The research represents a potential quantum leap in computational and storage technologies.",
+        "sources": [
           {
-            "title": "Your article about AI doesn’t need AI art",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "How the Internet Broke Everyone’s Bullshit Detectors",
-            "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-            "source": "Wired",
+            "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+            "url": "https://zenodo.org/records/19513269",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -282,8 +294,8 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Price Signals Potential Market Shift",
-        "body": "Bitcoin traders are seeing early signs of a market bottom. Open interest has climbed near $25 billion, suggesting potential for a short squeeze that could drive prices higher. Realized losses are declining - a key indicator that seller exhaustion might be setting in. Market sentiment remains cautious but shows hints of underlying strength.",
+        "headline": "Bitcoin Signals Market Shift as Seller Pressure Eases",
+        "body": "Bitcoin traders are seeing potential signs of market stabilization. Realized losses are declining - a key indicator that selling pressure might be waning. The cryptocurrency's price has remained relatively flat amid broader market uncertainty, with open interest approaching $25 billion and suggesting increased trader engagement.\n\nMarket analysts interpret these signals as possible exhaustion among sellers. The current trading environment reflects cautious sentiment, with Bitcoin holding steady as geopolitical negotiations and macroeconomic factors continue to influence investor behavior.",
         "sources": [
           {
             "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
@@ -306,8 +318,8 @@
         ]
       },
       {
-        "headline": "SpaceX Maintains Bitcoin Position Despite AI Losses",
-        "body": "Elon Musk's SpaceX continues to hold $603 million in bitcoin, even after suffering a $5 billion loss from its xAI venture. The holding signals sustained institutional confidence in cryptocurrency despite broader market volatility. The tech company's bitcoin strategy underscores a growing trend of corporate treasury diversification into digital assets.",
+        "headline": "SpaceX Maintains Bitcoin Position Despite Major AI Losses",
+        "body": "Elon Musk's SpaceX is holding steady with $603 million in Bitcoin investments, even after reporting a $5 billion loss related to xAI. The continued Bitcoin position signals ongoing confidence in cryptocurrency despite significant financial challenges in Musk's other ventures.\n\nThe investment demonstrates a persistent belief in Bitcoin's long-term value proposition, even as tech companies navigate complex financial landscapes. SpaceX's commitment comes at a time of increasing institutional interest in digital assets.",
         "sources": [
           {
             "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
@@ -322,38 +334,26 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Bitcoin Core Maintainers Explore Protocol's Future",
-        "body": "The Bitcoin core development team is examining the protocol's long-term governance and technical evolution. Recent discussions have centered on the critical role of core maintainers in preserving Bitcoin's fundamental architecture. These conversations reflect the ongoing challenge of balancing technological innovation with the network's foundational principles of decentralization.",
-        "sources": [
-          {
-            "title": "The Core Issue: The Role and History of Bitcoin Core Maintainers",
-            "url": "https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
       }
     ]
   },
   "suggestions": {
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African",
+      "cuisine": "North African/Middle Eastern",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "tip": "Toast some harissa-brushed sourdough on the side to perfectly soak up the rich sauce"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "Perform a targeted 5-minute mobility sequence that realigns spine, releases tension, and counteracts prolonged sitting",
-      "tip": "Use a foam roller vertically along spine, rolling slowly and pausing at tight spots"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-routine to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Use a foam roller vertically along your spine for 2-3 minutes, focusing on thoracic vertebrae and allowing gravity to gently separate each vertebral segment"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure",
-      "why": "Reveals revolutionary approaches to solving complex urban challenges by studying nature's 3.8 billion years of design evolution"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical illustrations and cryptic diagrams that have defied translation for centuries",
+      "why": "It represents one of the most intriguing unsolved linguistic and historical puzzles, challenging cryptographers, linguists, and historians with its impenetrable secrets"
     }
   }
 }
