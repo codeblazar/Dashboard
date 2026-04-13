@@ -1,59 +1,35 @@
 {
-  "generatedAt": "2026-04-12T22:12:33.961Z",
+  "generatedAt": "2026-04-13T05:09:07.994Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Orban Falls: Hungary's Long-Time Leader Concedes Defeat",
-        "body": "Hungarian Prime Minister Viktor Orban has lost power after 16 consecutive years, marking a significant political shift. Opposition forces defeated Orban's ruling party, ending his nationalist-conservative government that had been closely aligned with former US President Trump.\n\nThe election result signals potential changes in Hungary's international relationships. Orban, known for his pro-Putin and anti-EU stance, saw his government fall despite recent support from US political figures like JD Vance. The defeat suggests growing voter fatigue with his authoritarian approach and increasing desire for democratic renewal.",
+        "headline": "US Prepares Naval Blockade of Iran After Peace Talks Collapse",
+        "body": "Tensions escalated sharply in the Middle East after US-Iran peace negotiations in Pakistan failed to reach an agreement. The US military announced plans to blockade Iran's ports in the Strait of Hormuz, starting Monday morning. Oil prices surged above $100 in response to the developing crisis.\n\nSenators expressed mixed reactions. Some GOP members support the blockade, while others question its strategic value. Senator Mark Warner criticized the move, saying he doesn't understand the logic behind the naval action. The situation remains fluid, with potential for further diplomatic or military escalation.",
         "sources": [
           {
-            "title": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
-            "url": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Trump ally Orbán sees government fall despite Vance visit",
-            "url": "https://thehill.com/homenews/5828165-trump-ally-orban-sees-government-fall-despite-vance-visit/",
+            "title": "Oil prices surge above $100 as US Navy to blockade Iran’s ports after peace talks fail",
+            "url": "https://thehill.com/business/5828489-oil-prices-rise-trump-blockade/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Hungary's Viktor Orbán concedes defeat, ending 16 years in power",
-            "url": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "US-Iran Tensions Escalate with Naval Blockade Threat",
-        "body": "President Trump has announced a naval blockade of Iran's Strait of Hormuz, dramatically raising geopolitical tensions. The move comes after unsuccessful negotiations in Islamabad, with Trump warning of potential civilizational consequences if Iran does not comply.\n\nCongressional reactions are mixed. Some senators question the strategic logic, while others support the hardline approach. The Israeli ambassador suggested potential for continued diplomatic talks, indicating complex diplomatic maneuvering behind the scenes. The blockade represents a significant military escalation with uncertain international implications.",
-        "sources": [
-          {
-            "title": "Israeli ambassador to US points to ‘potential’ for ‘continued talks’ with Iran",
-            "url": "https://thehill.com/policy/international/5828247-leiter-vance-iran-peace/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Warner on US blockade in Strait of Hormuz: ‘I don’t get that logic’",
-            "url": "https://thehill.com/homenews/senate/5828210-sen-warner-questions-trump-blockade/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "GOP senator says US has not ‘won’ Iran war yet, contradicting Trump",
-            "url": "https://thehill.com/homenews/senate/5828067-ron-johnson-iran-war-unfinished/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Iran talks done in by Tehran's delusions over leverage they don't have, US official says",
-            "url": "https://www.foxnews.com/politics/iran-talks-done-tehrans-delusions-leverage-dont-us-official-says",
+            "title": "Trump voices frustration with NATO, says Iranian navy ‘destroyed’ as US preps for blockade",
+            "url": "https://www.foxnews.com/politics/trump-voices-frustration-nato-says-iranian-navy-destroyed-us-preps-blockade",
             "source": "Fox News",
             "lean": "right"
+          },
+          {
+            "title": "JD Vance returns to Washington after 16 hours of Iran peace talks collapse in Pakistan",
+            "url": "https://www.foxnews.com/politics/jd-vance-returns-washington-after-16-hours-iran-peace-talks-collapse-pakistan",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "US blockade of Strait of Hormuz to start Monday morning, military says",
+            "url": "https://thehill.com/policy/defense/5828300-centcom-blockade-strait-hormuz/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
@@ -62,93 +38,159 @@
             "lean": "center-left"
           },
           {
-            "title": "Trump defends ‘whole civilization will die’ message to Iran: ‘I’m fine with it’",
-            "url": "https://thehill.com/homenews/administration/5827896-trump-defends-iran-threat-civilization/",
+            "title": "Warner on US blockade in Strait of Hormuz: ‘I don’t get that logic’",
+            "url": "https://thehill.com/homenews/senate/5828210-sen-warner-questions-trump-blockade/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "US military will ‘clean out’ Strait of Hormuz: Trump",
-            "url": "https://thehill.com/homenews/administration/5827840-trump-navy-strait-hormuz-blockade/",
+            "title": "Iran talks leave Trump with tough decisions",
+            "url": "https://thehill.com/homenews/administration/5828043-us-iran-ceasefire-uncertainty/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Swalwell Faces Growing Calls to Resign amid Misconduct Claims",
-        "body": "Representative Eric Swalwell confronts mounting pressure to resign or be expelled from Congress following serious misconduct allegations. Lawmakers from both parties have publicly called for his departure, signaling a rare moment of bipartisan agreement.\n\nThe controversy highlights ongoing challenges with congressional accountability and ethical standards. Swalwell has not yet publicly responded to the mounting criticism. The situation could potentially trigger formal expulsion proceedings if he continues to resist calls for his resignation.",
+        "headline": "Swalwell Exits California Governor Race Amid Misconduct Claims",
+        "body": "Democratic congressman Eric Swalwell suspended his campaign for California governor amid growing allegations of sexual misconduct. Swalwell denied specific claims but apologized for past judgment, acknowledging the controversy surrounding his candidacy.\n\nThe Department of Homeland Security has launched an investigation into additional allegations, including potential illegal hiring of a nanny. Swalwell's withdrawal marks a significant setback for his political ambitions and highlights ongoing challenges within the Democratic Party's leadership.",
         "sources": [
           {
-            "title": "Calls grow for Rep. Swalwell to resign or be expelled over misconduct claims",
+            "title": "Eric Swalwell exits California governor race apologizing for past judgment while denying claims",
+            "url": "https://www.foxnews.com/politics/eric-swalwell-exits-california-governor-race-apologizing-past-judgment-while-denying-claims",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
+            "url": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Swalwell suspends campaign for California governor",
+            "url": "https://thehill.com/homenews/campaign/5828384-swalwell-suspends-governor-campaign/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Swalwell suspends campaign for Calif. governor amid growing rancor over sexual misconduct claims",
             "url": "https://www.washingtonpost.com/politics/2026/04/12/eric-swalwell-resign-expelled/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "House lawmakers, on both sides of the aisle, call on Swalwell, Gonzales to resign amid misconduct allegations",
-            "url": "https://thehill.com/homenews/house/5827785-donalds-swalwell-gonzales-house-expulsion/",
+            "title": "DHS probes Swalwell over allegations of hiring nanny illegally",
+            "url": "https://thehill.com/homenews/house/5828336-dhs-investigates-swalwell-nanny/",
             "source": "The Hill",
             "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Escalates Feud with Pope Leo XIV Over Foreign Policy",
+        "body": "Former President Donald Trump intensified his public criticism of Pope Leo XIV, attacking the pontiff's stance on foreign policy and the ongoing Iran conflict. Trump claimed credit for the pope's election and accused him of being terrible on international issues.\n\nThe unusual public dispute between a former US president and the Catholic Church leader reflects the continuing polarization in American political discourse. Some observers see the conflict as part of Trump's broader strategy of maintaining media attention and challenging institutional narratives.",
+        "sources": [
+          {
+            "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff",
+            "url": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump attacks Pope Leo, taking credit for his election as bishop of Rome",
+            "url": "https://www.washingtonpost.com/politics/2026/04/12/trump-criticizes-pope-leo/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump accuses Pope Leo of being 'terrible' on foreign policy over pontiff's anti-war comments",
+            "url": "https://www.foxnews.com/politics/trump-accuses-pope-leo-being-terrible-foreign-policy-over-pontiffs-anti-war-comments",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Fuel Crisis Drives Albanese Diplomatic Mission to Southeast Asia",
-        "body": "Prime Minister Anthony Albanese and Foreign Minister Penny Wong will visit Brunei and Malaysia this week to secure critical fuel supplies amid growing regional tensions. The diplomatic tour comes as Australia faces significant energy challenges - with fuel costs driving economic stress and forcing some workers to delay retirement or work from home.\n\nThe mission signals the government's urgent response to potential supply disruptions. Markets remain on edge, with oil prices expected to rise due to international geopolitical pressures, particularly surrounding potential blockades in strategic shipping routes.",
+        "headline": "Three Victorian Ministers Resign Ahead of State Election",
+        "body": "The Victorian government faces significant leadership changes as three ministers - including the health minister - step down before the upcoming state election. These retirements signal potential shifts in the state's political landscape and could impact the ruling party's electoral strategy.\n\nThe departures come at a critical moment, with the government needing to demonstrate stability and continuity. Political analysts suggest these resignations might reflect internal assessments of the party's electoral prospects.",
         "sources": [
           {
-            "title": "Australia news live: PM and Wong to visit Brunei and Malaysia to shore up fuel supply",
+            "title": "Australia news live: three Victorian government ministers resign; Bowen says nation’s fuel supply ‘about standard’",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: Albanese and Wong to visit Brunei and Malaysia to shore up fuel supply",
-            "url": "https://www.abc.net.au/news/2026-04-13/federal-politics-live-albanese-fuel-iran-critical-minerals/106551548",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Fuel crisis has some some delaying retirement and working from home",
-            "url": "https://www.abc.net.au/news/2026-04-13/fuel-crisis-creating-covid-esque-shocks-across-australia/106535480",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live: Markets on edge, oil set to rise on US Gulf blockade threats",
-            "url": "https://www.abc.net.au/news/2026-04-13/asx-markets-business-news-live-updates/106557140",
+            "title": "Health minister and veteran MPs step down before Victorian state election",
+            "url": "https://www.abc.net.au/news/2026-04-13/victoria-state-mp-parliament-retirement/106558362",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Cyclone Maila Devastates Papua New Guinea - Australia Offers Aid",
-        "body": "At least 11 people have died following Cyclone Maila's destructive path through Papua New Guinea, prompting an Australian humanitarian response. The tropical system continues to track towards North Queensland, threatening further rainfall and potential disruption.\n\nAustralia is preparing emergency support for the impacted region, with meteorological services tracking the cyclone's potential trajectory and impact. Local communities in both Papua New Guinea and northern Australia remain on high alert for potential further severe weather conditions.",
+        "headline": "Albanese Calls for US-Iran Peace Talks, Names New Defence Chief",
+        "body": "Prime Minister Anthony Albanese has urged the United States and Iran to restart peace negotiations and reopen the strategically crucial Strait of Hormuz. His diplomatic intervention comes amid escalating tensions in the region and potential global economic implications.\n\nIn a parallel move, Albanese has appointed Susan Coyle as the first woman to lead the Australian Army - a historic moment for military leadership. Her selection underscores the government's commitment to diversity and representation in senior defence roles.",
         "sources": [
           {
-            "title": "Cyclone Maila kills at least 11 people in Papua New Guinea",
-            "url": "https://www.abc.net.au/news/2026-04-13/tc-maila-kills-11-people-as-australia-provides-millions/106557122",
+            "title": "Albanese calls on US and Iran to resume peace negotiations and reopen strait of Hormuz",
+            "url": "https://www.theguardian.com/world/2026/apr/13/australia-pm-albanese-us-iran-peace-talks-reopen-strait-of-hormuz",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Albanese names new defence force chief",
+            "url": "https://www.abc.net.au/news/2026-04-13/albanese-names-new-defence-force-chief/106558194",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Sunny North Queensland set for more rain as ex-TC Maila tracks towards the coast",
-            "url": "https://www.abc.net.au/news/2026-04-13/north-queensland-heavy-rains-forecast-from-maila-low/106555768",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Susan Coyle to be first woman to lead Australian army in ‘deeply historic moment’",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/13/susan-coyle-chief-of-army-australia",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Hungary Shocks Europe: Opposition Topples Orban After 14 Years",
-        "body": "Peter Magyar's Tisza party has stunned Hungary's political landscape, defeating Viktor Orban's long-dominant Fidesz in a surprise parliamentary election. Orban conceded defeat late Sunday - a rare moment of political surrender for the nationalist leader who has controlled Hungary since 2010.\n\nThe election marks a potential turning point for Hungary's democratic trajectory. Magyar, a former Fidesz insider, built a grassroots movement that successfully challenged Orban's increasingly authoritarian governance. International observers are watching closely, seeing potential implications for democratic resistance across Eastern Europe.",
+        "headline": "Hungary Votes Out Orban After 16-Year Authoritarian Rule",
+        "body": "Péter Magyar has swept to power in a stunning electoral upset, ending Viktor Orban's long grip on Hungarian politics. Early results show Magyar's Tisza Party winning a decisive victory - a moment many are calling a democratic reset for the country.\n\nOrban conceded defeat, marking a dramatic shift after 16 years of increasingly nationalist and illiberal governance. Magyar has already claimed the election represents a liberation for Hungary, signaling a potential return to more democratic norms and closer alignment with European Union values.",
         "sources": [
+          {
+            "title": "Viktor Orban swept from power after 16 years ruling Hungary",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+            "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+            "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "'A truly historic moment': Hungarian opposition wins election landslide",
+            "url": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
             "url": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
@@ -162,19 +204,7 @@
             "lean": null
           },
           {
-            "title": "'A truly historic moment': BBC reports from Hungary as Viktor Orbán concedes election",
-            "url": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Hungary’s Viktor Orban concedes defeat in parliamentary elections",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/hungarys-viktor-orban-concedes-defeat-in-parliamentary-elections?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
+            "title": "Peter Magyar wins Hungary election, unseating Viktor Orban after 16 years",
             "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
@@ -182,9 +212,33 @@
         ]
       },
       {
-        "headline": "Trump Orders Hormuz Blockade After US-Iran Peace Talks Collapse",
-        "body": "Former President Trump has announced a naval blockade of the Strait of Hormuz following the breakdown of US-Iran peace negotiations. The dramatic escalation threatens global oil markets and regional stability.\n\nTalks between Washington and Tehran ended without a breakthrough, with Trump declaring the initiative now rests with Iran. The potential blockade could dramatically increase tensions in the already volatile Middle East, raising concerns about potential military confrontation and economic disruption.",
+        "headline": "US Threatens Iran Blockade as Oil Prices Spike Past $103",
+        "body": "Tensions escalated sharply in the Gulf region as the United States announced plans to blockade Iranian ports starting Monday. The move comes after failed peace negotiations - pushing global oil prices above $103 per barrel and raising fears of broader regional conflict.\n\nThe US military specifically targets traffic in the Hormuz Strait, a critical maritime chokepoint for global oil shipments. Analysts warn the blockade could significantly disrupt international trade and potentially trigger further military escalation.",
         "sources": [
+          {
+            "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+            "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+            "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US military threatens to blockade all Iranian ports starting on Monday",
+            "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
             "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&amp;at_campaign=rss",
@@ -202,90 +256,30 @@
             "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-            "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
-            "url": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Israel Strikes Kill Civilians in Lebanon - Tensions Escalate",
-        "body": "Israeli strikes in southern Lebanon have resulted in civilian casualties, with rescue workers digging through rubble to find survivors. The attack has heightened regional tensions and drawn international condemnation.\n\nThe strikes come amid ongoing regional conflicts, with humanitarian groups raising alarm about the human cost of military operations. The incident underscores the fragile peace in the Lebanon-Israel border region and the ongoing risks of military escalation.",
-        "sources": [
-          {
-            "title": "These are people Israel killed in Lebanon on a single day",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "History of flotilla campaigns to end Israel’s siege of Gaza",
-            "url": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       }
     ],
     "ai": [
       {
-        "headline": "AI Models Spark Political and Banking Interest",
-        "body": "Trump administration officials are exploring Anthropic's Mythos AI model for potential banking applications. The move signals growing political engagement with advanced AI technologies - and potential strategic deployment in financial sectors.\n\nEuropean policymakers are simultaneously developing their own AI strategy. The emerging landscape suggests national governments view cutting-edge AI models as critical infrastructure - not just technological curiosities.",
+        "headline": "AI Code Wars Heat Up as Tech Giants Battle for Dominance",
+        "body": "The artificial intelligence coding landscape is becoming increasingly competitive, with major players vying for supremacy. Anthropic's Mythos model is gaining traction - reportedly catching the eye of political operatives seeking financial sector applications. Meanwhile, the battle between proprietary platforms like CUDA and open alternatives like ROCm continues to intensify.\n\nTech companies are pushing boundaries, with Apple potentially emerging as an unexpected contender despite being initially labeled an AI laggard. The competitive landscape suggests we're witnessing the early stages of a transformative technological arms race.",
         "sources": [
           {
-            "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-            "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-            "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+            "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+            "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "At the HumanX conference, everyone was talking about Claude",
-            "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Apple Preps Smart Glasses as Tech Giants Battle Wearables",
-        "body": "Apple is testing four distinct designs for upcoming smart glasses - a clear signal of the company's commitment to wearable technology. The move comes amid intense competition in augmented reality hardware.\n\nThe prototypes suggest Apple is exploring multiple form factors and user experiences. Tech industry watchers see this as a potential inflection point for mainstream AR adoption - moving beyond niche enthusiast markets.",
-        "sources": [
-          {
-            "title": "Apple reportedly testing four designs for upcoming smart glasses",
-            "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-            "source": "TechCrunch",
+            "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+            "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-            "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+            "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+            "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
             "source": "TechCrunch",
             "lean": null
           },
@@ -296,53 +290,65 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Apple Explores Smart Glasses as Tech Innovation Continues",
+        "body": "Apple is actively testing four distinct designs for its upcoming smart glasses, signaling the company's continued commitment to wearable technology. The move comes as tech firms seek new hardware platforms beyond smartphones and traditional computing devices.\n\nThis development highlights the ongoing innovation in personal technology, with companies exploring new form factors that could reshape how users interact with digital information. The smart glasses project represents a potential next frontier in Apple's hardware strategy.",
+        "sources": [
+          {
+            "title": "Apple reportedly testing four designs for upcoming smart glasses",
+            "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "At the HumanX conference, everyone was talking about Claude",
+            "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles as US-Iran Tensions Spark Global Market Panic",
-        "body": "Bitcoin plunged below $71,000 on Sunday as geopolitical tensions between the United States and Iran triggered a sharp market sell-off. The cryptocurrency market reacted swiftly to news of potential military escalation in the Strait of Hormuz. Traders and investors scrambled to reduce risk amid growing uncertainty.\n\nAnalysts suggest the current price correction might represent a temporary setback. Some market watchers believe Bitcoin could find support around the $65,000 level - a potential base for future recovery.",
+        "headline": "Bitcoin Tumbles as US-Iran Tensions Spark Global Market Jitters",
+        "body": "Bitcoin plunged to $70,600 on Monday after escalating geopolitical tensions in the Hormuz Strait. The cryptocurrency market reacted sharply to news of a potential US blockade - a move that sent ripples through global financial markets. Analysts warn the conflict could dominate market sentiment throughout 2026, creating significant volatility for Bitcoin investors.\n\nThe price drop reflects growing uncertainty. Traders are watching closely as geopolitical risks intersect with cryptocurrency markets, testing Bitcoin's reputation as a potential safe-haven asset during global instability.",
         "sources": [
+          {
+            "title": "Bitcoin dips to $70.6K, oil rises after US announces Hormuz blockade",
+            "url": "https://cointelegraph.com/news/bitcoin-falls-oil-rises-us-to-block-strait-of-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin slides to $71,000 after Trump’s blockade order in Strait of Hormuz",
+            "url": "https://www.theblock.co/post/397147/bitcoin-trump-blockade-hormuz?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "BTC recovery fragile, Iran war fallout to 'dominate' markets in 2026: Analyst",
+            "url": "https://cointelegraph.com/news/btc-fragile-iran-fallout-dominate-markets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Bitcoin price falls under $71K as US-Iran war tensions spark sell-off",
             "url": "https://cointelegraph.com/news/bitcoin-price-falls-under-dollar71k-as-us-iran-war-tensions-spark-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz",
-            "url": "https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Miners Brace for Challenging Path to 2028 Halving",
-        "body": "Bitcoin miners face mounting pressure as the network approaches its 2028 halving event. Increasing operational costs and potential revenue reductions are creating a complex landscape for mining operations. The impending halving - which will reduce block rewards - demands strategic adaptation from industry participants.\n\nMichael Saylor's Strategy continues to signal potential Bitcoin purchases, suggesting institutional confidence remains strong despite current market volatility.",
+        "headline": "Crypto Security Breach: Musician Loses 5.9 BTC to Fake App Scam",
+        "body": "A sophisticated App Store scam targeting cryptocurrency users claimed another victim this week. Musician G. Love reported losing 5.9 Bitcoin through a fake Ledger application - highlighting persistent security risks in the digital asset ecosystem.\n\nThe incident underscores the ongoing challenge of protecting digital assets from increasingly clever fraudsters. Users are advised to verify app authenticity and maintain rigorous security protocols when managing cryptocurrency holdings.",
         "sources": [
           {
-            "title": "Strategy's Michael Saylor signals impending Bitcoin purchase",
-            "url": "https://cointelegraph.com/news/strategy-saylor-signal-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin miners face a tougher road to the 2028 halving",
-            "url": "https://cointelegraph.com/news/bitcoin-2028-halving-hits-the-halfway-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Researchers Propose Quantum-Resistant Bitcoin Solution",
-        "body": "Bitcoin researchers have developed a potential method to protect the cryptocurrency from quantum computing threats without requiring a network fork. The breakthrough could provide a critical security upgrade for the world's leading digital asset.\n\nThe proposed solution addresses growing concerns about quantum computing's potential to compromise blockchain cryptography. If successful, the approach could significantly enhance Bitcoin's long-term technological resilience.",
-        "sources": [
-          {
-            "title": "There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say",
-            "url": "https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork",
-            "source": "Decrypt",
+            "title": "Fake Ledger app on App Store drains American musician’s 5.9 BTC",
+            "url": "https://www.theblock.co/post/397155/g-love-loses-btc-fake-ledger?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -351,21 +357,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
+      "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Spicy tomato and pepper stew with eggs poached directly in the sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for authentic even heat and serve directly from pan for dramatic presentation"
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted 5-minute micro-mobility routine designed to counteract prolonged sitting and realign spinal compression",
-      "tip": "Use a foam roller vertically along your spine, rolling slowly and pausing at tight spots to release muscle tension"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "The emerging field of designing cities and infrastructure by directly copying strategies found in natural ecosystems",
-      "why": "It offers revolutionary approaches to sustainability, efficiency, and resilience by studying how complex natural systems self-organize and adapt"
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city planning",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human infrastructure challenges"
     }
   }
 }
