@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-04-13T22:20:50.133Z",
+  "generatedAt": "2026-04-14T05:02:01.834Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Swalwell Resigns from Congress Amid Sexual Misconduct Claims",
-        "body": "Rep. Eric Swalwell announced his resignation from Congress after mounting sexual misconduct allegations derailed his gubernatorial ambitions. The House Ethics Committee launched an investigation into the California Democrat, with some Republicans pushing for potential expulsion.\n\nThe allegations have created significant political fallout. Republican Rep. Anna Paulina Luna suggested the votes exist to remove Swalwell, while the California Republican Party notably declined to endorse a replacement candidate in the ongoing gubernatorial race.",
+        "headline": "Two Congressmen Resign Amid Sexual Misconduct Allegations",
+        "body": "Representatives Eric Swalwell and Tony Gonzales announced their resignations from Congress on Tuesday, following serious sexual misconduct allegations. The moves come ahead of potential expulsion votes and mark a dramatic fall for both politicians.\n\nSwalwell - previously seen as a rising Democratic star - saw his political career implode after bombshell accusations surfaced. Gonzales, a Republican, also chose to step down rather than face potential disciplinary action. Both departures signal growing congressional intolerance for inappropriate behavior.",
         "sources": [
+          {
+            "title": "Reps. Swalwell, Gonzales say they’ll leave Congress ahead of possible expulsion votes",
+            "url": "https://www.washingtonpost.com/politics/2026/04/13/eric-swalwell-resigns-congress/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Embattled Rep Tony Gonzales announces plans to resign amid sexual misconduct allegations",
+            "url": "https://www.foxnews.com/politics/embattled-rep-tony-gonzales-announces-plans-resign-sexual-misconduct-allegations",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Tony Gonzales says he’ll ‘file my retirement,’ following Swalwell announcing resignation from House",
+            "url": "https://thehill.com/homenews/house/5829633-tony-gonzales-resigns-house/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Eric Swalwell will resign from Congress as he faces backlash over assault allegations",
             "url": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Rep. Eric Swalwell will resign from Congress following sexual misconduct allegations",
-            "url": "https://www.washingtonpost.com/politics/2026/04/13/eric-swalwell-resigns-congress/",
-            "source": "Washington Post",
-            "lean": "center-left"
           },
           {
             "title": "Swalwell announces resignation from Congress after sexual misconduct allegations torpedoed gubernatorial bid",
@@ -26,7 +38,7 @@
             "lean": "right"
           },
           {
-            "title": "Swalwell to resign from Congress amid sexual assault allegations",
+            "title": "Swalwell to resign from Congress amid allegations of sexual assault, misconduct",
             "url": "https://thehill.com/homenews/house/5829502-swalwell-resigns-congress/",
             "source": "The Hill",
             "lean": "center"
@@ -36,43 +48,31 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/13/house-members-expulsions-swalwell-gonzales/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Rep. Luna: ‘I think the votes are there’ to expel Swalwell and Gonzales",
-            "url": "https://thehill.com/homenews/house/5829253-luna-votes-house-ethics-swalwell-gonzales/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Ethics Committee launches investigation into Swalwell",
-            "url": "https://thehill.com/homenews/house/5829199-ethics-committee-swalwell/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Swalwell’s exit shakes up California governor’s race",
-            "url": "https://thehill.com/homenews/campaign/5828908-swalwell-california-governors-race/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Swalwell faces House ethics probe over alleged sexual misconduct as expulsion threat looms",
-            "url": "https://www.foxnews.com/politics/swalwell-faces-house-ethics-probe-over-alleged-sexual-misconduct-expulsion-threat-looms",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "California Republicans snub Trump, don’t endorse in governor’s race",
-            "url": "https://thehill.com/homenews/campaign/5829071-california-republican-party-endorsement/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Escalates Iran Tensions, Sparks International Controversy",
-        "body": "President Trump intensified geopolitical tensions by implementing a blockade in the Strait of Hormuz and engaging in a public dispute with Pope Leo. The administration's aggressive stance on Iran has raised concerns about potential economic impacts, particularly regarding oil prices.\n\nInternational reactions have been mixed. Italian Prime Minister Giorgia Meloni criticized Trump's comments about Pope Leo as unacceptable, while Hillary Clinton described the Iran negotiations as a joke. The White House remains defiant, with Trump stating he owes no apology to the Pope.",
+        "headline": "Trump Administration Navigates Foreign Policy Challenges",
+        "body": "The Trump administration faces complex international dynamics, with tensions mounting around Iran and diplomatic relationships under scrutiny. J.D. Vance suggested the diplomatic ball is in Iran's court during ongoing negotiations, while Trump continues to apply pressure on regional geopolitics.\n\nInternational reactions remain mixed. Italian Prime Minister Giorgia Meloni criticized Trump's recent comments about Pope Leo, and McConnell expressed concern about conservative foreign policy strategies following recent electoral setbacks in Hungary.",
         "sources": [
+          {
+            "title": "Vance says ‘ball is in the Iranian court’",
+            "url": "https://thehill.com/homenews/administration/5829786-iran-us-deal-islamabad-talks-vance/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Orban’s defeat marks a major loss for Trump’s foreign ambitions",
+            "url": "https://www.washingtonpost.com/politics/2026/04/13/trump-orban-conservative-movement/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "McConnell chides ‘some’ on right over failed campaigning for Orban in Hungary",
+            "url": "https://thehill.com/homenews/senate/5829627-mcconnell-criticizes-us-conservatives-hungary/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump puts squeeze on Iran as GOP worries about price at the pump",
             "url": "https://thehill.com/policy/defense/5829566-trump-iran-blockade-strait-hormuz/",
@@ -84,34 +84,28 @@
             "url": "https://thehill.com/policy/international/5829491-meloni-criticizes-trump-pope/",
             "source": "The Hill",
             "lean": "center"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Congressional Ethics and Potential Member Expulsions Loom",
+        "body": "The House of Representatives is preparing for potential mass expulsions as ethical misconduct allegations proliferate. Marjorie Taylor Greene suggested more members might face similar accusations to those leveled against Swalwell and Gonzales.\n\nThe potential for widespread congressional disciplinary action has sparked bipartisan discussion about accountability. Some Republicans, like Representative Ogles, have taken hardline stances - arguing that those accused of serious misconduct should face extreme consequences.",
+        "sources": [
           {
-            "title": "Baltimore cuts flouride levels amid shortage caused by Iran war",
-            "url": "https://thehill.com/policy/healthcare/5829323-baltimore-fluoride-reduction-water/",
+            "title": "Greene: ‘More members’ of Congress guilty of conduct ‘similar’ to allegations against Swalwell, Gonzales",
+            "url": "https://thehill.com/homenews/house/5829852-marjorie-taylor-greene-congress-misconduct-gonzales-swalwell/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Hillary Clinton says Trump ‘fully unhinged,’ Vance-led Iran talks ‘a joke’",
-            "url": "https://thehill.com/homenews/administration/5829363-hillary-clinton-slams-trump-iran-pope-leo-comments/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Live updates: Trump won’t apologize to pope, pulls controversial Jesus post; Strait of Hormuz blockade in effect",
-            "url": "https://thehill.com/homenews/administration/5827819-live-updates-trump-iran-pope-leo/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Lambasting Pope Leo, Trump risks alienating conservative Catholics",
-            "url": "https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/",
+            "title": "House eyes possible expulsion of multiple members as it returns to Washington",
+            "url": "https://www.washingtonpost.com/politics/2026/04/13/house-members-expulsions-swalwell-gonzales/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Trump: I don’t owe Pope Leo an apology",
-            "url": "https://thehill.com/homenews/administration/5829091-pope-leo-trump-dispute/",
+            "title": "House Republican: ‘Rapists should be hung, period’",
+            "url": "https://thehill.com/homenews/house/5829290-ogles-rapists-hung-statement/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -120,42 +114,60 @@
     ],
     "au-politics": [
       {
-        "headline": "Labor Boosts Military Drone Spending Amid Global Tensions",
-        "body": "The Australian government plans significant investment in military drone technology, signaling a strategic shift in defense capabilities. Labor's commitment comes as international geopolitical pressures intensify - particularly around maritime security zones like the Strait of Hormuz.\n\nThe announcement tracks with broader regional security discussions. Australia will join the UK and France in summit talks, suggesting a coordinated approach to potential maritime challenges. Defense experts see the drone program as a critical modernization effort for Australia's military infrastructure.",
+        "headline": "Senate Shake-Up: Greens Replace Retiring Senator",
+        "body": "The Greens have tapped Vanessa Bleyer to replace long-serving Senator Peter Whish-Wilson in a significant party transition. Bleyer will fill the Tasmanian Senate seat, continuing the Greens' representation in the upper house. Political observers note the move maintains the party's strategic positioning ahead of potential future electoral challenges.",
         "sources": [
           {
-            "title": "Australia news live: Labor to boost spending on military drones; suspected crocodile remains found on Adelaide roadside",
+            "title": "Breaking: Vanessa Bleyer to replace Peter Whish-Wilson in Senate",
+            "url": "https://www.abc.net.au/news/2026-04-14/tabatha-badger-greens-senator-replaces-peter-whish-wilson/106561806",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australia news live: Conroy calls Taylor’s immigration stance ‘desperate dog-whistling’; former NT senator Trish Crossin dead at 70",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/14/australia-news-live-politics-asx-reactions-fuel-crisis-oil-prices-anthony-albanese-labor-angus-taylor-coalition-immigration-policy-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Live: Australia to join UK, France at summit on Strait of Hormuz",
-            "url": "https://www.abc.net.au/news/2026-04-14/federal-politics-live-blog-taylor-migration-labor-drones-fuel/106558928",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Global food crisis warning, accusations of Hormuz piracy as blockade begins",
-            "url": "https://www.abc.net.au/news/2026-04-14/iran-israel-war-daily-briefing/106561186",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Coalition Pushes Hardline Immigration Policy Amid Political Debate",
-        "body": "The Coalition has proposed a controversial new immigration strategy that has sparked immediate political pushback. Their plan centers on stricter entry controls and more aggressive deportation measures for certain categories of migrants.\n\nLabor has not yet fully responded, but internal party discussions suggest significant disagreement with the proposed approach. The policy proposal reflects ongoing tensions around Australia's immigration framework and represents a clear ideological divide between major political parties.",
+        "headline": "Energy Transition Sparks Debate Over Renewable Infrastructure",
+        "body": "NSW Energy Minister acknowledged difficult trade-offs in Australia's renewable energy shift during a tour of affected properties. Landowners are expressing frustration with infrastructure development, highlighting tensions between climate goals and local community impacts. The minister's comments suggest a nuanced approach is needed to balance environmental targets with property rights and community concerns.",
         "sources": [
           {
-            "title": "Morning Mail: Trump post prompts outrage, Coalition’s hardline immigration plan, Harry and Meghan’s ‘faux-royal visit’",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/14/morning-mail-tuesday-ntwnfb",
+            "title": "'Difficult trade-offs' needed during renewable transition, minister says",
+            "url": "https://www.abc.net.au/news/2026-04-14/nsw-energy-minister-tours-properties-of-fed-up-landowners/106549998",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "NSW promises more fast chargers and electric trucks in revamped EV policy",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Ex-One Nation candidate wants Hanson 'held accountable' for rehiring rapist ex-staffer",
-            "url": "https://www.abc.net.au/news/2026-04-14/former-one-nation-candidates-say-hanson-ashby-ignored-concerns/106559022",
+            "title": "Embarrassing: Is Australia missing the next tech age?",
+            "url": "https://www.spectator.com.au/2026/04/embarrassing-is-australia-missing-the-next-tech-age/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Palestinian Groups Challenge Australian Arms Export Permits",
+        "body": "Legal action has been launched challenging Australian arms export permits to Israel, raising significant diplomatic and ethical questions. The case seeks transparency around weapons export approvals, potentially exposing complex geopolitical considerations in Australia's international arms trade. Both humanitarian and strategic perspectives are likely to be scrutinized during proceedings.",
+        "sources": [
+          {
+            "title": "Palestinian groups launch legal bid to shed light on Australian arms export permits to Israel",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/14/palestinian-groups-legal-action-australian-arms-weapons-exports-israel-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Palestinian groups take Australia to court over Israel arms exports",
+            "url": "https://www.abc.net.au/news/2026-04-14/palestinian-legal-action-australia-weapons-exports-israel-f-35/106558340",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -164,73 +176,55 @@
     ],
     "world": [
       {
-        "headline": "UN Condemns Israel's Gaza Actions - Displacement Continues",
-        "body": "UN experts have sharply criticized ongoing Israeli military operations in Gaza and the West Bank. The international body highlighted attacks on civilian shelters and systematic forced displacement of Palestinian communities. These actions potentially constitute serious violations of international humanitarian law.\n\nThe criticism comes amid continued Israeli strikes in Gaza - three Palestinians were killed in separate incidents on Monday. The UN's intervention underscores growing international concern about the humanitarian crisis in the region.",
+        "headline": "OpenAI CEO Altman Targeted in Shocking Home Attack",
+        "body": "A man faces attempted murder charges after an alleged assault on Sam Altman's residence. Law enforcement arrested the suspect following a violent incident targeting the high-profile tech executive. Details remain sparse, but the attack highlights growing tensions around artificial intelligence leadership.",
         "sources": [
           {
-            "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
-            "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss",
+            "title": "Man charged with attempted murder of OpenAI CEO Sam Altman",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/man-charged-with-attempted-murder-of-openai-ceo-sam-altman?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israel kills three Palestinians in separate Gaza strikes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
-            "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
+            "title": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
+            "url": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Hungary's Election Signals Potential Shift from Orbanism",
-        "body": "Hungary's political landscape transformed dramatically with the defeat of long-standing nationalist leader Viktor Orban. The election result signals potential realignment in the country's relationship with the European Union - a development Brussels cautiously welcomed.\n\nWhile Orban lost power, political analysts suggest his nationalist ideology - dubbed Orbanism - remains influential. The new government faces significant challenges in reshaping Hungary's domestic and international political trajectory.",
+        "headline": "Super Typhoon Sinlaku Threatens Pacific Islands - US Military Strikes Continue",
+        "body": "Super Typhoon Sinlaku bears down on the Northern Mariana Islands and Guam, threatening catastrophic damage. Meanwhile, US military operations continue in the eastern Pacific - a new strike killed two men aboard a vessel. Regional security and environmental risks converge in a volatile maritime landscape.",
         "sources": [
           {
-            "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss",
+            "title": "Super Typhoon Sinlaku bears down on Northern Mariana Islands, Guam",
+            "url": "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "EU applauds Hungary’s election result",
-            "url": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-world-4025-rdf",
+            "title": "US military kills two men in new strike on vessel in eastern Pacific",
+            "url": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Benin's Finance Minister Wins Presidential Election in Landslide",
+        "body": "Benin's government candidate Patrice Wadagni secured a stunning 94% of votes in the presidential election. The finance minister's overwhelming victory signals continued political stability in the West African nation. International observers will likely scrutinize the election's legitimacy given the massive margin.",
+        "sources": [
+          {
+            "title": "Benin's finance minister wins presidential election with 94%",
+            "url": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           },
           {
-            "title": "Is Magyar’s election win the end of the EU’s troubles with Hungary?",
-            "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss",
+            "title": "Benin’s Wadagni wins presidential election with landslide 94% of votes",
+            "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Orban was defeated in Hungary, but Orbanism lives on",
-            "url": "https://www.aljazeera.com/opinions/2026/4/13/orban-was-defeated-in-hungary-but-orbanism-lives-on?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Tensions Rise: Philippines Accuses China of Sea Poisoning",
-        "body": "Diplomatic tensions escalated as the Philippines accused Chinese fishermen of using cyanide to poison an atoll in the South China Sea. The accusation represents a dangerous new chapter in the ongoing territorial dispute between the two nations.\n\nThe incident highlights the fragile geopolitical balance in the region and could potentially draw international mediation efforts. China has not yet responded to the specific allegations of environmental sabotage.",
-        "sources": [
-          {
-            "title": "Philippines accuses China of using cyanide to poison South China Sea atoll",
-            "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
-            "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           }
         ]
@@ -238,42 +232,12 @@
     ],
     "ai": [
       {
-        "headline": "AI Divide Widens: Insiders Drift from Public Perception",
-        "body": "A new Stanford report reveals a growing chasm between AI developers and the general public. Researchers found significant disconnects in understanding and expectations around artificial intelligence technologies. The gap suggests potential communication failures that could impact public trust and policy development.",
+        "headline": "OpenAI Expands Personal Finance Push with Hiro Acquisition",
+        "body": "OpenAI has acquired Hiro, an AI-powered personal finance startup, signaling the company's continued expansion beyond core language models. The move suggests OpenAI is targeting consumer-facing financial tools that could transform how people manage money and investments.\n\nThis acquisition follows a series of strategic moves by OpenAI to broaden its AI applications. Financial technology represents a potentially lucrative market where AI can provide personalized insights and automated planning.",
         "sources": [
           {
-            "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-            "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-            "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Why opinion on AI is so divided",
-            "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-            "source": "MIT Tech Review",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Giants Push AI Boundaries with New Agent Experiments",
-        "body": "Microsoft and AMD are advancing AI agent development, signaling intensifying competition in the field. Microsoft continues exploring OpenClaw-like agents, while AMD is developing tools for building local AI agents. These efforts highlight the ongoing race to create more sophisticated and accessible artificial intelligence technologies.",
-        "sources": [
-          {
-            "title": "(AMD) Build AI Agents That Run Locally",
-            "url": "https://amd-gaia.ai/docs",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Microsoft is working on yet another OpenClaw-like agent",
-            "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+            "title": "OpenAI has bought AI personal finance startup Hiro",
+            "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
             "source": "TechCrunch",
             "lean": null
           },
@@ -286,25 +250,37 @@
         ]
       },
       {
-        "headline": "Cybersecurity Threats Emerge in WordPress and Tech Ecosystems",
-        "body": "A massive security breach hit WordPress, with an unknown actor purchasing 30 plugins and inserting backdoors. Google is simultaneously working to improve code safety - embedding Rust programming language into Pixel 10 modem systems to mitigate legacy code vulnerabilities. The incidents underscore growing cybersecurity challenges.",
+        "headline": "AI Influencers Dominate Coachella - Real vs Synthetic Blurs",
+        "body": "Artificial intelligence-generated influencers have taken over Coachella, highlighting the growing sophistication of synthetic media and its impact on cultural events. These digital personalities are now indistinguishable enough to populate major music festivals - blurring lines between human and machine representation.\n\nThe trend signals a broader shift in how digital content is created and consumed. AI influencers challenge traditional notions of authenticity and raise complex questions about representation in the digital age.",
         "sources": [
           {
-            "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
-            "url": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
-            "source": "Ars Technica",
+            "title": "AI influencers are ‘everywhere’ at Coachella",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+            "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-            "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-            "source": "Hacker News",
+            "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+            "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Humanoid Robots Hit Consumer Market at Surprisingly Low Price",
+        "body": "A $4,370 humanoid robot is now available on AliExpress, marking a significant milestone in consumer robotics. The Unitree R1 represents a dramatic price drop that could bring advanced robotic technology within reach of everyday consumers.\n\nThis development suggests rapid advances in robotics manufacturing and artificial intelligence. As prices fall and capabilities increase, personal robotics may soon transition from science fiction to everyday reality.",
+        "sources": [
+          {
+            "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+            "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+            "source": "Wired",
             "lean": null
           },
           {
-            "title": "Your tech support company runs scams. Stop—or disguise with more fraud?",
-            "url": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
-            "source": "Ars Technica",
+            "title": "Microsoft is working on yet another OpenClaw-like agent",
+            "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -312,31 +288,25 @@
     ],
     "btc": [
       {
-        "headline": "Strategy Doubles Down - Buys $1B Bitcoin in Bold Treasury Move",
-        "body": "Michael Saylor's Strategy has purchased another 13,927 Bitcoin for $1 billion, pushing its total holdings to 780,897 BTC. The aggressive acquisition signals continued confidence in Bitcoin as a strategic asset - even as markets navigate geopolitical uncertainty.\n\nThe move comes amid mixed market signals. While Bitcoin struggles to establish a sustained uptrend, analysts suggest 90% of potential downside has already occurred. Strategy's consistent buying reinforces institutional belief in Bitcoin's long-term value proposition.",
+        "headline": "Bitcoin Surges Past $74K on Short Squeeze and ETF Demand",
+        "body": "Bitcoin rocketed nearly 7% in 24 hours, triggering a massive short squeeze that liquidated $430 million in bearish positions. The cryptocurrency reclaimed the $74,000 level as spot ETF inflows clashed with miner selling pressure.\n\nTraders bet on potential geopolitical developments - including hints of an Iran deal - fueling the rapid price movement. Market sentiment shifted quickly, with analysts noting that 90% of potential downside had already been priced in.",
         "sources": [
           {
-            "title": "Strategy buys 13,927 Bitcoin for $1B, holdings near 800,000 BTC",
-            "url": "https://cointelegraph.com/news/strategy-buys-13-927-bitcoin-1b-holdings-780-897-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin nears $75K as Iran deal hopes spark $400M short squeeze",
+            "url": "https://cointelegraph.com/news/bitcoin-75k-iran-deal-hopes-spark-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Strategy (MSTR) Buys a Massive 13,927 Bitcoin Worth $1B, Total Holdings Hit 780,897 BTC",
-            "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-a-massive-13927-bitcoin",
+            "title": "Bitcoin Price Skyrockets 6% Near $75,000 as Short Liquidations Accelerate",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-skyrockets-6-past-75000",
             "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Strategy buys 13,927 bitcoin for $1 billion, entirely through STRC",
-            "url": "https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "‘Think bigger’: Michael Saylor’s Strategy buys another 13,927 bitcoin for $1 billion as holdings reach 780,897 BTC",
-            "url": "https://www.theblock.co/post/397188/think-bigger-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Bitcoin reclaims $74K as spot ETF demand clashes with BTC miner sell pressure",
+            "url": "https://cointelegraph.com/news/bitcoin-reclaims-dollar74k-as-spot-etf-demand-clashes-with-btc-miner-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
@@ -348,67 +318,13 @@
         ]
       },
       {
-        "headline": "Bitcoin Volatility Surges with Hormuz Tensions and Geopolitical Risk",
-        "body": "Bitcoin prices oscillated between $70-73K as geopolitical tensions around the Strait of Hormuz triggered market uncertainty. The cryptocurrency responded dynamically to potential conflict scenarios - bouncing on news of blockades and retreating as ceasefire hopes faded.\n\nTraders watched closely as regional tensions intersected with Bitcoin's emerging role in international transactions. Iran's potential interest in Bitcoin for safe passage underscored the cryptocurrency's geopolitical relevance beyond traditional financial systems.",
+        "headline": "Bitcoin Wallets Face Quantum Computing Threat",
+        "body": "Dormant Bitcoin wallets represent a significant quantum computing risk, according to new research. Older, unused wallets with static cryptographic signatures could become vulnerable as quantum technology advances.\n\nThe analysis highlights the potential long-term security challenges facing Bitcoin's infrastructure. Wallet holders with inactive accounts may need to consider migration strategies to protect their digital assets from emerging technological threats.",
         "sources": [
           {
-            "title": "Bitcoin bounces to $72.5K as markets react to US Strait of Hormuz blockade",
-            "url": "https://cointelegraph.com/news/bitcoin-bounces-to-dollar72-5k-as-markets-react-to-us-strait-of-hormuz-blockade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Dormant Bitcoin wallets are the biggest quantum risk: Here is why",
+            "url": "https://cointelegraph.com/explained/dormant-bitcoin-wallets-quantum-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Why Iran Wants Bitcoin For Safe Passage Though The Strait Of Hormuz",
-            "url": "https://bitcoinmagazine.com/politics/why-iran-wants-bitcoin-for-safe-passage-though-the-strait-of-hormuz",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin pulls back as ceasefire rally fades amid renewed Hormuz tensions: analysts",
-            "url": "https://www.theblock.co/post/397207/bitcoin-pulls-back-as-ceasefire-rally-fades-amid-renewed-hormuz-tensions-analysts?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "How the Iran War is Repricing Bitcoin",
-            "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/iran-war-reprice-bt",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Crypto Funds See Strongest Inflows Since January on Bitcoin Surge",
-        "body": "Bitcoin-focused investment products attracted $1.1 billion in the past week - the strongest inflow since January. Major financial institutions continued expanding crypto exposure, with TD Securities formalizing a new category for public Bitcoin treasury companies.\n\nThe surge reflects growing institutional acceptance. Multiple corporations, including Stack BTC and Strategy, have added Bitcoin to their treasuries. These moves signal a maturing understanding of Bitcoin as a strategic financial asset.",
-        "sources": [
-          {
-            "title": "Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January",
-            "url": "https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Strategy's Bitcoin Stockpile Nears BlackRock's ETF Holdings After $1 Billion BTC Buy",
-            "url": "https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "TD Securities Formalizes Public Bitcoin Treasury Companies (PBTCs) as Distinct, Investable Equity Category",
-            "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/td-bitcoin-treasury-distinct-category",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Nigel Farage-backed Stack BTC adds $2.7M in Bitcoin to treasury",
-            "url": "https://cointelegraph.com/news/nigel-farage-backed-stack-btc-acquires-2-7m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Crypto funds pull in $1.1 billion as bitcoin products lead strongest inflow week since January: CoinShares",
-            "url": "https://www.theblock.co/post/397191/crypto-funds-pull-in-1-1-billion-as-bitcoin-products-lead-strongest-inflow-week-since-january-coinshares?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -417,21 +333,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use a cast iron skillet for even heat distribution and a beautiful presentation directly at the table"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
-      "tip": "Set a hourly phone alarm to do 3 seated cat-cow stretches, focusing on slow, deliberate breath synchronization"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's biomechanical stress",
+      "tip": "Set a hourly timer to do 30-second standing side bends and shoulder blade retractions"
     },
     "learn": {
-      "topic": "The Fermi Paradox and Rare Earth Hypothesis",
-      "description": "A scientific exploration of why, despite the vast number of potentially habitable planets, we haven't detected extraterrestrial intelligence",
-      "why": "It challenges fundamental assumptions about life, evolution, and our cosmic significance by examining the statistical probability of intelligent civilizations emerging"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between component parts",
+      "why": "Understanding emergence provides profound insights into everything from ant colonies to artificial intelligence, revealing how complexity can emerge from simplicity"
     }
   }
 }
