@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-04-15T22:19:24.670Z",
+  "generatedAt": "2026-04-16T05:06:27.429Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Escalates Iran Tensions - Senate Backs Military Action",
-        "body": "President Trump is pushing for a hardline approach against Iran, with Senate Republicans blocking attempts to limit his war powers. The administration has deployed thousands of additional troops to the Middle East, signaling potential military escalation.\n\nChina appears to have made concessions, reportedly agreeing not to send weapons to Iran. However, tensions remain high, with Senator Ted Cruz criticizing media commentary and the Senate firmly supporting Trump's strategic positioning.",
+        "headline": "Trump Tariffs Loom, Luxury Tax Sparks NYC Debate",
+        "body": "Economic tensions are rising as potential trade policy shifts emerge. Bessent suggests Trump-era tariffs could return by July following a Supreme Court setback - a move that could dramatically reshape international trade relations.\n\nIn New York City, Mayor Mamdani is pushing a controversial $500 million annual tax on luxury second homes. The proposal targets wealthy property owners, signaling a progressive approach to municipal revenue generation.",
         "sources": [
           {
-            "title": "The Memo: Iran war roils Trump’s relations with China in advance of high-stakes trip",
-            "url": "https://thehill.com/homenews/administration/5833330-china-iran-war-trump-tactics/",
+            "title": "'We're taxing the rich': NYC Mayor Mamdani touts new $500M-a-year tax on luxury second homes",
+            "url": "https://www.foxnews.com/politics/taxing-rich-nyc-mayor-mamdani-touts-new-500m-year-tax-luxury-second-homes",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Bessent says Trump tariffs could return by July after Supreme Court setback",
+            "url": "https://www.foxnews.com/politics/bessent-says-trump-tariffs-could-return-july-after-supreme-court-setback",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump administration pushes nations to sign ‘trade over aid’ declaration",
+            "url": "https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Justice Sotomayor Apologizes for Kavanaugh Remarks",
+        "body": "Justice Sotomayor issued a rare public apology after criticizing colleague Brett Kavanaugh's immigration opinion. Her walkback highlights the delicate internal dynamics of the Supreme Court and the intense scrutiny facing its justices.\n\nThe incident underscores ongoing tensions between liberal and conservative court members. Sotomayor characterized her previous comments as inappropriate, seeking to defuse a potentially divisive situation.",
+        "sources": [
+          {
+            "title": "Sotomayor walks back remarks criticizing Kavanaugh, says comments were 'inappropriate'",
+            "url": "https://www.foxnews.com/politics/sotomayor-walks-back-remarks-criticizing-kavanaugh-says-comments-inappropriate",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Justice Sotomayor issues rare apology for remarks about conservative colleague",
+            "url": "https://www.washingtonpost.com/politics/2026/04/15/sotomayor-apology-kavanaugh-immigration/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Sotomayor apologizes to Kavanaugh over remarks on his immigration stop opinion",
+            "url": "https://thehill.com/regulation/court-battles/5833375-supreme-court-justice-sotomayor-apology/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "US Escalates Military Presence Near Iran Amid Diplomatic Tensions",
+        "body": "The United States is significantly increasing military deployments to the Middle East as diplomatic relations with Iran grow increasingly fraught. Thousands of additional troops are being sent to the region as Trump administration officials pursue an aggressive strategic posture.\n\nThe Senate has rejected a resolution that would have blocked presidential authority to strike Iran, signaling broad political support for potential military action. Geopolitical analysts are closely watching the developing situation.",
+        "sources": [
+          {
+            "title": "Where US-Iran talks stand as ceasefire deadline looms",
+            "url": "https://thehill.com/policy/international/5833458-us-israel-iran-fragile-ceasefire/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Scarborough: US allies ‘very positive’ about US blockade of Strait of Hormuz",
+            "url": "https://thehill.com/policy/international/5833432-trump-blockade-iran-strait-scarborough/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -24,101 +78,35 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/15/iran-war-powers-trump/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Senate Republicans block fourth attempt to limit Trump’s Iran war powers",
-            "url": "https://thehill.com/homenews/senate/5832798-trump-iran-war-powers-senate/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump says China has agreed not to send weapons to Iran",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Cruz calls Carlson ‘deranged, leftist psycho’ following comments on Muslims",
-            "url": "https://thehill.com/homenews/senate/5833050-ted-cruz-tucker-carlson-iran-war-clash/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Legal Fallout Continues from 2020 Election Challenges",
-        "body": "Attorney John Eastman was disbarred in California for his role in efforts to overturn the 2020 presidential election results. The decision marks a significant legal consequence for those involved in challenging the election's outcome.\n\nSimultaneously, the Office of the Director of National Intelligence has sent criminal referrals to the Department of Justice related to individuals connected to Trump's impeachment proceedings, suggesting ongoing legal scrutiny of past political conflicts.",
-        "sources": [
-          {
-            "title": "John Eastman disbarred in California over efforts to overturn 2020 election",
-            "url": "https://thehill.com/homenews/5833287-john-eastman-disbarred-california/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "ODNI sends criminal referrals to DOJ for ex-IG, whistleblower tied to Trump impeachment",
-            "url": "https://www.foxnews.com/politics/odni-sends-criminal-referrals-doj-ex-ig-whistleblower-tied-trump-impeachment",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Swalwell lawyer alleges ‘political hit job,’ decries ‘trial in the court of public opinion’",
-            "url": "https://thehill.com/homenews/house/5833220-swalwell-governor-bid-suspended/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Immigration and Border Security Spark Heated Political Debate",
-        "body": "A Fox News report highlighted a case where Representative Spanberger urged the Department of Homeland Security to hold an illegal immigrant with multiple prior charges, now facing attempted rape allegations. The incident has reignited discussions about border security and immigration policy.\n\nMeanwhile, technology and safety concerns continue to emerge, with Roblox reaching a children's safety agreement in Nevada - reflecting broader conversations about digital protection and regulatory oversight.",
-        "sources": [
-          {
-            "title": "Spanberger sent DHS plea to hold illegal immigrant repeat offender now charged in attempted rape",
-            "url": "https://www.foxnews.com/politics/dhs-urges-spanberger-hold-illegal-migrant-charged-attempted-rape-cites-25-prior-charges",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Roblox reaches kids safety agreement with Nevada",
-            "url": "https://thehill.com/policy/technology/5833118-roblox-kids-safety-agreement-nevada/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Report: Cellular modules from Chinese companies in smart home devices are national security risk",
-            "url": "https://thehill.com/policy/defense/5833125-quectel-fibocom-market-dominance/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Geelong Refinery Fire Sparks National Fuel Crisis Fears",
-        "body": "A massive fire at the Viva Oil Refinery in Geelong has triggered urgent national concerns about fuel supply. The blaze - one of Australia's two remaining oil refineries - could significantly disrupt petrol production for months, according to Climate and Energy Minister Chris Bowen.\n\nThe Coalition has criticized the government's response, questioning Australia's energy resilience. Bowen acknowledged the fire's potential long-term impact, suggesting consumers might face higher fuel prices and potential shortages in the coming weeks.",
+        "headline": "Fuel Crisis Looms After Geelong Refinery Fire",
+        "body": "A major fire at the Viva oil refinery in Geelong has sparked fears of significant fuel supply disruptions across Victoria. The blaze - which burned for 13 hours - could potentially drive petrol prices up by 20 cents per litre, experts warn. Deputy Prime Minister Richard Marles acknowledged the incident amid broader concerns about Australia's challenging geopolitical and economic environment.",
         "sources": [
           {
-            "title": "Firefighters battle out-of-control blaze at one of Australia’s two remaining oil refineries in Geelong",
+            "title": "Victorian fuel prices could spike by 20c a litre due to Geelong refinery fire, experts warn",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/16/victoria-fuel-prices-geelong-viva-oil-refinery-fire",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "'Mini Strait of Hormuz closure': Victoria could feel petrol price impact of Geelong fire",
+            "url": "https://www.abc.net.au/news/2026-04-16/petrol-prices-victoria-australia-geelong-viva-fire-fuel-crisis/106571538",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Geelong fire: blaze at one of Australia’s two oil refineries extinguished after 13 hours as fuel supply fears remain",
             "url": "https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live:  Fuel crisis set to worsen with massive fire at Geelong refinery",
-            "url": "https://www.abc.net.au/news/2026-04-16/asx-markets-business-live-news-april-16/106569522",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live: Bowen says oil refinery fire will impact petrol production 'for some time'",
-            "url": "https://www.abc.net.au/news/2026-04-16/federal-politics-blog-bowen-oil-refinery-fire/106566214",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Australia news live: Chris Bowen says Geelong refinery fire ‘not great timing’; Coalition unimpressed with defence spending promises",
+            "title": "News live: Marles says Australia facing most challenging geopolitical environment since 1940s; fire extinguished at Corio oil refinery",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
@@ -126,62 +114,68 @@
         ]
       },
       {
-        "headline": "University of Tasmania Clears Path for Sandy Bay Land Sale",
-        "body": "The University of Tasmania has received approval to sell its Sandy Bay campus land for residential development, marking a significant strategic shift for the institution. The move signals potential urban redevelopment in the Hobart region and could generate substantial financial resources for the university.\n\nThe sale reflects broader trends of educational institutions reimagining their property assets in changing urban landscapes. Detailed plans for the residential development are expected to be released in the coming months.",
+        "headline": "Unemployment Steady as Economic Pressures Build",
+        "body": "Australia's unemployment rate remains unchanged at 4.3% in March, with economists describing the current situation as a potential calm before economic turbulence. The steady figure masks underlying tensions in the job market. Government and opposition continue to debate strategies for maintaining employment and addressing potential future challenges.",
         "sources": [
           {
-            "title": "Path cleared for UTAS to sell Sandy Bay land for residential development",
-            "url": "https://www.abc.net.au/news/2026-04-16/university-of-tasmania-sandy-bay-campus-land-sale/106561824",
+            "title": "Unemployment rate remains at 4.3pc in 'calm before the storm'",
+            "url": "https://www.abc.net.au/news/2026-04-16/unemployment-rate-steady-march-2026-australia/106570400",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Farmer feels 'disrespected' over VicGrid's attempt to access land",
-            "url": "https://www.abc.net.au/news/2026-04-16/victorian-farmer-disrespected-vicgrid-officers-land-access/106567728",
+            "title": "News live: Marles says Australia facing most challenging geopolitical environment since 1940s; fire extinguished at Corio oil refinery",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Political Scrutiny Continues in State and Federal Arenas",
+        "body": "Multiple political investigations are ongoing across Australian jurisdictions. In Queensland, an inquiry heard about CFMEU leaders' close government connections. A South Australian election seat is facing a recount after uncovered ballots. Meanwhile, a former NSW MP's campaign appearance has drawn criticism following an ICAC finding of serious corrupt conduct.",
+        "sources": [
+          {
+            "title": "CFMEU leaders had 'the ear' of former state government, inquiry hears",
+            "url": "https://www.abc.net.au/news/2026-04-16/qld-cfmeu-leaders-met-with-government-commission-inquiry/106570984",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Proposal to block non-citizens from first homebuyer scheme slammed",
-            "url": "https://www.abc.net.au/news/2026-04-16/proposal-to-block-5pc-deposit-scheme-for-non-citizens-condemned/106564820",
+            "title": "Uncovered ballots prompt new count in key SA seat won by One Nation",
+            "url": "https://www.abc.net.au/news/2026-04-16/new-count-in-key-sa-state-election-seat-of-narungga/106570406",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Former NSW MP spruiked as ‘esteemed’ Liberal at campaign event – despite Icac’s ‘serious corrupt conduct’ finding",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/16/former-nsw-mp-john-sidoti-liberal-party-event-icac-serious-corrupt-conduct",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Jury Hammers Ticketmaster in Landmark Monopoly Case",
-        "body": "A federal jury delivered a crushing blow to Live Nation and Ticketmaster, finding the entertainment giants guilty of running an illegal monopoly that systematically overcharged music fans. The verdict could force a breakup of the company and reshape the live entertainment industry.\n\nEvidence showed the company used anticompetitive tactics to dominate ticket sales and crush smaller competitors. The ruling marks a significant victory for consumers and potentially signals a more aggressive antitrust approach by US regulators.",
+        "headline": "US-Iran Talks Inch Forward with Pakistan's Diplomatic Push",
+        "body": "Diplomatic efforts to restart negotiations between the United States and Iran are gaining momentum. Pakistan has positioned itself as a critical mediator, signaling potential progress in resolving long-standing tensions. The Pakistani army chief's visit to Tehran suggests a nuanced approach to restarting talks that could break the current diplomatic deadlock.\n\nHopes are cautiously rising for a breakthrough. Sources indicate Pakistan expects a major development tied to Iran's nuclear program - a potential turning point in regional negotiations that have been stalled for months.",
         "sources": [
           {
-            "title": "US jury finds Ticketmaster and Live Nation had anticompetitive monopoly",
-            "url": "https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss",
+            "title": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates",
+            "url": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-            "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tensions Rise as Iran Talks Hang in Fragile Balance",
-        "body": "Diplomatic efforts to de-escalate tensions between the US and Iran remain precarious - with Pakistan now attempting to mediate potential negotiations. The US Senate rejected another war powers resolution limiting presidential action, suggesting continued complex geopolitical maneuvering.\n\nUN Secretary General Antonio Guterres has urged an end to arms flows, highlighting the potential for broader regional destabilization. Meanwhile, international observers remain skeptical about the prospects of a meaningful diplomatic breakthrough.",
-        "sources": [
-          {
-            "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-            "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Pakistan expecting ‘major breakthrough’ tied to Iran’s nuclear programme",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pakistan-expecting-major-breakthrough-tied-to-irans-nuclear-programme?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US Senate rejects another war powers resolution to limit Trump on Iran",
-            "url": "https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran?traffic_source=rss",
+            "title": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -196,46 +190,52 @@
             "url": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Trump Threatens Fed Chair, Plans Massive Independence Monument",
+        "body": "President Trump has escalated tensions with the Federal Reserve by threatening to fire Chair Jerome Powell if he does not resign by May. The move signals continued presidential interference in monetary policy - a pattern that has unsettled financial markets.\n\nIn a separate development, Trump proposed a 250-foot 'Triumphal Arch' to commemorate 250 years of US independence. The massive monument reflects the former president's penchant for grandiose architectural statements and his ongoing political ambitions.",
+        "sources": [
           {
-            "title": "Can Trump get a better Iran deal than Obama?",
-            "url": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Trump plans 250-foot ‘Triumphal Arch’ to mark 250 years of US independence",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-plans-250-foot-triumphal-arch-to-mark-250-years-of-us-independence?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-            "url": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+            "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Faces Growing International Pressure Over Conflict",
-        "body": "Israel confronts mounting international criticism as UN experts call for member states to suspend arms transfers. The country's diplomatic position appears increasingly strained - with the EU reconsidering its alliance and Italy suspending a defense pact.\n\nRecent military actions, including a controversial strike in Lebanon that killed three paramedics, have further intensified global scrutiny. The Israeli government faces significant challenges in managing its international relationships and defending its strategic approaches.",
+        "headline": "Israel-Lebanon Tensions Escalate with Targeted Bombings",
+        "body": "Military tensions between Israel and Lebanon have intensified, with Israeli forces bombing homes in southern Lebanon. The conflict continues to strain regional stability, with civilian populations bearing the brunt of escalating hostilities.\n\nIn a related diplomatic move, Trump claims Israeli and Lebanese leaders will speak directly - a potential diplomatic intervention that could either defuse or further complicate the situation. Journalists in occupied territories are experiencing increased military pressure, with reports of stun grenades being fired at media personnel.",
         "sources": [
+          {
+            "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+            "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli forces fire stun grenades at journalists in occupied Nablus",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-forces-fire-stun-grenades-at-journalists-in-occupied-nablus?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel bombs homes in southern Lebanon",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Could the EU’s alliance with Israel soon change?",
             "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
-            "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "UN experts urge member states to suspend Israel arms transfers",
-            "url": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?",
-            "url": "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -244,9 +244,21 @@
     ],
     "ai": [
       {
-        "headline": "Google Expands AI Reach with Mac and Windows Apps",
-        "body": "Google is pushing deeper into personal computing with native Gemini apps for Mac and Windows. The move signals an aggressive strategy to embed AI directly into users' daily workflows - a critical battleground in the tech giants' AI race.\n\nThe company's Mac app launch follows recent Windows integration, offering users seamless access to generative AI tools. This expansion comes as tech firms compete to make AI more accessible and integrated into everyday software experiences.",
+        "headline": "AI and Cloud: Startups Challenge Big Tech's Pricing Model",
+        "body": "A wave of new tools is challenging the dominance of cloud giants AWS and Google Cloud. Cloudexit.pro offers migration services to help companies move from expensive cloud platforms to more cost-effective bare-metal solutions. Meanwhile, a novel project called Darkbloom enables private AI inference on idle Mac computers - suggesting innovative alternatives to traditional cloud computing infrastructure.",
         "sources": [
+          {
+            "title": "AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal",
+            "url": "https://cloudexit.pro/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Darkbloom – Private inference on idle Macs",
+            "url": "https://darkbloom.dev",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "Google releases new apps for Windows and MacOS",
             "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
@@ -258,24 +270,12 @@
             "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Google launches a Gemini AI app on Mac",
-            "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "The Gemini app is now on Mac",
-            "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Advances Enterprise AI with New Agents SDK",
-        "body": "OpenAI is refining its approach to enterprise AI deployment with an updated Agents SDK designed to improve safety and capability. The release reflects growing corporate demand for more controlled and reliable AI systems that can operate with minimal human intervention.\n\nThe SDK represents a significant step toward making AI agents more trustworthy and functional in professional environments. By providing enhanced tools for development, OpenAI aims to address key concerns around AI reliability and potential risks.",
+        "headline": "OpenAI and Google Expand Enterprise AI Agent Capabilities",
+        "body": "Tech firms are racing to make AI agents more powerful and trustworthy for business use. OpenAI has updated its Agents SDK to help enterprises build safer, more capable AI systems. Google is complementing this push with native Gemini apps for Mac and Windows - expanding AI accessibility across platforms. The moves signal a strategic effort to embed AI deeper into workplace technologies.",
         "sources": [
           {
             "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
@@ -284,26 +284,32 @@
             "lean": null
           },
           {
-            "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-            "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+            "title": "Google releases new apps for Windows and MacOS",
+            "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Google rolls out a native Gemini app for Mac",
+            "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Learning and Marketing Tools Attract Major Investments",
-        "body": "AI-powered startups are seeing substantial financial momentum. Learning platform Gizmo secured $22 million in funding after reaching 13 million users - a testament to AI's growing educational potential.\n\nSimilarly, marketing data platform Hightouch hit $100 million in annual recurring revenue, driven by AI-enhanced tools. These investments underscore how artificial intelligence is transforming traditional business sectors by delivering smarter, more efficient solutions.",
+        "headline": "AI's Impact on Jobs and Journalism Sparks New Debates",
+        "body": "LinkedIn data suggests AI hasn't yet significantly disrupted hiring markets - but the conversation is far from settled. A controversial Thiel-backed startup is developing AI systems to evaluate journalistic work, raising concerns about potential chilling effects on whistleblowers. The emerging technology continues to provoke complex discussions about its societal implications.",
         "sources": [
           {
-            "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-            "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+            "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+            "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-            "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+            "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+            "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
             "source": "TechCrunch",
             "lean": null
           },
@@ -318,9 +324,39 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $75K - Traders Cash Out Massive Profits",
-        "body": "Bitcoin rocketed past $75,000 this week, triggering a massive profit-taking event. Traders cashed out 63,000 BTC as the price climbed, signaling potential market volatility ahead. Analysts at CryptoQuant warn of rising risk as exchange inflows jump - a classic sign of investor uncertainty.",
+        "headline": "Bitcoin Braces for Quantum Threat - Devs Propose Defensive Strategy",
+        "body": "Bitcoin developers are crafting a novel defense against potential quantum computing attacks. The proposed solution involves a 'tripwire' mechanism that would freeze coins only if a quantum attack is definitively proven - a cautious approach that acknowledges the emerging technological risk without premature panic.\n\nCryptography experts like Adam Back argue the Bitcoin community must prepare now, even if quantum computing remains largely theoretical. The strategy represents a pragmatic response to a complex technological challenge that could fundamentally threaten Bitcoin's cryptographic foundations.",
         "sources": [
+          {
+            "title": "Bitcoin devs bet a quantum attacker will play nice with a ‘wait and react’ plan",
+            "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-devs-float-quantum-tripwire-that-triggers-coin-freeze-only-if-attack-is-proven",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back",
+            "url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "The Protocol: Bitcoin proposal that could freeze quantum-related coins",
+            "url": "https://www.coindesk.com/tech/2026/04/15/the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Hovers Near $76K as Profit-Taking Signals Emerge",
+        "body": "Bitcoin's recent rally is showing signs of potential pullback as traders cash out significant profits. Market analytics firm CryptoQuant reports rising exchange inflows - a potential indicator of selling pressure after the cryptocurrency's climb above $76,000.\n\nTraders have already realized approximately 63,000 BTC in profits during the recent price surge. The market remains sensitive to broader financial trends, with Bitcoin's movement closely tracking record highs in traditional stock indices like the S&P 500.",
+        "sources": [
+          {
+            "title": "Bitcoin hits ‘near-term selling pressure’ after rally to $76K: CryptoQuant",
+            "url": "https://cointelegraph.com/news/bitcoin-near-term-selling-pressure-after-rally-76k-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the market rebound?",
             "url": "https://cointelegraph.com/news/bitcoin-traders-cash-out-63k-btc-profits-as-price-rallied-above-dollar76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -334,52 +370,16 @@
             "lean": null
           },
           {
-            "title": "Bitcoin Price Passes $75,000 as Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet",
-            "url": "https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war",
-            "source": "Bitcoin Magazine",
+            "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
+            "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Developers Propose Quantum Defense Strategy",
-        "body": "Bitcoin researchers are developing a radical plan to protect against quantum computing threats. The proposed strategy would freeze up to 5.6 million potentially vulnerable coins - a preemptive move to prevent potential future hacking. Developer Jameson Lopp argues that protecting these coins is better than risking total loss.",
-        "sources": [
-          {
-            "title": "The Protocol: Bitcoin proposal that could freeze quantum-related coins",
-            "url": "https://www.coindesk.com/tech/2026/04/15/the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Developers Propose Bitcoin Quantum Migration Plan That Would Freeze Legacy Coins",
-            "url": "https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin developer Jameson Lopp says it's better to freeze 5.6 million BTC than let hackers have them",
-            "url": "https://www.coindesk.com/business/2026/04/15/bitcoin-developer-jameson-lopp-says-it-s-better-to-freeze-5-6-million-btc-than-let-hackers-have-them",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "New Bitcoin Proposal Would Freeze Coins to Counter Quantum Threat",
-            "url": "https://decrypt.co/364450/new-bitcoin-proposal-would-freeze-coins-to-counter-quantum-threat",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin researchers propose phased sunset of legacy signatures to address quantum risks",
-            "url": "https://www.theblock.co/post/397556/bitcoin-researchers-propose-phased-sunset-of-legacy-signatures-to-address-quantum-risks?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tether Doubles Down on Bitcoin Reserve Strategy",
-        "body": "Stablecoin giant Tether has added $70 million in Bitcoin to its reserves, pushing total holdings above 97,000 BTC. The move signals continued institutional confidence in Bitcoin as a strategic asset. This comes amid growing discussions about Bitcoin's role beyond traditional digital gold - particularly in geopolitical contexts.",
+        "headline": "Tether Doubles Down on Bitcoin, Adds $70 Million to Reserves",
+        "body": "Stablecoin issuer Tether has significantly expanded its Bitcoin holdings, adding $70 million to its reserves. The move brings Tether's total Bitcoin reserves above 97,000 BTC - a substantial commitment that signals continued institutional confidence in the cryptocurrency.\n\nThis strategic investment comes amid a complex geopolitical landscape where Bitcoin is increasingly viewed as more than just a speculative asset. Some analysts now see the cryptocurrency as a potential settlement mechanism in international transactions.",
         "sources": [
           {
             "title": "Tether adds $70 million in bitcoin to reserves, bringing holdings above 97,000 BTC",
@@ -400,9 +400,9 @@
             "lean": null
           },
           {
-            "title": "Beyond ‘digital gold,’ Iran conflict forces a rethink of the nature of bitcoin",
-            "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-s-war-rally-is-forcing-a-rethink-beyond-digital-gold",
-            "source": "CoinDesk",
+            "title": "Bitcoin Price Passes $75,000 as Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet",
+            "url": "https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war",
+            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -419,13 +419,13 @@
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "Perform a targeted stretching sequence that realigns spine curvature and releases tension from prolonged sitting",
-      "tip": "Use a foam roller vertically against your spine, lean back slowly, and let gravity create gentle traction"
+      "description": "Perform a targeted series of micro-stretches that realign spine and release tension accumulated from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and slowly leaning back, creating a gentle stretch"
     },
     "learn": {
-      "topic": "Emergence Theory in Complex Systems",
-      "description": "A scientific concept exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
-      "why": "Understanding emergence reveals profound insights into how complexity emerges in nature, from ant colonies to human consciousness, challenging traditional reductionist thinking"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, transportation, and sustainability strategies",
+      "why": "This emerging field offers radical solutions to urban challenges by studying how complex natural systems self-organize and adapt"
     }
   }
 }
