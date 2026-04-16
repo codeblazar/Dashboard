@@ -1,161 +1,137 @@
 {
-  "generatedAt": "2026-04-16T10:34:13.355Z",
+  "generatedAt": "2026-04-16T22:19:02.200Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Iran War Sparks Domestic Political Backlash",
-        "body": "Tensions are rising over the ongoing Iran conflict, with growing voter dissatisfaction emerging in key swing states. Georgia focus groups revealed deep unease about the military engagement, suggesting potential political fallout for the administration.\n\nThe war is creating significant distractions from domestic policy, with critics arguing that international tensions are overshadowing critical economic and social issues. Republican and Democratic strategists are closely watching public sentiment as the conflict continues to dominate national discourse.",
+        "headline": "RFK Jr. Sparks Controversy in Congressional Hearings",
+        "body": "Independent presidential candidate Robert F. Kennedy Jr. faced intense scrutiny during back-to-back congressional hearings on Thursday. A heated exchange erupted between Kennedy and a Democratic lawmaker over controversial comments about Black children - highlighting the candidate's ongoing challenges with messaging and credibility.\n\nThe hearings exposed deep divisions, with Kennedy grilled on his long-standing vaccine skepticism and his nascent Make America Healthy Again (MAHA) movement. His provocative statements continue to draw sharp criticism from both Democratic and Republican lawmakers, underscoring the polarizing nature of his campaign.",
         "sources": [
           {
-            "title": "We watched 2 focus groups of Georgia swing voters. They're not happy with the Iran war",
-            "url": "https://www.npr.org/2026/04/16/nx-s1-5781002/georgia-focus-groups-trump-iran-war",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump’s religious mocking, Iran war inject distractions from domestic policy",
-            "url": "https://thehill.com/homenews/administration/5833235-trump-criticism-religion-iran-war/",
+            "title": "RFK Jr. grilled over vaccines, MAHA in back-to-back hearings: Key takeaways",
+            "url": "https://thehill.com/policy/healthcare/5835548-kennedy-testifies-mha-movement/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump says Israeli, Lebanese leaders will meet amid push to extend ceasefire",
+            "title": "Shouting match erupts between RFK Jr and Dem lawmaker over his comments about Black children",
+            "url": "https://www.foxnews.com/politics/shouting-match-erupts-rfk-jr-dem-lawmaker-comments-black-children",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Reshapes Federal Leadership with Strategic Nominations",
+        "body": "President Trump moved to reshape federal leadership on Thursday, nominating former Deputy Surgeon General Erica Schwartz as CDC director. The selection appears designed to navigate the complex landscape of vaccine policy - avoiding the most controversial vaccine skeptics while signaling a new approach to public health leadership.\n\nSimultaneously, Trump continues to make strategic appointments across government agencies, with congressional hearings and nominations highlighting his ongoing efforts to restructure federal institutions. These moves reflect a broader pattern of administrative reshaping that has characterized his current political approach.",
+        "sources": [
+          {
+            "title": "Trump nominates former Coast Guard doctor as CDC chief",
+            "url": "https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump officially taps Erica Schwartz to lead CDC, avoiding vaccine skeptics",
+            "url": "https://www.washingtonpost.com/health/2026/04/16/erica-schwartz-cdc-director-trump-vaccines/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump picks former Deputy Surgeon General Erica Schwartz as new CDC nominee",
+            "url": "https://thehill.com/policy/healthcare/5835160-erica-schwartz-cdc-director-trump/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "US-Israel Diplomacy Secures Temporary Lebanon Ceasefire",
+        "body": "A 10-day ceasefire in Lebanon began Thursday after diplomatic negotiations backed by the United States. The agreement represents a delicate diplomatic breakthrough in a region marked by persistent tensions.\n\nReactions were mixed, with some lawmakers expressing caution. Senator Lindsey Graham warned against potentially empowering Hezbollah, suggesting the deal could be strategically complex. Meanwhile, the White House framed the ceasefire as a significant step toward regional stability - highlighting the nuanced diplomatic challenges in the Middle East.",
+        "sources": [
+          {
+            "title": "10-day ceasefire in Lebanon begins as Israel agrees to U.S.-backed deal",
             "url": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/",
             "source": "Washington Post",
             "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "DHS Crisis Deepens as Shutdown Threatens Agency Stability",
-        "body": "The Department of Homeland Security faces mounting challenges, with a recent official killing exposing critical vetting breakdowns. House Republicans are bristling at Senate-driven plans to address the agency's ongoing crisis.\n\nTwo Republican lawmakers are attempting to craft a solution to end the shutdown, but significant obstacles remain. The agency's internal morale appears severely impacted, with employees reporting systemic disruptions to their core mission.",
-        "sources": [
-          {
-            "title": "Homeland Security official's killing leaves agency 'devastated' as vetting breakdown exposed",
-            "url": "https://www.foxnews.com/politics/homeland-security-officials-killing-leaves-agency-devastated-vetting-breakdown-exposed",
-            "source": "Fox News",
-            "lean": "right"
           },
           {
-            "title": "House Republicans bristle at Senate-driven DHS plan",
-            "url": "https://thehill.com/homenews/house/5833221-house-republicans-senate-dhs/",
+            "title": "Graham on Israel-Lebanon ceasefire: ‘Last thing’ US needs is to ‘throw Hezbollah a lifeline’",
+            "url": "https://thehill.com/homenews/senate/5835518-graham-hesitates-lebanon-israel-peace/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "2 Republicans have a plan to end the DHS shutdown, but there are hurdles to clear",
-            "url": "https://www.npr.org/2026/04/16/nx-s1-5785101/2-republicans-have-a-plan-to-end-the-dhs-shutdown-but-there-are-hurdles-to-clear",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Challenges Religious Supporters with Controversial Remarks",
-        "body": "President Trump's recent comments about religious figures are testing the loyalty of his Christian base. Allies are defending his remarks about Pope Leo, while some supporters express growing unease with his increasingly provocative statements.\n\nThe controversy highlights the complex relationship between Trump and religious conservatives. Some GOP strategists are concerned about potential erosion of support among evangelical voters who have been key to his political movement.",
-        "sources": [
-          {
-            "title": "Trump tests loyalty of Christian supporters as erratic behavior escalates",
-            "url": "https://www.washingtonpost.com/politics/2026/04/16/trump-pope-evangelicals-conservatives-christian-catholic/",
+            "title": "Trump says Iran agrees to hand over ‘nuclear dust’",
+            "url": "https://www.washingtonpost.com/politics/2026/04/16/trump-iran-nuclear/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Trump's allies defend his remarks about Pope Leo",
-            "url": "https://www.npr.org/2026/04/16/nx-s1-5786716/trumps-allies-defend-his-remarks-about-pope-leo",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "GOP strategist on how Trump's supporters are reacting to his criticism of the pope",
-            "url": "https://www.npr.org/2026/04/16/nx-s1-5786517/gop-strategist-on-how-trumps-supporters-are-reacting-to-his-criticism-of-the-pope",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Tillis on Trump’s reasoning for posting AI Jesus image: ‘I’ll take it at face value’",
-            "url": "https://thehill.com/homenews/administration/5833688-trump-jesus-like-post-tillis/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Geelong Refinery Fire Sparks Fuel Supply Concerns",
-        "body": "A major fire at the Viva Energy oil refinery in Geelong has disrupted Australia's fuel supply chain. The blaze burned for 13 hours before being extinguished, prompting immediate government intervention. Prime Minister Albanese cut short a diplomatic mission to address the crisis, with Energy Minister Chris Bowen describing the incident as a significant setback.\n\nThe government has already secured 100 million litres of diesel using emergency powers. Fuel prices and potential supply shortages remain a key concern, with officials working to minimize economic impact and ensure continued fuel availability for consumers and industries.",
+        "headline": "Fuel Crisis Deepens as Geelong Refinery Fire Sparks Concern",
+        "body": "A fire at the Geelong refinery has intensified Australia's ongoing fuel supply challenges. Prime Minister Anthony Albanese visited the site, with Viva Energy expressing hope for minimal disruption to national fuel stocks. The incident comes amid rising tensions over fuel availability and potential supply chain vulnerabilities.\n\nThe crisis has prompted urgent discussions about Australia's energy resilience. Federal and state officials are working to assess the potential long-term impacts on fuel prices and national energy security.",
         "sources": [
           {
-            "title": "Albanese cuts fuel diplomacy mission short to rush to Geelong as Bowen calls oil refinery fire ‘a setback’",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/16/victoria-fuel-prices-geelong-viva-oil-refinery-fire",
+            "title": "News live: Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz; PM to visit Geelong refinery after fire",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Bowen says Geelong fire appears to be accidental; Keating lashes Liberals– as it happened",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "The cause of the Viva Energy oil refinery fire under investigation. Here's what we know",
-            "url": "https://www.abc.net.au/news/2026-04-16/viva-energy-geelong-oil-refinery-fire-cause-petrol-prices/106570810",
+            "title": "Live: PM visits refinery after fire, Viva hopeful of 'minimal' disruption",
+            "url": "https://www.abc.net.au/news/2026-04-17/federal-politics-live-blog-albanese-fuel-geelong-refinery/106573110",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Geelong fire: blaze at one of Australia’s two oil refineries extinguished after 13 hours as fuel supply fears remain",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices",
+            "title": "Fires, deals and flights: Essential updates on Australia’s fuel crisis",
+            "url": "https://www.abc.net.au/news/2026-04-17/fuel-price-supply-explainer/106570280",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Geelong’s refinery fire may be out – but questions over what it means for our fuel crisis are still raging",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/16/geelongs-refinery-fire-may-be-out-but-questions-over-what-it-means-for-our-fuel-crisis-are-still-raging",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Criticizes Australia's Role in Hormuz Strait Tensions",
+        "body": "Former US President Donald Trump has renewed accusations that Australia is not doing enough to support operations in the Strait of Hormuz. His comments have reignited diplomatic tensions and raised questions about Australia's international maritime commitments.\n\nThe ongoing dispute highlights the complex geopolitical challenges facing Australia's foreign relations. Both government and opposition are carefully navigating the diplomatic landscape, seeking to balance international obligations with national interests.",
+        "sources": [
+          {
+            "title": "News live: Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz; PM to visit Geelong refinery after fire",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "100m litres of diesel secured under new powers, PM confirms",
-            "url": "https://www.abc.net.au/news/2026-04-16/new-powers-used-to-secure-additional-diesel-shipments/106571682",
+            "title": "Trump repeats he is 'not happy with Australia' as Hormuz crisis continues",
+            "url": "https://www.abc.net.au/news/2026-04-17/trump-repeats-he-is-not-happy-with-australia-hormuz-crisis/106574622",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "NSW Court Strikes Down Controversial Anti-Protest Law",
-        "body": "The New South Wales Supreme Court has overturned a controversial anti-protest law introduced after the Bondi Beach terror attack. The ruling is a significant victory for civil liberties groups, particularly the Palestine Action Group, who challenged the legislation.\n\nThe decision has immediate political ramifications, with calls for the NSW premier to resign. The court's ruling underscores ongoing tensions between public safety measures and the right to peaceful protest, highlighting the delicate balance between security concerns and democratic freedoms.",
+        "headline": "NSW Protest Laws Face Legal Challenge Over Civil Liberties",
+        "body": "Legal experts are exploring potential damages claims against controversial New South Wales protest laws. The investigation centers on the laws' impact on civil liberties and potential constitutional challenges.\n\nThe move signals growing concern about legislative restrictions on public demonstration. Lawyers are carefully examining the legal grounds for challenging what they view as overly restrictive legislation that may infringe on fundamental rights to peaceful protest.",
         "sources": [
           {
-            "title": "Palestine Action Group celebrates after NSW supreme court strikes down anti-protest law – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/apr/16/nsw-court-strikes-down-anti-protest-law-palestine-action-group-video-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "NSW’s highest court strikes down anti-protest law introduced in wake of Bondi beach terror attack",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/16/nsws-highest-court-strikes-down-anti-protest-law-introduced-in-wake-of-bondi-beach-terror-attack-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "NSW premier told to resign after protest laws struck down by top court",
-            "url": "https://www.abc.net.au/news/2026-04-16/chief-justice-findings-on-nsw-protest-law-reform/106570860",
+            "title": "Lawyers explore damages claims over controversial NSW protest laws",
+            "url": "https://www.abc.net.au/news/2026-04-17/nsw-protest-laws-damages-charges-withdrawn-legal-experts/106573150",
             "source": "ABC Australia",
             "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Marles Navigates Complex Defence Spending and US Alliance",
-        "body": "Defence Minister Richard Marles is charting a nuanced path in Australia's defence strategy, balancing US alliance expectations with goals of a more self-sufficient Australian Defence Force. The approach involves complex negotiations around defence spending and strategic positioning.\n\nQuestions remain about the extent to which Australia's defence policy is influenced by international pressures, particularly from the United States. Marles continues to emphasize the importance of the US alliance while seeking to build independent military capabilities.",
-        "sources": [
-          {
-            "title": "Has Marles bowed to Trump’s wishes on defence spending? The figures are as clear as mud",
-            "url": "https://www.theguardian.com/world/2026/apr/16/has-marles-bowed-to-trumps-wishes-on-defence-spending-the-figures-are-as-clear-as-mud",
-            "source": "Guardian AU",
-            "lean": "left"
           },
           {
-            "title": "US alliance indispensable as Marles looks to build more self-sufficient ADF",
-            "url": "https://www.abc.net.au/news/2026-04-16/richard-marles-defence-spending-us-alliance-rules-based-order/106571434",
+            "title": "Migration debate deserves less politicking from the Liberals",
+            "url": "https://www.abc.net.au/news/2026-04-17/coalition-migration-plan-policy-angus-taylor-martin-parkinson/106557600",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -164,84 +140,60 @@
     ],
     "world": [
       {
-        "headline": "South Africa's Malema Jailed - Political Tensions Escalate",
-        "body": "Controversial South African politician Julius Malema faces five years in prison after a court sentenced him for firing a gun. The ruling marks a significant blow to the opposition leader and could further inflame political tensions in the country. Days earlier, another activist was arrested for alleged involvement in a Benin coup plot - suggesting broader regional political instability.",
+        "headline": "Lebanon-Israel Ceasefire Holds - Fragile Peace Takes Shape",
+        "body": "A 10-day ceasefire between Israel and Lebanon emerged Thursday, brokered with US involvement. The agreement comes after months of escalating tensions and cross-border strikes that threatened wider regional conflict.\n\nDisplaced Lebanese residents remain skeptical about the truce's sustainability. Hezbollah launched final strikes into northern Israel just before the ceasefire announcement - a provocative final gesture signaling continued underlying tensions.",
         "sources": [
           {
-            "title": "South African opposition figure Malema sentenced to five years in prison",
-            "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+            "url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
-            "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "A ceasefire in Lebanon — will it hold?",
+            "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "South African politician Julius Malema sentenced to prison for firing gun",
-            "url": "https://www.aljazeera.com/news/2026/4/16/south-african-politician-julius-malema-sentenced-to-prison-for-firing-gun?traffic_source=rss",
+            "title": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/displaced-lebanese-in-beirut-uncertain-if-they-can-trust-ceasefire?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Iran War Enters 48th Day - Economic Pressures Mount",
-        "body": "The ongoing US-Iran conflict continues to strain global economic systems. Iran's economy shows signs of strain under sustained war pressure, while regional impacts ripple across multiple countries. FIFA president Gianni Infantino has added diplomatic complexity by suggesting Iran must participate in the World Cup - a potential pressure point in international relations.",
+        "headline": "Netflix Founder Hastings Steps Down After Major Studio Loss",
+        "body": "Reed Hastings will exit Netflix following the company's failure to renew its critical Warner Bros content deal. The streaming pioneer - who transformed entertainment consumption globally - faces mounting challenges in an increasingly competitive media landscape.\n\nThe departure signals potential strategic shifts for Netflix, which has struggled to maintain its dominant market position against rising competitors like Disney+ and Amazon Prime Video.",
         "sources": [
           {
-            "title": "Is Iran’s economy buckling under war pressure or holding up?",
-            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/16/is-irans-economy-buckling-under-war-pressure-or-holding-up?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "‘Iran has to come’ to the US for the World Cup, FIFA’s Infantino says",
-            "url": "https://www.aljazeera.com/sports/2026/4/16/iran-has-to-come-to-the-us-for-the-world-cup-fifas-infantino-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-            "url": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
-            "url": "https://www.aljazeera.com/news/2026/4/16/why-many-kashmiris-are-donating-gold-breaking-piggy-banks-for-iran?traffic_source=rss",
+            "title": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
+            "url": "https://www.aljazeera.com/economy/2026/4/16/netflix-cofounder-hastings-to-step-down-after-it-lost-warner-bros-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel-Lebanon Conflict Intensifies with Deadly Strikes",
-        "body": "Israeli military actions in Lebanon have escalated dramatically. Air strikes destroyed buildings near a hospital in south Lebanon, while consecutive strikes killed four Lebanese paramedics. Satellite images reveal extensive demolitions of Lebanese villages. US President Trump has reportedly arranged a potential dialogue between Israeli and Lebanese leaders - a potential diplomatic intervention amid rising regional tensions.",
+        "headline": "US House Extends Haiti Protections - Trump Policy Challenged",
+        "body": "Congressional representatives voted to extend temporary protections for Haitian immigrants - a direct rebuke to previous Trump-era immigration restrictions. The move signals potential shifts in US immigration policy and humanitarian approaches.\n\nThe vote underscores ongoing political tensions around immigration and represents a significant legislative pushback against more restrictive border policies.",
         "sources": [
           {
-            "title": "Israeli air attack destroys buildings around south Lebanon hospital",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss",
+            "title": "US House votes to extend temporary protections for Haitians in Trump rebuke",
+            "url": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-to-extend-temporary-protections-for-haitians-in-trump-rebuke?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-            "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israels-military-kills-four-lebanese-paramedics-in-consecutive-strikes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
-            "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss",
+            "title": "AOC, Boebert join calls for sexual misconduct accountability in Congress",
+            "url": "https://www.aljazeera.com/news/2026/4/16/aoc-boebert-join-calls-for-sexual-misconduct-accountability-in-congress?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -250,78 +202,78 @@
     ],
     "ai": [
       {
-        "headline": "AI Translation and Monitoring Tools Expand Rapidly",
-        "body": "DeepL is pushing beyond text translation into voice conversion technology, signaling a new frontier for language AI. The company aims to provide real-time spoken language translation - a capability that could transform global communication.\n\nIn parallel, new monitoring and metrics tools like OpenTelemetry are emerging to help companies track complex AI systems. These infrastructure developments suggest the AI ecosystem is maturing - building more sophisticated ways to manage and understand rapidly evolving technologies.",
+        "headline": "OpenAI Expands AI Capabilities with Biology and Coding Tools",
+        "body": "OpenAI is pushing into specialized AI domains with two significant launches. The company introduced a biology-tuned large language model designed to accelerate life sciences research. Simultaneously, they've unveiled an enhanced Codex system that provides deeper integration with desktop computing - potentially giving AI more control over user systems.\n\nThe moves signal OpenAI's strategy to move beyond generalist AI, targeting specific professional domains with precision tools. By developing domain-specific models, the company aims to provide more powerful and targeted solutions for researchers and developers.",
         "sources": [
           {
-            "title": "DeepL, known for text translation, now wants to translate your voice",
-            "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-            "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Darkbloom – Private inference on idle Macs",
-            "url": "https://darkbloom.dev",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Google Expands AI Reach with Mac and Enterprise Tools",
-        "body": "Google has launched a native Gemini AI application for Mac, extending its artificial intelligence platform to Apple users. The move follows recent enterprise-focused developments - including updates to its Agents SDK designed to help companies build more robust and safer AI systems.\n\nBoston Dynamics is also integrating Google's AI, demonstrating practical applications beyond software. Their robot dogs can now read industrial gauges and thermometers autonomously - a significant step toward intelligent industrial automation.",
-        "sources": [
-          {
-            "title": "Google releases new apps for Windows and MacOS",
-            "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+            "title": "OpenAI starts offering a biology-tuned LLM",
+            "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
             "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-            "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+            "title": "GPT‑Rosalind for life sciences research",
+            "url": "https://openai.com/index/introducing-gpt-rosalind/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+            "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "New Codex features include the ability to use your computer in the background",
+            "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
             "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-            "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-            "source": "TechCrunch",
+            "title": "Codex for almost everything",
+            "url": "https://openai.com/index/codex-for-almost-everything/",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Google rolls out a native Gemini app for Mac",
-            "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Google launches a Gemini AI app on Mac",
-            "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+            "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
             "source": "The Verge",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI's Impact on Jobs and Creativity Sparks Debate",
-        "body": "LinkedIn data suggests artificial intelligence has not yet significantly disrupted hiring markets - contrary to widespread speculation. The platform's research indicates current AI integration is more nuanced than feared.\n\nCreative sectors continue exploring AI's potential. A Thiel-backed startup is developing an AI system to evaluate journalism quality - a controversial approach that raises questions about algorithmic assessment of human creativity and ethical reporting.",
+        "headline": "UK Launches $675M Sovereign AI Fund amid Global Tech Competition",
+        "body": "The United Kingdom has committed $675 million to establish a national AI infrastructure fund - a bold move in the escalating global technology race. The investment aims to develop sovereign AI capabilities and reduce dependence on international tech giants.\n\nThis strategic funding comes amid growing concerns about technological sovereignty and the potential geopolitical implications of AI development. The fund represents a significant bet on domestic innovation and a desire to position the UK as a competitive player in the rapidly evolving AI landscape.",
         "sources": [
           {
-            "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-            "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+            "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+            "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "The Beginning of Scarcity in AI",
+            "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Startups Attract Massive Valuations and Cutting-Edge Robotics",
+        "body": "The AI startup ecosystem continues to surge with remarkable developments. Upscale AI is reportedly in talks for a $2 billion valuation - highlighting investor confidence in the sector. Meanwhile, Physical Intelligence has demonstrated a breakthrough robotics system capable of learning tasks without explicit prior training.\n\nThese advances underscore the rapid pace of AI innovation. Startups are pushing boundaries in machine learning, showing increasingly sophisticated capabilities that challenge traditional assumptions about artificial intelligence and machine adaptability.",
+        "sources": [
+          {
+            "title": "Upscale AI in talks to raise at $2B valuation, says report",
+            "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-            "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+            "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+            "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
             "source": "TechCrunch",
             "lean": null
           }
@@ -330,79 +282,103 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Miners Pivot to AI as Quantum Threat Looms",
-        "body": "Bitcoin infrastructure is shifting dramatically. HIVE Blockchain Technologies announced a $75 million note offering to expand GPU-powered data centers - signaling miners' strategic move into artificial intelligence infrastructure. This comes as the Bitcoin development community wrestles with potential quantum computing risks. Prominent developer Adam Back argues the community must prepare proactively, even if quantum attacks remain theoretical.",
+        "headline": "Charles Schwab Launches Retail Bitcoin Trading Platform",
+        "body": "Charles Schwab is set to roll out spot Bitcoin trading for retail clients, marking a significant milestone in mainstream cryptocurrency adoption. The financial giant's move signals growing institutional acceptance of Bitcoin as an investable asset. Retail investors will soon have direct access to Bitcoin trading through a major traditional brokerage platform - a development that could dramatically expand Bitcoin's investor base.",
         "sources": [
           {
-            "title": "Bitcoin miner HIVE lines up $75 million note offering to fund AI infrastructure expansion",
-            "url": "https://www.theblock.co/post/397698/bitcoin-miner-hive-75-million-note-offering-gpu-data-center-expansion?utm_source=rss&amp;utm_medium=rss",
+            "title": "Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears",
+            "url": "https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Charles Schwab to roll out spot Bitcoin, Ether trading for retail clients",
+            "url": "https://cointelegraph.com/news/charles-schwab-to-roll-out-spot-bitcoin-ether-trading-for-retail-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Charles Schwab to Launch Spot Bitcoin Trading for Retail Clients",
+            "url": "https://bitcoinmagazine.com/news/charles-schwab-spot-bitcoin-trading",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Charles Schwab begins rollout of spot bitcoin, ethereum trading platform",
+            "url": "https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Quantum Debate Heats Up Among Tech Experts",
+        "body": "Bitcoin developers and crypto leaders are locked in a heated discussion about potential quantum computing threats to the network. Adam Back is pushing for optional upgrades to make Bitcoin quantum-proof, while Cardano founder Charles Hoskinson argues that proposed solutions won't save existing coins held by Satoshi Nakamoto. The technical debate highlights growing concerns about long-term Bitcoin network security in an era of rapidly advancing computational technologies.",
+        "sources": [
+          {
+            "title": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson",
+            "url": "https://decrypt.co/364676/cardano-charles-hoskinson-bitcoin-quantum-debate",
+            "source": "Decrypt",
+            "lean": null
           },
           {
-            "title": "Bitcoin's quantum debate splits as Adam Back pushes optional upgrades over forced freeze",
-            "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-s-quantum-debate-splits-as-adam-back-pushes-optional-upgrades-over-forced-freeze",
+            "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
+            "url": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin should prepare now, even if quantum is 'lab experiment,’ Adam Back says",
-            "url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Adam Back says Bitcoin’s post-quantum shift may reveal true Satoshi stash",
+            "url": "https://cointelegraph.com/news/bitcoin-post-quantum-migration-reveal-satoshi-coins-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Morning Minute: Bitcoin Devs Propose New Quantum Solution",
+            "url": "https://decrypt.co/364570/morning-minute-bitcoin-devs-propose-new-quantum-solution",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin",
+            "url": "https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin",
+            "source": "Decrypt",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Morgan Stanley Launches Cheapest Bitcoin ETF, Draws $100M",
-        "body": "Wall Street is betting big on Bitcoin. Morgan Stanley's new exchange-traded fund - priced at a razor-thin 0.14% fee - attracted $100 million in its first week of trading. The fund has already outpaced competitors, marking the bank's strongest financial product launch in recent memory. Bitcoin's price hovers near $75,000, reflecting growing institutional interest and mainstream financial integration.",
+        "headline": "Bitcoin Hovers Near $75K as Institutional Interest Grows",
+        "body": "Bitcoin's price remains volatile - trading around $74,500 with analysts seeing potential for further upside. Institutional interest continues to build, with Bitcoin ETFs adding $186 million in recent days and Morgan Stanley's Bitcoin fund attracting over $100 million in its first week. Public crypto miners are also actively managing their Bitcoin holdings, selling significant volumes in Q1 2026.",
         "sources": [
           {
-            "title": "The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week",
-            "url": "https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Morgan Stanley’s Bitcoin fund overtakes WisdomTree after 6 trading days",
-            "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-sees-sixth-straight-inflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin analysts see ‘further upside,’ and identify next price levels to watch",
+            "url": "https://cointelegraph.com/news/bitcoin-analysts-see-further-upside-and-identify-next-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Tech stocks push Nasdaq, S&P 500 to record highs as Bitcoin taps $75K",
-            "url": "https://cointelegraph.com/news/tech-stocks-push-nasdaq-sp500-record-highs-as-bitcoin-taps-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin bull run ‘still too early’ to call as demand lags exiting capital: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-bull-run-still-too-early-to-call-as-demand-lags-exiting-capital-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Bitcoin steady as S&P 500 hits record, but options market isn't buying the peace trade",
-            "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-steady-as-s-and-p-500-hits-record-but-options-market-isn-t-buying-the-peace-trade",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Traders Face Complex Tax Landscape After Transactions",
-        "body": "Spending Bitcoin just got complicated. Everyday transactions - like buying coffee - now trigger potential tax events, creating a compliance minefield for users. The IRS continues to scrutinize cryptocurrency transactions, forcing investors to meticulously track every purchase and potential capital gain. This regulatory complexity could slow Bitcoin's adoption as a daily payment method.",
-        "sources": [
-          {
-            "title": "Buying coffee with bitcoin is easy, the resulting tax burden is not",
-            "url": "https://www.coindesk.com/policy/2026/04/16/buying-coffee-with-bitcoin-is-easy-the-resulting-tax-burden-is-not",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin rally is taking a breather near $75,000. Onchain data shows why",
-            "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-rally-is-taking-a-breather-near-usd75-000-onchain-data-shows-why",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin hits ‘near-term selling pressure’ after rally to $76K: CryptoQuant",
-            "url": "https://cointelegraph.com/news/bitcoin-near-term-selling-pressure-after-rally-76k-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin rebounds near $74.5K as US stocks chase after new all-time highs",
+            "url": "https://cointelegraph.com/news/bitcoin-rebounds-near-dollar74-5k-as-us-stocks-chase-after-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin slides back below $74,000 as breakout to higher levels fails again",
+            "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-slides-back-below-usd74-000-as-breakout-to-higher-levels-fails-again",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin ETFs add $186M as Morgan Stanley’s MSBT inflows top $100M in first six trading days",
+            "url": "https://www.theblock.co/post/397730/bitcoin-etfs-add-186m-as-morgan-stanleys-msbt-inflows-top-100m-in-first-six-trading-days?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -411,21 +387,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Roulette",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a fiery tomato sauce with unexpected harissa-roasted vegetable layers",
-      "tip": "Use a cast iron skillet for more even heat distribution and deeper flavor development"
+      "name": "Moroccan Spiced Lamb Tagine with Preserved Lemons",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with complex spices, tender vegetables, and bright preserved lemon notes",
+      "tip": "Toast whole spices before grinding to intensify their aromatic profile"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that alternates between seated, standing, and subtle stretching positions every 22 minutes",
-      "tip": "Set a subtle phone alarm with a gentle chime to prompt position shifts without disrupting workflow"
+      "name": "Dynamic Desk Alignment Protocol",
+      "description": "Implement micro-movements and strategic stretching to counteract sedentary muscle tension and spinal compression",
+      "tip": "Set a hourly timer to do 90-second standing spine waves and shoulder blade retractions"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, transportation, and sustainable living strategies",
-      "why": "This emerging field offers radical solutions to urban challenges by studying how complex natural systems self-organize and adapt"
+      "description": "Architectural and engineering strategies that directly copy natural systems to solve complex human infrastructure challenges",
+      "why": "Reveals profound design intelligence in nature and offers revolutionary approaches to sustainable city planning and environmental adaptation"
     }
   }
 }
