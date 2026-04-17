@@ -1,30 +1,48 @@
 {
-  "generatedAt": "2026-04-17T05:05:11.810Z",
+  "generatedAt": "2026-04-17T10:31:26.923Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "House Races Toward Late-Night Vote on Spy Powers Extension",
-        "body": "Congressional Republicans are pushing for a last-minute deal to extend controversial surveillance powers under FISA Section 702. House Minority Leader Jeffries expressed deep skepticism about the extension, demanding stronger privacy protections before any vote.\n\nThe proposed legislation has sparked intense debate across party lines. Republicans argue the measure is crucial for national security, while Democrats raise concerns about potential civil liberties violations. A late-night vote appears imminent, with negotiations continuing into the early morning hours.",
+        "headline": "House Extends Spy Powers After Last-Minute Congressional Clash",
+        "body": "Congress narrowly averted a surveillance powers lapse by passing a 10-day extension late Thursday night. Conservative Republicans initially blocked a deal, forcing a high-stakes showdown that threatened to disrupt national security intelligence gathering.\n\nThe vote highlights deep divisions within the Republican caucus over government surveillance powers. Speaker Mike Johnson struggled to unite his fractious conference, with some members demanding stricter oversight of intelligence collection methods.",
         "sources": [
           {
-            "title": "Republicans move forward on last-minute spy powers deal, teeing up late-night vote",
-            "url": "https://thehill.com/homenews/house/5835846-fisa-702-spy-powers-deal/",
+            "title": "House extends surveillance powers for 10 days",
+            "url": "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "House punts Trump spy powers extension after conservatives block deal, forcing end-of-month showdown",
+            "url": "https://www.foxnews.com/politics/house-punts-trump-spy-powers-extension-conservatives-block-deal-forcing-end-month-showdown",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "House passes short-term spy powers extension in late-night vote after deal falls apart",
+            "url": "https://thehill.com/homenews/house/5835879-fisa-702-spy-powers-vote/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Jeffries says he’s ‘deeply skeptical’ of FISA extension without new privacy protections",
-            "url": "https://thehill.com/homenews/house/5835525-jeffries-skeptical-fisa-extension/",
+            "title": "Republicans move forward on last-minute spy powers deal, teeing up late-night vote",
+            "url": "https://thehill.com/homenews/house/5835846-fisa-702-spy-powers-deal/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Defends Economic Policies Amid Ongoing Iran Tensions",
-        "body": "Former President Trump addressed economic challenges during a Las Vegas appearance, dismissing inflation concerns and defending his policy approach. He characterized current economic reporting as fake and emphasized his administration's economic strategies.\n\nThe speech comes amid ongoing tensions with Iran and complex geopolitical negotiations. Trump claimed Iran had agreed to hand over what he termed nuclear dust - a statement that requires further verification. His economic pitch met with mixed reactions from the audience, reflecting the polarized political landscape.",
+        "headline": "Trump Rallies Young Voters, Defends Economic Policies Amid Iran Tensions",
+        "body": "Former President Trump addressed Turning Point USA in Arizona, targeting young conservative voters while defending his economic approach. He dismissed concerns about inflation and critiqued current economic policies.\n\nTrump's appearance comes as he continues to shape Republican messaging ahead of potential future elections. His economic pitch seeks to contrast his administration's record with current economic challenges, particularly in light of ongoing tensions in the Middle East.",
         "sources": [
+          {
+            "title": "Trump’s Turning Point USA stop to bolster young voters",
+            "url": "https://thehill.com/homenews/administration/5835511-turning-point-trump-arizona/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "In Las Vegas, Trump’s economic pitch meets a skeptical audience",
             "url": "https://www.washingtonpost.com/politics/2026/04/16/trump-vegas-economy-midterms/",
@@ -36,114 +54,90 @@
             "url": "https://thehill.com/homenews/administration/5835743-trump-defends-economic-policies/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump says Iran agrees to hand over ‘nuclear dust’",
-            "url": "https://www.washingtonpost.com/politics/2026/04/16/trump-iran-nuclear/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Immigration and Border Policy Shifts Signal Administrative Changes",
-        "body": "The Department of Homeland Security is experiencing significant leadership transitions. Acting ICE Director Todd Lyons has submitted his resignation, marking another shift in the agency's top management.\n\nSimultaneously, the administration is expanding visa restriction policies in the Western Hemisphere. These moves suggest a continued focus on immigration enforcement and border control strategies. The changes reflect ongoing debates about migration, national security, and border management approaches.",
+        "headline": "Democrats Hold New Jersey House Seat in Special Election Showdown",
+        "body": "Democrat Robert Mejia won a closely watched special election to replace Governor Sherrill in Congress, maintaining the party's hold on the seat. The victory provides a small but symbolic boost to Democratic momentum.\n\nThe result suggests ongoing political volatility in key swing districts. Both national parties viewed the race as a potential indicator of voter sentiment heading into future electoral contests.",
         "sources": [
           {
-            "title": "Acting ICE chief to exit agency: DHS secretary",
-            "url": "https://thehill.com/homenews/administration/5835825-lyons-departure-ice-acting-head/",
+            "title": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
+            "url": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Democrats hang on to New Jersey House seat left open by Sherrill",
+            "url": "https://thehill.com/homenews/campaign/5833246-democrat-mejia-new-jersey-house-victory/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump admin announces expansion of visa restriction policy in Western Hemisphere",
-            "url": "https://www.foxnews.com/politics/trump-admin-announces-expansion-visa-restriction-policy-western-hemisphere",
+            "title": "Bernie Sanders, AOC-backed Democrat wins key House race; GOP fails to expand fragile majority",
+            "url": "https://www.foxnews.com/politics/bernie-sanders-aoc-backed-democrat-wins-key-house-race-gop-fails-expand-fragile-majority",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Acting ICE Director Todd Lyons submits resignation letter to DHS Secretary Markwayne Mullin",
-            "url": "https://www.foxnews.com/politics/acting-ice-director-todd-lyons-submits-resignation-letter-dhs-secretary-markwayne-mullin",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Top five takeaways from Homeland Security budget hearings",
-            "url": "https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Geelong Refinery Blaze Sparks Fuel Supply Concerns",
-        "body": "A major fire at the Geelong refinery has triggered national discussions about fuel security. Prime Minister Anthony Albanese insisted no immediate fuel restrictions would be implemented, despite significant damage to Victoria's petrol production infrastructure.\n\nThe incident comes amid growing concerns about potential supply disruptions. Taxi drivers have already reported struggling with rising costs, while the Hume Freeway closure near Violet Town has added complexity to transportation challenges.",
+        "headline": "War Crimes Allegations Rock Australian Military",
+        "body": "Ben Roberts-Smith faces mounting legal pressure after court documents revealed serious allegations of war crimes. Former comrades testified that he ordered the execution of unarmed civilians during military operations in Afghanistan - a claim that strikes at the heart of Australian military conduct and ethics.\n\nThe decorated soldier was released on bail after being charged with five counts of murder. The case has exposed deep fractures within Australia's special forces and raised critical questions about accountability in military operations.",
         "sources": [
           {
-            "title": "Part of Victoria’s petrol production up in flames",
-            "url": "https://www.spectator.com.au/2026/04/part-of-victorias-petrol-production-up-in-flames/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Ben Roberts-Smith’s comrades say he ordered them to execute unarmed civilians, court documents show",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smiths-comrades-say-he-ordered-them-to-execute-unarmed-civilians-court-documents-show-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Taxi drivers call for assistance to survive during fuel crisis",
-            "url": "https://www.abc.net.au/news/2026-04-17/wa-taxi-drivers-absorb-higher-petrol-costs-amid-fuel-crisis/106572644",
+            "title": "Ben Roberts-Smith released from prison on bail after being charged with five counts of war crime murder",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Online Platforms Struggle with Violent Content Spread",
+        "body": "Australia's eSafety commissioner has raised alarm over the circulation of 'gamified' footage from the recent Bondi terror attack. The spread of such content highlights growing challenges in managing online content that potentially glorifies or trivializes violent events.\n\nThe commissioner's statement underscores the complex digital landscape where traumatic real-world events can be rapidly transformed and shared across social media platforms, raising serious ethical and psychological concerns.",
+        "sources": [
+          {
+            "title": "‘Gamified’ footage of Bondi terror attack circulated online, Australia’s eSafety commissioner says",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/17/gamified-footage-of-bondi-terror-attack-circulated-online-australias-esafety-commissioner-says",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Albanese Navigates International Tensions and Fuel Challenges",
+        "body": "Prime Minister Anthony Albanese is set to join international leaders in discussions about securing the Strait of Hormuz - a critical maritime route with significant geopolitical implications. Simultaneously, domestic challenges around fuel supply continue, with the Geelong refinery experiencing production drops of up to 40%.\n\nPacific leaders have already declared an emergency over potential fuel shortages, highlighting the complex economic and strategic pressures facing the government.",
+        "sources": [
+          {
+            "title": "PM to join leaders meeting on securing Strait of Hormuz",
+            "url": "https://www.abc.net.au/news/2026-04-17/albanese-international-leaders-meeting-strait-hormuz-reopen/106578022",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Breaking: Hume Freeway closed in both directions after crash near Violet Town",
-            "url": "https://www.abc.net.au/news/2026-04-17/hume-freeway-closed-after-crash-near-violet-town/106576818",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Albanese’s visits to key allies have borne early fruits of fuel and fertiliser but ‘resilience’ is on the budget agenda",
+            "url": "https://www.theguardian.com/world/2026/apr/17/albaneses-visits-to-key-allies-have-borne-early-fruits-of-fuel-and-fertiliser-but-resilience-is-on-the-budget-agenda",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Albanese says no fuel restrictions in wake of massive Geelong refinery fire",
+            "title": "Fuel prices fall despite Geelong refinery blaze as Albanese says facility production has slipped by 40%",
             "url": "https://www.theguardian.com/australia-news/2026/apr/17/albanese-no-fuel-restrictions-geelong-refinery-fire",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Refinery blaze not cause to ratchet up fuel crisis response, Albanese says",
-            "url": "https://www.abc.net.au/news/2026-04-17/refinery-blaze-national-fuel-plan/106544826",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "One Nation Gains Ground in South Australian Electoral Count",
-        "body": "Ongoing vote counting in the South Australian seat of Narungga has seen One Nation's electoral margin increase. The development highlights the continuing fluidity of electoral outcomes and potential shifts in regional political preferences.\n\nThe count reflects the complex landscape of Australian electoral politics, with minor parties continuing to play significant roles in determining representation at state and federal levels.",
-        "sources": [
-          {
-            "title": "Australia news live: One Nation increases margin in SA seat after extra votes counted; measles alert for Sydney",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Missing votes counted in key SA seat see One Nation margin increase",
-            "url": "https://www.abc.net.au/news/2026-04-17/narungga-new-count-ballots-results/106574886",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Ben Roberts-Smith Granted Bail in War Crimes Case",
-        "body": "Former SAS soldier Ben Roberts-Smith has been granted bail after being charged with five counts of war crime murder. The decision marks a significant moment in the high-profile legal proceedings against the decorated veteran.\n\nThe case continues to draw national attention, representing a complex intersection of military service, alleged misconduct, and legal accountability for actions during military deployments.",
-        "sources": [
-          {
-            "title": "Ben Roberts-Smith granted bail after being charged with five counts of war crime murder",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Former soldier Ben Roberts-Smith to be released from jail after securing bail",
-            "url": "https://www.abc.net.au/news/2026-04-17/ben-roberts-smith-bail-result-over-allegations-of-war-crimes/106572566",
+            "title": "Pacific leaders declare emergency over potential fuel shortages",
+            "url": "https://www.abc.net.au/news/2026-04-17/pacific-leaders-declare-emergency-fuel-shortages/106577980",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -152,72 +146,54 @@
     ],
     "world": [
       {
-        "headline": "Lebanon-Israel Ceasefire Begins - Fragile Peace Takes Hold",
-        "body": "A 10-day ceasefire between Israel and Lebanon went into effect Friday, bringing temporary relief to a conflict that has devastated southern Lebanon. Civilians began returning to their homes, though deep skepticism remains about the truce's sustainability.\n\nNegotiations reportedly involved former US President Trump, who claimed credit for forcing Israel to the table. The deal allows displaced residents to return and provides a critical pause in hostilities that have caused widespread destruction.",
+        "headline": "Iran War Enters 49th Day - Global Tensions Simmer",
+        "body": "The ongoing conflict between the US and Iran continues to reshape geopolitical dynamics. Financial markets and defense industries are emerging as unexpected winners from the prolonged confrontation. Wall Street and weapons manufacturers have seen significant gains, while green energy sectors also experience unexpected growth.\n\nIran maintains a defiant stance. BBC reporting suggests Tehran does not perceive itself as defeated. The conflict has sparked complex global reactions - with muted anti-war protests in Western nations and ongoing strategic maneuvering by multiple international actors.",
         "sources": [
           {
-            "title": "Celebrations in Lebanon as 10-day ceasefire with Israel begins",
-            "url": "https://www.aljazeera.com/news/2026/4/17/celebrations-in-lebanon-as-10-day-ceasefire-with-israel-begins?traffic_source=rss",
+            "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
+            "url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Celebrations on the road as people begin returning to southern Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss",
+            "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
+            "url": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel and Lebanon’s 10-day ceasefire goes into effect",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-            "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+            "title": "Why are anti-war protests in the West muted on Iran?",
+            "url": "https://www.aljazeera.com/news/2026/4/17/why-are-anti-war-protests-in-the-west-muted-on-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "IMF and World Bank Restore Ties with Venezuela",
-        "body": "International financial institutions announced they are reestablishing relations with Venezuela, signaling a potential diplomatic and economic thaw. The move comes after years of isolation and economic sanctions that had severely restricted Venezuela's global financial interactions.\n\nThe restoration of ties could provide critical economic relief for the struggling nation, potentially opening pathways for investment and financial support that have been blocked for years.",
+        "headline": "Global Finance Chiefs Warn of Risks from Advanced AI Model",
+        "body": "Top financial leaders and banking executives have raised serious concerns about the Mythos AI model. The unprecedented gathering signals deep apprehension about potential systemic risks posed by advanced artificial intelligence technologies.\n\nThe discussions highlight growing global uncertainty around AI's rapid development and potential economic implications. Financial regulators appear increasingly worried about the model's potential to disrupt existing economic frameworks and introduce unpredictable market dynamics.",
         "sources": [
           {
-            "title": "IMF, World Bank say they are restoring ties with Venezuela",
-            "url": "https://www.aljazeera.com/economy/2026/4/17/imf-world-bank-say-they-are-restoring-ties-with-venezuela?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+            "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar Frees 4,000 Prisoners in Annual Amnesty Tradition",
+        "body": "Myanmar has released over 4,000 prisoners as part of its annual pardoning tradition. The group includes high-profile detainees - notably the deposed president - in a significant gesture of potential political reconciliation.\n\nThe mass release reflects ongoing complex political negotiations within the country. International observers will closely watch whether this signals broader shifts in Myanmar's political landscape or represents a routine administrative process.",
+        "sources": [
           {
-            "title": "IMF, World Bank restore relations with Venezuela",
-            "url": "https://www.dw.com/en/imf-world-bank-restore-relations-with-venezuela/a-76817169?maca=en-rss-en-world-4025-rdf",
+            "title": "Myanmar frees over 4,000 prisoners in annual tradition",
+            "url": "https://www.dw.com/en/myanmar-frees-over-4-000-prisoners-in-annual-tradition/a-76819806?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Tightens Visa Restrictions for 'Adversary Supporters'",
-        "body": "The US State Department unveiled new visa restrictions targeting individuals deemed supportive of adversarial nations. The policy represents a significant tightening of diplomatic access and travel permissions for certain international actors.\n\nThis move follows ongoing geopolitical tensions and reflects the Biden administration's continued efforts to leverage diplomatic tools in managing international relationships and national security challenges.",
-        "sources": [
-          {
-            "title": "US State Department restricts visas for those who ‘support adversaries’",
-            "url": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           },
           {
-            "title": "US House votes to extend temporary protections for Haitians in Trump rebuke",
-            "url": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-to-extend-temporary-protections-for-haitians-in-trump-rebuke?traffic_source=rss",
+            "title": "Myanmar pardons over 4,000 prisoners, including deposed president",
+            "url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -226,8 +202,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Coding and Enterprise Tools Surge in Valuation",
-        "body": "Startup Factory hit a $1.5 billion valuation for enterprise AI coding tools, signaling continued investor confidence in artificial intelligence solutions. The company aims to streamline software development through advanced AI technologies.\n\nIn related news, Substrate AI is actively recruiting harness engineers - a move that suggests ongoing expansion in the AI infrastructure space. These developments point to a robust market for AI-powered development platforms.",
+        "headline": "AI Startups Surge: Physical Intelligence and Coding Platforms Raise Billions",
+        "body": "The AI investment landscape continues to heat up. Physical Intelligence, a robotics startup, claims its latest robot brain can autonomously solve tasks it was never explicitly taught - a breakthrough that could reshape machine learning approaches. Meanwhile, Factory has secured a $1.5 billion valuation for its enterprise AI coding platform, signaling massive investor confidence in AI-powered development tools.\n\nThese developments underscore a rapidly evolving tech ecosystem where artificial intelligence is moving beyond narrow, predefined capabilities toward more adaptive and generative systems.",
         "sources": [
           {
             "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -236,22 +212,22 @@
             "lean": null
           },
           {
-            "title": "Substrate AI Is Hiring Harness Engineers",
-            "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-            "source": "Hacker News",
+            "title": "Upscale AI in talks to raise at $2B valuation, says report",
+            "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-            "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+            "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+            "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Expands with Biology-Focused Language Model",
-        "body": "OpenAI launched a biology-tuned large language model, marking a significant step into specialized scientific AI. The model promises to enhance research capabilities by providing domain-specific language processing for life sciences.\n\nThis release follows recent trends of AI tools targeting specific academic and research domains. Researchers and scientists could potentially leverage the model for complex biological analysis and computational research.",
+        "headline": "OpenAI Expands Reach with Specialized Biology LLM and Enhanced Codex",
+        "body": "OpenAI is pushing the boundaries of large language model specialization. The company has launched a biology-tuned LLM, targeting domain-specific AI applications with unprecedented precision. Simultaneously, its Codex platform is gaining powerful new features - including background computer control capabilities that promise to transform how users interact with AI assistants.\n\nThese strategic moves suggest OpenAI is positioning itself as more than a generalist AI provider - aiming to create deeply specialized, functionally integrated intelligent systems across multiple domains.",
         "sources": [
           {
             "title": "OpenAI starts offering a biology-tuned LLM",
@@ -260,38 +236,14 @@
             "lean": null
           },
           {
-            "title": "GPT‑Rosalind for life sciences research",
-            "url": "https://openai.com/index/introducing-gpt-rosalind/",
-            "source": "Hacker News",
+            "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+            "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-            "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Policy Shifts Target Age Verification and Platform Regulation",
-        "body": "A new US bill mandates on-device age verification, signaling increased governmental scrutiny of digital platforms. The legislation represents a growing trend of regulatory intervention in technology and online spaces.\n\nConcurrently, other regulatory actions are emerging - including a California lawsuit alleging Amazon's price-fixing tactics. These developments suggest a more aggressive approach to tech company oversight and consumer protection.",
-        "sources": [
-          {
-            "title": "US Bill Mandates On-Device Age Verification",
-            "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
-            "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Ad firms settle with Trump FTC over claims they boycotted conservative media",
-            "url": "https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/",
+            "title": "New Codex features include the ability to use your computer in the background",
+            "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
             "source": "Ars Technica",
             "lean": null
           }
@@ -300,9 +252,15 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $75K - Bulls Eye $125K Target",
-        "body": "Bitcoin rocketed through $75,000 this week after a dramatic short squeeze triggered massive liquidations. Traders saw over $283 million in positions forcibly closed as the price momentum shifted sharply upward.\n\nAnalysts now see potential for further gains, with some bulls targeting $125,000 amid improving geopolitical sentiment - particularly following potential U.S.-Iran peace talks. Whale activity suggests strong underlying support, with large holders absorbing 20 times the daily Bitcoin supply over the past month.",
+        "headline": "Bitcoin Bulls Target $125K as Market Signals Bottom",
+        "body": "Bitcoin analysts see strong signals of a market recovery, with Glassnode's RHODL ratio suggesting the price bottom may have passed. Institutional interest is building, with some bulls targeting a $125,000 price point driven by improving geopolitical sentiment - particularly around U.S.-Iran peace talks.\n\nWhale activity supports the bullish outlook. Large investors have absorbed 20 times the daily Bitcoin supply over the past 30 days, indicating confidence in further price appreciation. The market appears poised for potential significant upward movement.",
         "sources": [
+          {
+            "title": "The 4.5 signal: Why Glassnode’s RHODL ratio says the bitcoin bottom may be in",
+            "url": "https://www.coindesk.com/markets/2026/04/17/the-4-5-signal-why-glassnode-s-rhodl-ratio-says-the-bitcoin-bottom-may-be-in",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood",
             "url": "https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood",
@@ -314,47 +272,35 @@
             "url": "https://cointelegraph.com/news/bitcoin-eyes-dollar90k-as-whales-absorb-20x-daily-btc-supply-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Surges Past $75K After Massive Short Squeeze",
+        "body": "Bitcoin experienced a dramatic price surge, breaking through $75,000 after a significant short squeeze triggered massive liquidations totaling $283 million. The rapid price movement caught many traders off guard, with over $283 million in short positions forcibly closed.\n\nInterestingly, the funding rate remains negative despite the price surge, suggesting continued market skepticism. Analysts are watching closely to see if Bitcoin can maintain these higher price levels and overcome persistent market resistance.",
+        "sources": [
           {
             "title": "Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K",
             "url": "https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?",
+            "url": "https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "U.S. Government Moves Bitcoins from 2016 Bitfinex Hack",
-        "body": "Federal authorities transferred $606,000 in Bitcoin connected to the historic 2016 Bitfinex cryptocurrency exchange hack. The coins were moved to Coinbase - a significant development in the long-running investigation.\n\nThe transfer highlights ongoing efforts by law enforcement to track and potentially recover funds from major historical crypto theft incidents. Such movements often signal potential future liquidation or further legal proceedings related to the original hack.",
+        "headline": "U.S. Government Moves Bitcoin Linked to 2016 Bitfinex Hack",
+        "body": "Federal authorities transferred $606,000 in Bitcoin connected to the 2016 Bitfinex cryptocurrency exchange hack to Coinbase. The movement represents another step in the long-running investigation and asset recovery process related to the historic breach.\n\nThe transfer highlights ongoing law enforcement efforts to track and potentially recover funds from major cryptocurrency-related criminal incidents. It also underscores the transparency of blockchain transactions and the ability of authorities to trace digital asset movements.",
         "sources": [
           {
             "title": "The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase",
             "url": "https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase",
             "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Gains Institutional Traction with New Investments",
-        "body": "Major financial institutions are increasingly embracing Bitcoin as an investment asset. Citi recommended mixing Bitcoin with gold to potentially boost portfolio performance - a notable endorsement from a mainstream bank.\n\nIn another sign of growing institutional interest, Charles Schwab is preparing to roll out spot Bitcoin trading for retail clients. Meanwhile, the Czech National Bank is set to discuss its strategy of diversifying reserves with Bitcoin - signaling broader acceptance among national financial institutions.",
-        "sources": [
-          {
-            "title": "Citi Says Mixing Bitcoin With Gold Can Boost Your Portfolio Performance",
-            "url": "https://bitcoinmagazine.com/news/citi-says-mixing-bitcoin-with-gold-boost",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears",
-            "url": "https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Czech National Bank Governor Will Soon Speak on Why They’re Diversifying Their Reserves With Bitcoin",
-            "url": "https://bitcoinmagazine.com/conference/czech-national-bank-governor-will-soon-speak-on-why-theyre-diversifying-their-reserves-with-bitcoin",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -371,13 +317,13 @@
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
-      "description": "Implement micro-movements and strategic stretching to counteract sedentary muscle tension throughout the workday",
-      "tip": "Set a hourly timer to do 90-second targeted mobility flows that reset spinal and shoulder positioning"
+      "description": "Implement a micro-movement protocol that shifts your body's loading zones every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on floor to mark ideal foot placement and alternate standing positions"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
-      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions across energy, transportation, and environmental resilience"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
+      "why": "Understanding emergence reveals profound insights into everything from ant colonies to artificial intelligence, demonstrating how complexity can emerge from fundamental simplicity"
     }
   }
 }
