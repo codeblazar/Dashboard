@@ -1,48 +1,66 @@
 {
-  "generatedAt": "2026-04-17T10:31:26.923Z",
+  "generatedAt": "2026-04-17T22:17:16.481Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "House Extends Spy Powers After Last-Minute Congressional Clash",
-        "body": "Congress narrowly averted a surveillance powers lapse by passing a 10-day extension late Thursday night. Conservative Republicans initially blocked a deal, forcing a high-stakes showdown that threatened to disrupt national security intelligence gathering.\n\nThe vote highlights deep divisions within the Republican caucus over government surveillance powers. Speaker Mike Johnson struggled to unite his fractious conference, with some members demanding stricter oversight of intelligence collection methods.",
+        "headline": "Iran Tensions Simmer as Hormuz Strait Reopens",
+        "body": "US-Iran relations remain fraught after a potential diplomatic breakthrough. Trump claims Iran has agreed to nearly all his demands, while international observers remain skeptical. England and France are leading a defensive global summit focused on maritime security in the Strait of Hormuz.\n\nConflicting signals emerged from both sides. Iranian state media questioned an unexpected tweet from their foreign minister, suggesting internal disagreement. A House Democrat harshly criticized Trump's approach, using inflammatory language about potential war costs.",
         "sources": [
           {
-            "title": "House extends surveillance powers for 10 days",
-            "url": "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Trump says Iran has agreed to nearly all his demands",
+            "url": "https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "House punts Trump spy powers extension after conservatives block deal, forcing end-of-month showdown",
-            "url": "https://www.foxnews.com/politics/house-punts-trump-spy-powers-extension-conservatives-block-deal-forcing-end-month-showdown",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "House passes short-term spy powers extension in late-night vote after deal falls apart",
-            "url": "https://thehill.com/homenews/house/5835879-fisa-702-spy-powers-vote/",
+            "title": "England, France lead ‘strictly defensive’ global summit on Strait of Hormuz",
+            "url": "https://thehill.com/policy/international/5836910-england-france-hormuz-strait-summit/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Republicans move forward on last-minute spy powers deal, teeing up late-night vote",
-            "url": "https://thehill.com/homenews/house/5835846-fisa-702-spy-powers-deal/",
+            "title": "Iranian state news outlet questions foreign minister’s ‘unexpected tweet’ on Hormuz Strait",
+            "url": "https://thehill.com/policy/international/5836744-araghchi-tweet-strait-hormuz/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "House Democrat slams ‘Dr. Jesus’ over cost of Iran war: ‘F‑‑‑ his a‑‑’",
+            "url": "https://thehill.com/homenews/house/5836964-kamlager-dove-blasts-trump-iran/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Rallies Young Voters, Defends Economic Policies Amid Iran Tensions",
-        "body": "Former President Trump addressed Turning Point USA in Arizona, targeting young conservative voters while defending his economic approach. He dismissed concerns about inflation and critiqued current economic policies.\n\nTrump's appearance comes as he continues to shape Republican messaging ahead of potential future elections. His economic pitch seeks to contrast his administration's record with current economic challenges, particularly in light of ongoing tensions in the Middle East.",
+        "headline": "Supreme Court and Redistricting Battles Heat Up",
+        "body": "Judicial and political tensions are rising across multiple states. In Utah, leaders have launched a probe into a Supreme Court justice over an alleged relationship with a redistricting lawyer. Virginia is experiencing intense redistricting conflicts, with Obama personally ramping up pressure.\n\nThe legal landscape remains complex. Virginia Democrats face accusations of illegally circumventing state law, while redistricting battles continue to play out in courtrooms and political arenas across the country.",
         "sources": [
           {
-            "title": "Trump’s Turning Point USA stop to bolster young voters",
-            "url": "https://thehill.com/homenews/administration/5835511-turning-point-trump-arizona/",
+            "title": "Obama ramps up pressure in Virginia redistricting battle: ‘We’re counting on you’",
+            "url": "https://thehill.com/homenews/campaign/5836897-obama-virginia-redistricting-pressure/",
             "source": "The Hill",
             "lean": "center"
           },
+          {
+            "title": "Utah leaders launch probe into Supreme Court justice over alleged relationship with redistricting lawyer",
+            "url": "https://www.foxnews.com/politics/utah-leaders-launch-probe-supreme-court-justice-over-alleged-relationship-redistricting-lawyer",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Virginia Dems accused of illegally ‘steamrolling’ state law that could upend redistricting crusade",
+            "url": "https://www.foxnews.com/politics/virginia-dems-accused-illegally-steamrolling-state-law-could-upend-redistricting-crusade",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Campaigns and Faces Ongoing Legal Challenges",
+        "body": "Former President Trump continues his political comeback, courting young voters at a Turning Point USA event in Arizona. His economic pitch in Las Vegas met mixed reception, with some audiences remaining skeptical.\n\nLegal pressures persist. Federal agencies are in talks with Trump and his family over a $10 billion lawsuit regarding tax leaks. The Washington Post editorial board has criticized what they call a pointless standoff with Federal Reserve leadership.",
+        "sources": [
           {
             "title": "In Las Vegas, Trump’s economic pitch meets a skeptical audience",
             "url": "https://www.washingtonpost.com/politics/2026/04/16/trump-vegas-economy-midterms/",
@@ -50,94 +68,82 @@
             "lean": "center-left"
           },
           {
-            "title": "Trump defends economic policies, casts aside ‘fake inflation’ amid Iran war",
-            "url": "https://thehill.com/homenews/administration/5835743-trump-defends-economic-policies/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Democrats Hold New Jersey House Seat in Special Election Showdown",
-        "body": "Democrat Robert Mejia won a closely watched special election to replace Governor Sherrill in Congress, maintaining the party's hold on the seat. The victory provides a small but symbolic boost to Democratic momentum.\n\nThe result suggests ongoing political volatility in key swing districts. Both national parties viewed the race as a potential indicator of voter sentiment heading into future electoral contests.",
-        "sources": [
-          {
-            "title": "Mejia wins NJ special election to replace Gov. Sherrill in Congress",
-            "url": "https://www.npr.org/2026/04/17/nx-s1-5785061/mejia-wins-nj-special-election-to-replace-gov-sherrill-in-congress",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Agencies in talks with Trump, family to resolve $10B lawsuit over tax leaks",
+            "url": "https://www.washingtonpost.com/national-security/2026/04/17/trump-tax-leak-lawsuit/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "Democrats hang on to New Jersey House seat left open by Sherrill",
-            "url": "https://thehill.com/homenews/campaign/5833246-democrat-mejia-new-jersey-house-victory/",
+            "title": "Washington Post editorial board slams Trump’s ‘pointless standoff’ with Powell",
+            "url": "https://thehill.com/homenews/media/5837021-washington-post-editorial-board-trump-powell/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Bernie Sanders, AOC-backed Democrat wins key House race; GOP fails to expand fragile majority",
-            "url": "https://www.foxnews.com/politics/bernie-sanders-aoc-backed-democrat-wins-key-house-race-gop-fails-expand-fragile-majority",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Watch live: Trump to court young voters at Turning Point USA event in Arizona",
+            "url": "https://thehill.com/video-clips/5836751-watch-live-trump-young-voters-turning-point-usa-arizona/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "War Crimes Allegations Rock Australian Military",
-        "body": "Ben Roberts-Smith faces mounting legal pressure after court documents revealed serious allegations of war crimes. Former comrades testified that he ordered the execution of unarmed civilians during military operations in Afghanistan - a claim that strikes at the heart of Australian military conduct and ethics.\n\nThe decorated soldier was released on bail after being charged with five counts of murder. The case has exposed deep fractures within Australia's special forces and raised critical questions about accountability in military operations.",
+        "headline": "Labor Weighs Capital Gains Tax Changes to Protect New Homes",
+        "body": "The federal government is exploring ways to shield new housing from proposed capital gains tax modifications. Labor recognizes the potential impact on property development and is seeking a nuanced approach that balances revenue generation with housing market incentives.\n\nPolicymakers are examining options to exempt newly constructed homes from the tax changes - a move that could help maintain construction momentum and provide some relief for property investors and developers.",
         "sources": [
           {
-            "title": "Ben Roberts-Smith’s comrades say he ordered them to execute unarmed civilians, court documents show",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smiths-comrades-say-he-ordered-them-to-execute-unarmed-civilians-court-documents-show-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Ben Roberts-Smith released from prison on bail after being charged with five counts of war crime murder",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Online Platforms Struggle with Violent Content Spread",
-        "body": "Australia's eSafety commissioner has raised alarm over the circulation of 'gamified' footage from the recent Bondi terror attack. The spread of such content highlights growing challenges in managing online content that potentially glorifies or trivializes violent events.\n\nThe commissioner's statement underscores the complex digital landscape where traumatic real-world events can be rapidly transformed and shared across social media platforms, raising serious ethical and psychological concerns.",
-        "sources": [
-          {
-            "title": "‘Gamified’ footage of Bondi terror attack circulated online, Australia’s eSafety commissioner says",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/17/gamified-footage-of-bondi-terror-attack-circulated-online-australias-esafety-commissioner-says",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Albanese Navigates International Tensions and Fuel Challenges",
-        "body": "Prime Minister Anthony Albanese is set to join international leaders in discussions about securing the Strait of Hormuz - a critical maritime route with significant geopolitical implications. Simultaneously, domestic challenges around fuel supply continue, with the Geelong refinery experiencing production drops of up to 40%.\n\nPacific leaders have already declared an emergency over potential fuel shortages, highlighting the complex economic and strategic pressures facing the government.",
-        "sources": [
-          {
-            "title": "PM to join leaders meeting on securing Strait of Hormuz",
-            "url": "https://www.abc.net.au/news/2026-04-17/albanese-international-leaders-meeting-strait-hormuz-reopen/106578022",
+            "title": "Labor considering ways to spare new homes from capital gains changes",
+            "url": "https://www.abc.net.au/news/2026-04-18/capital-gains-tax-changes-considered-labor-new-homes-spared/106576958",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Albanese’s visits to key allies have borne early fruits of fuel and fertiliser but ‘resilience’ is on the budget agenda",
-            "url": "https://www.theguardian.com/world/2026/apr/17/albaneses-visits-to-key-allies-have-borne-early-fruits-of-fuel-and-fertiliser-but-resilience-is-on-the-budget-agenda",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Two words threaten to derail Minns's plan to ban controversial phrase",
+            "url": "https://www.abc.net.au/news/2026-04-18/nsw-chris-minns-failed-law-changes-analysis/106576208",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "National Truth-Telling Walk Demands Government Action",
+        "body": "Protesters nationwide are calling on the Prime Minister to deliver on long-standing commitments to national truth-telling. The 'Walk for Truth' movement seeks to advance reconciliation efforts and push for meaningful dialogue about Australia's historical treatment of Indigenous peoples.\n\nThe demonstration highlights ongoing tensions around recognition, representation, and the path toward meaningful national unity. Organizers argue that substantive action - not just symbolic gestures - is crucial to addressing historical injustices.",
+        "sources": [
+          {
+            "title": "National 'Walk for Truth' asks PM to deliver on long-awaited promise",
+            "url": "https://www.abc.net.au/news/2026-04-18/walk-for-truth-calls-for-national-truth-telling/106572476",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Fuel prices fall despite Geelong refinery blaze as Albanese says facility production has slipped by 40%",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/17/albanese-no-fuel-restrictions-geelong-refinery-fire",
+            "title": "NSW should think twice before banning ‘globalise the intifada’ after court struck down anti-protest law, legal expert says",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/18/nsw-should-think-twice-before-banning-globalise-the-intifada-after-court-struck-down-anti-protest-law-legal-expert-says-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Australia Enters Drone Warfare Era with Advanced Military Technology",
+        "body": "The Australian military is expanding its technological capabilities with the development of advanced drone systems like Ghost Bat and Ghost Shark. These autonomous aerial and maritime platforms represent a significant leap in defense technology and strategic capabilities.\n\nThe move signals Australia's increasing investment in cutting-edge military technologies and its desire to maintain a competitive edge in regional defense preparedness. Experts suggest these platforms could dramatically reshape military strategy and surveillance capabilities.",
+        "sources": [
+          {
+            "title": "Australia enters drone warfare era with Ghost Bat and Ghost Shark",
+            "url": "https://www.abc.net.au/news/2026-04-18/australia-military-drone-warfare-push-ghost-bat-ghost-shark/106563072",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Pacific leaders declare emergency over potential fuel shortages",
-            "url": "https://www.abc.net.au/news/2026-04-17/pacific-leaders-declare-emergency-fuel-shortages/106577980",
+            "title": "As Trump promotes a new ceasefire, many in Lebanon fear a bad deal",
+            "url": "https://www.abc.net.au/news/2026-04-18/donald-trump-lebanon-israel-ceasefire-disarming-hezbollah-group/106578708",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Live: Iran, Trump clash over US blockade during peace talks",
+            "url": "https://www.abc.net.au/news/2026-04-18/iran-war-live-updates-blockade-hormuz-us-middle-east/106571926",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,54 +152,78 @@
     ],
     "world": [
       {
-        "headline": "Iran War Enters 49th Day - Global Tensions Simmer",
-        "body": "The ongoing conflict between the US and Iran continues to reshape geopolitical dynamics. Financial markets and defense industries are emerging as unexpected winners from the prolonged confrontation. Wall Street and weapons manufacturers have seen significant gains, while green energy sectors also experience unexpected growth.\n\nIran maintains a defiant stance. BBC reporting suggests Tehran does not perceive itself as defeated. The conflict has sparked complex global reactions - with muted anti-war protests in Western nations and ongoing strategic maneuvering by multiple international actors.",
+        "headline": "Iran Reopens Hormuz Strait - Oil Prices Plummet",
+        "body": "Global tensions eased as Iran declared the strategic Strait of Hormuz open for shipping, triggering an immediate oil price collapse. The move comes after weeks of heightened US-Iran conflict that threatened global maritime trade routes.\n\nEuropean nations quickly responded, with shipping firms seeking clarifications about safe passage. The reopening signals a potential diplomatic breakthrough - though underlying geopolitical tensions remain unresolved.",
         "sources": [
           {
-            "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
-            "url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
-            "url": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Why are anti-war protests in the West muted on Iran?",
-            "url": "https://www.aljazeera.com/news/2026/4/17/why-are-anti-war-protests-in-the-west-muted-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Finance Chiefs Warn of Risks from Advanced AI Model",
-        "body": "Top financial leaders and banking executives have raised serious concerns about the Mythos AI model. The unprecedented gathering signals deep apprehension about potential systemic risks posed by advanced artificial intelligence technologies.\n\nThe discussions highlight growing global uncertainty around AI's rapid development and potential economic implications. Financial regulators appear increasingly worried about the model's potential to disrupt existing economic frameworks and introduce unpredictable market dynamics.",
-        "sources": [
-          {
-            "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-            "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Oil prices plunge as Iran says Strait 'open'",
+            "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Myanmar Frees 4,000 Prisoners in Annual Amnesty Tradition",
-        "body": "Myanmar has released over 4,000 prisoners as part of its annual pardoning tradition. The group includes high-profile detainees - notably the deposed president - in a significant gesture of potential political reconciliation.\n\nThe mass release reflects ongoing complex political negotiations within the country. International observers will closely watch whether this signals broader shifts in Myanmar's political landscape or represents a routine administrative process.",
-        "sources": [
+          },
           {
-            "title": "Myanmar frees over 4,000 prisoners in annual tradition",
-            "url": "https://www.dw.com/en/myanmar-frees-over-4-000-prisoners-in-annual-tradition/a-76819806?maca=en-rss-en-world-4025-rdf",
+            "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
+            "url": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           },
           {
-            "title": "Myanmar pardons over 4,000 prisoners, including deposed president",
-            "url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president?traffic_source=rss",
+            "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+            "url": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Shipping firms seek clarifications before crossing Hormuz",
+            "url": "https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Trump Battles IRS in $10 Billion Lawsuit Amid Political Pressure",
+        "body": "Former President Donald Trump is seeking a resolution to his massive lawsuit against the Internal Revenue Service, a legal battle drawing intense scrutiny. The $10 billion case has reignited debates about Trump's financial and legal challenges.\n\nSimultaneously, speculation continues about potential constitutional interventions - including discussions around the 25th Amendment's applicability to Trump's ongoing legal and political controversies.",
+        "sources": [
+          {
+            "title": "Trump seeks ‘resolution’ of his $10bn lawsuit against IRS, spurring concern",
+            "url": "https://www.aljazeera.com/news/2026/4/17/trump-seeks-resolution-of-his-10bn-lawsuit-against-irs-spurring-concern?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Can the 25th Amendment remove Donald Trump from office?",
+            "url": "https://www.dw.com/en/can-the-25th-amendment-remove-donald-trump-from-office/a-76835018?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "What has Trump said before possible US-Iran talks and what could it mean?",
+            "url": "https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon Declares Independence from Regional Conflict Dynamics",
+        "body": "Lebanon's president boldly proclaimed the nation is no longer a geopolitical pawn amid a fragile ceasefire with Israel. The statement marks a significant shift in the country's regional positioning.\n\nHuman stories emerge from the conflict - including a heartwarming reunion of a displaced family in Tyre - highlighting the personal impact of broader geopolitical tensions.",
+        "sources": [
+          {
+            "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
+            "url": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Will the ceasefire in Lebanon hold?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Displaced family reunited with grandfather in Lebanon’s Tyre",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -202,49 +232,49 @@
     ],
     "ai": [
       {
-        "headline": "AI Startups Surge: Physical Intelligence and Coding Platforms Raise Billions",
-        "body": "The AI investment landscape continues to heat up. Physical Intelligence, a robotics startup, claims its latest robot brain can autonomously solve tasks it was never explicitly taught - a breakthrough that could reshape machine learning approaches. Meanwhile, Factory has secured a $1.5 billion valuation for its enterprise AI coding platform, signaling massive investor confidence in AI-powered development tools.\n\nThese developments underscore a rapidly evolving tech ecosystem where artificial intelligence is moving beyond narrow, predefined capabilities toward more adaptive and generative systems.",
+        "headline": "OpenAI Leadership Shakeup Continues with Key Departures",
+        "body": "OpenAI is experiencing another round of executive exits. Kevin Weil and Bill Peebles - both senior leaders - are leaving the company, signaling ongoing internal restructuring. The departures follow the company's recent efforts to streamline operations and focus on core AI development.\n\nThe exits come as OpenAI continues to trim what it internally calls side projects. Weil, a prominent executive, had been instrumental in several strategic initiatives. His departure suggests the company is becoming increasingly selective about its leadership and strategic direction.",
         "sources": [
           {
-            "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-            "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+            "title": "OpenAI’s former Sora boss is leaving",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+            "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Upscale AI in talks to raise at $2B valuation, says report",
-            "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-            "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-            "source": "TechCrunch",
+            "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+            "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+            "source": "Wired",
             "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Expands Reach with Specialized Biology LLM and Enhanced Codex",
-        "body": "OpenAI is pushing the boundaries of large language model specialization. The company has launched a biology-tuned LLM, targeting domain-specific AI applications with unprecedented precision. Simultaneously, its Codex platform is gaining powerful new features - including background computer control capabilities that promise to transform how users interact with AI assistants.\n\nThese strategic moves suggest OpenAI is positioning itself as more than a generalist AI provider - aiming to create deeply specialized, functionally integrated intelligent systems across multiple domains.",
+        "headline": "AI Startups Race for Funding as Enterprise Demand Surges",
+        "body": "The AI investment landscape continues to heat up, with Cursor reportedly in advanced talks to raise over $2 billion at a $50 billion valuation. The massive funding round underscores the intense competition and growing enterprise appetite for AI technologies.\n\nMeanwhile, the Arc Prize Foundation is actively hiring for its AGI-4 project, highlighting the ongoing push to develop advanced artificial intelligence systems. The hiring signals continued investor and technical interest in pushing the boundaries of AI capabilities.",
         "sources": [
           {
-            "title": "OpenAI starts offering a biology-tuned LLM",
-            "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-            "source": "Ars Technica",
+            "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+            "url": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-            "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+            "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+            "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "New Codex features include the ability to use your computer in the background",
-            "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-            "source": "Ars Technica",
+            "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+            "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -252,55 +282,85 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Bulls Target $125K as Market Signals Bottom",
-        "body": "Bitcoin analysts see strong signals of a market recovery, with Glassnode's RHODL ratio suggesting the price bottom may have passed. Institutional interest is building, with some bulls targeting a $125,000 price point driven by improving geopolitical sentiment - particularly around U.S.-Iran peace talks.\n\nWhale activity supports the bullish outlook. Large investors have absorbed 20 times the daily Bitcoin supply over the past 30 days, indicating confidence in further price appreciation. The market appears poised for potential significant upward movement.",
+        "headline": "Bitcoin Surges Past $78K on Geopolitical Calm",
+        "body": "Bitcoin rocketed through key resistance levels Friday, breaking past $78,000 after Iran signaled the Strait of Hormuz was open and tensions were easing. The cryptocurrency rode a wave of market optimism, with traders interpreting the geopolitical de-escalation as a positive signal.\n\nThe price surge triggered nearly $820 million in market liquidations. Despite the rally, analysts caution that underlying market sentiment remains clouded by extreme fear and macro uncertainty.",
         "sources": [
           {
-            "title": "The 4.5 signal: Why Glassnode’s RHODL ratio says the bitcoin bottom may be in",
-            "url": "https://www.coindesk.com/markets/2026/04/17/the-4-5-signal-why-glassnode-s-rhodl-ratio-says-the-bitcoin-bottom-may-be-in",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood",
-            "url": "https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days",
-            "url": "https://cointelegraph.com/news/bitcoin-eyes-dollar90k-as-whales-absorb-20x-daily-btc-supply-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Crypto market liquidations hit $820M as Bitcoin price taps $78K",
+            "url": "https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin retakes $78,000 as Trump declares Hormuz ‘open and ready for business’",
+            "url": "https://www.theblock.co/post/397898/bitcoin-retakes-78000-trump-hormuz-open-ready-business?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'",
+            "url": "https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin Price Charges Past $77,000 as Iran Says Strait of Hormuz Fully Open",
+            "url": "https://bitcoinmagazine.com/news/bitcoin-price-charges-past-77000",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin rises, oil falls after Iran says Strait of Hormuz is open",
+            "url": "https://cointelegraph.com/news/bitcoin-rallies-76k-iran-strait-of-hormuz-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin outlook still clouded by ‘extreme fear’ amid macro uncertainty and profit-taking despite rally to $76K, analysts say",
+            "url": "https://www.theblock.co/post/397874/bitcoin-outlook-still-clouded-by-extreme-fear-amid-macro-uncertainty-and-profit-taking-despite-rally-to-76k-analysts-say?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Surges Past $75K After Massive Short Squeeze",
-        "body": "Bitcoin experienced a dramatic price surge, breaking through $75,000 after a significant short squeeze triggered massive liquidations totaling $283 million. The rapid price movement caught many traders off guard, with over $283 million in short positions forcibly closed.\n\nInterestingly, the funding rate remains negative despite the price surge, suggesting continued market skepticism. Analysts are watching closely to see if Bitcoin can maintain these higher price levels and overcome persistent market resistance.",
+        "headline": "US Lawmaker Doubles Down on Bitcoin with BlackRock ETF",
+        "body": "Congresswoman Sheri Biggs disclosed a significant investment in Bitcoin, purchasing up to $250,000 of the BlackRock Bitcoin ETF. Her move signals growing institutional confidence in the cryptocurrency amid a broader market recovery.\n\nStrategy shares tracking Bitcoin holdings have also turned green, approaching $61 billion in total value. The investment suggests continued political and financial mainstream acceptance of Bitcoin as an asset class.",
         "sources": [
           {
-            "title": "Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K",
-            "url": "https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Rep. Sheri Biggs Doubles Down on Bitcoin, Buys Up to $250K of BlackRock's ETF",
+            "url": "https://decrypt.co/364782/rep-sheri-biggs-doubles-down-bitcoin-250k-blackrock-etf",
+            "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?",
-            "url": "https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Strategy Shares Pop as Bitcoin Holdings Flip Green, Near $61 Billion",
+            "url": "https://decrypt.co/364756/strategy-shares-pop-bitcoin-holdings-flip-green-near-61-billion",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Congresswoman Biggs discloses six-figure BlackRock bitcoin ETF buy as BTC rebounds",
+            "url": "https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF",
+            "url": "https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin",
+            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
       },
       {
-        "headline": "U.S. Government Moves Bitcoin Linked to 2016 Bitfinex Hack",
-        "body": "Federal authorities transferred $606,000 in Bitcoin connected to the 2016 Bitfinex cryptocurrency exchange hack to Coinbase. The movement represents another step in the long-running investigation and asset recovery process related to the historic breach.\n\nThe transfer highlights ongoing law enforcement efforts to track and potentially recover funds from major cryptocurrency-related criminal incidents. It also underscores the transparency of blockchain transactions and the ability of authorities to trace digital asset movements.",
+        "headline": "Quantum Threat Looms: Bitcoin's Legal and Technical Future",
+        "body": "Bitcoin faces potential disruption from emerging quantum computing technologies, with legal experts exploring property rights and ownership implications. The technological challenge could fundamentally reshape Bitcoin's security and transfer mechanisms.\n\nAs quantum computing advances, the cryptocurrency community is proactively examining potential vulnerabilities and developing mitigation strategies to protect digital assets against unprecedented computational threats.",
         "sources": [
           {
-            "title": "The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase",
-            "url": "https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase",
-            "source": "CoinDesk",
+            "title": "When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next",
+            "url": "https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next",
+            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -316,14 +376,14 @@
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's loading zones every 20 minutes to prevent static muscle tension",
-      "tip": "Use painter's tape on floor to mark ideal foot placement and alternate standing positions"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by gripping sides and letting body weight create gentle stretch"
     },
     "learn": {
-      "topic": "Emergence Theory in Complex Systems",
-      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
-      "why": "Understanding emergence reveals profound insights into everything from ant colonies to artificial intelligence, demonstrating how complexity can emerge from fundamental simplicity"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human infrastructure challenges"
     }
   }
 }
