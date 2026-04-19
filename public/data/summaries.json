@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-04-18T22:12:42.723Z",
+  "generatedAt": "2026-04-19T05:05:47.443Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Pushes Psychedelic Research, Sparks Medical and Political Debate",
-        "body": "President Trump signed an executive order fast-tracking federal review of psychedelic treatments for mental health disorders. The move covers substances like psilocybin, LSD, and ibogaine - controversial compounds with potential therapeutic applications.\n\nThe order has drawn mixed reactions. Medical researchers see potential breakthrough treatments for PTSD and depression. Critics worry about safety and potential misuse. Federal agencies will now accelerate research protocols, potentially reshaping mental health treatment approaches.",
+        "headline": "Trump Escalates Iran Tensions as Hormuz Standoff Intensifies",
+        "body": "US-Iran relations reached a critical point this weekend as President Trump and Tehran traded sharp rhetoric over control of the Strait of Hormuz. Military preparations intensified, with US naval forces positioning to potentially board Iran-linked vessels. \n\nThe situation remains volatile. While Trump signals readiness for confrontation, diplomatic channels remain open. A rapidly approaching ceasefire deadline adds urgency to ongoing negotiations, with both sides presenting competing narratives about maritime sovereignty and strategic control.",
+        "sources": [
+          {
+            "title": "Sunday shows preview: Donald Trump, Iran spar over Strait of Hormuz control as ceasefire deadline nears",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/5838036-trump-iran-negotiations-ceasefire/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "US military prepares to board Iran-linked vessels",
+            "url": "https://thehill.com/policy/defense/5837883-trump-us-military-iran-linked-vessels-strait-of-hormuz/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Walz rips Trump and Vance in Europe, says 'feeble-minded, trigger-happy president' has no exit plan for Iran",
+            "url": "https://www.foxnews.com/politics/walz-rips-trump-vance-europe-says-feeble-minded-trigger-happy-president-exit-plan-iran",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Moves to Expand Psychedelic Research for Mental Health",
+        "body": "President Trump signed an executive order fast-tracking federal review of psychedelic substances like LSD and psilocybin for potential mental health treatments. The directive aims to accelerate research into alternative therapeutic approaches for disorders including PTSD and depression. \n\nThe move has drawn mixed reactions. Supporters see it as progressive medical policy, while critics worry about potential risks and long-term implications of expanded psychedelic research.",
         "sources": [
           {
             "title": "Trump orders more access to psychedelics like LSD, psilocybin and ibogaine",
@@ -22,48 +46,18 @@
         ]
       },
       {
-        "headline": "US Military Tensions Rise in Middle East Strait of Hormuz",
-        "body": "US military preparations to board Iran-linked vessels signal escalating maritime tensions. President Trump's administration appears ready to challenge Iranian maritime movements in a strategically critical region.\n\nDiplomatic reactions vary sharply. Some lawmakers like Tim Walz criticize Trump's approach as potentially trigger-happy. Others support aggressive posturing against Iranian maritime activities. The situation remains fluid, with potential for rapid diplomatic or military developments.",
+        "headline": "Cuban Americans Split on Immigration Deportation Policies",
+        "body": "A new poll reveals deep divisions among Cuban and Cuban American communities in South Florida regarding current deportation policies. A majority expressed disapproval of the administration's immigration enforcement strategies. \n\nThe survey highlights ongoing tensions around immigration, with nuanced perspectives that defy simple partisan categorization. Political leaders continue to grapple with balancing humanitarian concerns and border security mandates.",
         "sources": [
           {
-            "title": "US military prepares to board Iran-linked vessels",
-            "url": "https://thehill.com/policy/defense/5837883-trump-us-military-iran-linked-vessels-strait-of-hormuz/",
+            "title": "Majority of Cubans, Cuban Americans in South Florida disapprove of deportations: Poll",
+            "url": "https://thehill.com/homenews/administration/5838168-cuban-americans-disapprove-trump/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Walz rips Trump and Vance in Europe, says 'feeble-minded, trigger-happy president' has no exit plan for Iran",
-            "url": "https://www.foxnews.com/politics/walz-rips-trump-vance-europe-says-feeble-minded-trigger-happy-president-exit-plan-iran",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Maher jabs Trump over Iran, Hormuz Strait back-and-forth: ‘We have a whole new plot’",
-            "url": "https://thehill.com/blogs/in-the-know/5837632-bill-maher-trump-iran-strait/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Political Landscape Shifts as 2028 Election Speculation Intensifies",
-        "body": "Democratic strategists are exploring potential challengers to Trump, with Kamala Harris emerging as a potential comeback candidate. Al Sharpton suggests Democrats want a fighter who can directly challenge the former president.\n\nMeanwhile, internal party dynamics remain complex. Business leaders are reportedly becoming less aligned with traditional party lines. The political center continues to fragment as ideological boundaries blur.",
-        "sources": [
-          {
-            "title": "Republicans should not dismiss a Kamala Harris comeback in 2028",
-            "url": "https://thehill.com/opinion/campaign/5836932-harris-leads-democrats-2028/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Sharpton: Democrats want a ‘fighter’ to take on Trump amid 2028 speculation",
-            "url": "https://thehill.com/homenews/campaign/5837730-sharpton-trump-democrats-fighter/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Business leaders are done picking sides, and the two parties should be worried",
-            "url": "https://thehill.com/opinion/campaign/5837158-economic-recession-fears-rise/",
+            "title": "More than half of Americans say Trump immigration agenda ‘too aggressive’: Survey",
+            "url": "https://thehill.com/policy/national-security/5837847-americans-views-trump-ice/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,36 +66,66 @@
     ],
     "au-politics": [
       {
-        "headline": "Health Crisis Emerges in Kimberley as Diphtheria Rates Spike",
-        "body": "Northern Western Australia faces a sudden public health emergency after diphtheria cases more than tripled in a single month - breaking a 50-year eradication record. Health authorities are scrambling to understand the outbreak's source and prevent further spread.\n\nThe spike raises urgent questions about vaccination rates and potential transmission pathways in remote communities. Regional medical teams are conducting rapid testing and implementing emergency immunization protocols to contain the potential epidemic.",
+        "headline": "War Crimes Allegations Dominate Roberts-Smith Airport Arrest",
+        "body": "Ben Roberts-Smith broke his silence after his dramatic airport arrest, calling the incident sensational and maintaining his innocence in ongoing war crimes allegations. The decorated former soldier's first public statement comes after months of intense legal scrutiny into his conduct during military service in Afghanistan.\n\nThe case continues to polarize public opinion, with supporters viewing the allegations as an attack on military reputation and critics demanding accountability for potential war crimes. Roberts-Smith's legal team appears prepared to challenge the charges vigorously.",
         "sources": [
           {
-            "title": "Kimberley diphtheria rates more than triple in a month after 50-year eradication",
-            "url": "https://www.abc.net.au/news/2026-04-19/kimberley-diphtheria-diagnosis-rates-raise-northern-wa/106571924",
+            "title": "Australia news live: Ben Roberts-Smith denies war crimes allegations in first public statement since arrest; free public transport in Victoria extended",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Ben Roberts-Smith calls airport arrest 'sensational' in first statement",
+            "url": "https://www.abc.net.au/news/2026-04-19/ben-roberts-smith-issues-first-statement-after-bail-release/106581144",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Earthquake Monitoring Gaps Exposed After Record Mining Region Tremor",
-        "body": "A significant seismic event near a gold mining site has prompted calls for expanded earthquake monitoring across Australia. Scientists and local representatives argue current detection networks are insufficient to track geological activity in resource-rich regions.\n\nThe tremor's magnitude and location have highlighted potential risks to mining infrastructure and nearby communities. Experts suggest increased sensor networks could provide critical early warning systems and improve understanding of geological dynamics.",
+        "headline": "Energy Crisis Sparks Heated Political Debate on National Strategy",
+        "body": "Australia's ongoing energy challenges have triggered sharp political disagreements about national energy policy. Right-leaning commentators argue that current geopolitical tensions demonstrate potential strategic benefits of conflict, while others call for more sustainable solutions.\n\nThe debate intersects with emerging discussions about biofuel potential and national energy security. Proposed alternatives like sustainable aviation fuels are gaining attention as policymakers seek long-term strategies to reduce dependency on traditional energy sources.",
         "sources": [
           {
-            "title": "Calls for more earthquake monitors after record quake near gold mine",
-            "url": "https://www.abc.net.au/news/2026-04-19/calls-for-more-public-earthquake-monitors-after-tremor-in-orange/106574802",
+            "title": "Energy crisis demonstrates the benefits of war",
+            "url": "https://www.spectator.com.au/2026/04/energy-crisis-demonstrates-the-benefits-of-war/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Could Australia make enough biofuel to keep us flying?",
+            "url": "https://www.abc.net.au/news/science/2026-04-19/are-saf-biofuels-solution-to-jet-fuel-shortages/106551088",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Iran's reclosure of the Strait of Hormuz 'disappointing', Marles says",
+            "url": "https://www.abc.net.au/news/2026-04-19/australian-government-reacts-to-strait-of-hormuz-closure/106580898",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Uncertainty in Strait of Hormuz as ceasefire deadline approaches",
+            "url": "https://www.abc.net.au/news/2026-04-19/uncertainty-in-strait-of-hormuz-as-deadline-approaches/106580284",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Liberal Candidate Under Investigation for Pre-Election Roadworks",
-        "body": "A Liberal Party candidate faces official investigation over roadworks conducted ahead of the upcoming Nepean by-election. The allegations suggest potential impropriety in infrastructure development timing and electoral conduct.\n\nThe probe threatens to complicate the Liberal Party's electoral strategy and raises broader questions about campaign practices. Political observers are watching closely to see how the investigation might impact candidate Anthony Marsh's electoral prospects.",
+        "headline": "Victoria Extends Free Public Transport amid Economic Pressures",
+        "body": "Victoria has confirmed the extension of free public transport into May, signaling continued economic support for residents. The initiative will be followed by half-price fares, providing ongoing relief for commuters facing rising living costs.\n\nThe policy reflects broader government efforts to support citizens during challenging economic conditions. Transport accessibility remains a key political issue, with potential implications for voter sentiment in upcoming electoral cycles.",
         "sources": [
           {
-            "title": "Liberal candidate under investigation for roadworks ahead of Nepean by-election",
-            "url": "https://www.abc.net.au/news/2026-04-19/nepean-by-election-liberal-anthony-marsh-investigation-roadworks/106578122",
+            "title": "Australia news live: Ben Roberts-Smith denies war crimes allegations in first public statement since arrest; free public transport in Victoria extended",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Victoria's free public transport continues in May with half-price fares to follow",
+            "url": "https://www.abc.net.au/news/2026-04-19/free-public-transport-victoria-extended-fares-halved/106580938",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -110,70 +134,15 @@
     ],
     "world": [
       {
-        "headline": "Iran Seizes Control of Hormuz Strait - Tensions Escalate with US",
-        "body": "Iran has reasserted military control over the strategically critical Hormuz Strait, ordering an Indian ship to abort its passage and reportedly attacking maritime vessels. The Iranian military's aggressive moves have prompted sharp warnings from former US President Trump, who accused Tehran of economic blackmail.\n\nThe closure of the strait - a crucial maritime chokepoint for global oil transport - signals heightened regional tensions. Trump's response suggests potential military or economic retaliation, raising concerns about a potential wider conflict in the strategically sensitive Gulf region.",
-        "sources": [
-          {
-            "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
-            "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
-            "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Iran military orders Indian ship to abort Strait of Hormuz passage",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Kyiv Shooting Leaves Six Dead - Gunman Neutralized by Police",
-        "body": "A deadly shooting in Kyiv ended with Ukrainian police killing a gunman who had murdered six people and taken hostages. The incident unfolded rapidly, with law enforcement swiftly responding to neutralize the threat.\n\nDetails remain limited, but the attack highlights ongoing security challenges in Ukraine amid its prolonged conflict with Russia. The swift police response prevented further potential casualties and demonstrated Ukrainian security forces' readiness to manage urban threats.",
-        "sources": [
-          {
-            "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-            "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
-            "url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Mexico Defends Diplomatic Stance Amid Historical Tensions with Spain",
-        "body": "Mexican President Claudia Sheinbaum has denied a diplomatic crisis with Spain following recent tensions over historical conquest narratives. The dispute centers on interpretations of colonial history, with Mexico calling for regional solidarity.\n\nIn a related development, Mexico joined Brazil and Spain in a joint statement calling for Cuba's sovereignty to be protected. The diplomatic maneuvering reflects complex geopolitical relationships and ongoing discussions about historical accountability in Latin America.",
-        "sources": [
-          {
-            "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-            "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Mexico, Spain and Brazil call for Cuba’s sovereignty to be protected",
-            "url": "https://www.aljazeera.com/news/2026/4/18/mexico-spain-and-brazil-call-for-cubas-sovereignty-to-be-protected?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
+        "headline": "World Events summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ],
     "ai": [
       {
         "headline": "Tesla Expands Robotaxi Service to Texas Megacities",
-        "body": "Tesla has launched its autonomous taxi service in Dallas and Houston - two of the largest urban markets in the United States. The rollout marks a significant expansion of the company's self-driving technology beyond previous pilot regions.\n\nThe move signals growing confidence in Tesla's autonomous vehicle capabilities. With Texas representing a massive potential market for robotaxis, the company aims to establish a strong foothold in urban transportation infrastructure.",
+        "body": "Tesla is pushing deeper into autonomous transportation with robotaxi launches in Dallas and Houston. The expansion signals growing confidence in self-driving technology and marks a significant step toward mainstream adoption of autonomous ride-sharing services.\n\nThe move comes as traditional transportation models face increasing disruption from AI-powered mobility solutions. Tesla's strategy leverages its extensive vehicle network and advanced sensor technologies to create a scalable urban transportation platform.",
         "sources": [
           {
             "title": "Tesla brings its robotaxi service to Dallas and Houston",
@@ -184,8 +153,8 @@
         ]
       },
       {
-        "headline": "AI Chips and Tech Landscape Shift Dramatically",
-        "body": "Cerebras has filed for an initial public offering - a potential watershed moment for specialized AI hardware companies. The IPO comes amid ongoing semiconductor challenges, including a persistent RAM shortage that could extend for years.\n\nThe tech ecosystem continues to evolve rapidly. Specialized chip manufacturers are positioning themselves to meet the insatiable computational demands of advanced AI systems - with investors watching closely.",
+        "headline": "AI Chip Market Heats Up with Cerebras IPO Filing",
+        "body": "Cerebras Systems has filed for its initial public offering - a bold move that underscores the intense competition in AI semiconductor design. The company has been pushing boundaries with massive wafer-scale AI chips designed to accelerate machine learning workloads.\n\nThe IPO arrives amid ongoing semiconductor supply constraints and growing demand for specialized AI computing infrastructure. Investors are watching closely as AI chip makers seek to capture market share in an increasingly complex technological landscape.",
         "sources": [
           {
             "title": "The RAM shortage could last years",
@@ -202,19 +171,19 @@
         ]
       },
       {
-        "headline": "AI Transforms Tech and Education Landscapes",
-        "body": "Anthropic's relationship with the Trump administration appears to be warming - a potential sign of shifting political dynamics around AI technology. Meanwhile, educators are developing novel strategies to address AI-generated academic work.\n\nOne college instructor has resorted to using typewriters to prevent AI-written assignments. These responses highlight the ongoing tension between technological innovation and traditional institutional practices.",
+        "headline": "NASA Keeps Voyager 1 Flying by Sacrificing Instrument",
+        "body": "NASA engineers have made a strategic decision to shut down an instrument on Voyager 1 to preserve the spacecraft's operational capabilities. The move highlights the delicate balance of maintaining humanity's most distant space explorer as it continues its historic journey beyond our solar system.\n\nThe spacecraft - launched in 1977 - continues to provide unprecedented data about interstellar space, demonstrating remarkable resilience decades after its initial mission parameters.",
         "sources": [
           {
-            "title": "College instructor turns to typewriters to curb AI-written work",
-            "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+            "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+            "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-            "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-            "source": "TechCrunch",
+            "title": "NIST scientists create 'any wavelength' lasers",
+            "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -222,61 +191,25 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Mining Shifts as Difficulty Drops and New Pools Emerge",
-        "body": "Bitcoin's mining landscape is experiencing notable changes. The network's mining difficulty has fallen, though projections suggest an imminent rise in the next adjustment. A new decentralized mining pool called Parasite has found its second block - a small but symbolic milestone for community-driven mining efforts.\n\nIn a strategic move, NYDIG is reportedly close to acquiring a dormant Alcoa smelter site in New York. This potential purchase signals continued investment in North American Bitcoin mining infrastructure, even as the sector navigates complex economic and technological challenges.",
+        "headline": "Bitcoin Mining Difficulty Drops - Recovery Looms",
+        "body": "Bitcoin's mining difficulty has dipped in the latest network adjustment, signaling potential shifts in network dynamics. Analysts predict a quick rebound, with the next difficulty adjustment expected to reverse the current downward trend.\n\nThe fluctuation reflects ongoing changes in mining infrastructure and computational power across global Bitcoin networks. Miners continue to adapt to market conditions, balancing operational costs against potential rewards in an increasingly competitive landscape.",
         "sources": [
           {
             "title": "Bitcoin mining difficulty falls, but projected to rise in next adjustment",
             "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-falls-rise-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Alcoa nears deal to sell dormant New York smelter site to Bitcoin miner NYDIG: Bloomberg",
-            "url": "https://www.theblock.co/post/397983/alcoa-nears-deal-to-sell-dormant-new-york-smelter-site-to-bitcoin-miner-nydig-bloomberg?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-            "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-            "source": "Decrypt",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Quantum Threat Looms - Bitcoin's Long-Term Security Under Scrutiny",
-        "body": "The specter of quantum computing poses a potential existential challenge to Bitcoin's cryptographic foundations. Researchers are increasingly focused on understanding Q-Day - the hypothetical moment when quantum computers could theoretically break Bitcoin's current encryption mechanisms.\n\nThe Lightning Network continues to evolve in response to such technological pressures. Experts argue the network is not fundamentally broken, suggesting ongoing development and resilience in Bitcoin's layer-two scaling solutions.",
-        "sources": [
-          {
-            "title": "The Lightning Network isn’t ‘helplessly broken’",
-            "url": "https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-            "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Iran and UK Leaders Signal Growing Bitcoin Strategic Importance",
-        "body": "Geopolitical perspectives on Bitcoin are shifting. Iran is viewing cryptocurrency as a strategic asset, potentially using it to navigate international financial sanctions. Meanwhile, a former UK Prime Minister has publicly indicated support for Bitcoin amid concerns about the nation's economic trajectory.\n\nThese developments underscore Bitcoin's increasing relevance beyond pure financial speculation - as a potential tool for economic resilience and geopolitical maneuvering.",
+        "headline": "Iran Positions Bitcoin as Strategic National Asset",
+        "body": "Iran is positioning Bitcoin as a critical strategic asset, despite ongoing challenges in international financial transactions. The country sees cryptocurrency as a potential tool for circumventing economic sanctions and managing international trade tensions.\n\nHowever, the current reality remains complex. Stablecoins - particularly Tether - still dominate oil trade settlements, highlighting the gap between strategic vision and practical implementation. Iran's Bitcoin strategy represents a significant geopolitical pivot in cryptocurrency adoption.",
         "sources": [
           {
             "title": "Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI",
             "url": "https://cointelegraph.com/news/iran-btc-strategic-usdt-dominate-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Former UK Prime Minister sees economy on 'very negative trajectory,' indicates support for bitcoin",
-            "url": "https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -286,20 +219,20 @@
   "suggestions": {
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African",
+      "cuisine": "North African Fusion",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
       "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted 5-minute standing stretch sequence that realigns spine, releases tension, and resets muscular balance",
-      "tip": "Use a doorframe as a reference point for shoulder blade retraction and gentle spinal extension"
+      "name": "Desk Warrior Reset",
+      "description": "Perform a targeted 5-minute mobility sequence that counteracts prolonged sitting by opening chest, releasing hip flexors, and realigning spine",
+      "tip": "Use a foam roller along your thoracic spine to instantly improve upper body alignment"
     },
     "learn": {
-      "topic": "The Fermi Paradox and Drake Equation",
-      "description": "A scientific exploration of the probability of extraterrestrial intelligent life in the universe, balancing mathematical probability with observable cosmic silence",
-      "why": "It challenges our understanding of cosmic probability, human uniqueness, and the potential scale of intelligent life beyond Earth"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how cities can be redesigned by mimicking natural ecosystems' efficiency, resilience, and interconnectedness",
+      "why": "This emerging field offers revolutionary solutions to urban sustainability, potentially transforming how we think about infrastructure and human habitats"
     }
   }
 }
