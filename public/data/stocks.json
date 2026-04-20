@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-04-20T05:07:40.205Z",
+  "updatedAt": "2026-04-20T10:38:33.118Z",
   "stocks": [
     {
       "symbol": "AAPL",
       "name": "Apple",
       "price": 270.23,
-      "change": 6.830000000000041,
-      "changePct": 2.5930144267274264,
-      "prevClose": 263.4
+      "change": 270.23,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
       "price": 201.68,
-      "change": 3.3300000000000125,
-      "changePct": 1.6788505167633034,
-      "prevClose": 198.35
+      "change": 201.68,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "price": 400.62,
-      "change": 11.720000000000027,
-      "changePct": 3.013628182051949,
-      "prevClose": 388.9
+      "change": 400.62,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "price": 341.68,
-      "change": 5.660000000000025,
-      "changePct": 1.6844235462174946,
-      "prevClose": 336.02
+      "change": 341.68,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "price": 250.56,
-      "change": 0.8600000000000136,
-      "changePct": 0.3444132959551517,
-      "prevClose": 249.7
+      "change": 250.56,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "price": 422.79,
-      "change": 2.5300000000000296,
-      "changePct": 0.6020082805882143,
-      "prevClose": 420.26
+      "change": 422.79,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "MSTR",
       "name": "Strategy",
       "price": 166.52,
-      "change": 17.580000000000013,
-      "changePct": 11.803410769437365,
-      "prevClose": 148.94
+      "change": 166.52,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
       "price": 146.39,
-      "change": 3.6299999999999955,
-      "changePct": 2.5427290557579125,
-      "prevClose": 142.76
+      "change": 146.39,
+      "changePct": null,
+      "prevClose": 0
     }
   ],
   "stockFearGreed": {
     "value": 68,
     "rating": "Greed",
-    "previousClose": 62
+    "previousClose": 68
   },
   "btcFearGreed": {
     "value": 29,

@@ -1,151 +1,139 @@
 {
-  "generatedAt": "2026-04-20T05:08:27.426Z",
+  "generatedAt": "2026-04-20T10:39:20.931Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Diplomacy Strained: Embassy Deaths and Political Tensions",
-        "body": "Two US Embassy officials died in a car crash in Chihuahua, Mexico, escalating diplomatic concerns. The incident comes amid ongoing political tensions, with Pope Leo and Vance working to repair relationships following a recent feud with Trump.\n\nIn Virginia, redistricting debates highlight the ongoing political battle between parties. Democrats see potential strategic advantages in upcoming midterm elections, while Republicans push back against proposed changes.",
+        "headline": "GOP Fundraising Surge Hints at Midterm Election Momentum",
+        "body": "The National Republican Congressional Committee (NRCC) reported a record-breaking $47.1 million fundraising quarter, with $28.1 million raised in March alone. This financial boost signals growing Republican confidence heading into the midterm elections.\n\nDemocrats see challenges ahead. Recent polling suggests the Iowa governor's race is now a tossup, indicating a potentially competitive electoral landscape. Senate Republicans are also pinning hopes on potential Supreme Court developments that could energize their base.",
         "sources": [
           {
-            "title": "Pope Leo, Vance seek to mend fences after Trump feud",
-            "url": "https://thehill.com/homenews/administration/5839003-leo-vance-trump-comments/",
+            "title": "NRCC reporting record $47.1 million quarter, record $28.1 million raised in March",
+            "url": "https://www.foxnews.com/politics/nrcc-reporting-record-471-million-quarter-record-281-million-raised-march",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Democrats gain ground in Iowa governor’s race",
+            "url": "https://thehill.com/homenews/campaign/5837106-rob-sand-iowa-governor-race-tossup/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "2 US Embassy officials die in car crash in Mexico",
-            "url": "https://thehill.com/policy/international/5838908-us-embassy-officials-die-chihuahua/",
+            "title": "As GOP interest in Bondi fizzles, Democrats push for chance to question her",
+            "url": "https://thehill.com/homenews/house/5837202-epstein-files-bondi-house-oversight/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Justice Department Leadership Transition Sparks Uncertainty",
+        "body": "The departure of Attorney General Bondi has created significant uncertainty within the Department of Justice. Republican and Democratic lawmakers are jockeying for position - with GOP interest in Bondi reportedly fizzling while Democrats push to question her further.\n\nThe transition comes amid ongoing investigations and political tensions. Questions about presidential records and potential legal challenges continue to swirl, adding complexity to an already fraught political environment.",
+        "sources": [
+          {
+            "title": "As GOP interest in Bondi fizzles, Democrats push for chance to question her",
+            "url": "https://thehill.com/homenews/house/5837202-epstein-files-bondi-house-oversight/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "House Oversight Committee to investigate missing, dead scientists",
-            "url": "https://thehill.com/homenews/house/5838817-investigation-american-scientists-deaths/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Uncertainty reigns at DOJ in the aftermath of Bondi’s departure",
+            "url": "https://www.washingtonpost.com/national-security/2026/04/19/justice-attorney-general-trump-blanche/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "In Virginia, redistricting vote could give Democrats an edge ahead of midterms",
-            "url": "https://www.npr.org/2026/04/19/nx-s1-5788677/in-virginia-redistricting-vote-could-give-democrats-an-edge-ahead-of-midterms",
+            "title": "Who owns presidential records? Trump's Justice Department says it's him",
+            "url": "https://www.npr.org/2026/04/20/g-s1-117887/trump-justice-department-presidential-records-lawsuit",
             "source": "NPR",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Tragedy in Louisiana: Mass Shooting Shocks Nation",
-        "body": "A horrific mass shooting in Louisiana left 8 children dead - all younger than 15 - in what police described as a deeply tragic incident. The suspect - a father - killed seven of his own children and another child, sending shockwaves through the community.\n\nThe incident reignites national conversations about gun violence, mental health, and family safety. Authorities continue to investigate the circumstances surrounding this devastating event.",
+        "headline": "Voters Express Confusion Over Political Messaging and Redistricting",
+        "body": "Voter sentiment appears increasingly fractured, with multiple reports highlighting public disorientation. In Virginia, voters report feeling misled about redistricting processes, while national polls suggest confusion about issues like gas prices and political accountability.\n\nPolitical narratives are increasingly contested. A recent poll indicates most voters blame former President Trump for rising gas prices, while individual candidates continue to navigate complex local political landscapes.",
         "sources": [
           {
-            "title": "Father killed 7 of his children and another child in Louisiana mass shooting: Police",
-            "url": "https://thehill.com/homenews/state-watch/5838951-shreveport-mass-shooting-suspect/",
+            "title": "Voters say they feel confused and misled on Virginia's redistricting vote",
+            "url": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Most voters blame Trump for rising gas prices: Poll",
+            "url": "https://thehill.com/business/personal-finance/5838861-voters-poll-trump-gas/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "8 children killed, teenager among 3 people injured in ‘tragic’ Louisiana mass shooting: Police",
-            "url": "https://thehill.com/homenews/state-watch/5838488-8-children-all-younger-than-15-dead-following-louisiana-mass-shooting-police/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "US-Iran Tensions Escalate with Naval Confrontation",
-        "body": "Heightened tensions emerged after Trump claimed the US Navy seized an Iranian-flagged cargo ship in the Strait of Hormuz. US Ambassador Waltz suggested all options remain on the table, defending potential aggressive responses.\n\nThe situation reflects ongoing diplomatic friction. Trump warned of potential strikes against Iranian civilian infrastructure, while political commentators debate the appropriateness and potential consequences of such aggressive rhetoric.",
-        "sources": [
-          {
-            "title": "Trump says US Navy forcibly seized Iranian-flagged cargo ship in Strait of Hormuz",
-            "url": "https://thehill.com/homenews/administration/5838719-trump-us-navy-intercepts-iranian-ship/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Waltz on US boarding Iran-linked vessels: ‘All options are on the table’",
-            "url": "https://thehill.com/homenews/administration/5838702-us-ambassador-iran-strait-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Waltz says Trump’s threats against Iranian civilian infrastructure ‘perfectly acceptable’",
-            "url": "https://thehill.com/homenews/administration/5838681-waltz-defends-trump-iran-strikes/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Tapper, Stefanik spar over Trump’s ‘whole civilization will die’ message to Iran",
-            "url": "https://thehill.com/homenews/house/5838558-jake-tapper-elise-stefanik-clash/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Democrat in key race defended guns after mass shooting and insulted Kaepernick",
+            "url": "https://www.washingtonpost.com/politics/2026/04/20/bob-brooks-pennsylvania-democrat-facebook/",
+            "source": "Washington Post",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Budget Tensions Rise as NDIS Cuts Loom Large",
-        "body": "Treasurer Jim Chalmers has signaled that National Disability Insurance Scheme (NDIS) funding cuts will be the centerpiece of the upcoming federal budget. States are growing anxious about potential reductions, with disability services potentially facing significant restructuring.\n\nThe proposed cuts represent a high-stakes political challenge for the Albanese government. While the Treasury seeks budget savings, disability advocates and state governments are preparing to push back against potential funding reductions that could impact critical support services.",
+        "headline": "Protest Law Clash: NSW Government Defies Court Ruling",
+        "body": "The NSW government stands firm on controversial anti-protest legislation despite the state's highest court declaring it unconstitutional. Premier Chris Minns described the law as rational and necessary, signaling potential further legal battles ahead.\n\nThe court's ruling challenges the government's approach to public demonstrations, raising significant questions about civil liberties and legislative boundaries. Minns appears determined to maintain the law's core provisions, suggesting a potential appeal or legislative amendment.",
         "sources": [
           {
-            "title": "States on edge about NDIS cuts as Chalmers flags they will be ‘easily the most important’ part of budget savings",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/20/ndis-funding-cuts-labor-chalmers-budget-savings",
+            "title": "Minns doubles down on ‘rational’ anti-protest law despite NSW’s highest court ruling it unconstitutional",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/20/minns-doubles-down-anti-protest-law-despite-nsw-highest-court-ruling-it-unconstitutional-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "'Privilege of my life': ACT Greens leader Shane Rattenbury quitting politics",
-            "url": "https://www.abc.net.au/news/2026-04-20/shane-rattenbury-steps-down-as-act-greens-leader/106582540",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Electric Vehicle Adoption Stalls as Infrastructure Lags",
-        "body": "Australia continues to trail behind global markets in electric vehicle (EV) uptake, with infrastructure and cost barriers slowing consumer transition. A new analysis highlights the complex challenges facing national EV strategy - from charging network limitations to higher purchase prices.\n\nThe slow adoption reflects broader economic and infrastructure challenges. Consumers remain hesitant despite growing environmental awareness, pointing to systemic barriers in Australia's automotive and energy transition landscape.",
+        "headline": "Tax Deduction Boost: $1,000 Instant Relief for Millions",
+        "body": "Australians will soon benefit from a new $1,000 instant tax deduction under recently passed legislation. The law aims to provide immediate financial relief for individuals and potentially stimulate economic activity.\n\nDetails of the deduction suggest it will apply broadly, offering a straightforward mechanism for taxpayers to reduce their annual tax burden. The measure represents a significant fiscal policy intervention designed to support household finances during challenging economic conditions.",
         "sources": [
           {
-            "title": "Life in the slow lane. Why Australia isn't up to speed with EVs",
-            "url": "https://www.abc.net.au/news/2026-04-20/electric-vehicles-money-versus-time-charging-network/106573726",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Millions of Australians will get a $1,000 instant tax deduction under a new law – here’s how it will work",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/20/1000-instant-tax-deduction-explained-australia-new-law",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Soaring airfares and reduced flights force some Australians to reconsider travel plans",
-            "url": "https://www.abc.net.au/news/2026-04-20/soaring-airfares-international-travel-plans-australians/106571280",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Afternoon Update: Chalmers’ ‘severe’ economic warning; blood donation rules change; and the female gaze revolution",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/20/afternoon-update-monday-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Political Shifts: Greens Leader Exits, University Considers Name Change",
-        "body": "ACT Greens leader Shane Rattenbury announced his departure from politics, describing his tenure as the privilege of his life. Meanwhile, Adelaide University is contemplating removing the Santos name from a campus building - a potential symbolic move reflecting changing corporate relationships.\n\nThese developments signal ongoing shifts in Australian political and institutional landscapes. Rattenbury's exit marks the end of a significant political chapter, while the university's potential name change suggests evolving attitudes toward corporate sponsorship.",
+        "headline": "Queensland Minister Denies Electoral Registration Impropriety",
+        "body": "Tim Mander, a Queensland minister, has strongly rejected allegations of improper voting registration practices. Mander asserted he never broke any laws amid ongoing questions about his electoral conduct.\n\nThe controversy centers on potential irregularities in voting registration processes, with Mander maintaining his actions were fully compliant with legal requirements. The situation highlights ongoing scrutiny of political administrative practices.",
         "sources": [
           {
-            "title": "'Privilege of my life': ACT Greens leader Shane Rattenbury quitting politics",
-            "url": "https://www.abc.net.au/news/2026-04-20/shane-rattenbury-steps-down-as-act-greens-leader/106582540",
+            "title": "Qld minister says he never broke law amid questions on voting registration",
+            "url": "https://www.abc.net.au/news/2026-04-20/tim-mander-electoral-registration-voting-everton/106584676",
             "source": "ABC Australia",
             "lean": "center-left"
-          },
-          {
-            "title": "Adelaide University considers dropping Santos name from building",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/20/adelaide-university-considers-dropping-santos-name-from-building-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Tensions Escalate with Ship Seizure Near Hormuz",
-        "body": "US forces attacked and seized an Iranian vessel near the Strait of Hormuz, dramatically raising regional tensions. President Trump confirmed the military action, claiming the ship was attempting to breach the maritime blockade. Iran immediately condemned the move as piracy and vowed a response.\n\nOil markets reacted swiftly to the confrontation. Prices surged amid uncertainty about potential further military escalation. Tehran has repeatedly warned it will never surrender control of the strategically crucial Hormuz waterway - a critical global shipping route.",
+        "headline": "US Seizes Iranian Ship - Tensions Rise in Middle East",
+        "body": "The US military captured an Iranian vessel - the Touska - escalating maritime tensions in an already volatile region. Marines boarded the ship amid ongoing negotiations between Washington and Tehran, with oil prices spiking in response to the incident.\n\nIran has rejected immediate talks with the US, casting doubt on mediation efforts in Pakistan. The seizure comes against the backdrop of a broader conflict, with both sides signaling reluctance to de-escalate quickly.",
         "sources": [
           {
-            "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
-            "url": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
+            "title": "Second round in Islamabad: Who’s at the US-Iran negotiating table?",
+            "url": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
+            "url": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -156,56 +144,56 @@
             "lean": null
           },
           {
-            "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-            "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "US releases video of forces seizing Iranian ship",
+            "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
-            "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
+            "title": "Iran says no talks with US for now, casting doubt over Pakistan efforts",
+            "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US military releases video of marines seizing Iranian ship",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bulgarian Election Sees Former President Poised for Comeback",
-        "body": "Rumen Radev appears set to win Bulgaria's parliamentary election, potentially returning to power after his presidential term. Early results indicate his political party leads the national vote - a significant potential shift in the country's political landscape.\n\nThe election comes at a critical moment for Bulgaria, with voters weighing economic challenges and geopolitical uncertainties. Radev's potential return signals potential changes in the nation's domestic and international political strategy.",
+        "headline": "Japan Hit by Massive 7.5 Earthquake - Tsunami Warning Issued",
+        "body": "A powerful 7.5 magnitude earthquake struck northern Japan on Monday, triggering tsunami warnings and prompting immediate emergency responses. The quake hit offshore, causing significant geological disruption and potential coastal risks.\n\nAuthorities have begun assessing potential damage and are monitoring coastal regions for potential tsunami impacts. The earthquake's strength and location raise immediate concerns about infrastructure and public safety.",
         "sources": [
           {
-            "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+            "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+            "url": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "New Zealand declares state of emergency in Wellington as floods hit",
+            "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Pro-Russia Candidate Wins Bulgarian Election",
+        "body": "Rumen Radev's party secured victory in Bulgaria's election, signaling a potential shift towards pro-Russian political alignment. The result suggests continued geopolitical complexity in Eastern Europe's political landscape.\n\nRadev's win could have significant implications for Bulgaria's international relationships and regional diplomatic dynamics, potentially challenging existing European Union strategic interests.",
+        "sources": [
+          {
+            "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
+            "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Rumen Radev's party wins Bulgarian election",
             "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Bulgaria election: Ex-President Radev’s party leads in early results",
-            "url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tragedy Strikes Louisiana in Horrific Family Mass Shooting",
-        "body": "A devastating mass shooting in Louisiana has left eight children dead - reportedly killed by their own father. The incident has shocked local communities and reignited national conversations about gun violence and family safety.\n\nLaw enforcement is investigating the circumstances surrounding this deeply traumatic event. Details remain limited, but the scale of the tragedy has already drawn significant national attention.",
-        "sources": [
-          {
-            "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-            "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -214,60 +202,54 @@
     ],
     "ai": [
       {
-        "headline": "Tech Giants Wrestle with AI Safety and Ethical Challenges",
-        "body": "OpenAI confronts deep existential questions about artificial intelligence's trajectory. The company's internal deliberations signal growing unease about potential long-term consequences of advanced AI systems.\n\nSeparately, a new analysis reveals nuanced changes in Claude's system prompts - highlighting the ongoing refinement of language models' behavioral guidelines. These developments underscore the complex technical and philosophical challenges facing AI developers.",
+        "headline": "NSA Defies Blacklist, Deploys Anthropic's Mythos AI",
+        "body": "The National Security Agency has quietly adopted Anthropic's Mythos AI system despite previous internal restrictions - a move that signals shifting government attitudes toward advanced artificial intelligence. Sources suggest the NSA sees strategic value in the system that outweighs earlier concerns about potential risks.\n\nThis development comes amid growing tensions between tech companies and government agencies over AI deployment. The NSA's decision could set a precedent for how other federal organizations approach cutting-edge AI technologies.",
         "sources": [
+          {
+            "title": "NSA is using Anthropic's Mythos despite blacklist",
+            "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "OpenAI’s existential questions",
             "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
             "source": "TechCrunch",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Solar Power Eclipses Traditional Energy Sources Globally",
+        "body": "The International Energy Agency reports a landmark moment: solar energy has overtaken all other power sources in global generation capacity. This shift represents a dramatic acceleration of renewable energy adoption - driven by plummeting technology costs and aggressive climate policies.\n\nThe transition signals a potential turning point in the global energy landscape. Renewable infrastructure is now not just environmentally responsible but economically competitive - challenging decades of fossil fuel dominance.",
+        "sources": [
+          {
+            "title": "IEA: Solar overtakes all energy sources in a major global first",
+            "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+            "source": "Hacker News",
+            "lean": null
           },
           {
-            "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-            "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+            "title": "The Bromine Chokepoint",
+            "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Cloud Platform Vercel Hit by Major Security Breach",
-        "body": "Cloud development platform Vercel confirmed a significant cybersecurity incident after hackers claimed to have stolen sensitive data. The breach raises urgent questions about infrastructure security in an increasingly interconnected tech ecosystem.\n\nInvestigations are ongoing, with early reports suggesting potential vulnerabilities in Vercel's authentication and access management systems. Tech teams across the industry are likely reviewing their own security protocols in response.",
+        "headline": "Tech Workers Train AI Doubles - Pushing Back Against Automation",
+        "body": "Chinese tech workers are developing AI replicas of themselves - a provocative response to increasing workplace automation. These digital doppelgangers represent both a survival strategy and a form of professional resistance against potential job displacement.\n\nThe trend highlights growing worker anxiety about AI's impact on employment. By creating their own AI counterparts, workers are attempting to control and monetize technologies that might otherwise threaten their livelihoods.",
         "sources": [
           {
-            "title": "Cloud development platform Vercel was hacked",
-            "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-            "source": "The Verge",
+            "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+            "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+            "source": "MIT Tech Review",
             "lean": null
           },
           {
-            "title": "Vercel April 2026 security incident",
-            "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Innovation Spans Image Generation, Networking, and Performance",
-        "body": "Developers are pushing technological boundaries with novel projects. A new tool enables native image-to-3D generation on Apple Silicon, demonstrating continued advances in computational graphics.\n\nIn networking, researchers have developed a cache-friendly IPv6 longest prefix match algorithm using advanced vector extensions. Microsoft also introduced sudo functionality for Windows - expanding system administration capabilities across platforms.",
-        "sources": [
-          {
-            "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
-            "url": "https://github.com/esutcu/planb-lpm",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-            "url": "https://github.com/shivampkumar/trellis-mac",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Sudo for Windows",
-            "url": "https://github.com/microsoft/sudo",
+            "title": "Stop trying to engineer your way out of listening to people",
+            "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
             "source": "Hacker News",
             "lean": null
           }
@@ -276,9 +258,33 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Slips as Geopolitical Tensions Rattle Markets",
-        "body": "Bitcoin tumbled on Monday, erasing weekend price gains amid escalating tensions between the US and Iran. The cryptocurrency market proved sensitive to potential geopolitical disruptions, with BTC price action reflecting broader investor uncertainty.\n\nTraders watched closely as diplomatic efforts to maintain a fragile ceasefire showed signs of strain. The price volatility underscored Bitcoin's ongoing correlation with global risk sentiment - a dynamic that continues to challenge the narrative of digital assets as a pure safe-haven instrument.",
+        "headline": "Bitcoin ETFs Surge with Nearly $1B Weekly Inflows",
+        "body": "Spot Bitcoin ETFs have logged their strongest weekly inflow since mid-January, signaling sustained investor interest. The nearly $1 billion influx suggests growing institutional confidence in Bitcoin as an asset class. Traders and analysts are watching closely as these flows could indicate broader market sentiment and potential price movements.",
         "sources": [
+          {
+            "title": "Spot bitcoin ETFs log nearly $1 billion in weekly inflows, highest since mid-January",
+            "url": "https://www.theblock.co/post/398044/spot-bitcoin-etfs-1-billion-weekly-inflows?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Volatility Rises Amid Geopolitical Tensions",
+        "body": "Bitcoin prices tumbled as US-Iran geopolitical risks intensified, erasing recent weekend gains. The cryptocurrency market reacted sharply to potential conflict escalation - a reminder of Bitcoin's sensitivity to global political dynamics. Options markets are bracing for potential price swings, with a $7.9 billion options expiry adding to market uncertainty.",
+        "sources": [
+          {
+            "title": "Here's how bitcoin's $7.9 billion April options expiry impact prices",
+            "url": "https://www.coindesk.com/markets/2026/04/20/here-s-how-bitcoin-s-usd7-9-billion-options-expiry-impact-prices",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks",
+            "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin erases weekend gains as US-Iran ceasefire faces pressure",
             "url": "https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -288,12 +294,12 @@
         ]
       },
       {
-        "headline": "Bitcoin Halving Cycle Signals Potential Market Slowdown",
-        "body": "The current Bitcoin market cycle is dramatically underperforming compared to previous halving periods, according to leading market analysts. Expectations of explosive growth have given way to more measured predictions about BTC's price trajectory.\n\nThis cycle's subdued performance suggests a maturing market with more complex dynamics than earlier boom-and-bust patterns. Investors are recalibrating expectations, recognizing that Bitcoin's growth may now follow more nuanced economic signals.",
+        "headline": "Michael Saylor Hints at Larger Bitcoin Purchase",
+        "body": "MicroStrategy CEO Michael Saylor is signaling another potential Bitcoin acquisition days after announcing semi-monthly dividends. Saylor - a prominent Bitcoin bull - continues to demonstrate aggressive accumulation strategies that have significantly influenced market perception. His moves often spark broader investor interest and discussions about institutional Bitcoin adoption.",
         "sources": [
           {
-            "title": "2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst",
-            "url": "https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends",
+            "url": "https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -305,19 +311,19 @@
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
       "cuisine": "North African",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
+      "tip": "Use a cast iron skillet for even heat distribution and a beautiful presentation"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted 3-minute stretching sequence that realigns your spine and releases tension accumulated from prolonged sitting",
-      "tip": "Use a doorframe as a guide for shoulder blade retraction and gentle spinal extension"
+      "name": "Desk Warrior Reset",
+      "description": "Perform a targeted 5-minute mobility sequence that counteracts prolonged sitting by opening chest, releasing hip flexors, and realigning spine",
+      "tip": "Use a foam roller along your thoracic spine for instant tension release"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure",
-      "why": "This emerging field offers revolutionary insights into solving complex urban challenges by mimicking nature's elegant, efficient problem-solving strategies"
+      "description": "Exploring how cities can be redesigned by mimicking natural ecosystem principles, like self-regulation, efficiency, and adaptive resilience",
+      "why": "This emerging field offers revolutionary approaches to sustainable urban development that could fundamentally transform how we live and interact with our built environment"
     }
   }
 }
