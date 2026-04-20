@@ -1,139 +1,163 @@
 {
-  "generatedAt": "2026-04-20T10:39:20.931Z",
+  "generatedAt": "2026-04-20T22:20:27.586Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "GOP Fundraising Surge Hints at Midterm Election Momentum",
-        "body": "The National Republican Congressional Committee (NRCC) reported a record-breaking $47.1 million fundraising quarter, with $28.1 million raised in March alone. This financial boost signals growing Republican confidence heading into the midterm elections.\n\nDemocrats see challenges ahead. Recent polling suggests the Iowa governor's race is now a tossup, indicating a potentially competitive electoral landscape. Senate Republicans are also pinning hopes on potential Supreme Court developments that could energize their base.",
+        "headline": "Labor Secretary Exits Amid Misconduct Investigation",
+        "body": "Lori Chavez-DeRemer resigned from her role as Trump administration labor secretary on Monday, following an ongoing investigation into workplace misconduct. Keith Sonderling will serve as acting labor secretary while the administration conducts a transition.\n\nThe departure adds to recent tensions within the Trump cabinet, highlighting ongoing challenges with personnel management. Sources from multiple outlets suggest the resignation was prompted by internal investigations, though specific details remain unclear.",
         "sources": [
           {
-            "title": "NRCC reporting record $47.1 million quarter, record $28.1 million raised in March",
-            "url": "https://www.foxnews.com/politics/nrcc-reporting-record-471-million-quarter-record-281-million-raised-march",
+            "title": "Trump's labor secretary resigns amid investigation into misconduct",
+            "url": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Labor Secretary Lori Chavez-DeRemer exits Trump admin; Keith Sonderling named acting head",
+            "url": "https://www.foxnews.com/politics/labor-secretary-lori-chavez-deremer-exits-trump-admin-keith-sonderling-named-acting-head",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Democrats gain ground in Iowa governor’s race",
-            "url": "https://thehill.com/homenews/campaign/5837106-rob-sand-iowa-governor-race-tossup/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "As GOP interest in Bondi fizzles, Democrats push for chance to question her",
-            "url": "https://thehill.com/homenews/house/5837202-epstein-files-bondi-house-oversight/",
+            "title": "Labor Secretary Lori Chavez-DeRemer to leave administration",
+            "url": "https://thehill.com/homenews/administration/5840049-labor-secretary-lori-chavez-dememer-exit/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Justice Department Leadership Transition Sparks Uncertainty",
-        "body": "The departure of Attorney General Bondi has created significant uncertainty within the Department of Justice. Republican and Democratic lawmakers are jockeying for position - with GOP interest in Bondi reportedly fizzling while Democrats push to question her further.\n\nThe transition comes amid ongoing investigations and political tensions. Questions about presidential records and potential legal challenges continue to swirl, adding complexity to an already fraught political environment.",
+        "headline": "Iran Ceasefire Nears Deadline with Tensions Mounting",
+        "body": "US-Iran negotiations approach a critical juncture as the current ceasefire deadline looms Wednesday evening. President Trump has signaled he is highly unlikely to extend the agreement, warning that lots of bombs could start going off if no deal is reached.\n\nIran's president Pezeshkian acknowledged persistent mistrust of the US government, suggesting complex diplomatic challenges remain. Military preparedness is heightened - the Navy has already warned sailors to secure social media against potential online threats.",
         "sources": [
           {
-            "title": "As GOP interest in Bondi fizzles, Democrats push for chance to question her",
-            "url": "https://thehill.com/homenews/house/5837202-epstein-files-bondi-house-oversight/",
+            "title": "Iran seeks to wait Trump out as ceasefire deadline nears",
+            "url": "https://thehill.com/policy/defense/5840087-us-iran-ceasefire-talks/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Uncertainty reigns at DOJ in the aftermath of Bondi’s departure",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/19/justice-attorney-general-trump-blanche/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Trump ‘highly unlikely’ to extend Iran ceasefire beyond Wednesday evening",
+            "url": "https://thehill.com/homenews/administration/5839908-trump-iran-ceasefire-extension-unlikely/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Who owns presidential records? Trump's Justice Department says it's him",
-            "url": "https://www.npr.org/2026/04/20/g-s1-117887/trump-justice-department-presidential-records-lawsuit",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Trump: ‘Lots of bombs start going off’ if Iran ceasefire expires without deal",
+            "url": "https://thehill.com/homenews/administration/5839811-iran-ceasefire-trump-deadline-bombing/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump: Reported ‘pressure’ to make Iran deal ‘fake news’",
+            "url": "https://thehill.com/homenews/administration/5839694-trump-dismisses-iran-pressure/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Navy warns US sailors to secure social media from Iran online threats",
+            "url": "https://thehill.com/policy/defense/5839801-navy-warns-online-threats/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Iranian president says ‘mistrust’ of US government remains ahead of peace talks",
+            "url": "https://thehill.com/policy/international/5839641-pezeshkian-iran-us-mistrust-talks/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Voters Express Confusion Over Political Messaging and Redistricting",
-        "body": "Voter sentiment appears increasingly fractured, with multiple reports highlighting public disorientation. In Virginia, voters report feeling misled about redistricting processes, while national polls suggest confusion about issues like gas prices and political accountability.\n\nPolitical narratives are increasingly contested. A recent poll indicates most voters blame former President Trump for rising gas prices, while individual candidates continue to navigate complex local political landscapes.",
+        "headline": "House Ethics Panel Probes Sexual Misconduct Claims",
+        "body": "The House Ethics Committee has made a rare formal request for information regarding sexual misconduct allegations. This move signals potential serious internal investigations within congressional ranks.\n\nSimultaneously, other ethical challenges emerge across political spheres. Texas AG Ken Paxton has sued ActBlue - the Democratic fundraising platform - alleging fraudulent and foreign donations. These developments underscore ongoing scrutiny of institutional conduct and transparency.",
         "sources": [
           {
-            "title": "Voters say they feel confused and misled on Virginia's redistricting vote",
-            "url": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Most voters blame Trump for rising gas prices: Poll",
-            "url": "https://thehill.com/business/personal-finance/5838861-voters-poll-trump-gas/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Democrat in key race defended guns after mass shooting and insulted Kaepernick",
-            "url": "https://www.washingtonpost.com/politics/2026/04/20/bob-brooks-pennsylvania-democrat-facebook/",
+            "title": "House Ethics panel makes rare request for information on sexual misconduct",
+            "url": "https://www.washingtonpost.com/politics/2026/04/20/house-ethics-sexual-misconduct/",
             "source": "Washington Post",
             "lean": "center-left"
+          },
+          {
+            "title": "ActBlue, Democratic fundraising engine, faces lawsuit over foreign donations",
+            "url": "https://www.washingtonpost.com/politics/2026/04/20/actblue-ken-paxton-texas-lawsuit/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Texas AG Paxton sues Dem fundraising platform ActBlue, alleging 'fraudulent and foreign donations'",
+            "url": "https://www.foxnews.com/politics/texas-ag-paxton-sues-dem-fundraising-platform-actblue-alleging-fraudulent-foreign-donations",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Protest Law Clash: NSW Government Defies Court Ruling",
-        "body": "The NSW government stands firm on controversial anti-protest legislation despite the state's highest court declaring it unconstitutional. Premier Chris Minns described the law as rational and necessary, signaling potential further legal battles ahead.\n\nThe court's ruling challenges the government's approach to public demonstrations, raising significant questions about civil liberties and legislative boundaries. Minns appears determined to maintain the law's core provisions, suggesting a potential appeal or legislative amendment.",
+        "headline": "National Cabinet Meets as Fuel Crisis Grips Australia",
+        "body": "Prime Minister Anthony Albanese will convene national cabinet this week to address the ongoing fuel crisis. The meeting signals growing concern about supply chain disruptions and economic impacts affecting transportation and industry nationwide.\n\nEconomic pressures are mounting, with fuel prices continuing to rise and regional transport services experiencing significant challenges. V/Line train services have already implemented bus replacements, highlighting the crisis's practical implications for everyday Australians.",
         "sources": [
           {
-            "title": "Minns doubles down on ‘rational’ anti-protest law despite NSW’s highest court ruling it unconstitutional",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/20/minns-doubles-down-anti-protest-law-despite-nsw-highest-court-ruling-it-unconstitutional-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Tax Deduction Boost: $1,000 Instant Relief for Millions",
-        "body": "Australians will soon benefit from a new $1,000 instant tax deduction under recently passed legislation. The law aims to provide immediate financial relief for individuals and potentially stimulate economic activity.\n\nDetails of the deduction suggest it will apply broadly, offering a straightforward mechanism for taxpayers to reduce their annual tax burden. The measure represents a significant fiscal policy intervention designed to support household finances during challenging economic conditions.",
-        "sources": [
-          {
-            "title": "Millions of Australians will get a $1,000 instant tax deduction under a new law – here’s how it will work",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/20/1000-instant-tax-deduction-explained-australia-new-law",
+            "title": "Australia news live: Anthony Albanese says national cabinet to meet this week to discuss ‘long tail’ of fuel crisis",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Afternoon Update: Chalmers’ ‘severe’ economic warning; blood donation rules change; and the female gaze revolution",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/20/afternoon-update-monday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Live: PM to convene national cabinet to tackle 'long tail' fuel crisis",
+            "url": "https://www.abc.net.au/news/2026-04-21/federal-politics-live-blog-albanese-fuel-iran-budget-housing/106584310",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Fares are free but some V/Line passengers can't get to work on time",
+            "url": "https://www.abc.net.au/news/2026-04-21/vline-train-commuters-endure-bus-replacements-during-fuel-crisis/106584516",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Queensland Minister Denies Electoral Registration Impropriety",
-        "body": "Tim Mander, a Queensland minister, has strongly rejected allegations of improper voting registration practices. Mander asserted he never broke any laws amid ongoing questions about his electoral conduct.\n\nThe controversy centers on potential irregularities in voting registration processes, with Mander maintaining his actions were fully compliant with legal requirements. The situation highlights ongoing scrutiny of political administrative practices.",
+        "headline": "US and Australia Launch Major Military Training Exercise",
+        "body": "Ten thousand US troops have joined Australian forces for a large-scale military training exercise in the Philippines, marking a significant moment in regional defense cooperation. The drill underscores the strategic alliance between the United States and Australia amid increasing geopolitical tensions.\n\nThe exercise represents a robust demonstration of military preparedness and regional partnership. Both nations are signaling their commitment to collaborative defense strategies in the Asia-Pacific region.",
         "sources": [
           {
-            "title": "Qld minister says he never broke law amid questions on voting registration",
-            "url": "https://www.abc.net.au/news/2026-04-20/tim-mander-electoral-registration-voting-everton/106584676",
+            "title": "10,000 US troops join Australians for Philippines training exercise",
+            "url": "https://www.abc.net.au/news/2026-04-21/largest-us-philippines-military-drill-begins/106586002",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Morning Mail: Vance prepares for peace talks, gangs ‘rorting’ NDIS, how many bins is too many?",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/21/morning-mail-tuesday-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Seizes Iranian Ship - Tensions Rise in Middle East",
-        "body": "The US military captured an Iranian vessel - the Touska - escalating maritime tensions in an already volatile region. Marines boarded the ship amid ongoing negotiations between Washington and Tehran, with oil prices spiking in response to the incident.\n\nIran has rejected immediate talks with the US, casting doubt on mediation efforts in Pakistan. The seizure comes against the backdrop of a broader conflict, with both sides signaling reluctance to de-escalate quickly.",
+        "headline": "Tech Titan Tim Cook Steps Down from Apple",
+        "body": "Apple CEO Tim Cook announced his departure after nearly 15 years leading the tech giant. Cook, who succeeded Steve Jobs in 2011, transformed Apple into the world's most valuable company and navigated complex global tech challenges.\n\nThe leadership transition comes amid shifting dynamics in the tech industry. Speculation is mounting about potential internal and external candidates who might take the helm of the trillion-dollar technology company.",
         "sources": [
           {
-            "title": "Second round in Islamabad: Who’s at the US-Iran negotiating table?",
-            "url": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss",
+            "title": "Tim Cook to step down as Apple CEO",
+            "url": "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "US-Iran Tensions Escalate with Ship Seizure and Diplomatic Talks",
+        "body": "US-Iran relations reached a new flashpoint after President Trump claimed seizure of an Iranian vessel - causing immediate oil price spikes. The incident comes as diplomatic channels remain tense, with upcoming talks in Pakistan aimed at de-escalation.\n\nFrench President Macron urged calm, warning that diplomatic restraint is crucial. The geopolitical landscape remains volatile, with potential implications for ongoing conflicts in Ukraine and regional stability.",
+        "sources": [
           {
-            "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
-            "url": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
+            "title": "What to know about the next round of US-Iran talks in Pakistan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -144,57 +168,39 @@
             "lean": null
           },
           {
-            "title": "US releases video of forces seizing Iranian ship",
-            "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "What we know about the Iranian ship seized by the US",
+            "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran says no talks with US for now, casting doubt over Pakistan efforts",
-            "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US military releases video of marines seizing Iranian ship",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss",
+            "title": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Japan Hit by Massive 7.5 Earthquake - Tsunami Warning Issued",
-        "body": "A powerful 7.5 magnitude earthquake struck northern Japan on Monday, triggering tsunami warnings and prompting immediate emergency responses. The quake hit offshore, causing significant geological disruption and potential coastal risks.\n\nAuthorities have begun assessing potential damage and are monitoring coastal regions for potential tsunami impacts. The earthquake's strength and location raise immediate concerns about infrastructure and public safety.",
+        "headline": "EU Considers Ukraine Support and Sanctions Against Israeli Settlers",
+        "body": "The European Union is preparing significant diplomatic and financial moves - considering a major loan package for Ukraine and potential sanctions targeting Israeli settlers in occupied territories. This comes after recent political shifts, including developments in the Hungarian election.\n\nThe proposed actions signal continued European engagement in complex geopolitical challenges, balancing support for Ukraine with pressure on international actors.",
         "sources": [
           {
-            "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
-            "url": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss",
+            "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+            "url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "New Zealand declares state of emergency in Wellington as floods hit",
-            "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Pro-Russia Candidate Wins Bulgarian Election",
-        "body": "Rumen Radev's party secured victory in Bulgaria's election, signaling a potential shift towards pro-Russian political alignment. The result suggests continued geopolitical complexity in Eastern Europe's political landscape.\n\nRadev's win could have significant implications for Bulgaria's international relationships and regional diplomatic dynamics, potentially challenging existing European Union strategic interests.",
-        "sources": [
-          {
-            "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
-            "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Europol and partners trace 45 ‘forcibly transferred’ Ukrainian children",
+            "url": "https://www.aljazeera.com/news/2026/4/20/europol-and-partners-trace-45-forcibly-transferred-ukrainian-children?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Rumen Radev's party wins Bulgarian election",
-            "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Report finds Gaza needs more than $71bn in next decade for recovery",
+            "url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -202,55 +208,49 @@
     ],
     "ai": [
       {
-        "headline": "NSA Defies Blacklist, Deploys Anthropic's Mythos AI",
-        "body": "The National Security Agency has quietly adopted Anthropic's Mythos AI system despite previous internal restrictions - a move that signals shifting government attitudes toward advanced artificial intelligence. Sources suggest the NSA sees strategic value in the system that outweighs earlier concerns about potential risks.\n\nThis development comes amid growing tensions between tech companies and government agencies over AI deployment. The NSA's decision could set a precedent for how other federal organizations approach cutting-edge AI technologies.",
+        "headline": "Apple Shifts Leadership: Ternus to Replace Cook",
+        "body": "Apple is set for a major leadership transition. John Ternus will succeed Tim Cook as CEO, marking the end of Cook's 14-year tenure. The move signals a potential strategic shift for the tech giant - Ternus has been a key engineering executive responsible for product development across Apple's hardware lines.\n\nThe leadership change comes at a critical moment for Apple. The company faces increasing competition in smartphones, AI integration, and emerging tech markets. Ternus inherits a complex landscape - he'll need to drive innovation while maintaining Apple's premium brand positioning.",
         "sources": [
           {
-            "title": "NSA is using Anthropic's Mythos despite blacklist",
-            "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
-            "source": "Hacker News",
+            "title": "John Ternus will replace Tim Cook as Apple CEO",
+            "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "OpenAI’s existential questions",
-            "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+            "title": "John Ternus to become Apple CEO",
+            "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Music Floods Streaming Platforms - Fraud Concerns Grow",
+        "body": "Music streaming platform Deezer revealed a startling statistic: 44% of daily music uploads are now AI-generated. The company suggests most of these AI tracks generate fraudulent streams - a potential threat to artists and platform economics.\n\nThis trend highlights the growing tension between technological innovation and creative authenticity. Streaming services are scrambling to develop strategies that protect musician revenues while managing the flood of algorithmically produced content. The AI music revolution is reshaping how we think about artistic creation and digital distribution.",
+        "sources": [
+          {
+            "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+            "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+            "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Google Expands Gemini Across Seven New Countries",
+        "body": "Google is pushing its AI capabilities into new markets by rolling out Gemini in Chrome across seven additional countries. The expansion represents a strategic move to increase global AI adoption and compete with other large language model providers.\n\nThe deployment signals Google's aggressive approach to AI integration. By embedding Gemini directly into its widely used browser, the company aims to make advanced AI tools more accessible to everyday users. This move could significantly accelerate AI's mainstream acceptance.",
+        "sources": [
+          {
+            "title": "Google rolls out Gemini in Chrome in seven new countries",
+            "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
             "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Solar Power Eclipses Traditional Energy Sources Globally",
-        "body": "The International Energy Agency reports a landmark moment: solar energy has overtaken all other power sources in global generation capacity. This shift represents a dramatic acceleration of renewable energy adoption - driven by plummeting technology costs and aggressive climate policies.\n\nThe transition signals a potential turning point in the global energy landscape. Renewable infrastructure is now not just environmentally responsible but economically competitive - challenging decades of fossil fuel dominance.",
-        "sources": [
-          {
-            "title": "IEA: Solar overtakes all energy sources in a major global first",
-            "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "The Bromine Chokepoint",
-            "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Workers Train AI Doubles - Pushing Back Against Automation",
-        "body": "Chinese tech workers are developing AI replicas of themselves - a provocative response to increasing workplace automation. These digital doppelgangers represent both a survival strategy and a form of professional resistance against potential job displacement.\n\nThe trend highlights growing worker anxiety about AI's impact on employment. By creating their own AI counterparts, workers are attempting to control and monetize technologies that might otherwise threaten their livelihoods.",
-        "sources": [
-          {
-            "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-            "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-            "source": "MIT Tech Review",
-            "lean": null
-          },
-          {
-            "title": "Stop trying to engineer your way out of listening to people",
-            "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -258,49 +258,85 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin ETFs Surge with Nearly $1B Weekly Inflows",
-        "body": "Spot Bitcoin ETFs have logged their strongest weekly inflow since mid-January, signaling sustained investor interest. The nearly $1 billion influx suggests growing institutional confidence in Bitcoin as an asset class. Traders and analysts are watching closely as these flows could indicate broader market sentiment and potential price movements.",
+        "headline": "Bitcoin Surges Past $76K Amid Geopolitical Uncertainty",
+        "body": "Bitcoin prices rebounded above $76,000 today, driven by escalating tensions in the Middle East and volatile oil markets. Investors sought refuge in the cryptocurrency as traditional markets showed signs of instability.\n\nAnalysts point to geopolitical uncertainty as a key driver of Bitcoin's price movement. The cryptocurrency has demonstrated resilience, maintaining gains despite broader market fluctuations and potential global conflict risks.",
         "sources": [
           {
-            "title": "Spot bitcoin ETFs log nearly $1 billion in weekly inflows, highest since mid-January",
-            "url": "https://www.theblock.co/post/398044/spot-bitcoin-etfs-1-billion-weekly-inflows?utm_source=rss&amp;utm_medium=rss",
+            "title": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops",
+            "url": "https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin holds ‘fragile equilibrium’ near $75K as ETF demand cushions crypto market despite Hormuz tensions: analysts",
+            "url": "https://www.theblock.co/post/398082/bitcoin-holds-fragile-equilibrium-near-75k-as-etf-demand-cushions-crypto-market-despite-hormuz-tensions-analysts?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Volatility Rises Amid Geopolitical Tensions",
-        "body": "Bitcoin prices tumbled as US-Iran geopolitical risks intensified, erasing recent weekend gains. The cryptocurrency market reacted sharply to potential conflict escalation - a reminder of Bitcoin's sensitivity to global political dynamics. Options markets are bracing for potential price swings, with a $7.9 billion options expiry adding to market uncertainty.",
+        "headline": "Strategy Buys $2.5B Bitcoin - Largest Corporate Purchase in 2026",
+        "body": "Michael Saylor's Strategy has made its largest Bitcoin purchase to date - acquiring 34,164 BTC for $2.54 billion. The move pushes the company's total Bitcoin holdings over 800,000 coins, solidifying its position as a major corporate Bitcoin investor.\n\nThe purchase signals continued confidence in Bitcoin as a strategic asset. Strategy has consistently expanded its Bitcoin treasury, becoming a bellwether for corporate cryptocurrency investment strategies.",
         "sources": [
           {
-            "title": "Here's how bitcoin's $7.9 billion April options expiry impact prices",
-            "url": "https://www.coindesk.com/markets/2026/04/20/here-s-how-bitcoin-s-usd7-9-billion-options-expiry-impact-prices",
-            "source": "CoinDesk",
+            "title": "Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings",
+            "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks",
-            "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin erases weekend gains as US-Iran ceasefire faces pressure",
-            "url": "https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC",
+            "url": "https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record",
+            "url": "https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "‘Think even bigger’: Michael Saylor’s Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC",
+            "url": "https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Michael Saylor Hints at Larger Bitcoin Purchase",
-        "body": "MicroStrategy CEO Michael Saylor is signaling another potential Bitcoin acquisition days after announcing semi-monthly dividends. Saylor - a prominent Bitcoin bull - continues to demonstrate aggressive accumulation strategies that have significantly influenced market perception. His moves often spark broader investor interest and discussions about institutional Bitcoin adoption.",
+        "headline": "Bitcoin ETFs See $1B Inflows as US Crypto Adoption Rebounds",
+        "body": "Spot Bitcoin ETFs attracted over $1 billion in inflows last week, signaling strong institutional interest. Deutsche Bank reports a resurgence in US crypto adoption, with Bitcoin maintaining its dominant market position.\n\nThe influx of capital suggests growing mainstream acceptance of Bitcoin as an investment vehicle. Institutional investors continue to view the cryptocurrency as a potential hedge against economic uncertainty.",
         "sources": [
           {
-            "title": "Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends",
-            "url": "https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says",
+            "url": "https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Spot Bitcoin ETFs Cross $1B Last Week in Inflows as Cumulative Flows Approach Record High",
+            "url": "https://bitcoinmagazine.com/news/spot-bitcoin-etfs-cross-1b",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters",
+            "url": "https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Global crypto funds see $1.4 billion in weekly inflows as bitcoin rebound boosts risk appetite: CoinShares",
+            "url": "https://www.theblock.co/post/398062/global-crypto-funds-see-1-4-billion-in-weekly-inflows-as-bitcoin-rebound-boosts-risk-appetite-coinshares?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -310,20 +346,20 @@
   "suggestions": {
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African",
+      "cuisine": "North African Fusion",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use a cast iron skillet for even heat distribution and a beautiful presentation"
+      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Warrior Reset",
-      "description": "Perform a targeted 5-minute mobility sequence that counteracts prolonged sitting by opening chest, releasing hip flexors, and realigning spine",
-      "tip": "Use a foam roller along your thoracic spine for instant tension release"
+      "name": "Dynamic Desk Decompression",
+      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching every 25 minutes to reset spinal alignment",
+      "tip": "Set a subtle phone alarm to trigger your posture reset sequence"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can be redesigned by mimicking natural ecosystem principles, like self-regulation, efficiency, and adaptive resilience",
-      "why": "This emerging field offers revolutionary approaches to sustainable urban development that could fundamentally transform how we live and interact with our built environment"
+      "description": "Exploring how natural ecosystems can inspire more sustainable and adaptive city infrastructure, from water management to building materials",
+      "why": "This emerging field offers revolutionary solutions to urban challenges by studying how nature has already solved complex environmental problems over millions of years"
     }
   }
 }
