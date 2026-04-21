@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T05:03:28.836Z",
+  "updatedAt": "2026-04-21T10:34:33.426Z",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -21,9 +21,9 @@
       "symbol": "TSLA",
       "name": "Tesla",
       "price": 392.5,
-      "change": -8.120000000000005,
-      "changePct": -2.026858369527234,
-      "prevClose": 400.62
+      "change": 392.5,
+      "changePct": null,
+      "prevClose": 0
     },
     {
       "symbol": "GOOGL",
@@ -67,7 +67,7 @@
     }
   ],
   "stockFearGreed": {
-    "value": 70,
+    "value": 71,
     "rating": "Greed",
     "previousClose": 70
   },
