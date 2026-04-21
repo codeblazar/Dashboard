@@ -1,17 +1,95 @@
 {
-  "generatedAt": "2026-04-20T22:20:27.586Z",
+  "generatedAt": "2026-04-21T05:04:16.989Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Labor Secretary Exits Amid Misconduct Investigation",
-        "body": "Lori Chavez-DeRemer resigned from her role as Trump administration labor secretary on Monday, following an ongoing investigation into workplace misconduct. Keith Sonderling will serve as acting labor secretary while the administration conducts a transition.\n\nThe departure adds to recent tensions within the Trump cabinet, highlighting ongoing challenges with personnel management. Sources from multiple outlets suggest the resignation was prompted by internal investigations, though specific details remain unclear.",
+        "headline": "Virginia Redistricting Battle Heats Up with Trump's Last-Minute Intervention",
+        "body": "Virginia faces a critical ballot measure on redistricting that could dramatically reshape the state's political landscape. Republicans warn the proposed amendment could swing the state's congressional delegation to a 10-1 Democratic advantage - a potentially seismic shift in representation.\n\nFormer President Trump intervened personally, holding a telerally to oppose the measure. Meanwhile, reports suggest Soros-linked networks are fueling the push for redistricting, adding another layer of controversy to an already charged political moment.",
+        "sources": [
+          {
+            "title": "Here are the results for Virginia's 2026 redistricting ballot measure",
+            "url": "https://www.npr.org/2026/04/21/g-s1-118123/virginia-special-election-redistricting-results-2026",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump makes last-minute pitch against Virginia redistricting ballot measure in telerally call",
+            "url": "https://thehill.com/homenews/campaign/5840335-trump-virginia-redistricting-referendum-rally/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Soros-linked dark money network fuels Virginia redistricting push backed by national Democrats",
+            "url": "https://www.foxnews.com/politics/soros-linked-dark-money-network-fuels-virginia-redistricting-push-backed-national-democrats",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "GOP blasts Virginia amendment as maps could swing delegation to 10-1 Democratic advantage",
+            "url": "https://www.foxnews.com/politics/gop-blasts-virginia-amendment-maps-could-swing-delegation-10-1-democratic-advantage",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Iran Tensions Escalate as Ceasefire Deadline Approaches",
+        "body": "US-Iran relations remain fraught as the ceasefire deadline nears. Iranian parliament speakers suggest they are prepared to reveal new strategic options if negotiations break down. A distress call has emerged documenting an incident where Iranian forces reportedly fired on a commercial tanker.\n\nVeterans staged a protest at the US Capitol against potential military escalation. Meanwhile, Trump's statements on Iran have drawn criticism for appearing contradictory, potentially complicating diplomatic efforts.",
+        "sources": [
+          {
+            "title": "Distress call captures tanker crew coming under Iranian fire",
+            "url": "https://thehill.com/policy/international/5840360-tanker-distress-iranian-forces/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Dozens of veterans arrested at Capitol during protest against Iran war",
+            "url": "https://thehill.com/policy/defense/5840253-protesters-occupy-capitol-building/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Iran ‘prepared to reveal new cards on the battlefield’ if ceasefire ends: Parliament speaker",
+            "url": "https://thehill.com/policy/international/5840215-iran-us-negotiations-resume/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump’s statements on Iran increasingly contradict each other",
+            "url": "https://www.washingtonpost.com/politics/2026/04/20/trump-iran-contradictory-statements/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Iran’s waiting game",
+            "url": "https://thehill.com/newsletters/defense-national-security/5840203-irans-waiting-game/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Iran seeks to wait Trump out as ceasefire deadline nears",
+            "url": "https://thehill.com/policy/defense/5840087-us-iran-ceasefire-talks/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Labor Secretary Exits amid Misconduct Investigation",
+        "body": "Labor Secretary Lori Chavez-DeRemer will leave the Trump administration following an ongoing misconduct investigation. Keith Sonderling has been named acting head of the department.\n\nThe departure adds to ongoing ethical scrutiny within the administration. House Ethics Committee has also made a rare request for information regarding sexual misconduct allegations, signaling increased institutional oversight.",
         "sources": [
           {
             "title": "Trump's labor secretary resigns amid investigation into misconduct",
             "url": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
             "source": "NPR",
             "lean": "left"
+          },
+          {
+            "title": "House Ethics panel makes rare request for information on sexual misconduct",
+            "url": "https://www.washingtonpost.com/politics/2026/04/20/house-ethics-sexual-misconduct/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
             "title": "Labor Secretary Lori Chavez-DeRemer exits Trump admin; Keith Sonderling named acting head",
@@ -26,135 +104,81 @@
             "lean": "center"
           }
         ]
-      },
-      {
-        "headline": "Iran Ceasefire Nears Deadline with Tensions Mounting",
-        "body": "US-Iran negotiations approach a critical juncture as the current ceasefire deadline looms Wednesday evening. President Trump has signaled he is highly unlikely to extend the agreement, warning that lots of bombs could start going off if no deal is reached.\n\nIran's president Pezeshkian acknowledged persistent mistrust of the US government, suggesting complex diplomatic challenges remain. Military preparedness is heightened - the Navy has already warned sailors to secure social media against potential online threats.",
-        "sources": [
-          {
-            "title": "Iran seeks to wait Trump out as ceasefire deadline nears",
-            "url": "https://thehill.com/policy/defense/5840087-us-iran-ceasefire-talks/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump ‘highly unlikely’ to extend Iran ceasefire beyond Wednesday evening",
-            "url": "https://thehill.com/homenews/administration/5839908-trump-iran-ceasefire-extension-unlikely/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump: ‘Lots of bombs start going off’ if Iran ceasefire expires without deal",
-            "url": "https://thehill.com/homenews/administration/5839811-iran-ceasefire-trump-deadline-bombing/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump: Reported ‘pressure’ to make Iran deal ‘fake news’",
-            "url": "https://thehill.com/homenews/administration/5839694-trump-dismisses-iran-pressure/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Navy warns US sailors to secure social media from Iran online threats",
-            "url": "https://thehill.com/policy/defense/5839801-navy-warns-online-threats/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Iranian president says ‘mistrust’ of US government remains ahead of peace talks",
-            "url": "https://thehill.com/policy/international/5839641-pezeshkian-iran-us-mistrust-talks/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "House Ethics Panel Probes Sexual Misconduct Claims",
-        "body": "The House Ethics Committee has made a rare formal request for information regarding sexual misconduct allegations. This move signals potential serious internal investigations within congressional ranks.\n\nSimultaneously, other ethical challenges emerge across political spheres. Texas AG Ken Paxton has sued ActBlue - the Democratic fundraising platform - alleging fraudulent and foreign donations. These developments underscore ongoing scrutiny of institutional conduct and transparency.",
-        "sources": [
-          {
-            "title": "House Ethics panel makes rare request for information on sexual misconduct",
-            "url": "https://www.washingtonpost.com/politics/2026/04/20/house-ethics-sexual-misconduct/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "ActBlue, Democratic fundraising engine, faces lawsuit over foreign donations",
-            "url": "https://www.washingtonpost.com/politics/2026/04/20/actblue-ken-paxton-texas-lawsuit/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Texas AG Paxton sues Dem fundraising platform ActBlue, alleging 'fraudulent and foreign donations'",
-            "url": "https://www.foxnews.com/politics/texas-ag-paxton-sues-dem-fundraising-platform-actblue-alleging-fraudulent-foreign-donations",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "National Cabinet Meets as Fuel Crisis Grips Australia",
-        "body": "Prime Minister Anthony Albanese will convene national cabinet this week to address the ongoing fuel crisis. The meeting signals growing concern about supply chain disruptions and economic impacts affecting transportation and industry nationwide.\n\nEconomic pressures are mounting, with fuel prices continuing to rise and regional transport services experiencing significant challenges. V/Line train services have already implemented bus replacements, highlighting the crisis's practical implications for everyday Australians.",
+        "headline": "Gas Export Tax Debate Heats Up Amid Power Price Tensions",
+        "body": "Federal MPs are locked in a heated dispute over a proposed gas export tax, with competing claims about its potential impact on household energy costs. Proponents argue the tax would lower power prices, while critics warn it could damage Australia's energy export sector.\n\nThe inquiry has drawn sharp reactions from industry and political stakeholders. Some groups claim the tax would unfairly penalize gas producers, while others see it as a necessary mechanism to redirect resources toward domestic energy affordability.",
         "sources": [
           {
-            "title": "Australia news live: Anthony Albanese says national cabinet to meet this week to discuss ‘long tail’ of fuel crisis",
+            "title": "Australia news live: MPs told gas export tax would mean cheaper power for households; ‘large’ crocodile attacks man in WA",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: PM to convene national cabinet to tackle 'long tail' fuel crisis",
-            "url": "https://www.abc.net.au/news/2026-04-21/federal-politics-live-blog-albanese-fuel-iran-budget-housing/106584310",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "'We've been sold out': Punters Politics fronts inquiry into gas export tax – video",
+            "url": "https://www.theguardian.com/environment/video/2026/apr/21/punters-politics-fronts-inquiry-into-gas-export-tax-video",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Fares are free but some V/Line passengers can't get to work on time",
-            "url": "https://www.abc.net.au/news/2026-04-21/vline-train-commuters-endure-bus-replacements-during-fuel-crisis/106584516",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Who’s really putting the heat on the budget bottom line? | Fiona Katauskas",
+            "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/21/whos-really-putting-the-heat-on-the-budget-bottom-line",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "US and Australia Launch Major Military Training Exercise",
-        "body": "Ten thousand US troops have joined Australian forces for a large-scale military training exercise in the Philippines, marking a significant moment in regional defense cooperation. The drill underscores the strategic alliance between the United States and Australia amid increasing geopolitical tensions.\n\nThe exercise represents a robust demonstration of military preparedness and regional partnership. Both nations are signaling their commitment to collaborative defense strategies in the Asia-Pacific region.",
+        "headline": "Homelessness Crisis Escalates with Local Government Intervention",
+        "body": "Gold Coast council has announced plans to patrol homeless hotspots, sparking debate about urban management and social support strategies. The move comes amid growing tensions between local authorities and community support services.\n\nThe controversial approach highlights broader national challenges around homelessness, with personal stories like that of Sydney's Bikram Lama - a well-known local figure - underscoring the human impact of these systemic issues. Advocates argue that policing is not a solution to complex social problems.",
         "sources": [
           {
-            "title": "10,000 US troops join Australians for Philippines training exercise",
-            "url": "https://www.abc.net.au/news/2026-04-21/largest-us-philippines-military-drill-begins/106586002",
+            "title": "Gold Coast council to patrol homeless hotspots amid rift with support services",
+            "url": "https://www.abc.net.au/news/2026-04-21/gold-coast-council-to-patrol-homeless-hotspots/106577578",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Morning Mail: Vance prepares for peace talks, gangs ‘rorting’ NDIS, how many bins is too many?",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/21/morning-mail-tuesday-ntwnfb",
+            "title": "The death of Bikram Lama – Sydney’s ‘birdman’ of St James tunnel – has shaken me. What is happening to our city? | Brigid Delaney",
+            "url": "https://www.theguardian.com/commentisfree/2026/apr/21/death-bikram-lama-homeless-man-sydney-st-james-tunnel-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Pressure on Department of Justice after second woman dies at Perth prison",
+            "url": "https://www.abc.net.au/news/2026-04-21/another-aboriginal-woman-dies-in-bandyup-womens-prison/106585568",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Tech Titan Tim Cook Steps Down from Apple",
-        "body": "Apple CEO Tim Cook announced his departure after nearly 15 years leading the tech giant. Cook, who succeeded Steve Jobs in 2011, transformed Apple into the world's most valuable company and navigated complex global tech challenges.\n\nThe leadership transition comes amid shifting dynamics in the tech industry. Speculation is mounting about potential internal and external candidates who might take the helm of the trillion-dollar technology company.",
+        "headline": "US-Iran Tensions Escalate as War Continues",
+        "body": "The ongoing conflict between the United States and Iran shows no signs of resolution. President Trump remains adamant about maintaining the Hormuz blockade, rejecting diplomatic overtures from Tehran. US officials claim progress is slow - the war effort has fallen short of initial expectations.\n\nTalks scheduled in Pakistan offer a slim hope for negotiation. But with Trump's hardline stance and Iran's resistance to perceived threats, a peaceful solution appears distant. Oil markets have already responded - prices spiked after reports of a seized Iranian ship.",
         "sources": [
           {
-            "title": "Tim Cook to step down as Apple CEO",
-            "url": "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss",
+            "title": "US is ‘pretty far behind where they started’ the war on Iran",
+            "url": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US-Iran Tensions Escalate with Ship Seizure and Diplomatic Talks",
-        "body": "US-Iran relations reached a new flashpoint after President Trump claimed seizure of an Iranian vessel - causing immediate oil price spikes. The incident comes as diplomatic channels remain tense, with upcoming talks in Pakistan aimed at de-escalation.\n\nFrench President Macron urged calm, warning that diplomatic restraint is crucial. The geopolitical landscape remains volatile, with potential implications for ongoing conflicts in Ukraine and regional stability.",
-        "sources": [
+          },
+          {
+            "title": "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+            "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "What to know about the next round of US-Iran talks in Pakistan",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss",
@@ -166,40 +190,70 @@
             "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Corruption and Turnover Mark Trump Administration's Final Days",
+        "body": "The Trump administration continues to unravel as key officials exit amid mounting controversies. Labor Secretary Lori Chavez-DeRemer became the latest high-profile departure, adding to the administration's instability. Simultaneously, human rights organizations have launched scathing critiques - Amnesty International branded Trump and other world leaders as human rights 'predators'.\n\nThe administration faces multiple challenges, from ongoing international conflicts to internal personnel shifts. FBI Director Kash Patel has also entered the fray - suing The Atlantic over reporting about his personal conduct.",
+        "sources": [
           {
-            "title": "What we know about the Iranian ship seized by the US",
-            "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration",
+            "url": "https://www.aljazeera.com/news/2026/4/21/trumps-labor-secretary-lori-chavez-deremer-latest-to-leave-administration?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss",
+            "title": "‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline",
+            "url": "https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "FBI Director Kash Patel sues Atlantic for ‘false’ reporting on drinking",
+            "url": "https://www.aljazeera.com/news/2026/4/20/fbi-director-kash-patel-sues-atlantic-for-false-reporting-on-drinking?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump boasts on ‘winning war’ on social media posts",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/trump-boasts-on-winning-war-on-social-media-posts?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "EU Considers Ukraine Support and Sanctions Against Israeli Settlers",
-        "body": "The European Union is preparing significant diplomatic and financial moves - considering a major loan package for Ukraine and potential sanctions targeting Israeli settlers in occupied territories. This comes after recent political shifts, including developments in the Hungarian election.\n\nThe proposed actions signal continued European engagement in complex geopolitical challenges, balancing support for Ukraine with pressure on international actors.",
+        "headline": "Global Tensions Simmer: From Israel to Cuba",
+        "body": "International diplomatic tensions continue to bubble across multiple fronts. Hungary's incoming leadership threatened to arrest Israeli Prime Minister Netanyahu if he visits, escalating tensions over recent incidents including an Israeli soldier's controversial destruction of a Jesus statue in Lebanon.\n\nCuba has confirmed talks with US officials, seeking an end to energy blockades. The European Union is meanwhile considering potential sanctions against Israeli settlers and contemplating a new loan package for Ukraine. These diplomatic maneuvers reflect a complex global landscape of shifting alliances and confrontations.",
         "sources": [
+          {
+            "title": "Cuba confirms talks with US officials, wants end to Trump’s energy blockade",
+            "url": "https://www.aljazeera.com/news/2026/4/21/cuba-confirms-meeting-with-us-official-wants-end-to-trumps-energy-blockade?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-fallout-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/4/20/outcry-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
             "url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Europol and partners trace 45 ‘forcibly transferred’ Ukrainian children",
-            "url": "https://www.aljazeera.com/news/2026/4/20/europol-and-partners-trace-45-forcibly-transferred-ukrainian-children?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Report finds Gaza needs more than $71bn in next decade for recovery",
-            "url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -208,27 +262,51 @@
     ],
     "ai": [
       {
-        "headline": "Apple Shifts Leadership: Ternus to Replace Cook",
-        "body": "Apple is set for a major leadership transition. John Ternus will succeed Tim Cook as CEO, marking the end of Cook's 14-year tenure. The move signals a potential strategic shift for the tech giant - Ternus has been a key engineering executive responsible for product development across Apple's hardware lines.\n\nThe leadership change comes at a critical moment for Apple. The company faces increasing competition in smartphones, AI integration, and emerging tech markets. Ternus inherits a complex landscape - he'll need to drive innovation while maintaining Apple's premium brand positioning.",
+        "headline": "Amazon Bets Big on Anthropic with $5B Investment",
+        "body": "Tech giant Amazon has committed $5 billion to AI startup Anthropic, with a strategic twist - Anthropic will return the favor by pledging $100 billion in cloud spending. The massive investment signals Amazon's aggressive push to compete in the AI infrastructure race.\n\nThe deal comes as cloud providers battle for supremacy in AI computing. Anthropic, known for its Claude AI model, gains significant financial runway while Amazon secures a key AI partner in an increasingly competitive landscape.",
         "sources": [
           {
-            "title": "John Ternus will replace Tim Cook as Apple CEO",
-            "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
-            "source": "Ars Technica",
+            "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+            "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "John Ternus to become Apple CEO",
-            "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-            "source": "Hacker News",
+            "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+            "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+            "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Music Floods Streaming Platforms - Fraud Concerns Grow",
-        "body": "Music streaming platform Deezer revealed a startling statistic: 44% of daily music uploads are now AI-generated. The company suggests most of these AI tracks generate fraudulent streams - a potential threat to artists and platform economics.\n\nThis trend highlights the growing tension between technological innovation and creative authenticity. Streaming services are scrambling to develop strategies that protect musician revenues while managing the flood of algorithmically produced content. The AI music revolution is reshaping how we think about artistic creation and digital distribution.",
+        "headline": "AI and Automation Reach New Milestones in Performance",
+        "body": "A humanoid robot set a half-marathon record in China, showcasing rapid advances in robotic mobility and endurance. The achievement highlights the growing capabilities of AI-powered machines in physical performance domains.\n\nIn the digital realm, Google expanded its Gemini AI into Chrome for seven new countries, while Deezer reported that 44% of new music uploads are now AI-generated. These developments underscore AI's expanding reach across creative and physical domains.",
         "sources": [
+          {
+            "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+            "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Google rolls out Gemini in Chrome in 7 new countries",
+            "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Robot runner handily beats humans in half-marathon, setting new record",
+            "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+            "source": "Ars Technica",
+            "lean": null
+          },
           {
             "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
             "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
@@ -236,21 +314,9 @@
             "lean": null
           },
           {
-            "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-            "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Google Expands Gemini Across Seven New Countries",
-        "body": "Google is pushing its AI capabilities into new markets by rolling out Gemini in Chrome across seven additional countries. The expansion represents a strategic move to increase global AI adoption and compete with other large language model providers.\n\nThe deployment signals Google's aggressive approach to AI integration. By embedding Gemini directly into its widely used browser, the company aims to make advanced AI tools more accessible to everyday users. This move could significantly accelerate AI's mainstream acceptance.",
-        "sources": [
-          {
-            "title": "Google rolls out Gemini in Chrome in seven new countries",
-            "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-            "source": "TechCrunch",
+            "title": "Fortnite developers can make AI characters now — just don’t try to date them",
+            "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+            "source": "The Verge",
             "lean": null
           }
         ]
@@ -258,9 +324,15 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $76K Amid Geopolitical Uncertainty",
-        "body": "Bitcoin prices rebounded above $76,000 today, driven by escalating tensions in the Middle East and volatile oil markets. Investors sought refuge in the cryptocurrency as traditional markets showed signs of instability.\n\nAnalysts point to geopolitical uncertainty as a key driver of Bitcoin's price movement. The cryptocurrency has demonstrated resilience, maintaining gains despite broader market fluctuations and potential global conflict risks.",
+        "headline": "Bitcoin Surges Past $76,000 Amid Global Market Uncertainty",
+        "body": "Bitcoin prices rebounded above $76,000 on Tuesday, driven by geopolitical tensions and market volatility. Investors are closely watching Iran-related oil market fluctuations and broader economic indicators that could impact cryptocurrency valuations.\n\nThe cryptocurrency's resilience comes despite recent market turbulence, with traders interpreting the price movement as a potential sign of Bitcoin's continued role as a hedge against global economic uncertainty.",
         "sources": [
+          {
+            "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
+            "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty",
             "url": "https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty",
@@ -268,75 +340,39 @@
             "lean": null
           },
           {
-            "title": "Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops",
-            "url": "https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA",
+            "url": "https://cointelegraph.com/news/price-predictions-4-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin holds ‘fragile equilibrium’ near $75K as ETF demand cushions crypto market despite Hormuz tensions: analysts",
-            "url": "https://www.theblock.co/post/398082/bitcoin-holds-fragile-equilibrium-near-75k-as-etf-demand-cushions-crypto-market-despite-hormuz-tensions-analysts?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Strategy Buys $2.5B Bitcoin - Largest Corporate Purchase in 2026",
-        "body": "Michael Saylor's Strategy has made its largest Bitcoin purchase to date - acquiring 34,164 BTC for $2.54 billion. The move pushes the company's total Bitcoin holdings over 800,000 coins, solidifying its position as a major corporate Bitcoin investor.\n\nThe purchase signals continued confidence in Bitcoin as a strategic asset. Strategy has consistently expanded its Bitcoin treasury, becoming a bellwether for corporate cryptocurrency investment strategies.",
+        "headline": "Industrial Giants Pivot Toward Bitcoin Mining Infrastructure",
+        "body": "Major industrial players are making strategic moves into Bitcoin mining infrastructure. Alcoa is reportedly nearing a sale of an idle New York smelter to NYDIG for Bitcoin mining operations - a significant shift for the traditional aluminum producer.\n\nIn another development, Tether has acquired an 8.2% stake in Antalpha, a Bitcoin mining finance platform. These moves signal growing corporate interest in Bitcoin's underlying economic and technological ecosystem.",
         "sources": [
           {
-            "title": "Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings",
-            "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin",
+            "title": "Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use",
+            "url": "https://bitcoinmagazine.com/news/alcoa-nears-sale-of-idle-new-york",
             "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC",
-            "url": "https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha",
+            "url": "https://cointelegraph.com/news/tether-takes-8-2-stake-in-antalpha-backing-bitcoin-mining-finance-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record",
-            "url": "https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "‘Think even bigger’: Michael Saylor’s Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC",
-            "url": "https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin ETFs See $1B Inflows as US Crypto Adoption Rebounds",
-        "body": "Spot Bitcoin ETFs attracted over $1 billion in inflows last week, signaling strong institutional interest. Deutsche Bank reports a resurgence in US crypto adoption, with Bitcoin maintaining its dominant market position.\n\nThe influx of capital suggests growing mainstream acceptance of Bitcoin as an investment vehicle. Institutional investors continue to view the cryptocurrency as a potential hedge against economic uncertainty.",
+        "headline": "US Military Taps Bitcoin Strategic Expert for Key Role",
+        "body": "Jason Lowery has been appointed Special Assistant to the U.S. Indo-Pacific Command Commander, bringing specialized Bitcoin strategic expertise to a critical military leadership position. The appointment suggests increasing recognition of cryptocurrency's potential strategic implications.\n\nLowery's background in Bitcoin strategy could signal a broader military interest in understanding digital asset technologies and their geopolitical significance.",
         "sources": [
           {
-            "title": "U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says",
-            "url": "https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Spot Bitcoin ETFs Cross $1B Last Week in Inflows as Cumulative Flows Approach Record High",
-            "url": "https://bitcoinmagazine.com/news/spot-bitcoin-etfs-cross-1b",
+            "title": "Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise",
+            "url": "https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise",
             "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters",
-            "url": "https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Global crypto funds see $1.4 billion in weekly inflows as bitcoin rebound boosts risk appetite: CoinShares",
-            "url": "https://www.theblock.co/post/398062/global-crypto-funds-see-1-4-billion-in-weekly-inflows-as-bitcoin-rebound-boosts-risk-appetite-coinshares?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -345,21 +381,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
+      "name": "Moroccan Spiced Lamb Tagine with Preserved Lemon",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with aromatic spices, tender vegetables, and bright preserved lemon notes",
+      "tip": "Toast whole spices before grinding to intensify their flavor profile"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching every 25 minutes to reset spinal alignment",
-      "tip": "Set a subtle phone alarm to trigger your posture reset sequence"
+      "name": "Dynamic Desk Alignment Protocol",
+      "description": "Implement micro-movements and strategic stretching to counteract sedentary muscle tension and spinal compression",
+      "tip": "Set a hourly timer to do 90-second standing spine waves and shoulder blade retractions"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystems can inspire more sustainable and adaptive city infrastructure, from water management to building materials",
-      "why": "This emerging field offers revolutionary solutions to urban challenges by studying how nature has already solved complex environmental problems over millions of years"
+      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure and sustainable architecture",
+      "why": "Reveals ingenious solutions to complex urban challenges by studying nature's 3.8 billion years of evolutionary problem-solving"
     }
   }
 }
