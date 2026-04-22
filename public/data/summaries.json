@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-04-22T05:02:50.476Z",
+  "generatedAt": "2026-04-22T10:35:06.628Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Virginia Redistricting Vote Shifts House Race Landscape",
-        "body": "Virginia voters approved a Democratic-backed redistricting plan that could significantly reshape the congressional map. The measure passed Tuesday, potentially giving Democrats a crucial advantage in their bid to retake the House of Representatives.\n\nRepublicans view the redistricting as a partisan maneuver, while Democrats argue it corrects long-standing gerrymandering. The outcome could add several competitive districts that lean Democratic, challenging the current Republican majority.",
+        "headline": "Virginia Redistricting Vote Reshapes National Political Landscape",
+        "body": "Virginia voters approved a Democratic-led redistricting measure that could significantly impact the national congressional map. The vote gives Democrats a potential boost in their fight to retake the House of Representatives, challenging Republican redistricting efforts.\n\nBoth parties view the referendum as a critical test of electoral strategy. Republicans argue the map unfairly disadvantages their candidates, while Democrats see it as a necessary correction to gerrymandering. The outcome could influence future electoral strategies in swing states.",
         "sources": [
+          {
+            "title": "Takeaways from Virginia’s vote to boost Democrats in national redistricting war",
+            "url": "https://www.washingtonpost.com/politics/2026/04/22/redistricting-virginia-house-trump-democrats/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "With Virginia vote, Democrats gain edge over Trump's national GOP redistricting push",
+            "url": "https://www.npr.org/2026/04/22/nx-s1-5787989/redistricting-map-trump-midterms-congress",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Virginians approve a Democrat-led redistricting effort. What happened and what's next",
+            "url": "https://www.npr.org/2026/04/22/nx-s1-5793896/virginians-approve-a-democrat-led-redistricting-effort-what-happened-and-whats-next",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Democrats boost midterm edge with Virginia redistricting win: 5 takeaways",
             "url": "https://thehill.com/homenews/campaign/5842396-virginia-redistricting-democrats-win-takeaways/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Democrats win Virginia redistricting fight, threatening Republican House majority",
-            "url": "https://www.foxnews.com/politics/democrats-win-virginia-redistricting-fight-threating-republican-house-majority",
-            "source": "Fox News",
-            "lean": "right"
           },
           {
             "title": "Virginia passes redistricting measure that could help Democrats retake the House",
@@ -30,176 +42,188 @@
             "url": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Virginia voters approve redistricting measure backed by Democrats",
-            "url": "https://thehill.com/homenews/campaign/5839446-virginia-democrats-redistricting-plan-approved/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "DOJ Charges Southern Poverty Law Center in Fraud Probe",
-        "body": "The Justice Department has indicted the Southern Poverty Law Center on federal fraud charges, alleging misuse of funds and improper handling of paid informants. The civil rights organization strongly denies the accusations.\n\nRight-leaning sources suggest the charges reveal systemic misconduct, while left-leaning outlets emphasize the SPLC's historical role in tracking extremist groups. The case highlights ongoing tensions around civil rights monitoring and federal oversight.",
+        "headline": "Trump Faces Complex Iran Negotiations at White House",
+        "body": "President Trump confronts challenging diplomatic terrain with Iran, echoing similar dilemmas faced during the Obama administration. The administration must navigate delicate negotiations around nuclear agreements and regional tensions.\n\nTrump previously criticized Obama's Iran deal but now faces comparable strategic challenges. Diplomatic sources suggest the president is weighing multiple approaches - from sanctions to potential dialogue. The Strait of Hormuz remains a critical flashpoint in these ongoing negotiations.",
         "sources": [
           {
-            "title": "DOJ charges Southern Poverty Law Center over paid informants",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/21/splc-southern-poverty-justice-department-investigation/",
+            "title": "The Memo: Can Trump realistically better Obama’s Iran deal?",
+            "url": "https://thehill.com/homenews/administration/5842104-iran-trump-nuclear-deal-jcpoa/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump blasted Obama’s Iran deal. Now he faces similar tradeoffs.",
+            "url": "https://www.washingtonpost.com/politics/2026/04/22/trump-iran-negotiations-obama/",
             "source": "Washington Post",
             "lean": "center-left"
           },
-          {
-            "title": "DOJ charges Southern Poverty Law Center with fraud amid denials from civil rights group",
-            "url": "https://thehill.com/homenews/administration/5842266-justice-department-splc-indictment/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Southern Poverty Law Center indicted on federal fraud charges",
-            "url": "https://www.npr.org/2026/04/21/g-s1-118275/southern-poverty-law-center-fraud-charges-paid-informants",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "DOJ says Southern Poverty Law Center funneled $3M+ to white supremacist and extremist groups like the KKK",
-            "url": "https://www.foxnews.com/politics/doj-says-southern-poverty-law-center-funneled-3m-white-supremacist-extremist-groups-like-kkk",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Comments on Iran Tensions and International Diplomacy",
-        "body": "Former President Trump commented on ongoing tensions in the Strait of Hormuz, suggesting Iran is maintaining a blockade to save face. His remarks come amid continued diplomatic and military negotiations in the region.\n\nTrump also weighed in on UK politics, commenting on Labour leader Keir Starmer's recent diplomatic appointment. These interventions underscore his continued engagement with international political discourse despite no longer holding office.",
-        "sources": [
           {
             "title": "Trump says Iran keeping Strait of Hormuz closed to ‘save face’",
             "url": "https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/",
             "source": "The Hill",
             "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "AI Regulation Takes Center Stage in Congressional Debate",
+        "body": "Lawmakers are preparing aggressive legislative approaches to regulate artificial intelligence technologies. Representative Schlossberg unveiled a comprehensive plan to protect consumers from potential AI-driven economic risks.\n\nThe proposal signals growing bipartisan concern about technological disruption. Tech industry leaders are watching closely, anticipating potential regulatory frameworks that could reshape innovation and consumer protections. The debate reflects broader tensions between technological advancement and consumer safety.",
+        "sources": [
+          {
+            "title": "Schlossberg unveils plan to crack down on 'new frontier' of AI putting the 'squeeze' on consumers: 'Harbinger'",
+            "url": "https://www.foxnews.com/politics/schlossberg-unveils-plan-crack-new-frontier-ai-putting-squeeze-consumers-harbinger",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "Trump: UK’s Starmer has ‘plenty of time to recover’ after ‘really bad’ ambassador pick",
-            "url": "https://thehill.com/policy/international/5842360-trump-starmer-mandelson-ambassador-choice/",
+            "title": "Progressive groups launch ad on Earth Day hitting Republicans over gas prices, EVs",
+            "url": "https://thehill.com/policy/energy-environment/5842490-progressive-groups-launch-ev-ad/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
+            "url": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Labor Slashes NDIS, Removing 160,000 People from Scheme",
-        "body": "The Albanese government will dramatically reshape the National Disability Insurance Scheme, cutting 160,000 participants through stricter eligibility rules. Health Minister Mark Butler described the changes as unavoidable and urgent - a move aimed at controlling spiraling program costs.\n\nThe overhaul signals a significant policy shift, with Labor arguing the NDIS must become more sustainable. Critics warn vulnerable Australians will lose critical support. The government claims the changes will refocus the scheme on those with the most significant disabilities.",
+        "headline": "NDIS Overhaul Targets 160,000 Participants for Removal",
+        "body": "The federal government is pushing sweeping changes to the National Disability Insurance Scheme that could remove up to 160,000 participants - a move described as both brutal and necessary. People with autism will be among the most affected groups as the government seeks to shift disability support responsibilities to state-run services.\n\nLabor argues the changes will help control spiraling NDIS costs, but disability advocates warn vulnerable people could be left without critical care. The reforms aim to tighten eligibility rules and transfer some support services to state management, potentially saving millions in federal spending.",
         "sources": [
           {
-            "title": "At least 160,000 people to be removed from NDIS as Labor unveils ‘unavoidable and urgent’ cuts",
+            "title": "'Brutal but necessary': NDIS changes to shift many clients onto states",
+            "url": "https://www.abc.net.au/news/2026-04-22/labor-ndis-savings-plan-hinges-on-state-run-supports/106594828",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "At least 160,000 to be cut from NDIS amid concerns vulnerable people will be left without care",
             "url": "https://www.theguardian.com/australia-news/2026/apr/22/ndis-spending-cuts-eligibility-changes-labor",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "160,000 people to be kicked off NDIS as Labor overhauls eligibility",
-            "url": "https://www.abc.net.au/news/2026-04-22/mark-butler-ndis-overhaul-eligibility-test/106592186",
+            "title": "People with autism to be at centre of 160,000 NDIS removals",
+            "url": "https://www.abc.net.au/news/2026-04-22/ndis-participant-removal-autism-focus/106593430",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "The NDIS is undergoing sweeping changes. How will the cuts work – and will they affect you?",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/22/ndis-changes-reforms-cuts-national-disability-insurance-scheme-explained",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "The proposed NDIS changes explained in five key points",
+            "url": "https://www.abc.net.au/news/2026-04-22/ndis-overhaul-eligibility-rule-changes-explained/106593778",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Foster Care Failure: Children Placed with Serial Killer Sparks Inquiry",
-        "body": "A damning review has exposed catastrophic failures in New South Wales child protection systems that allowed two foster children to be placed with a serial killer. The Department of Communities and Justice will launch misconduct proceedings against staff involved in the case.\n\nThe investigation reveals systemic breakdowns in screening and placement protocols. Senior officials will face internal disciplinary action, reflecting the severity of the oversight. The case has reignited debate about child protection practices and accountability in government agencies.",
+        "headline": "Gas Companies Fight Export Tax with Massive Ad Campaign",
+        "body": "Energy giants are spending millions on advertising to combat proposed gas export taxes, according to a parliamentary inquiry. The gas lobby claims the tax would be spectacularly ill-advised and could damage Australia's energy sector.\n\nThe government's proposed windfall profits tax has triggered a fierce pushback from multinational energy companies. Shell and other major players argue the tax could undermine investment and harm national economic interests. The advertising blitz represents an aggressive strategy to influence public and political opinion against the proposed reforms.",
         "sources": [
           {
-            "title": "‘Significant failures’ led two NSW foster children to be placed with serial killer, review finds",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/22/foster-children-placed-serial-killer-regina-arthurell-ntwnfb",
+            "title": "Gas companies spending millions on Australian advertising blitz to fight export tax, inquiry told",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/22/energy-giants-spending-millions-of-dollars-on-advertising-blitz-to-fight-gas-export-tax-inquiry-told",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Staff face misconduct proceedings after foster kids allowed to live with killer",
-            "url": "https://www.abc.net.au/news/2026-04-22/regina-arthurell-report-dcj-staff-to-face-misconduct-proceedings/106591666",
+            "title": "'Spectacularly ill-advised': Energy giants condemn gas tax",
+            "url": "https://www.abc.net.au/news/2026-04-22/gas-tax-prrt-windfall-profits-greens-parliamentary-inquiry-shell/106593968",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Gas lobby spends millions on anti-tax ads – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Are Aussies being fleeced over gas profits?! Yes! What should we be doing instead? | First Dog on the Moon",
+            "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/22/are-aussies-being-fleeced-over-gas-profits-yes-what-should-we-be-doing-instead",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump Extends Iran Ceasefire as Diplomatic Tensions Simmer",
-        "body": "President Trump has extended the ceasefire with Iran, buying time for fragile diplomatic negotiations. The move comes after a day of intense diplomatic maneuvering - with the US issuing new sanctions while simultaneously seeking a potential breakthrough in talks.\n\nThe situation remains precarious. Trump acknowledged the complexity of the negotiations, describing himself as being in a quandary. Military preparations continue, with Tehran holding provocative military parades as the ceasefire deadline approached - signaling ongoing tensions and potential for renewed conflict.",
+        "headline": "Iran War Escalates: Gunboat Attacks and Global Trade Tensions",
+        "body": "Tensions in the Middle East ratcheted up as an Iranian gunboat fired on a container ship off Oman's coast - a provocative move amid ongoing regional conflict. The incident comes as global analysts debate the war's potential to reshape international trade more dramatically than the COVID-19 pandemic.\n\nMeanwhile, Russia continues its aggressive stance in Ukraine, striking the Odesa port and killing a railway worker. The interconnected global tensions suggest a complex geopolitical landscape where military actions could have far-reaching economic consequences.",
         "sources": [
           {
-            "title": "Trump extends ceasefire and hopes for ‘unified proposal’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-            "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-            "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump announces Iran ceasefire extension but says blockade remains",
-            "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Sudan Conflict Reveals Colombian Mercenary Network",
-        "body": "A new investigation has exposed how Colombian mercenaries have been actively supporting Sudan's Rapid Support Forces (RSF) through sophisticated phone tracking technology. The report provides unprecedented insight into the complex mercenary networks fueling the ongoing conflict.\n\nThe findings come as UN reports highlight the dire humanitarian situation for Sudanese refugees. Returning populations face what the UN describes as a new struggle for survival - underscoring the conflict's devastating long-term impacts on civilian populations.",
-        "sources": [
-          {
-            "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
-            "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
-            "url": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Explores Controversial Refugee Resettlement Plan",
-        "body": "The US is in advanced talks to relocate Afghan refugees to the Democratic Republic of Congo - a proposal that could dramatically reshape international migration strategies. The potential agreement represents an unusual approach to addressing refugee resettlement challenges.\n\nSimultaneously, Paraguay has signaled willingness to accept 25 third-country migrant deportees from the US. These developments highlight the complex global negotiations around refugee movement and international migration policies.",
-        "sources": [
-          {
-            "title": "US in talks to send Afghan refugees to DR Congo",
-            "url": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-world-4025-rdf",
+            "title": "Will Iran war reshape global trade more than COVID?",
+            "url": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           },
           {
-            "title": "Paraguay plans to accept 25 third-country migrant deportees from US",
-            "url": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss",
+            "title": "Iran’s gunboat fires on container ship off Oman coast",
+            "url": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
-            "url": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
+            "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+            "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How China is gaining from Iran war by showing it is different from US",
+            "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "EU Unlocks €90bn Ukraine Loan After Pipeline Breakthrough",
+        "body": "The European Union has finally approved a critical €90 billion loan to Ukraine after resolving a long-standing pipeline dispute. This financial lifeline signals continued European support for Ukraine amid ongoing Russian aggression.\n\nThe decision comes at a crucial moment - with military tensions high and Ukraine requiring substantial economic support to maintain its resistance. European leaders hope the substantial funding package will provide stability and demonstrate unified international backing.",
+        "sources": [
+          {
+            "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+            "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
+            "url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Peru's Election Chaos: Top Official Resigns Amid Voting Turmoil",
+        "body": "Peru's election chief has stepped down following a chaotic general election that has thrown the country's democratic process into uncertainty. The resignation highlights deep institutional challenges in the nation's electoral system.\n\nVoters and political observers are watching closely as the sudden leadership change threatens to undermine public confidence in the electoral process. The move suggests significant internal tensions within Peru's electoral infrastructure.",
+        "sources": [
+          {
+            "title": "Peru’s election chief steps down amid chaotic general election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
+            "url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -208,8 +232,44 @@
     ],
     "ai": [
       {
-        "headline": "SpaceX Moves to Acquire Cursor in $60B Tech Megadeal",
-        "body": "SpaceX has signaled its intent to purchase Cursor, a startup, for a staggering $60 billion. The potential acquisition highlights the continued aggressive expansion of Elon Musk's space and technology empire. Multiple sources confirmed the deal, which could represent one of the largest tech acquisitions in recent years.",
+        "headline": "AI Security Crisis: Anthropic Model Leaked, Meta Sparks Employee Revolt",
+        "body": "A major cybersecurity breach has exposed Anthropic's sensitive AI tool Mythos to unauthorized users, raising alarm about potential vulnerabilities in advanced AI systems. The incident comes amid growing tensions at Meta, where employees are protesting mandatory surveillance software designed to track their work activities for AI training.\n\nThe dual controversies highlight mounting ethical challenges in AI development. Anthropic faces urgent questions about its security protocols, while Meta's approach to employee data collection has triggered internal resistance - signaling deepening friction between tech companies' AI ambitions and worker privacy concerns.",
+        "sources": [
+          {
+            "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+            "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+            "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+            "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+            "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "SpaceX Plots $60B Cursor Acquisition in Tech Mega-Deal",
+        "body": "SpaceX has secured an option to purchase Cursor for $60 billion, potentially marking one of the largest tech acquisitions in recent years. The deal underscores Elon Musk's continued aggressive expansion strategy across multiple technology sectors.\n\nThe potential purchase signals SpaceX's growing interest in expanding beyond aerospace and satellite technologies. Financial markets are closely watching the potential transaction, which could reshape the competitive landscape for technology startups and space-related ventures.",
         "sources": [
           {
             "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
@@ -232,27 +292,15 @@
         ]
       },
       {
-        "headline": "Meta Tracks Employees to Train AI - Privacy Concerns Emerge",
-        "body": "Meta plans to record employees' keystrokes and mouse movements to train its artificial intelligence models. The controversial strategy raises significant privacy and ethical questions about workplace surveillance. Employees will essentially become unwitting data sources for the company's AI development efforts.",
+        "headline": "AI Trends: Data Fabric, Global Developments, and Emerging Challenges",
+        "body": "MIT Technology Review's latest analysis reveals critical insights into AI's evolving landscape. Key trends include the importance of robust data infrastructure for delivering business value, the rise of agent orchestration technologies, and emerging challenges like weaponized deepfakes.\n\nGlobally, the AI development race continues, with China making significant open-source model investments. The technology is rapidly transforming multiple sectors - from scientific research to cybersecurity - while raising complex ethical and operational questions.",
         "sources": [
           {
-            "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-            "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-            "source": "TechCrunch",
+            "title": "AI needs a strong data fabric to deliver business value",
+            "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+            "source": "MIT Tech Review",
             "lean": null
           },
-          {
-            "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-            "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Trends Reveal Complex Global Technology Landscape",
-        "body": "MIT Technology Review's latest analysis highlights emerging AI trends including weaponized deepfakes, agent orchestration, and potential scientific breakthroughs. China's open-source AI investments and the rise of artificial scientists signal a transformative technological moment. The landscape suggests both immense potential and growing societal challenges.",
-        "sources": [
           {
             "title": "10 Things That Matter in AI Right Now",
             "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
@@ -290,12 +338,6 @@
             "lean": null
           },
           {
-            "title": "Humanoid data",
-            "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-            "source": "MIT Tech Review",
-            "lean": null
-          },
-          {
             "title": "China’s open-source bet",
             "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
             "source": "MIT Tech Review",
@@ -306,67 +348,43 @@
             "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
             "source": "MIT Tech Review",
             "lean": null
-          },
-          {
-            "title": "Resistance",
-            "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
-            "source": "MIT Tech Review",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "US Military Sees Bitcoin as Global Strategic Asset",
-        "body": "A senior US naval commander has framed Bitcoin as a potential instrument of geopolitical influence - signaling growing recognition of cryptocurrency's strategic importance. The statement suggests Bitcoin could become a tool for projecting American economic power beyond traditional financial systems.\n\nThis perspective arrives as institutional investment continues to surge. MicroStrategy, for instance, now holds $62 billion in Bitcoin - demonstrating significant corporate confidence in the digital asset's long-term potential.",
+        "headline": "Bitcoin Breaks $78,000 as Market Sentiment Shifts",
+        "body": "Bitcoin surged past the $78,000 mark Wednesday, signaling a potential turning point in market dynamics. The cryptocurrency's price movement coincides with a notable exit from the 'extreme fear' zone, suggesting growing investor confidence.\n\nTraders are watching key resistance levels closely. The Coinbase premium - an indicator of institutional interest - has maintained its longest bullish streak since October's record high of $126,000. This could indicate sustained institutional momentum building behind Bitcoin's current price action.",
         "sources": [
           {
-            "title": "US admiral calls Bitcoin an instrument for US ‘power projection’",
-            "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin tests $78,000 resistance as short-squeeze risks mount, altcoins rally",
+            "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tests-usd78-000-resistance-as-short-squeeze-risks-mount-altcoins-rally",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-            "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Price Wavers Near $75K Amid Global Tensions",
-        "body": "Bitcoin prices dipped toward $75,000 as geopolitical uncertainties and ongoing diplomatic discussions impacted market sentiment. Trading volumes on major exchanges like Binance have fallen to 2023 lows - indicating potential investor caution.\n\nThe cryptocurrency market remains sensitive to macroeconomic signals. Recent hearings and stalling international negotiations have contributed to short-term price volatility, with traders closely monitoring global economic indicators.",
-        "sources": [
-          {
-            "title": "Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K",
-            "url": "https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin rises above $78,000, Fear & Greed Index exits ‘extreme fear’ zone",
+            "url": "https://www.theblock.co/post/398407/bitcoin-78000-escapes-extreme-fear?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           },
           {
-            "title": "Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks",
-            "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
+            "title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
+            "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-s-coinbase-premium-just-posted-its-longest-bullish-streak-since-october-s-record-high-of-usd126-000",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Mining Firm Shifts Strategy Toward AI Investments",
-        "body": "Core Scientific announced a $3.3 billion junk-bond sale to pivot its business model from pure Bitcoin mining toward artificial intelligence infrastructure. The move signals potential strategic realignment in the cryptocurrency mining sector.\n\nThis transition reflects broader industry trends of diversification and technological adaptation. Mining companies are increasingly exploring alternative revenue streams to maintain financial resilience in a rapidly evolving digital landscape.",
+        "headline": "US Military Sees Bitcoin as Strategic Power Tool",
+        "body": "A US naval admiral has framed Bitcoin as a potential instrument of national power projection, highlighting the cryptocurrency's growing geopolitical significance. This unexpected endorsement from military leadership underscores Bitcoin's evolving role beyond traditional financial markets.\n\nThe statement arrives amid ongoing discussions about cryptocurrency's strategic importance in global economic landscapes. It suggests Bitcoin is increasingly viewed as more than just a speculative asset - potentially a tool for international economic influence.",
         "sources": [
           {
-            "title": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI",
-            "url": "https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Kalshi CEO Tarek Mansour To Speak at Bitcoin 2026 Conference on Prediction Markets and BTC",
-            "url": "https://bitcoinmagazine.com/conference/kalshi-ceo-tarek-mansour-to-speak-at-bitcoin-2026-conference-on-prediction-markets-and-btc",
-            "source": "Bitcoin Magazine",
+            "title": "US admiral calls Bitcoin an instrument for US ‘power projection’",
+            "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -377,19 +395,19 @@
     "food": {
       "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "description": "Slow-cooked lamb with aromatic spices, dried apricots, and almonds served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their flavor profile"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's loading points every 20 minutes to prevent static muscle tension",
-      "tip": "Use painter's tape on floor to mark ideal foot placement and alternate between standing and sitting positions"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Use a doorway as a reference point: stand with your back against the frame, then slowly roll down vertebra by vertebra, letting gravity decompress your spine"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and environmental adaptation mechanisms",
-      "why": "Reveals how complex natural systems can solve human design challenges with elegance and sustainability"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
     }
   }
 }
