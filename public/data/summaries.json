@@ -1,59 +1,53 @@
 {
-  "generatedAt": "2026-04-23T03:23:50.394Z",
+  "generatedAt": "2026-04-23T05:05:45.596Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Senate Budget Battle: Health Care and Border Funding Clash",
-        "body": "Senate Republicans launched an all-night vote-a-rama to push through budget amendments, with mixed results. Two GOP members broke ranks during a health care cost reduction attempt, highlighting internal party tensions. Simultaneously, Republicans are pushing to secure funding for ICE and Border Patrol through the end of the current presidential term.\n\nThe marathon voting session reveals deep divisions within the Republican party. While leadership aims to consolidate support, individual senators are showing increasing willingness to challenge party line positions on critical budget issues.",
+        "headline": "Senate Budget Battle: GOP Splits on Healthcare and Food Aid",
+        "body": "Republican senators broke ranks with party leadership on key budget amendments, exposing internal divisions. Three GOP senators - Collins, Sullivan, and Hawley - challenged leadership by supporting amendments addressing health insurance coverage and SNAP food assistance program cuts.\n\nThe intra-party disagreements highlight growing tensions within the Republican caucus. While party leaders sought to maintain a unified front, these senators signaled willingness to challenge leadership positions on social welfare and healthcare issues.",
         "sources": [
+          {
+            "title": "Three GOP senators break with leaders over addressing insurance companies’ denial of medical care",
+            "url": "https://thehill.com/homenews/senate/5844464-hawley-collins-sullivan-health-insurance-amendment/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Collins, Sullivan break with Senate GOP leaders on amendment to reverse SNAP cuts",
+            "url": "https://thehill.com/homenews/senate/5844440-collins-sullivan-snap-amendment/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Two Republicans break with party as GOP  defeats budget amendment to lower health care costs",
             "url": "https://thehill.com/homenews/senate/5844405-budget-amendment-health-care/",
             "source": "The Hill",
             "lean": "center"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "California Governor's Race Heats Up After Swalwell's Debate Exit",
+        "body": "The California gubernatorial race entered a new phase with the first major debate following Eric Swalwell's withdrawal. Candidates faced off on key state issues, with political observers noting significant moments and potential campaign shifts.\n\nThe debate underscores the competitive nature of the race and the strategic positioning of remaining candidates. With Swalwell's exit, the dynamics of the contest have been fundamentally altered, potentially reshaping voter perceptions and campaign strategies.",
+        "sources": [
           {
-            "title": "Live updates: Senate begins vote-a-rama; California gubernatorial candidates hit debate stage",
-            "url": "https://thehill.com/homenews/administration/5841338-live-updates-trump-iran-strait-of-hormuz-budget/",
+            "title": "5 takeaways from first major California governor’s debate after Swalwell exit",
+            "url": "https://thehill.com/homenews/campaign/5844048-california-governor-debate-takeaways/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Senate GOP launches all-night vote-a-rama to fund ICE, Border Patrol through end of Trump's term",
-            "url": "https://www.foxnews.com/politics/senate-gop-launches-night-vote-rama-fund-ice-border-patrol-end-trumps-term",
+            "title": "EXCLUSIVE: Eric Swalwell hit with fresh complaint over alleged use of House office to boost his business",
+            "url": "https://www.foxnews.com/politics/exclusive-eric-swalwell-hit-fresh-complaint-over-alleged-use-house-office-boost-his-business",
             "source": "Fox News",
             "lean": "right"
           }
         ]
       },
       {
-        "headline": "Navy Leadership Shakeup Signals Deeper Defense Department Tensions",
-        "body": "Navy Secretary John Phelan was abruptly forced out after just 13 months, marking another high-profile departure from the defense leadership team. The Pentagon confirmed Phelan's immediate exit, with Undersecretary Hung Cao taking over in an acting capacity.\n\nThis sudden leadership change follows a pattern of turnover in top defense roles. Sources suggest underlying tensions and potential strategic disagreements may be driving the rapid personnel shifts at senior levels of military leadership.",
-        "sources": [
-          {
-            "title": "John Phelan forced out as Navy secretary after 13 months",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/22/john-phelan-navy-hegseth/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Pentagon says Navy secretary is leaving, the latest departure of a top defense leader",
-            "url": "https://www.npr.org/2026/04/22/g-s1-118406/navy-secretary-john-phelan-leaving-undersecretary-hung-cao",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Navy secretary departs immediately as undersecretary takes over in acting role",
-            "url": "https://www.foxnews.com/politics/navy-secretary-departs-immediately-undersecretary-takes-over-acting-role",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Navigates Complex Iran Policy Amid Ceasefire Challenges",
-        "body": "President Trump is seeking a new diplomatic approach with Iran after recent ceasefire negotiations stalled. The Senate has repeatedly defeated resolutions to halt military operations, signaling continued support for a hardline stance. Some Democratic lawmakers, including Adam Smith, have criticized the administration's handling of the situation.\n\nThe ongoing geopolitical tension reflects the complex diplomatic challenges facing the current administration. Multiple sources indicate a fractured approach to Middle East policy, with significant disagreement between political factions about the most effective strategy.",
+        "headline": "Trump Navigates Foreign Policy Challenges amid Iran Tensions",
+        "body": "President Trump is seeking a new approach to Iran after recent ceasefire complications. Senate Republicans defeated multiple resolutions attempting to halt military operations, signaling continued support for an aggressive foreign policy stance.\n\nThe ongoing geopolitical tensions have prompted intense political debate. Los Angeles Mayor Karen Bass even reported a positive discussion with Trump about FEMA assistance for wildfire recovery, indicating potential areas of bipartisan cooperation amid complex international challenges.",
         "sources": [
           {
             "title": "Trump seeks new course in Iran after ceasefire retreat",
@@ -68,24 +62,30 @@
             "lean": "center"
           },
           {
-            "title": "WATCH: Democrat Adam Smith says Iran is 'closer to the truth' than the White House on ceasefire talks",
-            "url": "https://www.foxnews.com/politics/democrat-adam-smith-says-iran-closer-truth-than-white-house-ceasefire-talks",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "LA mayor says she had ‘positive discussion’ with Trump on FEMA help for wildfire recovery",
+            "url": "https://thehill.com/homenews/administration/5844356-karen-bass-trump-fema-los-angeles-fires/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "NDIS Cuts Spark Heated Debate on Disability Support",
-        "body": "The Albanese government faces mounting criticism over proposed National Disability Insurance Scheme (NDIS) budget reductions. Health Minister Mark Butler acknowledged public unease about the cuts, which coincide with a $53 billion defence spending increase.\n\nDisability advocates argue the changes will force people with disabilities to withdraw from society. Butler maintains the cuts are necessary, describing them as a difficult but required reform to ensure the scheme's sustainability. The debate highlights tensions between fiscal constraints and social support priorities.",
+        "headline": "NDIS Reforms Spark Heated National Debate on Disability Support",
+        "body": "The federal government's proposed National Disability Insurance Scheme cuts have ignited a fierce political controversy. Disability Minister Mark Butler argues the reforms are necessary to sustain the program, while state leaders and disability advocates push back hard.\n\nQueensland's premier predicted about a third of planned cuts would impact New South Wales. Politicians across the political spectrum are demanding transparency - with some calling the changes potentially devastating for vulnerable Australians. The debate exposes deep divisions about social support and fiscal responsibility.",
         "sources": [
           {
-            "title": "Australians ‘uneasy’ about NDIS cuts amid $53bn in new defence spending, Mark Butler concedes",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/23/mark-butler-ndis-cuts-defence-spending",
+            "title": "Australia news live: about a third of those to be cut from NDIS will be in NSW, premier predicts",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "'Be honest with people': Politicians across the country react to NDIS cuts",
+            "url": "https://www.abc.net.au/news/2026-04-23/australian-states-territories-react-to-federal-ndis-reforms/106596444",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
             "title": "Disability minister Mark Butler on the 'necessary' cuts to an NDIS under pressure - podcast",
@@ -108,18 +108,18 @@
         ]
       },
       {
-        "headline": "Queensland Expands Youth Crime Laws with New Offences",
-        "body": "The Queensland Liberal-National Party has expanded its tough-on-crime legislation by adding a dozen new offences to its adult crime laws. The move signals continued political focus on youth criminal justice and community safety.\n\nThe legislation allows younger offenders to be tried as adults for a broader range of crimes. Critics argue the approach may criminalize youth more severely, while supporters claim it will deter repeat offending and protect communities.",
+        "headline": "Queensland Police Review Handgun Safety After Critical Fault Discovery",
+        "body": "Queensland police will test all Glock handguns following the identification of a critical technical fault. The statewide review comes as a precautionary measure to ensure officer and public safety.\n\nThe testing protocol suggests potential systemic concerns with the current firearms inventory. Law enforcement leadership appears committed to a comprehensive and transparent assessment of potential risks.",
         "sources": [
           {
-            "title": "A dozen new offences added to LNP's adult crime, adult time laws in Qld",
-            "url": "https://www.abc.net.au/news/2026-04-23/adult-crime-adult-time-passes-qld-parliament/106595642",
+            "title": "Breaking: Queensland police to test all Glock handguns after fault identified",
+            "url": "https://www.abc.net.au/news/2026-04-23/qld-police-guns-glock-recall-fault/106598000",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Youth crime has resurfaced in Kununurra, leaving people exasperated",
-            "url": "https://www.abc.net.au/news/2026-04-23/kununurra-residents-traumatised-youth-crime-increase/106594092",
+            "title": "A dozen new offences added to LNP's adult crime, adult time laws in Qld",
+            "url": "https://www.abc.net.au/news/2026-04-23/adult-crime-adult-time-passes-qld-parliament/106595642",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -128,9 +128,15 @@
     ],
     "world": [
       {
-        "headline": "Iran Escalates Gulf Tensions with Ship Seizure",
-        "body": "Iran's Revolutionary Guard seized a vessel in the Strait of Hormuz, ratcheting up maritime tensions in the region. The incident comes amid ongoing conflicts and diplomatic standoffs between Iran and Western powers. Video released by Iranian state media shows the dramatic maritime interception - a clear signal of Iran's willingness to challenge international shipping routes.",
+        "headline": "Israel-Lebanon Tensions Escalate with Journalist Killing",
+        "body": "Israeli forces launched a targeted attack in south Lebanon, killing a journalist and wounding another in a dramatic escalation of cross-border tensions. The incident marks a significant spike in regional hostilities, with Iran closely monitoring the situation.\n\nThe attack comes amid heightened regional instability, with Iran simultaneously demonstrating its maritime power by releasing video of its Revolutionary Guard seizing a ship in the Strait of Hormuz. Diplomatic channels remain strained, with US-Iran talks reportedly at a standstill.",
         "sources": [
+          {
+            "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
@@ -144,16 +150,16 @@
             "lean": null
           },
           {
-            "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
-            "url": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds?traffic_source=rss",
+            "title": "Israeli attacks on Lebanon kill at least five people, including journalist",
+            "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "UK and France Strike Deal to Block Channel Migrant Crossings",
-        "body": "Britain and France have signed a three-year agreement to dramatically reduce illegal migration across the English Channel. The diplomatic breakthrough aims to stem the flow of unauthorized migrants attempting dangerous sea crossings. Both nations signal a hardened approach to border control - a response to years of political pressure and public concern about uncontrolled immigration.",
+        "headline": "UK-France Strike Deal to Control Channel Migration",
+        "body": "Britain and France have negotiated a landmark three-year agreement aimed at reducing illegal crossings of the English Channel. The diplomatic breakthrough signals a coordinated approach to managing migration flows that have long strained bilateral relations.\n\nThe deal represents a pragmatic response to years of political tension over refugee movements. Both governments hope the collaborative strategy will provide more effective border control and reduce dangerous maritime migration attempts.",
         "sources": [
           {
             "title": "UK, France agree 3‑year deal to curb Channel crossings",
@@ -168,53 +174,35 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Israel-Palestine Tensions Flare with Settler Violence and Protests",
-        "body": "Ultra-Orthodox Jews burned Israeli flags in a provocative national day protest, while Israeli forces fired tear gas at a Palestinian funeral. The incidents highlight deepening internal divisions and ongoing conflict. Sexual violence has emerged as a new tool of intimidation in the West Bank - underscoring the complex and volatile nature of the current situation.",
-        "sources": [
-          {
-            "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
-            "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Can a divided EU become a united voice against Israeli aggression?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/22/can-a-divided-eu-become-a-united-voice-against-israeli-aggression?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
       }
     ],
     "ai": [
       {
-        "headline": "AI Transforms Workplace with Custom Agents and Intelligent Tools",
-        "body": "Tech giants are rapidly deploying AI to reshape workplace productivity. Google and OpenAI unveiled new tools that promise to fundamentally change how work gets done - with AI agents that can operate autonomously within professional environments.\n\nGoogle's Workspace update positions AI as a virtual intern capable of handling routine tasks, while OpenAI now allows teams to create custom bots that can independently execute work assignments. These developments signal a significant shift toward AI-driven workplace automation, potentially redefining traditional roles and collaboration models.",
+        "headline": "AI Trust Crisis: Anthropic Faces Verification Meltdown",
+        "body": "Anthropic's reputation took a sharp hit this week as trust in its verification processes crumbled. A scathing analysis suggests the company's credibility is unraveling - with potential long-term consequences for AI industry transparency.\n\nThe breakdown centers on fundamental questions of truth-telling and algorithmic accountability. As AI becomes more embedded in critical systems, such trust erosions could dramatically accelerate public skepticism about emerging technologies.",
+        "sources": [
+          {
+            "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+            "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Anthropic tested removing Claude Code from the Pro plan",
+            "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Google and OpenAI Push AI Deeper into Workplace",
+        "body": "Tech giants are aggressively transforming workplace productivity through AI integration. Google has updated Workspace to position AI as a virtual office intern - capable of handling routine tasks and streamlining workflows.\n\nOpenAI matched this momentum by launching custom bot capabilities that allow teams to create specialized AI agents. These developments signal a rapid transformation of knowledge work - with intelligent systems moving from experimental tools to core workplace infrastructure.",
         "sources": [
           {
             "title": "Google updates Workspace to make AI your new office intern",
             "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
             "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Bring your own Agent to MS Teams",
-            "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -224,57 +212,21 @@
             "lean": null
           },
           {
-            "title": "Workspace Agents in ChatGPT",
-            "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Titans Boost AI Chip Development and Investment",
-        "body": "Google Cloud escalated the AI hardware competition by launching two new AI chips designed to challenge Nvidia's market dominance. The move comes as Tesla dramatically increased its capital expenditure to $25 billion - with significant portions likely directed toward AI and autonomous technology infrastructure.\n\nThe aggressive investments underscore the intensifying technological arms race. Companies are betting big on AI capabilities, viewing advanced computational hardware as a critical competitive advantage in an increasingly algorithm-driven economy.",
-        "sources": [
-          {
-            "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-            "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
             "title": "Google Cloud launches two new AI chips to compete with Nvidia",
             "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Tesla reports Q1 2026 earnings: Still profitable",
-            "url": "https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/",
-            "source": "Ars Technica",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Risks Spark Political and Economic Concerns",
-        "body": "Senator Elizabeth Warren warned that potential AI system failures could trigger the next major financial crisis. Her comments highlight growing regulatory scrutiny of artificial intelligence's systemic economic risks.\n\nConcerns are mounting about AI's unpredictability. A Wired investigation revealed how sophisticated AI models could potentially execute convincing scam attempts - demonstrating both the technology's power and its potential for malicious exploitation. These developments suggest increased political and industry attention to AI's broader societal implications.",
+        "headline": "Elizabeth Warren Warns: AI Could Trigger Financial Crisis",
+        "body": "Senator Elizabeth Warren raised alarm bells about potential systemic risks in AI development. Her stark warning suggests technological failures could precipitate a major economic disruption - echoing growing concerns about unchecked AI expansion.\n\nThe intervention highlights mounting political scrutiny of artificial intelligence. As AI systems become more complex and economically significant, regulatory oversight is increasingly seen as crucial to preventing potential catastrophic market failures.",
         "sources": [
           {
             "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
             "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-            "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-            "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-            "source": "Wired",
             "lean": null
           }
         ]
@@ -282,9 +234,15 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $79K as Bullish Metrics Strengthen",
-        "body": "Bitcoin continued its upward trajectory, breaking through the $79,000 mark amid increasingly positive market indicators. Nearly all price metrics have turned bullish, signaling growing investor confidence in the cryptocurrency.\n\nThe rally comes as institutional and retail interest remains strong. Market analysts point to multiple factors driving the surge, including improved market sentiment and ongoing institutional adoption strategies.",
+        "headline": "Bitcoin Hovers Near $80K as Market Catches Breath",
+        "body": "Bitcoin's price volatility continued Thursday, with the cryptocurrency struggling to maintain its recent momentum near the $80,000 mark. Profit-taking pressures emerged after a bullish run, causing some pullback in the market. Nearly all price metrics had turned positive earlier in the week, signaling strong underlying sentiment despite the short-term price fluctuation.\n\nTech giant Tesla reported unchanged Bitcoin holdings, though the company booked a $173 million digital asset loss - a reminder of the ongoing financial complexities surrounding cryptocurrency investments.",
         "sources": [
+          {
+            "title": "Bitcoin loses grip near $80,000 as ETH, SOL, DOGE fade on profit-taking",
+            "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-loses-grip-near-usd80-000-as-eth-sol-doge-fade-on-profit-taking",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish",
             "url": "https://cointelegraph.com/news/bitcoin-chases-monthly-high-above-dollar80k-as-nearly-all-btc-price-metrics-turn-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -292,22 +250,16 @@
             "lean": null
           },
           {
-            "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
-            "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin breaks Strategy's STRC ex-dividend date slump for the first time in six months",
-            "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-rises-a-week-after-strc-s-dividend-payout-a-first-in-six-months",
-            "source": "CoinDesk",
+            "title": "US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral",
+            "url": "https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc",
+            "source": "Decrypt",
             "lean": null
           }
         ]
       },
       {
         "headline": "US Government Expands Bitcoin Node Operations",
-        "body": "The US military and government have begun running Bitcoin nodes, marking a significant shift in official engagement with the cryptocurrency. US Navy Admiral Paparo confirmed the node operation, suggesting a growing institutional understanding of Bitcoin's infrastructure.\n\nThis development follows recent discussions about cryptocurrency regulation and potential government involvement in blockchain technologies. The move signals a potential softening of previous adversarial stances toward Bitcoin.",
+        "body": "The US military and government have taken a significant step in Bitcoin infrastructure by running their own Bitcoin node. US Admiral Paparo revealed the military's node operation, highlighting growing institutional engagement with blockchain technology. This move signals a potential shift in government perception of Bitcoin from a speculative asset to a strategic technological platform.\n\nAdditionally, the upcoming Bitcoin 2026 Conference will feature FBI Director Kash Patel speaking about ending the war on Bitcoin - suggesting potential regulatory softening and increased institutional acceptance.",
         "sources": [
           {
             "title": "US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral",
@@ -316,22 +268,22 @@
             "lean": null
           },
           {
-            "title": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals",
-            "url": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
+            "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”",
+            "url": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
             "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”",
-            "url": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
+            "title": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals",
+            "url": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
             "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Trump-Linked Bitcoin Mining Venture Expands Capacity",
-        "body": "American Bitcoin - a Trump-affiliated cryptocurrency mining company - has activated 11,298 new ASIC miners, dramatically increasing its mining capacity. The company's shares jumped 12% following the announcement of expanded operations.\n\nThe move highlights continued interest in Bitcoin mining from politically connected ventures and suggests ongoing investment in cryptocurrency infrastructure despite market volatility.",
+        "headline": "Bitcoin Mining Sees New Political and Technological Momentum",
+        "body": "A Trump-linked American Bitcoin initiative has energized the mining sector, adding 11,298 new ASICs to the network. This expansion signals continued investment and technological development in Bitcoin mining infrastructure. The industry is also pushing for regulatory clarity, with an upcoming event at Bitcoin 2026 focused on establishing a de minimis tax framework for Bitcoin as everyday money.\n\nThese developments suggest a growing mainstream approach to Bitcoin - moving beyond speculation toward practical financial integration.",
         "sources": [
           {
             "title": "Trump-linked American Bitcoin energizes 11,298 new ASICs",
@@ -340,20 +292,8 @@
             "lean": null
           },
           {
-            "title": "Eric Trump’s American Bitcoin rises 12% amid increase in BTC mining capacity",
-            "url": "https://www.theblock.co/post/398491/eric-trumps-american-bitcoin-rises-12-amid-increase-in-btc-mining-capacity?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
-            "url": "https://www.coindesk.com/business/2026/04/22/trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-power",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "American Bitcoin ($ABTC) Activates 11,000 New Bitcoin Miners, Expanding Hashrate Capacity",
-            "url": "https://bitcoinmagazine.com/news/american-bitcoin-abtc-activates-11000",
+            "title": "“Bitcoin as Everyday Money” Event to Rally Industry Behind De Minimis Tax Framework at Bitcoin 2026",
+            "url": "https://bitcoinmagazine.com/politics/bitcoin-as-everyday-money-event-to-rally-industry-behind-de-minimis-tax-framework-at-bitcoin-2026",
             "source": "Bitcoin Magazine",
             "lean": null
           }
@@ -363,21 +303,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Moroccan Shakshuka Verde",
+      "cuisine": "North African fusion",
+      "description": "Eggs poached in a vibrant green tomatillo and herb sauce, topped with crumbled feta and za'atar",
+      "tip": "Use cast iron skillet for even heat distribution and crispy bottom edges"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "Counteract prolonged sitting by creating micro-moments of spinal elongation and reset using a wall or doorframe",
-      "tip": "Stand with your back against a wall, press your entire spine flat, then slowly slide down 2-3 inches and hold for 30 seconds"
+      "description": "Perform a targeted 3-minute spinal reset using wall traction and controlled breathing to counteract prolonged sitting",
+      "tip": "Stand with your back against a wall, slowly slide down into a seated position, then use deep diaphragmatic breathing"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown script and language that has defied all attempts at translation",
-      "why": "It represents one of the most fascinating unsolved cryptographic mysteries in human history, challenging linguists, cryptographers, and historians for centuries"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how cities can learn from natural ecosystems to become more sustainable, adaptive, and resilient",
+      "why": "This emerging field offers revolutionary approaches to solving complex urban challenges by mimicking nature's time-tested design strategies"
     }
   }
 }
