@@ -1,87 +1,63 @@
 {
-  "generatedAt": "2026-04-23T10:36:31.574Z",
+  "generatedAt": "2026-04-23T22:20:07.294Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Iran Tensions Rise as Graham Warns of Global Blockade",
-        "body": "Senator Lindsey Graham escalated rhetoric around Iran, suggesting a potential global blockade could emerge soon. The comments come as tensions in the Strait of Hormuz continue to simmer, with Republican lawmakers divided on supporting potential military action.\n\nCongressional Republicans show internal fractures over presidential war powers. Some members want to check potential military escalation, while others support a more aggressive stance toward Iran. The debate intensifies as the 60-day mark for potential military engagement approaches.",
+        "headline": "Trump Weighs Putin Invite as G-20 Summit Approaches",
+        "body": "President Trump is considering inviting Russian President Vladimir Putin to the upcoming G-20 summit in Miami, according to Washington Post sources. The potential invitation comes amid ongoing tensions between the US and Russia, with diplomatic circles split on the wisdom of such a move.\n\nThe proposal has already sparked debate across political lines. Some foreign policy experts argue engagement could reduce international friction, while others see it as a potential diplomatic concession to a geopolitical rival. Trump's team has not confirmed the invitation but suggests the president remains open to high-level diplomatic discussions.",
         "sources": [
           {
-            "title": "Lindsey Graham says blockade against Iran 'could become global soon'",
-            "url": "https://www.foxnews.com/politics/lindsey-graham-us-iran-blockade-global-expansion",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Trump intends to invite Putin to G-20 summit in Miami, officials say",
+            "url": "https://www.washingtonpost.com/national-security/2026/04/23/trump-putin-g20/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Iran Tensions Escalate as Third US Carrier Arrives Offshore",
+        "body": "The US military has positioned a third aircraft carrier near Iran, signaling potential escalation in regional tensions. President Trump has publicly stated that no nuclear weapons will be used in any potential conflict, attempting to calm international concerns.\n\nIran's response has been sharp. The country's Foreign Ministry accused the US of becoming a promoter of terrorism, while the International Energy Agency warned of the most significant energy security threat in history. Public opinion remains divided, with a Fox News poll showing modest but growing support for potential military action.",
+        "sources": [
+          {
+            "title": "Third U.S. aircraft carrier arrives in waters near Iran",
+            "url": "https://www.washingtonpost.com/national-security/2026/04/23/aircraft-carrier-bush-iran/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "Republicans divided on whether to check Trump’s Iran war power as 60-day mark looms",
-            "url": "https://thehill.com/homenews/senate/5843964-republicans-iran-war-trump-war-powers/",
+            "title": "Trump says no nuclear weapon will be used on Iran",
+            "url": "https://thehill.com/homenews/administration/5846178-trump-iran-no-nuclear-bomb/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "IEA chief: ‘We are facing the biggest energy security threat in history’",
+            "url": "https://thehill.com/policy/energy-environment/5846040-iea-energy-crisis-iran-war-strait-of-hormuz/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Iran Foreign Ministry spokesperson: US ‘appears to become a promoter of terrorism’",
+            "url": "https://thehill.com/policy/international/5845800-iran-accuses-us-terrorism/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "GOP Budget Battle Reveals Deep Party Divisions",
-        "body": "Senate Republicans pushed through a budget resolution in a late-night voting marathon, but not without significant internal disagreement. Two GOP senators - Murkowski and Paul - broke ranks on the final vote, highlighting growing ideological splits.\n\nThe budget process saw multiple amendments challenged, with some Republican senators backing measures on drug pricing and health care costs that leadership opposed. These fractures suggest deeper tensions within the party as midterm elections approach.",
+        "headline": "AI Emerges as Major Privacy and Economic Concern for Voters",
+        "body": "A new Fox News poll reveals growing public anxiety about artificial intelligence, with voters expressing significant concerns about privacy risks and potential job displacement. The White House has responded by accusing foreign entities of large-scale AI technology theft.\n\nThe survey highlights a complex landscape of technological apprehension. Voters see AI as both a potential economic threat and an innovative tool. Tech policy is emerging as a critical battleground for future political debates, with both parties seeking to position themselves as defenders of technological innovation and worker interests.",
         "sources": [
           {
-            "title": "Two GOP senators break ranks on final Senate budget vote",
-            "url": "https://thehill.com/homenews/senate/5844598-murkowski-paul-budget-resolution/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Senate GOP rams through blueprint to bankroll ICE, Border Patrol through end of Trump era",
-            "url": "https://www.foxnews.com/politics/senate-gop-rams-blueprint-bankroll-ice-border-patrol-end-trump-era",
+            "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Senate Republicans adopt budget resolution in late-night voting marathon",
-            "url": "https://thehill.com/homenews/senate/5844515-senate-republicans-budget-resolution/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Three GOP senators back Sanders amendment to slash drug prices",
-            "url": "https://thehill.com/homenews/senate/5844568-sanders-amendment-drug-prices/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Four GOP senators vote against adding Save America Act to budget package",
-            "url": "https://thehill.com/homenews/senate/5844521-save-america-act-budget-package/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump's Polling Numbers Tumble as 2026 Midterms Loom",
-        "body": "President Trump faces mounting political challenges as his popularity continues to decline. Recent polling indicates an uphill battle for both the president and Republican candidates in upcoming elections.\n\nDemocrats have shown strong fundraising capabilities, though Republicans maintain a significant cash advantage. The political landscape remains volatile, with internal party debates and shifting voter sentiments creating uncertainty about the midterm outcomes.",
-        "sources": [
-          {
-            "title": "Trump facing an uphill battle with voters as polling numbers continue to tumble",
-            "url": "https://www.npr.org/2026/04/23/nx-s1-5795790/trump-facing-an-uphill-battle-with-voters-as-polling-numbers-continue-to-tumble",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "President Trump's popularity is falling. What does it means for him and the GOP?",
-            "url": "https://www.npr.org/2026/04/23/nx-s1-5795816/president-trumps-popularity-is-falling-what-does-it-means-for-him-and-the-gop",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Democrats dominate midterm fundraising, but Republicans have a huge cash advantage",
-            "url": "https://www.npr.org/2026/04/23/nx-s1-5795841/democrats-senate-fundraising-republican-maga-cash-on-hand-campaign-finance",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "GOP tries to ease growing fears of midterm shellacking",
-            "url": "https://thehill.com/homenews/campaign/5843958-trump-republicans-virginia-redistricting-midterm-elections/",
+            "title": "White House official accuses foreign entities of ‘industrial-scale’ theft of US AI",
+            "url": "https://thehill.com/policy/technology/5845891-china-ai-theft-white-house/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -90,140 +66,128 @@
     ],
     "au-politics": [
       {
-        "headline": "NDIS Reforms Spark Disability Support Debate",
-        "body": "The federal government's proposed changes to the National Disability Insurance Scheme (NDIS) have ignited fierce controversy. Proposed eligibility assessments could dramatically reduce support for people with disabilities, with Canberra residents expressing deep concerns about potential cuts to vital services.\n\nExperts warn the new assessment tool might inadvertently exclude vulnerable participants. The government argues the changes will improve scheme sustainability, but disability advocates see them as a direct threat to essential support networks.",
+        "headline": "Defence Tensions Rise as US Alliance Scrutiny Intensifies",
+        "body": "Liberal MP Andrew Hastie has called for Australia to get serious about defence, arguing the current approach weakens the US alliance. His comments come amid growing geopolitical tensions and debates about Australia's strategic positioning.\n\nThe critique highlights internal political divisions over national security strategy. While some politicians push for increased military preparedness, others caution against escalating regional tensions - reflecting the complex diplomatic challenges facing the current government.",
         "sources": [
           {
-            "title": "Canberrans with disability fear NDIS changes will cut vital support",
-            "url": "https://www.abc.net.au/news/2026-04-23/canberrans-disability-ndis-changes-vital-support/106598728",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "How the new eligibility test for NDIS participants could work",
-            "url": "https://www.abc.net.au/news/2026-04-23/ndis-eligibility-assessment-tool-could-backfire-say-experts/106597018",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Rinehart’s $200m donation to convert homes for veterans welcomed by RSL – as it happened",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+            "title": "Australia news live: Andrew Hastie says US alliance weakened Australia; Sri Lanka hackers steal millions owed to Australia",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Political Tensions Rise Over Gas Taxation and Energy Policy",
-        "body": "Prime Minister Anthony Albanese appears poised to block proposed tax increases on gas companies, signaling potential friction within government energy policy circles. The move comes amid complex negotiations about resource taxation and national economic strategy.\n\nThe decision could have significant implications for Australia's energy sector and broader economic planning. Political observers are watching closely as the government navigates competing interests between resource companies and public revenue needs.",
-        "sources": [
-          {
-            "title": "Albanese poised to kill off move to increase taxes on gas giants",
-            "url": "https://www.abc.net.au/news/2026-04-23/anthony-albanese-poised-to-kill-off-increased-tax-on-gas-giants/106598932",
-            "source": "ABC Australia",
-            "lean": "center-left"
           },
           {
-            "title": "Canavan's frosty foray into Farrer's campaign trail",
-            "url": "https://www.abc.net.au/news/2026-04-23/matt-canavan-farrer-byelection-gas-tax-ndis-mark-butler/106582600",
+            "title": "Live: Australia must 'get serious' about defence to be better ally to US, Hastie says",
+            "url": "https://www.abc.net.au/news/2026-04-24/federal-politics-live-blog-fuel-defence-gas-tax-ndis/106598842",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "AFL Player Wins Appeal in Controversial Conduct Case",
-        "body": "St Kilda footballer Lance Collard has successfully reduced a ban originally imposed for a homophobic slur, raising questions about disciplinary standards in professional sports. The appeal process highlighted ongoing tensions around appropriate conduct and consequences.\n\nThe case has reignited discussions about player behavior, institutional responses to discriminatory language, and the balance between punishment and rehabilitation in professional athletic environments.",
+        "headline": "Regional Communities Struggle as RSLs Face Membership Crisis",
+        "body": "Veterans' organisations across regional Victoria are confronting an existential threat as membership numbers dramatically decline. Local RSL sub-branches are struggling to maintain operations - a trend that signals broader challenges for community institutions.\n\nVeteran support remains a critical issue, with decorated soldier Keith Payne recently calling for enhanced federal government assistance. The membership crisis highlights the changing social landscape and the need to support veteran communities in new, more adaptive ways.",
         "sources": [
           {
-            "title": "Collard's 'crippling' ban for homophobic slur reduced on appeal",
-            "url": "https://www.abc.net.au/news/2026-04-23/afl-st-kilda-wins-lance-collard-appeal-over-homophobic-slur/106599898",
+            "title": "Regional RSLs facing closure as membership dwindles",
+            "url": "https://www.abc.net.au/news/2026-04-24/regional-victoria-rsl-sub-branches-face-existential-threat/106591572",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "The Green party candidate who wants to ‘burn Zionism to the ground’",
-            "url": "https://www.spectator.com.au/2026/04/the-green-party-candidate-who-wants-to-burn-zionism-to-the-ground/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "VC recipient calls for federal government to step up veteran support",
+            "url": "https://www.abc.net.au/news/2026-04-24/keith-payne-calls-for-better-veterans-care/106473374",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "NDIS Reforms Spark Concern for Regional Families and Carers",
+        "body": "Proposed budget cuts to the National Disability Insurance Scheme are generating significant anxiety among regional families and service providers. Carers fear they will bear the brunt of potential reductions in support and funding.\n\nThe debate reflects ongoing tensions between fiscal management and social service provision. Stakeholders are calling for a nuanced approach that balances budgetary constraints with the critical needs of disabled Australians and their support networks.",
+        "sources": [
+          {
+            "title": "Regional families and carers fear they'll bear the brunt of NDIS cuts",
+            "url": "https://www.abc.net.au/news/2026-04-24/ndis-regional-family-providers-fear-impact-budget-cuts/106596646",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Israel Escalates Lebanon Conflict - Kills Journalist, Razes Villages",
-        "body": "Israeli forces have intensified their assault on Lebanon, killing journalist Amal Khalil in a targeted strike and systematically levelling villages behind the so-called yellow line. The attack on Khalil marks a significant escalation in tensions - one that threatens to broaden the regional conflict beyond Gaza.\n\nThe strike drew immediate condemnation from media organizations and Lebanese officials, who accused Israel of deliberately targeting journalists. Meanwhile, Israeli military operations continue to demolish Lebanese border villages, raising fears of a wider confrontation.",
+        "headline": "Trump Escalates Iran Tensions - US Seizes Oil Ship",
+        "body": "US-Iran maritime confrontation intensified Thursday as President Trump ordered the boarding of an Iranian oil tanker and claimed leadership control over the Strait of Hormuz. The move follows ongoing military posturing that has raised global concerns about potential conflict escalation.\n\nIran swiftly rejected Trump's claims of internal leadership divisions, asserting national unity. Military analysts warn the maritime standoff could trigger broader regional instability, with European powers watching closely for potential diplomatic intervention.",
         "sources": [
           {
-            "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
-            "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
+            "title": "Trump says he is keeping Strait of Hormuz closed, not Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israeli forces levelling Lebanese villages behind ‘yellow line’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-            "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+            "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss",
+            "title": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
+            "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "What is Europe's plan to secure the Strait of Hormuz?",
+            "url": "https://www.dw.com/en/what-is-europe-s-plan-to-secure-the-strait-of-hormuz/a-76911137?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "How Trump’s Iran war is driving military dissent",
+            "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "US Navy Leadership Collapses After Sudden Political Upheaval",
-        "body": "The US Navy's top leadership has been abruptly dismantled after Navy Secretary John Phelan was fired by conservative media personality Pete Hegseth. The Pentagon confirmed Phelan's immediate departure - a move that signals deep political interference in military leadership.\n\nHegseth - a vocal right-wing commentator with close ties to former political circles - has now directly influenced senior military appointments. The sudden leadership change raises questions about the stability of military institutions and potential political motivations behind the dismissal.",
+        "headline": "EU Approves Massive Ukraine Support Package",
+        "body": "The European Union formally approved a 90 billion euro financial package for Ukraine on Thursday, simultaneously introducing new sanctions targeting Russia. The complex loan deal signals continued Western commitment to supporting Ukraine's defense and economic resilience.\n\nThe funding comes amid ongoing speculation about potential conflict intensification. Weapons manufacturers have already reported significant profit increases driven by war-related demand - a controversial economic byproduct of the prolonged regional tensions.",
         "sources": [
           {
-            "title": "Who is John Phelan the US Navy Secretary fired by Pete Hegseth?",
-            "url": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss",
+            "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+            "url": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-            "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+            "url": "https://www.aljazeera.com/economy/2026/4/23/war-driven-demand-boosts-profits-for-weapons-and-aircraft-manufacturers?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Will complex EU loan deal intensify conflict?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Iran War Enters Complex Phase as Regional Tensions Simmer",
-        "body": "The ongoing conflict with Iran has reached a critical juncture - with diplomatic talks stalled and military tensions rising. President Trump's recent ceasefire extension has done little to calm the situation, with Iran seizing a ship in the Strait of Hormuz and continuing strategic maneuvers.\n\nProtesters in London have taken to the streets against the war, highlighting international divisions. The conflict continues to reshape geopolitical dynamics, with potential spillover effects across the Middle East.",
+        "headline": "Pope Condemns Global Migrant Treatment",
+        "body": "Pope Francis sharply criticized international migrant policies Thursday, declaring that refugees are being treated worse than house pets. His comments highlight growing global tensions around human mobility and humanitarian treatment.\n\nThe statement adds moral pressure to ongoing debates about migration, refugee rights, and international humanitarian obligations. Francis's critique underscores the persistent challenges facing displaced populations worldwide.",
         "sources": [
           {
-            "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-            "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
+            "title": "Pope decries migrants and refugees being treated ‘worse than house pets’",
+            "url": "https://www.aljazeera.com/news/2026/4/23/pope-decries-migrants-and-refugees-being-treated-worse-than-house-pets?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Protesters stabbed at London rally against war on Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss",
+            "title": "Pope Leo ends Africa tour with prison visit",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-ends-africa-tour-with-prison-visit?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -232,49 +196,49 @@
     ],
     "ai": [
       {
-        "headline": "AI Reshapes Newsrooms and Workplace Productivity",
-        "body": "Major tech companies are rapidly integrating AI into workplace tools and editorial processes. Google has updated Workspace to position AI as a virtual office intern - promising to automate routine tasks and boost productivity. Meanwhile, newsrooms are developing explicit AI policies to navigate ethical challenges around content generation and attribution.\n\nOpenAI is pushing further, launching tools that allow teams to create custom bots capable of performing independent work tasks. These developments signal a transformative moment for knowledge work - with AI moving from experimental technology to core operational infrastructure.",
+        "headline": "OpenAI Launches GPT-5.5 - Next Step Toward AI Super App",
+        "body": "OpenAI has unveiled GPT-5.5, a new AI model promising enhanced efficiency and coding capabilities. The release signals the company's continued push toward creating a comprehensive AI platform that could transform how users interact with technology.\n\nThe model arrives amid growing competition in the AI space - with companies racing to develop more sophisticated and versatile language models. OpenAI claims GPT-5.5 represents a significant leap forward in natural language processing and computational performance.",
         "sources": [
           {
-            "title": "Google updates Workspace to make AI your new office intern",
-            "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+            "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+            "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Our newsroom AI policy",
-            "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-            "source": "Ars Technica",
+            "title": "GPT-5.5",
+            "url": "https://openai.com/index/introducing-gpt-5-5/",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI now lets teams make custom bots that can do work on their own",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+            "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
             "source": "The Verge",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Giants Battle for AI Chip Supremacy",
-        "body": "The AI hardware race is heating up as Google Cloud launches two new AI chips directly challenging Nvidia's market dominance. This strategic move underscores the critical importance of specialized computing infrastructure for advanced machine learning models.\n\nThe chip development comes amid growing concerns about AI's broader economic impact. Senator Elizabeth Warren has warned that potential AI failures could trigger the next financial crisis - highlighting the high stakes of technological innovation and systemic risk.",
+        "headline": "US Accuses China of Massive AI Technology Theft",
+        "body": "Diplomatic tensions escalated as the United States leveled serious accusations of industrial-scale intellectual property theft in the AI sector against China. The US government claims Chinese entities have systematically stolen AI technologies and research to accelerate their technological development.\n\nChina swiftly rejected the allegations as slander, maintaining that its AI advancements are the result of indigenous innovation. The accusation highlights the ongoing technological and geopolitical competition between the world's two largest economies.",
         "sources": [
           {
-            "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-            "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-            "source": "TechCrunch",
+            "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+            "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+            "source": "Ars Technica",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Meta Cuts 10% of Workforce Amid Tech Industry Restructuring",
+        "body": "Meta announced significant layoffs - cutting 10% of its global workforce in the latest round of tech industry downsizing. The move reflects ongoing challenges in the social media and technology sectors, including reduced advertising revenues and shifting market dynamics.\n\nThe job cuts underscore the continued volatility in big tech employment, with companies reassessing their staffing needs in response to economic pressures and technological transformations.",
+        "sources": [
           {
-            "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-            "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+            "title": "Meta is laying off 10 percent of its staff",
+            "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "OpenAI's response to the Axios developer tool compromise",
-            "url": "https://openai.com/index/axios-developer-tool-compromise/",
-            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -282,30 +246,66 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Wavers Near $80,000 as Market Sentiment Shifts",
-        "body": "Bitcoin's price momentum stalled Thursday, with the cryptocurrency struggling to maintain its recent gains near the $80,000 mark. Traders saw profit-taking pressure emerge, causing a slight pullback in the market. Technical indicators suggest a delicate balance between bullish sentiment and potential correction.",
+        "headline": "Bitcoin Battles Quantum Threat - Governance Crisis Looms",
+        "body": "Bitcoin faces an existential challenge from quantum computing - a problem that runs deeper than technology. The quantum threat isn't just about cryptographic vulnerability. It reveals fundamental governance weaknesses in how Bitcoin might adapt to transformative technological risks.\n\nResearchers suggest the $145 billion math behind Bitcoin's quantum resistance isn't apocalyptic. But the real test is Bitcoin's decentralized decision-making machinery. Can the network coordinate a complex upgrade without fracturing its core principles?",
         "sources": [
           {
-            "title": "Bitcoin's bull score index just left bear territory. There's a warning attached.",
-            "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-s-bull-score-index-just-left-bear-territory-there-s-a-warning-attached",
-            "source": "CoinDesk",
+            "title": "Bitcoin’s Quantum Problem Is Really a Governance Crisis in Disguise: UTXO",
+            "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Bitcoin loses grip near $80,000 as ETH, SOL, DOGE fade on profit-taking",
-            "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-loses-grip-near-usd80-000-as-eth-sol-doge-fade-on-profit-taking",
+            "title": "The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential",
+            "url": "https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Pantera Capital Pushes Satsuma to Liquidate Bitcoin Holdings",
-        "body": "Investment firm Pantera Capital has urged Satsuma to sell its Bitcoin holdings as the company's shares plummet 99%. The dramatic share price collapse highlights the volatile intersection of traditional finance and cryptocurrency investments. Pantera's intervention signals growing pressure on firms to manage their crypto assets strategically.",
+        "headline": "Bitcoin ETFs See Positive Flows as Price Hovers Near $80K",
+        "body": "Bitcoin's price dance around the $80,000 mark continues, with institutional investors showing renewed interest. BlackRock has driven a seven-day inflow streak for Bitcoin ETFs, signaling growing mainstream financial confidence.\n\nAnalysts see this moment as a strategic accumulation window. Despite price volatility - slipping from near-peak levels due to oil price pressures - institutional buyers remain committed. The BNY global head of ETFs confirmed positive flows for the year, underscoring Bitcoin's evolving investment narrative.",
         "sources": [
           {
-            "title": "The DAT collapse: Pantera wants Satsuma to dump its bitcoin as shares crash 99%",
-            "url": "https://www.coindesk.com/markets/2026/04/23/pantera-wants-satsuma-to-dump-its-bitcoin-as-shares-crash-99",
+            "title": "Bitcoin ETF ‘flows turned positive for the year’: BNY’s global head of ETFs",
+            "url": "https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "‘Rally on trial’: Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility",
+            "url": "https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000",
+            "url": "https://cointelegraph.com/news/bitcoin-etf-1-9-billiow-7-day-inflow-streak-btc-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "'Excellent Window' for Strategic Accumulation as Bitcoin Risk Indicator Flips Bullish",
+            "url": "https://decrypt.co/365244/excellent-window-for-strategic-accumulation-as-bitcoin-risk-indicator-flips-bullish",
+            "source": "Decrypt",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US Military Runs Bitcoin Node - Crypto as Geopolitical Tool",
+        "body": "The US military has begun running a Bitcoin node, framing cryptocurrency as a potential instrument of national power projection. An admiral told Congress that Bitcoin could serve strategic national security applications - a move explicitly positioned against Chinese technological competition.\n\nThis unprecedented step transforms Bitcoin from a financial instrument to a potential geopolitical asset. The military's engagement suggests cryptocurrency is no longer just a speculative investment but a serious technological domain with strategic implications.",
+        "sources": [
+          {
+            "title": "US military running Bitcoin node to test national security applications, admiral tells Congress",
+            "url": "https://www.theblock.co/post/398593/us-military-running-bitcoin-node-to-test-national-security-applications-admiral-tells-congress?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
+            "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
             "source": "CoinDesk",
             "lean": null
           }
@@ -315,21 +315,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for even heat distribution and authentic crusty edges"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Warrior Reset",
-      "description": "Perform a targeted 5-minute mobility sequence that counteracts prolonged sitting by opening chest, releasing hip flexors, and realigning spine",
-      "tip": "Use a foam roller along spine to instantly decompress and reset thoracic alignment"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal standing and sitting positions for muscle memory"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Emerging field where city infrastructure and architecture directly mimic natural ecosystem principles like self-regulation, efficiency, and adaptive resilience",
-      "why": "Offers revolutionary solutions to climate adaptation and sustainable urban living by studying how complex natural systems actually work"
+      "topic": "The Kardashev Scale of Civilizational Development",
+      "description": "A theoretical framework for measuring a civilization's technological advancement based on its energy consumption and cosmic engineering capabilities",
+      "why": "It provides a mind-expanding perspective on humanity's potential evolution and our place in the universe's technological hierarchy"
     }
   }
 }
