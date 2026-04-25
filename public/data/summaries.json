@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-04-24T22:19:47.692Z",
+  "generatedAt": "2026-04-25T04:54:10.743Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Weapons Supplies Strained by Multiple Global Conflicts",
-        "body": "US military readiness faces mounting pressure as weapons stockpiles deplete across multiple theaters. Pentagon reports suggest ongoing conflicts are rapidly consuming missile inventories - a trend that could compromise potential defense strategies for Taiwan.\n\nCongressional sources indicate the weapons burn rate in Iran is particularly concerning. Military experts warn that sustained support for Ukraine and potential contingencies in the Pacific are stretching US arsenals to critical limits.",
+        "headline": "Trump's Foreign Policy Sparks Diplomatic Tensions",
+        "body": "Former NATO ambassador Kurt Volker warned of potential diplomatic fallout from Trump's Iran strategy. His comments highlight growing unease about the administration's approach to international relations.\n\nSimultaneously, US military operations continue to demonstrate an assertive foreign policy stance. A strike in the Eastern Pacific killed two suspected narco-terrorists, underscoring the administration's commitment to targeted interventions.",
         "sources": [
           {
-            "title": "US weapons burn rate in Iran undermines plans to defend Taiwan: Reports",
-            "url": "https://thehill.com/policy/defense/5848288-iran-war-impacts-us-missile-supplies/",
+            "title": "Former NATO ambassador warns of ‘terrible consequences’ in criticizing Trump Iran moves",
+            "url": "https://thehill.com/homenews/administration/5848551-kurt-volker-warns-europe/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Bipartisan senators unveil bill pushing back on Trump easing Russia oil sanctions",
-            "url": "https://thehill.com/homenews/senate/5848062-congressional-oversight-trump-russia-sanctions/",
+            "title": "Iran says no meeting planned with US; indicates indirect talks through Pakistan",
+            "url": "https://thehill.com/policy/international/5848420-iran-denies-direct-us-talks/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "US weapons burn rate in Iran undermines plans to defend Taiwan: Reports",
+            "url": "https://thehill.com/policy/defense/5848288-iran-war-impacts-us-missile-supplies/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -24,18 +30,36 @@
             "url": "https://thehill.com/homenews/senate/5848022-wicker-calls-end-iran-talks/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "US imposes sanctions targeting Iran’s oil network in China",
-            "url": "https://thehill.com/policy/international/5848015-iran-oil-sanctions-china/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "DOJ Explores Controversial Execution Methods and Federal Policy Shifts",
-        "body": "The Justice Department is moving to expand federal execution protocols - proposing the return of firing squads and electric chairs for certain death penalty cases. This controversial policy shift has sparked immediate debate across political lines.\n\nSimultaneously, the Trump administration is pursuing unconventional policy changes, including expanded research access to psychedelics like LSD and psilocybin. These moves signal a willingness to challenge established federal guidelines and medical research frameworks.",
+        "headline": "Congressional Ethics and Political Shifts Emerge",
+        "body": "A Florida Democratic representative resigned days before the House Ethics Committee was set to increase pressure - a move that signals ongoing internal party tensions. The incident reflects broader challenges facing political leadership.\n\nIn another development, bipartisan senators are pushing back against potential easing of Russia oil sanctions, demonstrating continued legislative oversight of executive foreign policy decisions.",
+        "sources": [
+          {
+            "title": "Florida Dem filed for re-election days before resignation as House Ethics Committee ramped up pressure",
+            "url": "https://www.foxnews.com/politics/florida-dem-filed-reelection-days-before-resignation-house-ethics-committee-ramped-up-pressure",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Bipartisan senators unveil bill pushing back on Trump easing Russia oil sanctions",
+            "url": "https://thehill.com/homenews/senate/5848062-congressional-oversight-trump-russia-sanctions/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+            "url": "https://www.foxnews.com/politics/hakeem-jeffries-left-scrambling-child-reporter-asks-voters-view-democrats-negatively",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "DOJ Considers Controversial Execution Methods",
+        "body": "The Department of Justice is seeking to reinstate firing squads and electric chairs for certain death penalty cases - a move that has sparked immediate controversy. This policy shift represents a significant change in federal execution protocols.\n\nThe decision comes amid broader discussions about criminal justice and punishment methods, highlighting the ongoing debate about capital punishment in the United States.",
         "sources": [
           {
             "title": "DOJ seeks to bring back firing squads, electric chairs for some death penalty cases",
@@ -48,120 +72,54 @@
             "url": "https://www.washingtonpost.com/national-security/2026/04/24/federal-death-penalty-firing-squads-trump/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Trump orders more access to psychedelics like LSD, psilocybin and ibogaine",
-            "url": "https://www.washingtonpost.com/politics/2026/04/17/trump-psychedelics-psylocibin-research/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Political Tensions Simmer as 2026 Election Dynamics Emerge",
-        "body": "Democratic leadership faces mounting criticism over voter perception and internal challenges. House Minority Leader Hakeem Jeffries struggled to respond when a young reporter questioned negative public sentiment toward the party.\n\nRepublican dynamics remain complex. Some GOP members are considering leaving the party over primary rule disputes, while others continue to navigate Trump's ongoing political influence. The emerging political landscape suggests continued volatility ahead of major electoral contests.",
-        "sources": [
-          {
-            "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-            "url": "https://www.foxnews.com/politics/hakeem-jeffries-left-scrambling-child-reporter-asks-voters-view-democrats-negatively",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump's week of battles and losses",
-            "url": "https://www.npr.org/2026/04/24/nx-s1-5797880/trumps-week-of-battles-and-losses",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Why Tucker Carlson is expressing remorse for supporting Trump",
-            "url": "https://www.npr.org/2026/04/24/nx-s1-5797825/why-tucker-carlson-is-expressing-remorse-for-supporting-trump",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "House Republican would '100%' leave the GOP if red state changed primary rules",
-            "url": "https://www.foxnews.com/politics/house-republican-would-100-leave-gop-red-state-changed-primary-rules",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Victoria Pledges $860M for Social Housing Expansion",
-        "body": "The Victorian government has committed significant funds to address housing shortages. The $860 million investment will create 7,000 new social housing properties across the state - a substantial boost to affordable housing infrastructure.\n\nThis funding represents a direct response to mounting housing pressures. Social housing advocates have long called for increased government investment, and this announcement signals a potential shift in addressing accommodation challenges for vulnerable populations.",
+        "headline": "Anzac Day Marred by Disruptions and Booing at Services Nationwide",
+        "body": "Anzac Day commemorations across Australia were marked by controversy as some attendees disrupted Indigenous speakers during dawn services. Multiple cities - including Melbourne, Sydney, and Perth - saw incidents of heckling and booing during Welcome to Country ceremonies.\n\nPolitical and community leaders swiftly condemned the disruptions. Professor Marcia Langton called for police intervention against what she termed disruptive racists, while other officials described the hecklers as cretins. The incidents have reignited national conversations about respect, reconciliation, and the meaning of Anzac Day.",
         "sources": [
           {
-            "title": "Vic govt announces $860m for 7,000 extra social housing properties",
-            "url": "https://www.abc.net.au/news/2026-04-25/social-housing-victoria-funding-announcement/106604456",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Fast-tracking or ploughing through? Renewable energy shaping up as defining issue for Victorian election",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/25/fast-tracking-or-ploughing-through-renewable-energy-shaping-up-as-defining-issue-for-victorian-election",
+            "title": "The AFL bans disruptive racists. Surely the police can do the same for morons who boo welcome to country on Anzac Day | Marcia Langton",
+            "url": "https://www.theguardian.com/commentisfree/2026/apr/25/disruptive-racists-booing-anzac-day-welcome-country-police-ban-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Anzac Day Commemorations Honor Service and Sacrifice",
-        "body": "Thousands gathered at the Australian War Memorial in Canberra to mark Anzac Day, remembering those who served in military conflicts. The day saw solemn services across the nation - with veterans and community members paying respects.\n\nNotable moments included a unique tribute involving a donkey marching to commemorate animals lost in war. The services also highlighted personal stories of service, including reunions of World War II veterans who had not met for over 80 years.",
-        "sources": [
+          },
           {
-            "title": "'Carry the hope': Thousands gather for Anzac Day service in Canberra",
-            "url": "https://www.abc.net.au/news/2026-04-25/thousands-gather-at-australian-war-memorial-for-anzac-day/106601498",
+            "title": "Leaders condemn 'disgusting' disruptions by 'cretins' at WA Anzac Day services",
+            "url": "https://www.abc.net.au/news/2026-04-25/anzac-day-hecklers-condemned-perth-wa-dawn-services-booing/106606046",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "The donkey marching for the memory of all animals that serve in war",
-            "url": "https://www.abc.net.au/news/2026-04-25/anzac-donkey-animals-lost-to-war-mount-gambier/106602120",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Indigenous speakers booed at Anzac Day services while Ben Roberts-Smith attends separate Gold Coast event",
+            "url": "https://www.theguardian.com/news/2026/apr/25/booing-indigenous-speakers-booed-anzac-day-dawn-service-welcome-country-ben-roberts-smith-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Family history drives Wallaroos star in Anzac Day Test against NZ",
-            "url": "https://www.abc.net.au/news/2026-04-25/anzac-day-test-australia-new-zealand-wallaroos-piper-duck/106601970",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live: Australians mark Anzac Day in solemn memorials as individuals heckling at services condemned",
-            "url": "https://www.abc.net.au/news/2026-04-25/anzac-day-2026-marches-services-live-updates/106597328",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "108yo and 103yo WWII veterans meet after more than 80 years",
-            "url": "https://www.abc.net.au/news/2026-04-25/sa-wwii-veterans-meet-after-more-than-80-years/106590394",
+            "title": "Booing at Melbourne, Sydney and Perth Anzac Day services draws widespread condemnation",
+            "url": "https://www.abc.net.au/news/2026-04-25/anzac-day-booing-heckling-melbourne-sydney-condemnation/106605674",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "CFMEU Inquiry Scrutinizes Labor Projects and Threats",
-        "body": "The ongoing CFMEU inquiry has placed Queensland Labor minister Grace Grace under intense scrutiny. Allegations of project threats and potential misconduct are being examined closely by investigators.\n\nThe inquiry represents a significant moment for labor relations and political accountability. Questions have been raised about the interaction between political figures and union activities - highlighting ongoing tensions in industrial relations.",
+        "headline": "Melbourne Restaurants Targeted in Mysterious Arson Attacks",
+        "body": "Three men have been arrested following an alleged arson attack in Melbourne's central business district. The incident is part of a broader pattern of targeted attacks on hospitality venues that has left local business owners concerned.\n\nAuthorities are investigating the motives behind the attacks. While no clear explanation has emerged, the pattern suggests a deliberate strategy rather than random vandalism. The hospitality sector is on high alert as police continue their investigation.",
         "sources": [
           {
-            "title": "Grace Grace under fire and project threats scrutinised at CFMEU inquiry",
-            "url": "https://www.abc.net.au/news/2026-04-25/qld-cfmeu-inquiry-labor-projects-threats-wrap/106602768",
+            "title": "Three men arrested after alleged arson attack in Melbourne CBD",
+            "url": "https://www.abc.net.au/news/2026-04-25/melbourne-cbd-bar-bambi-arson-attack/106606312",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "One Nation's outcome in Farrer could be a watershed moment",
-            "url": "https://www.abc.net.au/news/2026-04-25/outcome-farrer-byelection-one-nation-watershed-moment/106485956",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Something has changed in Australia. The voters of Farrer may tell us what, and how much",
-            "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/apr/25/something-has-changed-in-australia-the-voters-of-farrer-may-tell-us-what-and-how-much",
+            "title": "Arsonists are targeting Melbourne restaurants and hospitality venues. No one seems to know why",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/25/arsonists-melbourne-restaurants-hospitality-venues-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -170,13 +128,19 @@
     ],
     "world": [
       {
-        "headline": "US Seeks Iran Talks via Pakistan Diplomatic Shuttle",
-        "body": "Trump administration is dispatching senior envoys Witkoff and Kushner to Pakistan in a high-stakes diplomatic mission targeting potential negotiations with Iran. The move signals a delicate attempt to restart dialogue after months of regional tensions.\n\nPakistan will likely serve as an intermediary platform for potential discussions with Iranian officials. Sources suggest the envoys hope to explore pathways for de-escalation and potentially reset diplomatic channels that have been frozen in recent years.",
+        "headline": "Iran War Enters 57th Day as US Seeks Diplomatic Resolution",
+        "body": "US diplomatic efforts intensify in the ongoing Iran conflict. President Trump has dispatched negotiating teams to Pakistan, signaling potential breakthrough in peace talks. Iranian Foreign Minister Araghchi is already in Islamabad, raising hopes for potential dialogue.\n\nThe conflict - now in its second month - has seen escalating tensions and international diplomatic maneuvering. US envoys aim to explore potential negotiation pathways, though specifics remain unclear.",
         "sources": [
           {
-            "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-            "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+            "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -188,9 +152,15 @@
         ]
       },
       {
-        "headline": "Israel Continues Attacks Despite Ceasefire Claims",
-        "body": "Israeli military operations persist in Gaza and Lebanon - killing at least 12 Palestinians and drawing sharp international criticism. The UN warned that ongoing attacks may constitute violations of international law.\n\nDespite proclaimed ceasefires, Israeli forces continue targeted operations. The situation remains volatile - with civilian casualties mounting and diplomatic tensions escalating across multiple fronts.",
+        "headline": "Israel Continues Gaza Attacks Despite Reported Ceasefire",
+        "body": "Israeli military operations in Gaza have killed at least 12 Palestinians, escalating tensions in the region. The attacks come despite claims of an ongoing ceasefire, raising international concerns about potential humanitarian consequences.\n\nSimultaneously, Israel continues military actions in Lebanon, further complicating the regional diplomatic landscape. The persistent violence underscores the fragile nature of current peace negotiations.",
         "sources": [
+          {
+            "title": "Israel escalates attacks in Gaza, killing 12 people",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
             "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
@@ -202,40 +172,22 @@
             "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Israeli attacks on Lebanon may violate international law, UN warns",
-            "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Trump Administration Tightens Immigration and Judicial Policies",
-        "body": "The Trump administration is moving aggressively on multiple legal and immigration fronts. An appeals court rejected the president's asylum seeker ban - setting up a potential Supreme Court challenge.\n\nSimultaneously, the Justice Department dropped its investigation into Federal Reserve Chair Jerome Powell. The administration also signaled plans to prioritize death penalty cases and potentially use firing squads for executions.",
+        "headline": "OpenAI Chief Apologizes Over Mass Shooter Reporting Failure",
+        "body": "Sam Altman, CEO of OpenAI, has issued a public apology regarding the company's failure to report a Canadian mass shooter. The incident highlights growing scrutiny of tech companies' social responsibilities.\n\nThe controversy emerges as broader questions about AI governance and corporate accountability continue to gain prominence in public discourse.",
         "sources": [
           {
-            "title": "Trump to again end legal status of people who entered US with CBP One app",
-            "url": "https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app?traffic_source=rss",
+            "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+            "url": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
-            "url": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US justice department drops probe into Fed chairman Jerome Powell",
-            "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump administration to prioritise seeking death penalty, use firing squads",
-            "url": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads?traffic_source=rss",
+            "title": "Who’s in control of AI?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -244,32 +196,26 @@
     ],
     "ai": [
       {
-        "headline": "Google Doubles Down on AI with $40B Anthropic Investment",
-        "body": "Google is making a massive bet on artificial intelligence, committing up to $40 billion in cash and computing resources to Anthropic. The investment signals an escalating AI arms race between tech giants seeking to dominate the next generation of machine learning technologies.\n\nThis strategic move comes as companies like OpenAI continue to release advanced models - including the newly launched GPT-5.5 - and as AI startups attract increasing venture capital. Google's substantial stake suggests the company sees Anthropic as a critical partner in its AI development strategy.",
+        "headline": "Google Bets Big on Anthropic with $40 Billion Investment",
+        "body": "Google is doubling down on artificial intelligence by committing up to $40 billion in cash and computing resources to Anthropic. The massive investment signals the tech giant's aggressive strategy to compete in the rapidly evolving AI landscape. By backing Anthropic - a key player in large language model development - Google aims to strengthen its position against rivals like OpenAI and Microsoft.",
         "sources": [
+          {
+            "title": "Google will invest as much as $40 billion in Anthropic",
+            "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+            "source": "Ars Technica",
+            "lean": null
+          },
           {
             "title": "Google to invest up to $40B in Anthropic in cash and compute",
             "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-            "url": "https://developers.openai.com/api/docs/changelog",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Meta’s loss is Thinking Machines’ gain",
-            "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Drug Discovery Advances with First Human Trials",
-        "body": "Artificial intelligence is breaking new ground in pharmaceutical research, with an AI-designed drug from a DeepMind spinoff entering human trials. The breakthrough highlights how machine learning can accelerate drug discovery by identifying potential treatments faster and more efficiently than traditional methods.\n\nThis development follows recent advances in AI-powered scientific research, including new vision-language pretraining techniques and enhanced computational approaches. Researchers are increasingly viewing AI as a transformative tool for solving complex scientific challenges.",
+        "headline": "AI Drives Drug Discovery as DeepMind Spinoff Enters Human Trials",
+        "body": "Artificial intelligence is transforming pharmaceutical research with AI-designed drugs moving closer to human testing. A DeepMind spinoff is preparing to launch clinical trials for compounds generated through advanced machine learning algorithms. This breakthrough highlights AI's potential to accelerate drug discovery - potentially reducing development times and costs while identifying novel therapeutic approaches that human researchers might overlook.",
         "sources": [
           {
             "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
@@ -278,15 +224,21 @@
             "lean": null
           },
           {
-            "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
-            "url": "https://gdm-tipsv2.github.io/",
-            "source": "Hacker News",
+            "title": "Three reasons why DeepSeek’s new model matters",
+            "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+            "source": "MIT Tech Review",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Military Embraces AI Technology Through Project Maven",
+        "body": "The U.S. military has fundamentally reshaped its technological approach by integrating artificial intelligence into strategic operations. Project Maven represents a watershed moment - transforming how defense technologies are conceived and deployed. Military leaders now view AI not just as a tool but as a critical component of modern warfare strategy.",
+        "sources": [
           {
-            "title": "There Will Be a Scientific Theory of Deep Learning",
-            "url": "https://arxiv.org/abs/2604.21691",
-            "source": "Hacker News",
+            "title": "How Project Maven taught the military to love AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+            "source": "The Verge",
             "lean": null
           }
         ]
@@ -294,8 +246,8 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Rallies - Best Monthly Performance Since 2024",
-        "body": "Bitcoin is charging toward its strongest monthly performance in over a year. Tether's $5 billion growth has fueled the rebound, pushing prices near $78,000. Market analysts at VanEck see dual bullish signals emerging - including negative funding rates and slight hash rate fluctuations.\n\nThe cryptocurrency's momentum comes amid complex market dynamics. Traders are unwinding leveraged positions while watching broader economic indicators, particularly oil market movements that could impact risk assets.",
+        "headline": "Bitcoin Rallies: Best Month in a Year, Funding Turns Bullish",
+        "body": "Bitcoin is staging a robust recovery, marking its strongest monthly performance in 2026. Tether's $5 billion growth has fueled the rebound, signaling renewed market confidence. Funding rates have turned negative - typically a bullish indicator that suggests traders are paying to short Bitcoin, potentially setting up a short squeeze.\n\nAnalysts at VanEck see dual positive signals. The cryptocurrency hovers around $78,000, with market dynamics suggesting potential upward momentum despite oil market volatility threatening risk assets.",
         "sources": [
           {
             "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
@@ -314,70 +266,28 @@
             "url": "https://cointelegraph.com/markets/bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin price set for best gains since Q4 2024 with $77.5K monthly close",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-set-for-best-gains-since-q4-2024-with-77-5k-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin stalls below at $77,500 as volatility cools, traders unwind leverage",
-            "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-stalls-below-at-usd77-500-as-volatility-cools-traders-unwind-leverage",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Quantum Threat Looms - Bitcoin Security Tested",
-        "body": "Bitcoin's cryptographic foundations face potential quantum computing challenges after a researcher successfully broke a 15-bit elliptic curve key. The breakthrough - which earned a one-bitcoin bounty - signals growing concerns about future quantum attacks on blockchain technology.\n\nResearchers are proactively testing Bitcoin's resilience, with Project Eleven leading efforts to identify and address potential quantum vulnerabilities before they become critical threats to the network's security.",
+        "headline": "Tennessee Bans Bitcoin ATMs in Crypto Crackdown",
+        "body": "Tennessee has become the second U.S. state to outlaw Bitcoin ATMs, escalating regulatory pressure on cryptocurrency infrastructure. The move signals growing state-level resistance to digital asset proliferation.\n\nThis legislative action follows a trend of increased scrutiny, potentially complicating Bitcoin's grassroots adoption strategy. Local Bitcoin users and businesses will need to adapt to the new restrictions.",
         "sources": [
           {
-            "title": "Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key",
-            "url": "https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key",
+            "title": "Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs",
+            "url": "https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms",
             "source": "Decrypt",
             "lean": null
-          },
-          {
-            "title": "Researcher wins 1 bitcoin bounty for 'largest quantum attack' on underlying tech",
-            "url": "https://www.coindesk.com/tech/2026/04/24/researcher-wins-1-bitcoin-bounty-for-largest-quantum-attack-on-underlying-tech",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Researcher breaks 15-bit elliptic curve key in ‘largest quantum attack,’ wins 1 bitcoin bounty from Project Eleven",
-            "url": "https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Corporate Bitcoin Buying Accelerates with Strategic Moves",
-        "body": "Corporate investment in Bitcoin continues to expand, with Metaplanet issuing $50 million in zero-interest bonds specifically to purchase more cryptocurrency. The strategic move underscores growing institutional confidence in Bitcoin as a treasury asset.\n\nNakamoto has also launched a sophisticated derivatives program, partnering with Bitwise and Kraken to develop options strategies that capture volatility and hedge potential downside risks.",
+        "headline": "Bitcoin Developer Proposes New Hard Fork: eCash",
+        "body": "Bitcoin developer Paul Sztorc has announced a new hard fork called eCash, potentially introducing significant protocol changes. The proposal adds complexity to Bitcoin's ongoing technological evolution.\n\nHard forks represent critical moments in cryptocurrency development - they can either fragment the network or introduce meaningful innovations. The crypto community will closely watch how this proposal develops and whether it gains meaningful support.",
         "sources": [
           {
-            "title": "Nakamoto (NAKA) Launches Bitcoin Derivatives Program to Capture Volatility Income and Hedge Downside Risk",
-            "url": "https://bitcoinmagazine.com/news/nakamoto-bitcoin-derivatives-program",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Metaplanet Issues $50M in Zero-Interest Bonds to Buy More Bitcoin",
-            "url": "https://bitcoinmagazine.com/news/metaplanet-issues-50m-bonds-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Metaplanet raises $50M in zero-interest bonds to buy more Bitcoin",
-            "url": "https://cointelegraph.com/news/metaplanet-issues-50-million-in-zero-coupon-bonds-to-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Nakamoto taps Bitwise and Kraken for Bitcoin options strategy to hedge risk",
-            "url": "https://cointelegraph.com/news/nakamoto-taps-bitwise-kraken-bitcoin-options-strategy-hedge-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+            "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -387,21 +297,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Provençal Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
-      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
+      "name": "Dynamic Desk Decompression",
+      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching positions every 25 minutes to reset spinal alignment and muscular tension",
+      "tip": "Set a subtle phone alarm with a gentle chime to remind you to shift positions without disrupting workflow"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
-      "why": "Reveals how billions of years of evolutionary design can solve complex human challenges in transportation, energy, and community planning"
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems' efficiency",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to climate adaptation"
     }
   }
 }
