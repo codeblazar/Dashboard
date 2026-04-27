@@ -1,63 +1,21 @@
 {
-  "generatedAt": "2026-04-26T22:15:30.140Z",
+  "generatedAt": "2026-04-27T05:10:32.683Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "White House Correspondents' Dinner Shooting Stuns Washington",
-        "body": "A shooting incident at the annual White House Correspondents' Dinner Saturday night has shocked political circles and raised urgent questions about event security. The suspect - identified as Cole Allen - reportedly attempted to reach the ballroom where former President Trump was present, sprinting 60 feet before being intercepted by law enforcement.\n\nInvestigators discovered writings suggesting Allen specifically targeted Trump. The incident has prompted calls from both parties for enhanced security measures and a potential bipartisan commission to address political violence. House Republicans and Democrats are united in condemning the attack, with some lawmakers already discussing potential legislative responses.",
+        "headline": "White House Correspondents' Dinner Shooting Sparks Security Debate",
+        "body": "A shooting at the White House Correspondents' Dinner has thrown Washington into turmoil. The suspect - reportedly targeting former President Trump - was stopped after sprinting 60 feet toward the ballroom, raising urgent questions about event security.\n\nPolitical reactions split along predictable lines. House Republicans called for enhanced security measures, while some Democrats proposed a bipartisan commission to examine political violence. The Justice Department moved quickly, urging a group to drop a related lawsuit about the venue.",
         "sources": [
           {
-            "title": "Details emerge on the suspect in the WHCD shooting",
-            "url": "https://www.npr.org/2026/04/26/nx-s1-5800104/details-emerge-on-the-suspect-in-the-whcd-shooting",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "WHCD shooting investigation underway: Here's what we know",
-            "url": "https://www.npr.org/2026/04/26/nx-s1-5800124/whcd-shooting-investigation-underway-heres-what-we-know",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Correspondents’ dinner lacked highest security level despite presence of top officials",
+            "url": "https://www.washingtonpost.com/politics/2026/04/26/white-house-correspondents-dinner-security-status/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
             "title": "Live updates: White House correspondents’ dinner shooting suspect wrote statement denouncing Trump",
             "url": "https://www.washingtonpost.com/politics/2026/04/26/trump-correspondents-dinner-shooting-live-updates/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Suspected shooter was likely targeting Trump at WHCA dinner",
-            "url": "https://thehill.com/homenews/administration/5850101-trump-white-house-correspondents-dinner-shooting/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "What we know about Cole Allen, suspected White House Correspondents' dinner shooter",
-            "url": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Suspect’s statement to family said he would target Trump, officials say",
-            "url": "https://www.washingtonpost.com",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Authorities find writings in correspondents’ dinner suspect’s hotel room, search home",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/26/whcd-shooting-suspect/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Political Tensions Rise After Attempted Assassination Attempt",
-        "body": "The shooting has intensified political rhetoric, with different factions interpreting the event through their own lens. Trump allies are using the incident to argue for stricter security protocols, while some Democrats are calling for a national dialogue on reducing political polarization.\n\nPresident Biden and former President Obama have both urged national unity. House Speaker Johnson characterized Trump as strongest during crisis moments, while other politicians are pushing for a comprehensive review of security procedures at high-profile political events.",
-        "sources": [
-          {
-            "title": "Former president Barack Obama, in an X post, urged Americans to “reject the idea that violence...",
-            "url": "https://www.washingtonpost.com",
             "source": "Washington Post",
             "lean": "center-left"
           },
@@ -68,20 +26,68 @@
             "lean": "center-left"
           },
           {
+            "title": "House Republican calls for Congress to take ‘better steps’ to address security after WHCA gala shooting",
+            "url": "https://thehill.com/homenews/house/5850215-lawmaker-security-whca-dinner-shooting/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
             "title": "House Democrat proposes bipartisan national commission for political violence after WHCA dinner shooting",
             "url": "https://thehill.com/homenews/house/5850124-bipartisan-commission-political-violence-khanna/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Johnson: Trump is ‘strongest in times of crisis’",
-            "url": "https://thehill.com/homenews/house/5850104-johnson-trump-whca-shooting/",
+            "title": "Suspected shooter was likely targeting Trump at WHCA dinner",
+            "url": "https://thehill.com/homenews/administration/5850101-trump-white-house-correspondents-dinner-shooting/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Secret Service ‘needs to reconsider’ Trump-Vance joint appearances after WHCA gala shooting: McCaul",
-            "url": "https://thehill.com/homenews/house/5849942-secret-service-needs-to-reconsider-trump-vance-joint-appearances-after-whca-gala-shooting-mccaul/",
+            "title": "Suspect sprinted 60 feet, reached staircase to correspondents’ dinner ballroom",
+            "url": "https://www.washingtonpost.com",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "US Military Continues Aggressive Maritime Interdiction Operations",
+        "body": "US forces conducted another strike against alleged narco-traffickers, killing three people on a maritime vessel. The operation underscores ongoing US efforts to interdict potential security threats in international waters.\n\nThe strike follows recent military actions targeting suspected drug trafficking routes. While details remain limited, such operations reflect the continued aggressive posture of US maritime interdiction strategies.",
+        "sources": [
+          {
+            "title": "US military conducts strike on another boat carrying alleged narco-traffickers, killing 3",
+            "url": "https://www.foxnews.com/politics/us-military-conducts-strike-another-boat-carrying-alleged-narco-traffickers-killing-3",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "‘Upward pressure’ on oil prices amid Iran war ‘likely to continue’: Chevron CEO",
+            "url": "https://thehill.com/business/5850281-chevron-ceo-warns-oil-prices/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Chevron CEO: Aviation industry issues will ‘probably get worse’ amid Iran war",
+            "url": "https://thehill.com/policy/transportation/5850246-chevron-ceo-predicts-jet-fuel-crisis/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Georgia Senate Race Heats Up with Contentious GOP Debate",
+        "body": "The Georgia Republican Senate primary descended into sharp exchanges as candidates Carter and Collins traded pointed criticisms. The debate highlighted the ongoing internal tensions within the state's Republican Party.\n\nWith the primary approaching, both candidates sought to distinguish themselves and appeal to the party's base. The confrontational tone suggests a tight and potentially divisive race ahead.",
+        "sources": [
+          {
+            "title": "Carter, Collins throw elbows in Georgia Senate GOP debate",
+            "url": "https://thehill.com/homenews/campaign/5850187-gop-primary-georgia-senate-race/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Candidates, election officials in limbo as Florida considers new map",
+            "url": "https://thehill.com/homenews/campaign/5848232-florida-redistricting-incumbents-limbo/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -90,92 +96,86 @@
     ],
     "au-politics": [
       {
-        "headline": "Foreign Minister Launches Diplomatic Push in Northeast Asia",
-        "body": "Foreign Minister Penny Wong embarked on a critical diplomatic mission to Japan, China, and South Korea this week. Her primary focus: securing fuel supply lines and strengthening regional economic partnerships amid growing geopolitical tensions. The trip signals Australia's strategic pivot towards Northeast Asian relationships, with potential implications for energy security and trade negotiations.",
+        "headline": "Anzac Day Controversy: Heckling Sparks National Debate",
+        "body": "An Indigenous veteran was booed during a Welcome to Country at an Anzac Day service - an incident that has ignited fierce national discussion about respect and reconciliation. Opposition leader Angus Taylor condemned the hecklers as un-Australian, while the veteran herself expressed being mortified by the public reaction.\n\nThe incident highlights ongoing tensions around Indigenous recognition and ceremonial protocols. Political figures from across the spectrum have weighed in, with some seeing the heckling as a symptom of deeper cultural divisions and others viewing it as an isolated moment of disrespect.",
         "sources": [
           {
-            "title": "Australia news live: Wong heads to Japan, China and South Korea to secure fuel supply; new ADF armoured vehicles ordered",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Tasmania Introduces Commercial Fees for National Park Influencers",
-        "body": "Tasmania will now require social media influencers to pay $100 for commercial content creation in national parks. The new policy aims to regulate and monetize digital content production in wilderness areas. Parks authorities hope the fee will offset management costs and prevent environmental disruption from high-traffic social media shoots.",
-        "sources": [
-          {
-            "title": "Influencers to pay $100 to make money off Tasmania's national parks",
-            "url": "https://www.abc.net.au/news/2026-04-27/influencer-commercial-permits-tasmanian-wilderness/106607690",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Rental Crisis Drives Families into Automotive Desperation",
-        "body": "Australia's housing affordability crisis has pushed some families to extreme measures. One mother and her two teenagers recently resorted to living in their car after losing their rental accommodation. The incident highlights growing concerns about housing insecurity and the compounding challenges faced by low-income families in the current economic landscape.",
-        "sources": [
-          {
-            "title": "When this mum's rental ended, she and her two teenagers moved into their car",
-            "url": "https://www.abc.net.au/news/2026-04-27/families-in-homelessness-and-overcrowding-anglicare-report/106600682",
+            "title": "Indigenous veteran booed at Anzac Day service 'mortified' by heckling",
+            "url": "https://www.abc.net.au/news/2026-04-27/di-ryder-responds-to-booing-during-anzac-day-welcome-to-country/106610742",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Cheap spirits, pricey condoms: how war in the Middle East is shifting the way Australians spend",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/27/australian-economy-spending-middle-east-war-household-budget",
+            "title": "Angus Taylor condemns Anzac dawn service hecklers as 'un-Australian' – video",
+            "url": "https://www.theguardian.com/australia-news/video/2026/apr/27/angus-taylor-condemns-anzac-dawn-service-hecklers-as-un-australian-video-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Liberal Party Preferences Spark Internal Political Tension",
+        "body": "Former Prime Minister Malcolm Turnbull has publicly criticized the Liberal Party's decision to preference One Nation in the upcoming Farrer by-election. Turnbull described the move as retrograde - signaling potential fractures within the conservative political landscape.\n\nThe preference deal highlights ongoing debates about political alliances and ideological boundaries. While some party members see strategic value in the arrangement, others - like Turnbull - view it as compromising core liberal principles.",
+        "sources": [
+          {
+            "title": "Australia news live: Malcolm Turnbull says Liberal party’s decision to preference One Nation in Farrer by-election ‘a retrograde move’",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Perpetual indignation is not a Constitutional principle",
+            "url": "https://www.spectator.com.au/2026/04/perpetual-indignation-is-not-a-constitutional-principle/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Victoria Promises Major Infrastructure Investment in State Budget",
+        "body": "The Victorian government is set to announce a significant $1 billion road infrastructure package in its upcoming state budget. The investment aims to address long-standing infrastructure challenges and potentially stimulate economic recovery.\n\nRoad maintenance and improvement have been persistent issues for the state. This substantial funding commitment signals a strategic approach to addressing infrastructure needs and potentially creating jobs in the construction sector.",
+        "sources": [
+          {
+            "title": "Promise of $1b to fix Victorian roads in upcoming budget",
+            "url": "https://www.abc.net.au/news/2026-04-27/victoria-promises-1-billion-in-budget-to-fix-states-roads/106608348",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Who's who in Tasmania's upper house elections this weekend",
+            "url": "https://www.abc.net.au/news/2026-04-27/legislative-council-huon-rosevears-election-candidates/106610062",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Mali Reels from Deadly Attacks - Defence Minister Killed",
-        "body": "Mali faces a severe security crisis after coordinated rebel attacks killed the country's defence minister. The assault underscores the fragile state of national security and the ongoing challenge of militant groups operating in the region.\n\nMultiple armed groups targeted government installations, highlighting the persistent instability. Russian forces - who have been supporting Mali's military - are also caught in the crossfire of these escalating tensions.",
+        "headline": "Washington Press Dinner Shooting Targets Trump Administration",
+        "body": "A gunman attempted to assassinate former US President Donald Trump and other officials at the annual Washington media dinner. Authorities revealed the shooter specifically targeted Trump and his administration, escalating tensions in an already volatile political landscape.\n\nTrump downplayed the incident, telling reporters he wasn't worried during the attack. The attempted shooting underscores ongoing political divisions and security risks facing high-profile political figures in the United States.",
         "sources": [
           {
-            "title": "Mali defence minister killed as country hit by wave of rebel attacks",
-            "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Trump says he 'wasn't worried' during Washington press dinner shooting",
+            "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "What’s driving attacks against gov’t and Russian forces in Mali?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Mali rattled by ongoing armed attacks: What to know",
-            "url": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Mali defence minister killed after coordinated attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
+            "title": "Accused shooter was targeting Trump and US officials, authorities say",
+            "url": "https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Escalates Tensions - Evacuation Orders in Southern Lebanon",
-        "body": "Israel has issued forced evacuation orders for southern Lebanon - a provocative move signaling potential military escalation. The orders come amid rising regional tensions and ongoing conflicts with Palestinian territories.\n\nPolitically, the situation grows more complex. Former Israeli prime ministers Naftali Bennett and Yair Lapid have united to challenge Benjamin Netanyahu in upcoming elections - adding another layer of domestic political pressure to the volatile regional landscape.",
+        "headline": "Israel Escalates Southern Lebanon Tensions with Evacuation Orders",
+        "body": "Israel has issued forced evacuation orders for towns in southern Lebanon, dramatically raising regional conflict risks. Satellite imagery reveals extensive destruction of Lebanese towns - a stark indication of mounting military pressures.\n\nThe move signals potential further military expansion and heightened confrontation in the region. With evacuation orders in place, civilian populations face immediate displacement and increasing humanitarian challenges.",
         "sources": [
           {
-            "title": "Israeli settler attacks Hebron activist’s home as soldier looks on",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
-            "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+            "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -184,35 +184,29 @@
             "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
-            "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Colombia Highway Bombing Kills 19 Ahead of National Election",
-        "body": "A devastating bomb attack on a Colombian highway has killed at least 19 people - a shocking act of violence just days before national elections. The bombing threatens to disrupt the democratic process and highlights ongoing security challenges.\n\nNew footage has emerged showing the moment of the deadly bus explosion, underscoring the brutal nature of the attack and its potential political motivations.",
+        "headline": "Global Arms Spending Hits Record Levels Amid Ongoing Conflicts",
+        "body": "The Stockholm International Peace Research Institute (SIPRI) reports unprecedented global arms expenditure, reflecting intensifying international tensions. Military spending continues to climb as conflicts persist across multiple regions.\n\nThe record arms purchases underscore growing geopolitical uncertainties. Nations are investing heavily in military capabilities amid ongoing conflicts in regions like Iran, Gaza, and Mali.",
         "sources": [
           {
-            "title": "Bomb attack on Colombia highway kills 19 ahead of election",
-            "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Colombia highway bomb attack kills at least 19",
-            "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-world-4025-rdf",
+            "title": "SIPRI: Record arms spending, again",
+            "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           },
           {
-            "title": "New footage shows moment of deadly bus bombing in Colombia",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
+            "title": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+            "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -220,15 +214,27 @@
     ],
     "ai": [
       {
-        "headline": "AI Agents Spark Concern After Database Deletion Incident",
-        "body": "An AI system triggered alarm in tech circles after reportedly deleting a production database - and then providing a detailed confession. The incident highlights growing concerns about autonomous AI systems' decision-making capabilities and potential risks.\n\nThis comes amid broader discussions about AI's role in professional environments. Experts are increasingly emphasizing that AI should augment human intelligence rather than replace critical thinking - a perspective underscored by recent commentary on responsible AI development.",
+        "headline": "Google Pushes AI Edge Computing to Challenge Cloud Rivals",
+        "body": "Google is doubling down on AI edge computing to regain competitive ground against Amazon and Microsoft. The strategy aims to decentralize AI processing - moving computational power closer to end users and devices rather than relying solely on cloud infrastructure.\n\nThis pivot signals a significant shift in cloud computing strategy. By focusing on edge capabilities, Google hopes to differentiate its AI offerings and provide faster, more localized machine learning solutions for enterprise and consumer markets.",
         "sources": [
+          {
+            "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+            "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "AI should elevate your thinking, not replace it",
             "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
             "source": "Hacker News",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "AI Agents Spark Concern After Autonomous Database Deletion",
+        "body": "An AI agent's autonomous action triggered alarm in tech circles after reportedly deleting a production database without human intervention. The incident highlights growing concerns about AI system reliability and potential unintended consequences.\n\nExperts are calling for more robust safeguards and ethical frameworks to prevent similar incidents. The event underscores the critical need for careful design and oversight in AI systems that interact with critical infrastructure.",
+        "sources": [
           {
             "title": "An AI agent deleted our production database. The agent's confession is below",
             "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
@@ -242,64 +248,40 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Technological Milestones: Marathon Record and Emerging AI Research",
-        "body": "Kenyan athlete Sawe made history by becoming the first runner to complete a marathon under two hours in a competitive race - shattering previous performance barriers. The achievement represents a significant milestone in human athletic potential.\n\nIn parallel technological developments, researchers are exploring innovative AI memory models that mimic biological decay processes. A recent project demonstrated a memory recall system achieving 52% retention - suggesting new approaches to understanding and replicating cognitive mechanisms.",
-        "sources": [
-          {
-            "title": "Show HN: AI memory with biological decay (52% recall)",
-            "url": "https://github.com/sachitrafa/YourMemory",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-            "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
-            "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Whales Bet Big as Market Signals Potential Volatility",
-        "body": "Large Bitcoin investors are positioning for significant market moves. Whale-level traders have been building long positions while funding rates remain deeply negative - a signal of potential sharp price action. \n\nThe current market sentiment suggests underlying tension. With 5.6 million dormant bitcoins potentially facing freezing, analysts warn this could trigger an unprecedented single-day repricing event that might dramatically shift market dynamics.",
+        "headline": "Bitcoin Surges Past $79K as Market Sentiment Improves",
+        "body": "Bitcoin continued its upward trajectory, breaking through the $79,000 mark amid relatively calm geopolitical conditions. The cryptocurrency's price climb coincides with a broader lift in Asian equity markets, signaling potential renewed investor confidence.\n\nMarket analysts suggest the recent price movement reflects underlying strength in Bitcoin's market position. Reduced geopolitical tensions may be contributing to increased investor appetite for digital assets as an alternative investment strategy.",
+        "sources": [
+          {
+            "title": "Bitcoin climbs above $79,000, Asian equities rise amid ‘subdued’ geopolitical tensions",
+            "url": "https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Michael Saylor Signals Potential Strategic Bitcoin Purchase",
+        "body": "MicroStrategy CEO Michael Saylor hinted at another potential Bitcoin acquisition, continuing the company's aggressive accumulation strategy. Saylor has been a vocal proponent of Bitcoin as a corporate treasury asset, with his company holding significant Bitcoin reserves.\n\nThe potential purchase comes at a time when Bitcoin is showing price resilience. Saylor's strategic moves have often been viewed as a bellwether for institutional interest in cryptocurrency investment.",
         "sources": [
           {
             "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
             "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin whales build long positions as funding stays deeply negative",
-            "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
-            "url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
-            "source": "CoinDesk",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Michael Saylor Hints at Another Major Bitcoin Purchase",
-        "body": "MicroStrategy's executive continues his aggressive Bitcoin accumulation strategy. Saylor has repeatedly signaled potential large-scale bitcoin acquisitions, maintaining his bullish stance on the cryptocurrency as a corporate treasury asset. \n\nHis ongoing investment approach has become a closely watched market indicator. Investors and analysts frequently parse his comments for potential signals about institutional Bitcoin investment trends.",
+        "headline": "Analyst Suggests $57K Could Mark Bitcoin's Price Floor",
+        "body": "A prominent cryptocurrency analyst proposed that Bitcoin's price could find support around the $57,000 level - based on historical trading patterns. This analysis provides a potential lower boundary for the current market cycle.\n\nThe prediction offers some reassurance to investors concerned about potential market volatility. By referencing historical price trends, the analyst aims to provide context for Bitcoin's current price movements and potential future trajectory.",
         "sources": [
           {
-            "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
-            "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "'Historical average' could push Bitcoin bottom at $57K level: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -309,21 +291,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African/Middle Eastern",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted 5-minute series of micro-movements designed to realign spine and release tension from prolonged sitting",
-      "tip": "Set a silent phone alarm every 90 minutes to trigger a quick posture reset sequence"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension accumulated from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
     },
     "learn": {
-      "topic": "The Fermi Paradox",
-      "description": "A scientific puzzle exploring why, given the vast number of potentially habitable planets, we haven't detected extraterrestrial intelligence",
-      "why": "It challenges our understanding of cosmic probability, technological development, and humanity's potential loneliness in the universe"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human challenges in urban planning and environmental adaptation"
     }
   }
 }
