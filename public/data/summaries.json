@@ -1,12 +1,66 @@
 {
-  "generatedAt": "2026-04-28T05:12:58.004Z",
+  "generatedAt": "2026-04-28T10:45:36.385Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "White House Correspondents' Dinner Shooting Sparks Security Debate",
-        "body": "A shooting at the annual White House Correspondents' Dinner has triggered intense scrutiny of event security and political rhetoric. The suspect, Cole Allen, faces assassination charges after allegedly attempting to target former President Trump during the high-profile media gathering.\n\nWhite House and Secret Service officials are now reviewing security protocols. Lawmakers from both parties have condemned the incident, with some calling for a broader examination of political violence and inflammatory language in public discourse.",
+        "headline": "Tensions Rise: House GOP Battles Over DHS Funding",
+        "body": "Republican infighting has stalled Department of Homeland Security funding, creating a high-stakes political standoff. House Speaker Mike Johnson faces mounting roadblocks as Senate and House Republicans disagree on funding strategies - a conflict that could paralyze critical government operations.\n\nThe dispute centers on budget allocations and security protocols, particularly in the wake of recent high-profile security incidents. Senate Republicans are pushing for specific funding measures, while House members remain divided on approach and scale of financial support.",
         "sources": [
+          {
+            "title": "Johnson hits mounting roadblocks in race to reopen DHS",
+            "url": "https://thehill.com/homenews/house/5851803-mike-johnson-dhs-funding-ballroom/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "GOP tensions over DHS funding intensify between Senate, House Republicans",
+            "url": "https://thehill.com/homenews/house/5851954-gop-tensions-intensify-over-dhs-funding-between-senate-house-republicans/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Republicans scramble to fund Secret Service after Trump assassination attempt amid record-breaking shutdown",
+            "url": "https://www.foxnews.com/politics/republicans-scramble-fund-secret-service-after-trump-assassination-attempt-amid-record-breaking-shutdown",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Florida Redistricting Push Could Reshape Congressional Map",
+        "body": "Florida Governor Ron DeSantis is mobilizing state lawmakers for an aggressive redistricting effort that could significantly impact the national political landscape. The proposed map changes have potential to tip the House balance in Republicans' favor - a move drawing intense scrutiny from both parties.\n\nDemocrats view the redistricting as a strategic Republican maneuver, while GOP leaders argue the changes reflect fair representation. The outcome could have far-reaching implications for the 2026 midterm elections and congressional power dynamics.",
+        "sources": [
+          {
+            "title": "Florida lawmakers eye redistricting push: What to know about DeSantis’s House map",
+            "url": "https://thehill.com/homenews/campaign/5851758-desantis-florida-gop-redistricting/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "DeSantis under pressure as Florida redraw could tip House balance in GOP map fight",
+            "url": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "DeSantis calls back lawmakers for Florida redistricting effort",
+            "url": "https://www.npr.org/2026/04/28/nx-s1-5798732/desantis-calls-back-lawmakers-for-florida-redistricting-effort",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "White House Correspondents' Dinner Shooting Sparks Security Review",
+        "body": "The recent shooting at the White House Correspondents' Dinner has triggered a comprehensive security review and renewed debates about public event safety. The incident has prompted calls for enhanced protective measures and investigations into the shooter's background and motivations.\n\nPolitical figures from across the spectrum have condemned the violence, with some lawmakers seeking detailed briefings on the security protocols that failed. The White House is expected to conduct a thorough examination of current safety procedures.",
+        "sources": [
+          {
+            "title": "Hasan Piker, the WHCA shooter, ‘social murder’ and the real McCoy",
+            "url": "https://thehill.com/newsletters/whole-hog-politics/5851825-media-celebrities-preening-ordeal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Erika Kirk calls WHCA dinner shooting ‘another traumatic example of the evil in our country’",
             "url": "https://thehill.com/blogs/in-the-know/5852082-erika-kirk-whca-dinner-shooting/",
@@ -18,87 +72,51 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/27/trump-security-review-correspondents-dinner/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Correspondents’ dinner suspect charged with attempting to assassinate Trump",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/27/cole-allen-assassination-charge-trump/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Jane Fonda’s free speech group defends Kimmel amid Trump firing call: ‘Satire is not a crime’",
-            "url": "https://thehill.com/homenews/media/5851733-jane-fonda-jimmy-kimmel-whca-dinner-shooting-trump/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump assassination attempt sparks new wave of unfounded conspiracy theories",
-            "url": "https://thehill.com/homenews/media/5851732-conspiracy-theories-trump-whca-dinner/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Border Tensions Rise as US Embassy Issues Mexico Security Alert",
-        "body": "The US Embassy has issued a security alert for Reynosa - a Mexican city near the Texas border - signaling escalating regional tensions. This development comes amid ongoing debates about border security and immigration policy.\n\nCongress continues to wrestle with Department of Homeland Security funding, with House Republicans potentially delaying a critical funding bill. The situation highlights the complex challenges facing US-Mexico border management and national security strategies.",
-        "sources": [
-          {
-            "title": "US Embassy in Mexico sends security alert for city near Texas border",
-            "url": "https://thehill.com/policy/international/5852100-us-embassy-mexico-reynosa-alert/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "House may scrap DHS funding bill, likely extending agency’s shutdown",
-            "url": "https://www.washingtonpost.com/politics/2026/04/27/house-immigration-funding-dhs-shutdown/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Johnson says he has ‘modified’ version of Senate DHS bipartisan bill",
-            "url": "https://thehill.com/homenews/house/5851779-johnson-modifies-dhs-bill/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Political Figures Clash in Redistricting and Campaign Battles",
-        "body": "Gubernatorial races and redistricting fights are heating up across multiple states. In Georgia, candidates are engaging in heated debates as early voting begins, while in Florida, Governor Newsom and former President Trump are trading political jabs.\n\nThe redistricting landscape remains contentious, with both parties maneuvering to gain strategic advantages. Political leaders continue to use sharp rhetoric, reflecting the intense competition for electoral positioning.",
-        "sources": [
-          {
-            "title": "Newsom taunts Trump with multiple jabs as Florida redistricting fight ramps up: 'Beat at his own game'",
-            "url": "https://www.foxnews.com/politics/newsom-taunts-trump-multiple-jabs-florida-redistricting-fight-ramps-up-beat-at-own-game",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Georgia gubernatorial candidates clash in debates as early voting starts",
-            "url": "https://thehill.com/homenews/campaign/5851782-georgia-governor-debate-early-voting-jackson-jones-raffensperger/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Mapping where the redistricting fight stands and where it’s headed",
-            "url": "https://www.washingtonpost.com/politics/2025/08/20/congressional-redistricting-states-midterms/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "AUKUS Submarine Plan Faces Critical Funding and Design Challenges",
-        "body": "The ambitious AUKUS nuclear submarine program is under intense scrutiny after a UK parliamentary inquiry warned of potential systemic failures. Shortcomings in funding and technical design could derail the multinational defense initiative - a project critical to Australia's strategic positioning in the Indo-Pacific region.\n\nShadow defense ministers have amplified concerns about Australia's military preparedness, suggesting the submarine program might not deliver the strategic capabilities originally promised. The inquiry highlights growing skepticism about the project's feasibility and long-term strategic value.",
+        "headline": "Tech Giants Clash with Labor over News Payment Plan",
+        "body": "The Australian government faces pushback from major tech companies over its proposed media bargaining levy. Meta and Google have rejected the plan, arguing it unfairly targets their platforms. Labor maintains the legislation will support local journalism and create a more sustainable news ecosystem.\n\nThe proposed model would require tech giants to pay for news content, a move that has sparked intense debate about digital media economics and fair compensation for content creators.",
         "sources": [
           {
-            "title": "News live: shadow defence minister says Australia ‘ill-prepared’ for conflict; WA man dies after being swept from rocks",
+            "title": "Labor defends news payment plan as Meta, Google reject tax",
+            "url": "https://www.abc.net.au/news/2026-04-28/big-tech-hits-back-at-labors-media-bargaining-plan/106617532",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Tech giants face a new levy to pay for Australian news. What is the proposed model and how will it work?",
+            "url": "https://www.theguardian.com/media/2026/apr/28/tech-companies-levy-australian-news-journalism-explained",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Anzac Day Sparks Debate on Indigenous Recognition Traditions",
+        "body": "Tensions have emerged around Welcome to Country protocols during Anzac Day commemorations. Conservative commentators argue the practice is inappropriate for military remembrance, while others see it as an important act of reconciliation. The discussion reflects ongoing national conversations about Indigenous recognition and national identity.\n\nThe debate highlights the complex cultural negotiations surrounding Australia's historical narratives and contemporary commemorative practices.",
+        "sources": [
+          {
+            "title": "Let us forget Welcome to Country on Anzac Day",
+            "url": "https://www.spectator.com.au/2026/04/let-us-forget-welcome-to-country-on-anzac-day/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Shadow minister says Australia ‘ill-prepared’ for conflict –  as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "AUKUS Submarine Plan Faces Serious UK Parliamentary Scrutiny",
+        "body": "A UK parliamentary inquiry has raised significant concerns about the AUKUS nuclear submarine program. The report suggests potential shortcomings could undermine the ambitious defense partnership between Australia, the UK, and the US. Critical funding and technical challenges may threaten the project's long-term viability.\n\nThe inquiry adds pressure to an already complex international defense collaboration, potentially impacting Australia's strategic military modernization efforts.",
+        "sources": [
           {
             "title": "‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns",
             "url": "https://www.theguardian.com/world/2026/apr/28/aukus-nuclear-submarines-funding-uk-inquiry",
@@ -106,32 +124,8 @@
             "lean": "left"
           },
           {
-            "title": "Coalition points to stealth bombers as potential AUKUS stopgap",
-            "url": "https://www.abc.net.au/news/2026-04-28/james-paterson-coalition-says-stealth-bombers-aukus-stop-gap/106615556",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Tech Giants Face New Media Funding Levy Under Albanese Plan",
-        "body": "Prime Minister Anthony Albanese is proposing a new levy on major tech companies to support Australian media production. Google, Meta, and TikTok would be required to contribute financially to local news organizations - a move aimed at sustaining journalism in an increasingly digital landscape.\n\nThe proposal signals a significant intervention in the digital media ecosystem, reflecting growing government concern about the financial sustainability of news production. Tech companies are likely to resist the measure, setting the stage for potential legal and political confrontations.",
-        "sources": [
-          {
-            "title": "Google, Meta and TikTok face new levy to pay for Australian news as Albanese reveals media plan",
-            "url": "https://www.theguardian.com/australia-news/2026/apr/28/albanese-tech-companies-australian-media",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Capital gains discounts were meant to usher in an Australia of ‘shareholders’ – not property speculators | Saul Eslake",
-            "url": "https://www.theguardian.com/commentisfree/2026/apr/28/cgt-capital-gains-discounts-tax-australia",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Health insurers' 'aggressive' tactics causing closures, private hospitals say",
-            "url": "https://www.abc.net.au/news/2026-04-28/health-insurers-aggressive-tactics-accusations-private-hospitals/106598450",
+            "title": "'Assertion of reality': Minister presses Asian partners on fuel security",
+            "url": "https://www.abc.net.au/news/2026-04-28/penny-wong-visits-japan-to-discuss-australia-fuel-supply/106615724",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -140,78 +134,96 @@
     ],
     "world": [
       {
-        "headline": "Train Crash Kills Dozens Near Jakarta - Rescue Efforts Ongoing",
-        "body": "A devastating train collision in Indonesia has left at least 14 people dead and many more trapped. Rescue teams are racing against time to free survivors from the wreckage near Jakarta. Emergency services continue to pull victims from the mangled train cars, with hopes of finding more survivors diminishing with each passing hour.\n\nThe crash highlights ongoing safety concerns in Indonesia's transportation infrastructure. Preliminary reports suggest multiple trains were involved in the collision, creating a complex and challenging rescue operation.",
+        "headline": "Iran War Enters Diplomatic Phase as Tensions Simmer",
+        "body": "Iran's 60-day conflict shows signs of potential de-escalation as diplomatic channels open. Trump administration reviews a proposal from Tehran aimed at reopening the strategically crucial Strait of Hormuz - a potential breakthrough in the ongoing regional standoff.\n\nDespite diplomatic overtures, oil markets remain volatile. Prices rose even as Iran signaled willingness to negotiate, reflecting deep uncertainty about the conflict's trajectory. The war has fundamentally reshaped regional dynamics - with no clear resolution in sight.",
         "sources": [
           {
-            "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
-            "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Indonesia: Many killed in train collision near Jakarta",
-            "url": "https://www.dw.com/en/indonesia-many-killed-in-train-collision-near-jakarta/a-76959000?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Death toll after train crash near Indonesia’s Jakarta rises to 14",
-            "url": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing?traffic_source=rss",
+            "title": "How Iran has changed, and how it hasn’t, in two months of war",
+            "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Survivors of deadly Indonesia train crash pulled from wreckage",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/survivors-of-deadly-indonesia-train-crash-pulled-from-wreckage?traffic_source=rss",
+            "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+            "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
+            "url": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
+            "url": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Trump Shooting Suspect Charged After White House Press Dinner Attack",
-        "body": "A suspect has been formally charged with attempting to assassinate former President Donald Trump during a high-profile press event. The incident sent shockwaves through Washington - with attendees ducking for cover during the shooting. Political tensions have escalated in the aftermath, with some politicians already spinning narratives about the attack.\n\nInvestigators are working to understand the shooter's motives and background. The incident has reignited debates about political violence and security at public events.",
+        "headline": "World Cup Security Concerns Spark National Guard Deployment Talks",
+        "body": "US lawmakers are pushing for National Guard intervention to address potential drone threats at the upcoming World Cup. The move highlights growing security anxieties around the international sporting event.\n\nAdditional tensions emerge as FIFA faces criticism for politicizing the tournament. Human Rights Watch has urged the organization to negotiate an ICE truce during the games. New York has meanwhile announced plans for free fan events across all boroughs - attempting to build excitement despite underlying security concerns.",
         "sources": [
           {
-            "title": "Suspect in press gala shooting charged with attempting to kill Trump",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/suspect-in-press-gala-shooting-charged-with-attempting-to-kill-trump?traffic_source=rss",
+            "title": "Congressmen call for National Guard to address drone threat at World Cup",
+            "url": "https://www.aljazeera.com/sports/2026/4/28/congressmen-call-for-national-guard-to-address-drone-threat-at-world-cup?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "What we're learning about suspected Washington press dinner gunman",
-            "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "All New York boroughs to host free World Cup fan events, Mamdani says",
+            "url": "https://www.aljazeera.com/sports/2026/4/28/all-new-york-boroughs-to-host-free-world-cup-fan-events-mamdani-says?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
-            "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Before World Cup, FIFA slammed for politicising sport with Trump prize",
+            "url": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Leavitt blames democrats for ‘cult of hatred’ against Trump",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/leavitt-blames-democrats-for-cult-of-hatred-against-trump?traffic_source=rss",
+            "title": "FIFA urged to push US for ‘ICE Truce’ at World Cup by Human Rights Watch",
+            "url": "https://www.aljazeera.com/sports/2026/4/28/fifa-urged-to-push-for-ice-truce-at-us-world-cup-by-human-rights-watch?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Mexico Captures Two Major Cartel Commanders in Coordinated Raids",
-        "body": "Mexican military forces have dealt a significant blow to drug cartels by capturing two high-ranking commanders in separate operations. Audias Flores was apprehended in a strategic takedown, while another commander known as El Jardinero was found hiding in a ditch. These arrests represent a major victory in Mexico's ongoing battle against organized crime.\n\nThe captures could disrupt cartel operations and potentially lead to further intelligence about criminal networks operating in the region.",
+        "headline": "Global Briefing: Terror Threats, Political Shifts, and Conflict",
+        "body": "A man was arrested for plotting an attack on a Taylor Swift concert in Vienna - underscoring ongoing terrorism risks. In India, a Kashmir seminary was declared unlawful under anti-terror legislation, sparking significant local outcry.\n\nIn Iraq, a new prime minister-designate has been appointed amid ongoing political instability. Elsewhere, a highway blast in Colombia killed at least 20 people - a stark reminder of persistent regional violence.",
         "sources": [
           {
-            "title": "Mexican military captures cartel commander Audias Flores",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss",
+            "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+            "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Kashmir seminary declared unlawful under Indian law, sparks outcry",
+            "url": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Mexico’s Jalisco drug cartel commander ‘El Jardinero’ found hiding in ditch",
-            "url": "https://www.aljazeera.com/news/2026/4/28/mexicos-jalisco-drug-cartel-commander-el-jardinero-found-hiding-in-ditch?traffic_source=rss",
+            "title": "Iraq appoints new prime minister-designate",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/iraq-appoints-new-prime-minister-designate?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "At least 20 killed in Colombia highway blast",
+            "url": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
+            "url": "https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -220,8 +232,8 @@
     ],
     "ai": [
       {
-        "headline": "Musk and Altman Clash in High-Stakes OpenAI Lawsuit",
-        "body": "The tech world watched as Elon Musk and Sam Altman faced off in court, battling over the future of OpenAI. Jury selection revealed potential bias - with some jurors openly expressing dislike for Musk. The lawsuit threatens to unravel the complex relationship between the AI research organization and its founding members.\n\nAt stake is more than just corporate control. The trial could reshape the landscape of artificial intelligence research and commercial development. Microsoft's recent renegotiation of its OpenAI partnership adds another layer of complexity to an already volatile situation.",
+        "headline": "Musk and Altman Clash in High-Stakes OpenAI Courtroom Battle",
+        "body": "The legal showdown between Elon Musk and Sam Altman has begun, with potential implications for the future of OpenAI. Jury selection revealed underlying tensions - some potential jurors openly expressed personal dislike for Musk, adding drama to the proceedings.\n\nThe trial centers on OpenAI's strategic direction and ownership, with recent developments suggesting significant shifts. Microsoft's exclusive partnership with OpenAI has ended, opening the door for potential collaborations with other cloud providers. The outcome could reshape the AI landscape and determine the company's independence.",
         "sources": [
           {
             "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
@@ -248,23 +260,35 @@
             "lean": null
           },
           {
-            "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-            "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-            "source": "Wired",
+            "title": "OpenAI ends its exclusive partnership with Microsoft",
+            "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-            "source": "The Verge",
+            "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+            "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+            "source": "Wired",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Tensions Rise as Tech Giants Wrestle Global Regulations",
-        "body": "Global AI development faces mounting regulatory pressures from multiple fronts. The European Union is pushing Google to open up AI capabilities on Android, challenging the company's closed ecosystem. Meanwhile, Google employees are pressuring leadership to reject classified military AI contracts - highlighting internal ethical debates.\n\nInternational tensions are escalating, with China blocking Meta's acquisition of Manus - a move that underscores the deepening technological rivalry between global superpowers. These conflicts signal a critical moment in AI governance and technological sovereignty.",
+        "headline": "AI Expands Across Tech Platforms - Google, Ubuntu Join Race",
+        "body": "Tech giants are rapidly integrating AI into core products and services. Google is testing an AI chatbot for YouTube search, while Canonical is outlining AI features for Ubuntu Linux. The moves signal a broader push to embed intelligent systems across consumer technology.\n\nRegulatory pressures are emerging alongside these developments. The EU has challenged Google to open Android to alternative AI assistants, highlighting growing concerns about market competition and technological sovereignty. Meanwhile, Google employees have raised internal objections to potential military AI applications.",
         "sources": [
+          {
+            "title": "Google is testing AI chatbot search for YouTube",
+            "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+            "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+            "source": "The Verge",
+            "lean": null
+          },
           {
             "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
             "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
@@ -276,40 +300,28 @@
             "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
             "source": "The Verge",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Global Tech Tensions Escalate as AI Rivalry Intensifies",
+        "body": "Geopolitical tensions are increasingly playing out through technology acquisitions and AI development. China blocked Meta's acquisition of Manus - a move that underscores the deepening US-China AI competition. National strategic interests are colliding with corporate expansion plans.\n\nThe landscape is complex and rapidly shifting. Companies are navigating increasingly fraught international relationships while pursuing technological innovation. Each move carries significant diplomatic and economic implications.",
+        "sources": [
           {
             "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
             "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
             "source": "Ars Technica",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Innovation Continues with New Research and Open-Source Tools",
-        "body": "Cutting-edge AI research continues to push boundaries. DeepMind's David Silver secured $1.1 billion to develop AI systems that can learn without human-generated data - a potentially revolutionary approach. Open-source developers are also making strides, with projects like AgentSwift offering new tools for AI application development.\n\nGoogle is exploring AI integration in search, testing a chatbot for YouTube that could transform how users interact with content. These developments suggest AI's rapid evolution is far from slowing down.",
-        "sources": [
+          },
           {
-            "title": "Show HN: AgentSwift – Open-source iOS builder agent",
-            "url": "https://github.com/hpennington/agentswift",
-            "source": "Hacker News",
+            "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+            "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "Google is testing AI chatbot search for YouTube",
-            "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Talkie: a 13B vintage language model from 1930",
-            "url": "https://talkie-lm.com/introducing-talkie",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-            "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+            "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+            "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
             "source": "TechCrunch",
             "lean": null
           }
@@ -318,85 +330,73 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Teeters at $76K as Market Pressures Mount",
-        "body": "Bitcoin's price slipped under $77,000 amid a complex web of economic uncertainties. Macroeconomic factors - including Federal Reserve policy, rising oil prices, and potential AI sector slowdown - are creating headwinds for the cryptocurrency. Traders are watching closely, with significant short positions creating a potential $1.4 billion liquidation risk that could trigger a sharp price movement.",
+        "headline": "Bitcoin ETFs See First Outflow After Nine-Day Buying Streak",
+        "body": "Bitcoin spot ETFs broke their record nine-day inflow streak on Tuesday, signaling potential market cooling. Investor sentiment shifted as BTC price hovered near $77,000, with market participants watching the upcoming Federal Reserve meeting closely.\n\nThe pause in ETF inflows comes after sustained institutional interest that has driven significant capital into Bitcoin-linked investment vehicles. Traders are now assessing whether this represents a temporary pullback or a more substantial change in market dynamics.",
         "sources": [
+          {
+            "title": "Bitcoin ETF outflows snap nine-day streak ahead of FOMC as market tests resolve near $77,000",
+            "url": "https://www.theblock.co/post/399129/bitcoin-etf-outflows-snap-nine-day-streak-ahead-of-fomc-as-market-tests-resolve-near-77000?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin ETFs snap nine-day inflow run as BTC slips below $77K",
+            "url": "https://cointelegraph.com/news/bitcoin-etf-end-nine-day-inflow-streak-btc-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+            "url": "https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin pressured by Fed uncertainty, oil, and AI slowdown",
             "url": "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Jack Dorsey's Block Reveals Massive Bitcoin Treasury Position",
+        "body": "Block, led by Jack Dorsey, has accumulated nearly 9,000 bitcoin in its corporate treasury after significant Q1 additions. The company disclosed $2.2 billion in bitcoin holdings, simultaneously launching a proof-of-reserves initiative to enhance transparency.\n\nThis strategic move underscores Block's continued commitment to Bitcoin as a core asset. By publicly revealing its holdings and verification process, the company signals confidence in cryptocurrency's long-term value proposition.",
+        "sources": [
           {
-            "title": "Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?",
-            "url": "https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
-            "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
+            "title": "Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition",
+            "url": "https://www.coindesk.com/business/2026/04/28/jack-dorsey-s-block-nears-9-000-bitcoin-in-treasury-after-q1-addition",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin price slips under $77K as bulls battle for new 'macro-bullish shift'",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-slips-under-77k-as-bulls-battle-for-new-macro-bullish-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Jack Dorsey’s Block reveals $2.2 billion in bitcoin holdings in Q1",
+            "url": "https://www.theblock.co/post/399123/block-q1-bitcoin?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           },
           {
-            "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
-            "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
-            "source": "CoinDesk",
+            "title": "Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move",
+            "url": "https://cointelegraph.com/news/jack-dorseys-block-unveils-btc-proof-of-reserves-in-transparency-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "MARA Launches Foundation to Fortify Bitcoin Network",
-        "body": "Marathon Digital Holdings has established a new foundation aimed at strengthening Bitcoin's long-term resilience. The initiative focuses on protecting the network against emerging threats - particularly quantum computing risks and potential security budget challenges. By proactively addressing these strategic vulnerabilities, MARA signals a commitment to Bitcoin's technological sustainability and continued global adoption.",
+        "headline": "Bitcoin Miners Pivot Toward AI and Network Resilience",
+        "body": "Bitcoin mining companies are diversifying their strategies amid evolving technological landscapes. Core Scientific announced a 1.5GW data center push that integrates AI capabilities, while Marathon Digital (MARA) established a foundation to support Bitcoin network health.\n\nThese initiatives reflect the industry's adaptive approach - leveraging mining infrastructure for broader technological applications while maintaining a commitment to Bitcoin's core infrastructure and security.",
         "sources": [
+          {
+            "title": "Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push",
+            "url": "https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "MARA forms foundation to support Bitcoin network health, adoption",
             "url": "https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
-            "url": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
-            "url": "https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Gets Political Boost with Strategic Reserve Talks",
-        "body": "U.S. political momentum is building around Bitcoin's strategic importance. House Republicans have warned about potential national security implications if America fails to secure its cryptocurrency position. Meanwhile, White House advisors hint at an upcoming announcement regarding a potential national Bitcoin reserve - a concept originally proposed during the Trump administration and now gaining renewed legislative interest.",
-        "sources": [
-          {
-            "title": "House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China",
-            "url": "https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "White House crypto advisor hints at  ‘big announcement’ on Trump’s strategic bitcoin reserve in coming weeks",
-            "url": "https://www.theblock.co/post/399087/white-house-crypto-advisor-trump-strategic-bitcoin-reserve-coming-weeks?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Rep. Begich plans revival of bitcoin strategic reserve bill under new name to codify Trump’s executive order",
-            "url": "https://www.theblock.co/post/399056/rep-begich-plans-revival-of-bitcoin-strategic-reserve-bill-under-new-name-to-codify-trumps-executive-order?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -407,19 +407,19 @@
     "food": {
       "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with aromatic spices, dried fruits, and a complex layered flavor profile",
-      "tip": "Toast your spices in a dry pan for 30 seconds before adding to the dish to intensify their aromatics"
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Use a doorframe as a reference point: stand sideways, extend your arm along the frame, and gently rotate your torso to create a controlled stretch"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
+      "tip": "Use a small wobble cushion or balance disc to engage core muscles while sitting"
     },
     "learn": {
-      "topic": "The Kardashev Scale of Technological Civilization",
-      "description": "A theoretical framework for measuring a civilization's technological advancement based on its energy consumption and ability to harness cosmic resources",
-      "why": "It provides a mind-expanding perspective on potential technological evolution and humanity's place in the cosmic context, challenging our current understanding of technological progress"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific concept exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
+      "why": "Understanding emergence provides profound insights into everything from ant colonies to artificial intelligence, revealing how complexity can emerge from simplicity"
     }
   }
 }
