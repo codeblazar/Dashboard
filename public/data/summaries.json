@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-04-29T22:24:37.835Z",
+  "generatedAt": "2026-04-30T05:12:59.298Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Narrows Voting Rights Act in Landmark Ruling",
-        "body": "The Supreme Court significantly limited a key provision of the Voting Rights Act, sparking intense political debate across the spectrum. Conservative justices upheld a ruling that could reshape electoral map drawing - particularly in states with complex racial demographics.\n\nDemocratic leaders condemned the decision as an attack on minority voting rights. Illinois Governor J.B. Pritzker called it an assault on democracy. Republican supporters argue the ruling promotes more neutral district mapping. The decision sets the stage for potential redistricting challenges nationwide, with implications for future elections.",
+        "headline": "House Navigates Internal Conflicts and Budget Battles",
+        "body": "House Speaker Mike Johnson faced multiple internal challenges on Wednesday, managing revolts within his Republican caucus while pushing through key legislative priorities. He successfully quashed a farm bill rebellion and passed a budget blueprint for reconciliation, demonstrating fragile party unity.\n\nThe day's legislative maneuvering included unlocking a reconciliation process to fund ICE and Border Patrol without Democratic support - a move that underscores ongoing tensions around border and immigration policy. Johnson's ability to navigate these internal divisions will be crucial for maintaining Republican cohesion.",
+        "sources": [
+          {
+            "title": "On chaotic day, Johnson navigates multiple internal revolts in House",
+            "url": "https://www.washingtonpost.com/politics/2026/04/29/house-mike-johnson-fisa-dhs/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "House Republicans unlock reconciliation process to fund ICE and Border Patrol without Democrats",
+            "url": "https://www.foxnews.com/politics/house-republicans-unlock-reconciliation-process-fund-ice-border-patrol-without-democrats",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Johnson quashes farm bill rebellion to pass budget blueprint for reconciliation 2.0",
+            "url": "https://thehill.com/homenews/5856068-budget-blueprint-reconciliation-dhs-farm-bill/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Limits Voting Rights Act in Landmark Ruling",
+        "body": "The Supreme Court delivered a significant blow to the Voting Rights Act, narrowing a key provision that has long protected minority voting rights. The decision sparked immediate political backlash, with Democratic leaders like Illinois Governor J.B. Pritzker calling it an attack on democracy.\n\nThe ruling could have far-reaching implications for redistricting and electoral maps across the United States. While conservative voices celebrated the decision, voting rights advocates warned of potential setbacks for minority representation in future elections.",
         "sources": [
           {
             "title": "National redistricting war reignites with Supreme Court’s Voting Rights Act ruling",
@@ -24,18 +48,12 @@
             "url": "https://www.washingtonpost.com/politics/2026/04/29/supreme-court-voting-rights-act-louisiana-voting-maps/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Mamdani slams Supreme Court’s Voting Rights Act ruling: ‘It risks disenfranchising millions’",
-            "url": "https://thehill.com/regulation/court-battles/5856048-voting-rights-act-supreme-court-zohran-mamdani/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "House Passes Controversial Surveillance Bill Despite Internal Tensions",
-        "body": "The House of Representatives approved a renewal of warrantless surveillance powers in a bipartisan vote, putting pressure on the Senate before an upcoming deadline. House Speaker Mike Johnson managed to quell internal Republican resistance to the FISA 702 program.\n\nThe bill's passage highlights ongoing debates about national security and privacy rights. Some lawmakers expressed concerns about potential government overreach, while national security advocates argue the tool is crucial for intelligence gathering. The Senate's response remains uncertain.",
+        "headline": "House Extends Controversial Surveillance Powers in Bipartisan Vote",
+        "body": "The House of Representatives passed a bipartisan renewal of FISA Section 702 - a controversial warrantless surveillance tool - putting pressure on the Senate to act before an upcoming deadline. The vote highlighted the complex national security debates that can transcend typical partisan lines.\n\nThe legislation's path remains uncertain, with significant debate about privacy protections and government surveillance powers. The vote underscores ongoing tensions between national security imperatives and civil liberties concerns.",
         "sources": [
           {
             "title": "House extends a controversial spy tool, but Senate path is unclear ahead of deadline",
@@ -54,170 +72,134 @@
             "url": "https://www.foxnews.com/politics/house-passes-fisa-renewal-bipartisan-vote-putting-pressure-senate-looming-deadline",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Johnson quells House GOP revolt to advance controversial surveillance bill",
-            "url": "https://www.washingtonpost.com/politics/2026/04/29/house-mike-johnson-fisa-dhs/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump-Era Investigations Continue with Comey Threat Charges",
-        "body": "Former FBI Director James Comey faces potential threat charges, with his legal team preparing to challenge the indictment as vindictive. Legal experts are divided on the case's merits.\n\nSome commentators, like Andrew Napolitano, suggest the charges are frivolous and likely to be dismissed. Others see it as part of ongoing legal tensions stemming from the Trump administration's investigations. The case underscores the persistent legal and political tensions surrounding recent presidential administrations.",
-        "sources": [
-          {
-            "title": "Comey’s lawyers say they will challenge threat charges as vindictive",
-            "url": "https://www.washingtonpost.com/national-security/2026/04/29/comey-threat-indictment-trump-court/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Napolitano: ‘Frivolous’ Comey indictment will be tossed out",
-            "url": "https://thehill.com/regulation/court-battles/5855843-james-comey-andrew-napolitano-indictment/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Former FBI agent says Comey charges hinge on intent evidence and jury interpretation",
-            "url": "https://www.foxnews.com/politics/former-fbi-agent-says-comey-charges-hinge-intent-evidence-jury-interpretation",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Budget Looms: Housing Crisis Takes Center Stage",
-        "body": "Treasurer Jim Chalmers signaled housing will be a critical focus in the upcoming federal budget. With rental affordability at crisis levels - just one rental property available nationwide for JobSeeker recipients - the government faces mounting pressure to address housing inequities.\n\nEconomic challenges extend beyond housing. Oil prices have surged past $US120 per barrel, threatening to impact infrastructure projects and potentially forcing civil contractors to cut jobs. The budget will need to navigate these complex economic pressures.",
+        "headline": "Tragedy in Alice Springs: Missing Girl's Body Found",
+        "body": "Northern Territory police have located the body of Sharon Granites, a five-year-old Aboriginal girl who had been missing. The discovery follows an extensive search that gripped the community and national attention. Details remain limited, with authorities expected to release more information about the circumstances surrounding her disappearance and death.",
         "sources": [
           {
-            "title": "Live: Chalmers says housing 'driving deliberations' around possible tax changes",
-            "url": "https://www.abc.net.au/news/2026-04-30/federal-politics-live-blog-jim-chalmers-budget/106621316",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Australia news live: NT police find body of child in search for missing five-year-old girl",
+            "url": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Just one rental in Australia affordable for JobSeekers like Jess",
-            "url": "https://www.abc.net.au/news/2026-04-30/rental-affordability-snapshot-dire-for-poorer-australian/106623074",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Body found in search for missing Aboriginal girl in Alice Springs",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/30/body-found-in-search-for-missing-aboriginal-girl-sharon-granites-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Fuel shock pushes civil contractors to cut jobs and pause works",
-            "url": "https://www.abc.net.au/news/2026-04-30/diesel-price-surge-threatens-projects-jobs-and-household-bills/106622798",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live: ASX to fall as price of oil surges to more than $US120 a barrel",
-            "url": "https://www.abc.net.au/news/2026-04-30/asx-markets-business-news-live-updates-thursday-30-april/106623696",
+            "title": "Breaking: Body believed to be missing five-year-old girl found in Alice Springs",
+            "url": "https://www.abc.net.au/news/2026-04-30/update-on-missing-alice-springs-5yo-sharon-granites-found-dead/106626314",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Northern Territory Confronts Systemic Detention and Health Challenges",
-        "body": "The Northern Territory government faces serious allegations of concealing long-term watch house detentions. Police oversight remains under scrutiny after claims of extended, potentially illegal detention practices.\n\nSimultaneously, the territory battles a worsening public health crisis. Diphtheria cases have tripled, raising significant concerns about medical infrastructure and disease prevention. These challenges underscore deep-rooted systemic issues in the region's justice and health systems.",
+        "headline": "Bondi Antisemitism Royal Commission Calls for Festival Security",
+        "body": "A royal commission investigating the Bondi Beach antisemitic incident has recommended enhanced policing for Jewish festivals. The report highlights a high terror risk during events like Hanukah and suggests improved security protocols. The findings emerge from a comprehensive review of community safety and potential antisemitic threats in public spaces.",
         "sources": [
           {
-            "title": "NT government accused of hiding long-term watch house detentions",
-            "url": "https://www.abc.net.au/news/2026-04-30/claims-long-term-detainments-still-happening-at-nt-watch-house/106621998",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Cases of potentially deadly disease triple in the NT",
-            "url": "https://www.abc.net.au/news/2026-04-30/nt-diphtheria-outbreak-worsens-respiratory-cases-rise-2026/106617250",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "News live: Syria claims Australian government ‘refused to receive’ families from detention camp trying to leave Damascus",
-            "url": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
+            "title": "Bondi royal commission: report calls for better policing of Jewish festivals after ‘high’ terror risk flagged for Hanukah event",
+            "url": "https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Angus Taylor’s shameful remarks about ‘bad’ countries obscure the bigger question – how can we make sure Australia is a good one? | Sisonke Msimang",
+            "url": "https://www.theguardian.com/commentisfree/2026/apr/30/angus-taylor-bad-countries-remarks-division-australia",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Federal Budget Looms with Inflation and Tax Reform Debates",
+        "body": "Treasurer Jim Chalmers prepares to deliver a budget amid complex economic challenges. Inflation data continues to influence policy discussions, with political commentators scrutinizing potential tax reforms. The government faces pressure to balance cost-of-living concerns with broader economic strategy - a task complicated by divergent political perspectives.",
+        "sources": [
+          {
+            "title": "Labor’s disgusting intergenerational tax reform",
+            "url": "https://www.spectator.com.au/2026/04/labors-disgusting-intergenerational-tax-reform/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Why the latest inflation data matters to you",
+            "url": "https://www.abc.net.au/news/2026-04-30/what-is-inflation-cpi-explainer/106614880",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "UAE Exits OPEC, Signaling Major Shift in Oil Dynamics",
-        "body": "The United Arab Emirates has abruptly quit OPEC, sending shockwaves through the global energy market. This unexpected move could dramatically reshape oil production strategies and geopolitical alliances in the Middle East.\n\nAnalysts suggest the departure reflects growing tensions within the cartel and the UAE's desire to chart an independent economic course. The decision comes amid volatile oil prices - with recent reports showing prices briefly hitting $120 per barrel - and increasing global economic uncertainties.",
+        "headline": "US-Iran Tensions Escalate as Oil Prices Surge",
+        "body": "Global oil markets are reeling from mounting tensions between the United States and Iran. Prices have rocketed to their highest levels since 2022, driven by fears of a potential long-term supply disruption. Reports suggest President Trump is being briefed on new strategic options against Iran, with speculation mounting about possible military intervention.\n\nPro-government rallies in Tehran have already begun, with protesters demanding an end to US threats. The situation remains volatile, with international markets watching closely as geopolitical pressures continue to build.",
         "sources": [
           {
-            "title": "UAE quits OPEC",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
+            "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+            "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Why is the UAE quitting OPEC – and what’s the impact?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss",
+            "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+            "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Pro-government rally in Tehran demands end to US threats",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-            "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Christchurch Shooter Loses Final Appeal in New Zealand Court",
+        "body": "New Zealand's judicial system has definitively rejected the mosque mass shooter's bid to appeal his conviction. The court's decision closes a painful chapter for survivors and families affected by the 2019 terrorist attack. This ruling ensures the perpetrator will continue to serve his life sentence without possibility of parole.\n\nThe case has been a significant moment of legal and emotional closure for New Zealand's Muslim community, which suffered immense trauma during the original attack.",
+        "sources": [
+          {
+            "title": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+            "url": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Christchurch mass killer loses bid to overturn conviction",
+            "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Blocks Gaza Aid Ships - International Tensions Escalate",
-        "body": "Israeli military speedboats have intercepted and blocked Gaza-bound humanitarian aid vessels, escalating tensions in the ongoing maritime humanitarian crisis. The Global Sumud Flotilla - an international aid mission - found itself directly confronted by Israeli naval forces.\n\nThe interception represents a significant diplomatic flashpoint, with international observers watching closely. Israel's actions continue to draw global scrutiny over its maritime and humanitarian policies in the region.",
+        "headline": "Mexican Governor Indicted for Cartel Connections",
+        "body": "US federal prosecutors have charged the governor of Sinaloa and nine other Mexican officials for alleged direct involvement with drug cartels. The indictment represents a major escalation in US efforts to combat transnational organized crime. Authorities claim these high-ranking officials systematically aided criminal networks.\n\nThe charges highlight ongoing challenges in Mexico's fight against powerful drug trafficking organizations and their potential infiltration of government institutions.",
         "sources": [
           {
-            "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "US charges Mexican governor and other leaders with aiding drug cartel",
+            "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Israeli military speedboats block Gaza-bound aid ship",
-            "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-            "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump Signals Hardline Iran Policy - Blockade Threats Continue",
-        "body": "Former President Trump has doubled down on maintaining a strict blockade against Iran, with Tehran responding by threatening practical retaliatory measures. The escalating rhetoric comes as US lawmakers debate potential military budgets and engagement strategies.\n\nRussian President Putin has reportedly offered to help mediate the nuclear enrichment impasse - a potential diplomatic wildcard in the ongoing geopolitical standoff. Oil markets have already responded nervously to the heightened tensions.",
-        "sources": [
-          {
-            "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-            "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
-            "url": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss",
+            "title": "US indicts Sinaloa governor, 9 others over Mexican drug cartel links",
+            "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -226,84 +208,90 @@
     ],
     "ai": [
       {
-        "headline": "Google Rides Subscription Wave and Cloud Growth in Q1",
-        "body": "Google parent Alphabet reported strong first-quarter performance, with cloud revenue crossing $20 billion and subscription services gaining momentum. The company added 25 million new subscribers across YouTube and Google One, signaling robust digital service adoption.\n\nThe growth comes amid intense market competition. Google Search queries hit an all-time high last quarter, underscoring the company's continued digital relevance. These results suggest Alphabet is successfully navigating the challenging tech landscape by diversifying revenue streams.",
+        "headline": "AI and Tech Giants Clash Over Open Source and Intellectual Property",
+        "body": "The tech world is roiling with tensions around AI development and ownership. OpenAI faces internal drama as Elon Musk's legal battle exposes deep rifts in the company's founding narrative. Meanwhile, the Zig programming project has taken a hard stance against AI contributions - signaling growing resistance to large language model training practices.\n\nCopyright and ethical concerns are surfacing sharply. Researchers have demonstrated that fine-tuning can activate verbatim recall of copyrighted materials in AI models - a potential legal and ethical minefield for machine learning companies.",
         "sources": [
           {
-            "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+            "title": "Where the goblins came from",
+            "url": "https://openai.com/index/where-the-goblins-came-from/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+            "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Elon Musk’s worst enemy in court is Elon Musk",
+            "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "On the stand, Elon Musk can’t escape his own tweets",
+            "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+            "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+            "source": "Wired",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Anthropic Seeks Massive $50B Funding Round at $900B Valuation",
+        "body": "AI startup Anthropic is positioning itself for an unprecedented funding round that could value the company at nearly a trillion dollars. The $50 billion investment signals continued massive investor confidence in artificial intelligence technologies.\n\nThis comes amid surging cloud investments from tech giants. Microsoft reports over 20 million paid Copilot users, while Amazon and Google are dramatically expanding their cloud infrastructure to support AI growth. The sector shows no signs of slowing down.",
+        "sources": [
+          {
+            "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+            "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Amazon’s cloud business is surging — and so is its capital spending",
+            "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+            "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
             "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-            "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Google Search queries hit an ‘all time high’ last quarter",
-            "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Alphabet Announces First Quarter 2026 Results",
-            "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Video and Deepfakes Spark New Legal and Ethical Battles",
-        "body": "Emerging AI technologies are forcing confrontations over digital identity and consent. Taylor Swift's trademark efforts highlight growing concerns about unauthorized digital representations - particularly deepfake advertisements proliferating on platforms like TikTok.\n\nIn the creative tech space, Runway's CEO suggests AI video might just be a prelude to more complex 'world models'. These developments signal a rapidly evolving landscape where technological capability is outpacing legal and ethical frameworks.",
+        "headline": "SoftBank Eyes Robotics and Data Center Revolution",
+        "body": "SoftBank is launching an ambitious new robotics company focused on data center construction - with early speculation pointing to a potential $100 billion IPO. The move signals continued investment in infrastructure critical to AI and cloud computing.\n\nTech transformation continues across multiple sectors. Joby demonstrated electric air taxi capabilities with a historic flight at JFK Airport, while emerging legal AI platforms like Mike are exploring new technological frontiers.",
         "sources": [
           {
-            "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
-            "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-            "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+            "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+            "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "All the evidence unveiled so far in Musk v. Altman",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Sector Faces Geopolitical and Security Challenges",
-        "body": "Global tensions are reshaping technology infrastructure and deployment. Drone strikes have prompted major tech companies to pause data center projects in conflict zones, while sanctioned Chinese firms like SenseTime continue developing AI technologies.\n\nSecurity concerns extend beyond geopolitics. Recent reports of AI systems potentially exfiltrating financial data and emerging cybersecurity vulnerabilities underscore the complex risk environment facing the tech industry.",
-        "sources": [
-          {
-            "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-            "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-            "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Ramp's Sheets AI Exfiltrates Financials",
-            "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+            "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+            "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Copy Fail – CVE-2026-31431",
-            "url": "https://copy.fail/",
+            "title": "Mike: open-source legal AI",
+            "url": "https://mikeoss.com/",
             "source": "Hacker News",
             "lean": null
           }
@@ -312,33 +300,27 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges as Wall Street Embraces Digital Gold",
-        "body": "Bitcoin is experiencing its most promising period yet, with high-profile endorsements signaling mainstream financial acceptance. Eric Trump and other Wall Street figures are positioning the cryptocurrency as a global reserve asset, suggesting a potential $1 million price target in the long term.\n\nInstitutional momentum continues to build. Restaurant chain Steak 'n Shake recently reported cutting payment processing costs by 50% through Bitcoin adoption - saving $6 million annually - which underscores the practical financial benefits driving corporate interest.",
+        "headline": "Bitcoin Futures Signal Trader Caution Amid Market Uncertainty",
+        "body": "Bitcoin traders are showing increased wariness in futures markets, with shifting long-to-short ratios indicating potential volatility ahead. Recent market analysis suggests investors are hedging positions following the Federal Reserve's latest interest rate decision - which held rates steady amid geopolitical tensions in the Middle East.\n\nThe cautious sentiment comes as institutional perspectives remain mixed. Morgan Stanley executives acknowledge Bitcoin is still in early stages, while some Wall Street voices like Eric Trump and John Koudounis continue to tout Bitcoin's potential as a global reserve asset.",
         "sources": [
           {
-            "title": "Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target",
-            "url": "https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset",
+            "title": "Bitcoin futures signal caution as long-to-short ratio signals positioning shift",
+            "url": "https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Morgan Stanley Executive on Bitcoin: ‘We Are Still So Early on This Journey’",
+            "url": "https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin",
             "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
-            "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line",
-            "source": "CoinDesk",
+            "title": "Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East",
+            "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
-          {
-            "title": "Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually",
-            "url": "https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Fed Rate Decision Triggers Bitcoin Market Volatility",
-        "body": "Bitcoin prices slipped to $75,000 after the Federal Reserve held interest rates steady, creating uncertainty among traders. The market response reflects ongoing tension between monetary policy and cryptocurrency valuation.\n\nDespite short-term fluctuations, investor sentiment remains bullish. A Coinbase survey revealed that most crypto investors believe Bitcoin is currently undervalued, with institutional and non-institutional respondents expressing confidence in the asset's potential for growth.",
-        "sources": [
           {
             "title": "Bitcoin slips to $75,000 as Fed holds rates, dissenters chill Warsh ‘pivot party’",
             "url": "https://www.theblock.co/post/399465/bitcoin-slips-75000-fed-holds-rates-dissenters-chill-warsh-pivot-party?utm_source=rss&amp;utm_medium=rss",
@@ -346,15 +328,27 @@
             "lean": null
           },
           {
-            "title": "Bitcoin falls as traders cut risk ahead of FOMC: Will TradFi, spot ETF volumes bolster $70K support?",
-            "url": "https://cointelegraph.com/markets/bitcoin-stalls-under-76k-as-traders-risk-off-ahead-of-fomc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
+            "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Adoption Accelerates with Corporate Payment Innovations",
+        "body": "Bitcoin is carving out new economic territory through innovative corporate integrations. Restaurant chain Steak 'n Shake revealed Bitcoin payments have slashed processing costs by 50% - saving $6 million annually and signaling growing mainstream financial acceptance.\n\nBeyond payments, Bitcoin-backed loans are emerging as a transformative financial tool. Recent reports suggest these lending mechanisms are unlocking homeownership opportunities for a new generation, demonstrating Bitcoin's expanding utility beyond traditional investment strategies.",
+        "sources": [
+          {
+            "title": "Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation",
+            "url": "https://bitcoinmagazine.com/news/how-bitcoin-backed-loans-homeownership",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time",
-            "url": "https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time",
-            "source": "Decrypt",
+            "title": "Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually",
+            "url": "https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
@@ -364,56 +358,26 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Bitcoin Emerges as Premier Inflation Hedge, Experts Say",
-        "body": "Legendary investor Paul Tudor Jones declared Bitcoin unequivocally the best inflation hedge, adding significant credibility to the cryptocurrency's economic narrative. His endorsement comes as institutional investors increasingly view Bitcoin as a strategic asset class.\n\nAnalysts from firms like Pantera Capital are highlighting the disconnect between overheated AI stocks and what they see as Bitcoin's relatively undervalued status. Some projections, including from 21Shares' CIO, suggest Bitcoin could reach $100,000 by year-end.",
-        "sources": [
-          {
-            "title": "The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin",
-            "url": "https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end",
-            "url": "https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Paul Tudor Jones says bitcoin is ‘unequivocally the best inflation hedge’",
-            "url": "https://www.theblock.co/post/399374/paul-tudor-jones-bitcoin-inflation-hedge?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge",
-            "url": "https://decrypt.co/365934/morning-minute-paul-tudor-jones-calls-bitcoin-strongest-inflation-hedge",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "Perform a targeted 3-minute mobility sequence that realigns spine, releases tension in neck and shoulders, and counteracts prolonged sitting",
-      "tip": "Use a doorframe as a reference point for shoulder blade retraction and gentle thoracic extension"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure and living spaces",
-      "why": "Reveals revolutionary approaches to solving complex urban challenges by studying nature's 3.8 billion years of design evolution"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
     }
   }
 }
