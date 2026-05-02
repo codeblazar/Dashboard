@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-05-02T05:07:33.332Z",
+  "generatedAt": "2026-05-02T10:23:56.727Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Escalates Tensions with Iran and Cuba",
-        "body": "President Trump claimed the Iran conflict is terminated, stopping the 60-day congressional war powers clock. The Pentagon reports the naval blockade has cost Iran $4.8 billion in economic damage. In a separate development, Trump teased potential US intervention in Cuba during a Florida speech, suggesting imminent action against the island nation.\n\nCongressional Republicans show mixed reactions. Senator Todd Young urged Trump to consult Congress on any future Iran strikes, highlighting potential tensions between the executive and legislative branches.",
+        "headline": "Trump Escalates Iran Conflict - War Powers Deadline Looms",
+        "body": "President Trump claims the Iran conflict is terminated, but tensions remain high. Congressional leaders challenge his unilateral approach to military action, with some GOP senators demanding more oversight on potential strikes.\n\nThe Pentagon reports the naval blockade has cost Iran $4.8 billion, while Trump seeks to reset the war powers clock through a controversial maneuver that bypasses traditional congressional approval mechanisms. The conflict has created a sharp divide between the White House and lawmakers from both parties.",
         "sources": [
+          {
+            "title": "Trump is running out of options to contain gas price backlash",
+            "url": "https://www.washingtonpost.com/politics/2026/05/02/trump-gas-prices-iran/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "The Memo: Trump’s frustration on Iran boils over in attacks against media",
+            "url": "https://thehill.com/homenews/the-memo/5860143-trump-frustrated-war-iran-media/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "GOP war powers resolution argument triggers a furor between Trump, lawmakers over Iran",
+            "url": "https://thehill.com/homenews/house/5859981-trump-congress-iran-conflict/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Pentagon says US naval blockade has cost Iran $4.8 billion",
             "url": "https://thehill.com/policy/defense/5860339-pentagon-estimates-iran-blockade-cost/",
@@ -14,10 +32,10 @@
             "lean": "center"
           },
           {
-            "title": "Trump teases US will be 'taking over' Cuba 'almost immediately' in Florida speech",
-            "url": "https://www.foxnews.com/politics/trump-teases-us-taking-over-cuba-almost-immediately-florida-speech",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "GOP Sen. Young: Trump should work with Congress on any future Iran strikes",
+            "url": "https://thehill.com/homenews/administration/5860318-congress-trump-iran-strikes/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Live updates: Trump tells Congress Iran ceasefire stopped 60-day clock",
@@ -40,9 +58,45 @@
         ]
       },
       {
-        "headline": "Supreme Court Voting Rights Ruling Sparks State Redistricting Moves",
-        "body": "Southern states are moving quickly to redraw congressional districts following the Supreme Court's recent Voting Rights Act decision. Alabama and Tennessee have called special legislative sessions to potentially add Republican House seats. The ruling could accelerate gerrymandering efforts across multiple states.\n\nPolitical commentators are divided. Some view the moves as strategic redistricting, while others see them as potentially undermining minority voting representation. The decision has already prompted significant state-level political maneuvering.",
+        "headline": "University Funding and Foreign Ties Spark Nationwide Debate",
+        "body": "Conservative lawmakers are targeting university funding connections with adversarial nations, raising concerns about academic freedom and national security. The move comes amid growing scrutiny of higher education institutions' international relationships.\n\nRight-leaning media outlets have characterized some universities as potential breeding grounds for ideological extremism, while academic institutions push back against what they see as politically motivated investigations. The debate highlights ongoing tensions between national security concerns and academic independence.",
         "sources": [
+          {
+            "title": "Universities face funding threat as lawmakers target schools with ties to adversarial nations",
+            "url": "https://www.foxnews.com/politics/universities-face-funding-threat-lawmakers-target-schools-ties-adversarial-nations",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Tortured in China, they want to sue Cisco. The Supreme Court may say no.",
+            "url": "https://www.washingtonpost.com/politics/2026/05/02/supreme-court-cisco-torture-china/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Inside the far left 'breeding ground' universities alleged WHCD called home for years",
+            "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-called-home-years",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Midterm Elections Heat Up with Senate Race Predictions",
+        "body": "The 2026 midterm elections are taking shape, with both parties positioning for potential Senate control. Trump has endorsed Andy Barr in the Kentucky race to succeed Mitch McConnell, signaling continued influence in GOP primaries.\n\nRedistribution efforts in Southern states like Alabama and Tennessee are creating additional political flashpoints. Democrats and Republicans are strategizing around potential seat flips, with gerrymandering emerging as a key battleground in the electoral landscape.",
+        "sources": [
+          {
+            "title": "2026 Senate races to watch: From most likely to flip to Democratic long shots",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Dems circle the wagons by blaming GOP for their gerrymandering response ahead of midterms: 'Very desperate'",
+            "url": "https://www.foxnews.com/politics/dems-circle-wagons-blaming-gop-for-their-redistricting-response-midterms",
+            "source": "Fox News",
+            "lean": "right"
+          },
           {
             "title": "Alabama, Tennessee GOP governors call special sessions after Supreme Court’s Voting Rights Act decision",
             "url": "https://thehill.com/homenews/state-watch/5860376-alabama-tennessee-redistricting-sessions/",
@@ -50,93 +104,135 @@
             "lean": "center"
           },
           {
+            "title": "Trump endorses Andy Barr in race to succeed Mitch McConnell",
+            "url": "https://www.washingtonpost.com/politics/2026/05/01/kentucky-trump-mcconnell-barr/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
             "title": "Two more Southern states move toward adding Republican House seats",
             "url": "https://www.washingtonpost.com/politics/2026/05/01/alabama-tennessee-gerrymandering-congress-vra/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "After a Supreme Court ruling, expect even more gerrymandering",
-            "url": "https://www.npr.org/2026/05/01/nx-s1-5806320/after-a-supreme-court-ruling-expect-even-more-gerrymandering",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Abortion Access and Military Deployments Face Major Changes",
-        "body": "A federal appeals court blocked nationwide mailing of abortion pills, significantly restricting telehealth abortion access. Simultaneously, the Trump administration ordered the withdrawal of 5,000 US troops from Germany - a move tied to escalating tensions with German leadership.\n\nThese decisions reflect ongoing shifts in domestic and international policy. The abortion ruling could have far-reaching implications for reproductive healthcare, while the troop withdrawal signals potential realignments in transatlantic military relationships.",
-        "sources": [
-          {
-            "title": "Federal appeals court blocks mailing of abortion pills in ruling with nationwide effect",
-            "url": "https://www.foxnews.com/politics/federal-appeals-court-blocks-mailing-abortion-pills-ruling-nationwide-effect",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump to downsize U.S. military presence in Germany",
-            "url": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Appeals court blocks mail-order mifepristone, restricting abortion access nationwide",
-            "url": "https://thehill.com/policy/healthcare/5860135-mifepristone-telehealth-prescription-blocked/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump orders withdrawal of 5,000 troops from Germany amid feud with Merz",
-            "url": "https://thehill.com/policy/defense/5860094-trump-orders-troop-withdrawal-germany/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Northern Territory Tragedy Sparks Racism Inquiry",
-        "body": "The death of Kumanjayi Little Baby has triggered a deep examination of systemic racism in Northern Territory policing. Relatives shared their grief over the child's loss, with the NT chief minister hinting at potential charges. At the same time, the father of Zachary Rolfe - involved in a previous high-profile Indigenous death case - called for more action to combat widespread racist behavior in police ranks.\n\nThe case highlights ongoing tensions around Indigenous rights and law enforcement accountability, with community members demanding transparent investigation and meaningful reform.",
+        "headline": "Victoria's Nepean By-Election Draws Tight Political Battle",
+        "body": "Voters in Victoria's Nepean electorate cast ballots today in a closely watched by-election. One Nation predicts a tight race against the Liberal Party's preferred candidate, signaling potential shifts in the state's political landscape. The contest reflects ongoing tensions between major and minor parties, with both sides viewing the result as a key test of voter sentiment.",
         "sources": [
           {
-            "title": "Kumanjayi Little Baby’s relatives share grief at ‘child ripped away’ as NT chief minister foreshadows charges",
-            "url": "https://www.theguardian.com/australia-news/2026/may/02/kumanjayi-baby-girls-relatives-share-grief-at-child-ripped-away-as-nt-chief-minister-foreshadows-charges",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Polls close in Nepean by-election in Victoria",
+            "url": "https://www.abc.net.au/news/2026-05-02/victoria-polls-close-nepean-by-election/106633596",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Father of Zachary Rolfe tells inquiry more must be done to fight ‘widespread racist behaviour’ in NT police",
-            "url": "https://www.theguardian.com/australia-news/2026/may/02/kumanjayi-walker-killing-inquest-rolfe-racism-nt-police-northern-territory-ntwnfb",
+            "title": "One Nation predicts a tight race against Liberal favourite as Victorians go to polls in Nepean byelection",
+            "url": "https://www.theguardian.com/australia-news/2026/may/02/one-nation-predicts-a-tight-race-against-liberal-favourite-as-victorians-go-to-polls-in-nepean-byelection",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Federal Environmental Protections Spark Political Debate",
-        "body": "The federal government faces criticism for allegedly weakening proposed protections for Australia's threatened species and ecosystems. Environmental groups argue the current proposal fails to provide adequate safeguards for vulnerable wildlife and habitats.\n\nThe controversy reflects broader tensions between conservation efforts and economic development priorities. Stakeholders from environmental, scientific, and industry sectors continue to debate the appropriate balance between ecological preservation and national economic interests.",
+        "headline": "Tragedy in Northern Territory Sparks Community Grief and Legal Scrutiny",
+        "body": "The death of Kumanjayi Little Baby has prompted deep community mourning and potential legal action. The child's grandfather thanked supporters and called for justice to take its course. Northern Territory's chief minister hinted at possible forthcoming charges, suggesting a complex and sensitive investigation is underway. The case has drawn significant attention to issues of child welfare and community protection.",
         "sources": [
+          {
+            "title": "Kumanjayi Little Baby's grandfather thanks community, says time to 'let justice take its course'",
+            "url": "https://www.abc.net.au/news/2026-05-02/family-thanks-community-tributes-flow-for-kumanjayi-little-baby/106634648",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Kumanjayi Little Baby’s relatives share grief at ‘child ripped away’ as NT chief minister foreshadows charges",
+            "url": "https://www.theguardian.com/australia-news/2026/may/02/kumanjayi-baby-girls-relatives-share-grief-at-child-ripped-away-as-nt-chief-minister-foreshadows-charges",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Federal Government Backs Renewable Energy in Western Australia",
+        "body": "The Australian government will support 10 renewable energy projects in regional Western Australia. This move signals continued investment in clean energy infrastructure and regional development. The announcement comes amid broader discussions about Australia's energy transition and economic strategies for remote communities.",
+        "sources": [
+          {
+            "title": "Federal government to back 10 renewable energy projects in regional WA",
+            "url": "https://www.abc.net.au/news/2026-05-02/wa-government-confident-of-fuel-supply-may-and-june/106621568",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
           {
             "title": "Federal government accused of watering down proposal to protect Australia’s threatened species and ecosystems",
             "url": "https://www.theguardian.com/australia-news/2026/may/02/federal-government-accused-of-watering-down-proposal-to-protect-australias-threatened-species-and-ecosystems",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Insurance seed bank helps revive rare flowers lost to bushfires",
-            "url": "https://www.abc.net.au/news/2026-05-02/endangered-flora-recovers-in-stirling-range-wa/106502284",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump Escalates Iran Conflict with Aggressive Rhetoric",
-        "body": "President Trump has intensified tensions with Iran, describing US military actions as piracy and suggesting potential massive military strikes. In a series of statements, Trump rejected Iran's latest peace proposal and signaled no immediate end to the ongoing conflict.\n\nThe war of words continues to escalate, with Trump claiming other presidents have similarly bypassed war powers legislation. Protesters have already begun demonstrating against the conflict, with one notable protest occurring on a Washington bridge - highlighting growing domestic opposition to potential military action.",
+        "headline": "Israel-Lebanon Conflict Escalates with Deadly Strikes",
+        "body": "Tensions flared in southern Lebanon as Israeli strikes killed thirteen people, according to local health authorities. The attack marks a significant escalation in cross-border hostilities. China has urged the reversal of UNIFIL (UN Interim Force in Lebanon) departures, signaling growing international concern about potential regional instability.",
         "sources": [
+          {
+            "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+            "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+            "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Spirit Airlines Collapses - US Airline Industry Faces Crisis",
+        "body": "Spirit Airlines announced it is shutting down after rescue talks collapsed, canceling all flights amid a severe fuel crisis. The airline's demise highlights broader challenges in the US aviation sector. Ongoing conflicts - including the Iran war - have compounded economic pressures on travel and transportation industries, creating ripple effects across multiple economic segments.",
+        "sources": [
+          {
+            "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
+            "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How the Iran war is hurting travelers, airline industry",
+            "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "Spirit Airlines shutting down after rescue talks collapse",
+            "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Spirit Airlines says they are going out of business",
+            "url": "https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Trump Continues Iran War Amid Diplomatic Tensions",
+        "body": "President Trump rejected Tehran's latest proposal and continues military operations in the Iran conflict. The administration has characterized US forces as taking Iranian oil - a provocative statement that further strains diplomatic relations. Trump claims a ceasefire means he does not require congressional approval for ongoing military actions, raising significant legal and constitutional questions.",
+        "sources": [
+          {
+            "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+            "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
@@ -150,62 +246,8 @@
             "lean": null
           },
           {
-            "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+            "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
             "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump considering option to ‘blast the hell out of’ Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US-Germany Relations Strain Over Iran War Tensions",
-        "body": "The United States plans to withdraw 5,000 troops from Germany amid mounting diplomatic friction between Washington and Berlin. This troop reduction comes as tensions rise over the ongoing Iran conflict and differing strategic perspectives.\n\nThe move signals deepening rifts in transatlantic relations, with Trump's administration taking an increasingly unilateral approach to military deployments. German Chancellor Merz appears to be at odds with the US president over the handling of international tensions.",
-        "sources": [
-          {
-            "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-            "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-            "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-            "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Cuba Defies Trump Sanctions on May Day",
-        "body": "Cuba has strongly condemned new US sanctions, describing them as collective punishment against its people. The island nation held May Day celebrations despite mounting economic pressure from the Trump administration.\n\nThe sanctions represent another escalation in long-standing tensions between the US and Cuba. Cuban officials argue that the measures harm ordinary citizens and represent a continuation of aggressive foreign policy tactics.",
-        "sources": [
-          {
-            "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-            "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Cuban man is 18th person to die in US ICE custody this year: Monitor",
-            "url": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Photos: Cuba holds May Day celebrations amid US threats",
-            "url": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -214,26 +256,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Ethics and Performance: New Research Reveals Risks",
-        "body": "A groundbreaking study suggests AI models attempting to consider user emotions may actually increase error rates. The research highlights a critical challenge in developing empathetic artificial intelligence - emotional awareness could compromise computational accuracy.\n\nThis finding comes amid growing concerns about AI reliability and ethical design. Researchers warn that current approaches to making AI systems more human-like might inadvertently introduce significant performance vulnerabilities.",
-        "sources": [
-          {
-            "title": "Study: AI models that consider user's feeling are more likely to make errors",
-            "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-            "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-            "source": "Wired",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Titans Clash: Musk Escalates Battle Against OpenAI",
-        "body": "Elon Musk has intensified his legal and public campaign against OpenAI, alleging deception and warning about potential existential risks from artificial intelligence. The first week of the Musk versus Altman confrontation has exposed deep tensions in the AI development community.\n\nMusk's allegations include claims that xAI is essentially distilling OpenAI's models - a charge that could have significant legal and technological implications for the industry's leading AI research organizations.",
+        "headline": "AI Lawsuit Escalates: Musk Attacks OpenAI's Leadership",
+        "body": "The legal battle between Elon Musk and OpenAI has intensified, with Musk alleging he was deceived by the organization's leadership. He claims OpenAI has strayed from its original mission of developing safe artificial intelligence for humanity's benefit. The lawsuit reveals deep tensions in the AI industry - with Musk warning about potential existential risks from unchecked AI development.",
         "sources": [
           {
             "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
@@ -242,33 +266,39 @@
             "lean": null
           },
           {
-            "title": "All the evidence revealed so far in Musk v. Altman",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-            "source": "The Verge",
+            "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+            "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+            "source": "Wired",
             "lean": null
           },
           {
-            "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-            "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-            "source": "TechCrunch",
+            "title": "All the evidence revealed so far in Musk v. Altman",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+            "source": "The Verge",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Meta Expands Robotics Ambitions with Strategic Acquisition",
-        "body": "Meta has purchased a robotics startup to accelerate its humanoid AI development, signaling a major strategic push into physical computing and embodied artificial intelligence. The acquisition underscores the company's long-term commitment to expanding AI capabilities beyond digital platforms.\n\nThis move comes as tech giants increasingly view robotics as a critical frontier for artificial intelligence research and commercial application.",
+        "headline": "Meta Expands Robotics Push with Strategic Acquisition",
+        "body": "Meta has acquired a robotics startup to accelerate its humanoid AI ambitions. The move signals the company's continued investment in advanced AI and robotic technologies. By bringing specialized robotics expertise in-house, Meta aims to develop more sophisticated embodied AI systems that can interact physically with the world.",
         "sources": [
           {
             "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
             "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
             "source": "TechCrunch",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Minnesota Cracks Down on AI-Generated Explicit Content",
+        "body": "Minnesota has passed groundbreaking legislation to ban AI-generated nude images, imposing potential $500,000 fines on app makers who create such content. The law represents a significant legal response to the growing concerns about AI-powered image manipulation and digital privacy. It could set a precedent for other states seeking to regulate synthetic media.",
+        "sources": [
           {
-            "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-            "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-            "source": "TechCrunch",
+            "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+            "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
@@ -276,55 +306,49 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Price Signals Potential Surge to $80,000",
-        "body": "Bitcoin's price is showing early signs of a significant rally. Analysts at CoinTelegraph have identified three key data points suggesting the cryptocurrency could break through the $80,000 mark in the near term. The current trading environment indicates growing investor confidence and potential market momentum.\n\nTrading volumes and technical indicators are supporting this optimistic outlook. While past performance doesn't guarantee future results, the current market signals are generating excitement among Bitcoin investors and traders.",
+        "headline": "Bitcoin Surges Past $78K as Senate Clears Regulatory Hurdle",
+        "body": "Bitcoin rocketed above $78,000 after the U.S. Senate cleared a key legislative obstacle for cryptocurrency regulation. The Clarity Act - a landmark bill addressing digital asset frameworks - passed a critical vote, signaling growing institutional acceptance of Bitcoin.\n\nMarket analysts see the legislative progress as a positive signal. The breakthrough coincides with the S&P 500 hitting a new record, suggesting broader economic confidence in digital assets and traditional markets.",
         "sources": [
           {
-            "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
-            "url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+            "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
-            "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Security Researchers Propose Quantum Threat Mitigation",
-        "body": "A Paradigm researcher has proposed a novel timestamp 'escape hatch' designed to protect early Bitcoin holdings from potential quantum computing threats. The innovative approach targets Satoshi-era bitcoins - those mined in the cryptocurrency's earliest days - which could be vulnerable to advanced decryption technologies.\n\nThis technical development highlights the ongoing efforts to future-proof Bitcoin's security infrastructure. As quantum computing capabilities advance, the cryptocurrency community continues to proactively address potential technological vulnerabilities.",
+        "headline": "Bitcoin Rally Continues - Options Market Signals Cautious Optimism",
+        "body": "Bitcoin's price rally continues, though options markets remain skeptical about near-term price targets. Current trading suggests only a 25% probability of Bitcoin reaching $84,000 in May, indicating measured investor expectations.\n\nAnalysts argue Bitcoin doesn't require a radical new narrative to sustain momentum. The cryptocurrency's fundamental value proposition remains strong, with institutional interest driving ongoing price discovery.",
         "sources": [
           {
-            "title": "Paradigm researcher proposes timestamp ‘escape hatch’ to protect Satoshi-era bitcoin from quantum threats",
-            "url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "A new narrative for bitcoin that will last",
-            "url": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
-            "source": "CoinDesk",
+            "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+            "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Mining Firm Riot Expands AI-Focused Data Center Operations",
-        "body": "Bitcoin mining company Riot has expanded its partnership with AMD, signaling a strategic pivot towards AI-integrated infrastructure. The company's stock jumped 8% following the announcement, reflecting market enthusiasm for the technological diversification.\n\nRiot's move underscores the evolving relationship between Bitcoin mining and advanced computational technologies. By leveraging its existing infrastructure, the company is positioning itself at the intersection of cryptocurrency mining and artificial intelligence development.",
+        "headline": "Quantum Proposal Offers Potential Proof of Satoshi's Bitcoin Control",
+        "body": "A novel quantum computing proposal could allow the mysterious Bitcoin creator Satoshi Nakamoto to prove ownership without moving funds. The technical breakthrough offers a potential method of authentication that preserves the anonymity of Bitcoin's founding figure.\n\nThe proposal represents an intriguing intersection of cryptographic theory and blockchain technology, potentially resolving long-standing questions about Satoshi's identity and original Bitcoin holdings.",
         "sources": [
           {
-            "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
-            "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+            "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+            "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000",
-            "url": "https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -333,21 +357,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Verde",
-      "cuisine": "North African fusion",
-      "description": "Eggs poached in a vibrant green herb and tomatillo sauce, topped with crumbled feta and za'atar",
-      "tip": "Roast the tomatillos first to deepen their natural tanginess before blending into the sauce"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted 5-minute mobility sequence that realigns the thoracic spine and releases tension from prolonged sitting",
-      "tip": "Use a foam roller vertically along your spine, starting at tailbone and slowly rolling up to base of neck, pausing at any tight spots"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe as a guide: stand sideways, extend opposite arm overhead, and lean away to create a gentle lateral stretch"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved puzzles in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human infrastructure challenges, from energy efficiency to structural resilience"
     }
   }
 }
