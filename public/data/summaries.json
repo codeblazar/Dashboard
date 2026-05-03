@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-05-03T05:13:13.073Z",
+  "generatedAt": "2026-05-03T10:25:34.143Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Troop Cuts Strain US-Europe Alliance",
-        "body": "Tensions escalated as the US announced withdrawal of 5,000 troops from Germany, with potential further reductions looming. European allies are bracing for potential strategic realignments, with Germany describing the move as anticipated and other nations watching closely.\n\nThe Czech Republic's president emphasized diplomatic distance, stating they are not directly involved in broader geopolitical tensions. Trump's continued pressure on European allies comes amid ongoing conflicts, signaling a potentially significant shift in US military deployment strategies.",
+        "headline": "Trump Tensions Rise with Europe over Iran and Troop Withdrawals",
+        "body": "US-German relations have soured as President Trump escalates diplomatic conflicts on multiple fronts. His ongoing war of words with German politician Friedrich Merz and decision to withdraw 5,000 troops from Germany signal deepening transatlantic rifts. European allies are pushing back, with the Czech Republic president pointedly stating they are not part of Trump's broader geopolitical strategy.\n\nThe troop withdrawal could extend beyond Germany, with Spain and Italy potentially next. These moves come amid complex negotiations around the Iran conflict, where Iran has now submitted a 14-point response to US proposals, further complicating the international diplomatic landscape.",
         "sources": [
+          {
+            "title": "Trump’s war of words with Friedrich Merz takes toll on US-German relationship",
+            "url": "https://thehill.com/homenews/administration/5860224-trump-merz-iran-war-feud/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump warns of more cuts following withdrawal of 5,000 US troops from Germany",
             "url": "https://thehill.com/homenews/administration/5861129-trump-threatens-troop-withdrawal/",
@@ -24,122 +30,104 @@
             "url": "https://thehill.com/policy/international/5861117-czech-leader-europe-iran-support/",
             "source": "The Hill",
             "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Iran War Enters Complex Diplomatic Phase",
-        "body": "Iran submitted a 14-point response to US proposals aimed at ending the ongoing conflict, introducing new complexity to diplomatic negotiations. The war has now crossed the 60-day mark, with social media emerging as a key battleground for narrative control.\n\nThe response highlights the intricate diplomatic challenges facing both nations. While specific details remain unclear, the submission suggests potential openings for dialogue amid sustained military tensions.",
-        "sources": [
+          },
           {
             "title": "Iran submits 14-point response to U.S. proposal to end war",
             "url": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Sunday shows preview: VRA ruling fuels redistricting battle; Iran war crosses 60 days",
-            "url": "https://thehill.com/homenews/sunday-talk-shows/5861008-sunday-shows-preview-vra-ruling-fuels-redistricting-battle-iran-war-crosses-60-days/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "‘Shock and share’: Iran makes social media a key front in war against America",
-            "url": "https://thehill.com/policy/international/5858556-iran-social-media-warfare/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Approval Ratings Hit New Low",
-        "body": "A new Post-ABC-Ipsos poll reveals unprecedented disapproval ratings for the Trump administration. Public sentiment appears to be shifting, with growing concerns about government ethics and perceived declines in institutional integrity.\n\nA Pew study underscores these findings, suggesting a significant erosion of public trust in governmental transparency and ethical standards. The polling data indicates potential political challenges for Trump and his allies in upcoming electoral cycles.",
+        "headline": "Trump's Political Standing Challenged by New Approval Ratings",
+        "body": "A new Post-ABC-Ipsos poll reveals President Trump's disapproval ratings have reached a new high, potentially signaling growing voter dissatisfaction. The survey comes as Trump continues to make headlines - hosting the PGA Tour at his Doral property and maintaining an aggressive political posture.\n\nThe poll's timing coincides with ongoing legal and political challenges, including Department of Justice proceedings against former FBI Director James Comey and continued debates about voting rights and political representation.",
         "sources": [
+          {
+            "title": "Trump hosts PGA Tour at Doral — and he’s the big winner",
+            "url": "https://www.washingtonpost.com/politics/2026/05/03/trump-pga-golf-doral/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "DOJ casts Comey case as an ordinary threat prosecution. Is it?",
+            "url": "https://thehill.com/regulation/court-battles/5859963-justice-department-evidence-comey-case/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump disapproval reaches new high, Post-ABC-Ipsos poll finds",
             "url": "https://www.washingtonpost.com/politics/2026/05/03/trump-approval-ratings-poll/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "Majority say ethics, honesty in government have declined under Trump: Pew",
-            "url": "https://thehill.com/homenews/administration/5860805-ethics-honesty-declined-trump-administration-pew-study/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Liberals Win Nepean, But Internal Tensions Simmer",
-        "body": "The Victorian Liberal Party claimed victory in the Nepean by-election, but deep internal divisions continue to challenge the party's unity. The win provides a morale boost - yet questions remain about the party's long-term strategic direction and ongoing factional conflicts.\n\nLiberal strategists are analyzing the result for potential lessons ahead of the state election. Meanwhile, speculation continues about potential deals with minor parties like One Nation, with the party leadership refusing to definitively rule out future collaborations.",
+        "headline": "Albanese Targets Gen Z with Budget Strategy",
+        "body": "Prime Minister Anthony Albanese is preparing a federal budget designed to appeal directly to younger voters. The strategy signals a targeted approach to economic policy that could reshape political engagement with millennial and Generation Z demographics.\n\nEconomic experts suggest the budget may include measures addressing housing affordability, skills training, and potential tax incentives for younger workers. The move reflects growing political awareness that generational economic challenges require nuanced policy responses.",
         "sources": [
           {
-            "title": "The Liberals win Nepean, but have they lost the civil war?",
-            "url": "https://www.spectator.com.au/2026/05/the-liberals-win-nepean-but-have-they-lost-the-civil-war/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Australia news live: Victorian Liberal leader again refuses to rule out One Nation deal in November; federal Labor may extend fuel excise cut",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Liberals focus on 'lessons' for Victorian election after decisive Nepean win",
-            "url": "https://www.abc.net.au/news/2026-05-03/nepean-byelection-win-victorian-liberals-state-election/106635630",
+            "title": "Albanese readies federal budget to favour gen Z and millennial voters",
+            "url": "https://www.abc.net.au/news/2026-05-03/albanese-federal-budget-to-favour-gen-z-millennials/106636382",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "By-election of no consequence leaves some major party insiders disturbed",
+            "url": "https://www.abc.net.au/news/2026-05-03/nepean-by-election-proof-state-election-tough-for-major-parties/106636116",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Barnaby Joyce blames campaign ‘pressure’ after One Nation Farrer candidate contradicts party on immigration",
+            "url": "https://www.theguardian.com/australia-news/2026/may/03/barnaby-joyce-blames-campaign-pressure-after-one-nations-farrer-candidates-immigration-slip-up-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Murder Charge Laid After Alice Springs Child Death Sparks Outrage",
-        "body": "Police have charged Jefferson Lewis, 47, with the murder of five-year-old Kumanjayi Little Baby near Alice Springs. The case has triggered intense political debate about community safety and Indigenous welfare.\n\nNationalist politicians like Matt Canavan are demanding stronger government action, arguing current approaches are ineffective. The incident has also prompted renewed calls for a comprehensive inquiry into systemic issues affecting remote communities.",
+        "headline": "Tensions Rise with Iran as US Peace Talks Stall",
+        "body": "International diplomatic relations remain fraught as Iran signals readiness for potential renewed hostilities. Former US President Trump has indicated low likelihood of accepting a new peace proposal - a stance that could escalate regional tensions.\n\nThe development underscores the complex geopolitical landscape, with potential implications for Australian foreign policy and regional stability. Diplomatic sources suggest careful negotiation will be crucial in preventing further escalation.",
         "sources": [
           {
-            "title": "Police release CCTV of 'outright looting' of Alice Springs businesses",
-            "url": "https://www.abc.net.au/news/2026-05-03/nt-police-cctv-looting-alice-springs-jefferson-lewis-arrest/106635940",
+            "title": "Iran ready for 'renewed' hostilities as Trump cools on peace proposal",
+            "url": "https://www.abc.net.au/news/2026-05-03/trump-says-us-not-likely-to-accept-new-peace-proposal/106636528",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
-            "url": "https://www.theguardian.com/australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "The Tories are on the verge of a surprise Westminster comeback",
+            "url": "https://www.spectator.com.au/2026/05/the-tories-are-on-the-verge-of-a-surprise-westminster-comeback/",
+            "source": "Spectator AU",
+            "lean": "right"
           },
           {
-            "title": "After Little Baby's death, Canavan demands government stop 'running scared'",
-            "url": "https://www.abc.net.au/news/2026-05-03/matthew-canavan-kumanjayi-little-baby-voice-royal-commission/106635798",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Police charge Jefferson Lewis, 47, with 5yo girl's murder",
-            "url": "https://www.abc.net.au/news/2026-05-03/police-charge-jefferson-lewis-with-kumanjayi-little-baby-murder/106634346",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "How to silence Scottish nationalists",
+            "url": "https://www.spectator.com.au/2026/05/how-to-silence-scottish-nationalists/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Iran War Enters Critical Phase as Economic Fallout Mounts",
-        "body": "President Trump is weighing a 14-point Iranian peace proposal while the conflict's economic impact devastates Iran's workforce. Millions of jobs have vanished under what sources call Operation Economic Fury - a coordinated effort to cripple the Iranian economy through sanctions and military pressure.\n\nThe US has simultaneously approved $8.6 billion in arms sales to Middle Eastern allies, signaling continued regional strategic positioning. Trump has expressed skepticism about the peace plan, warning that military strikes could resume if the proposal does not meet US demands.",
+        "headline": "Iran War Enters Critical Phase as Trump Reviews Peace Plan",
+        "body": "President Trump is weighing a 14-point Iranian peace proposal amid ongoing tensions in the Middle East. The potential breakthrough comes as Israel continues military operations in Lebanon and the conflict enters its 65th day.\n\nTrump has expressed skepticism about the proposal's acceptability, warning that strikes could resume. The war has already caused significant economic disruption - with millions of Iranian jobs lost and regional air traffic restrictions only now being lifted by the UAE.",
         "sources": [
           {
-            "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+            "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+            "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US approves $8.6bn in arms sales to Middle East allies",
-            "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
+            "title": "UAE lifts all air traffic restrictions introduced since Iran war",
+            "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -158,25 +146,37 @@
         ]
       },
       {
-        "headline": "US Troop Drawdown Signals Shifting Global Military Strategy",
-        "body": "Germany anticipates a significant US military withdrawal as President Trump signals further potential troop reductions. The move comes amid complex geopolitical realignments triggered by ongoing conflicts in the Middle East and Eastern Europe.\n\nTrump has told Congress that the current ceasefire negates the need for legislative approval of military actions - a controversial stance that underscores the executive branch's expanding war powers. The potential troop cuts could reshape NATO's strategic posture and regional security dynamics.",
+        "headline": "Diplomatic Tensions Flare Between Nigeria and South Africa",
+        "body": "Nigeria has escalated diplomatic pressure by summoning the South African ambassador following violent attacks on Nigerian nationals. The move signals deepening friction between two of Africa's largest economies.\n\nThe incident highlights ongoing challenges of xenophobia and inter-African relations. Tensions have been building, with both countries seeking to manage a potentially explosive situation through official diplomatic channels.",
         "sources": [
           {
-            "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-            "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Nigeria summons South African envoy over attacks on its nationals",
+            "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-            "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+            "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US-Germany Tensions Rise Over Military Deployment to Russia",
+        "body": "Top US Republican lawmakers have criticized Germany's planned troop cuts - arguing the move sends a dangerous signal to Russia. The criticism underscores ongoing strategic disagreements within NATO about military posturing.\n\nThe dispute reflects broader geopolitical tensions, with US lawmakers concerned about potential perceived weakness in confronting Russian strategic interests. Germany's military restructuring has become a flashpoint in transatlantic defense discussions.",
+        "sources": [
+          {
+            "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+            "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-            "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "China blocks US sanctions against five ‘teapot’ refineries",
+            "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -184,36 +184,54 @@
     ],
     "ai": [
       {
-        "headline": "Chinese AI Model Beats US Rivals in Coding Challenge",
-        "body": "Kimi K2.6 - an open-weights Chinese language model - outperformed top US AI systems in a programming competition. The breakthrough highlights China's growing capabilities in artificial intelligence and challenges the dominance of US tech giants like OpenAI and Google.\n\nThe result signals a potential shift in the global AI landscape. Open-weights models - which allow broader access and modification - are proving increasingly competitive against closed proprietary systems.",
+        "headline": "AI Models Clash: Chinese System Beats Global Competitors",
+        "body": "In a surprising turn, the Kimi K2.6 AI model outperformed leading global systems in a coding challenge. The open-weights Chinese model defeated established competitors like Claude, GPT-5.5, and Gemini - signaling a potential shift in AI development leadership.\n\nThe breakthrough highlights growing technological competition, with Chinese AI research making significant strides. Performance metrics suggest the model's unique architecture and training approach may offer advantages in complex programming tasks.",
         "sources": [
           {
             "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
             "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
             "source": "Hacker News",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Maryland Bans AI-Driven Price Manipulation in Grocery Stores",
-        "body": "Maryland became the first US state to prohibit artificial intelligence-driven price increases in grocery stores. The law targets algorithmic pricing strategies that dynamically adjust consumer prices based on real-time market data and individual purchasing patterns.\n\nThis legislative move represents a significant consumer protection effort against opaque pricing technologies. Regulators aim to prevent potential price discrimination and ensure transparency in retail pricing mechanisms.",
-        "sources": [
+          },
           {
-            "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
-            "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+            "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+            "url": "https://hnup.date/hn-sota",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Hollywood Draws Line Against AI in Entertainment Awards",
-        "body": "The Academy has declared AI-generated actors and scripts ineligible for Oscar consideration. This decisive stance underscores the entertainment industry's growing resistance to artificial intelligence encroachment in creative domains.\n\nThe ruling reflects ongoing tensions between technological innovation and artistic authenticity. By explicitly excluding AI-generated content, the Academy signals its commitment to human creativity and performance.",
+        "headline": "Maryland Moves to Block AI-Driven Grocery Price Manipulation",
+        "body": "Maryland lawmakers have passed legislation banning AI-powered dynamic pricing in grocery stores - a direct response to emerging algorithmic pricing strategies. The law aims to protect consumers from potentially predatory pricing mechanisms that could exploit real-time market data.\n\nThis regulatory move signals growing governmental concern about AI's economic impact. Retailers will now face restrictions on using artificial intelligence to adjust prices dynamically, marking a significant intervention in technological market practices.",
+        "sources": [
+          {
+            "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+            "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "AI, Intimacy, and the Data You Never Meant to Share",
+            "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Hollywood Draws Line: AI Cannot Win Oscar Awards",
+        "body": "The Academy of Motion Picture Arts and Sciences has definitively ruled that AI-generated actors and scripts are ineligible for Oscar consideration. This landmark decision draws a clear boundary between human creativity and artificial generation in filmmaking.\n\nThe policy reflects ongoing tensions in entertainment about AI's role in artistic production. By explicitly excluding AI-created content, the Academy seeks to preserve the awards' human-centric legacy and protect creative professionals' interests.",
         "sources": [
           {
             "title": "AI-generated actors and scripts are now ineligible for Oscars",
             "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The best AI dictation apps, tested and ranked",
+            "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
             "source": "TechCrunch",
             "lean": null
           }
@@ -222,19 +240,13 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges in April - But Analysts Warn of Volatility",
-        "body": "Bitcoin logged its strongest monthly performance in a year during April, climbing significantly despite underlying market uncertainties. The price surge caught analysts' attention - but not all view the movement positively.\n\nResearch firm CryptoQuant flagged the rally as primarily speculative, highlighting weak spot market demand. The warning suggests potential near-term correction risks, tempering enthusiasm around the cryptocurrency's recent gains.",
+        "headline": "Bitcoin Surges: April Delivers Strongest Monthly Performance",
+        "body": "Bitcoin closed April with its most robust monthly gains in a year - a clear signal of renewed market confidence. The cryptocurrency logged impressive percentage gains that outpaced most traditional asset classes, signaling potential momentum heading into May.\n\nAnalysts point to several factors driving the surge, including growing institutional interest and macroeconomic conditions that favor alternative store-of-value assets. The performance underscores Bitcoin's resilience after a challenging 2025, suggesting the market may be entering a more bullish phase.",
         "sources": [
           {
             "title": "Bitcoin logs best monthly performance in 12 months during April",
             "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk",
-            "url": "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -251,13 +263,13 @@
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Decompression",
-      "description": "Implement a 5-minute micro-mobility routine that resets spinal alignment and releases tension through targeted stretches and controlled movements",
-      "tip": "Use a foam roller or tennis ball to target specific muscle knots during your routine"
+      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching positions every 25 minutes to reset spinal alignment",
+      "tip": "Set a subtle phone alarm to prompt position changes and use a height-adjustable desk if possible"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can be redesigned by mimicking natural ecosystems' efficiency, resilience, and interconnectedness",
-      "why": "This emerging field offers revolutionary solutions to urban challenges like sustainability, energy efficiency, and community resilience"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most intriguing unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
     }
   }
 }
