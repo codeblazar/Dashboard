@@ -1,12 +1,42 @@
 {
-  "generatedAt": "2026-05-02T22:17:15.117Z",
+  "generatedAt": "2026-05-03T05:13:13.073Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Voting Rights Ruling Sparks Redistricting Battle",
-        "body": "The Supreme Court's latest Voting Rights Act decision has ignited a fierce political battle over electoral maps. Mississippi Democrats warn of a challenging fight ahead, with potential widespread implications for minority representation in state legislatures.\n\nConservative legal experts argue the ruling restores state-level electoral autonomy, while voting rights advocates see it as a potential setback for minority electoral power. The decision could reshape political boundaries in multiple states, with both parties preparing legal and strategic responses.",
+        "headline": "Trump Troop Cuts Strain US-Europe Alliance",
+        "body": "Tensions escalated as the US announced withdrawal of 5,000 troops from Germany, with potential further reductions looming. European allies are bracing for potential strategic realignments, with Germany describing the move as anticipated and other nations watching closely.\n\nThe Czech Republic's president emphasized diplomatic distance, stating they are not directly involved in broader geopolitical tensions. Trump's continued pressure on European allies comes amid ongoing conflicts, signaling a potentially significant shift in US military deployment strategies.",
         "sources": [
+          {
+            "title": "Trump warns of more cuts following withdrawal of 5,000 US troops from Germany",
+            "url": "https://thehill.com/homenews/administration/5861129-trump-threatens-troop-withdrawal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Czech Republic president on Trump’s anger with Europe over Iran war response: ‘We are not part of it’",
+            "url": "https://thehill.com/policy/international/5861117-czech-leader-europe-iran-support/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Iran War Enters Complex Diplomatic Phase",
+        "body": "Iran submitted a 14-point response to US proposals aimed at ending the ongoing conflict, introducing new complexity to diplomatic negotiations. The war has now crossed the 60-day mark, with social media emerging as a key battleground for narrative control.\n\nThe response highlights the intricate diplomatic challenges facing both nations. While specific details remain unclear, the submission suggests potential openings for dialogue amid sustained military tensions.",
+        "sources": [
+          {
+            "title": "Iran submits 14-point response to U.S. proposal to end war",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Sunday shows preview: VRA ruling fuels redistricting battle; Iran war crosses 60 days",
             "url": "https://thehill.com/homenews/sunday-talk-shows/5861008-sunday-shows-preview-vra-ruling-fuels-redistricting-battle-iran-war-crosses-60-days/",
@@ -14,124 +44,82 @@
             "lean": "center"
           },
           {
-            "title": "Mississippi Democrat on potential redistricting after VRA ruling: ‘We have a fight ahead of us’",
-            "url": "https://thehill.com/homenews/house/5860877-supreme-court-voting-rights-act-mississippi/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "How far did the Supreme Court’s Voting Rights Act decision go?",
-            "url": "https://thehill.com/regulation/court-battles/5859899-voting-rights-act-supreme-court/",
+            "title": "‘Shock and share’: Iran makes social media a key front in war against America",
+            "url": "https://thehill.com/policy/international/5858556-iran-social-media-warfare/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Abortion Pill Access Heads to Supreme Court Amid Heated Debate",
-        "body": "The future of mifepristone - a widely used abortion medication - hangs in the balance as the Supreme Court prepares to review recent lower court restrictions. Drugmakers warn the current ruling could create significant healthcare disruption.\n\nDemocrats have vowed to continue fighting the restrictions, framing the issue as critical to reproductive healthcare access. Conservative legal groups maintain the restrictions protect medical safety standards. The case represents a critical test of post-Roe abortion access in the United States.",
+        "headline": "Trump Approval Ratings Hit New Low",
+        "body": "A new Post-ABC-Ipsos poll reveals unprecedented disapproval ratings for the Trump administration. Public sentiment appears to be shifting, with growing concerns about government ethics and perceived declines in institutional integrity.\n\nA Pew study underscores these findings, suggesting a significant erosion of public trust in governmental transparency and ethical standards. The polling data indicates potential political challenges for Trump and his allies in upcoming electoral cycles.",
         "sources": [
           {
-            "title": "Abortion pill fight heads to Supreme Court as manufacturer warns of ‘chaos’ after ruling",
-            "url": "https://www.foxnews.com/politics/abortion-pill-fight-heads-supreme-court-manufacturer-warns-chaos-ruling",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Drugmaker asks Supreme Court to restore abortion pill access by mail",
-            "url": "https://www.washingtonpost.com/politics/2026/05/02/mifepristone-supreme-court-mail-access/",
+            "title": "Trump disapproval reaches new high, Post-ABC-Ipsos poll finds",
+            "url": "https://www.washingtonpost.com/politics/2026/05/03/trump-approval-ratings-poll/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Supreme Court asked to halt limits on mail-order abortion pill Mifepristone",
-            "url": "https://thehill.com/regulation/court-battles/5860830-supreme-court-appeal-mifepristone-ruling/",
+            "title": "Majority say ethics, honesty in government have declined under Trump: Pew",
+            "url": "https://thehill.com/homenews/administration/5860805-ethics-honesty-declined-trump-administration-pew-study/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Democrats erupt over abortion pill block: ‘We won’t stop fighting’",
-            "url": "https://thehill.com/policy/healthcare/5860595-democrats-criticism-appeals-court-ruling-abortion-pill-mifepristone-block/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Spirit Airlines Shutters After Failed Trump Bailout Negotiations",
-        "body": "Spirit Airlines will cease operations after unsuccessful negotiations for a federal bailout, marking a significant disruption in the low-cost carrier market. The shutdown follows rising fuel prices and complex economic pressures.\n\nFormer Trump administration officials suggest the airline's closure was not directly linked to the ongoing Iran conflict. The move will impact thousands of employees and potentially reshape domestic air travel competition. Travelers and industry analysts are now assessing the broader implications of the airline's sudden exit.",
-        "sources": [
-          {
-            "title": "Duffy: Iran war ‘was not the impetus’ for Spirit shutting down amid rising fuel prices",
-            "url": "https://thehill.com/policy/transportation/5861009-spirit-airlines-shutdown-duffy-response/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Spirit Airlines to shutter after no Trump deal: What to know",
-            "url": "https://thehill.com/policy/transportation/5860937-spirit-airlines-shutdown-what-to-know/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Spirit Airlines, low-cost innovator, shuts down after Trump bailout plan fails",
-            "url": "https://www.washingtonpost.com/politics/2026/05/02/spirit-airlines-flights-shutdown/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Albanese's Agenda Shifts as Political Landscape Transforms",
-        "body": "Prime Minister Anthony Albanese faces a pivotal moment in his second term, with significant policy challenges reshaping his government's direction. The past year has seen dramatic shifts in both domestic and international policy landscapes, testing the Labor government's strategic approach.\n\nKey policy areas including energy, international relations, and social policy are undergoing substantial recalibration. Economic pressures and global tensions continue to influence the government's decision-making, with the administration seeking to balance competing priorities and maintain public support.",
+        "headline": "Liberals Win Nepean, But Internal Tensions Simmer",
+        "body": "The Victorian Liberal Party claimed victory in the Nepean by-election, but deep internal divisions continue to challenge the party's unity. The win provides a morale boost - yet questions remain about the party's long-term strategic direction and ongoing factional conflicts.\n\nLiberal strategists are analyzing the result for potential lessons ahead of the state election. Meanwhile, speculation continues about potential deals with minor parties like One Nation, with the party leadership refusing to definitively rule out future collaborations.",
         "sources": [
           {
-            "title": "The year that changed the shape of Albanese's agenda",
-            "url": "https://www.abc.net.au/news/2026-05-03/albanese-one-year-reelected-war-fuel-bondi-jim-chalmers/106612452",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "The Liberals win Nepean, but have they lost the civil war?",
+            "url": "https://www.spectator.com.au/2026/05/the-liberals-win-nepean-but-have-they-lost-the-civil-war/",
+            "source": "Spectator AU",
+            "lean": "right"
           },
           {
-            "title": "Australian taxpayers take on risk for major oil and gas projects",
-            "url": "https://www.abc.net.au/news/2026-05-03/australian-taxpayers-take-on-risk-for-oil-and-gas-projects/106627184",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Australia news live: Victorian Liberal leader again refuses to rule out One Nation deal in November; federal Labor may extend fuel excise cut",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Republicans air concerns after US announces 5,000 troops to leave Germany",
-            "url": "https://www.abc.net.au/news/2026-05-03/republican-pushback-over-us-troop-withdrawal-from-germany/106635480",
+            "title": "Liberals focus on 'lessons' for Victorian election after decisive Nepean win",
+            "url": "https://www.abc.net.au/news/2026-05-03/nepean-byelection-win-victorian-liberals-state-election/106635630",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Crime and Community: Tensions Emerge in Local Safety Debates",
-        "body": "Australian communities are grappling with complex crime dynamics, with new data revealing nuanced patterns of youth and adult offending. Recent reports highlight both progress and persistent challenges in addressing criminal behavior across different regions.\n\nPolice response and community engagement remain critical factors in crime prevention. Incidents ranging from gang-related violence to individual assaults underscore the multifaceted nature of public safety challenges, prompting calls for more sophisticated and targeted intervention strategies.",
+        "headline": "Murder Charge Laid After Alice Springs Child Death Sparks Outrage",
+        "body": "Police have charged Jefferson Lewis, 47, with the murder of five-year-old Kumanjayi Little Baby near Alice Springs. The case has triggered intense political debate about community safety and Indigenous welfare.\n\nNationalist politicians like Matt Canavan are demanding stronger government action, arguing current approaches are ineffective. The incident has also prompted renewed calls for a comprehensive inquiry into systemic issues affecting remote communities.",
         "sources": [
           {
-            "title": "Youth offending falls in crime hotspot but adult rates more stubborn",
-            "url": "https://www.abc.net.au/news/2026-05-03/moree-crime-meetings-reveal-latest-crime-snapshot/106629260",
+            "title": "Police release CCTV of 'outright looting' of Alice Springs businesses",
+            "url": "https://www.abc.net.au/news/2026-05-03/nt-police-cctv-looting-alice-springs-jefferson-lewis-arrest/106635940",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "He ordered coffee — then a killing: Sydney gangster named in failed $2m hit",
-            "url": "https://www.abc.net.au/news/2026-05-03/nsw-ibrahem-hamze-named-botched-sydney-hit/106576360",
+            "title": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
+            "url": "https://www.theguardian.com/australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "After Little Baby's death, Canavan demands government stop 'running scared'",
+            "url": "https://www.abc.net.au/news/2026-05-03/matthew-canavan-kumanjayi-little-baby-voice-royal-commission/106635798",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Migrant delivery driver says assault claim was not taken seriously by SA Police",
-            "url": "https://www.abc.net.au/news/2026-05-03/delivery-driver-says-sa-police-ignored-assalt-claim/106558906",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Breaking: Three dead, man arrested after incident at home in Sydney",
-            "url": "https://www.abc.net.au/news/2026-05-03/nsw-man-arrested-death-three-people-rosemeadow/106635600",
+            "title": "Police charge Jefferson Lewis, 47, with 5yo girl's murder",
+            "url": "https://www.abc.net.au/news/2026-05-03/police-charge-jefferson-lewis-with-kumanjayi-little-baby-murder/106634346",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -140,89 +128,41 @@
     ],
     "world": [
       {
-        "headline": "US-Iran Tensions Escalate as War Strains Global Economy",
-        "body": "The ongoing conflict between the United States and Iran continues to send shockwaves through global markets. Spirit Airlines collapsed amid rising fuel costs, highlighting the economic fallout of the war. Iran's economy buckles under pressure - prices surge and jobs vanish as sanctions and military actions take their toll.\n\nThe maritime landscape grows increasingly volatile. Shipping routes face unprecedented challenges, with the US threatening sanctions on firms paying Iranian tolls and maritime laws struggling to secure international waters.",
+        "headline": "Iran War Enters Critical Phase as Economic Fallout Mounts",
+        "body": "President Trump is weighing a 14-point Iranian peace proposal while the conflict's economic impact devastates Iran's workforce. Millions of jobs have vanished under what sources call Operation Economic Fury - a coordinated effort to cripple the Iranian economy through sanctions and military pressure.\n\nThe US has simultaneously approved $8.6 billion in arms sales to Middle Eastern allies, signaling continued regional strategic positioning. Trump has expressed skepticism about the peace plan, warning that military strikes could resume if the proposal does not meet US demands.",
         "sources": [
           {
-            "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+            "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Prices surge, jobs disappear as war strains Iran’s economy",
-            "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
+            "title": "US approves $8.6bn in arms sales to Middle East allies",
+            "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
-            "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
+            "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Why are maritime laws failing to secure the seas?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/2/why-are-maritime-laws-failing-to-secure-the-seas?traffic_source=rss",
+            "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Gaza Conflict Intensifies - International Pressure Mounts",
-        "body": "Israel continues to tighten its grip on Gaza, expanding no-go zones and facing international condemnation. Spain has demanded the release of a Spanish crew member arrested during a humanitarian flotilla, escalating diplomatic tensions.\n\nSouthern Lebanon bears the brunt of ongoing conflict, with thirteen killed in recent Israeli strikes. The humanitarian crisis deepens as international bodies struggle to broker meaningful peace or provide adequate aid.",
+        "headline": "US Troop Drawdown Signals Shifting Global Military Strategy",
+        "body": "Germany anticipates a significant US military withdrawal as President Trump signals further potential troop reductions. The move comes amid complex geopolitical realignments triggered by ongoing conflicts in the Middle East and Eastern Europe.\n\nTrump has told Congress that the current ceasefire negates the need for legislative approval of military actions - a controversial stance that underscores the executive branch's expanding war powers. The potential troop cuts could reshape NATO's strategic posture and regional security dynamics.",
         "sources": [
           {
-            "title": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Spain demands Israel release arrested Gaza flotilla crew member",
-            "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Devastation of Southern Lebanon continues under ‘ceasefire’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-            "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spains-sanchez-demands-netanyahu-free-spaniard-seized-on-aid-flotilla?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Political Landscape Fractures Under Trump's Influence",
-        "body": "Political violence continues to reshape the American democratic landscape. Trump claims congressional approval unnecessary for the Iran conflict - citing an existing ceasefire - while Germany signals potential US troop withdrawals that could reshape NATO's strategic positioning.\n\nDomestic tensions remain high, with the Supreme Court facing renewed challenges over abortion pill access. The political discourse grows increasingly polarized and confrontational.",
-        "sources": [
-          {
-            "title": "The rise of political violence under Trump",
-            "url": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US Supreme Court asked to restore abortion pill access",
-            "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+            "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
             "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
@@ -232,14 +172,44 @@
             "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
+          },
+          {
+            "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+            "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
           }
         ]
       }
     ],
     "ai": [
       {
-        "headline": "Hollywood Draws Line: No AI Actors or Scripts at Oscars",
-        "body": "The Academy of Motion Picture Arts and Sciences has drawn a clear boundary in the AI era. Starting this year, AI-generated actors and screenplays will be ineligible for Oscar consideration - a stark signal about the boundaries of artificial creativity in filmmaking.\n\nThis decision reflects growing tensions between traditional artistic craft and emerging AI technologies. By explicitly excluding AI-generated work, the Academy aims to preserve human artistic expression and protect the integrity of its most prestigious awards.",
+        "headline": "Chinese AI Model Beats US Rivals in Coding Challenge",
+        "body": "Kimi K2.6 - an open-weights Chinese language model - outperformed top US AI systems in a programming competition. The breakthrough highlights China's growing capabilities in artificial intelligence and challenges the dominance of US tech giants like OpenAI and Google.\n\nThe result signals a potential shift in the global AI landscape. Open-weights models - which allow broader access and modification - are proving increasingly competitive against closed proprietary systems.",
+        "sources": [
+          {
+            "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+            "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Maryland Bans AI-Driven Price Manipulation in Grocery Stores",
+        "body": "Maryland became the first US state to prohibit artificial intelligence-driven price increases in grocery stores. The law targets algorithmic pricing strategies that dynamically adjust consumer prices based on real-time market data and individual purchasing patterns.\n\nThis legislative move represents a significant consumer protection effort against opaque pricing technologies. Regulators aim to prevent potential price discrimination and ensure transparency in retail pricing mechanisms.",
+        "sources": [
+          {
+            "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+            "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Hollywood Draws Line Against AI in Entertainment Awards",
+        "body": "The Academy has declared AI-generated actors and scripts ineligible for Oscar consideration. This decisive stance underscores the entertainment industry's growing resistance to artificial intelligence encroachment in creative domains.\n\nThe ruling reflects ongoing tensions between technological innovation and artistic authenticity. By explicitly excluding AI-generated content, the Academy signals its commitment to human creativity and performance.",
         "sources": [
           {
             "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -248,65 +218,23 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "California Cracks Down on Autonomous Vehicle Infractions",
-        "body": "California will now ticket driverless cars that violate traffic laws - a significant escalation in autonomous vehicle regulation. The move signals growing state-level scrutiny of self-driving technology and its real-world performance.\n\nUber is simultaneously exploring new strategies in this space. The company wants to transform its massive driver network into a sensor grid for self-driving companies - potentially creating a crowdsourced mapping and validation system for autonomous vehicle technologies.",
-        "sources": [
-          {
-            "title": "California to begin ticketing driverless cars that violate traffic laws",
-            "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-            "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Research Reveals Nuanced Model Behavior Patterns",
-        "body": "New research is uncovering intricate details about AI model behavior. A recent study found that language models' refusal mechanisms are mediated by a single directional vector - suggesting more complex internal decision-making processes than previously understood.\n\nAnother study highlighted potential performance risks. AI models that attempt to consider user emotions are statistically more likely to generate errors - underscoring the challenges of creating truly adaptive artificial intelligence.",
-        "sources": [
-          {
-            "title": "Refusal in Language Models Is Mediated by a Single Direction",
-            "url": "https://arxiv.org/abs/2406.11717",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Study: AI models that consider user's feeling are more likely to make errors",
-            "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Price Surge Lacks Substance - Correction Looms",
-        "body": "Analysts at CryptoQuant warn that April's bitcoin rally may be built on shaky ground. The price increase appears largely speculative, with weak underlying spot market demand signaling potential downside risk.\n\nThe research suggests investors should prepare for potential market correction. Thin trading volumes and limited institutional interest could quickly deflate recent price gains, highlighting the fragile nature of bitcoin's current market momentum.",
+        "headline": "Bitcoin Surges in April - But Analysts Warn of Volatility",
+        "body": "Bitcoin logged its strongest monthly performance in a year during April, climbing significantly despite underlying market uncertainties. The price surge caught analysts' attention - but not all view the movement positively.\n\nResearch firm CryptoQuant flagged the rally as primarily speculative, highlighting weak spot market demand. The warning suggests potential near-term correction risks, tempering enthusiasm around the cryptocurrency's recent gains.",
         "sources": [
+          {
+            "title": "Bitcoin logs best monthly performance in 12 months during April",
+            "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk",
             "url": "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Developers Blast Risky eCash Airdrop Project",
-        "body": "The bitcoin developer community has raised serious concerns about Paul Sztorc's proposed eCash fork. Experts are calling the project potentially hazardous - warning users about significant technical and security risks associated with the proposed airdrop.\n\nThe criticism underscores ongoing tensions around bitcoin protocol modifications and the community's vigilance against projects that could compromise network integrity. Developers are urging caution and thorough vetting before any potential implementation.",
-        "sources": [
-          {
-            "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
-            "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -315,21 +243,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Verde",
-      "cuisine": "North African fusion",
-      "description": "Eggs poached in a vibrant green tomatillo and herb sauce, topped with crumbled feta and za'atar",
-      "tip": "Roast the tomatillos first to deepen their natural tanginess before blending into the sauce"
+      "name": "Moroccan Shakshuka Sunrise",
+      "cuisine": "North African Fusion",
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
+      "tip": "Use a cast iron skillet for even heat distribution and a beautiful presentation"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that shifts your spine's loading zones every 20 minutes to prevent chronic compression",
-      "tip": "Use a small wobble cushion or balance disc under your chair to engage core muscles subtly while working"
+      "description": "Implement a 5-minute micro-mobility routine that resets spinal alignment and releases tension through targeted stretches and controlled movements",
+      "tip": "Use a foam roller or tennis ball to target specific muscle knots during your routine"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are increasingly adopting design principles from natural ecosystems to solve complex infrastructure and sustainability challenges",
-      "why": "Understanding how nature solves complex problems can revolutionize our approach to urban planning, energy use, and resilient infrastructure"
+      "description": "Exploring how cities can be redesigned by mimicking natural ecosystems' efficiency, resilience, and interconnectedness",
+      "why": "This emerging field offers revolutionary solutions to urban challenges like sustainability, energy efficiency, and community resilience"
     }
   }
 }
