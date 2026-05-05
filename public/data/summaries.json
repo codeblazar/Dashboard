@@ -1,33 +1,63 @@
 {
-  "generatedAt": "2026-05-05T05:08:44.578Z",
+  "generatedAt": "2026-05-05T10:38:07.538Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Clears Louisiana Redistricting, Tensions Rise",
-        "body": "The Supreme Court has accelerated a decision on Louisiana's redistricting map, with Justices Alito and Jackson sparring over the details. The ruling potentially allows Louisiana to redraw electoral boundaries - a move that could significantly impact political representation in the state.\n\nThe decision highlights ongoing national debates about gerrymandering and electoral fairness. Both conservative and liberal justices showed sharp differences in their approach, reflecting the deep political divisions underlying redistricting battles.",
+        "headline": "Midterms Test Trump's Grip as Primaries Hit Ohio and Indiana",
+        "body": "Republican voters head to polls in Ohio and Indiana today, offering a critical temperature check on Donald Trump's political influence. Early polling suggests mixed fortunes for the former president - some GOP candidates ride his endorsement, while others face challenges from within the party.\n\nKey races will reveal whether Trump can maintain his sway over Republican primary voters. National strategists from both parties are watching closely, seeing these contests as potential bellwethers for the upcoming midterm elections.",
         "sources": [
           {
-            "title": "Supreme Court clears path for Louisiana to redraw map in redistricting fight",
-            "url": "https://www.washingtonpost.com/politics/2026/05/04/supreme-court-louisiana-redistricting/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Primary elections in Ohio, Indiana offer latest temperature check on Trump popularity",
+            "url": "https://www.npr.org/2026/05/05/nx-s1-5807910/2026-midterm-primary-election-ohio-indiana",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "Alito, Jackson spar as Supreme Court speeds up Louisiana redistricting judgment",
-            "url": "https://thehill.com/regulation/court-battles/5863197-supreme-court-alito-jackson-louisiana-map/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Ohio holding primary elections for several key races",
+            "url": "https://www.npr.org/2026/05/05/nx-s1-5806293/ohio-holding-primary-elections-for-several-key-races",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Tuesday's election in Indiana puts Trump's influence to the test",
+            "url": "https://www.npr.org/2026/05/05/nx-s1-5793886/tuesdays-election-in-indiana-puts-trumps-influence-to-the-test",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Voters head to the polls in Indiana and Ohio. What's in the balance?",
+            "url": "https://www.npr.org/2026/05/05/nx-s1-5810496/voters-head-to-the-polls-in-indiana-and-ohio-whats-in-the-balance",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump's grip over GOP tested as state senators who defied president challenged in key primaries",
+            "url": "https://www.foxnews.com/politics/trumps-grip-gop-tested-state-senators-defied-president-challenged-key-primaries",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Texas Migration Law Sparks Federal Legal Challenge",
-        "body": "Civil rights groups have filed a lawsuit seeking to block a new Texas law that would allow local police to arrest migrants without federal authorization. The legislation represents a direct challenge to existing federal immigration enforcement protocols.\n\nThe lawsuit underscores the ongoing tension between state-level immigration enforcement and federal immigration policy. Supporters argue the law will enhance border security, while opponents claim it will lead to racial profiling and civil rights violations.",
+        "headline": "US-Iran Tensions Escalate with Threats and Potential Military Action",
+        "body": "Geopolitical tensions are rising in the Hormuz Strait, with Senator Lindsey Graham advocating for potential US military strikes against Iran's infrastructure. Iranian officials have warned against any military solution, suggesting diplomatic talks are still progressing.\n\nThe situation remains volatile. Graham has proposed what he calls aggressive action against Iran's war machine, while diplomatic channels remain cautiously open. Both sides are signaling readiness - but also leaving room for potential negotiation.",
         "sources": [
           {
-            "title": "Civil rights groups file lawsuit seeking to block Texas law allowing cops to arrest illegal migrants",
-            "url": "https://www.foxnews.com/politics/civil-rights-groups-file-lawsuit-seeking-block-texas-law-allowing-cops-arrest-illegal-migrants",
+            "title": "Sen. Lindsey Graham floats idea of more US attacks against Iranian 'war machine'",
+            "url": "https://www.foxnews.com/politics/sen-lindsey-graham-floats-idea-us-attacks-iranian-war-machine",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Murkowski spearheads GOP showdown over Iran",
+            "url": "https://thehill.com/homenews/senate/5863100-iran-lisa-murkowski-john-thune-war-powers-act/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump opens Hormuz under fire with ‘Project Freedom’ as Iran warns of attacks",
+            "url": "https://www.foxnews.com/politics/trump-opens-hormuz-under-fire-project-freedom-iran-warns-attacks",
             "source": "Fox News",
             "lean": "right"
           },
@@ -38,111 +68,57 @@
             "lean": "center"
           }
         ]
-      },
-      {
-        "headline": "White House Lockdown and International Tensions Escalate",
-        "body": "The White House experienced a brief lockdown after an armed individual exchanged gunfire with Secret Service agents. The incident occurred amid rising international tensions, particularly in the Strait of Hormuz, where the US and Iran are trading diplomatic pressures.\n\nIranian officials have warned against military escalation while claiming diplomatic talks are making progress. The simultaneous domestic security incident and international standoff highlight the complex security challenges facing the current administration.",
-        "sources": [
-          {
-            "title": "Gunfire between Secret Service and armed person briefly locks down White House",
-            "url": "https://www.washingtonpost.com/politics/2026/05/04/capitol-hill-shooting-white-house-lockdown/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Iranian official warns US, UAE against ‘military solution’ as talks make ‘progress’",
-            "url": "https://thehill.com/policy/international/5863126-talks-progress-middle-east/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Live updates: Stars arrive at Met Gala 2026, US, Iran trade fire amid Strait of Hormuz tension",
-            "url": "https://thehill.com/homenews/administration/5861237-live-updates-met-gala-2026-bezos-donald-trump-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "RBA Hikes Interest Rates, Banks Follow with Mortgage Pain",
-        "body": "The Reserve Bank of Australia has lifted the official cash rate to 4.35%, signaling continued pressure on household budgets. Macquarie Bank became the first major bank to pass on the rate increase, with other banks expected to follow suit in the coming days.\n\nThe 0.25 percentage point rise marks another challenge for mortgage holders already struggling with cost of living pressures. Economists suggest the move aims to combat persistent inflation, though the impact on everyday Australians remains significant.",
+        "headline": "RBA Warns Australians: Economic Pain Will Continue",
+        "body": "Reserve Bank of Australia Governor Michele Bullock delivered a stark economic message Tuesday - Australians are poorer and will likely stay that way. Her comments followed another interest rate rise, signaling ongoing financial pressure for households already struggling with inflation.\n\nBullock's blunt assessment suggests the RBA sees no immediate relief from economic challenges. The bank's stance reflects complex global economic tensions, including international conflicts driving up costs. Both left and right-leaning economic commentators agree the situation demands serious policy responses.",
         "sources": [
           {
-            "title": "Breaking: Macquarie Bank becomes first Australian bank to lift interest rates",
-            "url": "https://www.abc.net.au/news/2026-05-05/major-banks-lift-interest-rates-after-rba-cash-rate-rise/106644044",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Firefighter threatened to 'skin' Jewish paramedic, royal commission told",
-            "url": "https://www.abc.net.au/news/2026-05-05/bondi-antisemitism-social-cohesion-royal-commission-paramedic/106644084",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "New 40km/h zones creating confusing speed limit clusters with massive fines for drivers",
-            "url": "https://www.abc.net.au/news/2026-05-05/sa-40kmh-speed-limit-cluster-confusion-big-fines/106642954",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Reserve Bank lifts interest rates by another 0.25pc, to 4.35pc",
-            "url": "https://www.abc.net.au/news/2026-05-05/reserve-bank-lifts-interest-rates-by-0-25pc-to-4-35pc/106639202",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Use our rate hike calculator to see how rising interest rates may affect you",
-            "url": "https://www.abc.net.au/news/2026-05-05/mortgage-repayment-calculator-rba-hike-may-2026/106638142",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Victoria Reveals First Post-Pandemic Budget with Surplus",
-        "body": "The Victorian government has delivered its 2026 state budget, recording its first post-pandemic surplus while facing mounting long-term debt challenges. The budget includes targeted cost-of-living support and transport cost reductions, but raises questions about future financial sustainability.\n\nWith state debt approaching $200 billion, the government is walking a fine line between providing immediate relief and maintaining fiscal responsibility. Budget analysts are divided on the long-term implications of the spending approach.",
-        "sources": [
-          {
-            "title": "Victorian budget 2026: state records first post-pandemic surplus but financial health uncertain as debt nears $200bn",
-            "url": "https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus",
+            "title": "Australians are poorer because of war on the other side of the world – Michele Bullock’s logic is hard to fault",
+            "url": "https://www.theguardian.com/business/2026/may/05/australians-are-poorer-because-of-war-on-the-other-side-of-the-world-michele-bullocks-logic-is-hard-to-fault",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Victorian budget 2026 winners and losers: state cuts transport costs and helps parents - but will future generations suffer?",
-            "url": "https://www.theguardian.com/australia-news/2026/may/05/victoria-budget-2026-labor-winners-losers",
+            "title": "Michele Bullock says ‘we are poorer and there is no way out of it’ after rate rise – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Who are the winners and losers in Victoria's budget?",
-            "url": "https://www.abc.net.au/news/2026-05-05/victoria-2026-budget-winners-and-losers/106627828",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "RBA interest rates: Michele Bullock says Australians poorer with ‘no way out’ as she warns of more rate hikes",
+            "url": "https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Victoria spruiks 'disciplined' budget despite cost-of-living handouts",
-            "url": "https://www.abc.net.au/news/2026-05-05/victorian-state-budget-2026-wrap/106638608",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Labor’s spending left the RBA with no option",
+            "url": "https://www.spectator.com.au/2026/05/labors-spending-left-the-rba-with-no-option/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Royal Commission Reveals Disturbing Accounts of Antisemitism",
-        "body": "The ongoing royal commission has heard harrowing testimony about antisemitism faced by Jewish children in Australia, including a shocking incident where a firefighter allegedly threatened to skin a Jewish paramedic. Witnesses have described experiences of targeted harassment and violence.\n\nThe testimonies highlight deep-seated social tensions and raise urgent questions about community cohesion and protection of minority groups. The commission continues to gather evidence about systemic discrimination and individual acts of prejudice.",
+        "headline": "Indigenous Issues Spark Controversy in Media and Politics",
+        "body": "A brewing controversy erupted Tuesday after an Indigenous commissioner condemned a comedian's video as deeply offensive. The incident highlights ongoing tensions around cultural representation and free speech in Australian public discourse.\n\nSimultaneously, a separate story from a coronial inquest revealed concerns raised before an Aboriginal teen's death - underscoring broader systemic challenges facing Indigenous communities. These parallel narratives demonstrate the complex landscape of Indigenous rights and representation in contemporary Australian society.",
         "sources": [
           {
-            "title": "Firefighter threatened to 'skin' Jewish paramedic, royal commission told",
-            "url": "https://www.abc.net.au/news/2026-05-05/bondi-antisemitism-social-cohesion-royal-commission-paramedic/106644084",
+            "title": "Indigenous commissioner condemns comedian's 'deeply offensive' video",
+            "url": "https://www.abc.net.au/news/2026-05-05/indigenous-commissioner-condemns-comedian-video/106645610",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "‘They came to kill us’: royal commission hears horrific accounts of antisemitism faced by Jewish children in Australia",
+            "title": "Concerns raised before Aboriginal teen's death, inquest hears",
+            "url": "https://www.abc.net.au/news/2026-05-05/coronial-inquest-into-sudden-death-of-teenager-in-state-care/106642538",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "NSW police urged Jewish man to drop claim he was subject to antisemitic slurs and death threats, commission told",
             "url": "https://www.theguardian.com/australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
@@ -152,84 +128,48 @@
     ],
     "world": [
       {
-        "headline": "Iran Attacks UAE, US Strikes Back in Hormuz Escalation",
-        "body": "Tensions in the Strait of Hormuz erupted into open conflict as Iran launched attacks on a UAE oil facility, prompting immediate US military retaliation. American forces struck Iranian fast boats in a sharp response to the provocative action. Oil prices surged dramatically as the region teetered on the brink of wider confrontation.\n\nWorld leaders condemned the Iranian attacks as a dangerous escalation. The incident threatens to destabilize an already fragile geopolitical landscape, with potential implications for global energy markets and regional security.",
+        "headline": "Hantavirus Outbreak Spreads - Cruise Ship Deaths Spark Alarm",
+        "body": "A second hantavirus case has emerged, intensifying concerns about a potential epidemic after multiple deaths on a cruise ship. Health authorities are scrambling to contain the outbreak and trace potential transmission routes. The virus - known for its high mortality rate - has already claimed multiple lives, raising urgent questions about passenger screening and maritime health protocols.",
         "sources": [
           {
-            "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-            "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Second hantavirus case confirmed after deaths on cruise ship",
+            "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
-            "url": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
+            "title": "Do viruses spread more easily on cruise ships?",
+            "url": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Russia Strikes Ukraine Gas Facilities - Five Workers Killed",
+        "body": "Russian forces launched targeted air attacks on Ukraine's Naftogaz gas facilities, killing five workers in an escalation of ongoing military operations. The strike underscores the continued volatility of the conflict - hitting critical energy infrastructure and potentially disrupting Ukraine's industrial capacity. Ukrainian officials condemned the attack as a deliberate assault on civilian workers.",
+        "sources": [
+          {
+            "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
+            "url": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Oil prices surge as violence flares in Strait of Hormuz",
-            "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
-            "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
+            "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+            "url": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Deadly Accidents Shock Brazil and China in 24 Hours",
-        "body": "Tragedy struck twice in separate incidents across two continents. In Brazil, a small plane crashed into a building - killing three people in a sudden, violent impact. Meanwhile, in China, a fireworks factory explosion claimed at least 21 lives in a catastrophic industrial accident.\n\nBoth events underscore the persistent risks of industrial and aviation operations. Investigations are likely to follow, seeking to understand the root causes of these devastating incidents.",
+        "headline": "White House Security Incident - Gunman Shot Near Presidential Grounds",
+        "body": "US Secret Service agents neutralized an armed threat near the White House after a gunman approached the secure perimeter. The swift intervention prevented a potential security breach, with agents quickly responding and shooting the suspect. Details remain limited, but the incident highlights ongoing security challenges in the nation's capital.",
         "sources": [
           {
-            "title": "A small plane crashes into building in Brazil, killing three",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/a-small-plane-crashes-into-building-in-brazil-killing-three?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "An explosion at a fireworks plant in China has killed at least 21 people",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "China: Explosion at fireworks factory kills at least 21",
-            "url": "https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Violence Erupts in Germany and Gaza as Tensions Spike",
-        "body": "A car plowed into a crowd in Leipzig, Germany - killing two and injuring many in a shocking act of violence. Simultaneously, an Israeli strike sparked a fire in northern Gaza City, continuing the ongoing conflict in the region.\n\nThese incidents highlight the persistent undercurrents of violence and conflict in different parts of the world. Local authorities are responding to these events with increased security and investigation efforts.",
-        "sources": [
-          {
-            "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-            "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Israeli strike sparks fire in northern Gaza City",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Newborn born in Nablus a day after his father was killed in Israeli raid",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
+            "title": "US Secret Service shoots gunman near White House",
+            "url": "https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -238,38 +178,44 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Trial Reveals Tech Titans' Battle Over AI Future",
-        "body": "The ongoing legal showdown between Elon Musk and OpenAI has exposed deep fractures in the AI industry's leadership. Musk's expert witness warned of a potential artificial general intelligence arms race - a stark reminder of the high stakes surrounding AI development.\n\nGreg Brockman defended OpenAI's $30 billion valuation, citing years of personal investment. Meanwhile, the trial has drawn attention to Y Combinator's small but notable 0.6% stake in the company, highlighting the complex web of relationships driving AI innovation.",
+        "headline": "AI Ethics Battle: DeepMind Workers Challenge Military Contracts",
+        "body": "Google DeepMind employees have launched a union bid to protest the company's military technology contracts, signaling growing internal resistance to AI applications in defense. The move highlights mounting tensions between tech workers and corporate leadership over ethical boundaries of artificial intelligence.\n\nUnion organizers argue that AI development for military purposes risks undermining fundamental ethical principles. Their challenge could spark broader conversations about responsible technology deployment across the tech industry.",
         "sources": [
           {
-            "title": "Y Combinator's Stake in OpenAI (0.6%)",
-            "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+            "title": "Google DeepMind workers are unionizing over AI military contracts",
+            "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-            "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+            "title": "A blueprint for using AI to strengthen democracy",
+            "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+            "source": "MIT Tech Review",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Job Screening Raises Alarm Over Algorithmic Hiring Bias",
+        "body": "Mounting evidence suggests AI-powered recruitment tools are systematically filtering out qualified job candidates - potentially perpetuating discriminatory hiring practices. Recent investigations reveal how algorithmic screening mechanisms may be creating invisible barriers for job seekers.\n\nThe trend exposes critical flaws in automated hiring systems. As companies increasingly rely on AI for recruitment, questions of fairness and transparency are becoming urgent challenges for technologists and human resources professionals.",
+        "sources": [
+          {
+            "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
+            "url": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
             "source": "Wired",
             "lean": null
           },
           {
-            "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-            "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+            "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+            "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Job Market Shifts as Enterprise Investments Surge",
-        "body": "Nvidia CEO Jensen Huang claims AI is creating numerous jobs - a counterpoint to widespread worker anxiety about technological displacement. The assertion comes as enterprise AI investment reaches new heights, with Sierra raising $950 million to stake its claim in the market.\n\nTechnology continues to reshape employment landscapes. Image AI models are now driving app growth, outpacing traditional chatbot developments and signaling a fundamental shift in how companies approach artificial intelligence technologies.",
+        "headline": "Nvidia Chief Touts AI's Job Creation Amid Worker Anxieties",
+        "body": "Nvidia CEO Jensen Huang has pushed back against widespread worker concerns about AI's employment impact - asserting that artificial intelligence is generating significant new job opportunities. His comments come amid growing public apprehension about technological disruption.\n\nHuang's optimistic perspective contrasts with widespread fears about AI's potential to eliminate jobs. The debate underscores the complex economic transformations driven by rapid technological change.",
         "sources": [
           {
             "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -282,79 +228,55 @@
             "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-            "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-            "source": "TechCrunch",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Hovers Near $80K as Market Volatility Continues",
-        "body": "Bitcoin's price remains volatile, testing the $80,000 mark amid mixed market signals. Asian trading saw some pullback, while global markets showed renewed interest in cryptocurrency. The digital asset's value continues to fluctuate, with short-term holders watching closely for potential support levels.\n\nMiner profitability and broader market conditions are creating additional pressure on Bitcoin's price movement. Analysts are closely monitoring whether the cryptocurrency can establish a solid support base above $80,000, with some suggesting potential for further upward momentum.",
+        "headline": "Bitcoin Surges Past $80K as ETF Inflows Accelerate",
+        "body": "Bitcoin rocketed through the $80,000 mark Tuesday, driven by robust institutional investment into spot Bitcoin ETFs. BlackRock and Fidelity led a $532 million inflow - the third consecutive day of significant capital entering the market. The price surge signals renewed investor confidence after recent geopolitical tensions.\n\nTrading dynamics suggest growing appetite for risk assets. Options desks are positioning for potential further price jumps, with some analysts eyeing $85,000 as the next psychological target. Asian markets initially supported the rally before tapering off, highlighting the global nature of Bitcoin's current momentum.",
         "sources": [
           {
-            "title": "Bitcoin tests $80,000 as Asia’s bid fades and Hong Kong AI IPOs surge",
-            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tests-usd80-000-as-asia-s-bid-fades-and-hong-kong-ai-ipos-surge",
+            "title": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
+            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tops-usd80-000-as-altcoins-rally-and-risk-appetite-returns",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
-            "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
-            "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
+            "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin ETF Demand Surges Amid Positive Market Sentiment",
-        "body": "Bitcoin exchange-traded funds are seeing increased investor interest, driving positive market sentiment. The growing demand comes alongside broader market optimism and potential regulatory clarity. Crypto-related stocks are experiencing a rally, with companies like Circle and Coinbase showing strong performance.\n\nThe market is responding to potential legislative progress, including developments around the Clarity Act. Institutional interest continues to grow, with Bitcoin maintaining its position as a key alternative investment asset.",
-        "sources": [
+          },
           {
-            "title": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
-            "source": "Bitcoin Magazine",
+            "title": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity",
+            "url": "https://www.theblock.co/post/399990/us-spot-bitcoin-etfs-draw-532-million-as-inflows-extend-to-a-third-day-led-by-blackrock-and-fidelity?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           },
           {
-            "title": "Circle, Coinbase lead crypto stocks rally amid Clarity Act progress, bitcoin hitting $80,000",
-            "url": "https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000",
+            "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
+            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Corporate Bitcoin Strategies Shift Amid Tech and Market Changes",
-        "body": "Corporate approaches to Bitcoin are evolving rapidly, with companies reassessing their cryptocurrency strategies. GameStop's potential eBay takeover bid has put its $368 million Bitcoin treasury under scrutiny. Meanwhile, a K-Pop firm dramatically pivoted away from its Bitcoin plans, highlighting the volatile nature of corporate crypto adoption.\n\nIn a positive development, innovative initiatives like the Bitcoin-funded Satoshi Scholarship demonstrate the cryptocurrency's potential beyond pure financial investment. These moves reflect the ongoing transformation of Bitcoin's role in corporate and educational landscapes.",
+        "headline": "Bitcoin's Inflation Narrative Shifts Amid Market Dynamics",
+        "body": "Bitcoin's traditional narrative as an inflation hedge is undergoing a complex transformation. Historically positioned as a defense against monetary devaluation, the cryptocurrency now shows more nuanced market behavior. Investors are reassessing its role in portfolio construction as global economic conditions evolve.\n\nThe asset's price movements increasingly correlate with broader risk markets - a departure from its original positioning. Miner profitability and stock market performance are now influencing Bitcoin's trajectory, suggesting a more integrated financial ecosystem than previously understood.",
         "sources": [
           {
-            "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
-            "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
-            "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
+            "title": "Bitcoin used to hate inflation. Now it might be the opposite",
+            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students",
-            "url": "https://bitcoinmagazine.com/news/bitcoin-funded-satoshi-scholarship-opens",
-            "source": "Bitcoin Magazine",
+            "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
+            "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -363,21 +285,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
+      "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for best heat distribution and authentic flavor development"
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement sequence every 45 minutes to reset spinal alignment and reduce cumulative sitting stress",
-      "tip": "Use a wall to do a 30-second standing back press, gently pushing your spine into neutral alignment"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic desk setup to prevent chronic musculoskeletal strain during long work sessions",
+      "tip": "Position external monitor at eye level and use a standing desk converter to alternate between sitting and standing every 45 minutes"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are increasingly adopting design principles from natural ecosystems to create more sustainable, resilient infrastructure",
-      "why": "Reveals fascinating intersections between ecological intelligence and human engineering, offering radical reimagining of how we build and live in complex environments"
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human-made environmental challenges"
     }
   }
 }
