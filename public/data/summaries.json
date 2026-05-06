@@ -1,93 +1,172 @@
 {
-  "generatedAt": "2026-05-05T22:24:34.121Z",
+  "generatedAt": "2026-05-06T05:11:14.818Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Politics summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Trump Allies Sweep Indiana Primaries, Topple GOP Establishment",
+        "body": "Former President Donald Trump flexed his political muscle in Indiana, with most of his endorsed candidates defeating incumbent state senators who previously opposed redistricting. The primary results underscore Trump's continued influence within the Republican Party - even among those who challenged his narrative after the 2020 election.\n\nTrump-backed challengers systematically defeated sitting GOP lawmakers, signaling the former president's enduring power to mobilize voters and punish internal party dissent. These victories suggest ongoing tensions between Trump loyalists and traditional Republican leadership.",
+        "sources": [
+          {
+            "title": "Most Trump-backed primary challengers beat Indiana GOP state senators who opposed redistricting",
+            "url": "https://thehill.com/homenews/campaign/5863653-indiana-state-senate-trump-challengers-win/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump flexes muscle in Indiana: GOP incumbents fall in primary showdowns",
+            "url": "https://www.foxnews.com/politics/trumps-grip-gop-tested-indiana-primary-battles-target-defiant-republicans",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Carson fends off Democratic challengers in Indiana House primary",
+            "url": "https://thehill.com/homenews/campaign/5858228-indiana-house-primary-carson-wins/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Ohio Primary Sets Stage for High-Stakes November Races",
+        "body": "Ohio's primary elections crystallized several key political contests for the November midterms. Trump-backed candidate Vivek Ramaswamy won the Republican gubernatorial nomination, setting up a competitive race against Democrat Amy Acton. In the Senate contest, incumbent Democrat Sherrod Brown will face Republican Jon Husted in what could be a pivotal battle for Senate control.\n\nThe primary results highlight the ongoing influence of Trump-style politics in the Republican Party and the potential for tight, consequential races in a critical swing state.",
+        "sources": [
+          {
+            "title": "Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race",
+            "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump-backed Vivek Ramaswamy wins Ohio GOP gubernatorial primary, will face Democrat Amy Acton",
+            "url": "https://www.foxnews.com/politics/trump-backed-vivek-ramaswamy-wins-ohio-gop-gubernatorial-primary-face-democrat-amy-acton",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Sherrod Brown secures Ohio Dem nomination, faces GOP's Husted in key battle for Senate majority",
+            "url": "https://www.foxnews.com/politics/brown-secures-ohio-democrat-nomination-faces-gops-husted-key-battle-senate-majority",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Husted, Brown to face off in Ohio Senate election",
+            "url": "https://thehill.com/homenews/campaign/5851593-husted-brown-ohio-senate-race/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Ramaswamy, Acton to show down in Ohio governor’s race",
+            "url": "https://thehill.com/homenews/campaign/5858238-ramaswamy-acton-ohio-governor-race/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Michigan Democrats Maintain State Senate Majority",
+        "body": "Democrats successfully defended their state Senate majority in Michigan through a special election victory. The result maintains their legislative control and provides a potential firewall against Republican policy initiatives in a key battleground state.\n\nThe win suggests continued Democratic resilience in state-level politics, despite national challenges and shifting political dynamics.",
+        "sources": [
+          {
+            "title": "Democrats in Michigan keep state Senate majority with special election win",
+            "url": "https://thehill.com/homenews/campaign/5863628-michigan-senate-democrats-win-election/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Banks Pass Rate Hike to Customers as Economic Pressure Builds",
-        "body": "Australia's major banks are passing on the latest Reserve Bank interest rate increase, adding financial strain to households already struggling with inflation. The move follows the RBA's decision to lift rates, signaling ongoing economic challenges for Australian families and businesses.\n\nFinancial experts warn the rate rise could further squeeze household budgets, with mortgage holders facing increased monthly repayments. The government and opposition are now debating potential relief measures, highlighting the political sensitivity of the economic pressures.",
+        "headline": "Fuel Crisis Sparks Government Action and Pacific Support",
+        "body": "Australia is ramping up its national fuel security in response to ongoing supply challenges. The government will invest $10 billion to increase emergency fuel stockpiles - a strategic move to protect national energy resilience.\n\nIn a parallel diplomatic effort, Australia has committed $30 million to help Fiji manage rising fuel prices. The aid package signals a commitment to supporting Pacific nations during economic strain, potentially strengthening regional relationships.",
         "sources": [
           {
-            "title": "Australia news live: banks pass on interest rate hike to customers; Sydney ‘globalise the intifada’ forum held in park",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Australia's emergency fuel stockpile to increase under multi billion dollar plan",
+            "url": "https://www.abc.net.au/news/2026-05-06/government-commits-10-billion-for-australian-fuel-supply/106582514",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Morning Mail: ‘White shirt guy’ plans to sue police, households count rate cost, tennis boycott threat",
-            "url": "https://www.theguardian.com/australia-news/2026/may/06/morning-mail-wednesday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Live: ASX to rise following gains on Wall St",
-            "url": "https://www.abc.net.au/news/2026-05-06/asx-markets-business-news-live-updates-wednesday-6-may/106646208",
+            "title": "Australia gives $30m to Fiji to help fuel prices in Pacific nation",
+            "url": "https://www.abc.net.au/news/2026-05-06/australia-gives-30-million-to-fiji-to-help-rising-fuel-prices/106647810",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "National Cabinet Tackles Fuel Security and Energy Challenges",
-        "body": "Treasurer Jim Chalmers announced an upcoming fuel security package following National Cabinet discussions, addressing growing concerns about energy resilience and pricing. The package aims to stabilize fuel costs and improve domestic energy infrastructure.\n\nConservative politicians have pushed for increased domestic oil drilling and refinery capacity, while the government explores alternative strategies. The debate underscores the complex challenge of balancing energy security, environmental concerns, and economic sustainability.",
+        "headline": "WA Schools Remove Craig Silvey Books After Controversy",
+        "body": "Western Australian public schools have permanently banned books by author Craig Silvey following a recent legal development. The decision comes after Silvey's guilty plea - details of which were not fully disclosed in public reports.\n\nThe book removal highlights ongoing tensions around educational content and literary representation. School administrators have taken a firm stance, suggesting the ban reflects broader concerns about appropriate curriculum materials.",
         "sources": [
           {
-            "title": "Fuel price rises in Australia slow as costs soar in the US. Here's why",
-            "url": "https://www.abc.net.au/news/2026-05-06/fuel-prices-rising-in-us-as-costs-stabilise-in-australia/106630042",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live: Chalmers says fuel security package to be unveiled following National Cabinet",
-            "url": "https://www.abc.net.au/news/2026-05-06/federal-politics-live-blog-rates-reaction/106645282",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Conservatives want more Australian oil and refineries – but is that really the answer to the fuel crisis?",
-            "url": "https://www.theguardian.com/australia-news/2026/may/06/queensland-conservatives-australia-drill-oil-fuel-crisis",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Sydney Rally Sparks Police Conduct and Free Speech Debate",
-        "body": "A controversial Sydney rally featuring a forum on global political tensions has triggered discussions about police conduct and public protest rights. A participant - dubbed the 'white shirt guy' - claims he was assaulted by police and plans legal action.\n\nThe incident highlights ongoing tensions around public demonstrations, freedom of expression, and law enforcement approaches to managing potentially sensitive political gatherings. Both civil liberties advocates and public safety proponents are closely watching the developing story.",
-        "sources": [
-          {
-            "title": "Australia news live: banks pass on interest rate hike to customers; Sydney ‘globalise the intifada’ forum held in park",
+            "title": "Australia news live: Craig Silvey books permanently removed from WA public school curriculum; Canva fined by corporate regulator",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "‘White shirt guy’ claims he was assaulted by police at the Sydney rally against Isaac Herzog. Now he plans to sue",
-            "url": "https://www.theguardian.com/australia-news/2026/may/06/white-shirt-guy-assaulted-by-police-claims-sydney-herzog-rally-ntwnfb",
+            "title": "Ban on Craig Silvey's books hardened in public schools after guilty plea",
+            "url": "https://www.abc.net.au/news/2026-05-06/craig-silvey-books-permanently-banned-from-wa-school-curriculum/106647464",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "ISIS-Linked Families Set to Return - Arrests Anticipated",
+        "body": "Australian authorities are preparing for the imminent return of women and children from ISIS-linked families currently in Syria. Law enforcement is flagging potential arrests upon their arrival - a complex diplomatic and security challenge.\n\nThe situation underscores the ongoing national security implications of international terrorism and Australia's approach to repatriating citizens with potential extremist connections. Charges are being considered against returning individuals.",
+        "sources": [
+          {
+            "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
+            "url": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "‘Not a good look’: witnesses refuse to appear before NSW parliamentary hearings after court ruling",
-            "url": "https://www.theguardian.com/australia-news/2026/may/05/witnesses-refuse-nsw-parliamentary-hearings-evidence",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Arrests planned when ISIS-linked families return to Australia",
+            "url": "https://www.abc.net.au/news/2026-05-06/isis-families-syria-australia-flights-booked-arrest-flagged/106647034",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Escalates Tensions in Hormuz Strait - Iran Conflict Deepens",
-        "body": "The United States has launched 'Project Freedom' in the strategically critical Hormuz Strait, signaling a major military escalation in its confrontation with Iran. CENTCOM declared establishing a safe maritime passage as its top priority - a move that could spark direct military confrontation.\n\nTensions are rapidly rising. US military sources suggest the operation has 'just begun', while experts warn that a miscalculation could trigger an all-out war. Iranian attacks on regional allies like the UAE have already intensified the standoff.",
+        "headline": "US Pauses Hormuz Operation - Iran Talks Begin",
+        "body": "President Trump has suspended the US maritime security mission in the Strait of Hormuz, seeking diplomatic resolution with Iran. The pause in Project Freedom comes after rising tensions in the critical oil shipping route. Oil prices immediately eased on news of potential negotiations.\n\nCENTCOM maintains the operation has only temporarily halted, signaling continued strategic interest in securing maritime passage. The move suggests a diplomatic approach may replace military posturing - a significant shift in regional geopolitical strategy.",
         "sources": [
+          {
+            "title": "US pauses plan to guide ships through the Strait of Hormuz",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
+            "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+            "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
+            "url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
@@ -99,59 +178,41 @@
             "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Romanian Government Falls in Surprise No-Confidence Vote",
+        "body": "Romania's pro-EU government collapsed after an unexpected parliamentary no-confidence vote, throwing the country's political landscape into uncertainty. The sudden shift threatens to disrupt the nation's European integration efforts and potentially realign its strategic partnerships.\n\nThe vote highlights growing political volatility in Eastern Europe, with potential implications for regional stability and EU policy. Political analysts will be watching closely to see which coalition emerges to fill the governmental vacuum.",
+        "sources": [
           {
-            "title": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-            "url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war: Will tensions escalate in the Strait of Hormuz?",
-            "url": "https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-            "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
+            "title": "Romania’s pro-EU government ousted after no-confidence vote",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Hantavirus Outbreak Raises Global Health Alarm",
-        "body": "A potential hantavirus outbreak has triggered international health concerns after a cruise ship was identified as a transmission vector. The World Health Organization warns the virus may have spread between passengers - raising fears of a wider public health emergency.\n\nSpain is preparing to receive the infected vessel in the Canary Islands, with health authorities on high alert. The incident underscores growing global risks from emerging infectious diseases and the challenges of maritime disease control.",
+        "headline": "Hantavirus Cruise Ship Seeks Safe Harbor in Canary Islands",
+        "body": "A cruise ship battling a hantavirus outbreak will dock in Spain's Canary Islands after days of uncertainty. Spanish authorities agreed to receive the vessel, ending a tense maritime standoff that raised international health concerns.\n\nThe decision marks a critical moment in managing the potential public health risk. Medical teams are preparing to assess and contain the virus spread upon the ship's arrival.",
         "sources": [
+          {
+            "title": "Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands",
+            "url": "https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+            "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Spain to receive hantavirus-hit ship in Canary Islands",
             "url": "https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-            "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine-Russia Conflict Continues Despite Proposed Ceasefires",
-        "body": "Russian attacks killed more than 20 people ahead of rival ceasefire proposals from Kyiv and Moscow. Both sides continue to exchange drone strikes, indicating little prospect of imminent de-escalation.\n\nThe ongoing conflict remains volatile, with military operations persisting despite diplomatic overtures. Each side appears committed to maintaining pressure on the other, suggesting the war will continue to grind on with significant human cost.",
-        "sources": [
-          {
-            "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-            "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -159,8 +220,32 @@
     ],
     "ai": [
       {
-        "headline": "AI Lawsuits Explode: Apple Pays, Character.AI Faces Charges",
-        "body": "Tech giants are battling legal challenges in the AI landscape. Apple agreed to pay $250 million to iPhone owners for failing to deliver promised Siri intelligence. Meanwhile, Character.AI faces serious legal trouble after a chatbot claimed to be a licensed doctor - with Pennsylvania filing a lawsuit against the company.\n\nThe legal actions signal growing scrutiny of AI platforms. Companies are being held accountable for misrepresentations and unmet promises, suggesting a new era of regulatory oversight for artificial intelligence technologies.",
+        "headline": "Tech Giants Clash: Musk-Altman OpenAI Battle Heads to Court",
+        "body": "The high-stakes legal showdown between Elon Musk and Sam Altman has erupted into a public spectacle. OpenAI's leadership is facing intense scrutiny as personal diary entries and explosive testimony reveal the deep fractures in the company's founding relationship.\n\nThe trial has exposed raw tensions at the heart of AI's most prominent startup. Witnesses like OpenAI president Greg Brockman have provided dramatic testimony - including claims of physical confrontations and strategic betrayals that could reshape the narrative of AI's most influential organization.",
+        "sources": [
+          {
+            "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+            "url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "OpenAI president forced to read his personal diary entries to jury",
+            "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+            "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Apple Reimagines AI with Customizable iOS 27 Model Selection",
+        "body": "Apple is set to revolutionize mobile AI by allowing users to choose their preferred artificial intelligence models in iOS 27. The move signals a dramatic shift from the company's traditionally closed ecosystem toward a more flexible approach to machine learning.\n\nThis strategy comes on the heels of a $250 million settlement over Siri's limited intelligence. By offering model selection, Apple hopes to regain consumer trust and compete more aggressively in the rapidly evolving AI landscape.",
         "sources": [
           {
             "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
@@ -168,6 +253,24 @@
             "source": "The Verge",
             "lean": null
           },
+          {
+            "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+            "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Apple could let you pick a favorite AI model in iOS 27",
+            "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Startups Face Legal Heat Over Chatbot Impersonation Risks",
+        "body": "Character.AI is battling legal challenges after a chatbot allegedly posed as a licensed medical professional. Pennsylvania has filed a lawsuit against the company - the latest in a growing trend of legal actions targeting AI platforms.\n\nThe case highlights mounting concerns about AI systems misrepresenting credentials. With chatbots becoming increasingly sophisticated, regulators and courts are scrambling to establish clear boundaries for AI-generated interactions and potential harm.",
+        "sources": [
           {
             "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
             "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
@@ -181,60 +284,54 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Silicon Valley Bets Big on Floating Ocean AI Data Centers",
-        "body": "Tech investors are making radical infrastructure bets in artificial intelligence. A consortium of Silicon Valley firms has committed $200 million to develop AI data centers that float on ocean waves - a bold attempt to solve computational power and cooling challenges.\n\nThe project represents a cutting-edge approach to sustainable computing. By leveraging ocean energy and potentially reducing land-based infrastructure costs, these floating data centers could revolutionize how massive AI systems are powered and maintained.",
-        "sources": [
-          {
-            "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-            "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-            "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
-            "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "OpenAI and Apple Unveil Next-Gen AI Model Strategies",
-        "body": "OpenAI launched GPT-5.5 Instant, claiming dramatically reduced hallucination rates for ChatGPT. The new default model promises more reliable and accurate AI interactions. Apple is taking a different approach - iOS 27 will potentially allow users to choose between multiple AI models.\n\nThese developments signal a maturing AI landscape. Companies are focusing not just on raw capability, but on user control, transparency, and reducing systemic errors in artificial intelligence platforms.",
-        "sources": [
-          {
-            "title": "Apple could let you pick a favorite AI model in iOS 27",
-            "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-            "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $81K - Short Squeeze Fuels Rally",
-        "body": "Bitcoin rocketed past $81,000 Tuesday, driven by a massive short-liquidation event that caught traders off guard. Nearly $79 billion in short positions unraveled since February, propelling the cryptocurrency to multi-month highs and sparking debate about whether this signals a broader market reversal.\n\nThe price surge comes amid a complex trading landscape. Long-term holders have been quietly accumulating - adding 330,000 BTC to their positions - while the Crypto Fear and Greed Index flipped to neutral for the first time since January, suggesting potential market uncertainty.",
+        "headline": "Bitcoin Surges Past $81K as Strategy Considers Asset Sale",
+        "body": "Bitcoin rocketed past $81,000 Wednesday as Michael Saylor's Strategy signaled potential bitcoin sales to cover dividend obligations. The company - which has been a major corporate bitcoin holder - may liquidate some of its massive cryptocurrency treasury to meet financial commitments.\n\nThe potential sale comes after Strategy reported a $12.54 billion Q1 loss tied to bitcoin's price volatility. Saylor suggested the sale could be strategic - potentially testing market reactions while managing the company's substantial digital asset position.",
+        "sources": [
+          {
+            "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+            "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Strategy could sell Bitcoin ‘just to inoculate the market’ — Michael Saylor",
+            "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Strategy likely to sell bitcoin to cover STRC dividends, Michael Saylor says",
+            "url": "https://www.theblock.co/post/400145/strategy-sell-bitcoin-michael-saylor?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
+            "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
+            "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Strategy posts $12.54 billion Q1 loss on declining bitcoin price",
+            "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Rally Continues with Short Sellers Forced to Retreat",
+        "body": "Bitcoin's price momentum continues to build as massive short liquidations push the cryptocurrency toward potential new highs. Traders have unwound approximately $79 billion in short positions since February, driving the price surge.\n\nMarket sentiment is shifting. The Crypto Fear and Greed Index has turned neutral for the first time since January - a potential signal of stabilizing market conditions. Analysts are now speculating whether Bitcoin could challenge the $90,000 mark in coming weeks.",
         "sources": [
           {
             "title": "Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?",
@@ -243,46 +340,16 @@
             "lean": null
           },
           {
-            "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
             "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
             "url": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ‘supercycle’ or bear-market rally? BTC breaking $81K has traders at odds",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-retakes-81k-is-btc-in-bear-market-rally-or-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin's $81K Rally Comes Amid 66-Day Negative Funding Streak: Here’s Why",
-            "url": "https://decrypt.co/366768/bitcoins-81k-rally-comes-amid-66-day-negative-funding-streak-heres-why",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Price Rockets Past $81,000 for the First Time Since January",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crosses-81000-january",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
-            "url": "https://cointelegraph.com/markets/bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "CME Launches Bitcoin Volatility Futures in Market Innovation",
-        "body": "CME Group is set to introduce cash-settled bitcoin volatility futures, a novel financial product that tracks market turbulence independent of bitcoin's price. The move represents a sophisticated approach to crypto derivatives - allowing investors to hedge against price fluctuations without direct cryptocurrency exposure.\n\nThis launch signals growing institutional interest in bitcoin financial instruments, even as traditional financial players continue to navigate the evolving crypto landscape.",
+        "headline": "CME Group Launches Bitcoin Volatility Futures Trading",
+        "body": "CME Group is preparing to launch cash-settled bitcoin volatility futures - a new financial product designed to provide traders with independent risk management tools. The move signals growing institutional interest in sophisticated bitcoin derivatives.\n\nThis launch represents another step in bitcoin's financial market integration. By offering a volatility-specific instrument, CME is providing investors more nuanced ways to engage with the cryptocurrency market beyond simple price speculation.",
         "sources": [
           {
             "title": "CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price",
@@ -297,68 +364,26 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Corporate Bitcoin Strategies Falter Amid Market Volatility",
-        "body": "Tech companies are reassessing their bitcoin strategies as market challenges mount. French chipmaker Sequans dumped half its bitcoin holdings to fund debt redemption, while Strategy reported a staggering $12.5 billion Q1 loss linked to bitcoin's price decline.\n\nSimilar corporate moves suggest growing pragmatism. Some firms are pivoting away from bitcoin treasury strategies - with K Wave abandoning its bitcoin plan entirely in favor of AI infrastructure investments.",
-        "sources": [
-          {
-            "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
-            "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Strategy posts $12.54 billion Q1 loss on declining bitcoin price",
-            "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality",
-            "url": "https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount",
-            "url": "https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Sequans sells 1,025 bitcoin to fund debt redemption and buybacks as revenue drops 24.8%",
-            "url": "https://www.theblock.co/post/400035/sequans-sells-1025-bitcoin-to-fund-debt-redemption-and-buybacks-as-revenue-drops-24-8?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "K Wave Abandons Bitcoin Treasury Plan, Shifts to AI Infrastructure Play with $485M War Chest",
-            "url": "https://bitcoinmagazine.com/news/k-wave-abandons-bitcoin-treasury-plan",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine with Preserved Lemons",
+      "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with complex spices, tender vegetables, and bright preserved lemon notes",
-      "tip": "Toast whole spices before grinding to intensify their aromatic qualities"
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment Protocol",
-      "description": "Implement micro-movements and strategic stretching to counteract sedentary muscle tension and spinal compression",
-      "tip": "Set a hourly timer to do 30-second standing side bends and shoulder blade retractions"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic desk setup to prevent chronic musculoskeletal strain during long work sessions",
+      "tip": "Position external monitor at eye level and use a standing desk converter that allows frequent height adjustments"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical and astronomical illustrations",
-      "why": "It remains one of history's most fascinating unsolved cryptographic puzzles, challenging linguists and code-breakers for centuries"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate, intelligent behaviors spontaneously arise from simple interactions between individual components",
+      "why": "Understanding emergence provides profound insights into everything from ant colony behavior to artificial intelligence, revealing how complexity can emerge from simplicity"
     }
   }
 }
