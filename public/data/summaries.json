@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-05-08T05:05:43.324Z",
+  "generatedAt": "2026-05-08T10:37:48.681Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Strikes Iran After Naval Confrontation in Hormuz",
-        "body": "US military forces launched targeted strikes against Iranian military installations after Iranian attacks on US Navy destroyers in the Strait of Hormuz. The Pentagon confirmed the retaliatory action, signaling escalating tensions in the region.\n\nPresident Trump warned Iran directly, emphasizing US resolve to protect maritime routes and military assets. The strikes aim to deter further aggression while avoiding broader regional conflict.",
+        "headline": "US-Iran Tensions Simmer Despite Fragile Peace Proposal",
+        "body": "Diplomatic relations between the US and Iran remain fraught, with conflicting narratives emerging about potential nuclear ambitions and military confrontations. A former counterterrorism chief revealed that US intelligence agencies had previously agreed Iran was not developing nuclear weapons - a claim that contradicts current administration rhetoric.\n\nTrump's peace proposal has sparked intense debate, with hawkish lawmakers expressing deep skepticism. Despite a technical ceasefire, US naval ships have transited the Strait of Hormuz under fire, signaling ongoing tensions and potential for escalation.",
         "sources": [
           {
-            "title": "U.S. strikes Iran in response to attacks on warships, military says",
+            "title": "US intel community agreed before war 'Iran wasn't developing a nuclear weapon': ex-counterterrorism chief",
+            "url": "https://www.foxnews.com/politics/us-intel-community-agreed-before-war-iran-wasnt-developing-nuclear-weapon-ex-counterterrorism-chief",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Iran hawks erupt over terms of Trump’s peace proposal",
+            "url": "https://thehill.com/policy/defense/5868335-trump-iran-peace-proposal-backlash/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump says ceasefire still intact after burst of violence with Iran",
             "url": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/",
             "source": "Washington Post",
             "lean": "center-left"
@@ -18,25 +30,25 @@
             "url": "https://thehill.com/homenews/administration/5868920-trump-warns-iran-violence/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "US strikes military targets in Iran after attacks on destroyers in Strait of Hormuz: Centcom",
-            "url": "https://thehill.com/policy/defense/5868807-us-forces-strike-iranian-targets-ceasefire/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Brazil’s Lula: Trump indicated he won’t invade Cuba during White House chat",
-            "url": "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Tennessee Redistricting Sparks Legal and Political Battle",
-        "body": "Tennessee's newly approved congressional map has triggered intense political pushback, with the NAACP filing an emergency legal petition to block the redistricting plan. The proposed map is likely to flip the state's final Democratic House seat, prompting protests inside the state Capitol.\n\nDemocratic lawmakers, including Rep. Steve Cohen, have vowed to challenge the redistricting through legal channels. The controversy highlights ongoing national tensions around electoral map redrawing and partisan representation.",
+        "headline": "Redistricting Battles Intensify Across Republican-Controlled States",
+        "body": "Republican-led states are aggressively redrawing electoral maps, triggering legal challenges and political pushback. Tennessee passed a new House map that effectively eliminates the state's sole Democratic congressional district - a move the NAACP has already challenged through an emergency court petition.\n\nSimilar redistricting efforts are underway in multiple states, with Democratic legal teams preparing comprehensive challenges. The battles reflect broader national tensions around electoral representation and political strategy.",
         "sources": [
+          {
+            "title": "California county finds nearly 600 unopened ballots months after Newsom-backed redistricting measure passed",
+            "url": "https://www.foxnews.com/politics/california-county-finds-nearly-600-uncounted-ballots-months-after-newsom-backed-redistricting-measure-passed",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Tennessee Republicans pass new House map to break up state's lone Democratic seat",
+            "url": "https://www.npr.org/2026/05/08/nx-s1-5815291/tennessee-republicans-pass-new-house-map-to-break-up-states-lone-democratic-seat",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "NAACP files emergency petition to block Tennessee’s newly approved redistricting plan",
             "url": "https://thehill.com/regulation/court-battles/5869060-naacp-challenges-tennessee-redistricting/",
@@ -48,137 +60,125 @@
             "url": "https://thehill.com/homenews/state-watch/5868969-tennessee-redistricting-memphis-lawmaker-secession/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Cohen on ‘shameful’ Tennessee redistricting erasing his House district: ‘Next stop is the courts’",
-            "url": "https://thehill.com/homenews/campaign/5868749-cohen-trump-redistricting-fight/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Tennessee passes new congressional map likely to flip final Dem seat as protests erupt inside Capitol",
-            "url": "https://www.foxnews.com/politics/tennessee-passes-new-congressional-map-likely-flip-final-dem-seat-protests-erupt-inside-capitol",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Tennessee joins southern push to redistricting in favor of the GOP",
-            "url": "https://www.npr.org/2026/05/07/nx-s1-5814814/tennessee-joins-southern-push-to-redistricting-in-favor-of-the-gop",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Clyburn rips South Carolina redistricting push: ‘We cannot let them succeed’",
-            "url": "https://thehill.com/homenews/5868640-clyburn-trump-sc-redistricting/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Supreme Court Weighs Abortion Pill Access and Tech Regulation",
-        "body": "The Supreme Court is considering critical cases involving abortion pill telehealth access and potential changes to social media legal protections. Republicans are pushing to restrict abortion medication distribution, citing safety concerns and potential coercion.\n\nSimultaneously, a bipartisan group of lawmakers seeks to strip legal immunity from big tech companies, potentially transforming how social media platforms operate and are held accountable.",
+        "headline": "2028 Presidential Speculation Begins to Simmer",
+        "body": "Early positioning for the 2028 presidential race has begun, with potential candidates subtly signaling their ambitions. Kentucky Governor Andy Beshear has expressed comfort with being mentioned as a potential contender, while Marco Rubio's rising internet popularity - dubbed 'Marcomentum' - has sparked speculation.\n\nMeanwhile, emerging political figures like Vivek Ramaswamy are confronting complex political narratives, such as addressing racism in his Ohio gubernatorial campaign.",
         "sources": [
           {
-            "title": "Bipartisan lawmakers want to strip Big Tech's legal immunity that can shield social media companies",
-            "url": "https://www.foxnews.com/politics/bipartisan-lawmakers-want-strip-big-techs-legal-immunity-shield-social-media-companies",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "As Marcomentum sweeps the internet, Rubio, White House swear off 2028 talk",
+            "url": "https://www.washingtonpost.com/politics/2026/05/07/rubio-vance-2028-competition/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "FIRST ON FOX: Top Republicans take abortion pill fight to Supreme Court, citing coercion and safety risks",
-            "url": "https://www.foxnews.com/politics/first-fox-top-republicans-take-abortion-pill-fight-supreme-court-citing-coercion-safety-risks",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Beshear ‘comfortable’ being mentioned as 2028 contender",
+            "url": "https://thehill.com/homenews/campaign/5868963-beshear-2028-presidential-contender/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "With legal briefs in, Supreme Court weighs telehealth access for the abortion pill",
-            "url": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Anti-woke Vivek Ramaswamy confronts racism in his run for Ohio governor",
+            "url": "https://www.washingtonpost.com/politics/2026/05/08/vivek-ramaswamy-racism-ohio-governor/",
+            "source": "Washington Post",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Migration and Housing Linked in Coalition Policy Push",
-        "body": "The Coalition has proposed tying migration levels directly to housing availability - a bold policy move targeting Australia's interconnected housing and population challenges. Under the plan, migration would be dynamically adjusted based on current housing stock and construction rates.\n\nThe proposal signals the opposition's strategy to address voter concerns about housing affordability and population density. It represents a significant shift from current migration management approaches and could reshape national population planning if implemented.",
+        "headline": "NT Child Protection Review Sparks Indigenous Advocacy Debate",
+        "body": "Indigenous advocates have raised concerns about the Northern Territory government's planned child protection review. They argue the proposed investigation is too narrow and fails to address systemic issues affecting vulnerable children.\n\nThe criticism highlights ongoing tensions between government approaches and Indigenous community perspectives on child welfare. Advocates are pushing for a more comprehensive review that includes broader support mechanisms and deeper engagement with Indigenous communities.",
         "sources": [
           {
-            "title": "Migration to be linked to housing availability under Coalition plan",
-            "url": "https://www.abc.net.au/news/2026-05-08/coalition-migration-cut-tied-to-housing-availability/106629120",
+            "title": "Indigenous advocates criticise NT government’s planned child protection review",
+            "url": "https://www.theguardian.com/australia-news/2026/may/08/nt-childrens-advocates-worried-governments-child-protection-review-too-narrow-want-more-support-for-children-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Government backbencher criticises 'giant, bloated, ineffective' NT public service",
+            "url": "https://www.abc.net.au/news/2026-05-08/nt-government-tanzil-rahman-public-service-speech-clp-budget/106659342",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Why there is $3b to be found beyond Sydney's tourism icons",
-            "url": "https://www.abc.net.au/news/2026-05-08/committee-for-sydney-report-3-billion-tourism-hidden-gems/106652706",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Seeds of discontent with major parties could bloom in by-election",
-            "url": "https://www.abc.net.au/news/2026-05-08/farrer-byelection-voters-embrace-change/106644364",
+            "title": "Kumanjayi Little Baby's father won't be released from prison for sorry business",
+            "url": "https://www.abc.net.au/news/2026-05-08/nt-father-of-kumanjayi-little-baby-to-remain-in-jail-dv-charges/106659014",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Federal Minister Repays Travel Expenses amid Scrutiny",
-        "body": "Communications Minister Anika Wells has repaid $10,000 in incorrect travel expenses, drawing attention to parliamentary spending practices. The voluntary repayment follows internal review and self-disclosure.\n\nThe incident highlights ongoing transparency challenges in federal politics. While Wells acted proactively by returning the funds, it adds to public discourse about political accountability and expense management.",
+        "headline": "Security Agencies Face Scrutiny in Antisemitism Commission Hearings",
+        "body": "The ongoing antisemitism royal commission will focus on security agencies' conduct leading up to the Bondi massacre. Hearings will examine potential intelligence failures and response mechanisms that may have prevented the incident.\n\nThe investigation represents a critical examination of national security protocols and inter-agency communication. Witnesses are expected to provide detailed testimony about intelligence gathering and threat assessment processes in the wake of the tragic event.",
         "sources": [
           {
-            "title": "Communications minister Anika Wells repays $10,000 in incorrect travel expenses",
-            "url": "https://www.theguardian.com/australia-news/2026/may/08/communications-minister-anika-wells-repays-10000-in-incorrect-travel-expenses",
+            "title": "Security agencies’ conduct in lead-up to Bondi massacre focus of next antisemitism commission hearings",
+            "url": "https://www.theguardian.com/australia-news/2026/may/08/antisemitism-royal-commission-security-agencies-bondi-massacre-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Australia news live: ABC reporters denied entry to One Nation press conference in Albury",
+            "title": "Woman who returned from Syria refused bail – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Julie Bishop resigns as Australian National University chancellor",
-            "url": "https://www.theguardian.com/australia-news/2026/may/08/julie-bishop-resigns-anu-chancellor",
+            "title": "Australian woman accused of joining Islamic State in Syria refused bail",
+            "url": "https://www.theguardian.com/australia-news/2026/may/08/is-linked-mother-daughter-charged-crimes-against-humanity-court-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Serious Allegations Emerge in Child Protection and Education",
-        "body": "An education watchdog has launched a new investigation into concerning school allegations, signaling heightened scrutiny of institutional safeguarding. The probe follows mounting pressure to address potential systemic failures.\n\nConcurrently, the Northern Territory government has promised a comprehensive child protection review after a child death - underscoring national concerns about vulnerable children's safety and institutional oversight.",
+        "headline": "ANU Council Faces Adverse Findings in Independent Review",
+        "body": "An independent probe has made adverse findings against former Australian National University council members. The investigation suggests potential governance and oversight failures within the university's leadership.\n\nThe report highlights ongoing challenges in academic institutional management and raises questions about accountability at senior levels. University officials are expected to respond to the findings and outline potential reforms to prevent similar issues in the future.",
         "sources": [
           {
-            "title": "Education watchdog launches new probe into 'concerning' school allegations",
-            "url": "https://www.abc.net.au/news/2026-05-08/fitzroy-community-school-new-investigation-vrqa/106652892",
+            "title": "Probe makes adverse findings against former ANU Council members",
+            "url": "https://www.abc.net.au/news/2026-05-08/anu-independent-review-adverse-findings-former-council-members/106660472",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "NT government promises child protection review after child death",
-            "url": "https://www.abc.net.au/news/2026-05-08/nt-government-child-protection-review-kumanjayi-little-baby/106658462",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Ex-Sydney teacher spared jail after grooming child online",
-            "url": "https://www.abc.net.au/news/2026-05-08/ex-knox-teacher-sentenced-over-child-grooming-charges/106658214",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Afternoon Update: Julie Bishop resigns from ANU; IS-linked women face court; and Attenborough’s most spectacular moments",
+            "url": "https://www.theguardian.com/australia-news/2026/may/08/afternoon-update-friday-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Tensions Flare in Hormuz - Ceasefire Hangs by Thread",
-        "body": "Escalating maritime tensions threaten the fragile US-Iran ceasefire after an exchange of fire in the Strait of Hormuz. Trump insists the ceasefire remains in effect but warns Iran to sign an agreement quickly - a diplomatic high-wire act with global economic implications.\n\nOil markets immediately responded to the confrontation, with prices jumping sharply. Iran claims it attacked US Navy ships after an incident involving an Iranian tanker, while US officials maintain a more measured public stance. The incident underscores the razor's edge of current geopolitical tensions.",
+        "headline": "US-Iran Tensions Escalate in Hormuz Strait Amid War",
+        "body": "Military tensions between the United States and Iran reached a dangerous flashpoint in the Strait of Hormuz, with both sides exchanging fire and threatening further conflict. The incident marks a significant breakdown in the current ceasefire, raising global concerns about potential wider regional escalation.\n\nOil markets immediately responded to the confrontation, with prices spiking as investors assessed the potential disruption to global energy supplies. President Trump insisted the ceasefire remains in place but warned Iran to sign an agreement quickly - a statement that suggests continued diplomatic brinkmanship.",
         "sources": [
+          {
+            "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
+            "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+            "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+            "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
             "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;at_campaign=rss",
@@ -190,52 +190,34 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "UK Elections Deliver Shock Blow to Labour Party",
+        "body": "The United Kingdom's local elections are delivering a stunning rebuke to the Labour Party, with early results suggesting significant losses across multiple regions. The Reform Party has made unexpected gains, potentially reshaping the political landscape and putting intense pressure on Labour leader Keir Starmer.\n\nThe electoral outcome could trigger internal party turmoil, with speculation mounting about Starmer's potential resignation if the results confirm a comprehensive defeat. These elections represent a critical test of voter sentiment amid ongoing economic and political challenges.",
+        "sources": [
           {
-            "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
-            "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+            "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
+            "url": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
-            "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+            "title": "UK elections – early results and takeaways; will Starmer have to resign?",
+            "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Trump Faces Legal Setbacks in Trade and Tariff Policies",
-        "body": "A US trade court delivered a significant blow to President Trump's global economic strategy by ruling against his proposed 10% global tariff policy. The decision marks another legal challenge to the administration's protectionist trade approach.\n\nIn a related development, Trump has set a July 4 deadline for the EU to respond to potential tariff hikes - a move that signals continued aggressive trade negotiations. The administration appears determined to press its economic agenda despite mounting judicial and international resistance.",
+        "headline": "South Asia Reels Under Record-Breaking Heatwave",
+        "body": "A catastrophic heatwave is sweeping across South Asia, pushing temperatures to unprecedented levels and threatening millions with extreme weather conditions. Climate experts are describing the event as a calamity with potentially devastating humanitarian and economic consequences.\n\nThe record-breaking temperatures are straining infrastructure, threatening agricultural production, and posing severe health risks to vulnerable populations. Scientists point to accelerating climate change as a key driver of these increasingly frequent and intense extreme weather events.",
         "sources": [
           {
-            "title": "US court deals fresh blow to Trump's 10% global tariff policy",
-            "url": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-            "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US trade court rules against Trump’s 10 percent global tariffs",
-            "url": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump sets July 4 deadline for EU tariff hike decision",
-            "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision?traffic_source=rss",
+            "title": "‘A calamity’: Why is a record heatwave sweeping South Asia?",
+            "url": "https://www.aljazeera.com/news/2026/5/8/a-calamity-why-is-a-record-heatwave-sweeping-south-asia?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -244,8 +226,32 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Expands Voice and Safety Features Amid Legal Scrutiny",
-        "body": "OpenAI is pushing forward with new API capabilities and user protection tools, even as legal challenges swirl around the company. The firm launched advanced voice intelligence features and introduced a 'Trusted Contact' system designed to alert designated contacts if a user shows potential self-harm risks.\n\nThe moves come as Elon Musk's lawsuit continues to probe OpenAI's operational history and safety protocols. These strategic developments suggest the company is simultaneously expanding technological capabilities and addressing potential ethical concerns in AI interaction.",
+        "headline": "AI Toys and Tech Raise New Ethical Challenges for Parents",
+        "body": "The consumer tech landscape is shifting rapidly - and uncomfortably - as artificial intelligence penetrates children's products. A Wired investigation reveals mounting concerns about data privacy, algorithmic interactions, and psychological impacts of AI-enabled toys and platforms.\n\nParents face an increasingly complex marketplace where smart devices can collect unprecedented amounts of personal information. Regulators lag behind technological innovation, creating a regulatory vacuum that leaves families vulnerable to potential misuse of children's data and behavioral insights.",
+        "sources": [
+          {
+            "title": "The New Wild West of AI Kids’ Toys",
+            "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "How to Disable Google's Gemini in Chrome",
+            "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Apple’s AirPods with cameras for AI are apparently close to production",
+            "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "OpenAI Introduces Safety Features Amid Ongoing Corporate Drama",
+        "body": "OpenAI has launched two significant initiatives addressing user safety and mental health concerns. The company introduced a 'Trusted Contact' feature allowing users to designate emergency contacts if self-harm risks are detected - a notable step in AI platform responsibility.\n\nThe announcement comes amid continued legal and corporate tensions. Elon Musk's lawsuit against the company has exposed internal dynamics, with recent depositions and evidence suggesting complex relationships between OpenAI's leadership and major tech investors like Microsoft.",
         "sources": [
           {
             "title": "OpenAI launches new voice intelligence features in its API",
@@ -257,6 +263,12 @@
             "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
             "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
             "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+            "source": "The Verge",
             "lean": null
           },
           {
@@ -274,8 +286,8 @@
         ]
       },
       {
-        "headline": "Tech Layoffs Continue as AI Disruption Reshapes Industry",
-        "body": "The technology sector faces continued workforce restructuring, with Cloudflare announcing plans to cut approximately 20% of its employees. This reduction reflects broader industry trends of optimization and strategic realignment driven by AI technologies.\n\nParallel developments - including new AI startups emerging in tech hubs like Stockholm and ongoing strategic shifts at major companies - underscore the volatile landscape. Emerging AI companies are attracting investment while established firms recalibrate their human capital strategies.",
+        "headline": "Tech Industry Faces Layoffs and Strategic Shifts",
+        "body": "Major technology companies are recalibrating their workforce and strategic priorities. Cloudflare announced plans to cut approximately 20% of its employees - a significant restructuring in the current tech landscape.\n\nOther companies are pivoting toward specialized markets. SpaceX revealed a $55 billion plan to develop AI chip manufacturing in Texas, signaling continued investment in advanced computational infrastructure despite broader industry uncertainties.",
         "sources": [
           {
             "title": "Cloudflare to cut about 20% workforce",
@@ -284,15 +296,15 @@
             "lean": null
           },
           {
-            "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-            "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
             "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
             "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
             "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+            "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -300,55 +312,55 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Dips Below $80K as Bulls Eye Year-End Rally",
-        "body": "Bitcoin's price slid to $79,000 on Friday, triggering profit-taking signals among traders. Analysts remain bullish, with some predicting a potential climb to $115,000 by December. Market sentiment suggests underlying strength despite short-term volatility.\n\nBlock Inc - Jack Dorsey's payments company - reported a strong Q1, raising full-year guidance and recording a $173 million Bitcoin remeasurement loss. The company's resilience underscores continued institutional confidence in Bitcoin's long-term potential.",
+        "headline": "Bitcoin Tumbles Below $80K, Futures Traders Take Heavy Hit",
+        "body": "Bitcoin's recent rally stalled dramatically on Friday, with the cryptocurrency sliding below $80,000 and triggering massive liquidations. Approximately $300 million in futures positions were wiped out as traders scrambled to exit positions. Market analysts suggest the pullback reflects profit-taking after recent gains, with some pointing to broader market sentiment shifts.",
         "sources": [
+          {
+            "title": "Bitcoin retreats below $80,000, liquidating $300 million in futures bets",
+            "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin",
+            "url": "https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
             "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Block Inc Defies Bitcoin Volatility with Strong Q1 Earnings",
+        "body": "Jack Dorsey's Block Inc saw its stock rise 8% after delivering an unexpected earnings surprise in Q1, despite Bitcoin's recent price fluctuations. The company's resilience underscores the growing integration of cryptocurrency infrastructure into mainstream financial services. Block's performance suggests underlying strength in Bitcoin-related business models, even amid market turbulence.",
+        "sources": [
           {
-            "title": "Solv Protocol drops LayerZero in favor of Chainlink for $700 million tokenized bitcoin",
-            "url": "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Solv Protocol Will Dump LayerZero, Migrate $700M Tokenized Bitcoin Tech to Chainlink",
-            "url": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Dips Below $80K as Analysts Say Profit-Taking Is on the Rise",
-            "url": "https://decrypt.co/367157/bitcoin-dips-below-80k-analysts-profit-taking",
-            "source": "Decrypt",
+            "title": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip",
+            "url": "https://cointelegraph.com/news/blocks-rises-8-percent-after-q1-earnings-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Fund Managers Increase Bitcoin Exposure as Crypto Sentiment Rebounds",
-        "body": "Investment professionals are doubling down on Bitcoin, signaling renewed confidence in the cryptocurrency market. CoinShares data indicates growing institutional interest, with weekly Bitcoin ETF inflows hitting a four-month high of $1.69 billion.\n\nJPMorgan analysts suggest Bitcoin is gaining ground over gold as a hedge against currency debasement - particularly in light of recent geopolitical tensions. This trend points to Bitcoin's emerging role as a strategic asset in global investment portfolios.",
+        "headline": "Bitcoin Bulls Eye $115K Target - But Can Data Support Prediction?",
+        "body": "Cryptocurrency analysts are divided over Bitcoin's potential end-of-year trajectory, with some bullish investors targeting $115,000 by December. Market data presents a mixed picture - recent volatility and options market signals offer conflicting indicators about potential price movements. The prediction hinges on complex factors including macroeconomic conditions and institutional investment trends.",
         "sources": [
           {
-            "title": "Fund managers double down on Bitcoin as crypto sentiment rebounds — CoinShares",
-            "url": "https://cointelegraph.com/news/fund-managers-boost-bitcoin-exposure-crypto-sentiment-rebounds-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin",
+            "url": "https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling",
-            "url": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin bulls target $115K by December: Does data back the expectation?",
+            "url": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "JPMorgan says bitcoin is gaining over gold as debasement trade after Iran conflict",
-            "url": "https://www.theblock.co/post/400486/jpmorgan-bitcoin-over-gold-debasement-trade-iran-conflict?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -357,21 +369,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic heat distribution and crispy bottom edges"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Warrior Reset",
-      "description": "Perform a targeted 5-minute mobility sequence that realigns spine, releases shoulder tension, and resets neural pathways after prolonged sitting",
-      "tip": "Use a foam roller along spine and perform thoracic spine rotations to break muscle adhesions"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic stretching to counteract sedentary muscle tension throughout the workday",
+      "tip": "Set a hourly timer to do 60-second standing spine waves and shoulder blade retractions"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure and living systems",
-      "why": "This emerging field offers revolutionary approaches to solving complex urban challenges by mimicking nature's 3.8 billion years of evolutionary problem-solving"
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions across transportation, energy, and community planning"
     }
   }
 }
