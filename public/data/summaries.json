@@ -1,11 +1,53 @@
 {
-  "generatedAt": "2026-05-10T05:18:13.548Z",
+  "generatedAt": "2026-05-10T10:31:09.146Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Money and Politics: Voters Demand Reform, Candidates Clash",
-        "body": "A new poll reveals widespread voter frustration with campaign financing. Seventy-two percent of Americans believe too much money influences political outcomes - a sentiment that crosses party lines. The finding underscores growing public concern about the role of wealthy donors and special interest groups in shaping electoral landscapes.\n\nThe issue has sparked heated debate, with politicians from both sides offering competing narratives about political spending and transparency. While some call for stricter regulations, others argue that campaign contributions represent free speech.",
+        "headline": "Redistricting Battle Heats Up Ahead of Midterm Elections",
+        "body": "Tensions are rising over electoral map drawing as both parties fight for political advantage. Republican and Democratic strategists are locked in legal and political battles over redistricting in key states, with court rulings creating new battlegrounds.\n\nVice President Harris accused Trump allies of attempting to manipulate election outcomes, specifically targeting Virginia's redistricting efforts. Republicans counter that they are protecting electoral integrity. The dispute highlights deep divisions over voting districts and potential electoral strategies for the 2026 midterms.",
+        "sources": [
+          {
+            "title": "Republicans who denied 2020 election results could be governors next year",
+            "url": "https://www.washingtonpost.com/politics/2026/05/11/election-governor-deniers-trump/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Where Trump, GOP vs Democrats redistricting battle heads next in wake of key court rulings",
+            "url": "https://www.foxnews.com/politics/trump-gop-vs-democrats-redistricting-battle-heads-next-wake-key-court-rulings",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Harris accuses Trump allies of trying to ‘rig’ 2026 midterms after Virginia court tosses redistricting measure",
+            "url": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Veterans Benefits and Defense Spending Take Center Stage",
+        "body": "A contentious veterans benefits bill is gaining unexpected momentum, with conservative media personality Pete Hegseth pushing support despite initial Republican resistance. The proposed legislation aims to expand support for military veterans, creating potential bipartisan alignment.\n\nThe debate reflects broader tensions around military spending and veteran care. Some Republican lawmakers have previously opposed expanded benefits, but growing public support and strategic political positioning may shift the conversation. The bill represents a potential breakthrough in veteran support policy.",
+        "sources": [
+          {
+            "title": "Hegseth boosts veteran benefits bill that key Republicans have opposed",
+            "url": "https://thehill.com/policy/defense/5870513-defense-secretary-backs-veterans-bill/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump warns college sports could be ‘lost forever’ as committee pushes changes, Congress urged to act",
+            "url": "https://www.foxnews.com/politics/trump-warns-college-sports-could-lost-forever-committee-pushes-changes-congress-urged-act",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Money in Politics Sparks Widespread Public Concern",
+        "body": "A new poll reveals significant public skepticism about campaign financing, with 72 percent of Americans believing there is excessive monetary influence in political processes. The finding underscores growing frustration with current electoral mechanisms.\n\nPolitical figures from across the spectrum are responding to these concerns. Progressive voices like Alexandria Ocasio-Cortez continue to challenge what they see as systemic political corruption, while conservative leaders argue for maintaining current campaign finance structures.",
         "sources": [
           {
             "title": "Poll: 72 percent say there’s too much money in American politics",
@@ -14,38 +56,8 @@
             "lean": "center"
           },
           {
-            "title": "Trump legal attack on Southern Poverty Law Center stirs fears for nonprofits",
-            "url": "https://thehill.com/regulation/court-battles/5869875-nonprofit-splc-legal-battle/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "The Department of Labor is right to make union spending transparent",
-            "url": "https://thehill.com/opinion/congress-blog/labor/5870396-labor-union-dues-transparency/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Midterm Battles Heat Up: Redistricting and Political Tensions Flare",
-        "body": "Virginia's Supreme Court's decision to toss a redistricting map has ignited political tensions ahead of the 2026 midterms. Vice President Harris accused Trump allies of attempting to manipulate electoral boundaries, while Democratic leadership remains confident about potential House gains.\n\nThe ruling highlights ongoing national debates about gerrymandering and electoral fairness. Both major parties view the decision as strategically significant, with potential implications for congressional control. Political strategists are closely analyzing the potential ripple effects across competitive districts.",
-        "sources": [
-          {
-            "title": "Harris accuses Trump allies of trying to ‘rig’ 2026 midterms after Virginia court tosses redistricting measure",
-            "url": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Harris says Dems ‘rightfully outraged’ after Virginia Supreme Court tosses new map",
-            "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Jeffries still confident Democrats will take back House after Virginia redistricting ruling",
-            "url": "https://thehill.com/homenews/house/5871116-jeffries-confident-midterms-virginia-redistricting-ruling/",
+            "title": "Ocasio-Cortez warns against associating with Greene, calling her a ‘proven bigot’",
+            "url": "https://thehill.com/homenews/house/5871396-ocasio-cortez-warns-against-associating-with-greene-calling-her-a-proven-bigot/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -55,8 +67,14 @@
     "au-politics": [
       {
         "headline": "One Nation Surges After Farrer Byelection Shock",
-        "body": "Pauline Hanson's One Nation party has dramatically reshaped Australia's political landscape after a stunning victory in the Farrer byelection. The result has sent tremors through the Liberal-National Coalition, with Nationals MP Colin Boyce openly considering switching parties.\n\nHanson declared her party is here for the long haul, challenging critics who doubt One Nation's capacity to become a mainstream political force. The win exposes deep fractures within conservative politics and signals potential realignment of right-wing voter preferences.",
+        "body": "Pauline Hanson's One Nation party has dramatically reshaped Australia's political landscape after a stunning victory in the Farrer byelection. The result sent tremors through the Liberal-National Coalition, with some members openly discussing potential defections.\n\nNationals MP Colin Boyce signaled he was considering joining One Nation, describing the result as a critical wake-up call. The outcome has intensified pressure on Liberal figures like Angus Taylor, highlighting growing voter disillusionment with major parties.",
         "sources": [
+          {
+            "title": "Budget to include extra $2bn for infrastructure – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
           {
             "title": "Pressure mounts on Angus Taylor as Pauline Hanson declares One Nation ‘here for the long haul’",
             "url": "https://www.theguardian.com/australia-news/2026/may/10/pressure-mounts-on-angus-taylor-as-pauline-hanson-declares-one-nation-here-for-the-long-haul",
@@ -70,118 +88,100 @@
             "lean": "left"
           },
           {
+            "title": "The Farrer earthquake",
+            "url": "https://www.spectator.com.au/2026/05/the-farrer-earthquake/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
             "title": "Waking up in One Nation country: after the Coalition demolition, voters wait to see if Pauline Hanson’s party can deliver",
             "url": "https://www.theguardian.com/australia-news/2026/may/10/waking-up-in-one-nation-country-after-the-coalition-demolition-voters-wait-to-see-if-pauline-hansons-party-can-deliver",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Pauline Hanson lashes 'arrogant' critics who say One Nation can't go mainstream",
-            "url": "https://www.abc.net.au/news/2026-05-10/pauline-hanson-lashes-critics-one-nation-win-farrer-by-election/106662978",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Federal Budget to Boost Infrastructure with $2 Billion Injection",
-        "body": "Treasurer Jim Chalmers is set to unveil a federal budget featuring significant infrastructure investment and increased gas tax revenue. The $2 billion infrastructure commitment signals the government's focus on economic stimulus and job creation.\n\nThe budget comes amid complex economic conditions, with Chalmers balancing competing priorities of infrastructure development, fiscal responsibility, and addressing potential economic challenges. Gas tax revenue increases suggest potential additional funding streams for government programs.",
+        "headline": "South Australia Bolsters Diesel Reserves Amid Global Tensions",
+        "body": "South Australia has announced a $40 million diesel stockpile strategy, responding to potential supply disruptions linked to ongoing international conflicts. The move signals growing concerns about energy security and regional geopolitical instability.\n\nThe state government's proactive approach suggests preparation for potential supply chain interruptions, particularly in the context of escalating tensions in key global shipping regions.",
         "sources": [
+          {
+            "title": "Fuel injection as SA announces $40m diesel stockpile",
+            "url": "https://www.abc.net.au/news/2026-05-10/sa-buys-millions-of-litres-to-bolster-supply-amid-iran-war/106663214",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
           {
             "title": "Budget to include extra $2bn for infrastructure – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Chalmers reveals gas tax revenue is up in federal budget",
-            "url": "https://www.abc.net.au/news/2026-05-10/gas-tax-revenue-up-in-federal-budget/106663036",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Putin Signals Potential End to Ukraine War",
-        "body": "Russian President Vladimir Putin suggested the conflict in Ukraine may be nearing its conclusion - a surprising diplomatic overture after two years of brutal fighting. In a significant shift, Putin indicated he would be open to meeting Ukrainian President Volodymyr Zelensky outside Russia for potential peace talks.\n\nThe statement marks a potential turning point in the prolonged conflict. Western analysts remain skeptical, given Russia's previous diplomatic feints and continued military operations. Putin's comments come as international pressure mounts for a negotiated settlement.",
+        "headline": "Iran Warns of Surprise Tactics as Regional Tensions Escalate",
+        "body": "Iran's military has signaled potential new warfare methods in response to recent attacks, heightening regional tensions. The warning comes amid ongoing conflicts - including strikes against Iranian positions and continued military posturing.\n\nThe Iranian Revolutionary Guard Corps (IRGC) suggested it could deploy unexpected strategic approaches, underscoring the volatile geopolitical landscape. Simultaneously, reports indicate ongoing military actions in the region, with Israel conducting bombing operations in Lebanon and continued uncertainty around potential US-Iran confrontations.",
         "sources": [
           {
-            "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-            "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+            "title": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-            "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "For the first time, Putin says he’s open to meeting Zelensky outside Russia",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/for-the-first-time-putin-says-hes-open-to-meeting-zelensky-outside-russia?traffic_source=rss",
+            "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
-          {
-            "title": "Putin says he thinks Ukraine war is 'coming to an end'",
-            "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tensions Escalate in Middle East with Ongoing Conflicts",
-        "body": "Israel launched strikes against Lebanon, killing at least 39 people, while Iran's Revolutionary Guard warned the US against maritime attacks. The region remains a powder keg of geopolitical tensions.\n\nSimultaneously, a Palestinian family reported being forced by Israeli settlers to exhume and rebury their father's body - a stark illustration of the ongoing human cost of territorial disputes. These incidents underscore the fragile and volatile nature of regional relationships.",
-        "sources": [
           {
             "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
             "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Syria Sees First Government Shuffle After Leadership Change",
+        "body": "Syria has initiated its first government restructuring since the ouster of the al-Assad regime, signaling potential political transformation. The reshuffle suggests ongoing efforts to stabilize national governance and potentially reset diplomatic relationships.\n\nThe move represents a critical moment in Syria's political landscape - potentially indicating broader shifts in regional power dynamics and internal political recalibration. State media reports hint at significant personnel changes, though specific details remain limited.",
+        "sources": [
           {
-            "title": "Lebanon says Israeli strikes killed 39",
-            "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
-            "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+            "title": "Syria sees first government reshuffle since al-Assad’s ouster",
+            "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Palestinian family says settlers forced them to exhume father’s body",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
-            "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
+            "title": "Macron tours East Africa amid push to redefine France’s role in Africa",
+            "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global Health Alert: WHO Addresses Hantavirus Outbreak",
-        "body": "The World Health Organization moved to calm public fears about a new hantavirus outbreak, explicitly stating it is not comparable to COVID-19. Health officials are monitoring the situation closely.\n\nThe virus has sparked global concern, prompting questions about potential transmission and public health risks. Experts are working to understand the outbreak's scope and develop appropriate response strategies.",
+        "headline": "Deadly Violence Erupts in DR Congo as Regional Conflicts Intensify",
+        "body": "Rebel fighters killed at least 69 people in northeastern Democratic Republic of Congo, marking another brutal chapter in the region's persistent instability. The attack underscores ongoing challenges with militant groups and regional security.\n\nConcurrent reports of militant alliances - including JNIM and Tuareg fighters joining forces - suggest a complex and volatile security environment. The escalating violence highlights continued humanitarian risks in the region.",
         "sources": [
           {
-            "title": "WHO chief says Hantavirus outbreak ‘is not COVID’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss",
+            "title": "Rebel fighters kill at least 69 people in northeastern DR Congo",
+            "url": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Should we be worried about the hantavirus outbreak?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/9/should-we-be-worried-about-the-hantavirus-outbreak?traffic_source=rss",
+            "title": "JNIM and Tuareg fighters join forces",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -190,37 +190,55 @@
     ],
     "ai": [
       {
-        "headline": "Nvidia Pours $40B into AI Equity as Tech Investment Surges",
-        "body": "Nvidia has committed a staggering $40 billion to AI equity deals in just five months - a massive bet on artificial intelligence's transformative potential. The investment signals the chipmaker's aggressive strategy to capitalize on the AI boom, positioning itself at the center of the technology's rapid expansion.\n\nBeyond raw numbers, the move reflects broader industry dynamics. Tech giants are racing to stake claims in AI's emerging landscape, with venture capital flowing into promising startups and infrastructure that could define the next decade of technological innovation.",
+        "headline": "AI Adoption Stalls as Gen Z Expresses Deep Workplace Anxiety",
+        "body": "Generational tensions around artificial intelligence are reaching a boiling point. Young workers increasingly view AI as a threat to job security - not a collaborative tool. Recent research suggests Gen Z's skepticism stems from growing workplace fears about technological displacement and career uncertainty.\n\nThe resistance isn't just emotional. Workplace AI adoption has slowed dramatically, with younger workers actively pushing back against implementation strategies. This emerging dynamic signals a potential long-term challenge for companies seeking seamless technological integration.",
+        "sources": [
+          {
+            "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+            "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+            "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Nvidia Pours $40 Billion into AI Equity Deals This Year",
+        "body": "Nvidia continues its aggressive expansion into artificial intelligence investment. The tech giant has committed $40 billion to equity deals in 2026 - a staggering figure that underscores the company's strategic positioning in the AI ecosystem.\n\nThis massive financial commitment signals Nvidia's confidence in AI's transformative potential across multiple industries. By backing emerging AI technologies and startups, the company is solidifying its role as a key infrastructure and investment player in the rapidly evolving technological landscape.",
         "sources": [
           {
             "title": "Nvidia has already committed $40B to equity AI deals this year",
             "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
             "source": "TechCrunch",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Meta's AI Push Strains Employee Morale and Company Culture",
-        "body": "Internal tensions are mounting at Meta as the company's aggressive AI integration creates workplace friction. Employees report growing discomfort with the rapid technological transformation - a sentiment that threatens to undermine the organization's innovative potential.\n\nThe strain reveals deeper challenges in tech's AI transition. As companies recalibrate around artificial intelligence, human factors - including worker psychology and organizational culture - are becoming critical battlegrounds in technological adaptation.",
-        "sources": [
+          },
           {
-            "title": "Meta's embrace of AI is making its employees miserable",
-            "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+            "title": "Gemini API File Search is now multimodal",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Voice AI Startups Target Complex Indian Market Challenges",
-        "body": "Wispr Flow is betting big on voice AI in India - a market notorious for its linguistic complexity and technological barriers. The startup aims to develop voice technologies that can navigate India's extraordinary linguistic diversity.\n\nThis venture highlights the immense challenges and opportunities in developing AI for multilingual, culturally nuanced markets. Success requires deep technological innovation and sophisticated cultural understanding - making India both a formidable testing ground and a potentially massive opportunity for voice AI development.",
+        "headline": "AI's Psychological Impact: From Workplace Fear to Self-Perception",
+        "body": "Researchers are exploring the profound psychological implications of artificial intelligence. A new academic paper examines how language models are fundamentally changing human self-perception - suggesting that people increasingly understand themselves through computational metaphors.\n\nThis emerging phenomenon goes beyond technological adoption. It represents a deeper philosophical shift in how humans conceptualize intelligence, cognition, and personal identity in an increasingly algorithmic world.",
         "sources": [
           {
-            "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-            "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-            "source": "TechCrunch",
+            "title": "LLMorphism: When humans come to see themselves as language models",
+            "url": "https://arxiv.org/abs/2605.05419",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "The new Wild West of AI kids’ toys",
+            "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
@@ -228,37 +246,25 @@
     ],
     "btc": [
       {
-        "headline": "Major Mining Pools Upgrade Network with Stratum V2",
-        "body": "Seven leading Bitcoin mining pools have joined the Stratum V2 working group - a significant upgrade to mining infrastructure. The protocol promises enhanced security and greater decentralization for Bitcoin's core network. Miners will gain more control over transaction selection and improve overall network resilience.",
+        "headline": "Bitcoin Sentiment Surges as Price Hovers Near $80K",
+        "body": "Market analysts at Santiment have raised a cautionary flag about Bitcoin's current trading environment. Bullish sentiment has spiked dramatically, potentially signaling an overheated market despite BTC maintaining its position around the $80,000 mark.\n\nTrader enthusiasm often precedes market corrections. The rapid increase in positive crypto discussions suggests investors might be getting ahead of fundamental market indicators - a classic warning sign for seasoned Bitcoin watchers.",
         "sources": [
           {
-            "title": "7 major Bitcoin mining pools join Stratum V2, working group",
-            "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
+            "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Australian Police Seize Millions in Bitcoin from Dark Web Operator",
-        "body": "Law enforcement has cracked down on illegal cryptocurrency operations - capturing millions in Bitcoin from a suspected darknet marketplace operator. The seizure underscores ongoing efforts to combat digital financial crime. Australian authorities continue to demonstrate sophisticated tracking capabilities in the cryptocurrency enforcement landscape.",
+        "headline": "Major Mining Pools Advance Bitcoin Network with Stratum V2",
+        "body": "Seven significant Bitcoin mining pools have committed to implementing Stratum V2 - a major upgrade to the network's mining communication protocol. This collaborative effort represents a substantial technological step forward for Bitcoin's infrastructure.\n\nThe new protocol promises enhanced security, improved efficiency, and greater decentralization for Bitcoin mining operations. By standardizing communication between miners and pools, Stratum V2 could reduce potential centralization risks that have long concerned the Bitcoin community.",
         "sources": [
           {
-            "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
-            "url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump Media Reports Massive Quarterly Loss Tied to Bitcoin",
-        "body": "Trump Media's financial troubles deepened with a Q1 loss of $406 million - largely attributed to Bitcoin and cryptocurrency-related markdowns. The company's strategic investments have failed to deliver expected returns. Significant write-downs highlight the volatile nature of cryptocurrency holdings for public companies.",
-        "sources": [
-          {
-            "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
-            "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
-            "source": "CoinDesk",
+            "title": "Seven major Bitcoin mining pools join Stratum V2, working group",
+            "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -269,19 +275,19 @@
     "food": {
       "name": "Moroccan Shakshuka Verde",
       "cuisine": "North African fusion",
-      "description": "Eggs poached in a vibrant green tomatillo and herb sauce, topped with crumbled feta and za'atar",
-      "tip": "Use a cast iron skillet for even heat distribution and a crispy bottom layer"
+      "description": "Eggs poached in a vibrant green herb and chili sauce, topped with crumbled goat cheese",
+      "tip": "Use a cast iron skillet for even heat distribution and a crispy bottom"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted 5-minute mobility sequence to decompress and realign the spine after prolonged sitting",
-      "tip": "Use a foam roller vertically along your spine, starting at tailbone and slowly rolling up to base of skull"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
+      "tip": "Set a subtle phone alarm that prompts you to do a 30-second posture reset and gentle stretch"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are adopting design principles from natural ecosystems to create more sustainable, resilient infrastructure",
-      "why": "Reveals fascinating intersections between biology, architecture, and environmental problem-solving that could reshape how we live in the future"
+      "description": "How cities are increasingly adopting design principles from natural ecosystems to create more sustainable, adaptive infrastructure",
+      "why": "It represents a revolutionary approach to solving complex urban challenges by learning from billions of years of evolutionary problem-solving"
     }
   }
 }
