@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-05-11T11:09:23.615Z",
+  "generatedAt": "2026-05-11T22:28:01.610Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Visits China as Tensions and Opportunities Collide",
-        "body": "President Trump landed in Beijing for high-stakes talks with President Xi Jinping, with the ongoing Iran conflict casting a long shadow over diplomatic negotiations. Both leaders seek strategic advantages - Trump looking to ease trade tensions, Xi hoping to leverage geopolitical uncertainties.\n\nThe summit arrives at a complex moment. Iran's war and recent international responses have created potential negotiation leverage for both nations. Intelligence and diplomatic sources suggest nuanced discussions around trade, military positioning, and global economic stability will dominate closed-door meetings.",
+        "headline": "Supreme Court Extends Abortion Pill Access Amid Legal Battle",
+        "body": "The Supreme Court has temporarily blocked restrictions on mifepristone, allowing mail distribution of the abortion pill for at least three more days. Justice Alito issued the order, maintaining the status quo while legal challenges continue to wind through federal courts.\n\nThe decision comes after lower courts issued conflicting rulings about the drug's availability. Reproductive rights advocates see the extension as a critical victory, while anti-abortion groups continue to challenge the medication's widespread distribution.",
         "sources": [
           {
-            "title": "Iran war may give China, Xi, some leverage on Trump at Beijing summit",
-            "url": "https://thehill.com/homenews/administration/5870425-trump-xi-summit-iran-threat/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Confident in China’s power, Xi is ready to host an unpredictable Trump",
-            "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/",
+            "title": "Alito extends temporary order allowing mail distribution of abortion pill",
+            "url": "https://www.washingtonpost.com/politics/2026/05/11/mifepristone-supreme-court-abortion-pill/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested",
-            "url": "https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Congress Returns to High-Stakes Budget and Policy Battles",
-        "body": "Congressional leaders face a packed agenda this week, with contentious fights brewing over immigration, farm bill funding, and federal budget allocations. Republicans appear poised to advance ICE funding, while Democrats signal resistance to certain White House spending proposals.\n\nKey battlegrounds include potential healthcare cuts, immigration policy, and budgetary reconciliation. The political landscape remains sharply divided, with both parties maneuvering for strategic advantage ahead of potential election-year confrontations.",
-        "sources": [
-          {
-            "title": "This week on the hill: Congress returns from recess facing high-stakes fights",
-            "url": "https://thehill.com/homenews/house/5870629-congress-reconciliation-immigration-fisa-farm-bill/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Congress likely to pass Republicans' plan to fund ICE",
-            "url": "https://www.npr.org/2026/05/11/nx-s1-5816261/congress-likely-to-pass-republicans-plan-to-fund-ice",
+            "title": "Abortion pill by mail allowed for at least 3 more days, the Supreme Court says",
+            "url": "https://www.npr.org/2026/05/11/nx-s1-5818316/supreme-court-mifepristone-telemedicine-alito-delay",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Healthcare cuts threaten Sullivan’s reelection chances in Alaska",
-            "url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection/",
+            "title": "Supreme Court extends pause on abortion pill restrictions through Thursday",
+            "url": "https://thehill.com/policy/healthcare/5872986-abortion-pills-mail-access-supreme-court/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Nominates Kari Lake as Ambassador, Tensions Simmer",
+        "body": "Former President Trump has nominated Kari Lake as US ambassador to Jamaica, a move that signals continued political maneuvering after her disputed 2022 Arizona gubernatorial race. Lake - a vocal election fraud claimant - represents Trump's ongoing strategy of positioning allies in diplomatic roles.\n\nThe nomination comes amid complex geopolitical discussions, including potential US engagement with Venezuela and ongoing tensions in the Middle East. Polls suggest public uncertainty about recent political events, reflecting the polarized national landscape.",
+        "sources": [
+          {
+            "title": "Trump nominates Kari Lake as US ambassador to Jamaica",
+            "url": "https://thehill.com/homenews/administration/5873074-trump-nominates-kari-lake/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Schumer: Democrats will make stand against $1 billion White House ballroom",
-            "url": "https://thehill.com/homenews/senate/5871949-schumer-rally-democrats-trump-ballroom/",
+            "title": "New poll finds a majority of Americans unsure if attempts on Trump's life were real",
+            "url": "https://www.npr.org/2026/05/11/nx-s1-5818557/poll-trump-assassination-attempts-conspiracy-theories",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump 'seriously considering' plan to make Venezuela and its $40 trillion in oil permanent part of USA",
+            "url": "https://www.foxnews.com/politics/trump-seriously-considering-plan-make-venezuela-40-trillion-oil-permanent-part-usa",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump odds of voter revolt over economy hinge on Iran war impact",
+            "url": "https://thehill.com/business/5872831-economy-trump-election-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Hantavirus Outbreak Raises Public Health Concerns",
+        "body": "A hantavirus outbreak has prompted national health discussions, with experts assessing potential transmission risks and vulnerable populations. RFK Jr. attempted to downplay concerns, stating they are not worried about widespread infection.\n\nPublic health officials are monitoring the situation, particularly after reports of transmission on cruise ships. The outbreak underscores ongoing challenges in managing emerging infectious diseases and maintaining robust public health infrastructure.",
+        "sources": [
+          {
+            "title": "Hantavirus outbreak: Who is most at risk of catching the deadly virus?",
+            "url": "https://thehill.com/policy/healthcare/5873138-hantavirus-outbreak-who-is-most-at-risk-of-catching-the-deadly-virus/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "RFK Jr.: ‘We’re not worried’ about hantavirus spreading after cruise ship outbreak",
+            "url": "https://thehill.com/policy/healthcare/5872730-kennedy-hantavirus-situation-update/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -60,122 +78,152 @@
     ],
     "au-politics": [
       {
-        "headline": "Tensions Rise: Threats, Abuse Target Religious Communities",
-        "body": "A series of incidents has highlighted growing community tensions in Australia. In Brisbane, a man was charged with allegedly threatening Muslim worshippers at a mosque - the latest in a pattern of reported intimidation. Separately, a royal commission heard testimony about Jewish musicians facing abuse over their Zionist beliefs.\n\nThese events underscore complex social dynamics around religious and cultural identities. Law enforcement and community leaders are increasingly concerned about escalating tensions and potential targeted harassment.",
+        "headline": "Federal Budget 2026: Labor Charts Tough Reform Path",
+        "body": "Treasurer Jim Chalmers delivered the 2026 federal budget tonight, signaling Labor's commitment to economic reform despite challenging conditions. The budget aims to improve the bottom line by $45 billion through strategic spending cuts and revenue measures.\n\nKey focus areas include housing affordability and support for vulnerable populations. Chalmers described the approach as taking the hard road of reform, acknowledging potential political risks in pursuit of long-term economic stability.",
         "sources": [
           {
-            "title": "Jewish musicians faced abuse over Zionist beliefs, royal commisssion told",
-            "url": "https://www.theguardian.com/australia-news/2026/may/11/jewish-musicians-faced-abuse-over-zionist-beliefs-royal-commisssion-told-ntwnfb",
+            "title": "Federal budget 2026 live updates: treasurer Jim Chalmers to present budget speech tonight – latest news",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Man charged after allegedly threatening Muslim worshippers at Brisbane mosque",
-            "url": "https://www.theguardian.com/australia-news/2026/may/11/growing-anti-muslim-sentiment-condemned-after-threats-made-to-brisbane-mosque-worshippers-ntwnfb",
+            "title": "Live: Chalmers says Labor has chosen 'hard road of reform' in federal budget",
+            "url": "https://www.abc.net.au/news/2026-05-12/federal-budget-2026-live-may-12/106668626",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Morning Mail: budget’s $45bn bottom-line improvement, Starmer’s make-or-break moment, Trump’s ceasefire threat",
+            "url": "https://www.theguardian.com/australia-news/2026/may/12/morning-mail-tuesday-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Man charged after allegedly making threats at north Brisbane mosque",
-            "url": "https://www.abc.net.au/news/2026-05-11/man-charged-making-threats-north-brisbane-mosque/106667352",
+            "title": "The Australians the treasurer has in mind as he targets home ownership",
+            "url": "https://www.abc.net.au/news/2026-05-12/federal-budget-australian-dream-negative-gearing-housing/106666278",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Major Crime Update: Body Found in Alleged Murderer Case",
-        "body": "Police believe they have located the body of Julian Ingram, an alleged triple murderer who had been the subject of an extensive manhunt. The remains were discovered near an abandoned utility vehicle in a decomposed state, potentially bringing closure to a high-profile criminal investigation.\n\nAuthorities are conducting forensic analysis to confirm the identity. If confirmed, the discovery would mark a significant development in a case that had gripped national attention over recent weeks.",
+        "headline": "COVID Quarantine Facility Repurposed for Disease Control",
+        "body": "Perth's COVID-19 quarantine facility has found a new purpose in disease management, marking a significant shift in its operational strategy. The facility will now support hantavirus disease control efforts, demonstrating flexible infrastructure adaptation.\n\nThis development highlights the ongoing challenges of pandemic preparedness and the need for adaptable public health infrastructure. The facility's repurposing reflects a pragmatic approach to managing specialized medical resources in a changing health landscape.",
         "sources": [
           {
-            "title": "Body believed to be alleged triple murderer Julian Ingram found near abandoned ute in ‘decomposed state’",
-            "url": "https://www.theguardian.com/australia-news/2026/may/11/body-alleged-triple-murderer-julian-ingram-found-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Body ‘in decomposed state’ believed to be Julian Ingram – as it happened",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "'Closure': Police believe body found in NSW is alleged triple murderer",
-            "url": "https://www.abc.net.au/news/2026-05-11/lake-cargelligo-body-found-julian-ingram/106296228",
+            "title": "COVID quarantine facility finally being used for disease control",
+            "url": "https://www.abc.net.au/news/2026-05-12/perth-quarantine-facility-to-help-hantavirus-disease-control/106667314",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Small robots drafted to help tackle looming renewable skills shortage",
+            "url": "https://www.abc.net.au/news/2026-05-12/renewable-workforce-skills-training-victoria-robots/106615800",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Rain forecast from the tropics to Tasmania after Australia's driest April",
+            "url": "https://www.abc.net.au/news/2026-05-12/first-north-west-cloudband-weather-brings-rain-across-australia/106667518",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Legal Aid NT Warns of Deepening Service Cuts",
+        "body": "Legal Aid Northern Territory is flagging potential further service reductions amid an ongoing funding crisis. The organization faces significant challenges in maintaining comprehensive legal support for vulnerable populations.\n\nThe cuts follow previous service reductions and underscore broader tensions in regional legal service provision. This situation reflects the complex pressures facing community legal services in remote and underserved areas of Australia.",
+        "sources": [
+          {
+            "title": "Legal Aid NT flags more cuts to services amid ongoing funding crisis",
+            "url": "https://www.abc.net.au/news/2026-05-12/more-legal-aid-nt-cuts-possible-months-after-services-slashed/106661632",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "High Court to hear challenge over murder verdict swapped to manslaughter",
+            "url": "https://www.abc.net.au/news/2026-05-12/act-high-court-challenge-murder-verdict-appeal-swap-manslaughter/106666816",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Victorian politics still exposed to ‘dark money’ and foreign donations as MPs struggle to agree on urgent reforms",
+            "url": "https://www.theguardian.com/australia-news/2026/may/11/victorian-politics-still-exposed-to-dark-money-and-foreign-donations-as-mps-struggle-to-agree-on-urgent-reforms",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Iran War Enters Tense Phase as Negotiations Stall",
-        "body": "US-Iran negotiations have reached a critical impasse, with both sides trading accusations and rejecting each other's proposals. Iran claims the United States is making unreasonable demands, while President Trump has dismissed Tehran's latest peace overture as unacceptable.\n\nOil markets have responded sharply to the diplomatic tension, with prices jumping as hopes for a quick resolution fade. The conflict - now in its 73rd day - continues to strain global geopolitics, with regional powers like India feeling economic pressure.",
+        "headline": "US Passengers Quarantined as Hantavirus Outbreak Hits Cruise Ship",
+        "body": "A hantavirus outbreak has forced US health officials to quarantine passengers in Nebraska after a cruise ship incident. Multiple evacuees have tested positive for the virus, raising concerns about potential transmission.\n\nAuthorities claim the public risk remains very low. The MV Hondius cruise ship has been at the center of the outbreak, with its captain praising passenger unity during the crisis. Ongoing medical monitoring and testing continue as officials work to contain the spread.",
         "sources": [
           {
-            "title": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
-            "url": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-            "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+            "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-            "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
+            "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+            "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump calls Iran response “totally unacceptable”",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss",
+            "title": "US and French evacuees from Hantavirus-hit ship test positive",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Taiwan Braces for Potential Conflict Ahead of Trump-Xi Summit",
-        "body": "Taiwanese civilians are preparing for potential military confrontation, intensifying self-defense training as tensions with China remain high. The upcoming summit between former US President Trump and Chinese President Xi signals a critical moment in cross-strait relations.\n\nThe diplomatic meeting could determine the future of Taiwan's sovereignty, with both sides maintaining hardline positions. Civilian preparedness reflects growing anxiety about potential military escalation in the region.",
+        "headline": "South Africa Faces Presidential Impeachment Amid Farmgate Scandal",
+        "body": "South African President faces mounting political pressure as parliament moves to launch an impeachment probe over the controversial Farmgate scandal. Despite calls for his resignation, the president has firmly stated he will not step down.\n\nThe investigation threatens to destabilize the country's political landscape. Parliamentary leaders are preparing a formal inquiry into allegations of misconduct - a move that could potentially remove the president from office if substantiated.",
         "sources": [
           {
-            "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "South African president says he will not step down after impeachment call",
+            "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump's China visit set to test fragile truce",
-            "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "South Africa plans presidential impeachment probe over ‘Farmgate’ scandal",
+            "url": "https://www.aljazeera.com/news/2026/5/11/south-africa-plans-presidential-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Political Upheaval Rocks Philippines and United Kingdom",
-        "body": "Philippine Vice President Sara Duterte has been impeached for the second time, marking another turbulent moment in the country's volatile political landscape. In the United Kingdom, Labour leader Keir Starmer faces potential leadership challenges after a significant election defeat.\n\nBoth political crises underscore the fragility of democratic institutions and the intense pressure facing current political leadership. The impeachment and potential leadership change suggest deeper systemic challenges in each nation's political framework.",
+        "headline": "EU Sanctions Israeli Settlers and Russian Officials Over Child Deportations",
+        "body": "The European Union has imposed sanctions targeting violent Israeli settlers in the West Bank and Russian officials involved in Ukrainian child deportations. This marks a significant diplomatic response to ongoing human rights concerns.\n\nThe sanctions come after months of diplomatic deadlock. EU officials aim to pressure both Israel and Russia by targeting individuals and networks responsible for controversial actions. The move signals a more assertive stance on international human rights violations.",
         "sources": [
           {
-            "title": "Philippine VP Sara Duterte impeached for a second time",
-            "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "UK’s Keir Starmer battles for political survival after election defeat",
-            "url": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+            "title": "EU, UK sanction Russians over deportations of Ukrainian children",
+            "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Philippine Congress impeaches VP Sara Duterte for second time",
-            "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
+            "title": "EU sanctions violent Israeli settlers after months of deadlock",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+            "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -184,48 +232,48 @@
     ],
     "ai": [
       {
-        "headline": "Hollywood Insiders Pivot to AI Training Behind Closed Doors",
-        "body": "The entertainment industry is undergoing a quiet transformation as TV professionals secretly shift focus to AI model training. Sources reveal that many former content creators are now working to develop sophisticated AI systems capable of generating scripts, characters, and entire narrative arcs.\n\nThis underground movement signals a potential seismic shift in content production. While traditional roles face disruption, workers are adapting by becoming AI trainers - positioning themselves at the forefront of a technological revolution that could fundamentally reshape storytelling.",
+        "headline": "AI Interaction Models and Workforce Shifts Reshape Tech Landscape",
+        "body": "Mira Murati's Thinking Machines is pioneering new AI interaction models that could fundamentally change how humans and artificial intelligence communicate. The company's latest research suggests a radical approach to AI interfaces - moving beyond traditional input-output frameworks.\n\nSimultaneously, tech companies are experiencing significant organizational changes. GitLab announced a workforce reduction and abandoned its CREDIT values, signaling deeper transformations in how tech organizations structure themselves in an AI-driven environment.",
         "sources": [
           {
-            "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-            "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-            "source": "Wired",
+            "title": "Here’s what Mira Murati’s AI company is up to",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+            "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-            "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-            "source": "TechCrunch",
+            "title": "Interaction Models",
+            "url": "https://thinkingmachines.ai/blog/interaction-models/",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-            "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-            "source": "TechCrunch",
+            "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+            "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Local AI Models Gain Ground as Privacy Concerns Intensify",
-        "body": "Developers and technologists are championing local AI as a critical alternative to cloud-based systems. Recent experiments demonstrate the feasibility of running sophisticated models on consumer hardware - including Apple's M4 with just 24GB of memory.\n\nThe push toward local AI reflects growing concerns about data privacy and corporate control. By keeping computational processes on personal devices, users can potentially reduce exposure to external tracking and maintain greater control over their digital interactions.",
+        "headline": "AI Emerges as Cybersecurity and Exploit Development Wild Card",
+        "body": "Google claims to have stopped a zero-day hack developed using artificial intelligence - highlighting the emerging dual-use potential of AI in cybersecurity. The incident underscores growing concerns about AI's role in both defensive and offensive digital strategies.\n\nResearchers and tech companies are racing to understand and mitigate AI-powered security risks. The landscape is shifting rapidly, with AI becoming both a powerful tool and a potential threat vector in complex technological ecosystems.",
         "sources": [
           {
-            "title": "Running local models on an M4 with 24GB memory",
-            "url": "https://jola.dev/posts/running-local-models-on-m4",
+            "title": "Google stopped a zero-day hack that it says was developed with AI",
+            "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Interfaze: A new model architecture built for high accuracy at scale",
+            "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Local AI needs to be the norm",
-            "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-            "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+            "title": "Show HN: E2a – Open-source email gateway for AI agents",
+            "url": "https://github.com/Mnexa-AI/e2a",
             "source": "Hacker News",
             "lean": null
           }
@@ -234,61 +282,97 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $82,000 Amid Geopolitical Tensions",
-        "body": "Bitcoin briefly touched $82,000 on Monday, driven by improving macroeconomic conditions and geopolitical uncertainty. The cryptocurrency's price volatility spiked following comments from former President Trump about Iran's peace proposal, which he called totally unacceptable. Market analysts suggest the geopolitical backdrop is creating additional momentum for Bitcoin as a potential safe-haven asset.",
+        "headline": "Bitcoin Miners Struggle as Market Volatility Continues",
+        "body": "Bitcoin mining companies faced significant financial challenges in Q1 and Q2. Marathon Digital reported an 18% revenue drop, while CleanSpark recorded $224 million in losses from Bitcoin holdings. The sector continues to navigate a complex landscape of operational costs and market fluctuations.\n\nDespite these setbacks, mining firms remain committed to their core business. Marathon Digital described Bitcoin mining as its 'operational foundation', signaling continued confidence in the long-term potential of cryptocurrency infrastructure.",
         "sources": [
           {
-            "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
-            "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
-            "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin briefly tops $82,000 on improving macro conditions; Sui jumps 25%",
-            "url": "https://www.theblock.co/post/400663/bitcoin-briefly-tops-82000-sui-jumps-25?utm_source=rss&amp;utm_medium=rss",
+            "title": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’",
+            "url": "https://www.theblock.co/post/400824/mara-q1-revenue-drops-18-bitcoin-mining-operational-foundation?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin miner CleanSpark’s Q2 losses swell after losing $224 million on BTC holdings",
+            "url": "https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI",
+            "url": "https://decrypt.co/367447/keel-infrastructure-posts-145-million-loss-pivot-bitcoin-miner-ai",
+            "source": "Decrypt",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Mining Pools Collaborate on Block Construction Standard",
-        "body": "Major Bitcoin mining pools representing 75% of the network's hashrate have joined an open standard for block construction - a significant technical development for blockchain infrastructure. The move signals growing cooperation among mining operators to standardize and potentially improve Bitcoin's core transaction processing mechanisms. This collaborative effort could enhance network transparency and efficiency.",
+        "headline": "Strategy Doubles Down on Bitcoin Despite Market Uncertainty",
+        "body": "Michael Saylor's Strategy resumed Bitcoin acquisitions, purchasing 535 Bitcoin for $43 million just days after hinting at potential sales. The move brings the company's total Bitcoin holdings to 818,869 BTC - a testament to Saylor's continued bullish stance.\n\nSaylor dismissed recent speculation about selling, characterizing discussions as 'a big nothing burger'. The company's strategic buying comes amid broader institutional interest, with Bitcoin funds capturing $700 million in recent investments.",
         "sources": [
           {
-            "title": "Bitcoin mining pools with 75% of BTC hashrate join open standard for block construction",
-            "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction",
+            "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
+            "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to 'Never Be a Net Seller'",
+            "url": "https://decrypt.co/367391/strategy-resumes-bitcoin-buys-as-saylor-shifts-focus-to-never-be-a-net-seller",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Strategy (MSTR) Buys $43 Million More Bitcoin After Saylor Defends Potential BTC Sales",
+            "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-43-million-more-bitcoin",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Strategy buys 535 bitcoin for $43 million days after signaling potential BTC sales",
+            "url": "https://www.coindesk.com/markets/2026/05/11/strategy-buys-535-bitcoin-for-usd43-million-days-after-signaling-potential-btc-sales",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "‘Back to work’: Michael Saylor’s Strategy buys 535 bitcoin for $43 million after brief pause as total holdings hit 818,869 BTC",
+            "url": "https://www.theblock.co/post/400702/back-to-work-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin funds capture $700 million as institutions place their bets",
+            "url": "https://www.coindesk.com/daybook-us/2026/05/11/bitcoin-funds-capture-usd700-million-as-institutions-place-their-bets",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Capital B Raises $18M to Expand Bitcoin Treasury Strategy",
-        "body": "French Bitcoin treasury firm Capital B has secured $17.8 million in funding from notable investors including Adam Back. The raise underscores continued institutional interest in Bitcoin as a corporate treasury asset. Michael Saylor's Strategy continues to signal aggressive Bitcoin acquisition - with plans to buy 10 to 20 bitcoins for every one sold.",
+        "headline": "Bitcoin Price Hovers Near $82,000 as Market Signals Shift",
+        "body": "Bitcoin's price remains stable around $82,000, with a rare 'golden cross' technical pattern emerging for the first time since 2023. This potentially bullish signal comes amid geopolitical tensions and cautious market sentiment.\n\nAnalysts see mixed signals - institutional inflows continue, but concerns about whale selling and global market dynamics create uncertainty. Some price targets suggest Bitcoin could reach $85,000 in the near term.",
         "sources": [
           {
-            "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
-            "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
+            "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "French BTC treasury firm Capital B raises $18 million from Adam Back, others",
-            "url": "https://www.theblock.co/post/400677/btc-treasury-capital-b-raise-adam-back?utm_source=rss&amp;utm_medium=rss",
+            "title": "‘Crypto at the crossroads’: Analysts say Iran tensions and whale selling cloud outlook as bitcoin holds above $81K",
+            "url": "https://www.theblock.co/post/400723/crypto-at-the-crossroads-analysts-say-iran-tensions-and-whale-selling-cloud-crypto-outlook-as-bitcoin-holds-above-81k?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
           },
           {
-            "title": "Michael Saylor says Strategy would buy ’10 to 20′ bitcoin for every one it sells: report",
-            "url": "https://www.theblock.co/post/400671/strategy-michael-saylor-buy-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "BTC price target becomes $85K next: Five things to know in Bitcoin this week",
+            "url": "https://cointelegraph.com/markets/btc-price-target-becomes-85k-next-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -300,18 +384,18 @@
       "name": "Moroccan Shakshuka Sunrise",
       "cuisine": "North African",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "tip": "Use cast iron skillet for authentic even heat distribution and deeper flavor development"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement sequence that resets spinal alignment and releases tension in neck and shoulder muscles",
-      "tip": "Set a 25-minute timer and do a 90-second standing stretch/mobility sequence that includes shoulder rolls and gentle side bends"
+      "name": "Desk Spine Reset",
+      "description": "A targeted micro-movement sequence that realigns spine, releases tension, and resets muscular balance during long sedentary periods",
+      "tip": "Set a 45-minute timer and perform a 90-second standing twist and shoulder blade retraction sequence each time it sounds"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can transform city infrastructure, transportation, and architectural strategies",
-      "why": "This emerging field offers revolutionary solutions to sustainability challenges by studying how nature solves complex systemic problems"
+      "topic": "The Fermi Paradox and Rare Earth Hypothesis",
+      "description": "A complex scientific exploration of why, despite billions of potentially habitable planets, we haven't detected extraterrestrial intelligence",
+      "why": "It challenges fundamental assumptions about life, intelligence, and our cosmic significance while revealing the intricate probabilistic challenges of interstellar communication"
     }
   }
 }
