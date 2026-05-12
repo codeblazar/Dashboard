@@ -1,36 +1,78 @@
 {
-  "generatedAt": "2026-05-11T22:28:01.610Z",
+  "generatedAt": "2026-05-12T05:19:09.045Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Extends Abortion Pill Access Amid Legal Battle",
-        "body": "The Supreme Court has temporarily blocked restrictions on mifepristone, allowing mail distribution of the abortion pill for at least three more days. Justice Alito issued the order, maintaining the status quo while legal challenges continue to wind through federal courts.\n\nThe decision comes after lower courts issued conflicting rulings about the drug's availability. Reproductive rights advocates see the extension as a critical victory, while anti-abortion groups continue to challenge the medication's widespread distribution.",
+        "headline": "Trump Reshapes Political Landscape with Redistricting and Endorsements",
+        "body": "Former President Donald Trump continues to exert significant influence on Republican Party strategy. In South Carolina, he urged local Republicans to be bold in redrawing congressional district lines - a move that could reshape electoral math in key states.\n\nTrump also floated a potential 2028 presidential ticket, suggesting J.D. Vance and Marco Rubio could form a powerful team. His ongoing political maneuvering includes strategic nominations, such as tapping a former FEMA director to lead the disaster agency again - signaling continued efforts to position allies in key government roles.",
         "sources": [
           {
-            "title": "Alito extends temporary order allowing mail distribution of abortion pill",
-            "url": "https://www.washingtonpost.com/politics/2026/05/11/mifepristone-supreme-court-abortion-pill/",
+            "title": "Trump tells SC Republicans to be ‘bold and courageous’ ahead of vote on redistricting",
+            "url": "https://thehill.com/homenews/administration/5873359-trump-backed-redrawing-congressional-lines/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump says Vance, Rubio could be 2028 ‘dream team’ ticket",
+            "url": "https://thehill.com/homenews/campaign/5873326-trump-pulse-check-vance-rubio/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump taps former FEMA director to lead the disaster agency again",
+            "url": "https://www.npr.org/2026/05/11/nx-s1-5818675/trump-fema-disaster-emergency-hamilton-nominate",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Hands Victories to Republicans in Redistricting Battles",
+        "body": "The Supreme Court delivered significant wins to Republican-led redistricting efforts, lifting blocks on Alabama's contested voting maps. This decision could have far-reaching implications for electoral representation in multiple states.\n\nVirginia Democrats responded by appealing to the Supreme Court to save their own congressional maps. The legal battles underscore the ongoing tension between political parties over district boundaries and voting rights - with potentially substantial consequences for future elections.",
+        "sources": [
+          {
+            "title": "Virginia Democrats appeal to U.S. Supreme Court to save new House maps",
+            "url": "https://www.washingtonpost.com/politics/2026/05/11/virginia-redistricting-referendum-supreme-court-appeal/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Abortion pill by mail allowed for at least 3 more days, the Supreme Court says",
-            "url": "https://www.npr.org/2026/05/11/nx-s1-5818316/supreme-court-mifepristone-telemedicine-alito-delay",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Supreme Court hands Alabama major boost in redistricting fight",
+            "url": "https://www.washingtonpost.com/politics/2026/05/11/supreme-court-alabama-voting-map/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "Supreme Court extends pause on abortion pill restrictions through Thursday",
-            "url": "https://thehill.com/policy/healthcare/5872986-abortion-pills-mail-access-supreme-court/",
+            "title": "Supreme Court lifts block on Alabama Republicans’ map",
+            "url": "https://thehill.com/regulation/court-battles/5873190-supreme-court-alabama-redistricting/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Virginia asks Supreme Court to restore Democrats’ congressional map",
+            "url": "https://thehill.com/regulation/court-battles/5873036-virginia-democrats-supreme-court-appeal-redistricting/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Nominates Kari Lake as Ambassador, Tensions Simmer",
-        "body": "Former President Trump has nominated Kari Lake as US ambassador to Jamaica, a move that signals continued political maneuvering after her disputed 2022 Arizona gubernatorial race. Lake - a vocal election fraud claimant - represents Trump's ongoing strategy of positioning allies in diplomatic roles.\n\nThe nomination comes amid complex geopolitical discussions, including potential US engagement with Venezuela and ongoing tensions in the Middle East. Polls suggest public uncertainty about recent political events, reflecting the polarized national landscape.",
+        "headline": "Federal Reserve and Foreign Policy Developments Emerge",
+        "body": "The Senate advanced Karl Warsh - Trump's nominee to chair the Federal Reserve - signaling potential shifts in monetary policy. Meanwhile, international tensions simmer, with an Iranian negotiator warning that American taxpayers will bear consequences if diplomatic proposals are not accepted.\n\nIn another diplomatic move, Trump nominated Kari Lake as US ambassador to Jamaica, continuing his pattern of placing political allies in diplomatic roles. These developments suggest ongoing reconfiguration of both domestic economic leadership and international diplomatic strategies.",
         "sources": [
+          {
+            "title": "Senate advances Warsh, Trump’s pick to chair Federal Reserve",
+            "url": "https://thehill.com/homenews/senate/5873160-warsh-federal-reserve/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Iran’s top negotiator: Accept our proposal or ‘American taxpayers will pay for it’",
+            "url": "https://thehill.com/policy/international/5873253-iran-negotiator-ghalibaf-proposal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump nominates Kari Lake as US ambassador to Jamaica",
             "url": "https://thehill.com/homenews/administration/5873074-trump-nominates-kari-lake/",
@@ -38,38 +80,8 @@
             "lean": "center"
           },
           {
-            "title": "New poll finds a majority of Americans unsure if attempts on Trump's life were real",
-            "url": "https://www.npr.org/2026/05/11/nx-s1-5818557/poll-trump-assassination-attempts-conspiracy-theories",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump 'seriously considering' plan to make Venezuela and its $40 trillion in oil permanent part of USA",
-            "url": "https://www.foxnews.com/politics/trump-seriously-considering-plan-make-venezuela-40-trillion-oil-permanent-part-usa",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump odds of voter revolt over economy hinge on Iran war impact",
-            "url": "https://thehill.com/business/5872831-economy-trump-election-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Hantavirus Outbreak Raises Public Health Concerns",
-        "body": "A hantavirus outbreak has prompted national health discussions, with experts assessing potential transmission risks and vulnerable populations. RFK Jr. attempted to downplay concerns, stating they are not worried about widespread infection.\n\nPublic health officials are monitoring the situation, particularly after reports of transmission on cruise ships. The outbreak underscores ongoing challenges in managing emerging infectious diseases and maintaining robust public health infrastructure.",
-        "sources": [
-          {
-            "title": "Hantavirus outbreak: Who is most at risk of catching the deadly virus?",
-            "url": "https://thehill.com/policy/healthcare/5873138-hantavirus-outbreak-who-is-most-at-risk-of-catching-the-deadly-virus/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "RFK Jr.: ‘We’re not worried’ about hantavirus spreading after cruise ship outbreak",
-            "url": "https://thehill.com/policy/healthcare/5872730-kennedy-hantavirus-situation-update/",
+            "title": "The Memo: Iran ceasefire teeters as Trump blasts proposal from Tehran",
+            "url": "https://thehill.com/homenews/administration/5873072-trump-anger-iran-war/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -78,8 +90,8 @@
     ],
     "au-politics": [
       {
-        "headline": "Federal Budget 2026: Labor Charts Tough Reform Path",
-        "body": "Treasurer Jim Chalmers delivered the 2026 federal budget tonight, signaling Labor's commitment to economic reform despite challenging conditions. The budget aims to improve the bottom line by $45 billion through strategic spending cuts and revenue measures.\n\nKey focus areas include housing affordability and support for vulnerable populations. Chalmers described the approach as taking the hard road of reform, acknowledging potential political risks in pursuit of long-term economic stability.",
+        "headline": "Federal Budget 2026 Aims to Address Economic Anxiety",
+        "body": "Treasurer Jim Chalmers will deliver the 2026 federal budget tonight, targeting economic pressures driving voter sentiment toward minor parties like One Nation. The budget seeks to address widespread financial concerns that have increasingly pushed mainstream voters toward populist political alternatives.\n\nChalmers has signaled the budget will directly confront economic anxieties, recognizing the growing electoral appeal of protest parties. His approach suggests Labor is attempting to reclaim political ground by demonstrating a nuanced understanding of voter economic stress.",
         "sources": [
           {
             "title": "Federal budget 2026 live updates: treasurer Jim Chalmers to present budget speech tonight – latest news",
@@ -88,143 +100,107 @@
             "lean": "left"
           },
           {
-            "title": "Live: Chalmers says Labor has chosen 'hard road of reform' in federal budget",
-            "url": "https://www.abc.net.au/news/2026-05-12/federal-budget-2026-live-may-12/106668626",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Morning Mail: budget’s $45bn bottom-line improvement, Starmer’s make-or-break moment, Trump’s ceasefire threat",
-            "url": "https://www.theguardian.com/australia-news/2026/may/12/morning-mail-tuesday-ntwnfb",
+            "title": "Jim Chalmers says budget to address economic anxieties ‘driving’ Australians to One Nation",
+            "url": "https://www.theguardian.com/australia-news/2026/may/12/budget-2026-jim-chalmers-economic-anxieties-one-nation-australia-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "The Australians the treasurer has in mind as he targets home ownership",
-            "url": "https://www.abc.net.au/news/2026-05-12/federal-budget-australian-dream-negative-gearing-housing/106666278",
+            "title": "If the Liberal party continues to adopt the language of One Nation, we will write the script for our demise | Andrew McLachlan",
+            "url": "https://www.theguardian.com/commentisfree/2026/may/12/liberal-party-one-nation-language-script-demise-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Terrorism Charges Laid Against Canberra Teenager",
+        "body": "Australian Federal Police have charged a Canberra teenager with planning a potential terrorist attack, marking a significant law enforcement intervention. The precise details of the alleged plot remain unclear, but authorities moved to prevent what they considered an imminent threat.\n\nThe charges highlight ongoing national security concerns and the challenges of identifying and intercepting potential domestic terrorism risks. Law enforcement agencies continue to monitor and respond to emerging threats across the country.",
+        "sources": [
+          {
+            "title": "Canberra teenager charged over allegedly planning ACT terror attack",
+            "url": "https://www.theguardian.com/australia-news/2026/may/12/canberra-teenager-charged-planning-terrorist-attack-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Canberra teen charged with planning terrorist attack",
+            "url": "https://www.abc.net.au/news/2026-05-12/canberra-teen-charged-with-planning-terrorist-attack/106670534",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "COVID Quarantine Facility Repurposed for Disease Control",
-        "body": "Perth's COVID-19 quarantine facility has found a new purpose in disease management, marking a significant shift in its operational strategy. The facility will now support hantavirus disease control efforts, demonstrating flexible infrastructure adaptation.\n\nThis development highlights the ongoing challenges of pandemic preparedness and the need for adaptable public health infrastructure. The facility's repurposing reflects a pragmatic approach to managing specialized medical resources in a changing health landscape.",
+        "headline": "Queensland Political Tensions Emerge in Parliamentary Dispute",
+        "body": "Queensland's deputy premier used parliamentary privilege to raise unsubstantiated rumors about relationships between MPs, creating fresh political tension. The move has sparked debate about the appropriate use of parliamentary protections and the boundaries of political discourse.\n\nSimultaneously, Brisbane city leadership backflipped on previous promises regarding short-stay accommodation regulations - another indication of the complex political maneuvering occurring at local and state levels.",
         "sources": [
           {
-            "title": "COVID quarantine facility finally being used for disease control",
-            "url": "https://www.abc.net.au/news/2026-05-12/perth-quarantine-facility-to-help-hantavirus-disease-control/106667314",
+            "title": "Qld deputy premier uses parliamentary privilege to raise rumours of MPs' relationship",
+            "url": "https://www.abc.net.au/news/2026-05-12/bleijie-accuses-labor-mps-of-secret-relationship/106670298",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Small robots drafted to help tackle looming renewable skills shortage",
-            "url": "https://www.abc.net.au/news/2026-05-12/renewable-workforce-skills-training-victoria-robots/106615800",
+            "title": "Brisbane flips on promise to crack down on short-stay apps such as Airbnb",
+            "url": "https://www.abc.net.au/news/2026-05-12/brisbane-backflips-on-promises-to-crack-down-on-airbnb/106670620",
             "source": "ABC Australia",
             "lean": "center-left"
-          },
-          {
-            "title": "Rain forecast from the tropics to Tasmania after Australia's driest April",
-            "url": "https://www.abc.net.au/news/2026-05-12/first-north-west-cloudband-weather-brings-rain-across-australia/106667518",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Legal Aid NT Warns of Deepening Service Cuts",
-        "body": "Legal Aid Northern Territory is flagging potential further service reductions amid an ongoing funding crisis. The organization faces significant challenges in maintaining comprehensive legal support for vulnerable populations.\n\nThe cuts follow previous service reductions and underscore broader tensions in regional legal service provision. This situation reflects the complex pressures facing community legal services in remote and underserved areas of Australia.",
-        "sources": [
-          {
-            "title": "Legal Aid NT flags more cuts to services amid ongoing funding crisis",
-            "url": "https://www.abc.net.au/news/2026-05-12/more-legal-aid-nt-cuts-possible-months-after-services-slashed/106661632",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "High Court to hear challenge over murder verdict swapped to manslaughter",
-            "url": "https://www.abc.net.au/news/2026-05-12/act-high-court-challenge-murder-verdict-appeal-swap-manslaughter/106666816",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Victorian politics still exposed to ‘dark money’ and foreign donations as MPs struggle to agree on urgent reforms",
-            "url": "https://www.theguardian.com/australia-news/2026/may/11/victorian-politics-still-exposed-to-dark-money-and-foreign-donations-as-mps-struggle-to-agree-on-urgent-reforms",
-            "source": "Guardian AU",
-            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Passengers Quarantined as Hantavirus Outbreak Hits Cruise Ship",
-        "body": "A hantavirus outbreak has forced US health officials to quarantine passengers in Nebraska after a cruise ship incident. Multiple evacuees have tested positive for the virus, raising concerns about potential transmission.\n\nAuthorities claim the public risk remains very low. The MV Hondius cruise ship has been at the center of the outbreak, with its captain praising passenger unity during the crisis. Ongoing medical monitoring and testing continue as officials work to contain the spread.",
+        "headline": "Israel Passes Controversial Law for October 7 Detainee Trials",
+        "body": "Israel's parliament has approved a contentious law allowing public trials and potential death sentences for individuals linked to the October 7 Hamas attacks. The legislation marks a significant escalation in the legal response to the conflict - and has already drawn sharp international criticism.\n\nThe law permits military tribunals with unprecedented powers, including capital punishment. Legal experts warn the move could violate international human rights standards and potentially complicate diplomatic relations with key allies.",
         "sources": [
           {
-            "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-            "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-            "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak.",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss",
+            "title": "Israel approves law on public trials, death penalty for October 7 detainees",
+            "url": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US and French evacuees from Hantavirus-hit ship test positive",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss",
+            "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+            "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Haiti Descends into Chaos as Gang Violence Displaces Hundreds",
+        "body": "Haiti's capital Port-au-Prince faces mounting humanitarian crisis as escalating gang violence forces hundreds of residents to flee their homes. Medical services have been suspended amid the widespread unrest - leaving vulnerable populations without critical support.\n\nThe government's ability to restore order appears increasingly fragile. Prime Minister has now cast doubt on holding presidential elections by August - suggesting the political instability could persist for months.",
+        "sources": [
+          {
+            "title": "Hundreds more displaced as gang violence escalates in Haiti’s capital",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Haiti’s PM casts doubt on presidential vote by August as gang clashes grow",
+            "url": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "South Africa Faces Presidential Impeachment Amid Farmgate Scandal",
-        "body": "South African President faces mounting political pressure as parliament moves to launch an impeachment probe over the controversial Farmgate scandal. Despite calls for his resignation, the president has firmly stated he will not step down.\n\nThe investigation threatens to destabilize the country's political landscape. Parliamentary leaders are preparing a formal inquiry into allegations of misconduct - a move that could potentially remove the president from office if substantiated.",
+        "headline": "US-China Tensions Simmer Ahead of Potential Trump-Xi Summit",
+        "body": "Diplomatic tensions between the United States and China remain complex as a potential summit between former President Trump and President Xi approaches. A former California mayor's admission of acting as a Chinese agent underscores the ongoing espionage concerns.\n\nThe meeting could set the tone for superpower relations in the coming years. Both sides are navigating a delicate geopolitical landscape marked by trade disputes, technological competition, and strategic mistrust.",
         "sources": [
           {
-            "title": "South African president says he will not step down after impeachment call",
-            "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "California ex-mayor admits acting as agent of China, US authorities say",
+            "url": "https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+            "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "South Africa plans presidential impeachment probe over ‘Farmgate’ scandal",
-            "url": "https://www.aljazeera.com/news/2026/5/11/south-africa-plans-presidential-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "EU Sanctions Israeli Settlers and Russian Officials Over Child Deportations",
-        "body": "The European Union has imposed sanctions targeting violent Israeli settlers in the West Bank and Russian officials involved in Ukrainian child deportations. This marks a significant diplomatic response to ongoing human rights concerns.\n\nThe sanctions come after months of diplomatic deadlock. EU officials aim to pressure both Israel and Russia by targeting individuals and networks responsible for controversial actions. The move signals a more assertive stance on international human rights violations.",
-        "sources": [
-          {
-            "title": "EU, UK sanction Russians over deportations of Ukrainian children",
-            "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "EU sanctions violent Israeli settlers after months of deadlock",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-            "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -232,9 +208,21 @@
     ],
     "ai": [
       {
-        "headline": "AI Interaction Models and Workforce Shifts Reshape Tech Landscape",
-        "body": "Mira Murati's Thinking Machines is pioneering new AI interaction models that could fundamentally change how humans and artificial intelligence communicate. The company's latest research suggests a radical approach to AI interfaces - moving beyond traditional input-output frameworks.\n\nSimultaneously, tech companies are experiencing significant organizational changes. GitLab announced a workforce reduction and abandoned its CREDIT values, signaling deeper transformations in how tech organizations structure themselves in an AI-driven environment.",
+        "headline": "AI Reshapes Corporate Tech Hiring and Interaction Models",
+        "body": "Major tech companies are rapidly restructuring around artificial intelligence capabilities. General Motors has laid off hundreds of IT workers, prioritizing talent with stronger AI skills - a move signaling the technology's growing strategic importance. Meanwhile, Thinking Machines is developing novel AI interaction models that could fundamentally change how machines understand and respond to human communication.\n\nThe shift goes beyond staffing. Companies are investing heavily in AI that can listen, learn, and engage more naturally. This represents more than a technological upgrade - it's a fundamental reimagining of human-machine collaboration.",
         "sources": [
+          {
+            "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+            "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+            "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "Here’s what Mira Murati’s AI company is up to",
             "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
@@ -246,35 +234,23 @@
             "url": "https://thinkingmachines.ai/blog/interaction-models/",
             "source": "Hacker News",
             "lean": null
-          },
-          {
-            "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-            "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Emerges as Cybersecurity and Exploit Development Wild Card",
-        "body": "Google claims to have stopped a zero-day hack developed using artificial intelligence - highlighting the emerging dual-use potential of AI in cybersecurity. The incident underscores growing concerns about AI's role in both defensive and offensive digital strategies.\n\nResearchers and tech companies are racing to understand and mitigate AI-powered security risks. The landscape is shifting rapidly, with AI becoming both a powerful tool and a potential threat vector in complex technological ecosystems.",
+        "headline": "OpenAI Drama Continues with Sutskever's Controversial Testimony",
+        "body": "The ongoing legal battle between OpenAI's key figures took another dramatic turn as Ilya Sutskever defended his role in Sam Altman's previous ouster. Sutskever claimed he acted to prevent organizational destruction - a statement that adds more complexity to the already turbulent narrative of the AI company.\n\nThe testimony comes as OpenAI continues to innovate, recently releasing Daybreak - their latest security-focused AI model. The internal conflicts appear far from resolved, with potential long-term implications for the organization's direction and leadership.",
         "sources": [
           {
-            "title": "Google stopped a zero-day hack that it says was developed with AI",
-            "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+            "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+            "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "OpenAI just released its answer to Claude Mythos",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Interfaze: A new model architecture built for high accuracy at scale",
-            "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Show HN: E2a – Open-source email gateway for AI agents",
-            "url": "https://github.com/Mnexa-AI/e2a",
-            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -282,8 +258,38 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Miners Struggle as Market Volatility Continues",
-        "body": "Bitcoin mining companies faced significant financial challenges in Q1 and Q2. Marathon Digital reported an 18% revenue drop, while CleanSpark recorded $224 million in losses from Bitcoin holdings. The sector continues to navigate a complex landscape of operational costs and market fluctuations.\n\nDespite these setbacks, mining firms remain committed to their core business. Marathon Digital described Bitcoin mining as its 'operational foundation', signaling continued confidence in the long-term potential of cryptocurrency infrastructure.",
+        "headline": "Bitcoin Surges Past $82,000 as Market Volatility Increases",
+        "body": "Bitcoin rocketed to new heights, briefly touching $82,000 amid growing market speculation. Traders remain cautious about the breakout, with funding rates turning positive and signaling potential further upside. The cryptocurrency's recent golden cross - a bullish technical indicator - suggests momentum may continue building.",
+        "sources": [
+          {
+            "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
+            "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin’s floor looks firmer at $80,000, but traders still don’t trust the breakout",
+            "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-floor-looks-firmer-at-usd80-000-but-traders-still-don-t-trust-the-breakout",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin funding rates turn positive: Is a BTC rally to $85K next?",
+            "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
+            "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Miners Struggle with Revenue Drops and Significant Losses",
+        "body": "Bitcoin mining companies are facing significant financial challenges. Marathon Digital reported an 18% revenue drop in Q1, while CleanSpark revealed Q2 losses of $224 million from its Bitcoin holdings. The sector continues to grapple with operational pressures and market volatility, forcing some firms to pivot or restructure their strategies.",
         "sources": [
           {
             "title": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’",
@@ -306,73 +312,19 @@
         ]
       },
       {
-        "headline": "Strategy Doubles Down on Bitcoin Despite Market Uncertainty",
-        "body": "Michael Saylor's Strategy resumed Bitcoin acquisitions, purchasing 535 Bitcoin for $43 million just days after hinting at potential sales. The move brings the company's total Bitcoin holdings to 818,869 BTC - a testament to Saylor's continued bullish stance.\n\nSaylor dismissed recent speculation about selling, characterizing discussions as 'a big nothing burger'. The company's strategic buying comes amid broader institutional interest, with Bitcoin funds capturing $700 million in recent investments.",
+        "headline": "Bitcoin Ordinals Platform Shuts Down Amid Market Shifts",
+        "body": "The Bitcoin Ordinals explorer Ord.io announced its closure, signaling potential challenges in the NFT-like ecosystem built on Bitcoin's blockchain. This shutdown comes as the market continues to evolve, with investors and technologists reassessing the value and utility of Bitcoin-based digital artifacts.",
         "sources": [
           {
-            "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
-            "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to 'Never Be a Net Seller'",
-            "url": "https://decrypt.co/367391/strategy-resumes-bitcoin-buys-as-saylor-shifts-focus-to-never-be-a-net-seller",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Strategy (MSTR) Buys $43 Million More Bitcoin After Saylor Defends Potential BTC Sales",
-            "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-43-million-more-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Strategy buys 535 bitcoin for $43 million days after signaling potential BTC sales",
-            "url": "https://www.coindesk.com/markets/2026/05/11/strategy-buys-535-bitcoin-for-usd43-million-days-after-signaling-potential-btc-sales",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "‘Back to work’: Michael Saylor’s Strategy buys 535 bitcoin for $43 million after brief pause as total holdings hit 818,869 BTC",
-            "url": "https://www.theblock.co/post/400702/back-to-work-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
+            "title": "Bitcoin Ordinals explorer Ord.io to shut down alongside trading app Zap",
+            "url": "https://www.theblock.co/post/400855/ord-io-shuts-down?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
           },
-          {
-            "title": "Bitcoin funds capture $700 million as institutions place their bets",
-            "url": "https://www.coindesk.com/daybook-us/2026/05/11/bitcoin-funds-capture-usd700-million-as-institutions-place-their-bets",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Price Hovers Near $82,000 as Market Signals Shift",
-        "body": "Bitcoin's price remains stable around $82,000, with a rare 'golden cross' technical pattern emerging for the first time since 2023. This potentially bullish signal comes amid geopolitical tensions and cautious market sentiment.\n\nAnalysts see mixed signals - institutional inflows continue, but concerns about whale selling and global market dynamics create uncertainty. Some price targets suggest Bitcoin could reach $85,000 in the near term.",
-        "sources": [
           {
             "title": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies",
             "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000",
             "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
-            "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "‘Crypto at the crossroads’: Analysts say Iran tensions and whale selling cloud outlook as bitcoin holds above $81K",
-            "url": "https://www.theblock.co/post/400723/crypto-at-the-crossroads-analysts-say-iran-tensions-and-whale-selling-cloud-crypto-outlook-as-bitcoin-holds-above-81k?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "BTC price target becomes $85K next: Five things to know in Bitcoin this week",
-            "url": "https://cointelegraph.com/markets/btc-price-target-becomes-85k-next-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -382,20 +334,20 @@
   "suggestions": {
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African",
+      "cuisine": "North African Fusion",
       "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
       "tip": "Use cast iron skillet for authentic even heat distribution and deeper flavor development"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence that realigns spine, releases tension, and resets muscular balance during long sedentary periods",
-      "tip": "Set a 45-minute timer and perform a 90-second standing twist and shoulder blade retraction sequence each time it sounds"
+      "description": "Perform a targeted 3-minute mobility sequence that realigns spine, releases neck tension, and resets muscle engagement after prolonged sitting",
+      "tip": "Use a foam roller vertically along spine while doing gentle twisting movements to decompress vertebrae"
     },
     "learn": {
-      "topic": "The Fermi Paradox and Rare Earth Hypothesis",
-      "description": "A complex scientific exploration of why, despite billions of potentially habitable planets, we haven't detected extraterrestrial intelligence",
-      "why": "It challenges fundamental assumptions about life, intelligence, and our cosmic significance while revealing the intricate probabilistic challenges of interstellar communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure and living spaces",
+      "why": "This emerging field offers revolutionary approaches to solving complex urban challenges by studying nature's 3.8 billion years of design solutions"
     }
   }
 }
