@@ -1,87 +1,57 @@
 {
-  "generatedAt": "2026-05-12T22:31:36.293Z",
+  "generatedAt": "2026-05-13T05:22:46.937Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Redistricting Battles Reshape Congressional Map Nationwide",
-        "body": "State legislatures and courts are redrawing congressional districts, with significant implications for the 2026 midterms. In South Carolina, Republicans blocked redistricting efforts, while Missouri's Supreme Court upheld a GOP-friendly map. The shifting landscape reflects ongoing legal and political tensions over electoral boundaries.\n\nThe redistricting process remains contentious, with both parties maneuvering to secure electoral advantages. Southern states are particularly active, rushing to implement new district configurations following recent Supreme Court rulings.",
+        "headline": "Nebraska Primaries Set Stage for High-Stakes Midterm Battles",
+        "body": "Nebraska Republicans chose their candidates in key races yesterday, with significant implications for November's elections. Jim Pillen secured the GOP nomination for governor, setting up a showdown with Democrat Carol Walz. In the Senate race, Pete Ricketts won the primary and will likely face a weakened Democratic challenger.\n\nThe state's primary results highlight ongoing Republican strength in the region. Ricketts - a former governor - and Pillen both received strong support, suggesting continued conservative momentum in Nebraska's political landscape.",
         "sources": [
           {
-            "title": "South Carolina Republicans decline to consider redistricting in blow to Trump",
-            "url": "https://thehill.com/homenews/campaign/5875039-south-carolina-senate-redistricting/",
+            "title": "Nebraska's Pillen wins Republican renomination in bid for second term as governor",
+            "url": "https://www.foxnews.com/politics/nebraskas-pillen-wins-republican-renomination-bid-second-term-governor",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Republican Ricketts wins GOP primary in Nebraska, advances to key Senate showdown",
+            "url": "https://www.foxnews.com/politics/republican-ricketts-wins-gop-primary-nebraska-advances-key-senate-showdown",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Pillen, Walz to square off in Nebraska governor race",
+            "url": "https://thehill.com/homenews/campaign/5868397-pillen-walz-nebraska-governor-election/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Missouri Supreme Court upholds GOP-friendly congressional map",
-            "url": "https://thehill.com/regulation/court-battles/5875009-missouri-supreme-court-redistricting/",
+            "title": "Ricketts, Osborn set for November Senate showdown, with Democrat expected to drop bid",
+            "url": "https://thehill.com/homenews/campaign/5868401-nebraska-senate-race-osborn-ricketts/",
             "source": "The Hill",
             "lean": "center"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Trump Administration Continues Reshuffling Federal Leadership Roles",
+        "body": "The Trump administration made several key leadership appointments yesterday, including a new acting ICE director from a private prison background. This move follows a pattern of installing temporary leadership across federal agencies - a strategy that has drawn both criticism and support.\n\nAdditionally, Trump appointed a fourth acting FEMA chief, underscoring the administration's preference for interim leadership positions. These appointments reflect ongoing efforts to reshape federal bureaucracies according to the administration's priorities.",
+        "sources": [
           {
-            "title": "Alabama governor schedules special primary election after Supreme Court lifts redistricting block",
-            "url": "https://thehill.com/homenews/campaign/5874812-alabama-special-primary-election/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Southern states rush to draw new Congressional districts after Supreme Court ruling",
-            "url": "https://www.npr.org/2026/05/12/nx-s1-5818688/southern-states-rush-to-draw-new-congressional-districts-after-supreme-court-ruling",
+            "title": "Former private prison official to serve as acting ICE chief",
+            "url": "https://www.npr.org/2026/05/12/g-s1-121766/ice-acting-director-venturella",
             "source": "NPR",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Prepares for High-Stakes China Visit amid AI Tensions",
-        "body": "President Trump is set to meet with Chinese President Xi Jinping in a critical diplomatic engagement focused on artificial intelligence competition. The visit comes amid escalating technological and economic rivalries between the two global powers.\n\nIntelligence and trade experts anticipate tense negotiations. The meeting could potentially reshape international tech policy and economic relationships, with significant implications for global AI development and strategic competition.",
-        "sources": [
+          },
           {
-            "title": "Trump, Xi to huddle in China as AI race heats up",
-            "url": "https://thehill.com/business/5874569-trump-xi-ai-talks/",
+            "title": "Trump picks new acting ICE director",
+            "url": "https://thehill.com/homenews/administration/5875195-trump-picks-new-acting-ice-director/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump heads to China for high-stakes visit: 5 things to watch",
-            "url": "https://thehill.com/homenews/administration/5873885-trump-xi-china-visit-five-things/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Wall Street Journal editorial board: Trump sending wrong signal to Iran",
-            "url": "https://thehill.com/homenews/media/5874592-trump-iran-us-response-ceasefire/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Federal Investigations and Legal Battles Dominate Political News",
-        "body": "The Justice Department has charged a shipping company related to the Baltimore Key Bridge collapse, signaling aggressive enforcement. Meanwhile, Texas Attorney General Ken Paxton filed a lawsuit against Netflix, alleging inappropriate data collection.\n\nPolitical tensions remain high, with ongoing investigations and legal challenges spanning multiple sectors. The complex legal landscape continues to reflect deep political divisions and aggressive regulatory approaches.",
-        "sources": [
-          {
-            "title": "Ken Paxton sues Netflix, accusing it of ‘spying on Texans, including children’",
-            "url": "https://thehill.com/homenews/media/5874878-paxton-sues-netflix-user-data/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Justice Dept. charges shipping company in deadly Key Bridge collapse",
-            "url": "https://www.washingtonpost.com/national-security/2026/05/12/baltimore-key-bridge-collapse-charges-dali/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Patel agrees to take alcohol test after heated exchange with Van Hollen",
-            "url": "https://thehill.com/homenews/senate/5874784-fbi-director-drinking-test/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump names acting FDA commissioner",
-            "url": "https://thehill.com/homenews/administration/5874771-trump-names-fda-leader/",
+            "title": "Trump installs his fourth acting FEMA chief after tapping full-time nominee",
+            "url": "https://thehill.com/policy/energy-environment/5875022-trump-fema-cameron-hamilton-robert-fenton/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -90,98 +60,68 @@
     ],
     "au-politics": [
       {
-        "headline": "Federal Budget Sparks Debate Over Tax Reforms and Cost of Living",
-        "body": "Treasurer Jim Chalmers defended the 2026 federal budget, highlighting a $250 tax benefit for working Australians. The budget includes controversial changes to capital gains tax and negative gearing - proposals that echo former opposition leader Bill Shorten's previous election platforms.\n\nReactions split sharply along political lines. Farmers and environmentalists labeled the budget savage, while Shorten claimed vindication for long-standing policy positions. The tax reforms aim to address bracket creep and provide modest relief for middle-income earners.",
+        "headline": "Budget Battle: Tax Changes Spark Political Crossfire",
+        "body": "The 2026 federal budget has ignited fierce political debate, with Opposition Leader Peter Dutton challenging Labor's tax reforms. Treasurer Jim Chalmers defended the government's approach, arguing economic necessity drives the changes. Two Liberal MPs were ejected from question time during heated exchanges about the budget's tax modifications.\n\nKey proposals include adjustments to capital gains tax and negative gearing, which the government claims will improve housing affordability. The Liberal opposition argues these changes will harm investment and punish middle-class Australians.",
         "sources": [
           {
-            "title": "Budget 2026 live updates: Bill Shorten says he’s vindicated by budget tax reforms ‘very like’ the ones he took to two elections",
+            "title": "Budget 2026 live updates: Taylor asks why Labor ‘lied to Australians’ on tax as Albanese says government could not ‘sit back’; two Liberal MPs booted from question time",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: Chalmers says $250 tax perk for working Australians could help future bracket creep",
-            "url": "https://www.abc.net.au/news/2026-05-13/federal-budget-2026-live-chalmers-albanese-may-13/106673062",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "A Zara dress, the Jim Reaper and a communist state: how Australia’s media interpreted the budget",
+            "url": "https://www.theguardian.com/australia-news/2026/may/13/australia-federal-budget-2026-in-the-papers-coverage-response",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Farmers, environmentalists label federal budget 'savage' and 'tragic'",
-            "url": "https://www.abc.net.au/news/2026-05-13/federal-budget-farmers-agriculture-pest-control/106671960",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "How Australians across generations feel about the budget",
-            "url": "https://www.abc.net.au/news/2026-05-13/australians-across-the-generation-federal-budget/106666810",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Will property tax changes make housing cheaper for first home buyers?",
-            "url": "https://www.abc.net.au/news/2026-05-13/will-cgt-and-negative-gearing-make-housing-cheaper/106665146",
+            "title": "Here's how the budget's tax changes will affect you",
+            "url": "https://www.abc.net.au/news/2026-05-13/how-budget-tax-changes-will-affect-you-cgt-negative-gearing/106674212",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Gold Coast Rejects Trump Tower Amid Toxic Development Concerns",
-        "body": "Plans for a 91-storey Trump Tower on the Gold Coast have been scrapped after significant local pushback. Developers cited concerns about the project's perceived toxicity and potential community resistance.\n\nThe decision reflects ongoing tensions around high-profile international property developments in Australia. Local authorities appeared keen to distance themselves from controversial international branding, prioritizing community sentiment over potential economic investment.",
+        "headline": "Minority Communities Voice Concerns After Political Shifts",
+        "body": "Tensions are rising in regional Australia as minority communities express growing unease about recent political developments. A report highlights fears following a One Nation electoral victory, with some migrant groups feeling increasingly marginalized.\n\nThe political landscape continues to show complex divisions, with community responses reflecting deeper anxieties about representation and social cohesion. Local perspectives reveal nuanced concerns about integration, political representation, and cultural identity.",
         "sources": [
           {
-            "title": "Breaking: 'Toxic': Plan to build 91-storey Trump Tower on Gold Coast scrapped",
-            "url": "https://www.abc.net.au/news/2026-05-13/trump-tower-gold-coast-plans-scrapped/106673096",
+            "title": "'We don’t want these people': Minorities fearful after One Nation victory",
+            "url": "https://www.abc.net.au/news/2026-05-13/farrer-migrant-community-one-nation-concern/106666690",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Trump is in the mood to do a deal with China",
-            "url": "https://www.spectator.com.au/2026/05/trump-is-in-the-mood-to-do-a-deal-with-china/",
+            "title": "A student perspective on the ‘lost boys’ in higher education",
+            "url": "https://www.spectator.com.au/2026/05/a-student-perspective-on-the-lost-boys-in-higher-education/",
             "source": "Spectator AU",
             "lean": "right"
-          },
-          {
-            "title": "America’s Trump card in China",
-            "url": "https://www.spectator.com.au/2026/05/americas-trump-card-in-china/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Northern Territory Sounds Alarm Over Rising Car Theft Crisis",
-        "body": "A Northern Territory mayor warned of potential catastrophic consequences from a dramatic spike in car thefts. Local law enforcement reported mounting pressure from repeated vehicle crimes in regional areas.\n\nPolice are struggling to contain the escalating issue, with community leaders demanding immediate intervention. The crisis highlights broader challenges in regional crime prevention and law enforcement resources.",
-        "sources": [
-          {
-            "title": "'Something catastrophic is going to happen': NT mayor on car thefts spike",
-            "url": "https://www.abc.net.au/news/2026-05-13/katherine-mayor-chief-minister-crime-roundtable-spike-car-theft/106668940",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Police attend 160 family violence call-outs in Melbourne's south in one week",
-            "url": "https://www.abc.net.au/news/2026-05-13/police-called-160-times-in-one-week-family-violence-dandenong/106673108",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump Heads to Beijing Amid Trade and Tariff Tensions",
-        "body": "President Trump is set to meet with Chinese leader Xi Jinping in a high-stakes summit that could reshape superpower relations. The visit comes as a US court paused a decision blocking Trump's proposed 10 percent global tariff - a move signaling potential economic confrontation.\n\nTrump's diplomatic approach appears nuanced. He has downplayed differences with Iran and backed Pakistan as a potential mediator, suggesting a complex geopolitical strategy ahead of the Beijing talks. The summit could set the tone for US-China relations in the coming years.",
+        "headline": "Trump Heads to China Amid Escalating Iran Tensions",
+        "body": "President Trump travels to Beijing for high-stakes talks with Xi Jinping as US-Iran conflict looms large. The visit comes amid rising geopolitical tensions and Trump's assertive foreign policy stance.\n\nTrump has downplayed potential differences with China, claiming he doesn't need Xi's help on Iran. The summit could reshape superpower relations for years to come - with global implications for trade, military strategy, and diplomatic engagement.",
         "sources": [
           {
-            "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
-            "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
+            "title": "Iran war live: Trump travels to China as conflict with Tehran looms large",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
-            "url": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
+            "title": "A decade on, Trump returns to a stronger and more assertive China",
+            "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Trump says he doesn’t need Xi’s help on Iran war as he heads to China",
+            "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -190,58 +130,16 @@
             "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
-          {
-            "title": "Can China counter US sanctions with its trade power?",
-            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "US Inflation Surges as Iran War Drives Energy Costs Higher",
-        "body": "US inflation jumped to 3.8 percent, driven primarily by escalating energy costs related to the ongoing conflict with Iran. The economic impact is becoming increasingly visible, with rising prices putting pressure on consumers and policymakers.\n\nThe war's ripple effects extend beyond energy markets. The US is facing mounting economic challenges, including potential trade disruptions and increased military spending. The Federal Reserve's recent confirmation of Kevin Warsh to its board signals potential monetary policy adjustments in response to these economic pressures.",
+        "headline": "Putin Celebrates New Missile as Russia-Ukraine War Continues",
+        "body": "Russian President Vladimir Putin hailed a test launch of what he claims is the world's most powerful missile - a provocative move amid ongoing conflict with Ukraine. The missile demonstration comes as Ukraine continues strategic strikes against Russian gas facilities.\n\nThe conflict remains intense, with Moscow recently launching attacks that killed six civilians. Ukraine responded by targeting distant Russian infrastructure, signaling continued military resilience and strategic counterstrikes.",
         "sources": [
           {
-            "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-            "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
-            "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
-            "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Conflict and Displacement Reshape Global Humanitarian Landscape",
-        "body": "Humanitarian crises are intensifying worldwide, with multiple regions experiencing significant displacement and conflict. The Red Cross reported that people displaced by conflict in Colombia doubled last year, highlighting growing regional instabilities.\n\nIn the Middle East, tensions remain high. Lebanon reported 13 killed in Israeli strikes, including two paramedics. Meanwhile, peace efforts in Sudan continue to falter, underscoring the complex challenges facing international mediation efforts.",
-        "sources": [
-          {
-            "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-            "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Why have peace efforts failed to end conflict in Sudan?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Red Cross says people displaced by conflict in Colombia doubled last year",
-            "url": "https://www.aljazeera.com/news/2026/5/12/red-cross-says-people-displaced-by-conflict-in-colombia-doubled-last-year?traffic_source=rss",
+            "title": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
+            "url": "https://www.aljazeera.com/news/2026/5/13/putin-hails-russias-test-launch-of-most-powerful-missile-in-the-world?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -252,49 +150,37 @@
             "lean": null
           }
         ]
+      },
+      {
+        "headline": "Argentina Erupts in Protests Over University Defunding",
+        "body": "Widespread protests have broken out across Argentina against President Milei's controversial decision to defund public universities. The demonstrations reflect growing public anger at the government's austerity measures.\n\nMilei's aggressive economic reforms have sparked significant social pushback, with students and academics challenging what they see as an attack on public education. The protests highlight deepening political divisions in the country.",
+        "sources": [
+          {
+            "title": "Argentines protest against Milei’s defunding of public universities",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
       }
     ],
     "ai": [
       {
-        "headline": "Google Launches Googlebooks and AI-Powered Android 17",
-        "body": "Google unveiled its first Android-powered laptops - Googlebooks - at its annual Android Show. The devices mark a significant expansion into the laptop market, challenging established players like Apple and Microsoft. Alongside the hardware, Google announced Android 17 with deep AI integration, promising smarter interactions and enhanced user experiences across devices. Gemini, Google's AI platform, will play a central role in powering new phone control and personalization features.",
+        "headline": "OpenAI Trial Reveals Musk's Bizarre Startup Succession Plan",
+        "body": "Sam Altman testified that Elon Musk once considered passing OpenAI to his children - a proposal he described as hair-raising. The revelation emerged during the ongoing legal battle between Musk and OpenAI, which has exposed deep personal tensions behind the AI company's founding.\n\nThe trial has become a public dissection of the startup's early dynamics. Altman portrayed Musk's leadership as erratic and damaging, suggesting the entrepreneur's unpredictable management style threatened the organization's core mission.",
         "sources": [
           {
-            "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-            "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-            "source": "TechCrunch",
+            "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+            "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+            "source": "Wired",
             "lean": null
           },
           {
-            "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
-            "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Android is getting a big AI overhaul in 2026",
-            "url": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "The 9 biggest new features in Android 17",
-            "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+            "title": "Sam Altman was winning on the stand, but it might not be enough",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
             "source": "The Verge",
             "lean": null
           },
-          {
-            "title": "Gemini’s latest updates are all about controlling your phone",
-            "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "OpenAI Drama Continues with Musk-Altman Testimony Revelations",
-        "body": "Tensions between Sam Altman and Elon Musk escalated during recent testimony, with Altman claiming Musk's strategic interference damaged OpenAI's mission. Musk reportedly considered handing the organization to his children - a move that underscores the personal and strategic conflicts at the heart of the AI startup. The testimony provides a rare glimpse into the internal dynamics of one of tech's most watched organizations.",
-        "sources": [
           {
             "title": "Musk mulled handing OpenAI to his children, Altman testifies",
             "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
@@ -310,13 +196,31 @@
         ]
       },
       {
-        "headline": "Meta Faces Employee Protest Over Workplace Tracking Tech",
-        "body": "Meta employees are organizing protests against new mouse tracking technologies implemented in US offices. The action highlights growing worker resistance to invasive workplace monitoring tools. In a related development, the company has also drawn criticism for its Threads platform, where users cannot block Meta's AI account - raising further questions about user autonomy and corporate control.",
+        "headline": "Medicare Overhaul Signals Major AI Integration in Healthcare",
+        "body": "A radical new Medicare payment model is quietly reshaping healthcare technology infrastructure. The system appears purpose-built to leverage artificial intelligence, potentially transforming how medical services are evaluated and compensated.\n\nWhile most technology sectors remain unaware, this structural change could accelerate AI adoption in medical administration and patient care. The model represents a significant policy shift that may have far-reaching implications for healthcare delivery.",
         "sources": [
           {
-            "title": "Meta employees protest against mouse tracking tech at US offices",
-            "url": "https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/",
-            "source": "Hacker News",
+            "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+            "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The newest AI boom pitch: Host a mini data center at your home",
+            "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Ethics Spotlight: Teen Death Raises ChatGPT Liability Questions",
+        "body": "A lawsuit alleging ChatGPT's role in a teenager's fatal drug interaction has thrust AI safety into the legal spotlight. The case centers on whether AI platforms can be held responsible for potentially dangerous recommendations.\n\nThe tragic incident underscores growing concerns about AI systems' potential to provide harmful advice. As AI becomes more integrated into daily life, questions of algorithmic accountability and ethical design are moving from theoretical debates to urgent legal challenges.",
+        "sources": [
+          {
+            "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+            "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
@@ -330,8 +234,44 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Miners Dump Treasury as Market Shifts",
-        "body": "Major Bitcoin miners are liquidating substantial portions of their digital assets, signaling a strategic pivot. Marathon Digital (MARA) sold $1.5 billion in Bitcoin, while crypto wallet firm Exodus dumped over 1,000 BTC - both moves aimed at funding new business initiatives and managing financial pressures.\n\nThe sell-offs reflect a broader industry trend of miners repositioning capital. MARA specifically appears to be redirecting funds toward artificial intelligence infrastructure, highlighting the evolving landscape of crypto-adjacent technologies.",
+        "headline": "Bitcoin Surges Past $81,000 as Macro Tensions Fuel Bullish Sentiment",
+        "body": "Bitcoin rocketed above $81,000 following a hot Consumer Price Index print, signaling continued market volatility. Prominent crypto investor Arthur Hayes predicted the cryptocurrency could hit $126,000 this year - driven by geopolitical tensions and massive AI infrastructure spending.\n\nMarket dynamics suggest a consolidation phase, with Bitcoin's market dominance rebounding above 58%. Investors are watching macroeconomic indicators closely, interpreting recent price movements as potential signs of broader economic uncertainty and Bitcoin's emerging role as a hedge.",
+        "sources": [
+          {
+            "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
+            "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+            "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss",
+            "url": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+            "source": "Decrypt",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Mainstream Finance Embraces Bitcoin with New Trading Platforms",
+        "body": "Charles Schwab has launched spot Bitcoin trading for select retail clients, marking another significant step in cryptocurrency's institutional adoption. The move signals growing mainstream financial acceptance of digital assets.\n\nSeparately, Square has expanded its Bitcoin ecosystem - crossing 1 million merchants enabled for Bitcoin transactions. These developments underscore a steady integration of cryptocurrency into traditional financial infrastructure, potentially accelerating broader market acceptance.",
+        "sources": [
+          {
+            "title": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow",
+            "url": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Miners Adjust Strategy Amid Market Volatility",
+        "body": "Marathon Digital (MARA) reported a substantial $1.26 billion Q1 loss and sold $1.5 billion in Bitcoin holdings, reflecting the challenging landscape for cryptocurrency mining operations. The wallet firm Exodus also sold $87 million in Bitcoin as part of its expanding payments strategy.\n\nThese strategic moves highlight the ongoing operational challenges and adaptive approaches within the Bitcoin mining sector, as companies navigate market fluctuations and seek sustainable business models.",
         "sources": [
           {
             "title": "Bitcoin Wallet Firm Exodus Expands Payments Push, Sells $87 Million in BTC",
@@ -344,84 +284,6 @@
             "url": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
             "source": "Decrypt",
             "lean": null
-          },
-          {
-            "title": "MARA Dumps $1.5B in Bitcoin as Miner Trades Treasury Hoard for AI Power Bet",
-            "url": "https://bitcoinmagazine.com/news/mara-dumps-1-5b-in-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M",
-            "url": "https://cointelegraph.com/news/exodus-posts-32m-loss-in-q1-sells-63-of-its-bitcoin-holdings-to-fund-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Exodus dumps 1,000 bitcoin: Why the crypto wallet is cashing out to fund a payments empire",
-            "url": "https://www.coindesk.com/business/2026/05/12/exodus-dumps-1-000-bitcoin-why-the-crypto-wallet-is-cashing-out-to-fund-a-payments-empire",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Dominance Rebounds - Market Consolidation Signals Strength",
-        "body": "Bitcoin's market dominance has climbed back above 58%, suggesting a potential consolidation phase in the cryptocurrency ecosystem. Analysts see this as a positive indicator of Bitcoin's resilience amid broader market volatility.\n\nThe rebound comes as Bitcoin hovers around $80,800, with technical indicators showing potential bullish momentum. Some market experts, including Arthur Hayes, predict Bitcoin could surge past $90,000 in the near term.",
-        "sources": [
-          {
-            "title": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase",
-            "url": "https://www.theblock.co/post/400801/bitcoin-dominance-rebounds-above-58-crypto-market-consolidation-phase?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin’s bull-bear cycle indicator turns green for first time since March 2023",
-            "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
-            "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
-            "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Four signs that Bitcoin has recovered to ‘full’ bullish momentum",
-            "url": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin will 'explode' past $90,000 and hit $126,000, Arthur Hayes says",
-            "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-will-explode-past-usd90-000-on-way-back-to-usd126-000-arthur-hayes-says",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Regulatory Landscape Shifts with Bitcoin-Friendly Fed Appointment",
-        "body": "The U.S. Senate confirmed Kevin Warsh to the Federal Reserve Board, a move seen as potentially favorable for Bitcoin regulation. Warsh is considered sympathetic to cryptocurrency integration into traditional financial systems.\n\nLegal developments continue to shape Bitcoin's regulatory environment. A current case involving Bitcoin Fog is testing the Department of Justice's stance on global cryptocurrency services - potentially setting important precedents for international crypto governance.",
-        "sources": [
-          {
-            "title": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship",
-            "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-kevin-warsh",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Fog appeal tests DOJ theory that global crypto services fall under US law",
-            "url": "https://www.theblock.co/post/400983/bitcoin-fog-appeal-tests-doj-theory-global-crypto-services-d-c-law?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
           }
         ]
       }
@@ -429,21 +291,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Miso Butter Corn Risotto",
-      "cuisine": "Japanese-Italian Fusion",
-      "description": "Creamy risotto with sweet corn and umami-rich miso butter, blending Japanese and Italian comfort food traditions",
-      "tip": "Toast the rice in butter before adding liquid to enhance nutty flavor and prevent mushiness"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension accumulated from prolonged sitting",
-      "tip": "Use a doorframe to gently traction your spine by holding the sides and slowly letting your body weight create a gentle stretch"
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
     },
     "learn": {
-      "topic": "The Kardashev Scale of Civilizational Energy Consumption",
-      "description": "A theoretical framework for classifying technological civilizations based on their ability to harness and use energy across cosmic scales",
-      "why": "It provides a mind-expanding perspective on technological potential and humanity's place in the universe, challenging our current understanding of progress and technological development"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
     }
   }
 }
