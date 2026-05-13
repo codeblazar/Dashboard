@@ -1,242 +1,212 @@
 {
-  "generatedAt": "2026-05-13T10:56:17.609Z",
+  "generatedAt": "2026-05-13T22:31:29.423Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Heads to Beijing Amid High-Stakes Diplomatic Tensions",
-        "body": "President Trump arrives in China for critical talks with Xi Jinping, facing complex challenges around trade, Taiwan, and geopolitical strategy. Democratic and Republican lawmakers have pressed Trump to take a firm stance on arms sales to Taiwan and prisoner releases before the summit.\n\nThe diplomatic mission comes with lowered expectations. Trump seeks incremental progress on long-standing disputes while navigating a delicate international landscape. Key issues include potential trade concessions, regional security concerns, and diplomatic pressure regarding political prisoners like Jimmy Lai.",
+        "headline": "Trump Lands in Beijing as US-China Tensions Simmer",
+        "body": "President Trump arrived in China today for high-stakes diplomatic talks, receiving a carefully choreographed welcome. The visit comes amid complex geopolitical tensions, with bipartisan senators warning against unilateral policy changes regarding Taiwan.\n\nWhile the red-carpet reception suggests diplomatic niceties, past interactions reveal the fragile nature of US-China relations. Trump's economic vision continues to take shape, symbolized by the Senate's confirmation of Kevin Warsh as Federal Reserve chair earlier in the day.",
         "sources": [
           {
-            "title": "Trump faces pressure to win China’s release of Jimmy Lai, other political prisoners",
-            "url": "https://thehill.com/homenews/administration/5874971-trump-press-xi-release-prisoners/",
+            "title": "Bipartisan senators warn against ‘unilateral changes’ to Taiwan policy",
+            "url": "https://thehill.com/homenews/senate/5876848-senators-advise-against-trump-taiwan-policy-changes/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Top Democrats press Trump to approve arms sale to Taiwan ahead of Xi meeting",
-            "url": "https://thehill.com/homenews/5875048-top-democrats-press-trump-to-approve-arms-sale-to-taiwan-ahead-of-xi-meeting/",
+            "title": "Live updates: Warsh confirmed as Fed chair to replace Powell; Trump lands in Beijing",
+            "url": "https://thehill.com/homenews/administration/5874428-live-updates-trump-china/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump heads to Beijing for high-stakes Xi talks as Taiwan tensions, trade disputes test US strength",
-            "url": "https://www.foxnews.com/politics/trump-heads-beijing-high-stakes-xi-talks-taiwan-tensions-trade-disputes-test-u-s-strength",
+            "title": "Trump gets red-carpet welcome in China, but past Beijing trip shows pageantry only goes so far",
+            "url": "https://www.foxnews.com/politics/trump-gets-red-carpet-welcome-china-past-beijing-trip-shows-pageantry-only-goes-so-far",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Trump arrives in China with lowered ambitions, hoping for deals",
-            "url": "https://www.washingtonpost.com/politics/2026/05/13/trump-arrives-china-meet-with-xi-jinping-taiwan-trade-iran/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Kevin Warsh confirmed as Federal Reserve chair",
+            "url": "https://thehill.com/homenews/senate/5876684-kevin-warsh-confirmed-federal-reserve/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Inside the ‘digital lockdown’ for US officials as Trump arrives in China",
-            "url": "https://www.foxnews.com/politics/inside-digital-lockdown-us-officials-trump-arrives-china",
+            "title": "Senate confirms Kevin Warsh as Fed chair as Trump's economic vision comes into focus",
+            "url": "https://www.foxnews.com/politics/senate-confirms-kevin-warsh-fed-chair-trumps-economic-vision-comes-focus",
             "source": "Fox News",
             "lean": "right"
           }
         ]
       },
       {
-        "headline": "Nebraska Primaries Set Stage for Competitive Midterm Races",
-        "body": "Nebraska's primary elections have produced several high-stakes matchups for the November midterms. Republican Jim Ricketts won his party's Senate nomination and will face Democrat Chris Osborn in a potentially competitive race.\n\nIn the gubernatorial contest, incumbent Jim Pillen secured the Republican nomination and will challenge Democrat Tim Walz. These races could provide critical insights into voter sentiment and potential shifts in the state's political landscape.",
+        "headline": "White House Threatens States Over Medicaid Fraud Crackdown",
+        "body": "The Biden administration is escalating pressure on states by threatening to withhold federal Medicaid funding if they do not address fraud effectively. Senator J.D. Vance is leading the charge, pushing for stricter oversight and potential financial penalties.\n\nThe move comes as federal agencies like ICE have highlighted systemic fraud concerns, including issues with foreign student records and so-called phantom employees. States now face increased scrutiny and potential financial consequences for inadequate fraud prevention.",
         "sources": [
           {
-            "title": "Powell pulls ahead in tight race for Nebraska's 2nd District",
-            "url": "https://www.npr.org/2026/05/13/nx-s1-5819377/powell-pulls-ahead-in-tight-race-for-nebraskas-2nd-district",
+            "title": "Vance turns up heat on states with federal cash threat over Medicaid fraud crackdown",
+            "url": "https://www.foxnews.com/politics/vance-turns-up-heat-states-federal-cash-threat-over-medicaid-fraud-crackdown",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "White House threatens to withhold Medicaid money from states over fraud",
+            "url": "https://thehill.com/homenews/administration/5876707-states-face-medicaid-fraud-crackdown/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "ICE drops ‘uncontrolled’ fraud bombshell involving thousands of foreign students, ‘phantom employees’",
+            "url": "https://www.foxnews.com/politics/ice-drops-uncontrolled-fraud-bombshell-involving-thousands-foreign-students-phantom-employees",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Redistricting Battles Continue Across Multiple States",
+        "body": "Redistricting remains a contentious issue nationwide, with several states grappling with map redraws and political tensions. South Carolina's governor is reportedly set to call a special session on redistricting, while Mississippi has canceled its planned voting session.\n\nTennessee's new redistricting map has drawn particular attention, with NPR examining its ground-level implications. The ongoing redistricting efforts reflect broader national debates about representation and political boundaries.",
+        "sources": [
+          {
+            "title": "McMaster set to call South Carolina special session on redistricting: Reports",
+            "url": "https://thehill.com/homenews/campaign/5876889-mcmaster-south-carolina-special-session-redistricting/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "What Tennessee's new redistricting map looks like from the ground",
+            "url": "https://www.npr.org/2026/05/13/nx-s1-5818509/what-tennessees-new-redistricting-map-looks-like-from-the-ground",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Powell, Harding to face off in Nebraska House race to replace Bacon",
-            "url": "https://thehill.com/homenews/campaign/5868418-powell-harding-nebraska-house-election/",
+            "title": "Mississippi governor cancels redistricting special session",
+            "url": "https://thehill.com/homenews/state-watch/5876582-mississippi-governor-cancels-voting-session/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Nebraska secretary of state loses GOP primary",
-            "url": "https://thehill.com/homenews/campaign/5875395-evnen-upset-nebraska-secretary-of-state-race/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Nebraska's Pillen wins Republican renomination in bid for second term as governor",
-            "url": "https://www.foxnews.com/politics/nebraskas-pillen-wins-republican-renomination-bid-second-term-governor",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Republican Ricketts wins GOP primary in Nebraska, advances to key Senate showdown",
-            "url": "https://www.foxnews.com/politics/republican-ricketts-wins-gop-primary-nebraska-advances-key-senate-showdown",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Pillen, Walz to square off in Nebraska governor race",
-            "url": "https://thehill.com/homenews/campaign/5868397-pillen-walz-nebraska-governor-election/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Ricketts, Osborn set for November Senate showdown, with Democrat expected to drop bid",
-            "url": "https://thehill.com/homenews/campaign/5868401-nebraska-senate-race-osborn-ricketts/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Pushes Gas Tax Holiday Amid Congressional Resistance",
-        "body": "President Trump is advocating for a gas tax holiday, but faces significant hurdles in Congress. Republican and Democratic lawmakers have expressed skepticism about the proposal's economic impact and feasibility.\n\nSimultaneously, the administration is navigating other legislative challenges, including pressure to pass a housing bill and ongoing debates about federal spending. The gas tax proposal represents another test of Trump's ability to build congressional consensus.",
-        "sources": [
-          {
-            "title": "Trump’s gas tax holiday proposal has uphill climb in Congress",
-            "url": "https://thehill.com/homenews/house/5875043-trump-gas-tax-holiday-congress/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Senate GOP balks at $1B in security for White House ballroom, despite Secret Service pitch",
-            "url": "https://thehill.com/homenews/senate/5875014-trump-ballroom-security-funding/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump, Senate ramp up pressure on the House to pass housing bill",
-            "url": "https://thehill.com/homenews/house/5875018-21st-century-road-housing-act-house-republicans/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "The gerrymandering wars are here to stay",
+            "url": "https://www.washingtonpost.com/politics/2026/05/13/gerrymandering-wars-are-here-stay/",
+            "source": "Washington Post",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Budget Sparks Debate: NDIS Changes and First Nations Funding",
-        "body": "The 2026 federal budget has ignited controversy over proposed National Disability Insurance Scheme (NDIS) reforms and Indigenous funding. New rules would require Australians to exhaust all appropriate treatment options before accessing NDIS support - a move critics argue could limit critical care.\n\nFirst Nations leaders have questioned the budget's commitment to Indigenous communities. Some view the current allocation as a missed opportunity for meaningful investment in Aboriginal and Torres Strait Islander programs. The government faces mounting pressure to demonstrate a more comprehensive approach to Indigenous policy and economic support.",
+        "headline": "Coalition Targets Welfare Access for Non-Citizens",
+        "body": "Opposition leader Angus Taylor has proposed blocking noncitizens from accessing 17 government benefits, including paid parental leave. The policy targets welfare and social support programs, signaling a sharp pivot in immigration and social policy debate.\n\nThe proposal comes amid ongoing discussions about immigration, housing, and social support systems. Taylor argues the changes would protect resources for Australian citizens, while critics suggest the move could unfairly disadvantage migrant communities.",
         "sources": [
           {
-            "title": "Australians will need to exhaust ‘all appropriate’ treatment options to access NDIS under proposed rules",
-            "url": "https://www.theguardian.com/australia-news/2026/may/13/australians-may-only-be-able-to-access-ndis-if-all-appropriate-treatment-options-exhausted-documents-reveal",
+            "title": "Australia politics live: Taylor unveils policy to block noncitizens from access to 17 benefits including paid parental leave",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Is the 2026 budget a missed opportunity for First Nations people?",
-            "url": "https://www.abc.net.au/news/2026-05-13/whats-in-the-2026-federal-budget-for-first-nations-people/106675724",
+            "title": "Live: Coalition wants to bar non-citizens from accessing NDIS, welfare payments",
+            "url": "https://www.abc.net.au/news/2026-05-14/federal-politics-live-blog-budget-reaction/106676514",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Why was the NDIS so severely cut? And your other 2026 federal budget questions answered – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/may/13/australia-budget-2026-questions-answered-tax-changes-capital-gains-cgt-negative-gearing-explained",
+            "title": "Morning Mail: Coalition ties immigration intake to housing build, Trump in China, farewell to rent-vesting?",
+            "url": "https://www.theguardian.com/australia-news/2026/may/14/morning-mail-thursday-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Australia Expands Migration, Military Presence in Global Moves",
-        "body": "The Labor government has significantly upgraded migration projections, expecting 55,000 more migrants before 2030. This strategic shift signals continued openness to international workforce development and population growth.\n\nSimultaneously, Australia is expanding its international military engagement. A military aircraft will join efforts to reopen the Strait of Hormuz, with Defence Minister Richard Marles exploring additional potential contributions. These moves reflect Australia's increasingly proactive stance in global geopolitical and economic landscapes.",
+        "headline": "South Australia Moves to Lift Decade-Long Fracking Ban",
+        "body": "The South Australian government plans to remove a 10-year fracking prohibition in the state's South East region, potentially opening significant new areas for gas exploration. The decision signals a major shift in energy and environmental policy.\n\nEnvironmental groups have already signaled strong opposition, warning about potential ecological impacts. The move could provide economic opportunities in regional areas but risks sparking renewed debates about sustainable resource extraction.",
         "sources": [
           {
-            "title": "Labor upgrades migration numbers by 55,000 in federal budget",
-            "url": "https://www.abc.net.au/news/2026-05-13/one-million-more-migrants-expected-before-2030/106674228",
+            "title": "SA government plans to remove 10-year fracking ban in state's South East",
+            "url": "https://www.abc.net.au/news/2026-05-14/sa-set-to-remove-ban-on-fracking-in-the-south-east/106677484",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Australian military plane to join efforts to reopen strait of Hormuz as Marles considers ‘how else we can contribute’",
-            "url": "https://www.theguardian.com/australia-news/2026/may/13/australia-strait-hormuz-wedgetail-iran-war-oil-crisis",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Albopoly",
+            "url": "https://www.spectator.com.au/2026/05/albopoly/",
+            "source": "Spectator AU",
+            "lean": "right"
           },
           {
-            "title": "Afternoon Update: Coalition vows to repeal CGT reforms; Trump’s Gold Coast tower scrapped; and do crickets feel pain?",
-            "url": "https://www.theguardian.com/australia-news/2026/may/13/coalition-vows-to-repeal-cgt-reforms-trumps-gold-coast-tower-scrapped-and-do-crickets-feel-pain",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Bungling bureaucrats",
+            "url": "https://www.spectator.com.au/2026/05/bungling-bureaucrats/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump and Xi Meet as US-China Tensions Simmer",
-        "body": "US President Donald Trump and Chinese President Xi Jinping are set to hold high-stakes talks in Beijing amid escalating geopolitical tensions. The summit will focus on critical flashpoints - including Taiwan, trade tariffs, and strategic competition in the Pacific.\n\nExperts anticipate a tense negotiation, with both leaders seeking strategic advantages. China is expected to press Trump on Taiwan policy, while the US will likely challenge China's economic practices and regional assertiveness. The outcome could significantly impact global diplomatic and economic dynamics.",
+        "headline": "Israel-Lebanon Conflict Escalates with Deadly Strikes",
+        "body": "Israeli airstrikes in southern Lebanon killed 22 people, according to the health ministry - the latest surge in regional tensions. The attack claimed the lives of two Lebanese paramedics, whose funeral was held amid growing outrage. These strikes mark a dangerous escalation in the ongoing conflict, raising fears of broader regional instability.",
         "sources": [
           {
-            "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
-            "url": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss",
+            "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-            "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US-China head-to-head: Explained in 11 maps and charts",
-            "url": "https://www.aljazeera.com/news/2026/5/13/us-china-head-to-head-explained-in-11-maps-and-charts?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+            "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine Conflict Nears Potential Turning Point",
-        "body": "Russia's war in Ukraine may be approaching a potential ceasefire, with diplomatic signals suggesting possible de-escalation. Meanwhile, Russian President Vladimir Putin highlighted a new missile test - claiming it as the world's most powerful weapon.\n\nUkrainian President Zelenskyy faces internal challenges, with his former chief of staff appearing in court on money-laundering charges. The complex political landscape suggests that any peace negotiations will likely be fraught with complexity and mutual suspicion.",
+        "headline": "Trump Heads to China for High-Stakes Summit with Xi",
+        "body": "President Trump arrives in Beijing for critical talks with President Xi Jinping, with experts noting his desperation for a diplomatic win. Trade, Iran, and Taiwan top the agenda in a meeting fraught with geopolitical complexity. The summit could hinge on potential US concessions - particularly regarding China's role in mediating tensions with Iran.",
         "sources": [
           {
-            "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
-            "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Zelenskyy’s ex-chief of staff appears in court in money-laundering case",
-            "url": "https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case?traffic_source=rss",
+            "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
+            "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
-            "url": "https://www.aljazeera.com/news/2026/5/13/putin-hails-russias-test-launch-of-most-powerful-missile-in-the-world?traffic_source=rss",
+            "title": "Five things you may not know about US-China ties",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/five-things-you-may-not-know-about-us-china-ties?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump-Xi summit: China’s help in Iran may require US concessions",
+            "url": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+            "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Middle East Tensions Rise with UN Hormuz Resolution",
-        "body": "The United Nations has passed a resolution calling for freedom of navigation in the strategically crucial Strait of Hormuz - gaining support from 112 nations. The move comes amid rising regional tensions and potential maritime confrontations.\n\nIsrael conducted drone strikes in Lebanon, killing at least eight people, while Iran experiences a series of concerning seismic tremors near Tehran. These developments underscore the volatile geopolitical environment in the Middle East.",
+        "headline": "Russia Resumes Deadly Drone Attacks on Ukraine",
+        "body": "Russia launched a massive drone barrage against Ukraine, killing six people after the expiration of a recent ceasefire. The assault signals a renewed intensity in the ongoing conflict. Ukrainian defenders face continued pressure from Russian military operations that show no signs of abating.",
         "sources": [
           {
-            "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
-            "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
+            "title": "Russia unleashes massive drone barrage on Ukraine killing six",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Series of tremors near Tehran renews concerns over major quake risk",
-            "url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "UN resolution calls for freedom of navigation in the Strait of Hormuz",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
-            "url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+            "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -244,48 +214,72 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI Drama: Musk Wanted to Pass Company to His Kids",
-        "body": "The ongoing legal battle between Elon Musk and Sam Altman took a bizarre turn in court. Altman testified that Musk had a hair-raising idea of potentially transferring OpenAI to his children - a revelation that adds another layer of complexity to the high-stakes tech lawsuit.\n\nThe testimony exposes the personal dynamics behind OpenAI's tumultuous leadership, highlighting the increasingly personal nature of AI's top-tier corporate conflicts. Musk's alleged family-focused succession plan underscores the growing sense that AI companies are becoming more than just tech ventures - they're viewed as generational assets with profound potential.",
+        "headline": "AI Transforms Workplace Tools as Tech Giants Expand Capabilities",
+        "body": "Microsoft and Notion are rapidly integrating AI into productivity platforms, signaling a major shift in workplace technology. Microsoft's Edge Copilot can now pull information across browser tabs - a feature that promises to streamline research and multitasking for users. Meanwhile, Notion has transformed its workspace into a hub for AI agents, allowing more complex and automated workflow management.\n\nThe moves reflect an ongoing race among tech companies to embed AI deeply into everyday work tools. By making AI more contextual and integrated, these platforms aim to boost user productivity and create more intelligent digital workspaces.",
         "sources": [
           {
-            "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-            "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "Sam Altman was winning on the stand, but it might not be enough",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+            "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+            "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-            "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+            "title": "Notion just turned its workspace into a hub for AI agents",
+            "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Expands: Data Centers Invade Rural America, Home Computing Shifts",
-        "body": "The AI infrastructure boom is rapidly transforming rural landscapes. Data centers are proliferating across small-town America, promising jobs but fundamentally reshaping local economies. Some companies are even pitching a radical new model: hosting mini data centers directly in residential homes.\n\nThis infrastructure push signals a massive technological shift. Rural communities face potential economic revitalization - or disruption - as tech giants seek new territories for computational expansion. The home computing model suggests a future where everyday residents might become active participants in AI's computational ecosystem.",
+        "headline": "AI Ethics and Sustainability Emerge as Critical Industry Challenges",
+        "body": "The AI industry faces mounting scrutiny over ethical practices and environmental impact. Anthropic executive Cat Wu suggested AI will soon anticipate user needs before they are consciously recognized - a prospect that raises significant privacy and autonomy concerns. Separately, a Wired analysis explored the complex challenge of making AI technologies truly sustainable.\n\nThese discussions highlight growing tensions in AI development. As the technology becomes more powerful and pervasive, questions of responsible innovation - from data privacy to carbon footprint - are moving from academic debate to urgent industry priority.",
         "sources": [
           {
-            "title": "Data centers are coming for rural America",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-            "source": "The Verge",
+            "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+            "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "The newest AI boom pitch: Host a mini data center at your home",
-            "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+            "title": "What It Will Take to Make AI Sustainable",
+            "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "AI chatbots are giving out people’s real phone numbers",
+            "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+            "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+            "source": "Wired",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "OpenAI Trial Reveals Deeper Tech Industry Tensions",
+        "body": "The ongoing legal battle between Sam Altman and Elon Musk has exposed deep fractures in the AI leadership landscape. At the trial, Altman faced allegations of being a prolific liar, with tensions playing out in a courtroom notable for participants' unusual comfort - they're sitting on fancy butt cushions.\n\nThe trial represents more than a personal dispute. It symbolizes broader conflicts in AI's high-stakes ecosystem - where personal relationships, corporate strategies, and technological ambitions collide in unpredictable ways.",
+        "sources": [
+          {
+            "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+            "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+            "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
             "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-            "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+            "title": "OpenAI Brings Its Ass to Court",
+            "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
             "source": "Wired",
             "lean": null
           }
@@ -294,37 +288,67 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Hovers Near $82K as Bulls Test Key Resistance Zone",
-        "body": "Bitcoin is battling for market momentum after bouncing back above $81,000 following a recent inflation report. The cryptocurrency faces a critical technical moment - testing its 200-day moving average and potentially setting up a significant breakout scenario.\n\nTrading volumes suggest investor uncertainty. Prominent crypto strategist Arthur Hayes predicts potential upside to $126,000 this year, driven by geopolitical tensions and AI-related investment trends. Market sentiment remains cautiously optimistic as Bitcoin seeks to establish a new price floor.",
+        "headline": "Bitcoin Traders Eye $90K as Clarity Act Vote Nears",
+        "body": "Bitcoin markets are buzzing with anticipation ahead of the Clarity Act vote. Traders expect a potential rapid price surge to $90,000, with market sentiment turning increasingly bullish. The confirmation of Kevin Warsh - a Bitcoin-friendly figure - as Federal Reserve chair could further accelerate momentum, signaling growing institutional acceptance of cryptocurrency.",
         "sources": [
           {
-            "title": "The $82,000 battle: bitcoin tests key resistance zone to form next major breakout",
-            "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-faces-crucial-test-at-200-day-moving-averages-as-bulls-defend-key-support-zone",
-            "source": "CoinDesk",
+            "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
+            "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
-            "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
+            "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
-            "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin price targets $79K as US PPI inflation hits highest since 2022",
+            "url": "https://cointelegraph.com/markets/bitcoin-risks-80k-loss-us-ppi-inflation-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Charles Schwab Expands Crypto Trading for Retail Investors",
-        "body": "Major financial services firm Charles Schwab has launched spot Bitcoin trading for select retail clients, signaling continued mainstream financial industry acceptance. The move represents another step toward institutional cryptocurrency integration.\n\nThis development follows a broader trend of traditional financial platforms expanding crypto offerings. By providing direct Bitcoin trading access, Schwab is positioning itself to capture growing retail investor interest in digital assets. The strategic expansion could potentially attract more conservative investors to the cryptocurrency market.",
+        "headline": "Charles Schwab Launches Bitcoin Trading for Retail Investors",
+        "body": "Major brokerage Charles Schwab has entered the Bitcoin market, offering spot trading to US users. The $11.77 trillion financial giant's move represents a significant milestone for cryptocurrency mainstream adoption. This development suggests growing institutional comfort with digital assets - a potential turning point for Bitcoin's integration into traditional financial services.",
         "sources": [
           {
-            "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
-            "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users",
+            "url": "https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "$11.77 Trillion Brokerage Giant Charles Schwab Launches Spot Bitcoin Trading Platform",
+            "url": "https://bitcoinmagazine.com/news/charles-schwab-launches-spot-bitcoin",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Buyers Show Strong Long-Term Conviction",
+        "body": "Bitcoin holders are demonstrating unprecedented market confidence. Long-term buyer conviction has surged 300%, with most recent purchasers already sitting on profits. The available Bitcoin supply continues to shrink as more investors adopt a hold strategy. Market analysts suggest this trend could support sustained price appreciation and reduced market volatility.",
+        "sources": [
+          {
+            "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
+            "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin price history suggests 77% odds of new all-time high within a year",
+            "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -333,21 +357,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence that releases lower back tension and realigns spinal vertebrae after prolonged sitting",
-      "tip": "Perform this sequence standing: gently roll down vertebra by vertebra, hang loosely for 30 seconds, then slowly roll back up with deep breaths"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and alternate standing/sitting positions"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown language or complex cipher that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved puzzles in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and environmental solutions",
+      "why": "Understanding how natural systems solve complex problems can revolutionize how we design sustainable cities and infrastructure"
     }
   }
 }
