@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-05-14T05:22:37.105Z",
+  "generatedAt": "2026-05-14T10:52:43.250Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Meets Xi: Trade and Taiwan Tensions Take Center Stage",
-        "body": "President Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping, with trade relations and Taiwan at the forefront of discussions. Both leaders struck an initially cooperative tone in opening remarks, highlighting potential areas of mutual understanding.\n\nThe summit unfolds against a backdrop of deepening geopolitical rivalry. While Trump seeks to project optimism, underlying tensions remain significant - particularly around trade policies and Taiwan's status. Bipartisan senators have already warned against unilateral changes to existing Taiwan policy, underscoring the diplomatic complexity.",
+        "headline": "Trump Meets Xi: Trade and Taiwan Tensions Simmer",
+        "body": "President Trump landed in Beijing for high-stakes talks with Chinese President Xi Jinping, with Taiwan and trade relations at the forefront. The summit opens amid complex diplomatic tensions - both leaders struck conciliatory tones in opening remarks while underlying geopolitical friction remains palpable.\n\nXi warned Trump that mishandling Taiwan could spark conflicts, signaling China's red lines. Meanwhile, Trump's diplomatic approach appears to contrast with his previous confrontational rhetoric, suggesting a nuanced negotiation strategy aimed at finding common ground.",
         "sources": [
+          {
+            "title": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’",
+            "url": "https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "A look at Trump's goals for his summit in China",
             "url": "https://www.npr.org/2026/05/14/nx-s1-5819567/a-look-at-trumps-goals-for-his-summit-in-china",
             "source": "NPR",
             "lean": "left"
+          },
+          {
+            "title": "Trump’s upbeat China message collides with deepening Beijing rivalry",
+            "url": "https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
             "title": "China rolls out red carpet for Trump as Xi meeting tests trade, Taiwan tensions",
@@ -30,176 +42,164 @@
             "url": "https://thehill.com/homenews/administration/5877288-trump-xi-beijing-meeting/",
             "source": "The Hill",
             "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "COVID Lab Leak Claims Spark Congressional Hearing Fireworks",
+        "body": "A CIA whistleblower's explosive testimony about an alleged COVID-19 lab leak cover-up has thrust the pandemic's origins back into political spotlight. The hearing generated significant partisan tension, with Republicans demanding further investigation and Democrats cautioning against premature conclusions.\n\nThe allegations challenge previous official narratives and could have substantial implications for US-China relations and future pandemic response protocols. Congressional investigators appear deeply divided on the credibility and potential consequences of the whistleblower's claims.",
+        "sources": [
+          {
+            "title": "Top 4 explosive moments from CIA whistleblower's testimony on alleged COVID-19 lab leak cover-up",
+            "url": "https://www.foxnews.com/politics/top-4-explosive-moments-cia-whistleblowers-testimony-alleged-covid-19-lab-leak-cover",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "Bipartisan senators warn against ‘unilateral changes’ to Taiwan policy",
-            "url": "https://thehill.com/homenews/senate/5876848-senators-advise-against-trump-taiwan-policy-changes/",
+            "title": "Next FDA chief to face similar headwinds after Makary’s ouster",
+            "url": "https://thehill.com/policy/healthcare/5877025-fda-resignation-trump-pressure/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Congressional Action: Border Funding and Oversight Measures Move Forward",
-        "body": "Republicans are pushing forward with border funding initiatives, drawing sharp criticism from Democrats over spending approaches. Simultaneously, Congress is advancing multiple oversight measures - including a new ICE oversight bill introduced by Representative McIver.\n\nThe legislative landscape reveals continued partisan divisions. While GOP members argue for increased border security funding, Democrats challenge the funding mechanisms. The House has also unanimously passed a resolution urging Trump to secure the release of detainees in China, demonstrating potential areas of bipartisan agreement.",
+        "headline": "Midterm Landscape Shifts with Redistricting and Party Tensions",
+        "body": "House Republicans express growing optimism about midterm prospects following recent court rulings on redistricting. The political landscape appears increasingly complex, with both parties navigating internal challenges and strategic uncertainties.\n\nDemocrats are wrestling with internal conflicts, including debates over keeping the 2024 election autopsy report private. Voter sentiment remains fluid, with redistricting battles intensifying in states like Louisiana, Alabama, and Virginia.",
         "sources": [
           {
-            "title": "Republicans block Democrat-backed measures to undo Trump’s dismantling of CFPB",
-            "url": "https://thehill.com/homenews/senate/5877247-senate-republicans-block-cfpb-measures/",
+            "title": "House Republicans more optimistic about midterm chances after ‘seismic’ court rulings",
+            "url": "https://thehill.com/homenews/house/5877074-house-republicans-midterms-redistricting/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "It never ends: GOP moves to fund border; Democrats blast Trump spending",
-            "url": "https://www.foxnews.com/politics/never-ends-gop-moves-fund-border-democrats-blast-trump-spending",
+            "title": "Democrats’ midterm push clouded by infighting over party keeping 2024 autopsy under wraps",
+            "url": "https://www.foxnews.com/politics/democrats-midterm-push-clouded-infighting-party-keeping-2024-autopsy-wraps",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "House unanimously passes resolution urging Trump to secure release of detainees in China",
-            "url": "https://thehill.com/homenews/house/5877107-house-resolution-trump-china-detainees/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "McIver unveils ICE oversight measure one year after visit that resulted in indictment",
-            "url": "https://thehill.com/homenews/house/5877314-mciver-introduces-ice-oversight-bill/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Voters are caught in the middle as the redistricting battle intensifies",
+            "url": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "NDIS Reforms Spark Political Clash Over Disability Support",
-        "body": "The federal government's proposed National Disability Insurance Scheme (NDIS) reforms have ignited a fierce political debate. Greens senators are criticizing the changes as immoral and rushed, arguing the legislation could harm vulnerable Australians. The proposed reforms include new powers to cut funding and implement stricter eligibility tests for participants.\n\nThe Coalition has accused Labor of misleading the public about the reforms' impact. Meanwhile, the government maintains the changes are necessary to ensure the sustainability of the NDIS, which has seen significant cost increases in recent years.",
+        "headline": "Taylor Promises Tax Reforms and Resource Investment in Budget Reply",
+        "body": "Opposition Leader Angus Taylor laid out the Coalition's economic vision in his budget reply speech, promising to index tax brackets to inflation and create a new sovereign wealth fund from resource revenues. The plan signals a sharp pivot from the government's current approach - targeting bracket creep and seeking to lock in long-term returns from Australia's mineral wealth.\n\nTaylor also signaled continued support for fossil fuels, vowing to run coal infrastructure long and hard while scrapping electric vehicle concessions. The proposal sets up a clear economic battleground for the next election, with divergent views on taxation, energy transition, and national investment strategy.",
         "sources": [
           {
-            "title": "Politics live: Greens senator says ‘immoral’ NDIS reforms being rushed through; Coalition says Labor ‘misled, deceived’ Australians over taxes",
+            "title": "Budget 2026 live updates: Angus Taylor promises to index tax brackets, run coal ‘long and hard’ and scrap EV concessions in budget reply",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Power to cut funding and stricter 'permanence' test under new NDIS",
-            "url": "https://www.abc.net.au/news/2026-05-14/ndis-legislation-funding-cut-powers-civil-penalties/106677970",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Greens senator says ‘immoral’ NDIS reforms are being rushed through Senate – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/may/14/budget-ndis-cuts-reform-savings-legislation-immoral-greens-senate-video",
+            "title": "Angus Taylor vows to index tax brackets to inflation and invest resource windfalls into fund, in budget reply",
+            "url": "https://www.theguardian.com/australia-news/2026/may/14/angus-taylor-budget-reply-coalition-plan-index-tax-brackets-inflation-resource-windfalls-fund",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Business groups lament migration plan as Taylor speaks",
+            "url": "https://www.abc.net.au/news/2026-05-14/business-pushes-back-on-coalition-plan-to-cut-migration/106680602",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Tax Reforms Set to Reshape Property and Investment Landscape",
-        "body": "Labor's latest budget proposals are poised to dramatically alter Australia's investment and property markets. The government's tax reforms could potentially reduce the attractiveness of share investments while making home ownership more accessible. The Coalition has responded by proposing a permanent solution to tax bracket creep.\n\nEconomic analysts are closely examining the potential impacts. The reforms suggest a significant shift in the government's approach to taxation and investment incentives, with potential long-term consequences for Australian investors and homebuyers.",
+        "headline": "Labor Gains New Senator as Political Landscape Shifts",
+        "body": "The Labor Party has expanded its parliamentary representation with Tammy Tyrrell - a former Jacqui Lambie Network senator - crossing the floor to join the government. Prime Minister Anthony Albanese quickly seized on the political momentum, taunting Opposition Leader Angus Taylor about the defection.\n\nTyrrell's move represents another incremental shift in the complex Senate dynamics, potentially strengthening Labor's negotiating position with crossbench senators. Her transition highlights the ongoing realignment of minor party politics in the Australian parliamentary system.",
         "sources": [
           {
-            "title": "Coalition to propose permanent end to tax bracket creep",
-            "url": "https://www.abc.net.au/news/2026-05-14/coalition-propose-permanent-end-tax-bracket-creep/106679050",
+            "title": "Albanese taunts Taylor as another defector joins Labor ranks",
+            "url": "https://www.abc.net.au/news/2026-05-14/tammy-tyrrell-jacqui-lambie-caucus-budget-reply-tax-fight/106674062",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Labor’s tax reforms might diminish the appeal of investing in shares – but should make home ownership more attainable",
-            "url": "https://www.theguardian.com/australia-news/2026/may/14/labor-budget-2026-tax-reforms-shares-equity-portfolios-home-ownership",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "'A good fit': How ex-Lambie senator found a home with Labor",
+            "url": "https://www.abc.net.au/news/2026-05-14/ex-lambie-senator-tammy-tyrell-defection-to-labor/106679748",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump and Xi Meet as US-China Tensions Simmer",
-        "body": "US President Donald Trump and Chinese President Xi Jinping began high-stakes talks today amid escalating global tensions. The summit - focused on trade, technology, and geopolitical challenges - comes as both nations seek to reset a fraught relationship.\n\nXi welcomed Trump with a formal ceremony, signaling diplomatic protocol amid underlying strategic competition. Experts suggest Beijing may hold a negotiating advantage, with Trump eager to secure a diplomatic win ahead of potential future political campaigns.",
+        "headline": "Russia Escalates Drone Attacks on Ukraine - Civilians Die",
+        "body": "Russia launched hundreds of drones against Ukrainian cities, killing at least three civilians and causing significant destruction. Residential areas in Kyiv bore the brunt of massive strikes, with rescue teams pulling bodies from demolished apartment buildings. The relentless aerial assault underscores Russia's continued strategy of targeting civilian infrastructure.",
         "sources": [
           {
-            "title": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
+            "title": "Russia launches hundreds more drones at Ukraine, killing three people",
+            "url": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/xi-jinping-welcomes-donald-trump-with-ceremony-ahead-of-high-stakes-meeting?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump-Xi summit live: US, China leaders holding talks on trade, tech, Iran",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump-Xi summit: Why Beijing might have the advantage",
-            "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Five things you may not know about US-China ties",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/five-things-you-may-not-know-about-us-china-ties?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+            "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Russian Strikes Devastate Kyiv - Civilian Casualties Mount",
-        "body": "A residential building in Kyiv collapsed after a Russian missile strike, trapping residents and highlighting the ongoing brutality of the conflict. Russia unleashed a massive drone barrage across Ukraine - killing at least six civilians and causing widespread destruction.\n\nThe attack underscores the continued intensity of the war, with civilian infrastructure bearing the brunt of military aggression. Rescue efforts are underway, but the human cost continues to rise.",
+        "headline": "Trump Meets Xi in Beijing - Tensions and Diplomacy Collide",
+        "body": "Former US President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping. The visit signals complex diplomatic maneuvering - Trump praised China while carefully avoiding direct questions about Taiwan. China strategically managed diplomatic sensitivities, even adjusting Marco Rubio's name to allow his participation despite existing sanctions. The talks represent a delicate dance of geopolitical interests.",
         "sources": [
           {
-            "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Russia unleashes massive drone barrage on Ukraine killing six",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tensions Escalate in Middle East Amid Regional Conflicts",
-        "body": "Israel launched strikes in southern Lebanon that killed 22 people, according to local health authorities. Simultaneously, reports suggest Israeli Prime Minister Netanyahu made a secret visit to the UAE - a move Tehran condemned as collusive.\n\nThe BRICS foreign ministers are meeting in India to discuss ongoing regional tensions, with particular focus on the broader geopolitical implications of conflicts in the Middle East. Diplomatic maneuvering continues as multiple regional flashpoints threaten stability.",
-        "sources": [
-          {
-            "title": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-            "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+            "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
-            "url": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss",
+            "title": "What to know as Trump visits Xi in China",
+            "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Trump praises China as he ignores question about Taiwan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-praises-china-as-he-ignores-question-about-taiwan?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war: Why the BRICS foreign ministers meeting in India matters",
-            "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters?traffic_source=rss",
+            "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+            "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Global Tensions Simmer - Iran War Impacts Spread",
+        "body": "The ongoing Iran conflict continues to ripple through global systems. Diplomatic efforts show tentative progress, with negotiator Vance reporting advances in talks. Meanwhile, economic consequences emerge - Japanese snack packaging is changing due to ink price surges, and concerns grow about potential hunger crises. The conflict's reach extends beyond immediate military zones.",
+        "sources": [
+          {
+            "title": "Could Iran war trigger a hunger crisis?",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
+            "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -208,128 +208,73 @@
     ],
     "ai": [
       {
-        "headline": "AI Expands into Small Business as Tech Layoffs Continue",
-        "body": "Anthropic launched Claude for Small Business, targeting entrepreneurs seeking AI-powered productivity tools. The move comes as tech giants like Cisco continue workforce reductions - signaling a complex employment landscape in the AI sector.\n\nSmall businesses could gain significant operational advantages through AI integration. However, the ongoing tech industry restructuring suggests deeper shifts in how companies deploy and staff emerging technologies.",
-        "sources": [
-          {
-            "title": "Claude for Small Business",
-            "url": "https://www.anthropic.com/news/claude-for-small-business",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Cisco workforce reductions",
-            "url": "https://blogs.cisco.com/news/our-path-forward",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-            "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Microsoft Security Flaw Exposes BitLocker Encryption Weakness",
-        "body": "A critical zero-day exploit dubbed YellowKey threatens Microsoft's BitLocker drive encryption system. Researchers demonstrated that protected drives can be accessed using minimal files on a USB stick - potentially compromising sensitive data across enterprise and personal systems.\n\nThe vulnerability underscores persistent cybersecurity challenges. Microsoft has not yet publicly commented on potential patches or mitigation strategies for this significant security breach.",
-        "sources": [
-          {
-            "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-            "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "AI chatbots are giving out people’s real phone numbers",
-            "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-            "source": "MIT Tech Review",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Ethics and Safety Take Center Stage in Tech Discourse",
-        "body": "Emerging research and industry discussions are probing deeper ethical dimensions of artificial intelligence. Anthropic executive Cat Wu suggested future AI will anticipate human needs before users recognize them - raising complex questions about agency and privacy.\n\nConcurrent studies highlight potential risks, including AI agents developing unexpected behavioral patterns. The conversation around responsible AI development continues to intensify across academic and corporate research spaces.",
-        "sources": [
-          {
-            "title": "The other half of AI safety",
-            "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-            "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-            "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-            "source": "Wired",
-            "lean": null
-          }
-        ]
+        "headline": "AI & Technology summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Dips Below $80K Amid Geopolitical Tensions",
-        "body": "Bitcoin prices tumbled below $80,000 as rising geopolitical risks dampened market sentiment. Macro concerns emerged from escalating tensions between China and the US over Taiwan, triggering broader market volatility. Large crypto traders are showing increased caution - one significant whale moved to short $70 million across crypto and tech markets, signaling potential near-term bearish pressure.",
+        "headline": "Bitcoin Price Wobbles as Investors Pull ETF Funds",
+        "body": "Bitcoin struggled to maintain momentum Thursday, dropping below $80,000 as investors withdrew $635 million from spot ETFs in a single day. Market analysts suggest this signals potential bearish sentiment. Leveraged long positions are unwinding - a typical sign of market uncertainty.\n\nThe price pullback comes amid broader market volatility. Technical indicators from CryptoQuant warn Bitcoin might face further downward pressure after hitting major resistance levels in recent trading sessions.",
         "sources": [
+          {
+            "title": "Bitcoin stuck below $80,000 as leveraged longs unwind, altcoins slide",
+            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-stuck-below-usd80-000-as-leveraged-longs-unwind-altcoins-slide",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin investors yanked $635 million from spot ETFs in a day. Here's what it means for price",
+            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin risks slump after hitting ‘major bear market resistance’: CryptoQuant",
+            "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
             "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Nakamoto Reports Massive Q1 Loss Despite Revenue Growth",
+        "body": "Bitcoin firm Nakamoto recorded a staggering $239 million net loss in Q1 2026, despite experiencing sixfold revenue expansion. The company's treasury value declined significantly during the quarter, reflecting broader market challenges.\n\nDavid Bailey's leadership team continues to navigate complex financial terrain. The substantial loss underscores ongoing volatility in Bitcoin-focused corporate investments, even as revenue streams demonstrate potential for future growth.",
+        "sources": [
           {
-            "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-            "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-            "source": "Bitcoin Magazine",
+            "title": "David Bailey’s Nakamoto reports $239 million Q1 loss as bitcoin treasury value slides",
+            "url": "https://www.theblock.co/post/401225/nakamoto-reports-q1-loss?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           },
           {
-            "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
-            "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
+            "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Helps Bitcoin Owner Recover $400K in Lost Wallet",
-        "body": "An AI chatbot helped a Bitcoin owner recover 5 Bitcoin worth approximately $400,000 by assisting with a lost seed phrase. The incident highlights emerging technological solutions for cryptocurrency wallet recovery. While the specifics remain unclear, the case demonstrates how advanced AI tools might help users regain access to forgotten or misplaced digital assets.",
+        "headline": "AI Helps Bitcoin Owner Recover Lost Cryptocurrency",
+        "body": "An AI chatbot named Claude helped a Bitcoin owner recover 5 Bitcoin - worth approximately $395,000 - after locating a long-forgotten seed phrase. The recovery highlights emerging technological solutions for cryptocurrency wallet management.\n\nThis breakthrough demonstrates how artificial intelligence can potentially solve complex digital asset recovery challenges, offering hope for investors who have lost access to their cryptocurrency holdings.",
         "sources": [
+          {
+            "title": "Claude helps recover $395,000 in bitcoin trapped on a computer for years",
+            "url": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
             "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
-            "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Traders Eye $90K After Potential Regulatory Shift",
-        "body": "Bitcoin markets are anticipating a potential price surge to $90,000 following recent political developments. The Senate confirmed Kevin Warsh - considered Bitcoin-friendly - as Federal Reserve chair, potentially signaling more crypto-positive regulatory approaches. Traders are closely watching the potential passage of the CLARITY Act, which could provide more regulatory certainty for Bitcoin investments.",
-        "sources": [
-          {
-            "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-            "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
-            "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -339,21 +284,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Do this sequence every 90 minutes: stand, interlace fingers overhead, lean gently right and left, then do a gentle backward arch"
+      "description": "Perform a targeted micro-stretch sequence that realigns vertebral spacing and releases tension in the thoracic spine",
+      "tip": "Use a foam roller vertically against a wall, slowly rolling from tailbone to neck with gentle side-to-side oscillations"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval knowledge and communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human engineering challenges, from water management to energy efficiency"
     }
   }
 }
