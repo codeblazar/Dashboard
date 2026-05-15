@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-05-15T05:24:14.844Z",
+  "generatedAt": "2026-05-15T10:52:26.645Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Meets Xi: Trade, Tensions, and US Global Standing",
-        "body": "Former President Trump concluded high-stakes talks with Chinese President Xi Jinping, with both leaders trading sharp assessments of US global power. Trump claimed Xi agreed that the United States became a declining nation during the Biden administration - a provocative characterization of current geopolitical dynamics.\n\nThe summit highlighted ongoing tensions around trade, with discussions focusing on tariffs and potential economic agreements. Trump emphasized potential trade deals, while Xi reportedly warned about US-China relations - particularly regarding Taiwan. The meeting underscored the complex diplomatic landscape facing the two superpowers.",
+        "headline": "Trump Meets Xi: US-China Relations at Crossroads",
+        "body": "President Trump concluded a high-stakes diplomatic visit to Beijing, with tensions and potential cooperation hanging in the balance. The summit centered on trade, geopolitical positioning, and mutual perceptions of national decline.\n\nBoth leaders traded pointed comments about the United States' global standing. Trump claimed Xi acknowledged America's diminished international influence during the Biden years, while Chinese officials sought to position themselves as an equal global power.",
         "sources": [
           {
-            "title": "Trump touts ‘fantastic trade deals’ in final Xi meeting amid tariff standoff",
-            "url": "https://www.foxnews.com/politics/trump-touts-fantastic-trade-deals-final-xi-meeting-amid-tariff-standoff",
+            "title": "Trump wraps widely-watched trip to China, departing on Air Force One after high-stakes Xi meeting",
+            "url": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Trump reveals Xi’s stance on arming Iran as Hormuz tensions rattle markets",
-            "url": "https://www.foxnews.com/politics/trump-reveals-xis-stance-arming-iran-hormuz-tensions-rattle-markets",
+            "title": "In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S.",
+            "url": "https://www.washingtonpost.com/politics/2026/05/15/beijing-summit-yields-chinese-goal-equal-footing-with-us/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump touts ‘fantastic trade deals’ in final Xi meeting amid tariff standoff",
+            "url": "https://www.foxnews.com/politics/trump-touts-fantastic-trade-deals-final-xi-meeting-amid-tariff-standoff",
             "source": "Fox News",
             "lean": "right"
           },
@@ -30,40 +36,52 @@
             "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Trump and Xi’s initial meeting reveals dueling priorities",
-            "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Xi’s warning to Trump on Taiwan shows emboldened China",
-            "url": "https://thehill.com/homenews/administration/5878959-xi-trump-taiwan-leverage/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Supreme Court Preserves Abortion Pill Access Amid Legal Battle",
-        "body": "The Supreme Court has temporarily maintained broader access to mifepristone, a widely used abortion medication, while legal challenges continue. Justices kept current distribution rules in place - a decision that prevents immediate restrictions on the drug's availability.\n\nThe ruling saw a split among justices, with Alito and Thomas dissenting. This decision represents a critical moment in ongoing reproductive rights litigation, reflecting the court's current approach to balancing legal challenges with existing medical access.",
+        "headline": "Republican Infighting Stalls Housing and Budget Priorities",
+        "body": "Internal GOP conflicts are blocking key legislative initiatives, with deep divisions emerging over housing affordability and federal spending. House and Senate Republicans cannot agree on critical components of Trump's proposed housing policy.\n\nThe fractures reveal ongoing strategic disagreements within the party about economic approaches and legislative priorities. Foreclosure rates are climbing in several states, adding urgency to the unresolved policy debates.",
         "sources": [
           {
-            "title": "Supreme Court preserves access to mail distribution of widely used abortion pill",
-            "url": "https://www.washingtonpost.com/politics/2026/05/14/supreme-court-temporarily-clears-way-mail-distribution-widely-used-abortion-pill/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Supreme Court keeps broader access to abortion pill mifepristone in place while legal fight continues",
-            "url": "https://www.foxnews.com/politics/supreme-court-keeps-broader-access-abortion-pill-mifepristone-place-while-legal-fight-continues",
+            "title": "GOP can't agree on key part of Trump's housing affordability push as infighting continues",
+            "url": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Supreme Court preserves abortion pill access over Alito, Thomas dissents",
-            "url": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
+            "title": "Frustrations erupt as Senate, House Republicans clash over housing",
+            "url": "https://thehill.com/homenews/senate/5879157-housing-bill-senate-house-clash/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "This Midwestern state leads the nation in home foreclosures as US filings jump by 26%",
+            "url": "https://www.foxnews.com/politics/midwestern-state-leads-nation-home-foreclosures-us-filings-jump-26",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Diplomatic Moves: Cuba Talks and Global Tensions Simmer",
+        "body": "CIA Director John Ratcliffe met with Cuban officials in Havana, signaling potential shifts in US-Cuba relations. The discussions come amid reports that the US may be preparing legal action against former Cuban leader Raúl Castro.\n\nThe diplomatic engagement occurs against a backdrop of complex international negotiations, with the CIA warning that the window for dialogue will not remain open indefinitely.",
+        "sources": [
+          {
+            "title": "CIA Director John Ratcliffe met with Raul Castro's grandson in Havana, US and Cuban officials say",
+            "url": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "US moving to indict former Cuban leader Raúl Castro: source",
+            "url": "https://www.foxnews.com/politics/us-moving-indict-former-cuban-leader-raul-castro-source",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Ratcliffe meets with Cuban officials as CIA warns negotiation window ‘will not stay open indefinitely’",
+            "url": "https://thehill.com/policy/defense/5879255-cia-director-ratcliffe-cuba/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,152 +90,140 @@
     ],
     "au-politics": [
       {
-        "headline": "Coalition Tax Plan Sparks Debate Over True Economic Impact",
-        "body": "The Coalition's proposed tax plan faces renewed scrutiny after analysis suggests potential higher costs than initially projected. ABC reporting indicates the plan may strain government finances more significantly than publicly claimed.\n\nTreasury and opposition economists are locked in a technical dispute over the plan's long-term fiscal implications. The disagreement highlights ongoing tensions around economic policy and budget management in the lead-up to the next electoral cycle.",
+        "headline": "Hate Laws Crack Down on Neo-Nazi Group",
+        "body": "Australia has banned the National Socialist Network under new hate laws passed after the Bondi terror attack. The legislation criminalizes the neo-Nazi group - a significant step in combating extremist ideologies. Authorities are sending a clear message about intolerance for hate speech and racist organizations.",
         "sources": [
           {
-            "title": "Coalition tax plan could cost more than suggested in first few years",
-            "url": "https://www.abc.net.au/news/2026-05-15/coalition-tax-plan-could-cost-more-than-suggested/106685090",
+            "title": "Neo-Nazi group banned in Australia under hate laws",
+            "url": "https://www.abc.net.au/news/2026-05-15/neo-nazi-group-banned-in-australia-under-hate-laws/106686260",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Newsroom Edition: Labor broke a promise for bold reform. Does it matter? – Full Story podcast",
-            "url": "https://www.theguardian.com/australia-news/video/2026/may/15/newsroom-edition-labor-broke-a-promise-for-bold-reform-does-it-matter-full-story-podcast",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Angus Taylor’s tough talk on migration puts politics over policy and risks feeding damaging stereotypes | Alan Gamlen",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/15/angus-taylor-migration-politics-over-policy-stereotypes",
+            "title": "Neo-Nazi group National Socialist Network criminalised under hate laws passed after Bondi terror attack",
+            "url": "https://www.theguardian.com/australia-news/2026/may/15/neo-nazi-group-national-socialist-network-criminalised-under-hate-laws-passed-after-bondi-terror-attack-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Transgender Rights Case Highlights Complex Legal Landscape",
-        "body": "A landmark discrimination appeal by transgender woman Roxanne Tickle has drawn national attention to evolving legal protections. The case - involving exclusion from a female-only digital platform - underscores ongoing debates about gender identity and social inclusion.\n\nCourts continue to navigate complex intersections between individual rights and existing legal frameworks. The ruling reflects broader societal conversations about representation and discrimination in digital spaces.",
+        "headline": "Property Donations and Political Access Spark Controversy",
+        "body": "A property developer's $50,000 bid for a lunch with the deputy premier has raised fresh questions about political influence. The incident highlights ongoing tensions around developer donations and potential conflicts of interest in Australian politics. Transparency advocates argue such interactions undermine public trust in government processes.",
         "sources": [
           {
-            "title": "Australia news live: trans woman Roxanne Tickle wins discrimination appeal; neo-Nazi organisation listed as hate group",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Ruling upheld after transgender woman excluded from female-only app",
-            "url": "https://www.abc.net.au/news/2026-05-15/nsw-tickle-v-giggle-judgement-transgender-woman/106682498",
+            "title": "Property developer bids $50,000 donation for lunch with deputy premier",
+            "url": "https://www.abc.net.au/news/2026-05-15/property-developer-bids-50000-for-lunch-with-deputy-premier/106686698",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "ABC ombudsman declares Laura Tingle’s Israel analysis ‘duly impartial’ as complaints campaigns gain traction | The Weekly Beast",
-            "url": "https://www.theguardian.com/media/commentisfree/2026/may/15/abc-ombudsman-declares-laura-tingles-israel-analysis-duly-impartial-as-complaints-campaigns-gain-traction",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Australia’s prosperity problem is bigger than the budget",
+            "url": "https://www.spectator.com.au/2026/05/australias-prosperity-problem-is-bigger-than-the-budget/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Migration Policies Spark Heated Political Debate",
-        "body": "Opposition immigration spokesperson Angus Taylor's recent statements on migration have triggered sharp criticism from migrant advocacy groups. Taylor's proposals around benefit restrictions for non-citizens have been characterized as potentially divisive.\n\nMigration experts argue the policy approach risks marginalizing immigrant communities. The debate reflects broader tensions around national identity, social integration, and economic policy in contemporary Australia.",
+        "headline": "Invasive Mosquito Threatens Australian Biosecurity",
+        "body": "The Asian tiger mosquito has been detected on the Australian mainland for the first time - a potential ecological and health risk. Experts warn the species could become a significant problem for local communities. The detection raises concerns about climate change and invasive species migration.",
         "sources": [
           {
-            "title": "‘We are not in Trump’s America’: migrant groups say Angus Taylor in race to bottom with far right",
-            "url": "https://www.theguardian.com/australia-news/2026/may/15/angus-taylor-opposition-plan-cut-benefits-ndis-non-citizens-visa-holders-dog-whistling-marginalising-immigrants",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "'Barbecue stopper' Asian tiger mosquito detected on Australian mainland for the first time",
+            "url": "https://www.abc.net.au/news/2026-05-15/aedes-albopictus-asian-mosquito-detected-in-bamaga-mainland/106686374",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Angus Taylor’s tough talk on migration puts politics over policy and risks feeding damaging stereotypes | Alan Gamlen",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/15/angus-taylor-migration-politics-over-policy-stereotypes",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Pauline Hanson claimed $16,000 for private charter despite claiming floods tour was at ‘no cost to taxpayer’",
-            "url": "https://www.theguardian.com/australia-news/2026/may/15/pauline-hanson-one-nation-claimed-for-private-charter-claimed-at-no-cost-to-taxpayer-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Government told to 'stop shelving' landmark Islamophobia report",
+            "url": "https://www.abc.net.au/news/2026-05-15/islamophobia-report-special-envoy-critical-of-government/106682474",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Strikes Hammer Iran as Tensions Escalate Globally",
-        "body": "US military operations have severely degraded Iran's defense capabilities, according to top naval leadership. The strikes mark a critical escalation in mounting regional tensions, with strategic implications far beyond immediate military confrontation.\n\nThe conflict has drawn international attention, with Iran's foreign minister urgently appealing to BRICS nations to condemn what he calls US-Israeli aggression. Meanwhile, the broader geopolitical landscape shifts - with China potentially gaining strategic advantage from the ongoing conflict.",
+        "headline": "Trump and Xi Seek Reset in High-Stakes Beijing Summit",
+        "body": "US President Donald Trump and Chinese leader Xi Jinping concluded a landmark diplomatic visit aimed at stabilizing US-China relations. Despite low expectations for major breakthroughs, the leaders signaled a potential pivot towards a more business-focused engagement.\n\nTrump brought top CEOs to Beijing, but few significant deals emerged. Xi offered symbolic gestures - including presenting Trump with roses - while praising the visit as a milestone. The summit's underlying tension remained the ongoing Iran conflict, which neither side resolved definitively.",
         "sources": [
           {
-            "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
+            "title": "Trump and Xi move towards business-first relationship after Beijing summit",
+            "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
+            "title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
+            "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Xi praises US ‘milestone’ visit and relationship, offers Trump roses",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/xi-praises-us-milestone-visit-and-relationship-offers-trump-roses?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Could Iran war trigger a hunger crisis?",
-            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Trump brought top CEOs to Beijing but few big deals emerge",
+            "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
+            "title": "Trump and Xi hold high-stakes talks in Beijing",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-and-xi-hold-high-stakes-talks-in-beijing?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump Arrives in China Amid Complex Trade and Conflict Dynamics",
-        "body": "Former President Trump's visit to Beijing unfolds under the shadow of multiple global tensions - particularly the ongoing conflict with Iran and complex US-China trade relations. Expectations for substantive economic agreements remain low, reflecting the intricate diplomatic landscape.\n\nAnalysts suggest China may be strategically positioning itself amid the current geopolitical turbulence. The visit represents a high-stakes diplomatic moment, with potential implications for international trade, regional security, and emerging global power dynamics.",
-        "sources": [
+          },
           {
             "title": "After Trump’s pledge to ‘open up’ China, low expectations for trade deal",
             "url": "https://www.aljazeera.com/economy/2026/5/15/after-trumps-pledge-to-open-up-china-low-expectations-for-summit-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak Kills 65 in Eastern DR Congo",
+        "body": "A new Ebola outbreak has claimed 65 lives in eastern Democratic Republic of Congo, raising urgent concerns about regional health infrastructure. The rapid spread suggests potential challenges in containment and medical response.\n\nHealth authorities are mobilizing resources to track and limit transmission. The outbreak represents a critical test of pandemic preparedness in a region historically vulnerable to viral epidemics.",
+        "sources": [
           {
-            "title": "‘China is gaining from what the US is doing in Iran’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
-            "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+            "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Lebanon and Israel Negotiate as Ceasefire Deadline Approaches",
-        "body": "Direct talks between Lebanon and Israel are progressing in Washington, with cautious optimism emerging from diplomatic circles. The negotiations come as the current ceasefire nears its expiration - raising critical questions about regional stability.\n\nUS diplomatic efforts aim to broker a sustainable resolution, though the precise objectives remain nuanced. The talks represent a delicate diplomatic process with potential far-reaching consequences for regional peace and security.",
+        "headline": "Nakba Day Marks 78 Years of Palestinian Displacement",
+        "body": "Millions of Palestinians commemorated the 78th anniversary of the Nakba - the mass displacement during Israel's founding in 1948. Tensions remain high in the West Bank, with ongoing discussions about historical trauma and current geopolitical realities.\n\nThe day prompted reflections on displacement, with Palestinian diaspora voices highlighting the long-term impacts of historical events. International attention remains focused on the complex historical and contemporary dynamics of the Israeli-Palestinian conflict.",
         "sources": [
           {
-            "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss",
+            "title": "Three years of the West Bank’s ‘third Nakba’",
+            "url": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-            "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
+            "title": "Nakba Day: 78 years of ethnic cleansing",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/nakba-day-78-years-of-ethnic-cleansing?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "What does the US hope to achieve from Lebanon-Israel talks?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
+            "title": "Millions of Palestinians mark 78 years since the Nakba",
+            "url": "https://www.aljazeera.com/gallery/2026/5/15/millions-of-palestinians-mark-78-years-since-the-nakba?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "How David Ben-Gurion got the Palestinians wrong in 1948",
+            "url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -226,8 +232,32 @@
     ],
     "ai": [
       {
-        "headline": "Musk-Altman Trial Reaches Dramatic Closing Arguments",
-        "body": "The high-stakes legal battle between Elon Musk and Sam Altman has entered its final phase. Closing arguments revealed deep tensions in the AI industry's leadership - with potential implications for the future of artificial intelligence development.\n\nSources suggest the trial has exposed significant internal conflicts. SpaceXAI has reportedly been losing staff since the merger, highlighting the personal and professional stakes of this confrontation. The jury's decision could reshape the landscape of AI innovation and corporate leadership.",
+        "headline": "AI Reshapes Content Creation Across Global Media Landscape",
+        "body": "Chinese short-form drama production has undergone a radical transformation with AI technologies. Creators now leverage machine learning to generate scripts, characters, and entire narrative arcs at unprecedented speed and scale - fundamentally disrupting traditional media workflows.\n\nThe trend highlights a broader shift in content generation. AI tools are no longer experimental but core production technologies, enabling faster, cheaper, and more personalized storytelling across multiple platforms.",
+        "sources": [
+          {
+            "title": "How Chinese short dramas became AI content machines",
+            "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+            "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "OpenAI says Codex is coming to your phone",
+            "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Musk-Altman Legal Battle Exposes Deep AI Industry Tensions",
+        "body": "The high-profile trial between Elon Musk and Sam Altman has laid bare fundamental conflicts within the artificial intelligence sector. At stake are core questions about AI development, safety protocols, and intellectual property that could reshape industry dynamics.\n\nStaff movements are already reflecting the trial's impact. SpaceXAI has seen significant personnel turnover since the merger, signaling deep organizational stress and ideological divisions among tech leadership.",
         "sources": [
           {
             "title": "The Real Losers of the Musk v. Altman Trial",
@@ -252,47 +282,29 @@
             "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Behold, the Elon Musk jackass trophy",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-            "source": "The Verge",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Tools Expand - Codex Arrives on Mobile, Raises New Questions",
-        "body": "OpenAI has launched Codex in the ChatGPT mobile app - a significant step toward making AI coding assistance more accessible. The move comes as experts debate the broader implications of AI technology's rapid expansion.\n\nSimultaneously, researchers are examining the limitations of current AI systems. A recent audit in Ontario found AI note-taking tools frequently generate basic factual errors - underscoring the ongoing challenges in AI reliability and accuracy.",
+        "headline": "Open-Source AI Tools Democratize Advanced Technology Access",
+        "body": "Developers are rapidly creating specialized AI tools that make advanced technologies more accessible. Projects like GlycemicGPT demonstrate how machine learning can be targeted to solve specific healthcare challenges - in this case, diabetes management.\n\nParallel efforts are emerging to help users select and optimize AI models. A new GitHub project allows users to find the best local large language models based on hardware benchmarks - reducing barriers to entry for AI implementation.",
         "sources": [
           {
-            "title": "OpenAI says Codex is coming to your phone",
-            "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Codex is now in the ChatGPT mobile app",
-            "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+            "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+            "url": "https://github.com/Andyyyy64/whichllm",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-            "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+            "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+            "url": "https://github.com/GlycemicGPT/GlycemicGPT",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "What happens when AI starts building itself?",
-            "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-            "source": "TechCrunch",
+            "title": "How Claude Code works in large codebases",
+            "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -300,61 +312,37 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Hovers Near $82K as Regulatory Winds Shift",
-        "body": "Bitcoin prices bounced between $81,000 and $82,000 on Friday, with market sentiment tied closely to regulatory developments. The Senate banking panel's advancement of the CLARITY Act sparked optimism, pushing Bitcoin above key technical levels.\n\nTrading remains volatile. The cryptocurrency sits below its 200-day moving average, signaling continued market uncertainty. Institutional interest persists, with firms like Onramp securing $12.5 million in Series A funding to expand multi-institution Bitcoin custody platforms.",
+        "headline": "Bitcoin Miners Pivot to AI, Raise $3 Billion in Funding",
+        "body": "IREN, a Bitcoin mining company, has closed a massive $3 billion convertible notes offering to accelerate its artificial intelligence infrastructure development. The move signals a strategic shift for Bitcoin miners seeking diversification beyond traditional cryptocurrency operations.\n\nThe substantial funding round highlights the growing intersection between Bitcoin mining technology and emerging AI capabilities. Miners are increasingly looking to leverage their robust computing infrastructure to create new revenue streams beyond cryptocurrency mining.",
         "sources": [
           {
-            "title": "The two- and ten-year Treasury yields hit a 12-month high. Bitcoin is still stuck below its 200-day average.",
+            "title": "IREN closes $3 billion convertible notes offering as Bitcoin miner’s AI infrastructure push accelerates",
+            "url": "https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Struggles Below 200-Day Average Amid Treasury Yield Pressures",
+        "body": "Bitcoin continues to trade below its critical 200-day moving average, with rising Treasury yields creating headwinds for the cryptocurrency. Two and ten-year Treasury yields have hit a 12-month high, putting downward pressure on Bitcoin's price performance.\n\nThe macroeconomic environment remains challenging for Bitcoin, with investors closely watching interest rate dynamics and broader market sentiment. Price stability remains elusive as the digital asset seeks to establish a sustainable trading range.",
+        "sources": [
+          {
+            "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
             "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as CLARITY Act clears Senate banking panel",
-            "url": "https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform",
-            "url": "https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Price Surges 3% Past $82K as Senate Advances Clarity Act, STRC and SATA Fuel Bitcoin Credit Boom",
-            "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
-            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Custody and Infrastructure See Major Investment Moves",
-        "body": "Bitcoin infrastructure companies are attracting significant capital and strategic repositioning. Onramp's $12.5 million Series A funding highlights growing institutional interest in secure Bitcoin custody solutions.\n\nIn a related development, Kraken announced plans to migrate its wrapped Bitcoin technology, signaling continued evolution in Bitcoin-related financial technologies. These moves suggest increasing sophistication in Bitcoin's institutional ecosystem.",
+        "headline": "Strategy Stock Fuels Major Bitcoin Purchase with Record Trading Volume",
+        "body": "Strategy's stock (STRC) logged a record $1.5 billion trading volume, directly funding the purchase of 11,707 bitcoins. The massive trading activity underscores continued institutional interest in Bitcoin as an investment asset.\n\nThe substantial bitcoin acquisition represents a significant vote of confidence from a corporate entity, potentially signaling broader institutional adoption trends in the cryptocurrency market.",
         "sources": [
           {
-            "title": "Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform",
-            "url": "https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Chainlink CCIP gains over $2.5 billion in TVL from protocols migrating from LayerZero, with Kraken Bitcoin the latest to join",
-            "url": "https://www.theblock.co/post/401368/chainlink-ccip-gains-over-2-5-billion-tvl-from-protocols-migrating-layerzero-kraken-bitcoin-latest?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands",
-            "url": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
-            "source": "Decrypt",
+            "title": "Strategy’s STRC stock logs record $1.5 billion trading volume, funds 11,707 bitcoin purchase",
+            "url": "https://www.coindesk.com/markets/2026/05/15/strategy-s-strc-stock-logs-record-usd1-5-billion-trading-volume-funds-11-707-bitcoin-purchase",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -363,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic even heat distribution and crispy bottom edges"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted micro-sequence of three stretches designed to decompress and realign the thoracic spine after prolonged sitting",
-      "tip": "Set a silent phone alarm every 90 minutes to trigger the sequence automatically"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical and astronomical illustrations that have defied translation for centuries",
-      "why": "It represents one of the most fascinating unsolved cryptographic mysteries in human history, challenging linguists, historians, and code-breakers worldwide"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city planning",
+      "why": "Reveals how complex natural systems can inspire revolutionary solutions to human infrastructure challenges"
     }
   }
 }
