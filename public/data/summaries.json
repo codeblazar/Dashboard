@@ -1,69 +1,81 @@
 {
-  "generatedAt": "2026-05-16T10:32:02.420Z",
+  "generatedAt": "2026-05-16T22:20:29.801Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Political Revenge Tour Targets GOP Dissenters",
-        "body": "Former President Trump continues his campaign to reshape the Republican Party, targeting senators who voted against him during impeachment. In Indiana, he successfully ousted a critic, and now sets his sights on Louisiana Senator Bill Cassidy. The moves signal an ongoing effort to punish internal party opposition and consolidate Trump's influence.\n\nSome GOP senators who defied Trump face tough reelection battles. The political landscape remains tense, with Trump's endorsement carrying significant weight in primary contests. His strategy of challenging incumbent Republicans who challenged him during his presidency continues to send ripples through the party.",
+        "headline": "Louisiana Primary Tests Trump's Influence in GOP Heartland",
+        "body": "Senator Bill Cassidy fights for political survival today in a high-stakes Louisiana Republican primary. Trump-backed challenger Julia Letlow hopes to unseat Cassidy - a senator who previously voted to convict Trump during his impeachment trial.\n\nThe race represents a critical test of Trump's ongoing power within the Republican Party. Cassidy's fate could signal whether GOP members who challenged the former president can survive politically or if Trump's endorsement remains the most potent electoral weapon.",
         "sources": [
+          {
+            "title": "Live results: Cassidy fights for political life in Louisiana Senate GOP primary",
+            "url": "https://thehill.com/homenews/campaign/5867934-live-results-louisiana-senate-primary/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Cassidy’s do-or-die Louisiana primary battle: What to know",
+            "url": "https://thehill.com/homenews/campaign/5881605-trump-backed-letlow-challenges-cassidy/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump rips Cassidy as ‘disloyal disaster’ ahead of high stakes primary",
+            "url": "https://thehill.com/homenews/senate/5881361-donald-trump-bill-cassidy-louisiana-primary-election/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "GOP senator who defied Trump on impeachment faces voters, five years later",
             "url": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "After Indiana purge, Trump sets sights on Louisiana’s Bill Cassidy",
-            "url": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
-            "url": "https://www.npr.org/2026/05/16/nx-s1-5808979/louisiana-senate-cassidy-trump",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Biden Family Scrutiny Continues amid New Revelations",
-        "body": "Hunter Biden emerged in Los Angeles, responding to questions about controversial recordings and government files. The ongoing investigation into the president's son continues to generate political tension, with right-leaning media maintaining intense focus on potential improprieties.\n\nThe story highlights the persistent challenges facing the Biden administration, with Republicans continuing to press for further investigations. Media coverage remains divided, reflecting the polarized political environment surrounding the Biden family.",
+        "headline": "Trump Returns from China Amid Rising Iran War Economic Tensions",
+        "body": "President Trump's recent summit with Xi Jinping has sparked intense debate about US-China relations and potential economic fallout. Geopolitical tensions around Iran are driving significant economic anxiety, with energy prices emerging as a key concern.\n\nAnalysts are divided on the summit's outcomes. Some argue China is now on the defensive, while others suggest Trump made strategic concessions. The long-term implications for US foreign policy and global trade remain uncertain.",
         "sources": [
           {
-            "title": "Hunter Biden resurfaces in LA, reacts to questions about Biden tapes, UFO files",
-            "url": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Sunday shows preview: Trump returns from China as Iran war fuels economic anxiety",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/5881521-trump-china-iran-energy-prices/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Fetterman frustrates Democrats with pro-Trump remarks on Fox News",
-            "url": "https://thehill.com/homenews/senate/5880487-john-fetterman-democrat-controversy/",
+            "title": "After the Trump-Xi summit, China, not America, is on the back foot",
+            "url": "https://thehill.com/opinion/international/5879910-xi-trump-meeting-china-us/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Maher pans president over Xi summit: ‘China knows what Trump likes’",
+            "url": "https://thehill.com/blogs/in-the-know/5881341-bill-maher-slams-trump-beijing-summit/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Jimmy Lai’s daughter praises Trump for mentioning imprisoned father to Xi",
+            "url": "https://thehill.com/homenews/administration/5881209-jimmy-lai-donald-trump-xi-jinping-summit/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Supreme Court Reshapes Virginia's Political Battleground",
-        "body": "The Supreme Court dealt a significant blow to Virginia Democrats by blocking the state's congressional map. This decision could dramatically alter the state's electoral landscape, potentially giving Republicans a strategic advantage in upcoming elections.\n\nBoth liberal and conservative media outlets are analyzing the potential implications. The ruling underscores ongoing legal battles over redistricting and represents another critical moment in the complex terrain of electoral politics.",
+        "headline": "Labor Disputes and Infrastructure Challenges Disrupt Northeast",
+        "body": "The Long Island Railroad has suspended service as workers strike, creating transportation chaos in the New York metropolitan area. The dispute highlights ongoing tensions between labor and management in critical infrastructure sectors.\n\nPolitical leaders are trading blame, with Trump and New York Governor Hochul engaging in public criticism over the strike's handling. The shutdown underscores the fragile state of transportation networks and labor relations in the region.",
         "sources": [
           {
-            "title": "Supreme Court deals blow to Virginia Democrats in fight over state court election map ruling",
-            "url": "https://www.foxnews.com/politics/supreme-court-deals-blow-virginia-democrats-fight-over-state-court-ruling",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Trump claps back at Hochul in blame game for Long Island Railroad strike",
+            "url": "https://thehill.com/homenews/administration/5881517-trump-hochul-railroad-strike/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
-            "url": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Supreme Court declines to restore Virginia Democrats’ congressional map",
-            "url": "https://thehill.com/regulation/court-battles/5880850-supreme-court-rejects-virginia-congressional-map/",
+            "title": "Long Island Rail Road service suspended as workers take to the picket lines",
+            "url": "https://thehill.com/homenews/state-watch/5881372-long-island-rail-road-suspended-worker-strike-new-york/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,129 +84,105 @@
     ],
     "au-politics": [
       {
-        "headline": "Taylor Challenges Sex Discrimination Act After Controversial Ruling",
-        "body": "Opposition Leader Angus Taylor has vowed to amend the Sex Discrimination Act following the recent Tickle v Giggle court decision. The move signals a potential legislative battle over gender and legal identity definitions.\n\nThe proposed changes reflect deep divisions in Australian political discourse. Conservative voices argue the current law creates legal ambiguities, while progressive groups warn against potential rollbacks of existing protections.",
+        "headline": "Political Donations Reform Sparks Heated Victorian Debate",
+        "body": "The Allan government is scrambling to overhaul Victoria's electoral donation laws, signaling a potential seismic shift in political financing. Proposed changes aim to increase transparency and reduce potential conflicts of interest in campaign funding.\n\nCritical voices from both major parties have emerged, with some arguing the reforms don't go far enough and others claiming they could unfairly disadvantage certain political organizations. The proposed legislation represents a significant test of the government's commitment to electoral integrity.",
         "sources": [
           {
-            "title": "Taylor vows to amend Sex Discrimination Act following 'Tickle v Giggle' ruling",
-            "url": "https://www.abc.net.au/news/2026-05-16/opposition-leader-angus-taylor-vows-amend-sex-discrimination-act/106688258",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Victoria's Political Landscape Sparks Heated National Debate",
-        "body": "Victoria continues to be a focal point of national political tension, with conservative commentators criticizing the state's policy directions. The Spectator AU has published pointed critiques suggesting systemic challenges in the state's governance.\n\nThe ongoing discourse highlights the stark ideological differences between state and federal political perspectives. These debates touch on broader questions of policy implementation, social values, and political representation.",
-        "sources": [
-          {
-            "title": "A future, betrayed in Australia",
-            "url": "https://www.spectator.com.au/2026/05/a-future-betrayed-in-australia/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Victoria, the Anchor Man State",
-            "url": "https://www.spectator.com.au/2026/05/victoria-the-anchor-man-state/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Isla Bell Case Raises Urgent Questions About Justice System",
-        "body": "The dropped charges in the Isla Bell case have triggered widespread public outcry and calls for systemic reform. Vigils and rallies in Melbourne have demanded accountability and transparency in criminal investigations.\n\nThe case has exposed potential weaknesses in legal processes, with community members arguing that the justice system has failed to deliver closure for the victim's family. Media coverage has amplified the community's sense of frustration and loss.",
-        "sources": [
-          {
-            "title": "'Destroys trust in the system': Rally held for Isla Bell",
-            "url": "https://www.abc.net.au/news/2026-05-16/isla-bell-vigil-melbourne-after-charges-dropped/106687772",
+            "title": "'Crisis situation': The Allan government is scrambling to remake donation laws",
+            "url": "https://www.abc.net.au/news/2026-05-17/victoria-electoral-act-political-donations-governmnet-new-laws/106687658",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/teenager-isla-bells-body-was-found-in-a-melbourne-tip-18-months-ago-today-friends-and-family-demanded-justice-ntwnfb",
+            "title": "Liberal party ‘corroded by hate’ MP says amid concerns of ‘dog whistling’ on immigration",
+            "url": "https://www.theguardian.com/australia-news/2026/may/17/liberal-party-corroded-by-hate-mp-says-amid-concerns-of-dog-whistling-on-immigration",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Jim Chalmers wants to make Australia more fair – but is it enough to stave off the threat from One Nation? | Zoe Daniel",
+            "url": "https://www.theguardian.com/australia-news/commentisfree/2026/may/17/australia-federal-budget-jim-chalmers-fairness-one-nation-threat-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Australia Weighs Nuclear Submarine Program Amid Rising Tensions",
+        "body": "The Aukus submarine program faces mounting scrutiny as costs and delays continue to escalate. Questions are mounting about whether Australia will successfully develop its nuclear submarine capability within projected timelines.\n\nDefense experts and political commentators are divided. Some argue the strategic investment is crucial for national security, while others see it as an expensive and potentially problematic long-term commitment. The debate reflects broader tensions in Australia's defense and diplomatic positioning.",
+        "sources": [
+          {
+            "title": "As Aukus spending and delays blow out, will Australia’s nuclear submarines ever materialise?",
+            "url": "https://www.theguardian.com/world/2026/may/17/australia-aukus-spending-delays-nuclear-submarines",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Taiwan remains committed to status quo after Trump's China trip",
+            "url": "https://www.abc.net.au/news/2026-05-17/taiwan-asserts-its-independence-after-trump-visits-china/106689078",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "China quietly turns off supply of world's most used industrial chemical",
+            "url": "https://www.abc.net.au/news/rural/2026-05-17/china-turns-off-sulphuric-acid-supply/106682704",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Israel-Hamas Conflict Intensifies with Targeted Strikes",
-        "body": "Hamas confirmed a top commander was killed in an Israeli air strike on Gaza City - the latest escalation in the ongoing conflict. The strike targeted a high-level Hamas leadership member, marking another brutal chapter in the region's persistent violence.\n\nSimultaneously, tensions remain high in the West Bank, where an Israeli settler was reported to have blindfolded and detained a Palestinian - highlighting the continued friction between Israeli settlers and local Palestinian populations. These incidents underscore the deep-rooted complexities of the Israeli-Palestinian conflict.",
+        "headline": "Political Violence Escalates in Colombia Ahead of Election",
+        "body": "Two presidential campaign staffers were killed in Colombia on Saturday, raising tensions just days before the national elections. The murders underscore the ongoing political volatility in the country - a stark reminder of the persistent risks facing political workers.\n\nCampaign violence has long plagued Colombian elections. These latest killings suggest deep political divisions and potential attempts to intimidate candidates or their supporters through targeted violence.",
         "sources": [
           {
-            "title": "Hamas confirms top commander killed in Israeli air strike",
-            "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel launches deadly air strikes on Gaza City apartment building",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
-            "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
+            "title": "Two presidential campaign staffers killed in Colombia as elections near",
+            "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global Terror Fight: IS and Kataib Hezbollah Leaders Targeted",
-        "body": "US forces scored significant counterterrorism victories this week - killing a senior Islamic State leader in a joint operation with Nigerian troops and charging an alleged Iran-backed Kataib Hezbollah suspect. President Trump also announced the elimination of ISIL's second-in-command, Abu-Bilal al-Minuki.\n\nThese operations signal continued international efforts to dismantle terrorist networks across multiple regions. The coordinated actions demonstrate ongoing US commitment to global counterterrorism strategies.",
+        "headline": "Taiwan Defies Trump, Declares Sovereign Independence",
+        "body": "Taiwan has boldly asserted its independence in response to recent remarks by former US President Trump about arms sales. The island nation directly challenged Beijing's claims by explicitly stating it is a sovereign state - a move likely to further inflame cross-strait tensions.\n\nTaiwan's declaration comes amid escalating geopolitical pressures. Its government seems determined to solidify its international standing, despite potential diplomatic and military risks from China.",
         "sources": [
           {
-            "title": "Senior IS leader killed by US and Nigerian forces",
-            "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Taiwan says it is an independent nation after Trump arms sale remarks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
+            "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Taiwan insists it is independent after Trump warning",
+            "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
-            "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
-            "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global Tensions Rise: Trump-Xi Summit and Geopolitical Maneuvers",
-        "body": "Hours after a summit with Chinese President Xi, Trump warned Taiwan against declaring independence - signaling complex diplomatic negotiations. Russia's Putin is set to visit China, following Trump's recent trip, suggesting potential realignment of global power dynamics.\n\nThe Iran conflict continues to simmer, with day 78 of tensions seeing signals of potential talks and a extended Lebanon truce. These interconnected diplomatic moves highlight the intricate geopolitical landscape of 2026.",
+        "headline": "Global Protests Erupt Over Eurovision and Israel",
+        "body": "Thousands of demonstrators gathered at the Eurovision Song Contest final, with five countries boycotting the event over Israel's involvement. The protests reflect ongoing international tensions surrounding the Israel-Palestine conflict.\n\nThe demonstration highlights the growing global solidarity movement challenging Israel's actions. Protesters used the high-profile cultural event as a platform to draw international attention to their political grievances.",
         "sources": [
           {
-            "title": "Russia’s Putin to visit China following Trump’s trip",
-            "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
+            "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
+            "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-            "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+            "title": "Thousands march in central London to mark 78th Nakba anniversary",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/thousands-march-in-central-london-to-mark-78th-nakba-anniversary?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-            "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           }
         ]
@@ -202,43 +190,55 @@
     ],
     "ai": [
       {
-        "headline": "AI Reshapes Workplace: Companies Restructure Around New Tech",
-        "body": "The tech industry is undergoing a radical transformation as organizations rebuild themselves to leverage artificial intelligence. A new blueprint for AI-native companies emerged, highlighting fundamental shifts in how businesses operate and structure their teams.\n\nKey developments include novel approaches to organizational design and emerging technologies that promise more efficient workflows. Companies are no longer simply adding AI tools - they're reimagining entire operational models to put AI at the core of their strategy.",
+        "headline": "AI Research Ethics Tighten as Platforms Set Boundaries",
+        "body": "Academic and research platforms are cracking down on AI-generated work. ArXiv will now ban authors for a year if artificial intelligence completes their entire research submission - a sharp signal about maintaining scholarly integrity.\n\nThe move reflects growing concerns about AI's role in academic publishing. Researchers must now demonstrate meaningful human contribution, pushing back against fully automated research submissions that could undermine scientific credibility.",
         "sources": [
           {
-            "title": "Setting up an AI-native organization",
-            "url": "https://aweb.ai/blog/ai-first-company-howto",
-            "source": "Hacker News",
+            "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+            "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-            "url": "https://arxiv.org/abs/2605.12357",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-            "source": "The Verge",
+            "title": "The US is betting on AI to catch insider trading in prediction markets",
+            "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Legal Battles and Ethics Roil AI's Rapid Expansion",
-        "body": "The AI landscape continues to be marked by intense legal and ethical challenges. Anthropic faces complications with its $1.5B copyright settlement, while arXiv announced strict measures against AI-generated research submissions.\n\nThe ongoing trial between Musk and Altman underscores the high-stakes conflicts driving the AI industry. Regulatory pressures are mounting as platforms like YouTube expand deepfake detection tools and research institutions seek to maintain academic integrity in an era of generative AI.",
+        "headline": "OpenAI Reshuffles Leadership as Product Strategy Shifts",
+        "body": "Greg Brockman has assumed direct control of product strategy at OpenAI, signaling potential internal realignment after last year's leadership turbulence. The co-founder's new role suggests the company is refocusing on core product development and strategic direction.\n\nThis leadership move comes amid ongoing industry debates about AI development, ethical boundaries, and competitive positioning in the rapidly evolving generative AI landscape.",
         "sources": [
           {
-            "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-            "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-            "source": "Ars Technica",
+            "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+            "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "ArXiv will ban researchers who upload papers full of AI slop",
-            "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-            "source": "The Verge",
+            "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+            "source": "MIT Tech Review",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tech Giants Wrestle with AI's Uneven Global Impact",
+        "body": "The AI revolution is creating stark technological divides, with access and opportunity unevenly distributed across global markets. Some companies and regions are racing ahead while others risk being left behind.\n\nTech platforms are grappling with complex challenges - from deepfake detection to ethical deployment of advanced AI tools. The emerging landscape reveals both immense potential and significant technological inequality.",
+        "sources": [
+          {
+            "title": "The haves and have nots of the AI gold rush",
+            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+            "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+            "source": "Wired",
             "lean": null
           },
           {
@@ -246,61 +246,31 @@
             "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
             "source": "The Verge",
             "lean": null
-          },
-          {
-            "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-            "source": "MIT Tech Review",
-            "lean": null
-          },
-          {
-            "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-            "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-            "source": "TechCrunch",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin ETFs Lose $1B as Market Sentiment Shifts",
-        "body": "Spot Bitcoin ETFs experienced their first outflow in six weeks, shedding $1 billion in investor capital. The drawdown signals potential cooling in institutional enthusiasm after a prolonged period of sustained inflows. Market analysts are watching closely to see if this represents a temporary pullback or a more significant trend in institutional Bitcoin investment strategies.",
+        "headline": "Bitcoin Dips Below $78K - Bear Trap or Market Correction?",
+        "body": "Bitcoin's price tumbled under $78,000 in the past 24 hours, triggering speculation about market sentiment. Technical analysts suggest the current downturn might be a classic bear trap - a temporary price decline designed to shake out weak investors before a potential rebound.\n\nThe cryptocurrency's volatility continues to challenge investors, with rapid price movements testing trader resolve. Market watchers are closely monitoring key support levels, looking for signals of sustained trend direction.",
         "sources": [
           {
-            "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
-            "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
+            "url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "US CLARITY Act Sparks Bitcoin Market Optimism",
-        "body": "The recently passed CLARITY Act has injected renewed excitement into the Bitcoin ecosystem. Santiment reported a major spike in market euphoria following the regulatory development. The legislation appears to be providing clearer guidelines for cryptocurrency operations - potentially reducing uncertainty that has historically dampened institutional interest in Bitcoin.",
+        "headline": "Sovereign Funds Reshuffle Bitcoin Investment Strategies",
+        "body": "Major institutional investors are recalibrating their cryptocurrency portfolios, with notable shifts emerging in Bitcoin holdings. Abu Dhabi's sovereign wealth fund continues to increase its Bitcoin positions, signaling sustained institutional confidence in the digital asset.\n\nIn contrast, Harvard has reportedly reduced its cryptocurrency exposure, specifically dumping its ether ETF. These strategic moves highlight the ongoing institutional reassessment of digital asset investments amid evolving market dynamics.",
         "sources": [
           {
-            "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
-            "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
-            "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Price Drops - Crypto Longs Suffer Massive Losses",
-        "body": "Bitcoin tumbled to $78,000, triggering $500 million in liquidations for long-position traders. The sharp decline underscores the continued volatility in cryptocurrency markets. Investors are reassessing their positions amid mixed signals from regulatory developments and institutional investment trends.",
-        "sources": [
-          {
-            "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
-            "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
-            "source": "CoinDesk",
+            "title": "Harvard dumps ether ETF as Abu Dhabi sovereign fund keeps adding to bitcoin positions",
+            "url": "https://www.theblock.co/post/401518/sovereign-funds-universities-banks-reshuffle-bitcoin-altcoin-etf-positions?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -309,21 +279,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Shakshuka",
+      "cuisine": "Middle Eastern",
+      "description": "Eggs poached in spiced tomato sauce",
+      "tip": "Add feta on top"
     },
     "health": {
-      "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement micro-movements and ergonomic shifts every 20 minutes to prevent static muscle tension and joint compression",
-      "tip": "Use painter's tape on your floor to mark ideal foot placement and remind yourself to reset your stance periodically"
+      "category": "Exercise",
+      "name": "30-min walk",
+      "description": "Easy active recovery session outdoors",
+      "tip": "Walk outside for natural light and vitamin D"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, transportation, and sustainable living",
-      "why": "Understanding how nature solves complex problems can provide breakthrough solutions to human-made challenges in urban environments"
+      "topic": "The Fermi Paradox",
+      "description": "Why haven't we found alien life?",
+      "why": "One of the biggest unanswered questions in science"
     }
   }
 }
