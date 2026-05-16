@@ -1,11 +1,53 @@
 {
-  "generatedAt": "2026-05-16T05:11:10.604Z",
+  "generatedAt": "2026-05-16T10:32:02.420Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Strikes Down Virginia Democrats' Election Map",
-        "body": "The Supreme Court has dealt a significant blow to Virginia Democrats by refusing to restore their congressional district map. Conservative justices sided with Republican arguments that the map was unfairly drawn to benefit Democratic candidates.\n\nThe ruling could reshape the state's political landscape ahead of upcoming elections. Democrats argue the decision undermines fair representation, while Republicans view it as a victory for electoral integrity.",
+        "headline": "Trump's Political Revenge Tour Targets GOP Dissenters",
+        "body": "Former President Trump continues his campaign to reshape the Republican Party, targeting senators who voted against him during impeachment. In Indiana, he successfully ousted a critic, and now sets his sights on Louisiana Senator Bill Cassidy. The moves signal an ongoing effort to punish internal party opposition and consolidate Trump's influence.\n\nSome GOP senators who defied Trump face tough reelection battles. The political landscape remains tense, with Trump's endorsement carrying significant weight in primary contests. His strategy of challenging incumbent Republicans who challenged him during his presidency continues to send ripples through the party.",
+        "sources": [
+          {
+            "title": "GOP senator who defied Trump on impeachment faces voters, five years later",
+            "url": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "After Indiana purge, Trump sets sights on Louisiana’s Bill Cassidy",
+            "url": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
+            "url": "https://www.npr.org/2026/05/16/nx-s1-5808979/louisiana-senate-cassidy-trump",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Biden Family Scrutiny Continues amid New Revelations",
+        "body": "Hunter Biden emerged in Los Angeles, responding to questions about controversial recordings and government files. The ongoing investigation into the president's son continues to generate political tension, with right-leaning media maintaining intense focus on potential improprieties.\n\nThe story highlights the persistent challenges facing the Biden administration, with Republicans continuing to press for further investigations. Media coverage remains divided, reflecting the polarized political environment surrounding the Biden family.",
+        "sources": [
+          {
+            "title": "Hunter Biden resurfaces in LA, reacts to questions about Biden tapes, UFO files",
+            "url": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Fetterman frustrates Democrats with pro-Trump remarks on Fox News",
+            "url": "https://thehill.com/homenews/senate/5880487-john-fetterman-democrat-controversy/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Reshapes Virginia's Political Battleground",
+        "body": "The Supreme Court dealt a significant blow to Virginia Democrats by blocking the state's congressional map. This decision could dramatically alter the state's electoral landscape, potentially giving Republicans a strategic advantage in upcoming elections.\n\nBoth liberal and conservative media outlets are analyzing the potential implications. The ruling underscores ongoing legal battles over redistricting and represents another critical moment in the complex terrain of electoral politics.",
         "sources": [
           {
             "title": "Supreme Court deals blow to Virginia Democrats in fight over state court election map ruling",
@@ -26,124 +68,52 @@
             "lean": "center"
           }
         ]
-      },
-      {
-        "headline": "Trump Reveals $220M in Financial Transactions - DC Prepares for Summer Security",
-        "body": "Former President Trump disclosed $220 million in financial transactions, drawing fresh scrutiny to his economic activities. The disclosure comes amid ongoing legal and financial investigations.\n\nSimultaneously, the Trump administration is launching a major security initiative in Washington DC. The Department of Justice plans to deploy 1,500 National Guard troops as part of a 'summer surge' designed to ensure safety during America's 250th anniversary celebrations.",
-        "sources": [
-          {
-            "title": "Trump discloses $220M in financial transactions",
-            "url": "https://thehill.com/homenews/administration/5881010-trump-discloses-220m-transactions/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump admin launches 'summer surge' of feds to make DC safest city in America ahead of 250th anniversary",
-            "url": "https://www.foxnews.com/politics/trump-admin-launches-summer-surge-feds-make-dc-safest-city-america-ahead-250th-anniversary",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "DOJ requests 1,500 more National Guard troops for planned DC ‘summer surge’",
-            "url": "https://thehill.com/homenews/administration/5880579-nationa-guard-dc-america-250/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Colorado Governor Commutes Election Clerk Tina Peters' Sentence",
-        "body": "Colorado Governor Jared Polis has commuted the sentence of Tina Peters, a controversial election clerk convicted of tampering with voting equipment. The move follows vocal support from former President Trump, who posted 'FREE TINA!' on social media.\n\nPeters' case has been a flashpoint in ongoing debates about election integrity and potential voter fraud. Her supporters see the commutation as vindication, while critics argue it undermines electoral processes.",
-        "sources": [
-          {
-            "title": "Colorado governor commutes Tina Peters' sentence as Trump posts ‘FREE TINA!’",
-            "url": "https://www.foxnews.com/politics/colorado-governor-commutes-tina-peters-sentence-trump-posts-free-tina",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence",
-            "url": "https://thehill.com/homenews/state-watch/5880729-election-clerk-freed-colorado/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
-            "url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Queensland Labor Faces Tough Byelection Test in Stafford",
-        "body": "The Stafford byelection looms as a critical test for Queensland Labor and Premier Steven Miles. Political analysts suggest the contest could swing towards the Liberal National Party (LNP), potentially exposing internal party vulnerabilities.\n\nThe by-election represents more than a local contest - it signals broader voter sentiment about Labor's current leadership and performance. Miles faces potential leadership challenges if the result indicates declining voter support, with party strategists watching closely.",
+        "headline": "Taylor Challenges Sex Discrimination Act After Controversial Ruling",
+        "body": "Opposition Leader Angus Taylor has vowed to amend the Sex Discrimination Act following the recent Tickle v Giggle court decision. The move signals a potential legislative battle over gender and legal identity definitions.\n\nThe proposed changes reflect deep divisions in Australian political discourse. Conservative voices argue the current law creates legal ambiguities, while progressive groups warn against potential rollbacks of existing protections.",
         "sources": [
           {
-            "title": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "‘A watchdog without resources is not a watchdog’: Labor accused of letting key accountability body languish",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/australian-national-audit-office-watchdog-cuts-labor-david-pocock",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "POV: you’re Jim Chalmers using social media to sell the most ambitious budget of your life",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/pov-youre-jim-chalmers-using-social-media-to-sell-the-most-ambitious-budget-of-your-life",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Taylor vows to amend Sex Discrimination Act following 'Tickle v Giggle' ruling",
+            "url": "https://www.abc.net.au/news/2026-05-16/opposition-leader-angus-taylor-vows-amend-sex-discrimination-act/106688258",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Federal Budget Sparks Debate on Economic Direction",
-        "body": "The latest federal budget has triggered robust political discussion about Australia's economic strategy. Treasurer Jim Chalmers is actively using social media to promote the budget's key initiatives, while conservative commentators critique potential gaps in the fiscal approach.\n\nKey points of contention include government spending priorities, infrastructure investment, and long-term economic planning. The budget's reception will likely shape political narratives in the coming months.",
+        "headline": "Victoria's Political Landscape Sparks Heated National Debate",
+        "body": "Victoria continues to be a focal point of national political tension, with conservative commentators criticizing the state's policy directions. The Spectator AU has published pointed critiques suggesting systemic challenges in the state's governance.\n\nThe ongoing discourse highlights the stark ideological differences between state and federal political perspectives. These debates touch on broader questions of policy implementation, social values, and political representation.",
         "sources": [
           {
-            "title": "The one word missing from the budget",
-            "url": "https://www.spectator.com.au/2026/05/the-one-word-missing-from-the-budget/",
+            "title": "A future, betrayed in Australia",
+            "url": "https://www.spectator.com.au/2026/05/a-future-betrayed-in-australia/",
             "source": "Spectator AU",
             "lean": "right"
           },
           {
-            "title": "Kalgoorlie's 'shovel ready' water project misses out in federal budget",
-            "url": "https://www.abc.net.au/news/2026-05-16/water-bank-project-kalgoorlie-boulder-misses-out-federal-budget/106674432",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "PM says fuel supply now above pre-war levels, no word on extending excise cut",
-            "url": "https://www.abc.net.au/news/2026-05-16/fuel-supply-back-to-pre-iran-war-levels-pm-says/106687750",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "POV: you’re Jim Chalmers using social media to sell the most ambitious budget of your life",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/pov-youre-jim-chalmers-using-social-media-to-sell-the-most-ambitious-budget-of-your-life",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Victoria, the Anchor Man State",
+            "url": "https://www.spectator.com.au/2026/05/victoria-the-anchor-man-state/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Northern Territory Moves to Overhaul Child Protection Laws",
-        "body": "The Country Liberal Party (CLP) is pushing for significant changes to child protection legislation in the Northern Territory. The proposed reforms come amid growing concerns about child welfare and systemic challenges in protective services.\n\nThe legislative push reflects ongoing tensions around child protection policy, with lawmakers seeking to address critical gaps in the current system. Detailed proposals suggest a comprehensive review of existing child protection frameworks.",
+        "headline": "Isla Bell Case Raises Urgent Questions About Justice System",
+        "body": "The dropped charges in the Isla Bell case have triggered widespread public outcry and calls for systemic reform. Vigils and rallies in Melbourne have demanded accountability and transparency in criminal investigations.\n\nThe case has exposed potential weaknesses in legal processes, with community members arguing that the justice system has failed to deliver closure for the victim's family. Media coverage has amplified the community's sense of frustration and loss.",
         "sources": [
           {
-            "title": "Amid grief, the NT's CLP rushes drastic child protection changes",
-            "url": "https://www.abc.net.au/news/2026-05-16/northern-territory-clp-rush-drastic-child-protection-law-changes/106679066",
+            "title": "'Destroys trust in the system': Rally held for Isla Bell",
+            "url": "https://www.abc.net.au/news/2026-05-16/isla-bell-vigil-melbourne-after-charges-dropped/106687772",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "‘A watchdog without resources is not a watchdog’: Labor accused of letting key accountability body languish",
-            "url": "https://www.theguardian.com/australia-news/2026/may/16/australian-national-audit-office-watchdog-cuts-labor-david-pocock",
+            "title": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/teenager-isla-bells-body-was-found-in-a-melbourne-tip-18-months-ago-today-friends-and-family-demanded-justice-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -152,51 +122,21 @@
     ],
     "world": [
       {
-        "headline": "Ebola Outbreak Kills 80 in Eastern DR Congo",
-        "body": "A new Ebola outbreak has claimed 80 lives in eastern Democratic Republic of Congo, raising urgent concerns about regional health security. The rapid spread of the virus threatens to overwhelm local medical infrastructure and potentially trigger a wider humanitarian crisis. Health officials are scrambling to contain the outbreak and prevent further transmission.",
+        "headline": "Israel-Hamas Conflict Intensifies with Targeted Strikes",
+        "body": "Hamas confirmed a top commander was killed in an Israeli air strike on Gaza City - the latest escalation in the ongoing conflict. The strike targeted a high-level Hamas leadership member, marking another brutal chapter in the region's persistent violence.\n\nSimultaneously, tensions remain high in the West Bank, where an Israeli settler was reported to have blindfolded and detained a Palestinian - highlighting the continued friction between Israeli settlers and local Palestinian populations. These incidents underscore the deep-rooted complexities of the Israeli-Palestinian conflict.",
         "sources": [
           {
-            "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
-            "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump and Xi Conclude Talks with Tensions Over Taiwan",
-        "body": "President Trump wrapped up high-stakes talks with Chinese President Xi Jinping, delivering a stark warning to Taiwan against declaring independence. The summit produced few concrete agreements - a diplomatic dance of cautious positioning and geopolitical brinkmanship. Trump claimed success but offered limited details about potential breakthroughs on critical issues like trade and regional security.",
-        "sources": [
-          {
-            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-            "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Hamas confirms top commander killed in Israeli air strike",
+            "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-            "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "What did Trump and Xi discuss during the China summit?",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
+            "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
-          {
-            "title": "Is the US dialling down its support for Taiwan?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Israel Launches Deadly Gaza City Air Strikes on Nakba Day",
-        "body": "Israeli forces conducted deadly air strikes on a Gaza City apartment building, killing multiple civilians on Nakba Day - a commemoration of Palestinian displacement. The attack came amid ongoing tensions, with seven Palestinians killed in related violence. A humanitarian aid convoy from Libya is preparing to head to Gaza, highlighting the continued humanitarian crisis in the region.",
-        "sources": [
           {
             "title": "Israel launches deadly air strikes on Gaza City apartment building",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
@@ -204,26 +144,56 @@
             "lean": null
           },
           {
-            "title": "Gaza aid convoy in Libya prepares to head to Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
+            "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
+            "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Global Terror Fight: IS and Kataib Hezbollah Leaders Targeted",
+        "body": "US forces scored significant counterterrorism victories this week - killing a senior Islamic State leader in a joint operation with Nigerian troops and charging an alleged Iran-backed Kataib Hezbollah suspect. President Trump also announced the elimination of ISIL's second-in-command, Abu-Bilal al-Minuki.\n\nThese operations signal continued international efforts to dismantle terrorist networks across multiple regions. The coordinated actions demonstrate ongoing US commitment to global counterterrorism strategies.",
+        "sources": [
+          {
+            "title": "Senior IS leader killed by US and Nigerian forces",
+            "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
+            "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
+            "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
+            "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Global Tensions Rise: Trump-Xi Summit and Geopolitical Maneuvers",
+        "body": "Hours after a summit with Chinese President Xi, Trump warned Taiwan against declaring independence - signaling complex diplomatic negotiations. Russia's Putin is set to visit China, following Trump's recent trip, suggesting potential realignment of global power dynamics.\n\nThe Iran conflict continues to simmer, with day 78 of tensions seeing signals of potential talks and a extended Lebanon truce. These interconnected diplomatic moves highlight the intricate geopolitical landscape of 2026.",
+        "sources": [
+          {
+            "title": "Russia’s Putin to visit China following Trump’s trip",
+            "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
-            "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+            "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+            "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israel says it has killed Hamas commander in Gaza air strike",
-            "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+            "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -232,19 +202,19 @@
     ],
     "ai": [
       {
-        "headline": "OpenAI-Musk Trial Reaches Dramatic Turning Point",
-        "body": "The high-stakes legal battle between Elon Musk and OpenAI has entered its third week, with both sides trading sharp accusations about corporate credibility and AI development ethics. Testimony has revealed deep tensions within the AI industry's most prominent circles.\n\nAs the jury prepares to weigh competing narratives, the trial threatens to expose sensitive details about OpenAI's founding, governance, and strategic direction. The outcome could reshape investor confidence and public perception of leading AI research organizations.",
+        "headline": "AI Reshapes Workplace: Companies Restructure Around New Tech",
+        "body": "The tech industry is undergoing a radical transformation as organizations rebuild themselves to leverage artificial intelligence. A new blueprint for AI-native companies emerged, highlighting fundamental shifts in how businesses operate and structure their teams.\n\nKey developments include novel approaches to organizational design and emerging technologies that promise more efficient workflows. Companies are no longer simply adding AI tools - they're reimagining entire operational models to put AI at the core of their strategy.",
         "sources": [
           {
-            "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-            "source": "MIT Tech Review",
+            "title": "Setting up an AI-native organization",
+            "url": "https://aweb.ai/blog/ai-first-company-howto",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-            "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-            "source": "TechCrunch",
+            "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+            "url": "https://arxiv.org/abs/2605.12357",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -256,9 +226,15 @@
         ]
       },
       {
-        "headline": "ArXiv Cracks Down on AI-Generated Research Garbage",
-        "body": "Academic preprint server ArXiv is taking a hard line against low-quality AI-generated submissions, announcing a ban for researchers who upload papers filled with AI hallucinations. The move signals growing frustration in scientific communities about AI-generated content pollution.\n\nResearchers who submit AI-generated slop will face a yearlong submission ban - a significant penalty that underscores the platform's commitment to maintaining research integrity. The policy reflects mounting concerns about AI's potential to flood academic channels with meaningless or fabricated content.",
+        "headline": "Legal Battles and Ethics Roil AI's Rapid Expansion",
+        "body": "The AI landscape continues to be marked by intense legal and ethical challenges. Anthropic faces complications with its $1.5B copyright settlement, while arXiv announced strict measures against AI-generated research submissions.\n\nThe ongoing trial between Musk and Altman underscores the high-stakes conflicts driving the AI industry. Regulatory pressures are mounting as platforms like YouTube expand deepfake detection tools and research institutions seek to maintain academic integrity in an era of generative AI.",
         "sources": [
+          {
+            "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+            "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+            "source": "Ars Technica",
+            "lean": null
+          },
           {
             "title": "ArXiv will ban researchers who upload papers full of AI slop",
             "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
@@ -266,21 +242,21 @@
             "lean": null
           },
           {
-            "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-            "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-            "source": "Ars Technica",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "YouTube Expands AI Deepfake Detection for All Users",
-        "body": "YouTube is rolling out its AI-powered deepfake detection tool to all adult users, marking a significant step in combating synthetic media manipulation. The platform aims to help users distinguish between authentic and artificially generated content.\n\nThe expansion comes amid growing concerns about AI's potential to create increasingly sophisticated and convincing fake videos. By providing users with detection tools, YouTube hopes to mitigate the spread of misleading or harmful synthetic media.",
-        "sources": [
-          {
             "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
             "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
             "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+            "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -288,61 +264,43 @@
     ],
     "btc": [
       {
-        "headline": "US Clarity Act Sparks Bitcoin Market Euphoria",
-        "body": "The US Clarity Act has triggered a significant surge of optimism in the Bitcoin market. Analysts at Santiment report a major spike in positive sentiment following the regulatory development. The legislation appears to provide clearer guidelines for cryptocurrency operations - potentially reducing uncertainty for investors and businesses in the Bitcoin ecosystem.\n\nThe market response suggests the act could be a turning point for Bitcoin's regulatory landscape. Investors are interpreting the new framework as a positive signal for broader cryptocurrency adoption and institutional engagement.",
+        "headline": "Bitcoin ETFs Lose $1B as Market Sentiment Shifts",
+        "body": "Spot Bitcoin ETFs experienced their first outflow in six weeks, shedding $1 billion in investor capital. The drawdown signals potential cooling in institutional enthusiasm after a prolonged period of sustained inflows. Market analysts are watching closely to see if this represents a temporary pullback or a more significant trend in institutional Bitcoin investment strategies.",
         "sources": [
+          {
+            "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+            "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US CLARITY Act Sparks Bitcoin Market Optimism",
+        "body": "The recently passed CLARITY Act has injected renewed excitement into the Bitcoin ecosystem. Santiment reported a major spike in market euphoria following the regulatory development. The legislation appears to be providing clearer guidelines for cryptocurrency operations - potentially reducing uncertainty that has historically dampened institutional interest in Bitcoin.",
+        "sources": [
+          {
+            "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+            "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
             "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades",
-            "url": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
-            "source": "Decrypt",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Depot Faces Potential Collapse Amid Financial Challenges",
-        "body": "Bitcoin Depot is teetering on the brink of financial disaster. The cryptocurrency ATM operator has issued warnings about potential bankruptcy as revenue from its machine network continues to decline. Mounting legal challenges and increasing regulatory scrutiny are compounding the company's financial woes.\n\nThe situation highlights the ongoing volatility in Bitcoin's infrastructure and service providers. Investors and industry watchers are closely monitoring the company's potential collapse - which could signal broader challenges in the Bitcoin ATM and retail cryptocurrency market.",
+        "headline": "Bitcoin Price Drops - Crypto Longs Suffer Massive Losses",
+        "body": "Bitcoin tumbled to $78,000, triggering $500 million in liquidations for long-position traders. The sharp decline underscores the continued volatility in cryptocurrency markets. Investors are reassessing their positions amid mixed signals from regulatory developments and institutional investment trends.",
         "sources": [
           {
-            "title": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits",
-            "url": "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
-            "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Investors Expand Bitcoin Positions Despite Market Uncertainty",
-        "body": "Major international investors are increasing their Bitcoin exposure despite market fluctuations. Abu Dhabi's Mubadala investment fund has raised its Bitcoin ETF stake by 16% - reaching $566 million in the first quarter of 2026. The move signals continued institutional confidence in Bitcoin as an asset class.\n\nSimilarly, the Winklevoss twins have made a significant $100 million bet on their Gemini platform, causing the company's stock to jump. These strategic investments suggest ongoing institutional interest in Bitcoin's long-term potential.",
-        "sources": [
-          {
-            "title": "Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
-            "url": "https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future",
-            "url": "https://bitcoinmagazine.com/news/gemini-stock-jumps-after-winklevoss-twins",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
-            "url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
-            "source": "Decrypt",
+            "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+            "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -351,21 +309,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Lamb Tagine with Preserved Lemons",
+      "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked tender lamb with aromatic spices, served over saffron couscous",
-      "tip": "Use a heavy-bottomed clay tagine if possible to ensure even, slow heat distribution"
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset Protocol",
-      "description": "A targeted 5-minute series of stretches and micro-movements to realign spine and reset muscle tension after prolonged sitting",
-      "tip": "Set a hourly phone alarm with a custom 'spine reset' shortcut to make this a consistent habit"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and ergonomic shifts every 20 minutes to prevent static muscle tension and joint compression",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and remind yourself to reset your stance periodically"
     },
     "learn": {
-      "topic": "The Fermi Paradox and Drake Equation",
-      "description": "A scientific exploration of the probability of extraterrestrial intelligent life in the universe, balancing mathematical probability with observable evidence",
-      "why": "It's a fascinating intersection of astronomy, statistics, and philosophical speculation that challenges our understanding of our cosmic significance"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, transportation, and sustainable living",
+      "why": "Understanding how nature solves complex problems can provide breakthrough solutions to human-made challenges in urban environments"
     }
   }
 }
