@@ -1,12 +1,42 @@
 {
-  "generatedAt": "2026-05-15T22:25:04.304Z",
+  "generatedAt": "2026-05-16T05:11:10.604Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Administration Launches DC Security Surge for 250th Anniversary",
-        "body": "The Trump administration is mobilizing federal resources to enhance security in Washington DC ahead of the nation's 250th anniversary celebration. The Department of Justice has requested 1,500 additional National Guard troops to support a comprehensive safety strategy. \n\nThe initiative aims to transform DC into the safest city in America, with plans including increased federal presence and strict enforcement measures. A new approach to urban safety is emerging - including potential prosecution of parents whose teens violate curfew.",
+        "headline": "Supreme Court Strikes Down Virginia Democrats' Election Map",
+        "body": "The Supreme Court has dealt a significant blow to Virginia Democrats by refusing to restore their congressional district map. Conservative justices sided with Republican arguments that the map was unfairly drawn to benefit Democratic candidates.\n\nThe ruling could reshape the state's political landscape ahead of upcoming elections. Democrats argue the decision undermines fair representation, while Republicans view it as a victory for electoral integrity.",
         "sources": [
+          {
+            "title": "Supreme Court deals blow to Virginia Democrats in fight over state court election map ruling",
+            "url": "https://www.foxnews.com/politics/supreme-court-deals-blow-virginia-democrats-fight-over-state-court-ruling",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
+            "url": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Supreme Court declines to restore Virginia Democrats’ congressional map",
+            "url": "https://thehill.com/regulation/court-battles/5880850-supreme-court-rejects-virginia-congressional-map/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Reveals $220M in Financial Transactions - DC Prepares for Summer Security",
+        "body": "Former President Trump disclosed $220 million in financial transactions, drawing fresh scrutiny to his economic activities. The disclosure comes amid ongoing legal and financial investigations.\n\nSimultaneously, the Trump administration is launching a major security initiative in Washington DC. The Department of Justice plans to deploy 1,500 National Guard troops as part of a 'summer surge' designed to ensure safety during America's 250th anniversary celebrations.",
+        "sources": [
+          {
+            "title": "Trump discloses $220M in financial transactions",
+            "url": "https://thehill.com/homenews/administration/5881010-trump-discloses-220m-transactions/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump admin launches 'summer surge' of feds to make DC safest city in America ahead of 250th anniversary",
             "url": "https://www.foxnews.com/politics/trump-admin-launches-summer-surge-feds-make-dc-safest-city-america-ahead-250th-anniversary",
@@ -18,52 +48,28 @@
             "url": "https://thehill.com/homenews/administration/5880579-nationa-guard-dc-america-250/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Parents of teens who break curfew in D.C. will be prosecuted, DOJ says",
-            "url": "https://www.washingtonpost.com/politics/2026/05/15/trump-administration-plans-summer-surge-dc-ahead-america-250-events/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Border and Migration Policies Spark Heated Political Debate",
-        "body": "Trump's border policies continue to draw sharp contrasts with the previous administration's approach. The former president claims significant milestones in border management, while critics argue his rhetoric echoes white nationalist language. \n\nThe State Department's migration communications have become a focal point of political tension. Competing narratives about border security and immigration strategy remain deeply polarized, with each side presenting starkly different interpretations of national security needs.",
+        "headline": "Colorado Governor Commutes Election Clerk Tina Peters' Sentence",
+        "body": "Colorado Governor Jared Polis has commuted the sentence of Tina Peters, a controversial election clerk convicted of tampering with voting equipment. The move follows vocal support from former President Trump, who posted 'FREE TINA!' on social media.\n\nPeters' case has been a flashpoint in ongoing debates about election integrity and potential voter fraud. Her supporters see the commutation as vindication, while critics argue it undermines electoral processes.",
         "sources": [
           {
-            "title": "Trump hits dramatic milestone in massive departure from Biden border plan: 'What a difference'",
-            "url": "https://www.foxnews.com/politics/trump-hits-dramatic-milestone-massive-departure-from-biden-border-plan-what-difference",
+            "title": "Colorado governor commutes Tina Peters' sentence as Trump posts ‘FREE TINA!’",
+            "url": "https://www.foxnews.com/politics/colorado-governor-commutes-tina-peters-sentence-trump-posts-free-tina",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Under Trump, State Department language on migration echoes that of white nationalists",
-            "url": "https://www.npr.org/2026/05/15/nx-s1-5819738/under-trump-state-department-language-on-migration-echoes-that-of-white-nationalists",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Mullin rips Spanberger for ‘criminalizing’ DHS while ICE arrests illegal alien felon in her ‘sanctuary’ state",
-            "url": "https://www.foxnews.com/politics/mullin-rips-spanberger-criminalizing-dhs-ice-arrests-illegal-alien-felon-sanctuary-state",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Tech Leaders Summoned to Capitol Hill Over Online Child Safety",
-        "body": "Tech company CEOs face congressional scrutiny over children's online safety. Senate leaders have invited top executives to address growing concerns about digital platforms' impact on young users. \n\nThe hearing signals increasing legislative interest in regulating technology's interaction with minors. Lawmakers from both parties appear united in demanding more robust protections for children in digital spaces.",
-        "sources": [
-          {
-            "title": "Tech CEOs invited to Capitol Hill to answer questions about kids online safety",
-            "url": "https://thehill.com/policy/technology/5880301-kids-online-safety-tech-hearing-chuck-grassley/",
+            "title": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence",
+            "url": "https://thehill.com/homenews/state-watch/5880729-election-clerk-freed-colorado/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
-            "url": "https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian",
+            "title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
+            "url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
             "source": "NPR",
             "lean": "left"
           }
@@ -72,62 +78,104 @@
     ],
     "au-politics": [
       {
-        "headline": "NSW MP Faces Contempt Proceedings Over Online Outburst",
-        "body": "Mark Latham confronts potential disciplinary action after what ABC describes as a controversial online statement. The NSW politician stands accused of conduct deemed grossly inappropriate by parliamentary standards.\n\nThe contempt proceedings signal escalating tensions within state political circles. Latham - a polarizing figure known for provocative commentary - now faces potential sanctions that could impact his political standing.",
+        "headline": "Queensland Labor Faces Tough Byelection Test in Stafford",
+        "body": "The Stafford byelection looms as a critical test for Queensland Labor and Premier Steven Miles. Political analysts suggest the contest could swing towards the Liberal National Party (LNP), potentially exposing internal party vulnerabilities.\n\nThe by-election represents more than a local contest - it signals broader voter sentiment about Labor's current leadership and performance. Miles faces potential leadership challenges if the result indicates declining voter support, with party strategists watching closely.",
         "sources": [
           {
-            "title": "'Grossly incompetent': Action taken against rogue MP after online outburst",
-            "url": "https://www.abc.net.au/news/2026-05-16/contempt-proceedings-launched-against-nsw-mp-mark-latham/106686454",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "‘A watchdog without resources is not a watchdog’: Labor accused of letting key accountability body languish",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/australian-national-audit-office-watchdog-cuts-labor-david-pocock",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "POV: you’re Jim Chalmers using social media to sell the most ambitious budget of your life",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/pov-youre-jim-chalmers-using-social-media-to-sell-the-most-ambitious-budget-of-your-life",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "US-China Tensions Persist Despite Diplomatic Engagement",
-        "body": "Diplomatic talks between the United States and China have concluded without significant breakthroughs on key geopolitical issues. Donald Trump's recent Beijing visit highlighted ongoing strategic complexities in the bilateral relationship.\n\nThe discussions touched on multiple global flashpoints - including potential Iran conflict scenarios - but failed to produce substantive resolutions. Analysts suggest the encounter underscores the continuing challenges in managing great power competition.",
+        "headline": "Federal Budget Sparks Debate on Economic Direction",
+        "body": "The latest federal budget has triggered robust political discussion about Australia's economic strategy. Treasurer Jim Chalmers is actively using social media to promote the budget's key initiatives, while conservative commentators critique potential gaps in the fiscal approach.\n\nKey points of contention include government spending priorities, infrastructure investment, and long-term economic planning. The budget's reception will likely shape political narratives in the coming months.",
         "sources": [
           {
-            "title": "Is the US-China rivalry over?",
-            "url": "https://www.abc.net.au/news/2026-05-16/us-donald-trump-china-xi-jinping-end-unipolar-age-beijing/106687004",
+            "title": "The one word missing from the budget",
+            "url": "https://www.spectator.com.au/2026/05/the-one-word-missing-from-the-budget/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Kalgoorlie's 'shovel ready' water project misses out in federal budget",
+            "url": "https://www.abc.net.au/news/2026-05-16/water-bank-project-kalgoorlie-boulder-misses-out-federal-budget/106674432",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "No major Iran war breakthroughs as Trump leaves Beijing",
-            "url": "https://www.abc.net.au/news/2026-05-16/us-donald-trump-leaves-beijing-china-no-breakthroughs-iran-war/106687552",
+            "title": "PM says fuel supply now above pre-war levels, no word on extending excise cut",
+            "url": "https://www.abc.net.au/news/2026-05-16/fuel-supply-back-to-pre-iran-war-levels-pm-says/106687750",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "POV: you’re Jim Chalmers using social media to sell the most ambitious budget of your life",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/pov-youre-jim-chalmers-using-social-media-to-sell-the-most-ambitious-budget-of-your-life",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Federal Budget Targets Aviation Consumer Protections",
-        "body": "The Australian government has proposed a $40 million initiative to enhance airline consumer safeguards. The plan aims to address ongoing concerns about flight reliability and passenger experiences.\n\nPotential outcomes include stricter regulations around fare pricing and flight cancellations. Industry experts warn the reforms might lead to increased ticket costs - a trade-off for improved service standards.",
+        "headline": "Northern Territory Moves to Overhaul Child Protection Laws",
+        "body": "The Country Liberal Party (CLP) is pushing for significant changes to child protection legislation in the Northern Territory. The proposed reforms come amid growing concerns about child welfare and systemic challenges in protective services.\n\nThe legislative push reflects ongoing tensions around child protection policy, with lawmakers seeking to address critical gaps in the current system. Detailed proposals suggest a comprehensive review of existing child protection frameworks.",
         "sources": [
           {
-            "title": "$40m bid for airline crackdown with warnings of fare rises, cancelled flights",
-            "url": "https://www.abc.net.au/news/2026-05-16/federal-budget-aviation-consumer-protections/106665266",
+            "title": "Amid grief, the NT's CLP rushes drastic child protection changes",
+            "url": "https://www.abc.net.au/news/2026-05-16/northern-territory-clp-rush-drastic-child-protection-law-changes/106679066",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "‘A watchdog without resources is not a watchdog’: Labor accused of letting key accountability body languish",
+            "url": "https://www.theguardian.com/australia-news/2026/may/16/australian-national-audit-office-watchdog-cuts-labor-david-pocock",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump Meets Xi: Tense Talks Yield Few Concrete Outcomes",
-        "body": "US President Donald Trump concluded high-stakes talks with Chinese President Xi Jinping in Beijing, declaring the summit very successful while offering scant details on substantive agreements. The meeting centered on complex geopolitical tensions - particularly around Taiwan and Iran.\n\nTrump warned Taiwan against declaring independence and suggested a potential 20-year nuclear program suspension for Iran might be acceptable. China reportedly agreed to purchase 200 Boeing aircraft - significantly fewer than previous expectations. The summit underscored ongoing strategic competition between the world's two largest economies.",
+        "headline": "Ebola Outbreak Kills 80 in Eastern DR Congo",
+        "body": "A new Ebola outbreak has claimed 80 lives in eastern Democratic Republic of Congo, raising urgent concerns about regional health security. The rapid spread of the virus threatens to overwhelm local medical infrastructure and potentially trigger a wider humanitarian crisis. Health officials are scrambling to contain the outbreak and prevent further transmission.",
         "sources": [
           {
-            "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-            "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+            "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Trump and Xi Conclude Talks with Tensions Over Taiwan",
+        "body": "President Trump wrapped up high-stakes talks with Chinese President Xi Jinping, delivering a stark warning to Taiwan against declaring independence. The summit produced few concrete agreements - a diplomatic dance of cautious positioning and geopolitical brinkmanship. Trump claimed success but offered limited details about potential breakthroughs on critical issues like trade and regional security.",
+        "sources": [
+          {
+            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+            "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-            "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+            "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
@@ -138,63 +186,45 @@
             "lean": null
           },
           {
-            "title": "What China critics in Maga movement make of Trump's Beijing trip",
-            "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump says China to buy 200 Boeing planes, much lower than expected",
-            "url": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-            "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
+            "title": "Is the US dialling down its support for Taiwan?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine War Intensifies: Russia Strikes Kyiv, Zelenskyy Vows Response",
-        "body": "Russian forces launched a devastating strike on Kyiv, killing 24 civilians and prompting Ukrainian President Volodymyr Zelenskyy to promise retaliation. The attack signals continued Russian aggression despite slowing advances in eastern Ukraine.\n\nThe conflict remains a critical international flashpoint, with mounting civilian casualties and geopolitical tensions. Zelenskyy's defiant response suggests Ukraine will continue resisting Russian military pressure.",
+        "headline": "Israel Launches Deadly Gaza City Air Strikes on Nakba Day",
+        "body": "Israeli forces conducted deadly air strikes on a Gaza City apartment building, killing multiple civilians on Nakba Day - a commemoration of Palestinian displacement. The attack came amid ongoing tensions, with seven Palestinians killed in related violence. A humanitarian aid convoy from Libya is preparing to head to Gaza, highlighting the continued humanitarian crisis in the region.",
         "sources": [
           {
-            "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-            "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+            "title": "Israel launches deadly air strikes on Gaza City apartment building",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
-            "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Health Alert: Ebola Outbreak and Hantavirus Spark Concern",
-        "body": "A new Ebola outbreak in eastern Democratic Republic of Congo has claimed 65 lives, raising international health concerns. Simultaneously, the World Health Organization confirmed 10 global hantavirus cases, with the Hondius crew remaining symptom-free.\n\nThese emerging health challenges underscore the ongoing risks of infectious diseases and the need for robust global health monitoring and response mechanisms.",
-        "sources": [
-          {
-            "title": "WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free",
-            "url": "https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free?traffic_source=rss",
+            "title": "Gaza aid convoy in Libya prepares to head to Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-            "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+            "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel says it has killed Hamas commander in Gaza air strike",
+            "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Hantavirus: how scared should we be?",
-            "url": "https://www.aljazeera.com/video/the-take-2/2026/5/15/aje-onl-tt_glb_hantavirus_av_v2-150526?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -202,8 +232,32 @@
     ],
     "ai": [
       {
+        "headline": "OpenAI-Musk Trial Reaches Dramatic Turning Point",
+        "body": "The high-stakes legal battle between Elon Musk and OpenAI has entered its third week, with both sides trading sharp accusations about corporate credibility and AI development ethics. Testimony has revealed deep tensions within the AI industry's most prominent circles.\n\nAs the jury prepares to weigh competing narratives, the trial threatens to expose sensitive details about OpenAI's founding, governance, and strategic direction. The outcome could reshape investor confidence and public perception of leading AI research organizations.",
+        "sources": [
+          {
+            "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+            "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
         "headline": "ArXiv Cracks Down on AI-Generated Research Garbage",
-        "body": "Academic preprint server ArXiv is taking a hard line against low-quality AI submissions. Researchers who upload papers filled with AI-generated hallucinations will face a yearlong ban from the platform. The move signals growing frustration in scientific circles with AI tools that generate plausible-sounding but fundamentally incorrect research content. Academic integrity demands real human expertise - and ArXiv is drawing a clear line in the sand.",
+        "body": "Academic preprint server ArXiv is taking a hard line against low-quality AI-generated submissions, announcing a ban for researchers who upload papers filled with AI hallucinations. The move signals growing frustration in scientific communities about AI-generated content pollution.\n\nResearchers who submit AI-generated slop will face a yearlong submission ban - a significant penalty that underscores the platform's commitment to maintaining research integrity. The policy reflects mounting concerns about AI's potential to flood academic channels with meaningless or fabricated content.",
         "sources": [
           {
             "title": "ArXiv will ban researchers who upload papers full of AI slop",
@@ -220,43 +274,13 @@
         ]
       },
       {
-        "headline": "OpenAI Reshuffles Leadership in High-Stakes AI Race",
-        "body": "OpenAI continues its executive musical chairs, with Greg Brockman now taking direct control of product strategy. The reorganization comes amid mounting pressure from competitors and internal tensions. Recent reports suggest the company feels burned by Apple's implementation of ChatGPT and is aggressively repositioning to maintain its market leadership. The AI landscape remains volatile - with leadership changes reflecting the intense competition.",
+        "headline": "YouTube Expands AI Deepfake Detection for All Users",
+        "body": "YouTube is rolling out its AI-powered deepfake detection tool to all adult users, marking a significant step in combating synthetic media manipulation. The platform aims to help users distinguish between authentic and artificially generated content.\n\nThe expansion comes amid growing concerns about AI's potential to create increasingly sophisticated and convincing fake videos. By providing users with detection tools, YouTube hopes to mitigate the spread of misleading or harmful synthetic media.",
         "sources": [
           {
-            "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+            "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+            "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-            "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-            "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-            "source": "Wired",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "London Police Deploy Facial Recognition at Protest",
-        "body": "London law enforcement has crossed a controversial line by using facial recognition technology during a public protest. The move raises significant privacy and civil liberties concerns. As surveillance technologies become more pervasive, tensions between public safety and individual rights continue to escalate. Tech-enabled policing is rapidly transforming urban security landscapes - with profound implications for democratic freedoms.",
-        "sources": [
-          {
-            "title": "London Police Deploy Facial Recognition at Protest for First Time",
-            "url": "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Palantir has hired more than 30 senior UK Government officials",
-            "url": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
-            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -264,97 +288,61 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Plunges Below $79K as Bond Market Rattles Investors",
-        "body": "Bitcoin suffered a sharp 3% price drop, tumbling under $79,000 as rising US Treasury yields triggered institutional selling. Macro economic pressures and inflation worries drove the selloff, with traders uncertain about breaking through the $82,000 resistance level.\n\nThe volatility comes despite recent legislative progress like the CLARITY Act. Institutional investors appear cautious, with some selling positions amid uncertain market conditions.",
+        "headline": "US Clarity Act Sparks Bitcoin Market Euphoria",
+        "body": "The US Clarity Act has triggered a significant surge of optimism in the Bitcoin market. Analysts at Santiment report a major spike in positive sentiment following the regulatory development. The legislation appears to provide clearer guidelines for cryptocurrency operations - potentially reducing uncertainty for investors and businesses in the Bitcoin ecosystem.\n\nThe market response suggests the act could be a turning point for Bitcoin's regulatory landscape. Investors are interpreting the new framework as a positive signal for broader cryptocurrency adoption and institutional engagement.",
         "sources": [
           {
-            "title": "Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-dives-under-79k-us-bond-market-triggers-3-btc-price-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
+            "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           },
-          {
-            "title": "Bitcoin gives up Clarity Act gains as macro rout wipes out leveraged crypto bulls",
-            "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Shrugs Off CLARITY Gains as Institutions Sell Amid Surging Treasury Yields",
-            "url": "https://decrypt.co/367952/bitcoin-shrugs-off-clarity-gains-as-institutions-sell-amid-surging-treasury-yields",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin risks ‘next downtrend’ as traders diverge on fate of $82K resistance",
-            "url": "https://cointelegraph.com/markets/bitcoin-risks-next-downtrend-traders-diverge-fate-82k-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Mubadala Boosts Bitcoin Stake, Signals Continued Institutional Interest",
-        "body": "Abu Dhabi's sovereign wealth fund Mubadala increased its Bitcoin investment by 16% in Q1 2026, raising its stake to $566 million. The move signals continued institutional confidence in Bitcoin despite market turbulence.\n\nThis investment trend is mirrored by other high-profile moves, including the Trump family trust's recent purchases of Bitcoin-linked stocks and the Winklevoss twins' $100 million bet on Gemini.",
-        "sources": [
           {
             "title": "President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades",
             "url": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
             "source": "Decrypt",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Depot Faces Potential Collapse Amid Financial Challenges",
+        "body": "Bitcoin Depot is teetering on the brink of financial disaster. The cryptocurrency ATM operator has issued warnings about potential bankruptcy as revenue from its machine network continues to decline. Mounting legal challenges and increasing regulatory scrutiny are compounding the company's financial woes.\n\nThe situation highlights the ongoing volatility in Bitcoin's infrastructure and service providers. Investors and industry watchers are closely monitoring the company's potential collapse - which could signal broader challenges in the Bitcoin ATM and retail cryptocurrency market.",
+        "sources": [
           {
-            "title": "The Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing",
-            "url": "https://bitcoinmagazine.com/news/trump-trust-bought-bitcoin-linked-stocks",
-            "source": "Bitcoin Magazine",
+            "title": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits",
+            "url": "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Gemini Stock Jumps on Revenue Rise, $100M Bitcoin Investment From Winklevoss Capital",
-            "url": "https://decrypt.co/367978/gemini-stock-jumps-revenue-rise-100m-bitcoin-investment-winklevoss",
+            "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
+            "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
             "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Winklevoss’ Gemini jumps 25% on $100 million bitcoin infusion despite deepening losses",
-            "url": "https://www.coindesk.com/business/2026/05/15/winklevoss-gemini-jumps-20-on-usd100-million-bitcoin-infusion-despite-deepening-losses",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Miners Raise Billions to Fund AI and Infrastructure Expansion",
-        "body": "Bitcoin mining company IREN closed a massive $3 billion convertible notes offering, signaling aggressive expansion into AI infrastructure. The move highlights the evolving strategy of Bitcoin miners seeking diversification beyond traditional mining operations.\n\nCompetitive pressures are evident, with Bitcoin Depot warning of potential bankruptcy as ATM revenue falls and regulatory scrutiny increases. Meanwhile, other miners like Strategy are exploring debt restructuring and potential Bitcoin sales.",
+        "headline": "Global Investors Expand Bitcoin Positions Despite Market Uncertainty",
+        "body": "Major international investors are increasing their Bitcoin exposure despite market fluctuations. Abu Dhabi's Mubadala investment fund has raised its Bitcoin ETF stake by 16% - reaching $566 million in the first quarter of 2026. The move signals continued institutional confidence in Bitcoin as an asset class.\n\nSimilarly, the Winklevoss twins have made a significant $100 million bet on their Gemini platform, causing the company's stock to jump. These strategic investments suggest ongoing institutional interest in Bitcoin's long-term potential.",
         "sources": [
           {
-            "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
-            "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
-            "source": "Decrypt",
+            "title": "Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
+            "url": "https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future",
+            "url": "https://bitcoinmagazine.com/news/gemini-stock-jumps-after-winklevoss-twins",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
             "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
             "url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
             "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Giant Strategy Moves to Retire $1.5 Billion in Convertible Debt, Says It Could Sell BTC",
-            "url": "https://decrypt.co/368007/strategy-moves-retire-1-5-billion-convertible-debt-could-sell-bitcoin",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Strategy to retire $1.5 billion in convertible notes at a discount, may sell bitcoin to fund buyback",
-            "url": "https://www.theblock.co/post/401482/strategy-to-retire-1-5-billion-in-convertible-notes-at-a-discount-may-sell-bitcoin-to-fund-buyback?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "IREN closes $3 billion convertible notes offering as Bitcoin miner’s AI infrastructure push accelerates",
-            "url": "https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
@@ -363,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African Fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic heat distribution and crispy bottom edges"
+      "name": "Moroccan Lamb Tagine with Preserved Lemons",
+      "cuisine": "North African",
+      "description": "Slow-cooked tender lamb with aromatic spices, served over saffron couscous",
+      "tip": "Use a heavy-bottomed clay tagine if possible to ensure even, slow heat distribution"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching every 25 minutes to reset spinal alignment",
-      "tip": "Set a subtle phone alarm that prompts you to do a 90-second mobility sequence, focusing on shoulder rolls and lumbar twists"
+      "name": "Desk Spine Reset Protocol",
+      "description": "A targeted 5-minute series of stretches and micro-movements to realign spine and reset muscle tension after prolonged sitting",
+      "tip": "Set a hourly phone alarm with a custom 'spine reset' shortcut to make this a consistent habit"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystems can inspire more sustainable and adaptive city infrastructure, from self-healing concrete to wind-responsive architecture",
-      "why": "This emerging field represents a revolutionary approach to solving complex urban challenges by learning directly from billions of years of nature's engineering"
+      "topic": "The Fermi Paradox and Drake Equation",
+      "description": "A scientific exploration of the probability of extraterrestrial intelligent life in the universe, balancing mathematical probability with observable evidence",
+      "why": "It's a fascinating intersection of astronomy, statistics, and philosophical speculation that challenges our understanding of our cosmic significance"
     }
   }
 }
