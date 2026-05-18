@@ -1,12 +1,60 @@
 {
-  "generatedAt": "2026-05-18T05:29:26.467Z",
+  "generatedAt": "2026-05-18T11:26:09.116Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Grip Tightens as GOP Shifts Rightward",
-        "body": "Louisiana Senator Bill Cassidy's primary defeat signals Donald Trump's enduring influence in the Republican Party. Cassidy - who voted to convict Trump in his impeachment trial - lost decisively to a Trump-backed challenger, highlighting the former president's continued power to shape party dynamics.\n\nMitt Romney called Cassidy's loss a setback for the country, reflecting growing tensions within Republican ranks. The result underscores a broader ideological realignment, with Trump-aligned candidates consistently defeating more moderate GOP incumbents.",
+        "headline": "Trump Economy Worries Grip Half of Americans",
+        "body": "Economic anxiety has seized nearly 50% of Americans, with mounting frustrations over the Trump administration's economic management. A new poll reveals deep unease about personal finances - a sentiment cutting across political lines.\n\nThe data suggests economic performance remains a critical voter concern. While Republicans tout job growth and market performance, Democrats argue wage stagnation and income inequality undermine broader economic health.",
         "sources": [
+          {
+            "title": "Nearly half of Americans anxious about finances amid frustrations with Trump’s handle on economy: Poll",
+            "url": "https://thehill.com/business/personal-finance/5882683-poll-donald-trump-economy-frustrations/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Nearly half of Americans anxious about finances amid frustrations with Trump’s handle on economy: Poll",
+            "url": "https://thehill.com/business/5882571-poll-trump-economy-frustrations/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "War Powers and Iran: Congress Nears Critical Showdown",
+        "body": "Democrats inch closer to a potential breakthrough on war powers legislation targeting potential military action against Iran. The developing resolution represents a significant challenge to executive war-making authority.\n\nCongressional hawks warn against constraining presidential flexibility. Meanwhile, Representative Marjorie Greene predicted a potential political revolution if US troops were deployed, highlighting the high-stakes political drama surrounding potential military intervention.",
+        "sources": [
+          {
+            "title": "Democrats on the brink of war powers breakthrough",
+            "url": "https://thehill.com/policy/defense/5880849-congress-iran-war-resolution-trump/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Greene predicts ‘political revolution in America’ if US troops sent to Iran",
+            "url": "https://thehill.com/policy/defense/5882593-greene-predicts-revolution-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "GOP Primaries Reveal Shifting Party Dynamics",
+        "body": "Louisiana's Senate primary saw the defeat of Bill Cassidy - a Republican who voted to convict Trump during his impeachment trial. Mitt Romney described the loss as damaging for the country, signaling ongoing tensions within the Republican Party.\n\nIn Georgia, Republicans dominated campaign spending while Democrats achieved record primary turnout. These developments suggest a complex political landscape heading into upcoming elections.",
+        "sources": [
+          {
+            "title": "What Louisiana Sen. Bill Cassidy's loss means for upcoming Republican primaries",
+            "url": "https://www.npr.org/2026/05/18/nx-s1-5823792/what-louisiana-sen-bill-cassidys-loss-means-for-upcoming-republican-primaries",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "In Georgia primary, Republicans dominate spending and Democrats drive record turnout",
+            "url": "https://www.npr.org/2026/05/18/nx-s1-5822479/2026-midterms-georgia-primary-election",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Romney calls Cassidy’s defeat a ‘loss for the country’",
             "url": "https://thehill.com/homenews/campaign/5882490-mitt-romney-bill-cassidy-defeat/",
@@ -18,84 +66,78 @@
             "url": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
             "source": "Washington Post",
             "lean": "center-left"
-          },
-          {
-            "title": "What Louisiana Sen. Bill Cassidy's primary loss says about Trump's grip on the GOP",
-            "url": "https://www.npr.org/2026/05/17/nx-s1-5824994/what-louisiana-sen-bill-cassidys-primary-loss-says-about-trumps-grip-on-the-gop",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Leads Massive Christian Rally on National Mall",
-        "body": "Thousands gathered for a national prayer event featuring Donald Trump reading from the Bible. The America 250 rally drew significant crowds and highlighted the former president's continued connection with evangelical Christian voters.\n\nThe event showcased Trump's ability to mobilize religious conservatives, blending political messaging with spiritual themes. Religious and political leaders spoke alongside Trump, emphasizing national unity and faith-based values.",
-        "sources": [
-          {
-            "title": "Trump reads Bible as thousands pack National Mall for America 250 prayer rally",
-            "url": "https://www.foxnews.com/politics/trump-reads-bible-thousands-pack-national-mall-america-250-prayer-rally",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump and administration officials address Christian gathering on National Mall",
-            "url": "https://www.npr.org/2026/05/17/nx-s1-5825003/trump-christian-national-mall-prayer-service-250",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Tensions Rise with Iran as Diplomatic Efforts Stall",
-        "body": "Marjorie Taylor Greene warned of potential political revolution if US troops are deployed to Iran, while Trump himself stated that the clock is ticking on peace negotiations. The rhetoric signals escalating tensions and potential military considerations.\n\nThe situation remains complex, with diplomatic channels under significant strain. Both political and military leaders are closely monitoring developments, aware of the potential for rapid escalation.",
-        "sources": [
-          {
-            "title": "Greene predicts ‘political revolution in America’ if US troops sent to Iran",
-            "url": "https://thehill.com/policy/defense/5882593-greene-predicts-revolution-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump warns Iran ‘clock is ticking’ as peace negotiations stall",
-            "url": "https://thehill.com/homenews/administration/5882193-trump-iran-clock-ticking/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Budget Battle Erupts: Government Defends, Opposition Attacks",
-        "body": "Treasurer Jim Chalmers faces mounting political pressure over the federal budget, with the Coalition launching what he calls an unhinged scare campaign. Angus Taylor, opposition finance spokesperson, has branded new trust rules a death tax by stealth - escalating rhetorical hostilities around fiscal policy.\n\nThe dispute highlights deepening partisan divisions over economic management. Chalmers is pushing back against criticism, arguing the budget represents responsible economic planning during challenging global conditions.",
+        "headline": "Budget Battle: Treasurer Fights Back Against Critics",
+        "body": "Treasurer Jim Chalmers is pushing hard against what he calls an unhinged scare campaign targeting the federal budget. His comments suggest significant political pushback against recent budget criticisms, with the government feeling pressure from opposition voices.\n\nThe dispute highlights deep divisions over economic policy. Chalmers argues that budget changes are necessary, while critics see potential risks to economic stability. The debate reflects ongoing tensions between government strategy and public perception.",
         "sources": [
           {
-            "title": "Australia news live: Chalmers complains of ‘unhinged scare campaign’ against budget as Taylor calls new trust rules a ‘death tax by stealth’",
+            "title": "Afternoon Update: Chalmers blames ‘scare campaign’ for budget backlash; neo-Nazis challenge hate ban; and visually impaired bowlers",
+            "url": "https://www.theguardian.com/australia-news/2026/may/18/ntwnfb-afternoon-update-monday",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Chalmers complains of ‘unhinged scare campaign’ against changes – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "One Nation Surges in Tasmania, Signaling Potential Political Shift",
-        "body": "A new poll reveals nearly one in five Tasmanians would vote for One Nation - a potentially significant electoral development that could reshape the state's political landscape. The finding suggests growing disillusionment with major parties and increasing support for right-wing populist alternatives.\n\nThe poll result comes at a sensitive time for mainstream political parties, who are grappling with voter volatility and fragmented political preferences across different regions.",
-        "sources": [
+          },
           {
-            "title": "Nearly one in five Tasmanians would vote One Nation, poll shows",
-            "url": "https://www.abc.net.au/news/2026-05-18/one-nation-surges-in-popularity-emrs-poll-tasmania/106691168",
+            "title": "Overseas company makes billions in profit but is receiving millions in government bailouts",
+            "url": "https://www.abc.net.au/news/2026-05-18/metal-smelters-more-funds-compete-with-china-critical-minerals/106675600",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Government Moves to Block China-Linked Rare Earths Investment",
-        "body": "The federal government has intervened for the third time to restrict China-linked investment stakes in a rare earths mining company. The move underscores ongoing tensions in Australia-China economic relations and heightened national security scrutiny of foreign investment.\n\nTreasurer Jim Chalmers is taking a cautious approach to foreign investment in strategically important sectors, signaling a continued robust stance on protecting national economic interests.",
+        "headline": "AUKUS Submarine Base Likely Headed to Port Kembla",
+        "body": "A secret report has identified Port Kembla as the preferred location for Australia's future submarine base under the AUKUS partnership. The strategic naval infrastructure project represents a significant investment in Australia's defense capabilities.\n\nThe recommendation signals a major commitment to regional maritime defense. Port Kembla's selection involves complex considerations of geography, infrastructure, and strategic positioning. Final decisions are expected to have substantial economic and military implications for the New South Wales region.",
         "sources": [
           {
-            "title": "Federal government intervenes for third time over China-linked stakes in rare earths miner",
-            "url": "https://www.abc.net.au/news/2026-05-18/northern-minerals-chinese-linked-investors-jim-chalmers/106692558",
+            "title": "Port Kembla identified as preferred AUKUS base in secret report",
+            "url": "https://www.abc.net.au/news/2026-05-18/port-kembla-subs-base/106692098",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "US conducts additional strikes against IS militants in Nigeria",
+            "url": "https://www.abc.net.au/news/2026-05-18/us-strikes-islamic-state-militants-nigeria/106693954",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Israeli forces intercept Gaza flotilla with Australians on board, organisers say",
+            "url": "https://www.abc.net.au/news/2026-05-18/israeli-forces-start-intercepting-gaza-flotilla/106694178",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "International Student Rules Tightened Amid Sector Scrutiny",
+        "body": "The Australian government has suspended new private college applications for international student enrollment. This move signals a significant crackdown on the education and training sector's international recruitment practices.\n\nAuthorities aim to address potential systemic issues in student visa and education pathways. The decision follows ongoing concerns about exploitation and quality control in the international education market. Existing institutions will need to demonstrate compliance with stricter regulatory standards.",
+        "sources": [
+          {
+            "title": "Australia suspends new private college bids to enrol international students",
+            "url": "https://www.abc.net.au/news/2026-05-18/international-student-crackdown-private-colleges-training-school/106693206",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Police running out of room to store illegal cigarettes they’ve seized amid Australia’s booming illicit trade",
+            "url": "https://www.theguardian.com/australia-news/2026/may/18/illegal-tobacco-cigarettes-vapes-australia-police-run-out-storage",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Queensland man accused of paying to watch live child sexual abuse",
+            "url": "https://www.abc.net.au/news/2026-05-18/innisfail-man-charged-watching-live-child-sex-abuse/106693452",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -104,8 +146,38 @@
     ],
     "world": [
       {
-        "headline": "Trump Escalates Iran Tensions as Conflict Looms",
-        "body": "US President Donald Trump has ratcheted up pressure on Iran, warning that the clock is ticking for diplomatic resolution. His increasingly aggressive rhetoric comes amid rising regional tensions and reports of drone attacks on Saudi and UAE targets.\n\nThe situation remains volatile, with Trump suggesting potential military action. Diplomatic channels appear strained, and Iran faces mounting international pressure. Pakistan's interior minister's talks in Tehran signal ongoing attempts to mediate, but the prospects for peaceful resolution seem increasingly remote.",
+        "headline": "Israel Intercepts Gaza Aid Flotilla - Tensions Escalate",
+        "body": "Israeli naval forces have begun intercepting a humanitarian aid flotilla near Cyprus, escalating tensions in the ongoing Gaza conflict. Activists reported the boarding of ships attempting to deliver crucial supplies to the besieged Palestinian territory. The move comes as Netanyahu claims Israel now controls 60 percent of Gaza - a stark indicator of the conflict's devastating humanitarian impact.",
+        "sources": [
+          {
+            "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+            "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Netanyahu says Israel controls 60 percent of Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
+            "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Iran Conflict Intensifies - Trump Warns Tehran",
+        "body": "US President Trump has ratcheted up pressure on Iran, warning that the clock is ticking for diplomatic resolution. The US is pushing G7 nations to impose new sanctions, while Iran claims control of the strategic Hormuz Strait. Military tensions continue to simmer - with reports of potential Israeli military preparations and ongoing strategic maneuvering in the region.",
         "sources": [
           {
             "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
@@ -114,68 +186,38 @@
             "lean": null
           },
           {
-            "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
+            "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+            "title": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-            "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+            "title": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
+            "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ebola Outbreak Declared International Emergency in DR Congo",
-        "body": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo an international emergency. Rapidly spreading cases have overwhelmed local health systems and raised global health concerns.\n\nThe outbreak continues to expand, with health authorities struggling to contain its spread. Multiple regions are now affected, and the potential for wider transmission remains a critical challenge for international health responders.",
+        "headline": "Global Health Alerts: Ebola and Hantavirus Outbreaks",
+        "body": "International health authorities are tracking two separate viral threats. At least six Americans have been exposed to Ebola during an outbreak in the Democratic Republic of Congo. Meanwhile, a cruise ship carrying hantavirus patients has docked in the Netherlands - raising concerns about potential spread of the infectious disease.",
         "sources": [
           {
-            "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-            "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "At least six Americans exposed to Ebola during DR Congo outbreak",
+            "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "DRC struggling to contain Ebola outbreak as cases spread",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How worrying is the Ebola outbreak in DR Congo?",
-            "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Taiwan Stands Firm Amid Regional Tensions",
-        "body": "Taiwan's president has reasserted the nation's sovereignty, declaring that the country will neither provoke conflict nor surrender its independence. This statement comes amid ongoing regional geopolitical pressures and complex diplomatic negotiations.\n\nSimultaneously, US-China relations show signs of potential easing, with reports of agricultural trade agreements following recent talks between Trump and Xi. The delicate balance of regional diplomacy continues to evolve.",
-        "sources": [
-          {
-            "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-            "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-            "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
+            "title": "Hantavirus-hit cruise ship docks in the Netherlands",
+            "url": "https://www.aljazeera.com/news/2026/5/18/hantavirus-hit-cruise-ship-docks-in-the-netherlands?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -184,27 +226,15 @@
     ],
     "ai": [
       {
-        "headline": "Apple Rethinks Siri with Privacy-Focused Messaging Update",
-        "body": "Apple is preparing a major overhaul of its Siri virtual assistant, focusing on enhanced user privacy. The proposed update includes an auto-delete feature for chat conversations - a significant shift in how the company handles user interactions. This change signals Apple's response to growing privacy concerns in the AI assistant market.",
+        "headline": "AI Sparks Backlash at College Graduations Nationwide",
+        "body": "Commencement speakers faced unexpected hostility this week as students loudly booed mentions of artificial intelligence. At the University of Arizona, tech veteran Eric Schmidt encountered vocal student resistance during his address - a stark indicator of growing AI fatigue among younger generations.\n\nThe trend suggests deepening skepticism about technological narratives. Students - traditionally receptive to innovation - are now challenging Silicon Valley's AI evangelism, signaling potential cultural pushback against unchecked technological optimism.",
         "sources": [
           {
-            "title": "Apple’s Siri revamp could include auto-deleting chats",
-            "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-            "source": "TechCrunch",
+            "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+            "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+            "source": "Hacker News",
             "lean": null
           },
-          {
-            "title": "Revamped Siri will reportedly offer auto-deleting chats",
-            "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Tensions Flare at University Commencement as Tech Leaders Stumble",
-        "body": "Tech veteran Eric Schmidt faced unexpected backlash during a University of Arizona commencement speech about artificial intelligence. Students audibly booed Schmidt's pro-AI messaging - a stark indicator of mounting public skepticism toward technological evangelism. The incident highlights growing generational tensions around AI's societal impact and the tech industry's narrative.",
-        "sources": [
           {
             "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
             "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
@@ -220,8 +250,8 @@
         ]
       },
       {
-        "headline": "Automotive Industry Gears Up for AI-Driven Skills Revolution",
-        "body": "The automotive sector is preparing for a massive transformation driven by artificial intelligence skills. Companies are rapidly repositioning their workforce and technology strategies to integrate advanced AI capabilities. This emerging skills arms race promises to reshape how vehicles are designed, manufactured, and operated in the coming years.",
+        "headline": "AI Transforms Automotive Industry with Skills Race",
+        "body": "The automotive sector is rapidly reshaping itself around artificial intelligence capabilities. Companies are aggressively recruiting AI talent - transforming traditional engineering roles into data-driven technological positions.\n\nThis skills arms race signals a fundamental shift. Automotive firms now view AI not as a peripheral technology but as a core competency - driving recruitment, training, and strategic planning across the industry.",
         "sources": [
           {
             "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
@@ -240,60 +270,29 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $77K on Global Economic Jitters",
-        "body": "Bitcoin slid under $77,000 Monday as global market tensions triggered a sharp selloff. Rising oil prices and increasing Treasury yields pushed investors toward safer assets - creating downward pressure on cryptocurrency markets.\n\nAnalysts point to multiple factors driving the decline, including geopolitical risks from potential Iran tensions and renewed inflation concerns. The price drop signals ongoing market volatility as Bitcoin continues to track broader economic sentiment.",
-        "sources": [
-          {
-            "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
-            "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
-            "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Michael Saylor Signals More Bitcoin Purchases Amid Market Dip",
-        "body": "MicroStrategy CEO Michael Saylor is preparing to buy more Bitcoin during the current market pullback. His strategy remains consistent - using corporate treasury funds to accumulate Bitcoin during price corrections.\n\nSaylor's continued bullish stance comes as retail investors receive additional signals about potential cryptocurrency investments. His approach has been a bellwether for institutional Bitcoin adoption, consistently demonstrating confidence in long-term cryptocurrency value.",
-        "sources": [
-          {
-            "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
-            "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup",
-            "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
+        "headline": "Bitcoin summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use a cast iron skillet for more even heat distribution and deeper flavor development"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Warrior Reset",
-      "description": "A targeted 5-minute mobility sequence designed to counteract prolonged sitting by releasing tension in neck, shoulders, and lower back",
-      "tip": "Use a foam roller or tennis ball to perform targeted myofascial release on trapezius muscles"
+      "name": "Desk Spine Decompression",
+      "description": "Implement a micro-movement routine that counteracts prolonged sitting by creating intentional spinal elongation and micro-stretches",
+      "tip": "Set a hourly timer to do 30-second standing back extensions and shoulder blade retractions"
     },
     "learn": {
-      "topic": "The Fermi Paradox and Rare Earth Hypothesis",
-      "description": "An exploration of why, despite the vast number of potentially habitable planets, we haven't detected signs of extraterrestrial intelligence",
-      "why": "It challenges our understanding of life's complexity and our place in the universe, offering profound insights into probability, evolution, and cosmic perspective"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions that are more efficient and harmonious with environmental constraints"
     }
   }
 }
