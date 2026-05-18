@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-17T22:22:07.947Z",
+  "generatedAt": "2026-05-18T05:29:26.467Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Tightens Grip on GOP as Defiant Senators Fall",
-        "body": "Republican primary battles revealed the ongoing power of former President Trump's political influence. Louisiana Senator Bill Cassidy became the latest GOP lawmaker to lose his seat after voting to convict Trump during his impeachment trial - a move that ultimately cost him voter support.\n\nConservative lawmakers are now pressing internal party dynamics, with some GOP members battling over budget reconciliation strategies. Senator Lindsey Graham bluntly stated there is no room in the Republican Party for those seeking to destroy Trump's political agenda.",
+        "headline": "Trump's Grip Tightens as GOP Shifts Rightward",
+        "body": "Louisiana Senator Bill Cassidy's primary defeat signals Donald Trump's enduring influence in the Republican Party. Cassidy - who voted to convict Trump in his impeachment trial - lost decisively to a Trump-backed challenger, highlighting the former president's continued power to shape party dynamics.\n\nMitt Romney called Cassidy's loss a setback for the country, reflecting growing tensions within Republican ranks. The result underscores a broader ideological realignment, with Trump-aligned candidates consistently defeating more moderate GOP incumbents.",
         "sources": [
           {
-            "title": "What Louisiana Sen. Bill Cassidy's primary loss says about Trump's grip on the GOP",
-            "url": "https://www.npr.org/2026/05/17/nx-s1-5824994/what-louisiana-sen-bill-cassidys-primary-loss-says-about-trumps-grip-on-the-gop",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Romney calls Cassidy’s defeat a ‘loss for the country’",
+            "url": "https://thehill.com/homenews/campaign/5882490-mitt-romney-bill-cassidy-defeat/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "GOP senator who voted to convict Trump in impeachment trial loses primary",
@@ -20,124 +20,82 @@
             "lean": "center-left"
           },
           {
-            "title": "Graham on Cassidy loss: ‘No room in GOP’ to ‘destroy’ Trump agenda",
-            "url": "https://thehill.com/homenews/senate/5882068-graham-republicans-against-trump-agenda/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "What Louisiana Sen. Bill Cassidy's primary loss says about Trump's grip on the GOP",
+            "url": "https://www.npr.org/2026/05/17/nx-s1-5824994/what-louisiana-sen-bill-cassidys-primary-loss-says-about-trumps-grip-on-the-gop",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "US-China Trade Deal Promises Agricultural Boost for Farmers",
-        "body": "The White House announced a significant agricultural trade agreement with China, promising at least $17 billion in US product purchases. This deal comes as Trump and Republican leadership aim to appeal directly to farming communities ahead of midterm elections.\n\nThe agreement signals potential economic recovery and strategic diplomatic positioning. By securing substantial agricultural export commitments, the administration hopes to demonstrate tangible economic benefits for rural American workers and voters.",
+        "headline": "Trump Leads Massive Christian Rally on National Mall",
+        "body": "Thousands gathered for a national prayer event featuring Donald Trump reading from the Bible. The America 250 rally drew significant crowds and highlighted the former president's continued connection with evangelical Christian voters.\n\nThe event showcased Trump's ability to mobilize religious conservatives, blending political messaging with spiritual themes. Religious and political leaders spoke alongside Trump, emphasizing national unity and faith-based values.",
         "sources": [
           {
-            "title": "White House: China to buy at least $17B in US agricultural products per year",
-            "url": "https://thehill.com/business/5882365-china-us-trade-agreement/",
+            "title": "Trump reads Bible as thousands pack National Mall for America 250 prayer rally",
+            "url": "https://www.foxnews.com/politics/trump-reads-bible-thousands-pack-national-mall-america-250-prayer-rally",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump and administration officials address Christian gathering on National Mall",
+            "url": "https://www.npr.org/2026/05/17/nx-s1-5825003/trump-christian-national-mall-prayer-service-250",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Tensions Rise with Iran as Diplomatic Efforts Stall",
+        "body": "Marjorie Taylor Greene warned of potential political revolution if US troops are deployed to Iran, while Trump himself stated that the clock is ticking on peace negotiations. The rhetoric signals escalating tensions and potential military considerations.\n\nThe situation remains complex, with diplomatic channels under significant strain. Both political and military leaders are closely monitoring developments, aware of the potential for rapid escalation.",
+        "sources": [
+          {
+            "title": "Greene predicts ‘political revolution in America’ if US troops sent to Iran",
+            "url": "https://thehill.com/policy/defense/5882593-greene-predicts-revolution-iran/",
             "source": "The Hill",
             "lean": "center"
           },
-          {
-            "title": "Trump, GOP make midterm appeal to farmers with China deal, farm bill",
-            "url": "https://thehill.com/homenews/state-watch/5880642-farmers-trade-deal-trump-china/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Escalates Rhetoric Toward Iran amid Stalled Negotiations",
-        "body": "President Trump intensified diplomatic pressure on Iran, warning that the diplomatic clock is ticking and urging swift action. His comments suggest potential military intervention could be imminent if negotiations do not progress.\n\nThe rhetoric comes as Trump prepares to discuss potential strategies with Israeli Prime Minister Benjamin Netanyahu. Regional tensions remain high, with both leaders signaling a hardline approach to Iranian diplomatic challenges.",
-        "sources": [
           {
             "title": "Trump warns Iran ‘clock is ticking’ as peace negotiations stall",
             "url": "https://thehill.com/homenews/administration/5882193-trump-iran-clock-ticking/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump warns Iran's 'clock is ticking': Move 'fast' or 'there won't be anything left'",
-            "url": "https://www.foxnews.com/politics/trump-warns-irans-clock-ticking-move-fast-there-wont-anything-left",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump, Netanyahu to speak Sunday amid reports of potential revival of military action on Iran",
-            "url": "https://www.foxnews.com/politics/trump-netanyahu-speak-sunday-amid-reports-potential-revival-military-action-iran",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Health Officials Mobilize as Ebola Fears Rise Nationally",
-        "body": "Australian health authorities are preparing a coordinated response to potential Ebola outbreak risks. The federal health minister confirmed ongoing consultations with national and state-level medical teams to develop containment strategies. Financial markets showed early signs of concern - the ASX opened lower amid global economic uncertainty and potential health sector disruptions.",
+        "headline": "Budget Battle Erupts: Government Defends, Opposition Attacks",
+        "body": "Treasurer Jim Chalmers faces mounting political pressure over the federal budget, with the Coalition launching what he calls an unhinged scare campaign. Angus Taylor, opposition finance spokesperson, has branded new trust rules a death tax by stealth - escalating rhetorical hostilities around fiscal policy.\n\nThe dispute highlights deepening partisan divisions over economic management. Chalmers is pushing back against criticism, arguing the budget represents responsible economic planning during challenging global conditions.",
         "sources": [
           {
-            "title": "News live: Australian health officials to work on ebola outbreak response, minister says; NSW police arrest 993 in domestic violence sweep",
+            "title": "Australia news live: Chalmers complains of ‘unhinged scare campaign’ against budget as Taylor calls new trust rules a ‘death tax by stealth’",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Live: ASX set to fall after sharp drops on Wall Street, AUD down",
-            "url": "https://www.abc.net.au/news/2026-05-18/asx-markets-business-news-live-updates-monday-18-may/106689974",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Morning Mail: big tobacco accused of scare tactics, how supermarkets swap discounts, and Ebola fears rise",
-            "url": "https://www.theguardian.com/australia-news/2026/may/18/morning-mail-monday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Queensland Faces Critical Home Safety Deadline for Smoke Alarms",
-        "body": "Over 1.2 million Queensland homes remain non-compliant with new smoke alarm regulations just before the enforcement deadline. State emergency services warn that unprotected households face significant safety risks. The challenge highlights broader infrastructure and public safety preparedness issues across regional and urban communities.",
+        "headline": "One Nation Surges in Tasmania, Signaling Potential Political Shift",
+        "body": "A new poll reveals nearly one in five Tasmanians would vote for One Nation - a potentially significant electoral development that could reshape the state's political landscape. The finding suggests growing disillusionment with major parties and increasing support for right-wing populist alternatives.\n\nThe poll result comes at a sensitive time for mainstream political parties, who are grappling with voter volatility and fragmented political preferences across different regions.",
         "sources": [
           {
-            "title": "1.2 million Queensland homes without compliant smoke alarms near deadline",
-            "url": "https://www.abc.net.au/news/2026-05-18/smoke-alarm-deadline-all-owner-occupied-homes-queensland/106639064",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "More rain forecast for south-east Queensland before temperatures plummet",
-            "url": "https://www.abc.net.au/news/2026-05-18/queensland-weather-more-rain-temperatures-drop/106689612",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Qld developer donation overhaul yields $170,000 in cash",
-            "url": "https://www.abc.net.au/news/2026-05-18/developers-donate-thousands-after-qld-ban-life/106683676",
+            "title": "Nearly one in five Tasmanians would vote One Nation, poll shows",
+            "url": "https://www.abc.net.au/news/2026-05-18/one-nation-surges-in-popularity-emrs-poll-tasmania/106691168",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Legal Aid Crisis Threatens Criminal Justice in Northern Territory",
-        "body": "Criminal cases in the Northern Territory risk suspension as legal aid resources reach critical shortages. Advocates warn that systemic funding gaps could compromise defendants' rights and judicial processes. The crisis underscores ongoing challenges in providing equitable legal representation across remote and metropolitan regions.",
+        "headline": "Government Moves to Block China-Linked Rare Earths Investment",
+        "body": "The federal government has intervened for the third time to restrict China-linked investment stakes in a rare earths mining company. The move underscores ongoing tensions in Australia-China economic relations and heightened national security scrutiny of foreign investment.\n\nTreasurer Jim Chalmers is taking a cautious approach to foreign investment in strategically important sectors, signaling a continued robust stance on protecting national economic interests.",
         "sources": [
           {
-            "title": "Advocates say more women being coerced and threatened to leave Australia",
-            "url": "https://www.abc.net.au/news/2026-05-18/exit-trafficking-cases-rise-for-migrant-women/106650502",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Criminal cases at risk of being halted as NT legal aid crisis worsens",
-            "url": "https://www.abc.net.au/news/2026-05-18/nt-criminal-cases-at-risk-halted-legal-aid-crisis/106678552",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Mass showers and squalor: What spurred ex-Labor minister's NDIS fight",
-            "url": "https://www.abc.net.au/news/2026-05-18/john-della-bosca-warns-albanese-government-over-ndis/106678358",
+            "title": "Federal government intervenes for third time over China-linked stakes in rare earths miner",
+            "url": "https://www.abc.net.au/news/2026-05-18/northern-minerals-chinese-linked-investors-jim-chalmers/106692558",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,8 +104,38 @@
     ],
     "world": [
       {
-        "headline": "Ebola Outbreak Declared Global Emergency in DR Congo",
-        "body": "The World Health Organization has escalated the Ebola crisis in the Democratic Republic of Congo to an international emergency. The outbreak continues to spread rapidly, with cases now crossing regional borders and overwhelming local health systems. Humanitarian agencies warn the situation could quickly become uncontrollable without immediate international intervention.",
+        "headline": "Trump Escalates Iran Tensions as Conflict Looms",
+        "body": "US President Donald Trump has ratcheted up pressure on Iran, warning that the clock is ticking for diplomatic resolution. His increasingly aggressive rhetoric comes amid rising regional tensions and reports of drone attacks on Saudi and UAE targets.\n\nThe situation remains volatile, with Trump suggesting potential military action. Diplomatic channels appear strained, and Iran faces mounting international pressure. Pakistan's interior minister's talks in Tehran signal ongoing attempts to mediate, but the prospects for peaceful resolution seem increasingly remote.",
+        "sources": [
+          {
+            "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+            "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+            "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak Declared International Emergency in DR Congo",
+        "body": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo an international emergency. Rapidly spreading cases have overwhelmed local health systems and raised global health concerns.\n\nThe outbreak continues to expand, with health authorities struggling to contain its spread. Multiple regions are now affected, and the potential for wider transmission remains a critical challenge for international health responders.",
         "sources": [
           {
             "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
@@ -172,52 +160,22 @@
             "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
-          {
-            "title": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
-            "url": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Israel-Lebanon Tensions Escalate with Deadly Cross-Border Strikes",
-        "body": "Tensions between Israel and Lebanon have intensified after Israeli forces killed at least five people in cross-border attacks. The violence comes amid an extended ceasefire that appears increasingly fragile. In Gaza, Israeli strikes on a community kitchen killed three Palestinians - highlighting the ongoing volatility of regional conflicts.",
+        "headline": "Taiwan Stands Firm Amid Regional Tensions",
+        "body": "Taiwan's president has reasserted the nation's sovereignty, declaring that the country will neither provoke conflict nor surrender its independence. This statement comes amid ongoing regional geopolitical pressures and complex diplomatic negotiations.\n\nSimultaneously, US-China relations show signs of potential easing, with reports of agricultural trade agreements following recent talks between Trump and Xi. The delicate balance of regional diplomacy continues to evolve.",
         "sources": [
           {
-            "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-            "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+            "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Three community kitchen workers among eight killed by Israel in Gaza",
-            "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump Threatens Iran as Nuclear Talks Remain Stalled",
-        "body": "Former President Trump has issued a stark warning to Iran, suggesting potential military action if nuclear negotiations do not progress. The rhetoric signals continued diplomatic tension in the Middle East. Meanwhile, Iranian civilians have reportedly begun receiving defense training - an indication of rising national preparedness.",
-        "sources": [
-          {
-            "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-            "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iranian civilians get defence training",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
+            "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
+            "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -226,8 +184,8 @@
     ],
     "ai": [
       {
-        "headline": "Apple's Siri Gets Privacy Overhaul with Auto-Deleting Chats",
-        "body": "Apple is preparing a major privacy-focused update for Siri that could fundamentally change how users interact with the virtual assistant. The new feature would automatically delete chat histories - a significant shift toward user data protection that addresses growing privacy concerns in AI technology.\n\nMultiple tech outlets reported the planned changes, suggesting Apple is positioning Siri as a more trustworthy AI companion. The auto-deletion mechanism represents a strategic response to increasing public scrutiny around data retention and digital privacy.",
+        "headline": "Apple Rethinks Siri with Privacy-Focused Messaging Update",
+        "body": "Apple is preparing a major overhaul of its Siri virtual assistant, focusing on enhanced user privacy. The proposed update includes an auto-delete feature for chat conversations - a significant shift in how the company handles user interactions. This change signals Apple's response to growing privacy concerns in the AI assistant market.",
         "sources": [
           {
             "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -244,20 +202,26 @@
         ]
       },
       {
-        "headline": "Musk-OpenAI Trial Exposes Deep Trust Fractures in AI Industry",
-        "body": "The ongoing legal battle between Elon Musk and OpenAI has laid bare the complex trust dynamics within the artificial intelligence sector. At the heart of the dispute are fundamental questions about technological ethics, intellectual property, and the boundaries of AI development.\n\nThe trial has become a proxy war for broader industry tensions - revealing how personal relationships and competing visions can fracture even the most ambitious technological collaborations. Stakeholders are watching closely as the proceedings threaten to reshape perceptions of AI leadership and accountability.",
+        "headline": "AI Tensions Flare at University Commencement as Tech Leaders Stumble",
+        "body": "Tech veteran Eric Schmidt faced unexpected backlash during a University of Arizona commencement speech about artificial intelligence. Students audibly booed Schmidt's pro-AI messaging - a stark indicator of mounting public skepticism toward technological evangelism. The incident highlights growing generational tensions around AI's societal impact and the tech industry's narrative.",
         "sources": [
           {
-            "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-            "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+            "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+            "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Skills Race Accelerates Across Automotive and Tech Sectors",
-        "body": "The artificial intelligence skills landscape is rapidly transforming, with automotive and technology industries locked in an intense talent competition. Companies are aggressively recruiting AI specialists to gain competitive advantages in emerging technological domains.\n\nThis skills arms race signals a profound shift in workforce dynamics. Traditional engineering roles are being reimagined as AI capabilities become central to innovation - pushing organizations to rethink recruitment, training, and technological strategy.",
+        "headline": "Automotive Industry Gears Up for AI-Driven Skills Revolution",
+        "body": "The automotive sector is preparing for a massive transformation driven by artificial intelligence skills. Companies are rapidly repositioning their workforce and technology strategies to integrate advanced AI capabilities. This emerging skills arms race promises to reshape how vehicles are designed, manufactured, and operated in the coming years.",
         "sources": [
           {
             "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
@@ -266,15 +230,9 @@
             "lean": null
           },
           {
-            "title": "AI is a technology not a product",
-            "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "I don't think AI will make your processes go faster",
-            "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-            "source": "Hacker News",
+            "title": "Chatbots at the drive-thru are just the beginning",
+            "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+            "source": "The Verge",
             "lean": null
           }
         ]
@@ -282,25 +240,37 @@
     ],
     "btc": [
       {
-        "headline": "Michael Saylor Signals More Bitcoin Purchases",
-        "body": "MicroStrategy CEO Michael Saylor continues to signal strong confidence in Bitcoin, hinting at potential new purchases. The announcement comes amid ongoing discussions around Strategic Retirement Corporation (STRC) dividend strategies that could impact retail Bitcoin holders.\n\nSaylor's consistent bullish stance has become a bellwether for institutional Bitcoin investment. His signals often trigger market attention, with investors closely watching MicroStrategy's strategic moves in the cryptocurrency space.",
+        "headline": "Bitcoin Tumbles Below $77K on Global Economic Jitters",
+        "body": "Bitcoin slid under $77,000 Monday as global market tensions triggered a sharp selloff. Rising oil prices and increasing Treasury yields pushed investors toward safer assets - creating downward pressure on cryptocurrency markets.\n\nAnalysts point to multiple factors driving the decline, including geopolitical risks from potential Iran tensions and renewed inflation concerns. The price drop signals ongoing market volatility as Bitcoin continues to track broader economic sentiment.",
+        "sources": [
+          {
+            "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+            "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
+            "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Michael Saylor Signals More Bitcoin Purchases Amid Market Dip",
+        "body": "MicroStrategy CEO Michael Saylor is preparing to buy more Bitcoin during the current market pullback. His strategy remains consistent - using corporate treasury funds to accumulate Bitcoin during price corrections.\n\nSaylor's continued bullish stance comes as retail investors receive additional signals about potential cryptocurrency investments. His approach has been a bellwether for institutional Bitcoin adoption, consistently demonstrating confidence in long-term cryptocurrency value.",
         "sources": [
           {
             "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
             "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Enters Programmable Era with Privacy Innovations",
-        "body": "VerifiedX is pushing Bitcoin's technological boundaries by developing new programmable and privacy-focused solutions. The platform aims to expand Bitcoin's utility beyond simple transactions - positioning the cryptocurrency for more complex financial applications.\n\nThis development signals a potential shift in Bitcoin's core infrastructure. By introducing programmability and enhanced privacy features, VerifiedX could unlock new use cases that extend Bitcoin's fundamental value proposition.",
-        "sources": [
+          },
           {
-            "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
-            "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
-            "source": "CoinDesk",
+            "title": "Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup",
+            "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -310,20 +280,20 @@
   "suggestions": {
     "food": {
       "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for best heat distribution and authentic presentation"
+      "cuisine": "North African fusion",
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
+      "tip": "Use a cast iron skillet for more even heat distribution and deeper flavor development"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Warrior Reset",
-      "description": "Perform a 5-minute targeted mobility sequence to counteract prolonged sitting and reset spinal alignment",
-      "tip": "Focus on thoracic spine rotations and cervical neck stretches, holding each movement for 30 seconds"
+      "description": "A targeted 5-minute mobility sequence designed to counteract prolonged sitting by releasing tension in neck, shoulders, and lower back",
+      "tip": "Use a foam roller or tennis ball to perform targeted myofascial release on trapezius muscles"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
+      "topic": "The Fermi Paradox and Rare Earth Hypothesis",
+      "description": "An exploration of why, despite the vast number of potentially habitable planets, we haven't detected signs of extraterrestrial intelligence",
+      "why": "It challenges our understanding of life's complexity and our place in the universe, offering profound insights into probability, evolution, and cosmic perspective"
     }
   }
 }
