@@ -1,92 +1,116 @@
 {
-  "generatedAt": "2026-05-19T05:27:09.570Z",
+  "generatedAt": "2026-05-19T11:09:13.714Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Texas Senate Race Heats Up with Tight GOP Runoff",
-        "body": "The Texas Senate GOP runoff has turned into a nail-biter, with John Cornyn and Ken Paxton locked in a dead heat against Daniel Talarico. Early voting has begun, and polls show the race could go either way - reflecting deep divisions within the state Republican Party.\n\nThe contest highlights ongoing tensions between establishment and Trump-aligned Republicans. Paxton - facing ongoing legal challenges - remains a controversial figure, while Cornyn represents a more traditional party approach. Talarico's campaign has gained unexpected traction, adding another layer of complexity to the primary battle.",
+        "headline": "Trump's Grip Tightens: GOP Primaries Test Party Loyalty",
+        "body": "Six states hold primaries today, with former President Trump wielding significant influence over Republican races. In Kentucky, Trump has targeted Representative Thomas Massie, seeking to unseat him and reinforce party discipline. The primaries represent a critical test of Trump's political power - and his ability to punish perceived disloyalty.\n\nRepublican leaders are watching nervously. Some worry Trump's interventions could damage the party's broader electoral prospects, particularly as polls show declining approval ratings for the former president.",
         "sources": [
           {
-            "title": "Polls show Cooper with strong lead over Whatley for NC Senate seat",
-            "url": "https://thehill.com/homenews/state-watch/5884320-roy-cooper-leads-senate-race-whatley-north-carolina-poll/",
+            "title": "The Memo: Massie seeks to buck GOP trend, survive Trump-enforced exit",
+            "url": "https://thehill.com/homenews/administration/5883993-gallrein-massie-kentucky-gop/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Cornyn, Paxton in dead heat with Talarico as early voting begins for Texas Senate GOP runoff: Poll",
-            "url": "https://thehill.com/homenews/campaign/5884145-talarico-favorability-gop-runoff/",
+            "title": "Trump’s ouster of Republican senator sends shockwaves through Senate GOP",
+            "url": "https://thehill.com/homenews/senate/5884028-trump-republican-party-loyalty/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Trump-Massie feud hits fever pitch: What to watch in Kentucky, Georgia, Alabama primaries",
+            "url": "https://thehill.com/homenews/campaign/5883312-trump-massie-kentucky-georgia-alabama-primary-elections/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump targets Massie in explosive Kentucky showdown as six states hold high-stakes primaries",
+            "url": "https://www.foxnews.com/politics/trump-targets-massie-explosive-kentucky-showdown-six-states-hold-high-stakes-primaries",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Six states hold primaries on Tuesday, testing Trump's influence",
+            "url": "https://www.npr.org/2026/05/19/nx-s1-5823697/six-states-hold-primaries-on-tuesday-testing-trumps-influence",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Budget Battle Erupts Over White House Ballroom Funding",
-        "body": "Republican Senator Thom Tillis is pushing his colleagues to block a budget bill over controversial White House ballroom funding. The move signals deepening partisan tensions around government spending and symbolic political battles.\n\nTillis argues the funding represents unnecessary expenditure, putting him at odds with the current administration. The standoff could potentially delay critical budget negotiations and expose broader rifts within the Republican legislative strategy.",
+        "headline": "Migration Patterns Reshape US Political Landscape",
+        "body": "Americans are increasingly moving from high-tax blue states to Republican-led southern states, driven by economic considerations and changing lifestyle preferences. The population shift could have significant political implications - potentially redistributing congressional representation and electoral college votes.\n\nSimultaneously, immigration remains a contentious issue. The DACA generation now faces continued uncertainty, with lawmakers like Gallego pushing for comprehensive immigration reform through legislative amendments.",
         "sources": [
           {
-            "title": "Tillis urges GOP colleagues to hold budget bill over White House ballroom funding",
-            "url": "https://thehill.com/homenews/senate/5884333-tillis-urges-delay-budget-reconciliation-ballroom-funding/",
+            "title": "The missing men of the American marriage market",
+            "url": "https://www.npr.org/sections/planet-money/2026/05/19/g-s1-122695/the-missing-men-of-the-american-marriage-market",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Blue-state tax burden fuels Americans fleeing to Republican-led southern states",
+            "url": "https://www.foxnews.com/politics/blue-state-tax-burden-fuels-americans-fleeing-republican-led-southern-states",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Gallego to offer DACA, immigration enforcement amendments for reconciliation bill",
+            "url": "https://thehill.com/homenews/senate/5884372-senate-daca-amendments-gallego/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "The Republican senators speaking out against Trump",
-            "url": "https://www.washingtonpost.com/politics/2026/05/18/republican-senators-speaking-out-against-trump/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "US Ramps Up Sanctions and Diplomatic Pressure Internationally",
-        "body": "The United States has imposed new sanctions on senior Cuban officials, escalating tensions in the region. This move comes amid a complex international diplomatic landscape, with the administration signaling a hardline approach to perceived adversarial governments.\n\nSimultaneously, the Trump administration extended Russian oil sanctions waivers for what it termed 'most vulnerable nations' - a nuanced approach that balances economic considerations with geopolitical strategy.",
-        "sources": [
-          {
-            "title": "US sanctions senior Cuban officials as tensions escalate",
-            "url": "https://thehill.com/policy/international/5884126-us-sanctions-cuban-officials/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "'We're not kids anymore': The DACA generation hits their 30s with an unstable future",
+            "url": "https://www.npr.org/2026/05/19/g-s1-121405/immigration-trump-daca-generation-limbo",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "Trump administration extends Russian oil sanctions waiver for ‘most vulnerable nations’",
-            "url": "https://thehill.com/policy/energy-environment/5883879-trump-extends-russian-oil-waiver/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "In conservative Utah, some communities are ditching fossil fuel power for clean energy",
+            "url": "https://www.npr.org/2026/05/19/nx-s1-5734480/renewable-energy-utah",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Economic Tensions Rise as Recession Fears Loom",
-        "body": "The Reserve Bank has signaled growing economic anxiety, using the 'r' word - recession - in post-budget discussions. Sarah Hunter, a key economic analyst, highlighted mounting pressures on Australia's financial landscape. Underlying challenges include inflation and potential economic contraction.\n\nThe ACT's fiscal situation has also deteriorated, with economists pointing to specific policy decisions as root causes. These economic indicators suggest a complex and potentially challenging financial environment for the nation.",
+        "headline": "Submarine Upgrades Delayed - Taxpayers Face $11bn Bill",
+        "body": "Australia's submarine fleet faces significant challenges as planned upgrades to the Collins-class submarines are scaled back. Taxpayers will foot an $11 billion bill to extend the aging vessels' lifespan amid delays in the AUKUS submarine program.\n\nThe Reserve Bank warns these infrastructure challenges could contribute to economic pressures. With potential recession risks looming, the submarine situation highlights broader strategic and fiscal complications for the Australian government.",
         "sources": [
           {
-            "title": "Reserve Bank uses 'r' word as it weighs into post-federal budget discussion",
+            "title": "Planned upgrades to ageing submarine fleet scaled back",
+            "url": "https://www.abc.net.au/news/2026-05-19/planned-upgrades-to-collins-class-submarines-scaled-back/106698460",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australian taxpayers to pay $11bn to extend lifespan of ageing Collins-class submarines amid Aukus delay",
+            "url": "https://www.theguardian.com/world/2026/may/19/richard-males-11bn-collins-class-submarines-aukus-delay",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "RBA warns Australia risks slipping into a '1990s recession' as oil shock mounts",
             "url": "https://www.abc.net.au/news/2026-05-19/reserve-bank-sarah-hunter-mentions-recession-inflation/106695446",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "'Policy decisions' the cause of ACT's fiscal deterioration, economist says",
-            "url": "https://www.abc.net.au/news/2026-05-19/act-final-report-on-fiscal-situation-policy-decisions-spending/106696346",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Refunds but no price caps for ripped-off older Australians",
-            "url": "https://www.abc.net.au/news/2026-05-19/refunds-but-no-price-caps-for-ripped-off-older-australians/106697598",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Political Divisions Emerge Over Immigration and Health Policy",
-        "body": "A Liberal senator has broken ranks to criticize Angus Taylor's immigration rhetoric, signaling internal party tensions. The critique suggests growing disagreement within conservative circles about migration approaches.\n\nSimultaneously, government health policies face scrutiny. Plans to reduce private health insurance rebates for older Australians have sparked debate, with experts claiming minimal impact on the hospital system. These policy discussions reflect broader political negotiations around healthcare and social support.",
+        "headline": "Liberal Senator Breaks Ranks Over Immigration Rhetoric",
+        "body": "A Liberal Party senator has publicly challenged colleague Angus Taylor's approach to immigration, signaling internal party tensions. The senator criticized Taylor's rhetoric as overly negative - an unusual public split in the opposition's messaging.\n\nDavid Pocock has also weighed into national policy discussions, urging changes to capital gains tax. Prime Minister Albanese responded by dismissing an AI-driven meme campaign targeting the government's positions.",
         "sources": [
+          {
+            "title": "Pocock urges CGT changes as Albanese laughs off AI meme campaign",
+            "url": "https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
           {
             "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
             "url": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
@@ -94,61 +118,49 @@
             "lean": "left"
           },
           {
-            "title": "Plan to reduce private health rebates for older Australians to have ‘almost no impact’ on hospital system, expert says",
-            "url": "https://www.theguardian.com/australia-news/2026/may/19/private-health-insurance-rebates-older-australians-labor-budget",
+            "title": "Afternoon Update: Liberal breaks ranks on Taylor plan; Mafs UK rape allegations; and having tea with Flea",
+            "url": "https://www.theguardian.com/australia-news/2026/may/19/afternoon-update-tuesday-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Refunds but no price caps for ripped-off older Australians",
-            "url": "https://www.abc.net.au/news/2026-05-19/refunds-but-no-price-caps-for-ripped-off-older-australians/106697598",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Deadly Ebola Outbreak Ravages Democratic Republic of Congo",
-        "body": "A severe Ebola epidemic has claimed at least 131 lives in the Democratic Republic of Congo, pushing health systems to their limits. The World Health Organization describes the outbreak as complex and challenging - signaling significant obstacles to containment.\n\nHealth workers are racing against time to track infections and prevent further spread. The crisis underscores ongoing public health vulnerabilities in the region, where medical infrastructure remains fragile and response capabilities are stretched thin.",
+        "headline": "Ebola Outbreak Accelerates - WHO Warns of Rapid Spread",
+        "body": "The World Health Organization has raised urgent alarms about an escalating Ebola crisis. Death toll has climbed to 131 - significantly higher than initial estimates. A WHO doctor suggested the virus may be spreading faster than previously understood.\n\nThe organization will convene an emergency committee to coordinate response strategies. Immediate containment and international support will be critical to preventing further transmission across affected regions.",
         "sources": [
           {
-            "title": "At least 131 dead in Ebola outbreak in DR Congo, official says",
-            "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+            "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "WHO responding to ‘complex, difficult’ Ebola outbreak in DR Congo",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_clip-who-responds-to-ebola-outbreak-in-drc-180526?traffic_source=rss",
+            "title": "WHO to hold emergency committee meeting as Ebola death toll rises to 131",
+            "url": "https://www.aljazeera.com/news/2026/5/19/who-to-hold-emergency-committee-meeting-as-ebola-death-toll-rises-to-131?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Violent Protests Erupt in Bolivia as Miners Demand Presidential Resignation",
-        "body": "Bolivian miners have launched aggressive protests against the current government - clashing violently with police in a dramatic escalation of political tensions. Protesters allied with former president Evo Morales are marching toward the capital, demanding the sitting president step down.\n\nThe unrest highlights deep political divisions and simmering discontent within Bolivia's labor movement. Street confrontations have turned increasingly volatile, with police using force to block demonstrator advances.",
+        "headline": "San Diego Mosque Shooting Investigated as Hate Crime",
+        "body": "A shocking attack at a San Diego mosque has left the community reeling. Teen suspects allegedly shot and killed three people in what authorities are treating as a potential hate crime. A child survivor described the harrowing ordeal.\n\nLocal law enforcement is conducting a thorough investigation. The incident has reignited national conversations about religious violence and community safety.",
         "sources": [
           {
-            "title": "Bolivian miners clash with police demanding president resign",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/bolivian-miners-clash-with-police-demanding-president-resign?traffic_source=rss",
+            "title": "Child survivor of San Diego mosque shooting describes ordeal",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/child-survivor-of-san-diego-mosque-shooting-describes-ordeal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Clashes as Morales-allied protesters march on Bolivian capital",
-            "url": "https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss",
+            "title": "San Diego mosque shooting: What we know about the victims and the attackers",
+            "url": "https://www.aljazeera.com/news/2026/5/19/san-diego-mosque-shooting-what-we-know-about-the-victims-and-the-attackers?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Hate Crime Shooting Stuns San Diego Muslim Community",
-        "body": "Two teenage suspects have been arrested after a fatal shooting at a San Diego mosque - killing three people in what authorities are investigating as a potential hate crime. The attack has shocked local Muslim communities and reignited national conversations about religious violence.\n\nLaw enforcement is examining potential ideological motivations behind the shooting. Community leaders are calling for increased protection and solidarity in the wake of this tragic incident.",
-        "sources": [
+          },
           {
             "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
             "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&amp;at_campaign=rss",
@@ -156,9 +168,21 @@
             "lean": null
           },
           {
-            "title": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "San Diego mosque shooting to be investigated as hate crime",
+            "url": "https://www.dw.com/en/san-diego-mosque-shooting-to-be-investigated-as-hate-crime/a-77206906?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Afghan Families Sell Children as Economic Crisis Deepens",
+        "body": "Desperate Afghan fathers are facing impossible choices in the wake of prolonged economic collapse. Some families have resorted to selling their children as a survival mechanism - a heartbreaking indicator of the country's profound humanitarian crisis.\n\nThe situation reveals the devastating human cost of sustained economic instability and international isolation. Vulnerable populations continue to bear the most severe consequences of systemic breakdown.",
+        "sources": [
+          {
+            "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+            "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -166,8 +190,8 @@
     ],
     "ai": [
       {
-        "headline": "Musk Loses OpenAI Lawsuit in Unanimous Jury Verdict",
-        "body": "Elon Musk's legal battle against OpenAI and Sam Altman has ended in complete defeat. A jury unanimously rejected Musk's claims, finding that he waited too long to file his lawsuit challenging the organization's direction. The verdict closes a high-profile dispute that exposed tensions at the heart of AI's leading development ecosystem.\n\nThe case highlighted deeper conflicts about AI's future and the original mission of OpenAI. Musk's allegations of betraying the nonprofit's founding principles fell flat, leaving him with significant legal and reputational damage.",
+        "headline": "Musk Loses OpenAI Lawsuit - Trial Ends in Decisive Defeat",
+        "body": "A jury unanimously rejected Elon Musk's lawsuit against OpenAI and Sam Altman, delivering a comprehensive legal defeat. The case - which alleged breach of OpenAI's original mission - collapsed under scrutiny of its timing and legal merits.\n\nThe verdict signals a significant moment in the ongoing tech industry battles over AI development and corporate strategy. Musk's claims about OpenAI's alleged betrayal of its founding principles found no traction with the jury, potentially closing a contentious chapter in Silicon Valley's AI narrative.",
         "sources": [
           {
             "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -202,8 +226,26 @@
         ]
       },
       {
-        "headline": "AI Developments Accelerate with New Tools and Discoveries",
-        "body": "The AI landscape continues to evolve rapidly, with multiple significant developments emerging. SandboxAQ expanded its drug discovery capabilities by integrating with Claude, promising more accessible scientific modeling. Meanwhile, researchers explored new frontiers in multi-agent world models and alignment research.\n\nTechnology companies are reshaping their strategies - Anthropic acquired a key dev tools startup used by major tech players, signaling continued consolidation and strategic positioning in the AI ecosystem.",
+        "headline": "npm Ecosystem Rocked by Major Security Breach",
+        "body": "Cybersecurity researchers uncovered a massive compromise affecting 314 npm packages, dubbed the Mini Shai-Hulud attack. The breach represents a significant threat to developers relying on the popular JavaScript package repository.\n\nThe incident highlights ongoing vulnerabilities in open-source software supply chains. Developers and organizations are advised to audit their dependencies and implement robust security screening protocols to mitigate potential risks.",
+        "sources": [
+          {
+            "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+            "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+            "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Advances Accelerate in Drug Discovery and Language Models",
+        "body": "SandboxAQ expanded its drug discovery capabilities by integrating models with Claude, promising more accessible computational research tools. Simultaneously, the AI landscape continues to evolve rapidly - with new developments in language models and computational approaches.\n\nThe integration signals a growing trend of making advanced AI technologies more accessible across scientific domains. Researchers are pushing boundaries in model development, with innovations spanning drug discovery, language processing, and interdisciplinary applications.",
         "sources": [
           {
             "title": "The last six months in LLMs in five minutes",
@@ -224,12 +266,6 @@
             "lean": null
           },
           {
-            "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-            "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
             "title": "Agora-1: The Multi-Agent World Model",
             "url": "https://odyssey.ml/introducing-agora-1",
             "source": "Hacker News",
@@ -240,43 +276,55 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $80K as Retail Demand Evaporates",
-        "body": "Bitcoin's price continues its downward spiral, with retail investor interest plummeting by 73% in the past 24 hours. Futures selling has topped $2 billion, signaling significant market pressure. Analysts point to the $74,000 level as a critical support zone - a potential make-or-break point for the cryptocurrency's near-term trajectory.\n\nThe sharp decline comes amid growing market uncertainty. Technical indicators suggest a potential battle at the support level could determine Bitcoin's next major price movement, with traders closely watching for signs of a potential reversal or continued downtrend.",
+        "headline": "Bitcoin Bleeds: ETF Outflows Signal Investor Retreat",
+        "body": "Bitcoin faced significant selling pressure as spot ETFs logged $649 million in net outflows - the largest exodus since January. Retail investor demand plummeted by 73%, with futures selling topping $2 billion. The digital asset has shed $5,000 in recent days, with market indicators suggesting the selloff could intensify.\n\nTrading volumes reflect growing investor uncertainty. Institutional sentiment appears to be shifting, with traders moving capital away from Bitcoin and toward more speculative tokens.",
         "sources": [
+          {
+            "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+            "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Spot bitcoin ETFs log $649 million in net outflows, largest since January",
+            "url": "https://www.theblock.co/post/401780/spot-bitcoin-etf-649-million-outflows?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
           {
             "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
             "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Miners Eye AI Data Centers for Massive Growth",
+        "body": "Investment firm Bernstein sees significant upside for Bitcoin miners, pointing to $90 billion in potential AI data center deals. The research suggests miners could leverage emerging AI infrastructure to expand operations and boost profitability.\n\nThis strategic pivot comes amid a challenging market environment for cryptocurrency companies. Miners are seeking innovative ways to monetize their infrastructure and attract investment beyond traditional Bitcoin mining models.",
+        "sources": [
+          {
+            "title": "‘Follow the gigawatts’: Bernstein sees upside in several bitcoin miners amid $90 billion in AI data center deals",
+            "url": "https://www.theblock.co/post/401809/follow-the-gigawatts-bernstein-sees-upside-in-several-bitcoin-miners-amid-90-billion-in-ai-data-center-deals?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
           },
           {
-            "title": "Bitcoin’s trend defining battle starts at the $74K support: Analyst",
-            "url": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Swan Bitcoin sued for nearly $1B over pre-bankruptcy transfers from Prime Trust",
+            "url": "https://cointelegraph.com/news/swan-bitcoin-sued-for-nearly-1b-over-pre-bankruptcy-transfers-from-prime-trust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Quantum Threat Looms: Bitcoin Faces Unprecedented Security Challenge",
-        "body": "Citigroup has raised alarm bells about Bitcoin's vulnerability to quantum computing attacks. The financial giant warns that Bitcoin faces greater quantum risks than other cryptocurrencies, potentially threatening the network's long-term security. This emerging challenge could force significant technological adaptations in Bitcoin's core infrastructure.\n\nThe warning comes at a critical time for Bitcoin, as the cryptocurrency continues to seek mainstream adoption and institutional acceptance. Researchers are now racing to develop quantum-resistant cryptographic solutions that could protect the network from potential future breaches.",
+        "headline": "Bitcoin Fraud Lands Ohio Trader in Nine-Year Prison Term",
+        "body": "A Bitcoin trading scheme in Ohio resulted in a nine-year prison sentence after the perpetrator defrauded investors of $10 million. The case underscores ongoing challenges with cryptocurrency fraud and the legal system's increasingly robust response.\n\nLegal actions like these signal growing regulatory scrutiny of cryptocurrency markets. Investors are being warned to conduct thorough due diligence and remain vigilant against potential scams.",
         "sources": [
           {
-            "title": "Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns",
-            "url": "https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns",
+            "title": "Ohio Man Gets 9 Years for $10M Bitcoin Trading Ponzi Scheme",
+            "url": "https://decrypt.co/368310/ohio-man-gets-9-years-for-10m-bitcoin-trading-ponzi-scheme",
             "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "White House Prepares Strategic Bitcoin Reserve Announcement",
-        "body": "The Biden administration is on the verge of a potentially groundbreaking move in cryptocurrency policy. Sources indicate an imminent announcement about a strategic Bitcoin reserve - a development that could significantly reshape the national approach to digital assets. The White House is describing the initiative as a breakthrough in national financial strategy.\n\nThis potential reserve represents a landmark moment for Bitcoin's legitimacy as a strategic financial asset. It signals a dramatic shift in government perception, moving beyond previous skeptical stances toward a more proactive engagement with cryptocurrency.",
-        "sources": [
-          {
-            "title": "White House Says Strategic Bitcoin Reserve Announcement Is Imminent: ‘A Breakthrough’",
-            "url": "https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -292,14 +340,14 @@
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
-      "tip": "Use a small wobble cushion or balance board under your feet to engage core muscles while working"
+      "name": "Desk Spine Reset",
+      "description": "A targeted micro-movement sequence to realign spine and release tension after prolonged sitting",
+      "tip": "Use a foam roller vertically against a wall to gently mobilize thoracic spine for 3-5 minutes"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure and sustainable architecture",
-      "why": "This emerging field offers radical solutions to urban challenges by mimicking nature's 3.8 billion years of evolutionary problem-solving"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific concept exploring how complex behaviors arise from simple interactions in networks, from ant colonies to neural systems",
+      "why": "Understanding emergence provides profound insights into how intricate patterns and intelligence can spontaneously develop from basic rules"
     }
   }
 }
