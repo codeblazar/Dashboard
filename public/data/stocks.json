@@ -1,73 +1,73 @@
 {
-  "updatedAt": "2026-05-20T11:06:09.970Z",
+  "updatedAt": "2026-05-20T22:35:05.449Z",
   "stocks": [
     {
       "symbol": "AAPL",
       "name": "Apple",
-      "price": 298.97,
-      "change": 1.1300000000000523,
-      "changePct": 0.37939833467635387,
-      "prevClose": 297.84
+      "price": 302.25,
+      "change": 3.2799999999999727,
+      "changePct": 1.0971000434826144,
+      "prevClose": 298.97
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 220.61,
-      "change": -1.7099999999999795,
-      "changePct": -0.7691615689096706,
-      "prevClose": 222.32
+      "price": 223.47,
+      "change": 2.859999999999985,
+      "changePct": 1.2964054213317553,
+      "prevClose": 220.61
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
-      "price": 404.11,
-      "change": -5.8799999999999955,
-      "changePct": -1.434181321495645,
-      "prevClose": 409.99
+      "price": 417.26,
+      "change": 13.149999999999977,
+      "changePct": 3.254064487392041,
+      "prevClose": 404.11
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
-      "price": 387.66,
-      "change": -9.279999999999973,
-      "changePct": -2.337884818864305,
-      "prevClose": 396.94
+      "price": 388.91,
+      "change": 1.25,
+      "changePct": 0.3224475055460971,
+      "prevClose": 387.66
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
-      "price": 259.34,
-      "change": -5.520000000000039,
-      "changePct": -2.084119912406569,
-      "prevClose": 264.86
+      "price": 265.01,
+      "change": 5.670000000000016,
+      "changePct": 2.1863191177604753,
+      "prevClose": 259.34
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
-      "price": 417.42,
-      "change": -6.1200000000000045,
-      "changePct": -1.4449638759031036,
-      "prevClose": 423.54
+      "price": 421.06,
+      "change": 3.6399999999999864,
+      "changePct": 0.8720233817258364,
+      "prevClose": 417.42
     },
     {
       "symbol": "MSTR",
       "name": "Strategy",
-      "price": 164.63,
-      "change": -2,
-      "changePct": -1.2002640580927804,
-      "prevClose": 166.63
+      "price": 165.81,
+      "change": 1.1800000000000068,
+      "changePct": 0.7167587924436657,
+      "prevClose": 164.63
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "price": 135.26,
-      "change": 0.12000000000000455,
-      "changePct": 0.08879680331508404,
-      "prevClose": 135.14
+      "price": 137.15,
+      "change": 1.8900000000000148,
+      "changePct": 1.397308886588803,
+      "prevClose": 135.26
     }
   ],
   "stockFearGreed": {
-    "value": 59,
+    "value": 61,
     "rating": "Greed",
     "previousClose": 60
   },
