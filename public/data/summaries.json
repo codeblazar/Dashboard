@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-05-20T22:35:58.136Z",
+  "generatedAt": "2026-05-21T05:31:18.920Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's $1.8B DOJ Fund Sparks Political Firestorm",
-        "body": "The Trump administration's proposed $1.776 billion 'anti-weaponization' fund has triggered intense political pushback. House Republicans are divided - some vow to block the funding, while others protest its potential implications for government oversight.\n\nLegal challenges are mounting. A symbolic protest saw a John Adams quote projected on the DOJ building, highlighting concerns about potential government overreach. Democrats, led by Representative Jamie Raskin, have introduced legislation to prevent the fund's implementation, arguing it represents a dangerous precedent for executive power.",
+        "headline": "Trump's Political Grip Tightens as Midterms Approach",
+        "body": "Former President Donald Trump continues to dominate Republican Party dynamics, with new polls revealing complex political tensions. A Fox News survey shows Trump's disapproval ratings climbing amid economic challenges, yet he maintains significant influence over GOP strategy and candidate selection.\n\nRepublican leaders are privately weighing the potential electoral consequences of Trump's continued prominence. Some worry his polarizing presence could impact midterm performance, while others see his base as a critical mobilization force.",
         "sources": [
           {
-            "title": "John Adams quote projected on DOJ building to protest ‘anti-weaponization’ fund",
-            "url": "https://thehill.com/homenews/administration/5888304-adams-government-justice-building/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Trump owns the GOP. Could Republicans pay the price in the midterms?",
+            "url": "https://www.foxnews.com/politics/trump-owns-gop-could-republicans-pay-price-midterms",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Fox News Poll: As economic pain deepens, disapproval of Trump hits new high",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
             "title": "Trump $1.8B ‘anti-weaponization’ fund faces legal challenge, GOP criticism",
@@ -24,19 +30,19 @@
             "url": "https://thehill.com/homenews/house/5888185-fitzpatrick-trump-anti-weaponization-fund/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Raskin introduces bill to block Trump’s $1.776B after GOP shoots down effort to subpoena Blanche",
-            "url": "https://thehill.com/homenews/house/5887952-jamie-raskin-legislation-block-doj-anti-weaponization-fund/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "US Tensions Rise with Cuba amid Caribbean Standoff",
-        "body": "US-Cuba relations have sharply deteriorated, with an aircraft carrier arriving in the Caribbean and new diplomatic tensions emerging. The indictment of Raúl Castro has escalated the conflict, with some lawmakers warning about potential military escalation.\n\nCongressman Ruben Gallego accused Republican hawks of manufacturing reasons for potential regime change. Meanwhile, President Trump marked Cuban Independence Day with strong criticism of the island's government, further heightening diplomatic pressure.",
+        "headline": "US-Cuba Tensions Escalate with Military Posturing",
+        "body": "Diplomatic tensions between the United States and Cuba have intensified, with a US aircraft carrier now positioned in the Caribbean. Florida Senator Rick Scott suggested military action might not be necessary, while Representative Ruben Gallego accused some Republicans of manufacturing pretexts for potential intervention.\n\nThe situation involves ongoing investigations into Raúl Castro and complex geopolitical maneuvering. Both diplomatic and military channels remain actively engaged in monitoring the developing scenario.",
         "sources": [
+          {
+            "title": "Florida GOP senator says US won’t need to use military in Cuba",
+            "url": "https://thehill.com/homenews/senate/5888369-rick-scott-cuba-military-action/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "US aircraft carrier arrives in Caribbean amid tensions with Cuba",
             "url": "https://thehill.com/policy/defense/5888335-uss-nimitz-caribbean-cuba-trump/",
@@ -54,90 +60,84 @@
             "url": "https://thehill.com/homenews/senate/5888134-gallego-gop-manufacturing-reason-for-another-regime-change-war-in-cuba/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump marks Cuban Independence Day, slams island’s regime",
-            "url": "https://thehill.com/homenews/administration/5887942-trump-cuban-independence-day/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Economic Pressures Mount as Inflation Continues to Bite",
-        "body": "US consumers face mounting economic challenges, with grocery prices experiencing their largest hike in years. Experts warn that further price increases are likely, adding strain to household budgets.\n\nGas prices have now exceeded $4 per gallon in all 50 states and Washington DC. A Fox News poll indicates growing economic dissatisfaction, with disapproval of current economic management reaching new heights.",
+        "headline": "DOJ Investigations Continue to Probe Trump-Era Controversies",
+        "body": "Legal proceedings surrounding former Trump administration activities remain active, with new developments in multiple investigations. A former DOJ prosecutor was charged with stealing confidential documents related to the Jack Smith investigation, highlighting ongoing scrutiny of past governmental processes.\n\nSimultaneously, the Department of Justice is navigating complex settlement negotiations regarding Trump's tax returns and potential legal challenges. The emerging narrative suggests continued judicial examination of Trump-era governmental actions.",
         "sources": [
           {
-            "title": "Groceries just had the biggest price hike in years. It’s about to get even worse, experts warn",
-            "url": "https://thehill.com/business/personal-finance/5888142-groceries-just-had-the-biggest-price-hike-in-years-its-about-to-get-even-worse-experts-warn/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Gas now tops $4 in all 50 states, DC: AAA",
-            "url": "https://thehill.com/policy/energy-environment/5888105-gas-prices-over-4-dollars/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Fox News Poll: As economic pain deepens, disapproval of Trump hits new high",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high",
+            "title": "Former DOJ prosecutor charged with stealing confidential Jack Smith investigation documents about Trump",
+            "url": "https://www.foxnews.com/politics/former-doj-prosecutor-charged-stealing-confidential-jack-smith-investigation-documents-trump",
             "source": "Fox News",
             "lean": "right"
+          },
+          {
+            "title": "5 things to know about the Trump IRS settlement",
+            "url": "https://thehill.com/business/5887898-irs-settlement-trump-tax-returns/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Former prosecutor charged with emailing herself Jack Smith report, disguising it as cake recipe",
+            "url": "https://thehill.com/regulation/court-battles/5888154-lineberger-charged-special-counsel-report/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "The DOJ is trying to let Trump and his companies off the hook for past tax problems",
+            "url": "https://www.npr.org/2026/05/20/nx-s1-5828302/the-doj-is-trying-to-let-trump-and-his-companies-off-the-hook-for-past-tax-problems",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Foreign Policy Tensions Rise Over Flotilla Incident",
-        "body": "Foreign Minister Penny Wong sharply criticized Israel's handling of a maritime activist incident, calling the treatment of flotilla participants shocking and unacceptable. The diplomatic row highlights ongoing tensions in the region and Australia's willingness to speak out on international human rights issues.\n\nWong's rebuke signals a potential strain in Australia-Israel relations, with the government demanding a full explanation of the events. Diplomatic channels remain open, but the incident underscores the complex geopolitical landscape Australia must navigate.",
+        "headline": "Job Cuts Spark Debate Over Public Sector and Climate Resilience",
+        "body": "Government job cuts are creating tension across multiple sectors. CSIRO faces potential reductions that could impact climate change research capabilities, while Tasmania plans to slash 1,700 positions as part of spending control measures.\n\nThe cuts reflect broader economic pressures. Labor and opposition groups are divided - with some arguing fiscal discipline is necessary, while others warn about long-term strategic damage to research and public services. The debate highlights ongoing challenges in balancing budget constraints with national innovation and adaptation needs.",
         "sources": [
           {
-            "title": "Australia news live: Penny Wong rebukes Israel over ‘shocking and unacceptable’ treatment of flotilla activists",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Morning Mail: ATO rebuked after 97-year-old fined, Keating defends tax changes, outrage over Israel video of flotilla activists",
-            "url": "https://www.theguardian.com/australia-news/2026/may/21/morning-mail-thursday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Budget Debate Heats Up with Capital Gains Tax Changes",
-        "body": "Former Prime Minister Paul Keating has thrown his weight behind proposed capital gains tax reforms, describing them as structurally sound. The changes have sparked intense debate, with younger investors particularly concerned about potential impacts on their investment strategies.\n\nThe government argues the reforms will create a fairer tax system, while critics claim they could discourage investment. Gen Z investors have been particularly vocal, with some viewing the share market as a high-risk opportunity that may now become less attractive.",
-        "sources": [
-          {
-            "title": "Gen Zs who approach share market like 'lottery ticket' could pay more tax",
-            "url": "https://www.abc.net.au/news/2026-05-21/gen-zs-take-a-lottery-ticket-approach-investing-cgt-changes/106698386",
+            "title": "Fears CSIRO job cuts will damage Australia's climate change adaptability",
+            "url": "https://www.abc.net.au/news/2026-05-21/australia-climate-change-adaptability-csiro-environment-job-cuts/106705042",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Live: Paul Keating backs CGT changes as 'structurally sound'",
-            "url": "https://www.abc.net.au/news/2026-05-21/federal-politics-live-blog-paul-keating-cgt/106703424",
+            "title": "Government to slash 1,700 jobs as Abetz looks to rein in Tasmanian spending",
+            "url": "https://www.abc.net.au/news/2026-05-21/tasmanian-state-budget-2026-cuts-and-debt/106695336",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australia backs landmark UN climate change ruling as others try to block it",
+            "url": "https://www.abc.net.au/news/2026-05-21/australia-backs-united-nations-climate-change-ruling/106705694",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Climate and Energy Challenges Test Offshore Wind Ambitions",
-        "body": "Australia's first offshore wind project faces potential delays, casting uncertainty on the nation's renewable energy transition. The Star of the South project has encountered timeline challenges that could impact the country's clean energy goals.\n\nSimultaneously, marine researchers found a glimmer of hope in coral reef resilience, with the Abrolhos Islands showing potential resistance to marine heatwaves. These developments underscore the complex environmental challenges facing Australia's ecological and energy landscapes.",
+        "headline": "Unemployment Rises as Labor Market Shows First Signs of Strain",
+        "body": "Australia's unemployment rate jumped to 4.5% in latest figures, signaling potential economic headwinds. The Reserve Bank is closely monitoring these developments, which suggest the job market may be losing momentum.\n\nEconomic experts are divided on the implications. Some view the increase as a correction after prolonged low unemployment, while others see it as an early warning of broader economic challenges. The data will likely influence future monetary policy and government economic strategies.",
         "sources": [
           {
-            "title": "As coral reefs are wiped out from bleaching, this one brings hope",
-            "url": "https://www.abc.net.au/news/2026-05-21/abrolhos-islands-coral-research-marine-heatwave-resistance/106701298",
+            "title": "Australia’s unemployment rate jumps to 4.5% in ‘tentative signs labour market is buckling’",
+            "url": "https://www.theguardian.com/business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Major staff cuts on the horizon as Football Australia posts record loss",
+            "url": "https://www.abc.net.au/news/2026-05-21/football-australia-posts-record-loss-as-staff-cuts-loom/106705556",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Delays could see nation's first offshore wind project blown off course",
-            "url": "https://www.abc.net.au/news/2026-05-21/star-of-the-south-timeline-update-wind-energy/106683110",
+            "title": "Angus Taylor spruiks gas extraction as SA Liberals oppose fracking bid",
+            "url": "https://www.abc.net.au/news/2026-05-21/federal-and-sa-politicians-split-on-gas-fracking/106706402",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,12 +146,12 @@
     ],
     "world": [
       {
-        "headline": "US Escalates Tensions with Cuba and Israel in Bold Diplomatic Moves",
-        "body": "The US Justice Department indicted former Cuban leader Raul Castro for his role in shooting down two civilian planes in 1996 - a dramatic legal action nearly three decades after the incident. Castro faces murder charges for allegedly ordering the downing of two small planes operated by Cuban exile group Brothers to the Rescue.\n\nSimultaneously, the US condemned Israeli far-right minister Itamar Ben-Gvir for taunting Gaza flotilla activists while sanctioning the organizers of humanitarian aid missions. These actions signal a complex diplomatic landscape where geopolitical tensions intersect with human rights concerns.",
+        "headline": "US Indicts Raul Castro Over 1996 Cuba Plane Downing",
+        "body": "The United States has escalated tensions with Cuba by indicting former president Raul Castro for his alleged role in shooting down two civilian planes in 1996. The charges stem from an incident where Cuban military jets intercepted and destroyed two small aircraft operated by a Cuban exile group - killing all four passengers.\n\nPresident Trump downplayed potential diplomatic fallout, suggesting no significant escalation is expected. Cuban citizens have mixed reactions to the indictment, which comes decades after the original incident and signals a renewed confrontational approach by the US toward Cuba.",
         "sources": [
           {
-            "title": "Why has the US indicted Cuba’s Raul Castro now?",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
+            "title": "Cubans react to US indictment of former President Raul Castro",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/cubans-react-to-us-indictment-of-former-president-raul-castro?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -159,6 +159,18 @@
             "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
             "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Trump says no escalation expected with Cuba after Castro indictment",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/trump-says-no-escalation-expected-with-cuba-after-castro-indictment?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Why has the US indicted Cuba’s Raul Castro now?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -176,31 +188,49 @@
         ]
       },
       {
-        "headline": "Russia-China Alliance Strengthens amid Global Diplomatic Shifts",
-        "body": "Russian President Vladimir Putin visited China, reinforcing a strategic partnership that has grown increasingly significant in global geopolitics. The visit comes after former US President Trump's recent Beijing trip - highlighting the complex diplomatic maneuvering between major world powers.\n\nTensions with the West continue to simmer. A British Ministry of Defense report described a dangerous interception of an RAF spy plane by Russian jets over the Black Sea - underscoring the ongoing military brinkmanship between Russia and NATO-aligned countries.",
+        "headline": "AI Boom Drives Record Profits for Tech Giants",
+        "body": "Nvidia has posted a staggering $58.3 billion profit, highlighting the explosive growth of artificial intelligence technologies. The chipmaker's success reflects surging demand for AI processing hardware across global tech industries.\n\nThe economic impact extends beyond Nvidia. Samsung workers are now negotiating for AI-related bonuses, signaling how deeply the technology is transforming labor markets. Tech companies are racing to capitalize on AI's potential - with massive investments and strategic repositioning becoming the new normal.",
         "sources": [
           {
-            "title": "What’s the significance of the Russian president’s visit to China?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "China and Russia unite after Trump’s Beijing visit",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Russia ‘dangerously’ intercepts British spy plane over Black Sea: Ministry",
-            "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-            "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Samsung strike on hold as workers push for AI bonus",
+            "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
+            "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
+            "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Protests Erupt Against Government Policies in Latin America",
+        "body": "Political tensions are rising across Latin America as citizens challenge government policies. In Bolivia, anti-government protests have prompted a cabinet reshuffle by the president. Meanwhile, in Argentina, demonstrators are condemning President Milei's healthcare funding cuts.\n\nThese protests reflect growing public frustration with economic reforms and perceived government overreach. Citizens are using street demonstrations to challenge policy decisions - signaling a robust democratic response to controversial governance approaches.",
+        "sources": [
+          {
+            "title": "Bolivia’s president reshuffles cabinet amid anti-government protests",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/bolivias-president-reshuffles-cabinet-amid-anti-government-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Argentina protesters condemn Milei healthcare funding cuts",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/argentina-protesters-condemn-milei-healthcare-funding-cuts?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+            "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -208,18 +238,78 @@
     ],
     "ai": [
       {
-        "headline": "AI Compute Wars: Anthropic Pays xAI Billions for Processing Power",
-        "body": "Elon Musk's xAI continues its aggressive expansion, securing massive infrastructure investments despite ongoing legal challenges. The company will receive $1.25 billion monthly from Anthropic for computational resources - a staggering sum that underscores the intense competition for AI processing capacity.\n\nWith $6.4 billion in spending last year and new data center generator purchases totaling $2.8 billion, xAI is positioning itself as a critical infrastructure player in the AI ecosystem. The company faces a lawsuit over its data center operations but appears undeterred in its growth strategy.",
+        "headline": "SpaceX IPO Reveals Risks: Musk, Grok, and Massive AI Spending",
+        "body": "SpaceX has filed for its initial public offering, exposing the complex financial landscape of Elon Musk's expanding tech empire. The IPO filing candidly lists Grok's controversial 'spicy' mode as a potential risk factor - an unusual move that highlights the unpredictable nature of Musk's AI ventures.\n\nThe document reveals xAI burned $6.4 billion last year, with continued heavy investment in infrastructure. SpaceX is spending $2.8 billion on gas turbines for AI data centers, signaling massive computational ambitions that could reshape the tech investment landscape.",
         "sources": [
           {
-            "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+            "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+            "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "OpenAI to confidentially file for IPO as soon as Friday",
+            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+            "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+            "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Famously secret about its finances, SpaceX opens its books for the first time",
+            "url": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
             "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+            "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
             "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Firms Race Toward Profitability and Public Markets",
+        "body": "OpenAI is preparing to file for an IPO confidentially, while Anthropic claims it will hit its first profitable quarter. The AI landscape is rapidly transforming from research-driven startups to mature, revenue-generating enterprises.\n\nNvidia continues to dominate, posting another record quarter and revealing $43 billion in startup holdings. The company's CEO, Jensen Huang, says he's identified a new $200 billion market - underscoring the massive economic potential of artificial intelligence technologies.",
+        "sources": [
+          {
+            "title": "OpenAI to confidentially file for IPO as soon as Friday",
+            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Anthropic says it’s about to have its first profitable quarter",
+            "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+            "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+            "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
             "source": "TechCrunch",
             "lean": null
           },
@@ -230,30 +320,12 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Nvidia Dominates Tech Landscape with Record Earnings and Startup Investments",
-        "body": "Nvidia posted another record quarterly performance, revealing $43 billion in startup holdings that demonstrate its deep integration across the technology sector. The company has become a kingmaker in AI and computing, with investments spanning multiple emerging technologies.\n\nIts financial success reflects the ongoing AI boom, with chip manufacturing and strategic investments positioning Nvidia at the center of technological transformation. The company's ability to not just produce hardware but also shape the startup ecosystem sets it apart from traditional semiconductor manufacturers.",
-        "sources": [
-          {
-            "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-            "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-            "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "SpaceX Reveals $1.45 Billion Bitcoin Treasury in IPO Filing",
-        "body": "Elon Musk's SpaceX disclosed a substantial Bitcoin position in its initial public offering documents. The aerospace company holds 18,712 bitcoins valued at $1.29 billion at the end of Q1 2026 - a strategic move that signals growing corporate confidence in cryptocurrency as a treasury asset.\n\nThe revelation comes amid continued volatility in Bitcoin markets, with the cryptocurrency recently rallying through $77,000 despite significant ETF outflows. Institutional adoption continues to gain momentum, with SpaceX joining other high-profile companies in maintaining a Bitcoin reserve.",
+        "headline": "SpaceX Reveals Massive Bitcoin Treasury in IPO Filing",
+        "body": "Elon Musk's SpaceX disclosed a substantial Bitcoin position of 18,712 coins valued at $1.45 billion in its recent IPO filing. The revelation underscores the growing corporate embrace of Bitcoin as a strategic asset. At quarter's end, the holding represented a significant treasury allocation - a move that could signal broader institutional confidence in cryptocurrency.",
         "sources": [
           {
             "title": "Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position",
@@ -272,53 +344,53 @@
             "url": "https://www.theblock.co/post/402110/elon-musks-spacex-holds-1-45-billion-worth-of-bitcoin-as-firm-looks-to-go-public?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Firm Nakamoto Struggles with Dramatic Stock Plunge",
+        "body": "Bitcoin treasury company Nakamoto is attempting to stabilize its battered stock through a dramatic 1-for-40 reverse split after experiencing a 99% price collapse. The move signals deep financial distress for the Bitcoin-focused firm. Investors will see their share count dramatically reduced in an effort to boost per-share valuation and restore market confidence.",
+        "sources": [
+          {
+            "title": "Bitcoin treasury Nakamoto plans reverse stock split to save ailing share price",
+            "url": "https://cointelegraph.com/news/nakamoto-1-for-40-reverse-stock-split-nasdaq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge",
+            "url": "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "David Bailey’s Nakamoto bitcoin treasury announces 1-for-40 reverse split as shares hit new lows",
+            "url": "https://www.theblock.co/post/402086/david-bailey-nakamoto-bitcoin-treasury-1-for-40-reverse-split-shares-new-lows?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Market Sentiment Turns Bearish as Price Wavers",
+        "body": "Bitcoin's recent price movements have triggered concern among analysts. The cryptocurrency struggled to maintain momentum above the 200-day moving average, with market sentiment turning extremely bearish. Spot ETF outflows exceeding $2 billion suggest potential investor pullback, despite Bitcoin briefly rallying through $77,000.",
+        "sources": [
+          {
+            "title": "Here's why bitcoin turned lower from the 200-day average",
+            "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade",
+            "source": "CoinDesk",
+            "lean": null
           },
           {
             "title": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B",
             "url": "https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Miners Surge as Nvidia Earnings Boost Tech Sentiment",
-        "body": "Bitcoin mining stocks experienced a significant uptick following Nvidia's blockbuster earnings report. The semiconductor giant's strong financial performance and optimistic outlook have reinvigorated investor interest in the intersection of AI technology and cryptocurrency infrastructure.\n\nThe rally highlights the growing symbiosis between advanced computing technologies and Bitcoin mining operations. Investors are increasingly viewing Bitcoin miners as critical infrastructure players in the expanding digital economy.",
-        "sources": [
-          {
-            "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
-            "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
-            "source": "CoinDesk",
-            "lean": null
           },
           {
-            "title": "The 2036 Issue: Bitcoin Mining Is Dead, Long Live the Miners!",
-            "url": "https://bitcoinmagazine.com/print/the-2036-issue-bitcoin-mining-is-dead-long-live-the-miners",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "South Carolina Passes Bitcoin-Friendly Law Blocking CBDC",
-        "body": "South Carolina has enacted legislation protecting cryptocurrency users and Bitcoin miners while explicitly banning central bank digital currencies (CBDCs) within state operations. The law represents a significant regulatory stance that prioritizes decentralized digital assets.\n\nThe move signals growing state-level recognition of Bitcoin's importance and potential risks associated with government-controlled digital currencies. It reflects an emerging trend of jurisdictions creating legal frameworks that support cryptocurrency innovation while maintaining financial sovereignty.",
-        "sources": [
-          {
-            "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
-            "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "South Carolina Enacts Bitcoin-Friendly Law, Bans CBDC Use by State Entities",
-            "url": "https://bitcoinmagazine.com/news/south-carolina-enacts-bitcoin-friendly-law",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
-            "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "CryptoQuant says bitcoin mirrors 2022 bear market pattern as sentiment turns ‘extremely bearish’",
+            "url": "https://www.theblock.co/post/402091/cryptoquant-bitcoin-bear-market-pattern-sentiment-extremely-bearish?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -327,21 +399,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Moroccan Harissa Shakshuka",
+      "cuisine": "North African fusion",
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce with smoky harissa paste",
+      "tip": "Toast your own spices beforehand to intensify the flavor profile"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
       "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's biomechanical stress",
-      "tip": "Set a hourly timer to do 30-second standing side bends and shoulder blade retractions"
+      "tip": "Set a hourly timer to do 90-second standing 'reset' with shoulder rolls and spine elongation"
     },
     "learn": {
-      "topic": "Emergence Theory in Complex Systems",
-      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
-      "why": "Understanding emergence reveals profound insights into everything from ant colonies to artificial intelligence, challenging traditional reductionist thinking"
+      "topic": "Quantum Entanglement",
+      "description": "A quantum phenomenon where particles become interconnected and instantaneously influence each other regardless of physical distance",
+      "why": "It challenges fundamental assumptions about reality, communication, and the nature of information transmission at a subatomic level"
     }
   }
 }
