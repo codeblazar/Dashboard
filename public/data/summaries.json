@@ -1,93 +1,57 @@
 {
-  "generatedAt": "2026-05-21T05:31:18.920Z",
+  "generatedAt": "2026-05-21T11:10:01.173Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Political Grip Tightens as Midterms Approach",
-        "body": "Former President Donald Trump continues to dominate Republican Party dynamics, with new polls revealing complex political tensions. A Fox News survey shows Trump's disapproval ratings climbing amid economic challenges, yet he maintains significant influence over GOP strategy and candidate selection.\n\nRepublican leaders are privately weighing the potential electoral consequences of Trump's continued prominence. Some worry his polarizing presence could impact midterm performance, while others see his base as a critical mobilization force.",
+        "headline": "Trump Reshapes GOP, Sparking Internal Party Tensions",
+        "body": "Former President Donald Trump continues to exert significant influence over the Republican Party, triggering internal conflicts. GOP senators warn that Trump's retribution tour could undermine the party's legislative agenda, with some endorsements creating friction among established members.\n\nTrump's primary push has already reshaped congressional dynamics. Some Republicans fear his interventions might create short-term challenges for party unity and electoral strategy, particularly in swing districts where moderate voters remain uncertain about supporting Democratic alternatives.",
         "sources": [
+          {
+            "title": "GOP senators warn Trump retribution tour hurts president’s agenda",
+            "url": "https://thehill.com/homenews/senate/5888311-trump-endorses-paxton-cornyn/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump’s primary push could leave him with short-term problem in Congress",
+            "url": "https://thehill.com/homenews/house/5888349-trump-reshaping-congress-gop-primaries/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Even as anxieties grow under Trump, these swing voters aren't ready to back Democrats",
+            "url": "https://www.npr.org/2026/05/21/nx-s1-5828924/north-carolina-swing-voter-focus-group",
+            "source": "NPR",
+            "lean": "left"
+          },
           {
             "title": "Trump owns the GOP. Could Republicans pay the price in the midterms?",
             "url": "https://www.foxnews.com/politics/trump-owns-gop-could-republicans-pay-price-midterms",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Fox News Poll: As economic pain deepens, disapproval of Trump hits new high",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump $1.8B ‘anti-weaponization’ fund faces legal challenge, GOP criticism",
-            "url": "https://thehill.com/homenews/administration/5888256-trump-anti-weaponization-fund-lawsuit/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "House Republican: ‘We’re gonna kill’ Trump’s nearly $1.8B ‘anti-weaponization’ fund",
-            "url": "https://thehill.com/homenews/house/5888185-fitzpatrick-trump-anti-weaponization-fund/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "US-Cuba Tensions Escalate with Military Posturing",
-        "body": "Diplomatic tensions between the United States and Cuba have intensified, with a US aircraft carrier now positioned in the Caribbean. Florida Senator Rick Scott suggested military action might not be necessary, while Representative Ruben Gallego accused some Republicans of manufacturing pretexts for potential intervention.\n\nThe situation involves ongoing investigations into Raúl Castro and complex geopolitical maneuvering. Both diplomatic and military channels remain actively engaged in monitoring the developing scenario.",
+        "headline": "Immigration and Border Policy Spark Heated Political Debate",
+        "body": "A new executive order targeting Immigration and Customs Enforcement (ICE) has ignited controversy, with legal experts calling it political theater. The order, proposed by Representative Abigail Spanberger, highlights the ongoing tensions surrounding immigration policy.\n\nThe debate reflects deeper divisions about border security, immigration enforcement, and the balance between national security and humanitarian considerations. Different political perspectives continue to clash over the most effective approach to managing immigration challenges.",
         "sources": [
           {
-            "title": "Florida GOP senator says US won’t need to use military in Cuba",
-            "url": "https://thehill.com/homenews/senate/5888369-rick-scott-cuba-military-action/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "US aircraft carrier arrives in Caribbean amid tensions with Cuba",
-            "url": "https://thehill.com/policy/defense/5888335-uss-nimitz-caribbean-cuba-trump/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "5 things to know about the Raúl Castro indictment and the Cuba crisis",
-            "url": "https://thehill.com/policy/international/5888303-castro-indictment-cuba-crisis-trump/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Gallego: GOP manufacturing ‘reason for another regime change war’ in Cuba",
-            "url": "https://thehill.com/homenews/senate/5888134-gallego-gop-manufacturing-reason-for-another-regime-change-war-in-cuba/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "DOJ Investigations Continue to Probe Trump-Era Controversies",
-        "body": "Legal proceedings surrounding former Trump administration activities remain active, with new developments in multiple investigations. A former DOJ prosecutor was charged with stealing confidential documents related to the Jack Smith investigation, highlighting ongoing scrutiny of past governmental processes.\n\nSimultaneously, the Department of Justice is navigating complex settlement negotiations regarding Trump's tax returns and potential legal challenges. The emerging narrative suggests continued judicial examination of Trump-era governmental actions.",
-        "sources": [
-          {
-            "title": "Former DOJ prosecutor charged with stealing confidential Jack Smith investigation documents about Trump",
-            "url": "https://www.foxnews.com/politics/former-doj-prosecutor-charged-stealing-confidential-jack-smith-investigation-documents-trump",
+            "title": "Legal expert unleashes on Spanberger's new executive order targeting ICE: 'Political theater'",
+            "url": "https://www.foxnews.com/politics/legal-expert-unleashes-spanbergers-new-executive-order-targeting-ice-political-theater",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "5 things to know about the Trump IRS settlement",
-            "url": "https://thehill.com/business/5887898-irs-settlement-trump-tax-returns/",
+            "title": "Castro charges fuel debate over military action in Cuba",
+            "url": "https://thehill.com/policy/defense/5888417-castro-charges-fuel-debate-over-military-action-in-cuba/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Former prosecutor charged with emailing herself Jack Smith report, disguising it as cake recipe",
-            "url": "https://thehill.com/regulation/court-battles/5888154-lineberger-charged-special-counsel-report/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "The DOJ is trying to let Trump and his companies off the hook for past tax problems",
-            "url": "https://www.npr.org/2026/05/20/nx-s1-5828302/the-doj-is-trying-to-let-trump-and-his-companies-off-the-hook-for-past-tax-problems",
+            "title": "Liberal U.S. mayors team up with European counterparts to fight authoritarianism",
+            "url": "https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban",
             "source": "NPR",
             "lean": "left"
           }
@@ -96,140 +60,116 @@
     ],
     "au-politics": [
       {
-        "headline": "Job Cuts Spark Debate Over Public Sector and Climate Resilience",
-        "body": "Government job cuts are creating tension across multiple sectors. CSIRO faces potential reductions that could impact climate change research capabilities, while Tasmania plans to slash 1,700 positions as part of spending control measures.\n\nThe cuts reflect broader economic pressures. Labor and opposition groups are divided - with some arguing fiscal discipline is necessary, while others warn about long-term strategic damage to research and public services. The debate highlights ongoing challenges in balancing budget constraints with national innovation and adaptation needs.",
+        "headline": "Budget Tensions Rise as Unemployment Jumps to 4.5%",
+        "body": "The federal government faces mounting pressure as Australia's unemployment rate climbed to 4.5%, challenging the Albanese administration's economic narrative. Markets have sharply reduced expectations of further interest rate hikes, signaling economic uncertainty.\n\nOpposition leaders are positioning themselves to critique the budget, with Pauline Hanson proposing alternative gas policies that challenge current taxation approaches. The economic landscape appears increasingly complex, with political parties seeking to differentiate their economic strategies.",
         "sources": [
           {
-            "title": "Fears CSIRO job cuts will damage Australia's climate change adaptability",
-            "url": "https://www.abc.net.au/news/2026-05-21/australia-climate-change-adaptability-csiro-environment-job-cuts/106705042",
+            "title": "Albanese's hard sell as budget opponents line up",
+            "url": "https://www.abc.net.au/news/2026-05-21/federal-budget-albanese-jim-chalmers-coalition-angus-taylor/106692032",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Government to slash 1,700 jobs as Abetz looks to rein in Tasmanian spending",
-            "url": "https://www.abc.net.au/news/2026-05-21/tasmanian-state-budget-2026-cuts-and-debt/106695336",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Australia’s unemployment rate jumps to 4.5% with markets slashing chance of more interest rate hikes",
+            "url": "https://www.theguardian.com/business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Australia backs landmark UN climate change ruling as others try to block it",
-            "url": "https://www.abc.net.au/news/2026-05-21/australia-backs-united-nations-climate-change-ruling/106705694",
+            "title": "Pauline Hanson announces Norway-inspired gas policy as she decries 25% export tax as ‘economic vandalism’",
+            "url": "https://www.theguardian.com/australia-news/2026/may/21/pauline-hanson-announces-norway-inspired-gas-policy-as-she-decries-25-export-tax-as-economic-vandalism",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Hanson proposes tax break for drilling alongside new gas royalty",
+            "url": "https://www.abc.net.au/news/2026-05-21/one-nation-proposes-new-tax-break-for-drilling/106707250",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Unemployment Rises as Labor Market Shows First Signs of Strain",
-        "body": "Australia's unemployment rate jumped to 4.5% in latest figures, signaling potential economic headwinds. The Reserve Bank is closely monitoring these developments, which suggest the job market may be losing momentum.\n\nEconomic experts are divided on the implications. Some view the increase as a correction after prolonged low unemployment, while others see it as an early warning of broader economic challenges. The data will likely influence future monetary policy and government economic strategies.",
+        "headline": "High Court to Hear Neo-Nazi Group's Political Party Bid",
+        "body": "A controversial neo-Nazi group has secured a High Court hearing in its attempt to be registered as a political party - a move that has sparked significant debate about free speech and hate speech limits. The case represents a critical test of Australia's political registration laws.\n\nThe hearing will examine the group's right to formal political recognition, with potential implications for how Australia defines acceptable political discourse. Civil liberties and anti-racism advocates are watching the proceedings closely.",
         "sources": [
           {
-            "title": "Australia’s unemployment rate jumps to 4.5% in ‘tentative signs labour market is buckling’",
-            "url": "https://www.theguardian.com/business/2026/may/21/australia-unemployment-rate-jumps-job-market-rba-reserve-bank",
+            "title": "Neo-Nazi group secures high court hearing over hate listing as it seeks to become a political party",
+            "url": "https://www.theguardian.com/australia-news/2026/may/21/neo-nazi-group-hate-listing-high-court-political-party-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          },
-          {
-            "title": "Major staff cuts on the horizon as Football Australia posts record loss",
-            "url": "https://www.abc.net.au/news/2026-05-21/football-australia-posts-record-loss-as-staff-cuts-loom/106705556",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Angus Taylor spruiks gas extraction as SA Liberals oppose fracking bid",
-            "url": "https://www.abc.net.au/news/2026-05-21/federal-and-sa-politicians-split-on-gas-fracking/106706402",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US Indicts Raul Castro Over 1996 Cuba Plane Downing",
-        "body": "The United States has escalated tensions with Cuba by indicting former president Raul Castro for his alleged role in shooting down two civilian planes in 1996. The charges stem from an incident where Cuban military jets intercepted and destroyed two small aircraft operated by a Cuban exile group - killing all four passengers.\n\nPresident Trump downplayed potential diplomatic fallout, suggesting no significant escalation is expected. Cuban citizens have mixed reactions to the indictment, which comes decades after the original incident and signals a renewed confrontational approach by the US toward Cuba.",
+        "headline": "Iran-US War Enters Critical Phase as Mediation Efforts Intensify",
+        "body": "Diplomatic tensions are reaching a boiling point in the ongoing conflict between Iran and the United States. Pakistan has stepped up mediation efforts as Tehran reviews a new US proposal to end the war. The conflict - now in its 83rd day - continues to send shockwaves through global geopolitics.\n\nEconomic analysts warn of four distinct waves of global economic impact from the prolonged conflict. Meanwhile, international observers are closely watching potential diplomatic breakthroughs that could de-escalate the increasingly complex regional standoff.",
         "sources": [
           {
-            "title": "Cubans react to US indictment of former President Raul Castro",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/cubans-react-to-us-indictment-of-former-president-raul-castro?traffic_source=rss",
+            "title": "What options do the US and Iran have left to bring war to an end?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-            "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump says no escalation expected with Cuba after Castro indictment",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/trump-says-no-escalation-expected-with-cuba-after-castro-indictment?traffic_source=rss",
+            "title": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
+            "url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Why has the US indicted Cuba’s Raul Castro now?",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
+            "title": "The economic shock of the Iran war will hit the world in four waves",
+            "url": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US indicts Cuba’s former leader Raul Castro: Why it matters",
-            "url": "https://www.aljazeera.com/news/2026/5/20/us-indicts-cubas-former-leader-raul-castro-why-it-matters?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US indicts Cuba’s Raul Castro over 1996 plane downing",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/us-indicts-cubas-raul-castro-over-1996-plane-downing?traffic_source=rss",
+            "title": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
+            "url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Boom Drives Record Profits for Tech Giants",
-        "body": "Nvidia has posted a staggering $58.3 billion profit, highlighting the explosive growth of artificial intelligence technologies. The chipmaker's success reflects surging demand for AI processing hardware across global tech industries.\n\nThe economic impact extends beyond Nvidia. Samsung workers are now negotiating for AI-related bonuses, signaling how deeply the technology is transforming labor markets. Tech companies are racing to capitalize on AI's potential - with massive investments and strategic repositioning becoming the new normal.",
+        "headline": "Ebola Outbreak Disrupts DR Congo World Cup Preparations",
+        "body": "A new Ebola outbreak has forced the Democratic Republic of Congo to cancel its World Cup training camp, highlighting the ongoing public health challenges facing the nation. Health authorities are scrambling to contain the spread of a potentially dangerous new strain of the virus.\n\nThe cancellation underscores the persistent threat of infectious diseases in the region. Scientists are racing to develop a vaccine that could provide protection against this latest outbreak, which threatens both sporting preparations and public health.",
         "sources": [
           {
-            "title": "Samsung strike on hold as workers push for AI bonus",
-            "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+            "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
-            "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss",
+            "title": "Ebola outbreak: When will a vaccine be developed for the new strain?",
+            "url": "https://www.aljazeera.com/news/2026/5/21/ebola-outbreak-when-will-a-vaccine-be-developed-for-the-new-strain?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
-            "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss",
+            "title": "DR Congo cancel World Cup training camp in Kinshasa over Ebola outbreak",
+            "url": "https://www.aljazeera.com/sports/2026/5/21/dr-congo-cancel-world-cup-training-camp-in-kinshasa-over-ebola-outbreak?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Protests Erupt Against Government Policies in Latin America",
-        "body": "Political tensions are rising across Latin America as citizens challenge government policies. In Bolivia, anti-government protests have prompted a cabinet reshuffle by the president. Meanwhile, in Argentina, demonstrators are condemning President Milei's healthcare funding cuts.\n\nThese protests reflect growing public frustration with economic reforms and perceived government overreach. Citizens are using street demonstrations to challenge policy decisions - signaling a robust democratic response to controversial governance approaches.",
+        "headline": "Global Tech and Economic Tensions Simmer in Shifting Landscape",
+        "body": "Nvidia's latest financial results failed to impress investors, signaling potential cooling in the tech sector. The company's performance reflects broader economic uncertainties and shifting market dynamics.\n\nIn another economic indicator, South Korea's stock market saw a boost after Samsung's union called off a planned strike. These developments point to ongoing volatility in global markets and the delicate balance of corporate and labor interests.",
         "sources": [
           {
-            "title": "Bolivia’s president reshuffles cabinet amid anti-government protests",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/bolivias-president-reshuffles-cabinet-amid-anti-government-protests?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Nvidia's latest record result fails to impress investors",
+            "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Argentina protesters condemn Milei healthcare funding cuts",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/argentina-protesters-condemn-milei-healthcare-funding-cuts?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
-            "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+            "title": "South Korea’s stock market soars as Samsung union calls off planned strike",
+            "url": "https://www.aljazeera.com/economy/2026/5/21/south-koreas-stock-market-soars-as-samsung-union-calls-off-planned-strike?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -238,19 +178,13 @@
     ],
     "ai": [
       {
-        "headline": "SpaceX IPO Reveals Risks: Musk, Grok, and Massive AI Spending",
-        "body": "SpaceX has filed for its initial public offering, exposing the complex financial landscape of Elon Musk's expanding tech empire. The IPO filing candidly lists Grok's controversial 'spicy' mode as a potential risk factor - an unusual move that highlights the unpredictable nature of Musk's AI ventures.\n\nThe document reveals xAI burned $6.4 billion last year, with continued heavy investment in infrastructure. SpaceX is spending $2.8 billion on gas turbines for AI data centers, signaling massive computational ambitions that could reshape the tech investment landscape.",
+        "headline": "SpaceX IPO Reveals Massive AI Spending and Risks",
+        "body": "SpaceX is preparing to go public, and its IPO filing exposes the aggressive financial strategy behind Elon Musk's AI ventures. The company burned $6.4 billion last year on xAI, with ongoing massive investments in data center infrastructure - including a $2.8 billion purchase of gas turbines. Notably, the filing lists Grok's 'spicy' mode as a potential risk factor, highlighting the unconventional approach of Musk's AI projects.",
         "sources": [
           {
             "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
             "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
             "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "OpenAI to confidentially file for IPO as soon as Friday",
-            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -286,13 +220,19 @@
         ]
       },
       {
-        "headline": "AI Firms Race Toward Profitability and Public Markets",
-        "body": "OpenAI is preparing to file for an IPO confidentially, while Anthropic claims it will hit its first profitable quarter. The AI landscape is rapidly transforming from research-driven startups to mature, revenue-generating enterprises.\n\nNvidia continues to dominate, posting another record quarter and revealing $43 billion in startup holdings. The company's CEO, Jensen Huang, says he's identified a new $200 billion market - underscoring the massive economic potential of artificial intelligence technologies.",
+        "headline": "Tech Giants Shuffle Resources as AI Race Intensifies",
+        "body": "Meta is cutting thousands of jobs to offset massive AI investments, signaling the high-stakes financial reallocation happening across the tech industry. Meanwhile, Nvidia continues its remarkable growth - posting another record quarter and revealing $43 billion in startup holdings. Anthropic is showing signs of financial maturity, projecting its first profitable quarter and securing substantial compute resources from xAI at $1.25 billion per month.",
         "sources": [
           {
-            "title": "OpenAI to confidentially file for IPO as soon as Friday",
-            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-            "source": "Hacker News",
+            "title": "Meta lays off thousands of employees to offset AI investments",
+            "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+            "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
@@ -308,12 +248,6 @@
             "lean": null
           },
           {
-            "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-            "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
             "title": "Anthropic will pay xAI $1.25B per month for compute",
             "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
             "source": "TechCrunch",
@@ -324,32 +258,32 @@
     ],
     "btc": [
       {
-        "headline": "SpaceX Reveals Massive Bitcoin Treasury in IPO Filing",
-        "body": "Elon Musk's SpaceX disclosed a substantial Bitcoin position of 18,712 coins valued at $1.45 billion in its recent IPO filing. The revelation underscores the growing corporate embrace of Bitcoin as a strategic asset. At quarter's end, the holding represented a significant treasury allocation - a move that could signal broader institutional confidence in cryptocurrency.",
+        "headline": "Bitcoin Options Market Heats Up Before Major Expiry",
+        "body": "Traders are flooding the Bitcoin options market ahead of a massive $6 billion expiration on May 29. Significant activity centers around $82,000 call options, creating tension around potential price movements. The market sits in a delicate balance - caught between the max pain point at $75,000 and a substantial call option wall at $80,000.",
         "sources": [
           {
-            "title": "Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position",
-            "url": "https://decrypt.co/368570/elon-musks-spacex-ipo-filing-reveals-1-45-billion-bitcoin-position",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows",
-            "url": "https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows",
+            "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
+            "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Elon Musk’s SpaceX holds $1.45 billion worth of bitcoin as firm looks to go public",
-            "url": "https://www.theblock.co/post/402110/elon-musks-spacex-holds-1-45-billion-worth-of-bitcoin-as-firm-looks-to-go-public?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Firm Nakamoto Struggles with Dramatic Stock Plunge",
-        "body": "Bitcoin treasury company Nakamoto is attempting to stabilize its battered stock through a dramatic 1-for-40 reverse split after experiencing a 99% price collapse. The move signals deep financial distress for the Bitcoin-focused firm. Investors will see their share count dramatically reduced in an effort to boost per-share valuation and restore market confidence.",
+        "headline": "SpaceX Reveals Substantial Bitcoin Treasury in IPO Filing",
+        "body": "Elon Musk's SpaceX has disclosed larger-than-expected Bitcoin holdings in its initial public offering documents. The revelation signals continued corporate confidence in cryptocurrency despite market volatility. This move follows Musk's previous cryptocurrency investments and could further legitimize Bitcoin as a corporate treasury asset.",
+        "sources": [
+          {
+            "title": "SpaceX reveals larger-than-expected Bitcoin holdings in IPO filing",
+            "url": "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Nakamoto Bitcoin Firm Struggles with Dramatic Stock Collapse",
+        "body": "Bitcoin technology firm Nakamoto is pursuing a dramatic 1-for-40 reverse stock split after experiencing a catastrophic 99% price plunge. The move aims to stabilize its Nasdaq-listed shares and prevent potential delisting. Investors face significant dilution as the company attempts to reset its market valuation.",
         "sources": [
           {
             "title": "Bitcoin treasury Nakamoto plans reverse stock split to save ailing share price",
@@ -362,36 +296,6 @@
             "url": "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
             "source": "Decrypt",
             "lean": null
-          },
-          {
-            "title": "David Bailey’s Nakamoto bitcoin treasury announces 1-for-40 reverse split as shares hit new lows",
-            "url": "https://www.theblock.co/post/402086/david-bailey-nakamoto-bitcoin-treasury-1-for-40-reverse-split-shares-new-lows?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Market Sentiment Turns Bearish as Price Wavers",
-        "body": "Bitcoin's recent price movements have triggered concern among analysts. The cryptocurrency struggled to maintain momentum above the 200-day moving average, with market sentiment turning extremely bearish. Spot ETF outflows exceeding $2 billion suggest potential investor pullback, despite Bitcoin briefly rallying through $77,000.",
-        "sources": [
-          {
-            "title": "Here's why bitcoin turned lower from the 200-day average",
-            "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B",
-            "url": "https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "CryptoQuant says bitcoin mirrors 2022 bear market pattern as sentiment turns ‘extremely bearish’",
-            "url": "https://www.theblock.co/post/402091/cryptoquant-bitcoin-bear-market-pattern-sentiment-extremely-bearish?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
           }
         ]
       }
@@ -399,21 +303,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Harissa Shakshuka",
-      "cuisine": "North African fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce with smoky harissa paste",
-      "tip": "Toast your own spices beforehand to intensify the flavor profile"
+      "name": "Hokkaido Milk Bread Rolls",
+      "cuisine": "Japanese-inspired",
+      "description": "Ultra-soft, cloud-like bread rolls with a delicate, pillowy texture that melts in your mouth",
+      "tip": "Use tangzhong method (pre-cooking a small portion of flour and liquid) to ensure maximum softness and moisture"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's biomechanical stress",
-      "tip": "Set a hourly timer to do 90-second standing 'reset' with shoulder rolls and spine elongation"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Use a doorframe as a guide: stand with your back against it, slowly slide down 2-3 inches, hold for 30 seconds, then rise"
     },
     "learn": {
-      "topic": "Quantum Entanglement",
-      "description": "A quantum phenomenon where particles become interconnected and instantaneously influence each other regardless of physical distance",
-      "why": "It challenges fundamental assumptions about reality, communication, and the nature of information transmission at a subatomic level"
+      "topic": "Biomimicry in Urban Design",
+      "description": "The emerging field of designing cities and infrastructure by directly copying strategies found in natural ecosystems",
+      "why": "It offers revolutionary approaches to sustainable urban development by learning from billions of years of nature's problem-solving"
     }
   }
 }
