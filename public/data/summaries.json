@@ -1,95 +1,155 @@
 {
-  "generatedAt": "2026-05-22T11:06:51.821Z",
+  "generatedAt": "2026-05-22T22:27:13.076Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "GOP Fractures: Trump's Grip Tested in Primaries and Funding Battles",
-        "body": "Republican Party tensions are boiling over as internal divisions threaten key legislative priorities. Congressional Republicans delayed an ICE funding vote after sharp disagreements emerged within the party's ranks. Meanwhile, Trump continues to exert significant influence - championing issues like permanent daylight saving time while facing pushback from some party moderates.\n\nThe strain is visible in primary races and budget negotiations. Senate Republicans struggled to pass a reconciliation bill due to disputes over Trump's proposed anti-weaponization fund. Despite his continued popularity, emerging cracks suggest potential vulnerabilities for the former president's political strategy.",
+        "headline": "Criminal Case Against Abrego Garcia Dropped - DOJ Vows Appeal",
+        "body": "A federal judge dismissed criminal smuggling charges against Kilmar Abrego Garcia, ruling the prosecution was vindictive. The Department of Justice immediately announced plans to appeal the decision, setting up a potential legal showdown.\n\nThe case highlights ongoing tensions between judicial interpretation and federal prosecution strategies. While the judge viewed the charges as politically motivated, prosecutors maintain the original case had merit and intend to challenge the dismissal through higher courts.",
         "sources": [
           {
-            "title": "Congress delays vote on Republican-backed ICE funding after GOP infighting",
-            "url": "https://www.npr.org/2026/05/22/nx-s1-5830311/congress-delays-vote-on-republican-backed-ice-funding-after-gop-infighting",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Judge drops criminal case against Kilmar Abrego García, deeming it vindictive",
+            "url": "https://www.washingtonpost.com/national-security/2026/05/22/judge-drops-criminal-case-against-kilmar-abrego-garca-ruling-it-vindictive/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "Jeff Flake, former Republican senator, on party pushing back against Trump's agenda",
-            "url": "https://www.npr.org/2026/05/22/nx-s1-5830330/jeff-flake-former-republican-senator-on-party-pushing-back-against-trumps-agenda",
-            "source": "NPR",
-            "lean": "left"
+            "title": "DOJ vows to appeal after judge dismisses smuggling charges against Kilmar Abrego Garcia as 'vindictive'",
+            "url": "https://www.foxnews.com/politics/doj-vows-appeal-judge-dismisses-smuggling-charges-kilmar-abrego-garcia-vindictive",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "GOP furor over Trump’s ‘anti-weaponization’ fund sinks Senate budget reconciliation bill",
-            "url": "https://thehill.com/homenews/senate/5890532-senate-republicans-trump-fund-blanche/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump grip in GOP primaries masks vulnerabilities in the fall",
-            "url": "https://thehill.com/homenews/administration/5890104-republican-party-trump-approval/",
+            "title": "Judge tosses federal charges against Kilmar Abrego Garcia",
+            "url": "https://thehill.com/regulation/court-battles/5891926-kilmar-abrego-garcia-vindictive-prosecution/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Economic Confidence Plummets as Midterm Messaging Shifts",
-        "body": "Voter confidence in the economy has dropped to a nearly four-year low, signaling potential challenges for incumbent political leadership. Economic concerns are reshaping electoral messaging, with candidates increasingly focusing on cost of living issues rather than previous hot-button topics like abortion.\n\nPolls indicate growing voter anxiety about financial stability. Democrats are recalibrating their campaign strategies to address these economic fears, recognizing that kitchen table issues could significantly influence upcoming midterm elections.",
+        "headline": "Political Tensions Simmer as Gabbard Resignation Sparks Debate",
+        "body": "Representative Adam Schiff criticized Tulsi Gabbard's recent resignation, calling it her only positive contribution to US national security. Republican senators have already begun discussing potential replacements for her role as Director of National Intelligence.\n\nThe GOP has floated Representative Elise Stefanik as a potential successor, indicating swift maneuvering in the wake of Gabbard's departure. The situation reflects ongoing partisan divisions and strategic repositioning within national security leadership.",
         "sources": [
           {
-            "title": "As voters prioritize cost of living, focus on abortion evolves in midterm elections",
-            "url": "https://www.npr.org/2026/05/22/nx-s1-5806338/abortion-democrats-midterm-elections-messaging-affordability-mifepristone",
+            "title": "Schiff: Gabbard’s resignation ‘only positive contribution’ to US security",
+            "url": "https://thehill.com/homenews/administration/5892198-schiff-criticizes-gabbard-resignation/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "GOP senator floats Stefanik to replace Gabbard as DNI",
+            "url": "https://thehill.com/homenews/house/5892105-gop-senator-floats-stefanik-to-replace-gabbard-as-dni/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Tillis claps back at Trump: ‘Stupid stuff is killing our chances’",
+            "url": "https://thehill.com/homenews/senate/5891942-tillis-criticizes-trump-controversial-ideas/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump's Week: Ballot Box Wins and Congressional Challenges",
+        "body": "Former President Trump experienced a mixed week in Washington - scoring victories at the ballot box while facing significant congressional headwinds. Senator Thom Tillis criticized what he called Trump's potentially damaging political strategies.\n\nMultiple Republican lawmakers expressed concern about Trump's approach, with some warning against potential diplomatic moves like an Iran deal. The tensions underscore the complex internal dynamics of the Republican Party as the midterm elections approach.",
+        "sources": [
+          {
+            "title": "Trump's week in Washington marked by wins at the ballot box and headaches on the Hill",
+            "url": "https://www.npr.org/2026/05/22/nx-s1-5831293/trumps-week-in-washington-marked-by-wins-at-the-ballot-box-and-headaches-on-the-hill",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Poll shows voter confidence in economy plummeting to a nearly 4-year low",
-            "url": "https://www.washingtonpost.com/politics/2026/05/22/poll-shows-economic-confidence-plummeting-problem-trump/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Tillis claps back at Trump: ‘Stupid stuff is killing our chances’",
+            "url": "https://thehill.com/homenews/senate/5891942-tillis-criticizes-trump-controversial-ideas/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Top Republican warns Trump against making a deal with Iran: 'Finish the job'",
+            "url": "https://www.foxnews.com/politics/top-republican-warns-trump-against-making-deal-iran-finish-job",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Wicker warns Trump against ‘ill advised’ Iran deal: ‘We must finish what we started’",
+            "url": "https://thehill.com/homenews/senate/5891777-wickers-warning-ill-advised-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Liberal Party Reshuffles as Abbott Returns to Leadership Role",
-        "body": "Tony Abbott is set to become the new Liberal Party president, marking a significant return to the political frontlines. The move signals potential internal repositioning for the opposition party after recent electoral defeats.\n\nAbbott - a former prime minister who was ousted in 2015 - will likely use the role to influence party strategy and potentially reshape its conservative messaging. His appointment suggests the Liberals are seeking to reconnect with their traditional base.",
+        "headline": "Health Budget Cuts Spark Political Debate",
+        "body": "The federal Health Minister faces mounting pressure after requesting the department find $700 million in budget cuts. Opposition parties immediately challenged the minister's claims that frontline services would not be affected.\n\nThe request highlights ongoing tensions around healthcare funding. Political strategists suggest this could signal deeper shifts in Australia's traditional two-party system, with voters increasingly skeptical of standard political narratives.",
         "sources": [
           {
-            "title": "Tony Abbott to become new Liberal party president in former PM’s return to political frontlines",
-            "url": "https://www.theguardian.com/australia-news/2026/may/22/tony-abbott-new-liberal-party-president",
+            "title": "Health Minister denies health cuts, despite asking department to find $700m in cuts",
+            "url": "https://www.abc.net.au/news/2026-05-23/2026-health-budget-700-million-dollar-cuts-tasmania/106711370",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Is Australia's two-party political system dead?",
+            "url": "https://www.abc.net.au/news/2026-05-23/political-strategist-says-australian-two-party-system-is-gone/106704546",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Confused about Labor's tax changes? Here's what they really mean",
+            "url": "https://www.abc.net.au/news/2026-05-23/labor-capital-gains-tax-changes-explained-in-detail/106713208",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Victoria's Labor Conference Sets Bold Election Agenda",
+        "body": "Victorian Labor is preparing for the 2026 election with a provocative policy platform. Key proposals include state-sponsored apprenticeships and potential cannabis decriminalization - signaling a progressive approach to economic and social policy.\n\nThe conference reveals internal party debates and strategic positioning. Premier Daniel Andrews and Opposition Leader John Pesutto are both seeking to define their electoral narratives ahead of a potentially tight race.",
+        "sources": [
+          {
+            "title": "Allan, Wilson outline 2026 election agenda",
+            "url": "https://www.abc.net.au/news/2026-05-23/victorian-labor-and-liberal-state-conferences-election-agenda/106711922",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "State-sponsored apprenticeships and decriminalising cannabis on the bill at Victoria’s Labor conference",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "As the wheels threaten to fall off the budget roadshow, a defensive Albanese could take a tip from the UK | Tom McIlroy",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/australia-labor-federal-budget-tax-reform-explanation-albanese",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Labor Considers Tax Trust Exemption Amid Economic Recalibration",
-        "body": "The Albanese government is signaling openness to potential adjustments in trust tax regulations, hinting at possible legislative changes. Treasury officials are reportedly examining options that could provide additional exemptions for certain trust structures.\n\nThis development suggests the government is balancing revenue needs with potential economic incentives. The move could impact small businesses, family trusts, and investment structures across Australia.",
+        "headline": "Government Prepares for Potential Fuel Supply Disruption",
+        "body": "Confidential documents reveal the Australian government is planning for a potential worst-case scenario of retail fuel rationing. The preparations suggest significant concerns about national energy security and potential supply chain vulnerabilities.\n\nThe planning indicates a proactive approach to potential economic disruptions. National security experts are closely monitoring global energy market developments that could impact Australia's fuel infrastructure.",
         "sources": [
           {
-            "title": "Labor leaves door open to an additional trust tax exemption",
-            "url": "https://www.abc.net.au/news/2026-05-22/labor-open-to-additional-trust-tax-exemption/106713316",
+            "title": "Australian government plans for ‘worst-case scenario’ retail fuel rationing, documents reveal",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/australia-planned-in-march-for-worst-case-scenario-fuel-rationing-documents-reveal",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Fracking could open the door to 10 years of gas supply but is there a risk?",
+            "url": "https://www.abc.net.au/news/2026-05-23/sa-government-talks-fracking-potential-despite-opposition/106705148",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Australia needs a CGT rule for the start-up age",
-            "url": "https://www.spectator.com.au/2026/05/australia-needs-a-cgt-rule-for-the-start-up-age/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Pacific Nations Confront Ongoing Fuel Supply Challenges",
-        "body": "Pacific Island leaders have endorsed a new plan to address a prolonged regional fuel crisis, highlighting significant economic vulnerabilities. The taskforce is responding to potential supply disruptions linked to international tensions.\n\nThe strategic discussions underscore the complex geopolitical challenges facing smaller nations in managing critical infrastructure and energy security. Regional cooperation will be key to navigating these economic pressures.",
-        "sources": [
-          {
-            "title": "Pacific leaders warned of 'prolonged' fuel crisis as new plan endorsed",
-            "url": "https://www.abc.net.au/news/2026-05-22/pacific-islands-fuel-taskforce-iran-war-supply-shocks/106712840",
+            "title": "The budget's central weakness was revealed this week",
+            "url": "https://www.abc.net.au/news/2026-05-23/gen-z-millennials-budget-tax-hit-shares-capital-gains-tax-wealth/106692330",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -98,60 +158,48 @@
     ],
     "world": [
       {
-        "headline": "US Troops Deployed to Poland Heighten European Tensions",
-        "body": "NATO welcomed a fresh US troop deployment to Poland - 5,000 soldiers arriving amid growing regional uncertainty. The move signals continued US military commitment to Eastern European allies and potential strategic repositioning in response to ongoing geopolitical pressures.\n\nUS military leadership framed the deployment as a defensive posture. Regional analysts suggest the troops represent a calculated signal of support to NATO's eastern flank - a clear message of solidarity in a complex geopolitical landscape.",
+        "headline": "US Intelligence Shakeup: Gabbard Resigns from Top Role",
+        "body": "Tulsi Gabbard has stepped down from her position as US director of national intelligence, creating sudden uncertainty in the Trump administration's intelligence leadership. The resignation comes amid ongoing political tensions and speculation about potential internal conflicts.\n\nGabbard, who has been a controversial figure in national security circles, made the announcement without providing extensive details about her departure. Her exit could signal deeper shifts in the intelligence community's strategic direction.",
         "sources": [
           {
-            "title": "Nato chief welcomes US sending 5,000 troops to Poland",
-            "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Tulsi Gabbard to resign as US director of national intelligence",
+            "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
-            "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
+            "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
+            "url": "https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Cuba Faces Mounting US Pressure Amid Economic Crisis",
-        "body": "US-Cuba tensions escalated sharply as Washington threatened potential military action and intensified economic sanctions. Cubans are already grappling with severe fuel shortages and widespread blackouts - a situation compounded by increasing US diplomatic pressure.\n\nSenator Marco Rubio characterized Cuba as a direct threat to US interests. Havana swiftly rejected these claims as baseless, setting the stage for a potentially volatile diplomatic confrontation.",
+        "headline": "Alberta Considers Separation - Canada Pushes Back",
+        "body": "Tensions are escalating between Alberta and the federal government as the western Canadian province explores potential separation. Mark Carney, a prominent political figure, has directly challenged the move - calling Alberta 'essential' to Canada's national fabric.\n\nThe potential breakaway movement represents a significant challenge to Canadian unity. Provincial leaders are pushing for increased autonomy, creating a complex political landscape that could reshape Canada's federal structure.",
         "sources": [
           {
-            "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-            "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+            "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-            "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US raises threat of military action against Cuba",
-            "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
+            "title": "Canada’s Carney says Alberta is ‘essential’ as province mulls separation",
+            "url": "https://www.aljazeera.com/news/2026/5/22/canadas-carney-says-alberta-is-essential-as-province-mulls-separation?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US: Trump hints at action against Cuba amid intensifying standoff",
-            "url": "https://www.dw.com/en/us-trump-hints-at-action-against-cuba-amid-intensifying-standoff/a-77257021?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Deepfake Scandal Exposes Korean Entertainment Industry Risks",
-        "body": "Korean police confirmed an AI-generated deepfake was instrumental in destroying a prominent actor's career - highlighting the growing dangers of synthetic media manipulation. The incident underscores technology's potential for malicious personal and professional destruction.\n\nThe case signals urgent need for legal and technological safeguards against AI-powered disinformation. Entertainment and tech industries must develop robust verification mechanisms to protect individual reputations.",
+        "headline": "Global Tensions Rise: Putin Threatens Retaliation Against Ukraine",
+        "body": "Russian President Vladimir Putin has vowed immediate retaliation after accusing Ukraine of attacking a student dormitory. The escalating rhetoric signals continued military and diplomatic pressure in the ongoing conflict.\n\nThe accusation comes amid sustained tensions between Russia and Ukraine. Putin's threat suggests potential further military escalation, raising international concerns about stability in the region.",
         "sources": [
           {
-            "title": "AI used to fake evidence that ended Korean actor's career, say police",
-            "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+            "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -160,67 +208,61 @@
     ],
     "ai": [
       {
-        "headline": "AI Sparks Tension at Graduation Ceremonies Nationwide",
-        "body": "Tech leaders faced unexpected pushback from graduating students this week. Steve Wozniak drew cheers after challenging AI's intelligence during a campus speech - a moment that captured growing student skepticism about artificial intelligence's capabilities.\n\nThe backlash signals deeper unease among young professionals about AI's role in their future careers. Graduates are increasingly vocal about wanting human-driven innovation and questioning the transformative claims made by Silicon Valley executives.",
+        "headline": "AI Ethics Spiral: Voice Cloning Sparks Federal Panic",
+        "body": "US authorities scrambled to contain a disturbing new AI trend after users recreated deceased pilots' voices using crash investigation documents. The National Transportation Safety Board abruptly pulled an entire investigation docket in response to the unauthorized voice reconstruction. This incident highlights growing concerns about AI's potential for ethical breaches - particularly around consent and digital impersonation.",
         "sources": [
           {
-            "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-            "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+            "title": "NTSB pulls docket after AI recreates dead pilots' voices",
+            "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-            "source": "The Verge",
+            "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+            "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Leadership Battle Intensifies with Lawsuit Drama",
-        "body": "The ongoing conflict between Elon Musk and Sam Altman has escalated into a high-stakes legal confrontation. Their dispute over OpenAI's direction and ownership continues to generate significant industry speculation.\n\nMusk's lawsuit challenges the organization's current strategy and leadership, potentially threatening the future of one of the most prominent AI research institutions. The conflict highlights the personal and strategic tensions driving artificial intelligence's rapid development.",
+        "headline": "Google's AI Search Stumbles - Accuracy Takes Major Hit",
+        "body": "Google's AI-powered search results are facing serious credibility challenges. The company's new search overviews are reportedly so broken that they can completely disregard user queries. Tech experts are questioning the reliability of AI-generated summaries, which seem increasingly detached from actual search intent. The problems underscore the ongoing struggle to make AI search truly useful and trustworthy.",
         "sources": [
           {
-            "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-            "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-            "source": "Wired",
+            "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+            "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+            "source": "The Verge",
             "lean": null
           },
           {
-            "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-            "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-            "source": "The Verge",
+            "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+            "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+            "url": "https://github.com/anomalyco/models.dev",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global AI Infrastructure Faces Critical Connectivity Challenges",
-        "body": "Undersea cable limitations are emerging as a significant bottleneck for the Gulf region's ambitious AI expansion plans. The infrastructure constraints could slow technological development and data transmission capabilities.\n\nMemory chip shortages are simultaneously reshaping the consumer electronics market. Samsung's recent employee bonus negotiations underscore the economic pressures and strategic importance of semiconductor manufacturing in supporting AI growth.",
+        "headline": "Tech Policy Chaos: Trump Administration Targets Media Classification",
+        "body": "The Trump-era Federal Communications Commission has launched a bizarre public inquiry into whether ABC's daytime talk show The View qualifies as a news program. This unusual move signals continued political interference in media classification. Meanwhile, the administration's approach to tech policy remains unpredictable - with a recently canceled AI safety executive order after top tech CEOs declined to attend a signing event.",
         "sources": [
           {
-            "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-            "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-            "source": "The Verge",
+            "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+            "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-            "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "The memory shortage is causing a repricing of consumer electronics",
-            "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-            "source": "Hacker News",
+            "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+            "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
@@ -228,49 +270,73 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Hovers Near $78K as Volatility Drops and Rally Signals Strengthen",
-        "body": "Bitcoin's price stabilized around $77,700 after a recent liquidation wave, with analysts closely watching the $75,000 support level. Market indicators suggest growing confidence in a potential bull run. Implied volatility has dropped to a seven-month low - a counterintuitive signal given current macro risks.\n\nLiquidity metrics hint at a possible sharp rally toward $80,000. Traders are seeing long positions surge despite weak US economic data, suggesting underlying market optimism about Bitcoin's near-term trajectory.",
+        "headline": "Bitcoin Billionaire Plots First SpaceX Mars Mission",
+        "body": "The founder of F2Pool - a mining operation controlling 11% of Bitcoin's hashrate - is set to lead humanity's first mission to Mars. This unprecedented crossover between cryptocurrency and space exploration highlights the growing influence of Bitcoin entrepreneurs in high-stakes technological ventures.\n\nThe mission signals a new era of tech ambition, where Bitcoin wealth translates into cutting-edge scientific endeavors. SpaceX's selection of a prominent Bitcoin mining executive underscores the increasing mainstream credibility of cryptocurrency leaders.",
         "sources": [
           {
-            "title": "Bitcoin implied volatility drops to 7 month low despite macro risks",
-            "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks",
+            "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
+            "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
-            "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
-            "source": "CoinDesk",
+            "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
+            "url": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
+            "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
-            "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
-            "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin liquidity balance hints at developing rally toward $80K",
-            "url": "https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?",
+            "url": "https://cointelegraph.com/markets/space-x-ipo-bad-news-for-tech-stocks-but-what-about-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "US Lawmakers Revive Strategic Bitcoin Reserve Proposal",
-        "body": "A new legislative effort aims to establish a national Bitcoin strategic reserve through the proposed ARMA bill. The initiative signals continued political interest in positioning Bitcoin as a strategic national asset.\n\nThe bill represents an emerging approach to cryptocurrency at the federal level - moving beyond pure regulation toward strategic economic integration. While details remain sparse, the proposal suggests growing mainstream acceptance of Bitcoin's potential role in national financial strategy.",
+        "headline": "National Bitcoin Reserve Bill Reshapes Government Crypto Strategy",
+        "body": "A freshman congressman from Nashville has proposed legislation to establish a permanent national Bitcoin reserve. The latest draft drops the original 1 million BTC purchase target but introduces a 20-year asset lockup period - signaling a more measured approach to government cryptocurrency investment.\n\nThis legislative effort reflects growing institutional interest in Bitcoin as a strategic national asset. The bill represents a significant shift in how government entities perceive and potentially integrate cryptocurrency into broader financial strategies.",
         "sources": [
           {
-            "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
-            "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
+            "url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
+            "url": "https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
+            "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Price Dips Below $77K Amid Market Volatility",
+        "body": "Bitcoin's price tumbled under $77,000 as broader market dynamics shifted. The cryptocurrency continues to experience price fluctuations, with institutional movements and macroeconomic factors driving short-term volatility.\n\nNotable market movements include Trump Media's significant Bitcoin portfolio adjustments and ongoing institutional repositioning. The price decline comes as the Dow Jones simultaneously reached new all-time highs, highlighting the complex relationship between traditional and digital financial markets.",
+        "sources": [
+          {
+            "title": "Bitcoin price falls under $77K as Dow Jones hits new all-time highs",
+            "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+            "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
+            "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -281,19 +347,19 @@
     "food": {
       "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
       "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent muscular stagnation",
-      "tip": "Use painter's tape on your floor to mark ideal standing and sitting foot positions"
+      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's biomechanical stress",
+      "tip": "Set a hourly timer to do 30-second standing side bends and shoulder blade retractions"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy nature's elegant problem-solving mechanisms",
-      "why": "Understanding how natural systems solve complex challenges can revolutionize how humans design sustainable infrastructure"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
+      "why": "Understanding emergence reveals profound insights into everything from ant colonies to artificial intelligence, demonstrating how complexity can emerge from fundamental simplicity"
     }
   }
 }
