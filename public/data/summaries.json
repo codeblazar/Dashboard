@@ -1,199 +1,187 @@
 {
-  "generatedAt": "2026-05-21T22:33:33.912Z",
+  "generatedAt": "2026-05-22T05:27:36.431Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Border Crossings Plummet as Trump Touts Immigrant Departures",
-        "body": "The Department of Homeland Security claims a dramatic 94% reduction in border crossings under the Trump administration. Officials highlighted millions of illegal immigrant departures as a key success of current border policies.\n\nThe data suggests a significant shift in immigration patterns, though independent analysts caution against taking the numbers at face value. Political debate continues to simmer around immigration enforcement and border security strategies.",
+        "headline": "Trump Escalates Foreign Policy Tensions Across Multiple Fronts",
+        "body": "President Trump is signaling aggressive stances toward Cuba, Iran, and international diplomacy. Marco Rubio expressed skepticism about diplomatic relations with Cuba while Trump raised potential military action. Meanwhile, John Bolton is pushing to end the Iran ceasefire, suggesting a potential escalation of tensions in the Middle East.\n\nTech industry lobbying appears to have temporarily blocked a Trump executive order on AI, demonstrating ongoing friction between the administration and Silicon Valley. The president continues to pursue assertive foreign policy positions that challenge existing diplomatic frameworks.",
         "sources": [
+          {
+            "title": "Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action",
+            "url": "https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Bolton pushes for Trump to end Iran ceasefire",
+            "url": "https://thehill.com/policy/defense/5890675-bolton-calls-end-iran-ceasefire/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Pressure from Silicon Valley helped block Trump’s expected order on AI",
+            "url": "https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Acting Navy secretary: Taiwan weapons sales paused to ensure munitions for Iran war",
+            "url": "https://thehill.com/policy/defense/5890471-us-arms-sales-taiwan-paused-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "House Republicans Clash Over Immigration and Funding Battles",
+        "body": "Congressional Republicans are experiencing internal tensions over immigration policy and federal funding. House members expressed frustration with the Senate's delay of an immigration funding package, highlighting ongoing intra-party disagreements.\n\nAdditionally, Republicans are criticizing a new $1.776 billion 'anti-weaponization' fund, with some viewing it as controversial. The Department of Homeland Security simultaneously touted significant reductions in border crossings under the Trump administration, adding another layer to the complex immigration debate.",
+        "sources": [
+          {
+            "title": "House Republicans fume at Senate for punting immigration funding package",
+            "url": "https://thehill.com/homenews/house/5890546-immigration-reconciliation-bill-delay-frustration/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Republicans lash out over $1.776B ‘anti-weaponization’ fund",
+            "url": "https://thehill.com/homenews/house/5890419-republicans-lash-out-anti-weaponization-fund/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "DHS touts millions of illegal immigrant departures as border crossings drop 94% under Trump",
             "url": "https://www.foxnews.com/politics/dhs-touts-millions-illegal-immigrant-departures-border-crossings-drop-94-under-trump",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Republicans to leave Washington without ICE funding vote",
-            "url": "https://www.npr.org/2026/05/21/nx-s1-5830320/republicans-to-leave-washington-without-ice-funding-vote",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Sends Troops to Poland amid GOP Internal Tensions",
-        "body": "President Trump dispatched 5,000 US troops to Poland, a move that has sparked mixed reactions within the Republican Party. Some GOP members have pushed back against the deployment, revealing ongoing internal fractures.\n\nThe troop movement comes amid complex international tensions. Trump's decision highlights the ongoing challenges of military positioning and party unity in current geopolitical landscapes.",
-        "sources": [
-          {
-            "title": "Trump, facing GOP blowback, sends 5,000 troops to Poland",
-            "url": "https://thehill.com/policy/defense/5890226-trump-sends-troops-poland/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Crow: Massie loss shows that ‘there’s no room for ideological diversity’ in Trump’s GOP",
-            "url": "https://thehill.com/homenews/house/5890177-massie-loses-trump-backed-primary/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Tim Scott: ‘Impossible’ for Republicans to let Platner win",
-            "url": "https://thehill.com/homenews/senate/5890129-tim-scott-republicans-graham-platner/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Democrats Clash over Women's History Museum Language",
-        "body": "Internal Democratic Party tensions erupted over language in a proposed women's history museum bill. The dispute centers on the use of the term 'biological' - a flashpoint in ongoing debates about gender and representation.\n\nThe disagreement underscores deeper ideological divisions within the party. Democratic leaders are struggling to find common ground on sensitive cultural and identity-related legislative efforts.",
-        "sources": [
-          {
-            "title": "Democrats revolt over 'biological' wording in women's history museum bill",
-            "url": "https://www.foxnews.com/politics/democrats-revolt-over-biological-wording-womens-history-museum-bill",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Hogg calls for Ken Martin’s resignation over DNC’s delayed 2024 autopsy report",
-            "url": "https://thehill.com/homenews/campaign/5889975-david-hogg-urges-ken-martin-resignation-dnc/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Mental Health Crisis Deepens as Global Cases Double",
-        "body": "A stark global health trend has emerged: mental disorder cases have surged from 599 million in 1990 to 1.2 billion today. The dramatic increase highlights growing psychological pressures across societies worldwide.\n\nExperts suggest multiple factors contribute to this rise - including technological disruption, economic uncertainty, and improved diagnostic capabilities. The trend poses significant challenges for healthcare systems and social support structures.",
+        "headline": "Petrol Prices Set to Surge as Global Tensions Simmer",
+        "body": "Australian motorists face potential price shock with petrol costs predicted to jump by 50 cents per litre. Commonwealth Bank analysis suggests global market volatility and geopolitical tensions are driving the anticipated increase.\n\nThe forecast comes amid complex international dynamics - including ongoing conflicts and supply chain disruptions - that could further destabilize energy markets. Consumers and businesses alike will feel the economic pressure of these projected price rises.",
         "sources": [
           {
-            "title": "In 1990 there were 599 million mental disorder cases globally. Now there are 1.2 billion",
-            "url": "https://www.abc.net.au/news/2026-05-22/global-mental-disorders-double/106702746",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Australian Flotilla Activists Describe Harsh Treatment After Release",
-        "body": "Australian activists from the Gaza humanitarian flotilla have arrived in Istanbul, alleging severe mistreatment during their detention by Israeli authorities. They claim they were denied basic necessities like food and water during their detention.\n\nThe incident adds another layer of tension to the ongoing humanitarian crisis in the Gaza region. International observers are likely to scrutinize the activists' accounts and potential diplomatic repercussions.",
-        "sources": [
-          {
-            "title": "News live: Australian flotilla activists released by Israel arrive in Istanbul and claim they were denied food and water",
+            "title": "News live: Australian tourist who died hiking Inca Trail identified; CBA analysis shows petrol prices could jump by 50c",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: Plibersek says second IS-linked group could face 'full force of the law'",
-            "url": "https://www.abc.net.au/news/2026-05-22/federal-politics-live-blog-is-linked-group-may-be-prosecuted/106709642",
+            "title": "China and Russia block conservation bid for endangered emperor penguin",
+            "url": "https://www.abc.net.au/news/2026-05-22/china-and-russia-block-moves-to-protect-emperor-penguin/106710542",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "One Nation Faces Internal Turmoil During National Expansion",
-        "body": "The right-wing political party One Nation confronts significant organizational challenges as its national expansion strategy unravels. Internal assessments have revealed substantial risks, forcing the dissolution of newly established branches.\n\nThe development suggests potential structural weaknesses in the party's growth model. Political analysts will be watching closely to see how party leadership manages these internal disruptions.",
+        "headline": "Liberal Leadership Under Pressure as Internal Debates Intensify",
+        "body": "Opposition Leader Angus Taylor confronts mounting internal challenges as speculation grows about his leadership's sustainability. The Liberal Party is wrestling with fundamental questions about its economic vision and strategic direction.\n\nInternal discussions have become increasingly public, with podcast commentaries and media analysis dissecting potential leadership transitions. Taylor must navigate complex political terrain - balancing factional interests while presenting a coherent opposition strategy to the current government.",
         "sources": [
           {
-            "title": "One Nation’s rapid national expansion in disarray as ‘significant risks’ force dissolution of new branches",
-            "url": "https://www.theguardian.com/australia-news/2026/may/22/one-nation-australia-national-expansion-risks-dissolution-of-branches-pauline-hanson-ntwnfb",
+            "title": "Australia needs a CGT rule for the start-up age",
+            "url": "https://www.spectator.com.au/2026/05/australia-needs-a-cgt-rule-for-the-start-up-age/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "How long will Angus Taylor survive as Liberal leader? – Back to Back Barries podcast",
+            "url": "https://www.theguardian.com/global/6a0eb0df8f089d6dcf6c17e9",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Morning Mail: One Nation’s growing pains; Israel deports Gaza flotilla activists; Kosciuszko feral horses surge",
-            "url": "https://www.theguardian.com/australia-news/2026/may/22/morning-mail-friday-ntwnfb",
+            "title": "Tim Wilson on the Liberals’ economic vision - podcast",
+            "url": "https://www.theguardian.com/australia-news/audio/2026/may/22/tim-wilson-liberal-party-economic-vision-australian-politics-podcast",
             "source": "Guardian AU",
             "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Union Leadership Shifts as CFMEU Undergoes Administrative Changes",
+        "body": "The Construction, Forestry, Maritime, Electrical and Allied Structures Union (CFMEU) has appointed Michael Crosby as its new administrator. This leadership transition follows recent governance challenges within the organization.\n\nCrosby's appointment signals potential structural reforms and a renewed focus on the union's operational effectiveness. Labor movement observers are closely watching how these changes might reshape industrial relations in Australia.",
+        "sources": [
+          {
+            "title": "Union executive Michael Crosby takes over as CFMEU administrator",
+            "url": "https://www.abc.net.au/news/2026-05-22/michael-crosby-mark-irving-cfmeu-administrator/106710776",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Media shut out of court during bid to block release of corruption report",
+            "url": "https://www.abc.net.au/news/2026-05-22/vic-secrecy-surrounds-party-trying-to-block/106711104",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Ebola Outbreak Sparks Violence in DR Congo Treatment Centers",
-        "body": "Tensions are escalating in the Democratic Republic of Congo as an Ebola treatment hospital was burned down by an angry crowd. The incident highlights the deep mistrust and challenges facing healthcare workers battling the latest outbreak. Local resistance and community fears are hampering efforts to contain the deadly virus - a critical problem in a region already struggling with repeated epidemics.",
+        "headline": "US Tensions Rise: Cuba, Poland, and Global Military Moves",
+        "body": "President Trump signaled potential escalation against Cuba, with Senator Rubio calling the island a national security threat. Simultaneously, the administration announced plans to deploy 5,000 additional troops to Poland - a move likely to further strain international relations.\n\nThe geopolitical maneuvering comes amid broader global tensions. The US is also pausing a $14 billion arms sale to Taiwan, reportedly due to ongoing conflicts in the Middle East. These developments suggest a complex and volatile international strategic landscape.",
         "sources": [
           {
-            "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "US: Trump hints at action against Cuba amid intensifying standoff",
+            "url": "https://www.dw.com/en/us-trump-hints-at-action-against-cuba-amid-intensifying-standoff/a-77257021?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           },
           {
-            "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-            "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&amp;at_campaign=rss",
+            "title": "US to send 5,000 more troops to Poland, Trump says",
+            "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
-            "url": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri?traffic_source=rss",
+            "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+            "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
-          {
-            "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-            "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Sanctions Hezbollah MPs as Tensions Rise in Lebanon",
-        "body": "Washington has imposed sanctions on elected Hezbollah members and Lebanese security officials, signaling continued pressure on the organization. The move comes amid ongoing regional tensions and reflects the US's hardline approach to groups it considers terrorist organizations. Senator Marco Rubio also ratcheted up rhetoric against Cuba - another sign of the complex geopolitical landscape facing the Biden administration.",
-        "sources": [
           {
             "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
             "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Mosque Attack Mourning and Rising Tensions in San Diego",
+        "body": "Over 2,000 people gathered to attend funeral prayers for three men killed in a San Diego mosque attack. The community's grief was palpable as they mourned the victims and confronted the violence.\n\nThe incident has sparked intense discussions about community safety and religious tolerance. Local leaders have called for unity and understanding in the wake of this tragic event.",
+        "sources": [
           {
-            "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-            "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+            "title": "Thousands attend funeral prayers for San Diego mosque attack victims",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump shifts between diplomacy and threats in Iran standoff",
-            "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
+            "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
+            "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "World Cup Fever Builds with AI Songs and Ticket Lottery",
-        "body": "The 2026 World Cup is generating excitement through innovative fan engagement. New York City launched a lottery for $50 tickets - a move aimed at making the tournament more accessible. Meanwhile, fans are using AI to create team songs, showcasing how technology is transforming sports culture. Cristiano Ronaldo added to the anticipation by clinching the Saudi Pro League title with Al-Nassr.",
+        "headline": "Political Upheaval: Turkey's Opposition Leader Fights Court Ouster",
+        "body": "Turkey's main opposition leader vowed to continue his political fight after a court unexpectedly removed him from his position. The sudden judicial action has raised significant questions about democratic processes in the country.\n\nThe move represents a dramatic escalation in political tensions. Opposition figures and international observers are closely watching the developing situation, concerned about potential implications for Turkey's political landscape.",
         "sources": [
           {
-            "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-            "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
+            "title": "Turkish opposition leader vows to stay after court ousts him",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/turkish-opposition-leader-vows-to-stay-after-court-ousts-him?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "NYC launches lottery for $50 World Cup football tickets",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Fans create AI-generated team songs ahead of World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
-            "url": "https://www.aljazeera.com/sports/2026/5/21/mamdani-cuts-limited-world-cup-tickets-for-new-yorkers-to-50-after-furore?traffic_source=rss",
+            "title": "Turkish court ousts leader of main opposition party",
+            "url": "https://www.aljazeera.com/news/2026/5/22/turkish-court-ousts-leader-of-main-opposition-party?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -202,8 +190,32 @@
     ],
     "ai": [
       {
-        "headline": "AI Tensions Rise: Graduates Boo Tech Leaders, Debate Understanding",
-        "body": "Tech leaders faced sharp criticism from recent graduates this week, highlighting growing unease about artificial intelligence's trajectory. At multiple events, students challenged executives about AI's fundamental capabilities and ethical implications - particularly around machine understanding of complex real-world contexts.\n\nMIT Technology Review's roundtable discussions probed deep questions about AI's ability to truly comprehend the world. The conversations reflect mounting skepticism about current AI systems' limitations, with researchers pushing for more nuanced approaches to machine learning and intelligence.",
+        "headline": "AI Profits Surge as Tech Giants Battle for Supremacy",
+        "body": "Samsung is rewarding chip workers with massive bonuses as AI-driven revenues skyrocket. The average payout of $340,000 signals the intense economic potential of artificial intelligence technologies.\n\nMeanwhile, the AI landscape remains turbulent. OpenAI continues to manage its reputation crisis, with communications strategist Chris Lehane working to rebuild public trust after recent controversies. SpaceX is also positioning itself to compete more aggressively in the AI market, despite early struggles with its Grok platform.",
+        "sources": [
+          {
+            "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+            "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+            "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+            "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+            "source": "Ars Technica",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tech Graduates Protest AI Leaders at Commencement Ceremonies",
+        "body": "Graduating students are pushing back against AI industry leadership, vocally challenging tech executives at multiple commencement events. The protests reflect growing unease about AI's societal impact and ethical implications.\n\nThe tension highlights a deepening divide between tech companies and a new generation of workers. As AI continues to transform industries, graduates are demanding more accountability and transparency from those driving technological change.",
         "sources": [
           {
             "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
@@ -212,40 +224,22 @@
             "lean": null
           },
           {
-            "title": "Roundtables: Can AI Learn to Understand the World?",
-            "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-            "source": "MIT Tech Review",
-            "lean": null
-          },
-          {
             "title": "In desperate times, graduates find hope in humiliating tech CEOs",
             "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
             "source": "The Verge",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "OpenAI Power Struggle Escalates with Musk-Altman Legal Battle",
-        "body": "The ongoing conflict between Elon Musk and Sam Altman has erupted into a full-scale legal confrontation over OpenAI's future and direction. Their dispute reveals deep fractures in the AI industry's leadership and competing visions for technological development.\n\nThe lawsuit threatens to expose internal tensions at one of the most prominent AI research organizations. At stake are fundamental questions about AI governance, intellectual property, and the strategic control of transformative technologies.",
-        "sources": [
-          {
-            "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-            "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-            "source": "The Verge",
-            "lean": null
           },
           {
-            "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-            "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-            "source": "TechCrunch",
+            "title": "Roundtables: Can AI Learn to Understand the World?",
+            "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+            "source": "MIT Tech Review",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Music Industry Embraces AI with Spotify-Universal Creative Deal",
-        "body": "Spotify and Universal Music Group have struck a groundbreaking agreement allowing fan-created AI music remixes and covers. The deal signals a major shift in how the music industry approaches artificial intelligence - moving from legal resistance to collaborative innovation.\n\nThe partnership will enable musicians and fans to experiment with AI-generated musical content, potentially transforming creative processes. Spotify is also launching its own AI-generated remix capabilities, suggesting a broader transformation of music production and consumption.",
+        "headline": "Music and Tech Converge with AI-Powered Creative Licensing",
+        "body": "Spotify and Universal Music have struck a groundbreaking deal allowing fans to create AI-generated music covers and remixes. The agreement represents a significant shift in how creative content can be produced and shared.\n\nThis development signals a potential new era of collaborative creativity, where AI tools enable more flexible and innovative musical expression. It also suggests a more permissive approach to intellectual property in the age of generative AI.",
         "sources": [
           {
             "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -254,8 +248,14 @@
             "lean": null
           },
           {
-            "title": "Spotify is launching AI-generated remixes",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+            "title": "Scaling creativity in the age of AI",
+            "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "This AI guitar pedal let me roll my own effects",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
             "source": "The Verge",
             "lean": null
           }
@@ -264,8 +264,68 @@
     ],
     "btc": [
       {
-        "headline": "Mark Cuban Dumps Bitcoin, Calls Hedge Strategy a Failure",
-        "body": "Billionaire investor Mark Cuban has sold most of his Bitcoin holdings, signaling deep disillusionment with the cryptocurrency's performance. Cuban criticized Bitcoin's inability to function as an effective hedge against market volatility - a narrative he previously championed.\n\nThe sale reflects growing skepticism among high-profile investors about Bitcoin's fundamental value proposition. Cuban's exit could potentially influence other institutional investors' perceptions of the digital asset, though the market impact remains uncertain.",
+        "headline": "US Lawmakers Push Strategic Bitcoin Reserve Legislation",
+        "body": "Congressional momentum builds for a national Bitcoin strategy. The proposed American Resource Management Act (ARMA) aims to establish a formal government Bitcoin reserve - a bold move signaling growing institutional confidence in the digital asset.\n\nSponsors argue the bill will strengthen national financial resilience. By creating a structured approach to Bitcoin acquisition and management, the legislation could transform how the US government views and interacts with cryptocurrency.",
+        "sources": [
+          {
+            "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
+            "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
+            "url": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
+            "source": "Decrypt",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Price Signals Potential Rally Toward $80K",
+        "body": "Bitcoin traders see bullish indicators despite mixed economic signals. Liquidity metrics and increasing long positions suggest potential price movement toward the $80,000 range - a significant psychological threshold for investors.\n\nMarket analysts point to long-term holder behavior as a key indicator of stability. With over 15 million BTC now held by long-term investors, the chance of new price lows appears increasingly remote.",
+        "sources": [
+          {
+            "title": "Bitcoin liquidity balance hints at developing rally toward $80K",
+            "url": "https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+            "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC",
+            "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Quantum Threat Looms for Billions in Bitcoin Holdings",
+        "body": "Nearly $500 billion in Bitcoin faces potential vulnerability to future quantum computing attacks. Researchers warn that significant cryptocurrency holdings - including Satoshi Nakamoto's estimated 1.1 million BTC - could be at risk.\n\nExperts suggest mitigation strategies are possible. Some cryptography specialists believe Satoshi's original bitcoin stash and other exposed holdings can be protected through proactive technical interventions.",
+        "sources": [
+          {
+            "title": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode",
+            "url": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert",
+            "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Mark Cuban Dumps Most Bitcoin - Hedge Strategy Fails",
+        "body": "Billionaire investor Mark Cuban has sold the majority of his Bitcoin holdings. Cuban expressed disappointment with cryptocurrency's performance as a hedge against traditional market volatility.\n\nHis public divestment signals potential shifting sentiment among high-profile tech investors. The move underscores ongoing debates about Bitcoin's role in diversified investment portfolios.",
         "sources": [
           {
             "title": "Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge",
@@ -280,69 +340,9 @@
             "lean": null
           },
           {
-            "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
-            "url": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
             "title": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
             "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
             "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Government Escalates Quantum Computing Threat to Bitcoin",
-        "body": "The US government is making a massive $2 billion investment in quantum computing research, raising serious questions about Bitcoin's long-term cryptographic security. Experts suggest that Satoshi Nakamoto's original 1.1 million Bitcoin stash could potentially be saved from quantum attack risks.\n\nThis strategic move underscores growing national security concerns about cryptocurrency vulnerabilities. The investment signals a proactive approach to understanding and potentially mitigating quantum computing threats to digital assets.",
-        "sources": [
-          {
-            "title": "Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert",
-            "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "US Government Makes $2 Billion Bet on Quantum Computing as Threat to Bitcoin Grows",
-            "url": "https://decrypt.co/368647/us-government-2-billion-bet-quantum-computing-bitcoin-threat-grows",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin coasts",
-            "url": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Strategic Bitcoin Reserve Bill Gains Bipartisan Momentum",
-        "body": "A proposed ARMA bill aims to legally enshrine a national strategic Bitcoin reserve, drawing support from lawmakers across party lines. The legislation represents a significant step toward formal government recognition of Bitcoin's potential strategic value.\n\nSimultaneously, SpaceX is preparing for its historic IPO with $1.45 billion in Bitcoin treasury, highlighting growing corporate adoption of the cryptocurrency as a strategic asset.",
-        "sources": [
-          {
-            "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
-            "url": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
-            "url": "https://bitcoinmagazine.com/news/us-bill-codify-strategic-bitcoin-reserve",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "SpaceX Heads Into Historic IPO With a $1.45 Billion Bitcoin Treasury on Its Books",
-            "url": "https://bitcoinmagazine.com/news/spacex-heads-into-historic-ipo",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio",
-            "url": "https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
-            "source": "Decrypt",
             "lean": null
           }
         ]
@@ -351,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
+      "name": "Saffron Risotto with Crispy Pancetta",
+      "cuisine": "Italian Fusion",
+      "description": "Creamy Arborio rice infused with golden saffron threads, topped with crispy rendered pancetta for textural contrast",
+      "tip": "Toast the rice in butter for 2-3 minutes before adding liquid to enhance nutty flavor and prevent mushiness"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that alternates between seated, standing, and gentle stretching positions every 25 minutes to reset spinal alignment and muscular tension",
-      "tip": "Set a subtle phone alarm with a gentle chime to prompt your position change without disrupting workflow"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted 3-minute spinal reset using a wall and controlled breathing to realign vertebral stacking and release tension",
+      "tip": "Stand with your back against a wall, slowly slide down into a seated position, and breathe deeply while maintaining perfect spine alignment"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
-      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to climate adaptation"
+      "description": "Exploring how cities can be redesigned using principles learned from natural ecosystems, including self-healing infrastructure and adaptive energy systems",
+      "why": "This emerging field offers revolutionary approaches to sustainable urban development by studying how complex biological systems solve engineering challenges"
     }
   }
 }
