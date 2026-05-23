@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-05-23T05:20:26.112Z",
+  "generatedAt": "2026-05-23T10:35:09.135Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Team Reshapes Immigration Policy with Green Card Crackdown",
-        "body": "The Trump administration is moving to force foreign nationals to apply for green cards from outside the United States - a significant shift in immigration policy. The new directive targets legal immigration pathways, potentially making it harder for international workers and families to establish permanent residency.\n\nThe policy comes amid rising tensions over immigration. Republican lawmakers argue the move will protect American jobs, while immigration advocates see it as an overly restrictive approach that could separate families and disrupt workforce dynamics.",
+        "headline": "Trump's Revenge: GOP Faces Internal Party Purge",
+        "body": "Former President Donald Trump continues his systematic removal of Republican lawmakers who opposed him. Multiple GOP representatives face potential ousting as Trump pursues a calculated retribution campaign. The internal party conflict highlights deep fractures within Republican ranks - with some seeing Trump's actions as necessary party realignment, while others view them as dangerous political vendetta.",
+        "sources": [
+          {
+            "title": "Here are the GOP victims of Trump’s retribution campaign",
+            "url": "https://thehill.com/homenews/campaign/5889441-donald-trump-ousts-gop-lawmakers-retribution/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Democrats worry they’ve been caught in an anger trap with Trump",
+            "url": "https://thehill.com/homenews/campaign/5891811-democrats-trump-partisanship-analysis/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Cuba Tensions Rise as Trump Pressures Havana Regime",
+        "body": "Mounting pressure from Trump's administration is creating significant diplomatic strain with Cuba. A potential invasion pretext is emerging, with Cuban-born GOP representatives pushing aggressive policy positions. Critics argue the current approach lacks substantive justification - suggesting political theater over genuine strategic objectives. The situation remains volatile, with potential international implications.",
+        "sources": [
+          {
+            "title": "Havana regime in suspense after Castro indictment with Trump pressure on, says Cuban-born GOP Rep.",
+            "url": "https://www.foxnews.com/politics/havana-regime-suspense-after-castro-indictment-trump-pressure-on-says-cuban-born-gop-rep",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Critics say Trump’s ‘pretext’ for Cuba invasion doesn’t square with reality",
+            "url": "https://thehill.com/policy/national-security/5892092-trump-cuba-invasion-pretext/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Administration Reshapes Immigration and Foreign Policy",
+        "body": "The Trump administration is implementing aggressive new immigration policies, including mandatory green card applications from abroad. Simultaneously, diplomatic efforts continue with Senator Rubio's visit to India signaling potential strategic realignments. These moves underscore a continued push to reshape U.S. international engagement and border control mechanisms.",
         "sources": [
           {
             "title": "Trump administration to force foreigners in the U.S. to apply for a green card abroad",
@@ -14,100 +50,22 @@
             "lean": "left"
           },
           {
-            "title": "Sheridan Gorman's parents say protecting children from failed immigration policies isn't a one-party fight",
-            "url": "https://www.foxnews.com/politics/sheridan-gormans-parents-say-protecting-children-failed-immigration-policies-isnt-one-party-fight",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "NYC Mayor Zohran Mamdani releases audit accusing federal immigration agents of misleading tactics",
-            "url": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-releases-audit-accusing-federal-immigration-agents-misleading-tactics",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Political Drama: Trump Jr. Weds, AI Video Sparks Controversy",
-        "body": "Donald Trump Jr. married Bettina Anderson in Florida this weekend, drawing media attention to the Trump family's continuing public profile. The wedding follows a week of political activity that saw the former president generating headlines.\n\nIn a separate incident, Trump shared an AI-generated video depicting comedian Stephen Colbert in a provocative scenario - a move that highlights the growing role of artificial intelligence in political communication and entertainment. The video underscores ongoing debates about digital manipulation and political discourse.",
-        "sources": [
-          {
-            "title": "Donald Trump Jr. marries Bettina Anderson in Florida",
-            "url": "https://thehill.com/blogs/in-the-know/5892432-donald-trump-jr-wedding/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump posts AI video depicting him throwing Colbert in a dumpster and dancing",
-            "url": "https://thehill.com/homenews/administration/5892405-trump-shares-ai-video-colbert/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "NY Giants quarterback Jaxson Dart shows up for Trump at event for Mike Lawler",
-            "url": "https://thehill.com/homenews/administration/5892287-dart-trump-campaign-surprise/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Congressional Gridlock Continues as Partisan Tensions Simmer",
-        "body": "Congress faces mounting criticism for legislative inaction. Senator Tim Burchett openly expressed frustration, stating that the Senate has wasted an entire week without meaningful progress. Republican infighting appears to be complicating legislative efforts.\n\nTensions within the GOP are evident. Senator Thom Tillis criticized Trump's controversial strategies, suggesting that extreme positions are undermining Republican electoral chances. The internal party disagreements reflect broader challenges in maintaining political unity.",
-        "sources": [
-          {
-            "title": "Burchett ‘disappointed’ in Senate as Congress leaves DC: ‘We’ve wasted a whole week’",
-            "url": "https://thehill.com/homenews/senate/5891995-burchett-disappointed-senate-recess/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Tillis claps back at Trump: ‘Stupid stuff is killing our chances’",
-            "url": "https://thehill.com/homenews/senate/5891942-tillis-criticizes-trump-controversial-ideas/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Cruz on Blanche’s Senate GOP meeting: ‘Fireworks at an epic level’",
-            "url": "https://thehill.com/homenews/senate/5892149-cruz-republican-anger-blanche/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Rubio arrives in India ahead of Quad talks as U.S. tries to reset strained ties",
+            "url": "https://www.npr.org/2026/05/23/nx-s1-5832394/rubio-arrives-india",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Labor Defends Tax Changes Amid Investor Pushback",
-        "body": "Prime Minister Anthony Albanese became visibly emotional while defending proposed changes to capital gains tax and negative gearing. The government argues the reforms will create a fairer tax system and boost investment opportunities for younger Australians.\n\nBusiness groups and conservative commentators have pushed back, warning the changes could trigger an investor exodus. An entrepreneur speaking to ABC suggested wealthy Australians should stop complaining and recognize the broader economic benefits of the proposed reforms.",
+        "headline": "One Nation Poised to Become Federal Opposition",
+        "body": "A new poll suggests a dramatic shift in Australia's political landscape - with Pauline Hanson's One Nation potentially replacing the Liberal Party as the official opposition. The prediction signals deep voter dissatisfaction with current conservative leadership and potential realignment of right-wing political representation.\n\nThe poll reflects growing populist sentiment and challenges traditional two-party dynamics. Political analysts are closely watching how this potential transformation might reshape parliamentary debate and electoral strategy in the coming months.",
         "sources": [
           {
-            "title": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
-            "url": "https://www.theguardian.com/australia-news/2026/may/23/anthony-albanese-visibly-emotional-after-defending-labors-capital-gains-tax-and-negative-gearing-changes",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Entrepreneur says the rich should stop complaining about tax changes",
-            "url": "https://www.abc.net.au/news/2026-05-23/tech-sector-onslaught-against-capital-gains-tax-changes-startups/106711046",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "The biggest budget myths: why claims of ‘massive tax bills’ and an investor exodus fall short",
-            "url": "https://www.theguardian.com/australia-news/2026/may/23/australia-economy-budget-myths-cgt-capital-gains-tax-reform-business-investment-explained",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "AUKUS Strategic Partnership Faces Growing Uncertainty",
-        "body": "Increasing speculation surrounds Australia's AUKUS submarine program, with growing discussion of potential alternative strategies. Recent analysis suggests geopolitical complexities are challenging the original agreement between Australia, the United Kingdom, and the United States.\n\nThe emerging debate reflects mounting concerns about technological capabilities, strategic timelines, and potential regional diplomatic tensions. Experts are now openly discussing contingency plans - a significant shift from previous unequivocal support for the original framework.",
-        "sources": [
-          {
-            "title": "Why there's more talk of an AUKUS 'plan B'",
-            "url": "https://www.abc.net.au/news/2026-05-23/why-theres-more-talk-of-an-aukus-plan-b/106705426",
+            "title": "One Nation set to become federal opposition, poll predicts",
+            "url": "https://www.abc.net.au/news/2026-05-23/poll-predicts-one-nation-federal-opposition/106714586",
             "source": "ABC Australia",
             "lean": "center-left"
           },
@@ -120,18 +78,48 @@
         ]
       },
       {
-        "headline": "Diphtheria Outbreak Raises Urgent Public Health Concerns",
-        "body": "Western Australian health officials are demanding increased support to combat a rare diphtheria outbreak spreading through remote Indigenous communities. The outbreak represents Australia's largest recorded instance of the disease, prompting urgent calls for enhanced medical intervention.\n\nPublic health experts warn that vulnerable populations face significant risks without immediate, targeted vaccination and healthcare strategies. The situation highlights ongoing challenges in providing comprehensive healthcare access to Australia's most isolated regions.",
+        "headline": "Albanese Joins International Pressure on Israeli Settlement Expansion",
+        "body": "Prime Minister Anthony Albanese has aligned Australia with a coalition of nations calling for an end to Israeli West Bank settlements. The diplomatic move signals Australia's increasingly vocal stance on international human rights issues.\n\nAlbanese's position comes amid complex geopolitical tensions. While defending the stance, he appeared visibly emotional during discussions - suggesting the personal weight of the diplomatic intervention. The government's approach seeks to balance diplomatic nuance with principled international engagement.",
         "sources": [
           {
-            "title": "WA health official wants more support to stem 'rare' diphtheria outbreak",
-            "url": "https://www.abc.net.au/news/2026-05-23/health-official-wants-more-support-diphtheria-outbreak/106710858",
+            "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "The Israel obsession is distracting Australia",
+            "url": "https://www.spectator.com.au/2026/05/the-israel-obsession-is-distracting-australia/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/anthony-albanese-visibly-emotional-after-defending-labors-capital-gains-tax-and-negative-gearing-changes",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Budget Signals Caution in Softening Real Estate Market",
+        "body": "The latest federal budget reveals a measured approach to Australia's cooling property sector. Economic strategists are recommending long-term thinking as real estate markets show signs of significant adjustment.\n\nEntrepreneurs and tech sector leaders are also weighing in on broader economic changes. Some wealthy investors are being urged to reconsider their complaints about new tax structures. The budget signals a complex balancing act between investor interests and broader economic stability.",
+        "sources": [
+          {
+            "title": "Caution and long-term thinking as budget adds to softening real estate market",
+            "url": "https://www.abc.net.au/news/2026-05-23/federal-budget-softens-adelaide-real-estate-market/106714306",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Australia’s largest recorded diphtheria outbreak is spreading through remote Indigenous communities",
-            "url": "https://www.theguardian.com/australia-news/2026/may/23/australia-diphtheria-outbreak-remote-indigenous-communities-ntwnfb",
+            "title": "Entrepreneur says the rich should stop complaining about tax changes",
+            "url": "https://www.abc.net.au/news/2026-05-23/tech-sector-onslaught-against-capital-gains-tax-changes-startups/106711046",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
+            "url": "https://www.theguardian.com/australia-news/2026/may/23/anthony-albanese-visibly-emotional-after-defending-labors-capital-gains-tax-and-negative-gearing-changes",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -140,67 +128,67 @@
     ],
     "world": [
       {
-        "headline": "Global Tensions Rise as Putin Threatens Ukraine Retaliation",
-        "body": "Russian President Vladimir Putin escalated rhetoric against Ukraine after accusing Kyiv of attacking a student dormitory. The incident threatens to further destabilize the ongoing conflict, with Putin promising direct military response.\n\nThe accusation comes amid continued international scrutiny of the war, with diplomatic channels increasingly strained. Putin's aggressive stance suggests potential further military escalation in the region, raising concerns about broader regional security.",
+        "headline": "China's Deadliest Coal Mine Blast Kills Over 90 Workers",
+        "body": "A catastrophic gas explosion ripped through a coal mine in China, killing at least 90 workers in one of the country's worst mining disasters in recent years. The incident highlights ongoing safety challenges in China's coal industry - a sector notorious for dangerous working conditions.\n\nState media reported the massive blast occurred in a remote mining region, with rescue efforts complicated by the scale of the explosion. The tragedy underscores persistent risks for workers in China's energy extraction sectors, despite years of safety reforms and government pledges.",
         "sources": [
+          {
+            "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+            "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Gas explosion at Chinese coal mine kills at least 90",
+            "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine Pushes for EU Membership as Conflict with Russia Continues",
+        "body": "Ukrainian President Volodymyr Zelenskyy declared the time is right to begin Ukraine's European Union accession process, signaling a strategic diplomatic move amid ongoing conflict with Russia. The statement comes as Ukraine seeks to solidify its Western alignment and secure long-term international support.\n\nSimultaneously, Russian President Putin vowed retaliation after accusing Ukraine of attacking a student dormitory - a claim that further escalates tensions in the prolonged regional conflict. The diplomatic and military pressures continue to shape the geopolitical landscape of Eastern Europe.",
+        "sources": [
+          {
+            "title": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+            "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
             "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
-          {
-            "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Hajj Pilgrimage Draws 1.6 Million - Geopolitical Tensions Simmer",
-        "body": "Over 1.6 million Muslim pilgrims have arrived in Saudi Arabia for the annual hajj, marking a significant religious gathering amid complex regional dynamics. The pilgrimage occurs against a backdrop of shifting Middle Eastern alliances and ongoing geopolitical tensions.\n\nIndications of potential diplomatic thaws emerge - with hints of possible dialogue between India and Pakistan - suggesting nuanced diplomatic maneuvering beneath surface tensions.",
+        "headline": "Israel Continues Gaza Attacks Despite Reported Ceasefire",
+        "body": "Israeli forces launched attacks in southern Lebanon and near the Syrian border, challenging claims of an active ceasefire. The military actions come amid ongoing international scrutiny of Israel's conduct in the Gaza conflict.\n\nReports suggest significant international involvement - with at least 51 nations having armed Israel during the war. Meanwhile, Gaza's humanitarian crisis deepens, with children facing severe health challenges including widespread skin diseases and malnutrition.",
         "sources": [
           {
-            "title": "Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage?traffic_source=rss",
+            "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+            "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Are India and Pakistan quietly preparing to restart dialogue?",
-            "url": "https://www.aljazeera.com/news/2026/5/23/are-india-and-pakistan-quietly-preparing-to-restart-dialogue?traffic_source=rss",
+            "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+            "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "New alliances emerge in Middle East — which one will 'win'?",
-            "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Diplomatic Shifts: Gabbard Resigns, Rubio Courts India",
-        "body": "Tulsi Gabbard has resigned from her role as top US intelligence official, creating unexpected leadership uncertainty. The move comes as Senator Marco Rubio visits India to explore energy partnerships - potentially responding to ongoing disruptions in global oil markets.\n\nThe diplomatic landscape continues to evolve, with geopolitical realignments driven by energy security and strategic repositioning.",
-        "sources": [
-          {
-            "title": "Rubio visits India to sell energy as Iran oil shock persists",
-            "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official-2?traffic_source=rss",
+            "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Tulsi Gabbard to resign as US director of national intelligence",
-            "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+            "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -208,26 +196,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Costs Soar - Microsoft Warns of Ballooning Expenses",
-        "body": "Microsoft has revealed that artificial intelligence is becoming prohibitively expensive - potentially more costly than human labor. The tech giant's internal analysis suggests AI token and agent deployment are driving unprecedented computational costs that challenge previous economic assumptions about automation.\n\nThis revelation comes amid growing scrutiny of AI's financial sustainability. While AI continues to advance rapidly, companies are now confronting hard questions about scalability and profitability. The findings signal a potential inflection point in how businesses integrate and budget for AI technologies.",
-        "sources": [
-          {
-            "title": "Microsoft reports AI is more expensive than paying human employees",
-            "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-            "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Resurrects Dead Pilots' Voices - US Government Scrambles",
-        "body": "A controversial new AI application has emerged that can recreate the voices of deceased pilots using archival recordings and crash investigation documents. The technology has sparked immediate national security concerns, with US authorities racing to prevent widespread voice replication.\n\nThe development highlights the ethical and security challenges posed by advanced voice synthesis technologies. Government agencies are now grappling with potential misuse scenarios - from identity fraud to psychological warfare. The story underscores how rapidly AI capabilities are outpacing regulatory frameworks.",
+        "headline": "AI Resurrects Dead Pilots' Voices - US Scrambles to Stop",
+        "body": "A controversial AI technology that can recreate the voices of deceased pilots has triggered an urgent government response. The US is now attempting to prevent internet users from reproducing voices extracted from crash investigation documents - a move that raises significant ethical and privacy concerns.\n\nThe technology highlights the growing power of voice synthesis AI, which can now accurately replicate human speech patterns with minimal source material. Government agencies view this capability as a potential security and emotional manipulation risk.",
         "sources": [
           {
             "title": "AI is being used to resurrect the voices of dead pilots",
@@ -244,13 +214,37 @@
         ]
       },
       {
-        "headline": "Google's AI Search Breaks Down - Relevance Crumbles",
-        "body": "Google's AI-powered search function is experiencing significant reliability issues, with the system now reportedly disregarding user search queries. The breakdown threatens the core utility of Google's flagship product - its ability to deliver accurate, relevant information.\n\nTech observers are questioning the readiness of AI integration in core search algorithms. The problems emerge as Google continues aggressive AI deployment across its platforms. User trust hangs in the balance as the company struggles to maintain search quality.",
+        "headline": "Google's AI Search Fails - Overviews Disregard User Queries",
+        "body": "Google's AI-powered search function is facing sharp criticism for producing results that fundamentally ignore user search intent. The new AI overviews feature has been caught generating responses that appear unrelated or contradictory to the original search query.\n\nThis breakdown undermines Google's reputation for reliable information retrieval. Tech observers suggest the problem stems from overly aggressive AI model training that prioritizes generating content over delivering precise, relevant information.",
         "sources": [
           {
             "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
             "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
             "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+            "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Satellite Tensions Rise as Russian Craft Threaten ICEYE",
+        "body": "Four Russian satellites have positioned themselves dangerously close to an ICEYE radarsat - a move interpreted as a potential hostile action. The satellite company, which has been supporting Ukraine, now faces direct technological threat from Russian space assets.\n\nThe positioning suggests escalating geopolitical tensions being played out through technological confrontation. Space warfare experts view this as a calculated demonstration of Russia's ability to challenge commercial satellite infrastructure.",
+        "sources": [
+          {
+            "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+            "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+            "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
@@ -258,51 +252,39 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Billionaire Targets Mars Mission with SpaceX",
-        "body": "The founder of F2Pool - a mining operation controlling 11% of Bitcoin's hashrate - is set to lead the first SpaceX mission to Mars. This unprecedented crossover between cryptocurrency and space exploration highlights the growing ambition of Bitcoin entrepreneurs.\n\nThe mission represents a symbolic milestone for the crypto industry, demonstrating how wealth generated from Bitcoin can fund cutting-edge technological ventures. SpaceX's selection of a Bitcoin mining executive signals the increasing mainstream credibility of cryptocurrency leaders.",
+        "headline": "Bitcoin Drops to $74,300 as ETF Investors Flee",
+        "body": "Bitcoin suffered a sharp pullback this week, tumbling to $74,300 amid significant outflows from spot ETFs. Investors withdrew $2.26 billion from Bitcoin funds in just two weeks - a massive exodus that signals growing market uncertainty.\n\nResearch firm Santiment suggests these outflows might actually represent a contrarian buy signal. Massive sell-offs often precede price reversals, hinting that sophisticated investors could see an opportunity in the current market volatility.",
         "sources": [
           {
-            "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
-            "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
+            "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+            "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
-            "url": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Congress Considers Strategic Bitcoin National Reserve",
-        "body": "A freshman congressman from Nashville has proposed legislation to establish a permanent national Bitcoin reserve. The latest draft of the strategic reserve bill modifies previous proposals - dropping the initial 1 million BTC purchase target and introducing a 20-year lockup period.\n\nThe proposed legislation signals continued political interest in integrating Bitcoin into national financial infrastructure. Lawmakers are exploring ways to potentially leverage Bitcoin as a strategic asset for long-term economic planning.",
-        "sources": [
-          {
-            "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
-            "url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
-            "url": "https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Michael Saylor Hints at Potential Bitcoin Strategy Shift",
-        "body": "MicroStrategy CEO Michael Saylor suggested the company might consider selling Bitcoin in 2026 - a potential departure from his long-standing accumulation strategy. Saylor has been known for aggressive Bitcoin purchasing, making any hint of selling significant market news.\n\nThe potential strategy shift comes as Bitcoin continues to attract institutional attention and evolve as a financial asset. Investors will closely watch MicroStrategy's next moves given Saylor's influential role in corporate Bitcoin adoption.",
-        "sources": [
-          {
-            "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
-            "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
+            "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Nasdaq Gains SEC Approval for Bitcoin Index Options",
+        "body": "The Securities and Exchange Commission has approved Nasdaq to list Bitcoin index options, marking another milestone in cryptocurrency's mainstream financial integration. This move expands institutional investors' ability to trade Bitcoin-linked derivatives through established market infrastructure.\n\nThe approval represents a continued normalization of Bitcoin as a tradable asset class. Sophisticated financial products like index options provide more sophisticated hedging and investment strategies for institutional players.",
+        "sources": [
+          {
+            "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+            "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Pizza Day Reminds Investors of Crypto's Wild Journey",
+        "body": "Sixteen years after the first real-world Bitcoin transaction - a pizza purchase for 10,000 BTC - the cryptocurrency has transformed from an obscure digital experiment to a global financial phenomenon. Those original bitcoins would be worth hundreds of millions today.\n\nThe anniversary highlights Bitcoin's extraordinary price appreciation and serves as a reminder of the asset's volatile but remarkable growth trajectory.",
+        "sources": [
           {
             "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
             "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -315,21 +297,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Moroccan Shakshuka Sunrise",
+      "cuisine": "North African Fusion",
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
+      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted series of micro-movements to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Use a doorway as a reference point: stand sideways, press your shoulder blade against the frame, and gently rotate your torso to create a controlled stretch"
+      "name": "Desk Warrior Reset",
+      "description": "Perform a targeted 5-minute mobility sequence that counteracts chronic sitting-induced muscle tension and alignment drift",
+      "tip": "Use a foam roller along spine and shoulders immediately after the mobility sequence to release deeper muscle knots"
     },
     "learn": {
-      "topic": "Emergence Theory in Complex Systems",
-      "description": "A scientific concept exploring how intricate, intelligent behaviors arise from simple interactions between individual components without central coordination",
-      "why": "Understanding emergence provides profound insights into how complexity spontaneously develops in nature, from ant colonies to neural networks, revealing fundamental principles of self-organization"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Exploring how cities can learn from natural ecosystems to create more sustainable, adaptive infrastructure and living spaces",
+      "why": "This emerging field offers revolutionary approaches to solving complex urban challenges by mimicking nature's elegant, efficient problem-solving strategies"
     }
   }
 }
