@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-05-23T22:21:31.674Z",
+  "generatedAt": "2026-05-24T05:25:22.063Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Iran Conflict Nears Potential Resolution as Tensions Ease",
-        "body": "President Trump claims significant progress in Iran negotiations, suggesting the 84-day conflict may soon conclude. Multiple sources report potential reopening of the Strait of Hormuz, a critical maritime chokepoint that has been blocked during recent hostilities.\n\nMilitary and diplomatic sources offer mixed perspectives. Senator Rubio indicated the situation will be resolved one way or another, while General Petraeus described the US position as strategically complex. Central Command reported 100 ships have already been redirected due to the naval blockade.",
+        "headline": "Iran Deal Nears Completion as Tensions Simmer",
+        "body": "Diplomatic efforts to resolve the 84-day Iran conflict appear to be reaching a critical stage. Former President Trump claims the deal is largely negotiated, with potential reopening of the Strait of Hormuz on the horizon. Republican senators Graham and Wicker have expressed skepticism about reported ceasefire terms.\n\nThe potential agreement has sparked intense debate. Some GOP lawmakers view the negotiations with suspicion, while diplomatic sources suggest a 60-day framework is emerging. Trump's statements hint at a breakthrough, but significant challenges remain in normalizing US-Iran relations.",
         "sources": [
+          {
+            "title": "GOP Sens. Lindsey Graham, Roger Wicker blast reports of 60-day ceasefire deal with Iran",
+            "url": "https://thehill.com/homenews/senate/5892991-gop-lawmakers-pressure-trump-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump says Iran deal ‘largely negotiated,’ Strait of Hormuz will be opened",
             "url": "https://thehill.com/homenews/administration/5892964-trump-iran-deal-strait-hormuz/",
@@ -30,40 +36,34 @@
             "url": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
             "source": "NPR",
             "lean": "left"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak Triggers Global Health Response",
+        "body": "A resurgence of Ebola in Central Africa has prompted heightened international concern and medical preparedness. The US has added Atlanta airport as an enhanced screening location for travelers from outbreak countries. Health officials are implementing targeted prevention strategies to contain potential spread.\n\nThe emerging crisis has triggered rapid response protocols. Federal agencies are coordinating to monitor incoming travelers and prevent potential transmission. Enhanced screening measures represent a proactive approach to managing the public health threat.",
+        "sources": [
           {
-            "title": "Rubio, in India, says Iran war will be solved ‘one way or the other’",
-            "url": "https://thehill.com/homenews/administration/5892723-rubio-iran-negotiations-progress/",
+            "title": "Ebola resurgence sparks global concern, travel restrictions: What to know",
+            "url": "https://thehill.com/policy/healthcare/5893068-ebola-resurgence-central-africa/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "100 ships redirected amid naval blockade of Iran ports, Strait of Hormuz: Centcom",
-            "url": "https://thehill.com/policy/defense/5892609-central-command-milestone-100-ships-redirected-strait-of-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Petraeus: US in ‘difficult’ position, ‘strategic cul-de-sac’ with Iran",
-            "url": "https://thehill.com/blogs/in-the-know/5892662-petraeus-iran-us-standoff/",
+            "title": "US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries",
+            "url": "https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "DOJ Faces Scrutiny Over January 6 Press Release Deletions",
-        "body": "The Justice Department defended its decision to remove January 6 attack-related press releases from its website, stating they are proud of the action. This move has sparked renewed debate about transparency and historical documentation of the Capitol riot.\n\nThe controversy highlights ongoing tensions surrounding the events of January 6 and the subsequent legal and political investigations. Critics argue the deletion raises questions about the DOJ's commitment to public information, while department officials maintain their approach is appropriate.",
+        "headline": "White House Security Incident Ends in Suspect's Death",
+        "body": "A potential security threat near the White House was neutralized after an individual exchanged gunfire with Secret Service agents. The suspected gunman was killed during the confrontation, with no additional casualties reported. Immediate protective protocols were activated to ensure the safety of government personnel.\n\nThe incident underscores ongoing security challenges facing federal installations. Secret Service responded swiftly, demonstrating the agency's preparedness in managing high-risk scenarios near critical government locations.",
         "sources": [
           {
-            "title": "DOJ defends deleting releases tied to Jan. 6 attack from website: ‘We are proud’",
-            "url": "https://thehill.com/homenews/administration/5892788-justice-department-january-6-capitol-attack-press-releases-scrapped/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "The Memo: Trump battered by sea of self-inflicted troubles",
-            "url": "https://thehill.com/homenews/administration/5892254-trump-troubles-memorial-day/",
+            "title": "Suspected gunman dead after gunfire exchanged with Secret Service near White House",
+            "url": "https://thehill.com/homenews/5893010-white-house-shots-reporters-rushed/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,83 +72,71 @@
     ],
     "au-politics": [
       {
-        "headline": "Labor's Budget Strategy Sparks Voter Backlash",
-        "body": "The Albanese government faces growing criticism over its budget approach. Young voters are turning away from Labor's economic messaging, with mounting frustration over tax policies and housing affordability. Treasurer Jim Chalmers' generational narrative appears to be losing traction.\n\nEconomists remain divided. Some support the budget's structural reforms, while others argue it fails to address key economic challenges. The Coalition has seized on these divisions, pushing back against Labor's economic framework.",
+        "headline": "Shark Tragedy Strikes Great Barrier Reef Near Cairns",
+        "body": "A fatal shark attack claimed a man's life off the coast of Far North Queensland on Sunday. The incident occurred near Hull Heads, south of Cairns, marking a grim day for local marine activities. Emergency services responded quickly, but could not save the victim.",
         "sources": [
           {
-            "title": "Jim Chalmers is talkin’ ’bout generations – but is the message resonating with Australians? | Julianne Schultz",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/24/australia-budget-inequality-jim-chalmers-message-australians-left-behind",
+            "title": "Shark attack: man dies on Great Barrier Reef in far north Queensland",
+            "url": "https://www.theguardian.com/australia-news/2026/may/24/shark-attack-man-dies-great-barrier-reef-far-north-queensland",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Labor's tax defence is backfiring with young voters",
-            "url": "https://www.abc.net.au/news/2026-05-24/labor-budget-defence-backlash-capital-gains-housing-wages/106692288",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Five economists share opinions on Labor's budget and Coalition's reply",
-            "url": "https://www.abc.net.au/news/2026-05-24/five-economists-share-opinion-on-labour-budget-and-reply/106691514",
+            "title": "Man dies after shark attack in Far North Queensland",
+            "url": "https://www.abc.net.au/news/2026-05-24/hull-heads-shark-bite/106715896",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Political Landscape Shifts as One Nation Gains Ground",
-        "body": "One Nation is making significant inroads into Australian politics, particularly in Western Sydney and South Australia. Traditionally loyal Labor voters are switching allegiance, signaling a potential realignment in political preferences. The party has established a combative presence in state parliaments.\n\nThis shift reflects broader voter dissatisfaction with major parties. One Nation's messaging appears to be resonating with constituencies feeling overlooked by mainstream political discourse. The trend suggests potential challenges for Labor and the Coalition in upcoming elections.",
+        "headline": "Senator Pocock Considers Independent Political Party Amid Rising Tensions",
+        "body": "Senator David Pocock has signaled openness to forming a new political party of independents, responding to growing support for One Nation. The potential move suggests deepening fragmentation in Australia's political landscape. Pocock's comments indicate frustration with current major party dynamics and a desire to create alternative political representation.",
         "sources": [
           {
-            "title": "'I've had enough': Why this loyal Labor voter is switching to One Nation",
-            "url": "https://www.abc.net.au/news/2026-05-24/one-nation-western-sydney-nsw-state-election-chances/106711360",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "'Midwits' and media bust-ups herald One Nation's arrival in SA parliament",
-            "url": "https://www.abc.net.au/news/2026-05-24/one-nation-sets-combative-tone-in-sa-parliament/106714272",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Angus Taylor’s claim support is a ‘privilege of citizenship’ leaves Deepa and others with an impossible choice",
-            "url": "https://www.theguardian.com/australia-news/2026/may/24/angus-taylor-welfare-citizenship-migrants-immigrants-giving-up-home-ntwnfb",
+            "title": "Australia news live: David Pocock open to independents forming party to counter One Nation; man dies after shark attack south of Cairns",
+            "url": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Pocock open to party of independents as One Nation support climbs",
+            "url": "https://www.abc.net.au/news/2026-05-24/pocock-door-open-to-own-political-party/106715604",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Tourism Controversy Highlights Safety Risks in Adventure Marketing",
-        "body": "A Tourism Australia social media post has sparked controversy by potentially glorifying dangerous hiking conditions. The incident involving a deadly walk in the Western Arthurs raises questions about responsible tourism promotion and risk communication.\n\nThe post - which seemingly framed a perilous trek as a fitness opportunity - has drawn criticism from safety experts and outdoor enthusiasts. It underscores the complex balance between promoting adventure tourism and ensuring public safety.",
+        "headline": "Housing Market Shows Signs of Cooling for First-Time Buyers",
+        "body": "Auction clearance rates have dropped, potentially offering relief to first-home buyers struggling with property prices. The recent decline suggests a softening market that could improve affordability. Economists are watching closely to see if this trend continues and what impact it might have on broader economic conditions.",
         "sources": [
           {
-            "title": "Deadly walk framed as a 'step count' boost in Tourism Australia post",
-            "url": "https://www.abc.net.au/news/2026-05-24/tourism-tasmania-instagram-post-belies-danger-of-western-arthurs/106712848",
+            "title": "Recent fall in auction clearance rates could be good news for first home buyers",
+            "url": "https://www.abc.net.au/news/2026-05-24/auction-clears-rates-drop-to-50-per-cent/106714340",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Mystery billboard bites back at critics of Olympic rowing location",
-            "url": "https://www.abc.net.au/news/2026-05-24/olympic-rowing-crocodile-billboard-rockhampton-mystery-solved/106659596",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Endangered sawfish at risk from plan to double water extraction from WA’s Fitzroy River, advocates say",
-            "url": "https://www.theguardian.com/environment/2026/may/24/endangered-sawfish-at-risk-wa-fitzroy-river-western-australia",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Our big, bureaucratic government holds us back from prosperity",
+            "url": "https://www.spectator.com.au/2026/05/our-big-bureaucratic-government-holds-us-back-from-prosperity/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Trump Claims Iran Deal Near - Hormuz Strait to Reopen",
-        "body": "Former US President Donald Trump announced significant progress in negotiations with Iran, suggesting a breakthrough in diplomatic relations. The potential agreement could see the strategic Strait of Hormuz reopened - a critical maritime chokepoint for global oil trade.\n\nTrump characterized the deal as largely negotiated but not yet finalized. His statements hint at a potential geopolitical realignment, with diplomatic sources indicating ongoing discussions between US and Iranian representatives. The proposed agreement could dramatically reshape Middle Eastern geopolitics and international trade routes.",
+        "headline": "Iran-US Deal Signals Major Middle East Diplomatic Shift",
+        "body": "Former President Trump announced a breakthrough diplomatic agreement with Iran, suggesting negotiations are nearly complete. The potential deal appears to include reopening the strategically critical Strait of Hormuz and potentially reshaping regional geopolitics.\n\nSources close to the negotiations hint at complex negotiations involving multiple stakeholders. Pakistan's army chief's recent visit to Tehran underscores the diplomatic momentum, with regional powers seeking to de-escalate tensions and potentially establish new strategic frameworks.",
         "sources": [
+          {
+            "title": "Iranian sources lay out Iran-US deal details",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
             "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,63 +150,57 @@
             "lean": null
           },
           {
+            "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
             "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
             "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Russia Strikes Ukraine as Conflict Enters New Violent Phase",
+        "body": "Russia launched a massive wave of strikes against Ukraine overnight, killing at least one civilian and injuring multiple others. The attack signals an escalation in the ongoing conflict, with Ukrainian forces bracing for potential further aggression.\n\nThe strike on Luhansk has already prompted accusations and threats of retaliation. Military analysts suggest this could mark a significant shift in the conflict's dynamics, with both sides preparing for intensified confrontations.",
+        "sources": [
+          {
+            "title": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
+            "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
           },
           {
-            "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
-            "url": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+            "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+            "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tensions Escalate: Israeli Strikes Kill Medics in Lebanon",
-        "body": "Israeli air strikes in southern Lebanon have killed multiple medical workers - escalating regional tensions and drawing international condemnation. The attacks targeted medical personnel providing humanitarian assistance in a conflict zone.\n\nThe incident highlights the ongoing volatility in the region. Funeral services for the killed medics are underway, with local communities expressing grief and anger. These strikes risk further destabilizing an already fragile geopolitical landscape and potentially triggering retaliatory actions.",
+        "headline": "Deadly Incidents Across Asia - Mine Blast and Building Collapse",
+        "body": "A catastrophic coal mine explosion in China has killed at least 82 people, highlighting ongoing safety concerns in the country's mining industry. Simultaneously, in the Philippines, 19 people are feared trapped after a building collapse - another tragic industrial accident.\n\nBoth incidents underscore the persistent risks facing workers in developing industrial economies. Rescue efforts are underway, with authorities racing against time to locate and save potential survivors.",
         "sources": [
           {
-            "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+            "title": "19 feared trapped after building collapse in Philippines",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/19-feared-trapped-after-building-collapse-in-philippines?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli forces arrest two children in occupied West Bank village",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Unrest: Protests Erupt in Serbia and Spain",
-        "body": "Mass demonstrations erupted in two European countries as citizens demand political change. In Serbia, tens of thousands rallied against the current government - with police clashing with protesters demanding early elections.\n\nSimultaneously in Madrid, thousands marched to demand the Spanish Prime Minister's resignation over corruption allegations. These protests reflect growing public frustration with political establishments and a desire for systemic accountability. The scale of these demonstrations suggests deepening democratic tensions across different national contexts.",
-        "sources": [
-          {
-            "title": "Serbia: Police clash with protesters urging early elections",
-            "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "Tens of thousands rally in Serbia for antigovernment demonstrations",
-            "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
-            "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "At least 82 killed in Chinese coal mine explosion",
+            "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -226,8 +208,32 @@
     ],
     "ai": [
       {
-        "headline": "SpaceX Starship V3 Completes Partial Test Flight",
-        "body": "SpaceX's latest Starship rocket prototype survived its first test flight with mixed results. The V3 version mostly succeeded in its mission - a significant milestone for the company's ambitious space exploration goals. Engineers will analyze flight data to refine future iterations of the megarocket.",
+        "headline": "Tech Giants Wrestle with Open Source and Platform Changes",
+        "body": "Microsoft and Amazon face mounting challenges in their cloud and platform strategies. AWS appears to be experiencing significant internal shifts - potentially signaling a major restructuring after four years of strategic uncertainty. Meanwhile, Microsoft confronts a security vulnerability where scammers are exploiting an internal account to distribute spam links - raising questions about the company's email and authentication systems.",
+        "sources": [
+          {
+            "title": "Amazon Web Services – Four Years and Out",
+            "url": "https://www.adventuresinoss.com/aws-four-years/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+            "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Scammers are abusing an internal Microsoft account to send spam links",
+            "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI and Tech Innovation Accelerate Across Multiple Domains",
+        "body": "Google unveiled a groundbreaking AI model capable of transforming content across multiple formats - potentially revolutionizing how digital media is created and consumed. In the automotive world, Ferrari is leveraging IBM's artificial intelligence to deepen fan engagement - demonstrating AI's expanding reach beyond traditional technological boundaries. SpaceX also made headlines with a mostly successful first flight of Starship V3 - continuing to push aerospace innovation forward.",
         "sources": [
           {
             "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
@@ -236,45 +242,15 @@
             "lean": null
           },
           {
-            "title": "SpaceX launches Starship v3 rocket",
-            "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Pushes Boundaries: Ferrari Fans and Pilot Voice Resurrection",
-        "body": "Artificial intelligence continues to expand into unexpected territories. Ferrari is using IBM's AI to create hyper-engaged Formula 1 fans - transforming how sports audiences interact with teams. In a more somber application, AI technology is now capable of reconstructing voices of deceased pilots - raising complex ethical questions about digital resurrection.",
-        "sources": [
-          {
             "title": "Ferrari is using IBM’s AI to create F1 superfans",
             "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "AI is being used to resurrect the voices of dead pilots",
-            "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Privacy Concerns Escalate with Government Data Demands",
-        "body": "Tech companies face increasing pressure from government data requests. Wearable tech firm Oura reported receiving official demands for user information - highlighting growing tensions between personal privacy and state surveillance. In another troubling incident, a Texas woman was arrested for a social media post about local water quality - signaling potential risks of online expression.",
-        "sources": [
-          {
-            "title": "Oura says it gets government demands for user data",
-            "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Texas woman arrested for Facebook post about town water quality",
-            "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-            "source": "Hacker News",
+            "title": "Google’s new anything-to-anything AI model is wild",
+            "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+            "source": "The Verge",
             "lean": null
           }
         ]
@@ -282,31 +258,25 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $75K Amid Market Volatility",
-        "body": "Bitcoin suffered a sharp decline on Saturday, dropping below $75,000 for the first time in a month. Crypto liquidations approached $1 billion, signaling significant market pressure. The sell-off comes amid mixed signals from global markets and geopolitical developments.",
-        "sources": [
-          {
-            "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
-            "url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
-            "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Trump Iran Deal Boosts Bitcoin - Investors Eye Recovery",
-        "body": "Bitcoin showed signs of resilience after President Trump's Iran peace agreement announcement. Market analysts remain divided - some forecast a potential crash to $60,000, while others see an opportunity for Bitcoin to outperform traditional stock and bond markets. The cryptocurrency continues to demonstrate its sensitivity to global political events.",
+        "headline": "Bitcoin Rallies on Trump's Iran Peace Deal",
+        "body": "Bitcoin surged in early trading after President Trump announced a landmark peace agreement with Iran. The cryptocurrency jumped 4.5% in the hours following the diplomatic breakthrough - signaling renewed investor confidence in geopolitical stability.\n\nMarket analysts suggest the price movement reflects Bitcoin's growing status as a global economic indicator. Traders view the cryptocurrency as a barometer of international tensions and potential safe-haven investment.",
         "sources": [
           {
             "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
             "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
             "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Poised to Outperform Traditional Investments",
+        "body": "Bitcoin is preparing to reassert its market dominance after a period of underperformance against stocks and bonds. Institutional investors are showing renewed interest in the cryptocurrency as a potential hedge against traditional market volatility.\n\nAnalysts predict a potential correction, with some forecasting a pullback to the $60,000 level. Despite short-term volatility, long-term sentiment remains bullish on Bitcoin's potential to disrupt conventional financial markets.",
+        "sources": [
+          {
+            "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
+            "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
@@ -318,15 +288,9 @@
         ]
       },
       {
-        "headline": "Bitcoin ETFs Bleed $1.26 Billion in Worst Week Since January",
-        "body": "Spot Bitcoin ETFs experienced significant outflows this week, shedding $1.26 billion - the largest weekly withdrawal since late January. The exodus reflects growing investor uncertainty and potential shifts in cryptocurrency investment strategies. Physical Bitcoin concepts continue to evolve, suggesting ongoing innovation in the market.",
+        "headline": "Physical Bitcoin: Bridging Digital and Tangible Assets",
+        "body": "Bitcoin Magazine explored the evolving concept of physical Bitcoin - examining how the digital currency might create tangible representations of value. The report highlights emerging technologies that could bridge the gap between digital wallets and physical asset representation.\n\nThis exploration signals growing mainstream interest in making cryptocurrency more accessible and understandable to traditional investors and the general public.",
         "sources": [
-          {
-            "title": "Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak",
-            "url": "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
           {
             "title": "The History and Future of Physical Bitcoin",
             "url": "https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin",
@@ -339,21 +303,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a sophisticated yet comforting main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "name": "Moroccan Shakshuka Sunrise",
+      "cuisine": "North African",
+      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
+      "tip": "Use cast iron skillet for best heat distribution and authentic crusty edges"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
+      "name": "Desk Warrior Reset",
+      "description": "Perform a 5-minute targeted mobility sequence to counteract prolonged sitting and realign your spine and shoulders",
+      "tip": "Use a foam roller along your thoracic spine for instant tension release"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystem principles and biological structures",
-      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to modern environmental challenges"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
     }
   }
 }
