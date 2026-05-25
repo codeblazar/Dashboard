@@ -1,63 +1,63 @@
 {
-  "generatedAt": "2026-05-25T05:38:45.299Z",
+  "generatedAt": "2026-05-25T11:27:48.107Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "White House Shooting Sparks Security Concerns",
-        "body": "A bystander was wounded during a shooting incident near the White House on Sunday. The Secret Service confirmed an exchange of gunfire, with the shooter subsequently killed. The incident heightened security tensions in the capital.\n\nPrevious records show the shooter had a history of trespassing. Law enforcement continues to investigate the circumstances surrounding the shooting, with federal agencies working to determine the full context of the event.",
+        "headline": "Political Tensions Rise Over Immigration and Media Criticism",
+        "body": "Friction erupted between political factions over immigration policy and media representation. Republican lawmakers proposed legislation targeting foreign-born representatives, confronting Rep. Ilhan Omar directly about potential restrictions. The move highlights ongoing debates about national identity and political participation.\n\nSimultaneously, media criticism intensified. Conservative outlets argued that journalists lack fundamental understanding of constitutional principles - suggesting systemic gaps in political reporting and civic knowledge. These tensions reflect deeper ideological divisions in contemporary American political discourse.",
         "sources": [
+          {
+            "title": "Sad: US journalists need remedial civics lessons",
+            "url": "https://thehill.com/opinion/campaign/5890728-media-misunderstands-founding-documents/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Omar confronted on camera over GOP proposal targeting foreign-born lawmakers: ‘Good luck to her’",
+            "url": "https://www.foxnews.com/politics/omar-confronted-camera-gop-proposal-targeting-foreign-born-lawmakers-good-luck",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Gerrymandering and Political Divisions Reshape Electoral Landscape",
+        "body": "Redistricting battles continue transforming American political geography. Extreme gerrymandering practices are fundamentally altering how electoral districts are drawn - potentially influencing future election outcomes. The Washington Post analysis suggests these changes could have long-term consequences for representative democracy.\n\nInternal Republican tensions emerged around strategic funding, with House and Senate members disagreeing over resource allocation. These fractures hint at deeper strategic differences within the party's leadership and electoral approach.",
+        "sources": [
+          {
+            "title": "How this age of extreme gerrymandering is transforming American politics",
+            "url": "https://www.washingtonpost.com/politics/2026/05/25/redistricting-war-is-transforming-us-politics-with-no-end-sight/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "House and Senate Republicans are at odds over Trump’s ‘anti-weaponization’ fund",
+            "url": "https://thehill.com/homenews/house/5892196-senate-house-republican-tension-anti-weaponization-fund/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Health Concerns and Political Controversies Persist",
+        "body": "Former President Donald Trump faces renewed scrutiny over health questions ahead of another medical visit to Walter Reed. The potential health implications continue to generate significant political speculation and media attention.\n\nIn related developments, Trump's former COVID adviser commented on current public health preparedness, while a shooting incident near the White House prompted Secret Service response. These events underscore the ongoing complexity of post-presidential political narratives.",
+        "sources": [
+          {
+            "title": "Trump faces health questions ahead of another Walter Reed trip",
+            "url": "https://www.washingtonpost.com/politics/2026/05/25/trump-faces-health-questions-ahead-another-walter-reed-trip/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump’s former COVID adviser: US equipped to handle response to Ebola outbreak",
+            "url": "https://thehill.com/policy/healthcare/5893722-trump-adviser-ebola-response/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Secret Service director: Thoughts with bystander shot after gunfire exchanged near White House",
             "url": "https://thehill.com/homenews/administration/5893700-bystander-shot-white-house/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Shooter killed near the White House was previously charged with trespassing",
-            "url": "https://www.washingtonpost.com/politics/2026/05/24/shooter-near-white-house-shooter-was-previously-arrested-trespassing/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Signals Potential Iran Deal - Negotiations Continue",
-        "body": "Former President Trump suggested a potential breakthrough in Iran negotiations, describing a possible agreement as good and proper. Senator Marco Rubio defended the emerging diplomatic approach, calling criticisms from within the GOP absurd.\n\nIranian officials claim momentum in the talks, stating they are winning the negotiation process. The potential deal remains contentious, with varying perspectives across the political spectrum about its potential implications for regional stability.",
-        "sources": [
-          {
-            "title": "Rubio calls GOP criticisms of Iran-Trump emerging deal ‘absurd’",
-            "url": "https://thehill.com/homenews/administration/5893557-marco-rubio-iran-deal-criticism/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump says Iran deal will be ‘good and proper’ if one is made",
-            "url": "https://thehill.com/homenews/administration/5893497-trump-iran-nuclear-deal/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Iran says it is winning the negotiations with Trump on ending the war",
-            "url": "https://thehill.com/policy/international/5893385-iran-us-conflict-resolution/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Memorial Day Travel Continues Despite High Gas Prices",
-        "body": "Americans are expected to maintain travel plans for Memorial Day weekend, despite persistently high gas prices. The AAA predicts robust travel numbers, suggesting economic resilience among consumers.\n\nThe travel outlook reflects broader economic trends, with drivers showing willingness to spend despite inflationary pressures. Energy market dynamics continue to influence consumer behavior and national economic sentiment.",
-        "sources": [
-          {
-            "title": "Despite high gas prices, drivers aren’t expected to hit the brakes on Memorial Day travel",
-            "url": "https://thehill.com/policy/energy-environment/5892067-memorial-day-weekend-travel-gas-prices-aaa-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Zeldin says EPA providing ‘flexibility’ by loosening rules for pollutants used in grocery refrigeration",
-            "url": "https://thehill.com/policy/energy-environment/5893378-trump-epa-refrigerant-rule-change/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -66,58 +66,112 @@
     ],
     "au-politics": [
       {
-        "headline": "Labor Faces Transparency Accusations as Government Scrutiny Intensifies",
-        "body": "The Albanese government confronts mounting criticism over its commitment to transparency. The Guardian reports Labor is evading freedom of information requests, potentially undermining its own pledges of open governance.\n\nPolitical tensions escalated with Prime Minister Albanese warning Liberal frontbencher Angus Taylor about potential leadership challenges. The ongoing scrutiny comes as the National Anti-Corruption Commission experiences leadership changes, with chief Paul Brereton announcing his resignation.",
+        "headline": "BHP Backtracks on Climate Promises, Leaked Docs Reveal",
+        "body": "Australia's largest mining company has quietly shelved key climate initiatives, internal documents show. BHP has put major emissions reduction projects on ice - including a planned Pilbara plant that would have drastically cut carbon output. The leaked memos suggest a strategic retreat from previous environmental commitments.\n\nThe company continues investing heavily in polluting infrastructure, spending hundreds of millions on diesel trucks despite public pledges to reduce carbon footprint. These revelations raise serious questions about corporate climate accountability and the gap between mining giants' public statements and actual operational strategies.",
         "sources": [
           {
-            "title": "Labor is making a mockery of its promise of transparent government",
-            "url": "https://www.theguardian.com/australia-news/2026/may/25/labor-evading-scrutiny-foi-requests-mockery-promise-of-transparent-government",
+            "title": "The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal",
+            "url": "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Australia news live: Albanese warns Taylor to watch his back with next Liberal leader ‘just behind you’; Nacc chief Paul Brereton resigns",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb",
+            "title": "BHP defies its own climate strategy to spend hundreds of millions on polluting diesel trucks in Pilbara",
+            "url": "https://www.theguardian.com/world/2026/may/25/bhp-diesel-trucks-pilbara-australia-mining-climate-pollution",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Government Intervenes in Regional Aviation with Rex Airline Bailout",
-        "body": "The federal government has stepped in to cover Rex Airlines' multi-million-dollar debt to regional airports, signaling significant support for struggling aviation infrastructure. The financial intervention highlights ongoing challenges in maintaining regional transport connectivity.\n\nThe bailout raises questions about the sustainability of regional airlines and the extent of government financial support. Critics may view the move as a potential precedent for future industry interventions.",
-        "sources": [
+          },
           {
-            "title": "Government bails out Rex's multi-million-dollar debt to regional airports",
-            "url": "https://www.abc.net.au/news/2026-05-25/government-bails-out-rex-debts-owed-to-regional-airports/106638756",
+            "title": "BHP quietly scrapped plan to build Pilbara plant that would have drastically cut emissions",
+            "url": "https://www.theguardian.com/world/2026/may/25/bhp-mining-pilbara-iron-ore-plant-to-drastically-cut-emissions-scrapped",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Document leak at Australia's richest company shows how it put off going green",
+            "url": "https://www.abc.net.au/news/2026-05-25/bhp-leaked-documents-climate-emissions-cuts-delay-electric-truck/106706762",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Independents Debate Formation of New Political Movement",
-        "body": "Independent MPs are considering the potential formation of a new political party, with Zali Steggall suggesting donation rules could facilitate such a move. The discussions reflect ongoing shifts in Australia's political landscape.\n\nWhile Steggall sees potential in a unified independent movement, other crossbench MPs remain cautious about consolidating their political approach. The debate underscores the evolving dynamics of representation beyond traditional party structures.",
+        "headline": "Labor Pushes Tax Reforms Amid Political Pressure",
+        "body": "Prime Minister Albanese is pressing forward with controversial tax reform proposals, including potential changes to capital gains tax and negative gearing. The government signals willingness to negotiate, hinting at possible carve-outs for business interests to soften potential opposition.\n\nPolitical momentum appears complex. One Nation's recent surge adds pressure to Labor's strategic positioning, with the party now actively soliciting donations to counter emerging political challenges. The tax reform debate promises to be a critical test of the government's legislative agenda.",
         "sources": [
           {
-            "title": "Zali Steggall says donation rules favour teals forming own party but other independents rule out idea",
-            "url": "https://www.theguardian.com/australia-news/2026/may/25/zali-steggall-teals-forming-own-party-independents-alliance",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Labor calls for spare change as One Nation surges",
+            "url": "https://www.abc.net.au/news/2026-05-25/labor-asking-for-donations-to-help-fight-one-nation/106712618",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "The death of legacy media, political incompetence, and rise of minor parties",
-            "url": "https://www.spectator.com.au/2026/05/the-death-of-legacy-media-political-incompetence-and-rise-of-minor-parties/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Albanese forges ahead with CGT and negative gearing plan while flagging possible business carve-outs",
+            "url": "https://www.theguardian.com/australia-news/2026/may/25/albanese-forges-ahead-labor-budget-tax-reform-cgt-negative-gearing-business-changes",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Russia Escalates Ukraine War with Deadly College Strike",
-        "body": "Russian forces launched a large-scale attack on Ukraine, killing four civilians and injuring dozens in a brutal assault. A particularly shocking incident involved a deadly strike on a college in Luhansk, which Russian media were invited to document - a move seen as a provocative propaganda effort.\n\nThe attack underscores Russia's continued aggression in Ukraine, with military operations showing no signs of de-escalation. European defense experts are increasingly concerned about the sustainability of current military strategies in the region.",
+        "headline": "US-Iran Deal Stalls as Tensions Simmer",
+        "body": "Hopes for a diplomatic breakthrough between the US and Iran have dimmed after Trump administration officials signaled no imminent agreement. Senator Marco Rubio warned the US would find alternative approaches if negotiations fail - hinting at potential escalation.\n\nOil markets reflected the uncertainty, with prices sliding on conflicting signals about potential peace talks. The 87-day conflict continues to cast a shadow over regional stability, with diplomatic channels appearing increasingly fraught.",
+        "sources": [
+          {
+            "title": "Deal with US not imminent, Iran says",
+            "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Oil prices slide on hopes of US-Iran peace deal",
+            "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
+            "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Rubio says US will find ‘another way’ if Iran talks fail",
+            "url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel Strikes Lebanon as Regional Conflict Intensifies",
+        "body": "Israeli forces killed three individuals in attacks on Lebanon and issued new displacement orders, escalating tensions in the already volatile border region. The strikes represent another dangerous flashpoint in a series of regional confrontations.\n\nThe ongoing violence continues to destabilize the area, with civilian populations bearing the brunt of military actions. International observers remain concerned about the potential for broader conflict.",
+        "sources": [
+          {
+            "title": "Israel kills three in attacks on Lebanon, issues more displacement orders",
+            "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Gaza flotilla activists return to Australia, describing abuse",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine Endures Massive Russian Attack - Four Dead",
+        "body": "A large-scale Russian assault on Ukraine left four civilians dead and dozens injured in the latest escalation of the ongoing conflict. The attack underscores the continued intensity of military operations in the region.\n\nRussian media invited journalists to view the aftermath of a strike on a college in Luhansk - a provocative move that highlights the brutal nature of the ongoing war.",
         "sources": [
           {
             "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
@@ -130,85 +184,25 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Why are Europe's biggest defense projects in trouble?",
-            "url": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US-Iran Tensions Simmer as Trump Blocks Potential Peace Deal",
-        "body": "Former President Trump has instructed US negotiators to slow down potential diplomatic negotiations with Iran, creating fresh uncertainty in Middle East relations. The intervention comes amid fluctuating oil prices and mixed signals about potential reconciliation.\n\nSenator Marco Rubio suggested Trump wants to prevent what he calls a bad deal, indicating continued hardline positioning toward Iran. The geopolitical maneuvering could have significant implications for upcoming US elections and regional stability.",
-        "sources": [
-          {
-            "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-            "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Oil prices slide on hopes of US-Iran peace deal",
-            "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Oil prices fall amid mixed signals on US-Iran peace deal",
-            "url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "LIVE: Rubio says Trump ‘not going to make a bad deal’ with Iran",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How will Iran war fallout impact upcoming US elections?",
-            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Africa Marks Liberation Day Amid Ongoing Challenges",
-        "body": "African nations commemorated Africa Day 2026, reflecting on the continent's complex post-colonial journey. The annual event prompted critical discussions about whether true liberation has been achieved across political, economic, and social domains.\n\nThe day highlighted ongoing struggles with governance, economic independence, and systemic challenges that continue to impact African nations decades after independence movements.",
-        "sources": [
-          {
-            "title": "Africa Day 2026: Has the continent achieved true liberation?",
-            "url": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Senegal parliament speaker steps down as political crisis worsens",
-            "url": "https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       }
     ],
     "ai": [
       {
-        "headline": "AI Security Challenges Expose Industry's Fragile Boundaries",
-        "body": "Tech giants are scrambling to manage AI security risks as vulnerabilities emerge across multiple platforms. Google and other major players find themselves in a reactive posture - patching systems and responding to new threat vectors almost daily.\n\nThe landscape of AI safety remains fluid and unpredictable. Hackers are developing sophisticated techniques to exploit chatbot personalities, revealing deep systemic weaknesses in current AI architectures. These challenges suggest the industry is still struggling to create robust, secure intelligent systems.",
+        "headline": "AI Security Becomes Battlefield as Vulnerabilities Multiply",
+        "body": "Tech giants and cybersecurity experts are locked in an escalating arms race to identify and patch AI system vulnerabilities. Google and other major players are scrambling to develop robust security frameworks as hackers learn to exploit chatbot personalities and probe system weaknesses.\n\nThe challenge goes beyond traditional software security. Emerging research shows AI agents can decay under complex constraint environments - creating novel attack surfaces that traditional cybersecurity approaches cannot easily predict or defend against.",
         "sources": [
           {
             "title": "Everyone is navigating AI security in real time — even Google",
             "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
             "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+            "url": "https://arxiv.org/abs/2605.06445",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -220,8 +214,20 @@
         ]
       },
       {
-        "headline": "AI Chip Costs Reveal Memory's Growing Economic Significance",
-        "body": "Memory components are transforming the economics of AI hardware, now consuming nearly two-thirds of chip manufacturing costs. This dramatic shift signals fundamental changes in computational infrastructure and design strategies.\n\nThe trend points to increasing complexity in AI chip development. Engineers must now balance performance, efficiency, and memory capacity in increasingly nuanced ways. Semiconductor manufacturers are racing to innovate solutions that can manage these escalating economic pressures.",
+        "headline": "Vatican Issues Landmark Guidance on AI and Human Dignity",
+        "body": "Pope Leo XIV has released a groundbreaking encyclical addressing the ethical implications of artificial intelligence. The document - titled Magnifica Humanitas - signals the Catholic Church's most comprehensive engagement yet with technological transformation.\n\nChurch leaders are positioning themselves as critical interpreters of AI's societal impact, seeking to establish moral boundaries around emerging technologies that challenge traditional understandings of human agency and consciousness.",
+        "sources": [
+          {
+            "title": "Magnifica Humanitas (Encyclical Letter)",
+            "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Chips Strain Under Memory Cost and Computational Demands",
+        "body": "Memory components are now consuming nearly two-thirds of AI chip manufacturing costs - a dramatic shift that signals fundamental challenges in computational infrastructure. Emerging tools like DeepSeek's coding agent highlight both the potential and constraints of current AI development approaches.\n\nEngineers are exploring innovative solutions to balance performance, efficiency, and economic viability as AI systems become increasingly complex and resource-intensive.",
         "sources": [
           {
             "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -234,72 +240,35 @@
             "url": "https://esengine.github.io/DeepSeek-Reasonix/",
             "source": "Hacker News",
             "lean": null
-          },
-          {
-            "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-            "url": "https://arxiv.org/abs/2605.06445",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Signals Potential Supercycle Amid Market Shifts",
-        "body": "Market analysts are pointing to rising bond prices as a potential harbinger of a Bitcoin supercycle. The structural changes in financial markets suggest a broader transformation in investment strategies - with Bitcoin positioned as a key alternative asset. \n\nTraditional financial indicators are increasingly aligning with cryptocurrency's long-term value proposition. Investors are watching closely as these signals could represent a fundamental shift in how digital assets are perceived and valued.",
-        "sources": [
-          {
-            "title": "Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst",
-            "url": "https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "MicroStrategy Doubles Down with $65 Billion Bitcoin Investment",
-        "body": "MicroStrategy continues its aggressive Bitcoin accumulation strategy - now holding a massive $65 billion in BTC. The company has consistently positioned itself as a major institutional investor in the cryptocurrency space - buying at strategic moments to build its digital asset portfolio. \n\nThis sustained investment approach underscores growing corporate confidence in Bitcoin as a long-term store of value. MicroStrategy's strategy has become a benchmark for institutional crypto investment approaches.",
-        "sources": [
-          {
-            "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-            "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "ChatGPT Now Enables Direct Bitcoin Purchases",
-        "body": "AI platform ChatGPT has integrated MoonPay to allow direct cryptocurrency purchases - a significant step in making digital asset acquisition more accessible. Users can now buy Bitcoin directly through the popular conversational AI interface. \n\nThis integration represents another milestone in Bitcoin's mainstream adoption - reducing friction for potential investors and normalizing cryptocurrency transactions through familiar digital platforms.",
-        "sources": [
-          {
-            "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
-            "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
+        "headline": "Bitcoin summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African fusion",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with crumbled feta and fresh herbs",
-      "tip": "Use cast iron skillet for authentic even heat distribution and deeper flavor development"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence to decompress and realign the spine after prolonged sitting",
-      "tip": "Perform three gentle cat-cow stretches followed by seated spinal twists every 90 minutes"
+      "name": "Desk Spine Decompression",
+      "description": "Perform a targeted micro-stretch sequence that realigns spine and releases tension from prolonged sitting",
+      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
     },
     "learn": {
       "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical and astronomical illustrations that have defied translation for centuries",
-      "why": "It represents one of the most intriguing unsolved linguistic and historical puzzles, challenging cryptographers and historians with its impenetrable secrets"
+      "description": "A mysterious 15th-century codex written in an unknown language or complex cipher that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and cryptography, challenging our understanding of medieval knowledge and communication"
     }
   }
 }
