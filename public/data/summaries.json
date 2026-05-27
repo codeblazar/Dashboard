@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-05-27T05:34:50.140Z",
+  "generatedAt": "2026-05-27T11:18:45.574Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Paxton Topples Cornyn in Texas GOP Senate Primary Runoff",
-        "body": "Ken Paxton defeated incumbent John Cornyn in a bitter Texas Republican Senate primary runoff, signaling a significant shift in the state's political landscape. The victory underscores former President Trump's continued influence within the Republican Party.\n\nPaxton - despite facing multiple legal challenges - secured the nomination with strong support from MAGA-aligned voters. Cornyn, a long-time Senate stalwart, pledged to support the Republican ticket after his defeat. Political analysts note the race could reshape the Texas Senate contest, with the Cook Political Report already shifting the race's rating toward Democrats.",
+        "headline": "Paxton Shocks Texas, Defeats Cornyn in MAGA Senate Upset",
+        "body": "Ken Paxton defeated incumbent Senator John Cornyn in a stunning Texas Republican primary runoff, signaling continued strength of Trump-aligned candidates. The victory underscores ongoing tensions within the GOP between establishment and populist wings.\n\nPolitical analysts are divided. Some view Paxton's win as a clear mandate for MAGA-style politics, while others see potential risks. The Cook Political Report has already shifted the Texas Senate race rating, suggesting the general election could be more competitive than previously expected.",
         "sources": [
+          {
+            "title": "Paxton crushes Cornyn in Senate primary in a big win for MAGA",
+            "url": "https://www.washingtonpost.com/politics/2026/05/26/texas-voters-head-polls-amid-concerns-over-senate-choice/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Why some Republicans are worried about Ken Paxton as a Senate nominee",
+            "url": "https://www.washingtonpost.com/politics/2026/05/27/who-is-ken-paxton-why-are-some-republicans-worried/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "Paxton trounces Cornyn: 5 takeaways from Texas’s primary runoffs",
             "url": "https://thehill.com/homenews/campaign/5896153-paxton-cornyn-texas-runoffs-takeaways/",
@@ -14,34 +26,16 @@
             "lean": "center"
           },
           {
-            "title": "MAGA candidate Paxton defeats Senate stalwart Cornyn in Texas primary",
-            "url": "https://www.washingtonpost.com/politics/2026/05/26/texas-voters-head-polls-amid-concerns-over-senate-choice/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
             "title": "Cook Political Report shifts Texas Senate rating toward Democrats after Paxton runoff victory",
             "url": "https://thehill.com/homenews/campaign/5896436-texas-senate-race-rating-shift/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Texas Republicans nominate Ken Paxton for Senate seat, ousting incumbent John Cornyn",
-            "url": "https://www.npr.org/2026/05/26/nx-s1-5835745/paxton-republican-texas-senate-nominee-trump-cornyn-talarico",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Paxton defeats Cornyn in Texas GOP Senate runoff",
-            "url": "https://thehill.com/homenews/campaign/5894321-paxton-defeats-cornyn-texas-runoff/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Texas Primaries Reveal Deep Political Divisions and Voter Anger",
-        "body": "Texas primary runoffs exposed deep ideological fractures within both Republican and Democratic parties. Multiple races saw Trump-backed candidates triumph - including wins for Paxton and other MAGA-aligned contenders in various congressional and state-level contests.\n\nNotably, Democrats rejected a House candidate who called for imprisoning Zionists, highlighting ongoing tensions around political rhetoric. The primaries also saw several incumbent challenges and shifts in party positioning, reflecting continued voter dissatisfaction and realignment.",
+        "headline": "Texas Primaries Reveal Deep Political Divisions",
+        "body": "Tuesday's Texas runoffs exposed complex political battlegrounds across multiple races. Trump-backed candidates scored significant victories, including wins for an Air Force veteran and a mortgage banker in House primaries.\n\nDemocrats also saw notable developments. The party rejected a controversial House candidate who called for imprisoning Zionists, demonstrating internal efforts to manage extreme rhetoric. Meanwhile, candidates like Jasmine Crockett continued to build momentum in competitive districts.",
         "sources": [
           {
             "title": "Ex-NFL linebacker poised to return to Congress after Texas runoff win with Jasmine Crockett endorsement",
@@ -62,10 +56,10 @@
             "lean": "right"
           },
           {
-            "title": "Controversial Democrat who called for ‘Zionists’ to be imprisoned toppled after backlash",
-            "url": "https://www.foxnews.com/politics/controversial-democrat-who-called-for-zionists-imprisoned-toppled-after-backlash",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Allred defeats Johnson in Texas Democratic House primary runoff",
+            "url": "https://thehill.com/homenews/campaign/5894334-allred-johnson-texas-house-democratic-primary-runoff/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Trump flexes endorsement power as Army combat vet wins Texas GOP runoff",
@@ -74,139 +68,145 @@
             "lean": "right"
           },
           {
-            "title": "Garcia beats Texas Democrat accused of antisemitism in House primary runoff",
-            "url": "https://thehill.com/homenews/campaign/5895781-democrat-garcia-defeats-galindo-texas/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Trump-backed mortgage banker defeats pilot in GOP primary runoff to replace Wesley Hunt",
+            "url": "https://www.foxnews.com/politics/trump-backed-mortgage-banker-defeats-pilot-gop-primary-runoff-replace-wesley-hunt",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Labor Battles Over Capital Gains Tax Changes",
-        "body": "The Albanese government faces internal pressure over proposed capital gains tax reforms. Former PM Paul Keating urged Labor to maintain the overhaul without weakening exemptions that could harm economic growth. The debate intensified during question time, with Prime Minister Albanese publicly supporting Liberal MP Tim Wilson's book while defending the tax policy.",
+        "headline": "Indigenous Rights and Truth-Telling Spark National Debate",
+        "body": "Tensions are rising around Indigenous issues across multiple fronts. Federal MP Ed Husic has called on Labor to establish clear boundaries regarding Israel's treatment of activists, while a national truth-telling process received significant attention from Prime Minister Albanese.\n\nSimultaneously, concerns about Indigenous treatment persist in custody settings. Two separate ABC reports highlight ongoing investigations into deaths in custody - one involving Kumanjayi White and another examining body scan practices after an Indigenous woman's death. These incidents underscore continuing systemic challenges in Indigenous rights and justice.",
         "sources": [
           {
-            "title": "Australia politics live: PM plugs Tim Wilson’s ‘terrific’ book as question time debate over CGT changes resumes",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
+            "title": "Ed Husic calls on Labor to establish ‘red line’ on Israel’s actions, including treatment of flotilla activists",
+            "url": "https://www.theguardian.com/australia-news/2026/may/27/ed-husic-calls-on-labor-to-establish-red-line-on-israels-actions-including-treatment-of-flotilla-activists",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Paul Keating urges Labor to stick with capital gains tax overhaul and avoid exemptions that would hurt economy",
-            "url": "https://www.theguardian.com/australia-news/2026/may/27/labor-budget-australia-economy-cgt-capital-gains-tax-changes-paul-keating-reponse",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "ABC Leadership Shakeup as News Director Resigns",
-        "body": "Justin Stevens has stepped down as ABC's director of news, citing personal and professional reasons. The sudden departure comes at a sensitive time for the national broadcaster - which has faced ongoing scrutiny about its editorial independence and leadership. Stevens' resignation raises questions about the ABC's strategic direction and internal dynamics.",
-        "sources": [
-          {
-            "title": "Justin Stevens resigns as ABC director of news, citing ‘professional and personal’ reasons",
-            "url": "https://www.theguardian.com/media/2026/may/27/justin-stevens-resigns-abc-director-of-news",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Police say cause of Kumanjayi White's death in custody still not known",
+            "url": "https://www.abc.net.au/news/2026-05-27/kumanjayi-white-cause-of-death-in-custody-undetermined/106726992",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "ABC's Justin Stevens resigns as director of news",
-            "url": "https://www.abc.net.au/news/2026-05-27/abc-justin-stevens-resigns-as-director-of-news/106728188",
+            "title": "Body scan practices examined after Indigenous woman's death in custody",
+            "url": "https://www.abc.net.au/news/2026-05-27/patience-kuzmins-death-in-custody-examined-in-inquest/106728792",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "PM response to truth-telling process 'hugely significant'",
+            "url": "https://www.abc.net.au/news/2026-05-27/national-walk-for-truth-ends-at-parliament-calls-for-albanese-/106726304",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Climate Policy Sparks Economic Debate",
-        "body": "Tensions are rising over Australia's climate measures, with right-leaning commentators warning of potential economic damage. The Spectator Australia published a critical piece suggesting upcoming climate policies could crush economic growth. Meanwhile, government sources maintain that the proposed measures are necessary for long-term sustainability and international commitments.",
+        "headline": "Power Infrastructure Sparks Cultural Heritage Controversy",
+        "body": "A significant cultural heritage dispute has erupted after contractors bulldozed an Aboriginal rock shelter to make way for power line infrastructure. The Guardian reported the destruction occurred within a proposed renewable energy zone - raising urgent questions about preservation protocols.\n\nThe incident highlights growing tensions between infrastructure development and Indigenous cultural site protection. It comes as Australia continues to expand its renewable energy capabilities, with projects like the Copi Mineral Sands Project receiving government approvals.",
         "sources": [
           {
-            "title": "Here come the economy-crushing climate measures",
-            "url": "https://www.spectator.com.au/2026/05/here-come-the-economy-crushing-climate-measures/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Paul Keating urges Labor to stick with capital gains tax overhaul and avoid exemptions that would hurt economy",
-            "url": "https://www.theguardian.com/australia-news/2026/may/27/labor-budget-australia-economy-cgt-capital-gains-tax-changes-paul-keating-reponse",
+            "title": "Community shocked after Aboriginal rock shelter bulldozed for NSW power lines",
+            "url": "https://www.theguardian.com/environment/2026/may/27/aboriginal-rock-shelter-destroyed-power-line-contractors-nsw-renewable-energy-zone-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Copi Mineral Sands Project near Victoria-NSW border gets green light",
+            "url": "https://www.abc.net.au/news/2026-05-27/nsw-government-copi-mine-project-approval-mildura/106726888",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Israel Escalates Lebanon Attacks - Dozens Killed in Intensifying Conflict",
-        "body": "Israeli forces have dramatically escalated military operations in southern Lebanon, killing at least 31 people in the past 24 hours. The strikes represent a significant expansion of regional tensions, with Lebanese civilians bearing the brunt of the assault.\n\nThe attacks signal a potential broader regional conflict, with both Israeli and Lebanese sources reporting heavy casualties. International observers are closely monitoring the situation, concerned about the potential for further destabilization in the already volatile Middle Eastern region.",
+        "headline": "Iran War Tensions Rise as Attacks Continue Despite Ceasefire",
+        "body": "The fragile ceasefire in the Iran conflict shows increasing strain, with both US and Iranian forces launching multiple attacks. Diplomatic efforts appear to be unraveling, with deep suspicion lingering between the two sides. Broader regional impacts are mounting - including severe medicine shortages in Iran and disruptions to European fertilizer supplies.",
         "sources": [
           {
-            "title": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
+            "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
+            "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-            "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+            "url": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+            "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+            "url": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran medicine shortages worsened by war",
+            "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Israel Escalates Gaza Strikes - Hamas Military Leader Killed",
+        "body": "Israeli forces targeted and killed the new head of Hamas's military wing in a precision strike on Gaza City. The attack comes amid continued tensions, with additional Israeli air strikes in southern Lebanon killing at least two people. The ongoing conflict shows no signs of immediate de-escalation, with civilian populations caught in the crossfire.",
+        "sources": [
+          {
+            "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+            "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
+            "title": "Israel claims head of Hamas military wing killed in Gaza strike",
+            "url": "https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+            "title": "Israeli air attack kills at least two in southern Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Trump-Backed Paxton Ousts Veteran Texas Senator in Primary Upset",
-        "body": "Attorney General Ken Paxton has defeated incumbent Senator John Cornyn in a stunning Texas Republican primary runoff, backed by former President Donald Trump. The victory underscores Trump's continuing influence within the Republican Party and signals potential shifts in the state's political landscape.\n\nPaxton - who previously faced impeachment and legal challenges - has now secured a significant political comeback. The result suggests ongoing internal Republican tensions and Trump's ability to mobilize voter support against established party figures.",
+        "headline": "Trump-Backed Candidate Wins Shocking Texas Primary Upset",
+        "body": "Ken Paxton has defeated incumbent Senator John Cornyn in a stunning Republican primary victory, backed by former President Trump. The result signals continued Trump influence in the Republican Party and potential shifts in Texas political dynamics. Paxton - who has faced previous legal challenges - emerged triumphant in a closely watched race.",
         "sources": [
           {
-            "title": "Attorney General Ken Paxton routs  veteran incumbent Cornyn in Texas Senate primary",
+            "title": "Ken Paxton wins Texas primary election: Results and key takeaways",
+            "url": "https://www.aljazeera.com/news/2026/5/27/ken-paxton-wins-texas-primary-election-results-and-key-takeaways?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump-backed Paxton topples senator Cornyn in Texas primary",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump-backed challenger beats veteran US senator in Texas primary",
             "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump-backed Paxton topples Senator Cornyn in Texas primary run-off",
-            "url": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-            "url": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Chemical Incidents Leave Multiple Dead in Industrial Accidents",
-        "body": "Two separate chemical incidents have resulted in multiple fatalities across the United States. At a paper mill, one worker died and nine remain missing after a significant explosion. In Washington state, a chemical tank rupture also killed multiple people.\n\nThese incidents highlight ongoing industrial safety concerns and the potential risks in chemical manufacturing environments. Investigations are likely to focus on safety protocols and potential preventative measures to avoid similar tragedies.",
-        "sources": [
-          {
-            "title": "One killed and nine missing after chemical explosion at US paper mill",
-            "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Chemical tank rupture kills multiple people in US state of Washington",
-            "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -214,8 +214,8 @@
     ],
     "ai": [
       {
-        "headline": "Pope Drops AI Encyclical - Tech World Stunned",
-        "body": "Pope Leo XIV made waves with a groundbreaking encyclical on artificial intelligence, directly challenging Silicon Valley's narrative. The document - reportedly developed with input from Anthropic researchers - takes a nuanced stance on technological ethics, even invoking Tolkien to critique tech culture.\n\nThe Vatican's engagement signals a dramatic shift in institutional thinking about AI. By inviting tech experts into the conversation and producing a sophisticated analysis, the Pope has positioned the Church as a serious intellectual counterweight to unchecked technological development.",
+        "headline": "Pope Drops AI Bombshell - Tech World Stunned",
+        "body": "Pope Leo XIV unleashed a provocative encyclical on artificial intelligence this week - challenging tech leaders and sparking global conversation. The Vatican invited Anthropic representatives to the presentation, signaling a serious engagement with AI's ethical landscape.\n\nThe document reportedly critiques tech culture through unexpected references - including a pointed Tolkien quote that some speculate targets Silicon Valley figures like Peter Thiel. Beyond philosophical musings, the encyclical represents a landmark moment of institutional religious reflection on technological transformation.",
         "sources": [
           {
             "title": "Did the Pope use AI to write about the dangers of AI?",
@@ -227,6 +227,12 @@
             "title": "Pope Leo Schooled the Tech Bros on Tolkien",
             "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
             "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+            "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
@@ -244,13 +250,49 @@
         ]
       },
       {
-        "headline": "AI Security Crisis: Millions of Agents Vulnerable",
-        "body": "A critical vulnerability in a widely used open source package has imperiled millions of AI agents, exposing systemic risks in current development practices. The breach highlights growing concerns about software supply chain security and the fragility of distributed AI systems.\n\nThe incident comes amid increasing scrutiny of AI infrastructure, with experts warning that rapid deployment often outpaces robust security protocols. Potential impacts range from data exposure to potential system manipulation.",
+        "headline": "AI Tensions Rise: User Frustration and Law Enforcement Warnings",
+        "body": "Growing public disillusionment with AI technologies is reaching a boiling point. DuckDuckGo saw a 30% install surge as users reject AI-powered search, while a Hacker News piece bluntly declared user fatigue with AI-generated responses.\n\nUS law enforcement is tracking a concerning trend - emerging anti-tech extremism potentially linked to widespread AI skepticism. The landscape suggests deepening social friction around artificial intelligence's rapid integration into daily life.",
+        "sources": [
+          {
+            "title": "I'm Tired of Talking to AI",
+            "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+            "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+            "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tech Roundup: Vulnerabilities, Innovations, and Startup Moves",
+        "body": "A critical vulnerability threatens millions of AI agents through an open-source package - highlighting ongoing cybersecurity challenges. Meanwhile, OpenRouter's valuation more than doubled to $1.3 billion, reflecting continued investor confidence in AI infrastructure.\n\nInnovation continues across sectors. Nvidia's new Vera CPU shows promising performance benchmarks, and a startup in India is pioneering robot training through the gig economy. The tech ecosystem remains dynamic despite growing public tensions.",
         "sources": [
           {
             "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
             "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
             "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+            "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+            "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -260,71 +302,53 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Users Revolt Against AI Search - DuckDuckGo Surges",
-        "body": "Privacy-focused search engine DuckDuckGo saw a 30% spike in installations as users reject Google's AI-powered search experience. The surge reflects mounting user frustration with algorithmic changes that prioritize machine-generated responses over traditional search results.\n\nThis consumer backlash underscores the ongoing tension between technological innovation and user experience. Companies pushing AI integration may find themselves facing unexpected resistance from users seeking more transparent, human-curated information.",
-        "sources": [
-          {
-            "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-            "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Miners Ride AI Wave as Mining Stocks Surge",
-        "body": "Bitcoin mining companies are capitalizing on the artificial intelligence infrastructure boom. TeraWulf acquired a Kentucky site to meet growing power demands, while other mining stocks saw significant jumps. The sector's outlook has brightened as AI's computational needs align with bitcoin mining capabilities.\n\nStrive's SATA briefly consumed the entire daily bitcoin mining supply - a sign of aggressive expansion and confidence in the sector's potential. These moves suggest bitcoin miners are positioning themselves at the intersection of cryptocurrency and cutting-edge technology infrastructure.",
+        "headline": "Bitcoin Tumbles Below $75K as Investors Flee to New Sectors",
+        "body": "Bitcoin suffered a sharp decline, dropping to its 13th position among global assets as capital migrates to AI and semiconductor industries. The cryptocurrency's three-month uptrend has decisively broken, signaling potential bearish market conditions.\n\nTraders are watching for technical signals like the golden cross, but current momentum suggests continued downward pressure. Institutional investors appear to be reallocating capital, with significant outflows from bitcoin-focused ETFs indicating a broader shift in market sentiment.",
         "sources": [
           {
-            "title": "Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook",
-            "url": "https://cointelegraph.com/news/bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up",
-            "url": "https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands",
-            "url": "https://decrypt.co/369053/terawulf-bitcoin-miner-kentucky-site-ai-power-demands",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Hovers Near $75,000 as Traders Watch Golden Cross",
-        "body": "Bitcoin's price fluctuated around $75,000 Wednesday, with traders closely monitoring a potential golden cross - a bullish technical signal. The cryptocurrency experienced volatility after briefly touching $78,000, prompting some value investors to continue purchasing at what they perceive as discounted prices.\n\nThe market remains sensitive to technical indicators and institutional buying patterns. Despite recent price slides, investor sentiment appears cautiously optimistic about bitcoin's near-term trajectory.",
-        "sources": [
-          {
-            "title": "Traders watch bitcoin 'golden cross' as BTC slides to near $75,000, ZEC dives 9%",
-            "url": "https://www.coindesk.com/markets/2026/05/27/traders-watch-bitcoin-golden-cross-as-btc-slides-to-near-usd75-000-zec-dives-9",
+            "title": "Bitcoin clings to $75,000 support as bear market signals resurface",
+            "url": "https://www.coindesk.com/markets/2026/05/27/bitcoin-clings-to-usd75-000-support-as-bear-market-signals-resurface",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin drops after $78K pop, but ‘value investor’ keeps ‘hoovering up cheap’ BTC",
-            "url": "https://cointelegraph.com/markets/bitcoin-drops-after-78k-pop-but-value-investor-keeps-hoovering-up-cheap-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin drops to 13th largest asset as capital flees to AI and precious metals",
+            "url": "https://www.coindesk.com/markets/2026/05/27/bitcoin-slips-to-13th-largest-asset-as-ai-semiconductor-booms-accelerate",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin vs gold: BTC's three-month uptrend has snapped",
+            "url": "https://www.coindesk.com/markets/2026/05/27/bitcoin-vs-gold-btc-s-three-month-uptrend-has-snapped",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Corporate Bitcoin Treasury Strategies Gain Momentum",
-        "body": "Companies continue to bolster bitcoin holdings as part of strategic treasury management. Smarter Web Company added 10 bitcoin to its reserves, bringing total holdings to 2,869 BTC - reflecting a growing trend of corporate bitcoin accumulation.\n\nThe move underscores increasing institutional confidence in bitcoin as a potential store of value and hedge against traditional financial instruments. Corporate treasury strategies are evolving, with more companies viewing bitcoin as a legitimate asset class.",
+        "headline": "Massive $1.3B ETF Trade Rocks Bitcoin Market",
+        "body": "A substantial dark pool trade involving $1.29 billion of BlackRock's bitcoin ETF (IBIT) sent shockwaves through cryptocurrency markets. The single large transaction triggered significant price volatility and raised questions about institutional investor strategies.\n\nAnalysts suggest the trade may represent a major investor repositioning or potentially signaling broader market uncertainty. Bitcoin's price quickly responded to the massive sell order, highlighting the market's sensitivity to large institutional movements.",
         "sources": [
           {
-            "title": "Smarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push",
-            "url": "https://bitcoinmagazine.com/news/smarter-web-company-adds-10-bitcoin",
-            "source": "Bitcoin Magazine",
+            "title": "Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade",
+            "url": "https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Whale alert: Someone dumped $1.29 billion of BlackRock's bitcoin ETF in a dark pool trade",
+            "url": "https://www.coindesk.com/markets/2026/05/27/whale-alert-someone-dumped-usd1-29-billion-of-blackrock-s-bitcoin-etf-in-a-dark-pool-trade",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin’s recent drop coincides with $1.3B ‘dark pool’ ETF sale: Analyst",
+            "url": "https://cointelegraph.com/news/bitcoin-fall-coincides-billion-dollar-ibit-sale-dark-pool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -335,19 +359,19 @@
     "food": {
       "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
       "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
-      "description": "Implement micro-movements and strategic stretching to counteract sedentary strain during long work sessions",
-      "tip": "Set a hourly timer to do 90-second standing 'reset' with shoulder rolls and spine elongation"
+      "description": "Implement a micro-movement protocol that shifts your body's positioning every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and rotation points"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies",
-      "why": "Reveals how complex natural systems can inspire sustainable, efficient human infrastructure solutions"
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions across transportation, energy, and community planning"
     }
   }
 }
