@@ -1,119 +1,125 @@
 {
-  "generatedAt": "2026-05-28T22:36:33.191Z",
+  "generatedAt": "2026-05-29T05:33:10.194Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump $250 Bill Sparks Political Firestorm in Washington",
-        "body": "The Treasury Department's plan to issue a $250 bill featuring Donald Trump's portrait has ignited fierce partisan debate. Democratic leaders like Hakeem Jeffries swiftly rejected the proposal, telling supporters to get over themselves. Republican backers view the bill as a historic commemoration of Trump's presidency.\n\nThe controversy reflects deeper political divisions. While some see the bill as a celebration of Trump's legacy, others view it as provocative political theater. The proposal has already drawn sharp criticism from across the political spectrum, highlighting the ongoing polarization in American politics.",
+        "headline": "US-Iran Tensions Simmer as Nuclear Talks Continue",
+        "body": "Diplomatic channels between the US and Iran remain complex and fraught with uncertainty. Former President Trump described Iran as skilled negotiators, while Senator Vance suggested ongoing negotiations are still in flux. \n\nThe administration is navigating delicate discussions around potential nuclear agreements. Recent reports indicate a tentative ceasefire framework is being explored, though significant challenges remain in bridging fundamental differences between the two nations.",
         "sources": [
           {
-            "title": "Hakeem Jeffries a ‘Hard No’ on a Trump $250 bill: ‘Get over yourself’",
-            "url": "https://thehill.com/homenews/house/5900187-treasury-push-trump-currency/",
+            "title": "Trump on Iran: ‘They’re very good negotiators’",
+            "url": "https://thehill.com/homenews/administration/5900668-trump-iran-deal-negotiations/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Treasury Department prepares $250 bill with Trump's face on it",
-            "url": "https://www.npr.org/2026/05/28/nx-s1-5838002/treasury-department-prepares-250-bill-with-trumps-face-on-it",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Vance says US, Iran still ‘going back and forth’ on ‘nuclear stuff’",
+            "url": "https://thehill.com/homenews/administration/5900599-vance-iran-deal-progress/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Bessent blasts Washington Post reporting on Trump appearing on $250 banknote",
-            "url": "https://thehill.com/homenews/5900065-trump-bessent-250-bill-treasury-department/",
+            "title": "5 things to know about tentative US-Iran ceasefire deal",
+            "url": "https://thehill.com/policy/international/5900355-us-iran-ceasefire-extension-deal/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Voters Demand AI Regulation Amid Tech Industry Boom",
-        "body": "A new Fox News poll reveals growing public concern about artificial intelligence, with voters prioritizing safety over technological innovation. The survey indicates strong bipartisan support for comprehensive AI regulation - a rare point of consensus in a typically divided political landscape.\n\nPolitical figures are taking note. Senator J.D. Vance has publicly stated that military AI systems should never make life-and-death decisions. Meanwhile, tech companies like Anthropic continue to attract massive investments, underscoring the complex interplay between technological advancement and public safety concerns.",
+        "headline": "Congressional Map Battles Intensify in Missouri Legal Fight",
+        "body": "The Republican National Committee and National Republican Congressional Committee have launched a legal counteroffensive against Democratic challenges to Missouri's new congressional district map. The lawsuit represents an escalating battle over electoral boundaries and political representation. \n\nLegal experts anticipate this case could set significant precedents for redistricting challenges nationwide. The dispute highlights ongoing tensions around electoral mapping and partisan strategies for maintaining political advantage.",
         "sources": [
           {
-            "title": "Fox News Poll: Voters see AI regulation as urgent, rank safeguards ahead of innovation",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-regulation-urgent-rank-safeguards-ahead-innovation",
+            "title": "RNC and NRCC file lawsuit defending Missouri's new congressional map against Democratic challenges",
+            "url": "https://www.foxnews.com/politics/rnc-nrcc-file-lawsuit-defending-missouris-new-congressional-map-democratic-challenges",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Anthropic hits $965B valuation with latest funding round, overtaking OpenAI",
-            "url": "https://thehill.com/policy/technology/5900111-anthropic-valuation-openai-race/",
+            "title": "Los Angeles mayoral race draws attention with viral moments, surprise rise of Bass challenger Pratt",
+            "url": "https://thehill.com/homenews/campaign/5900350-los-angeles-mayoral-race-pratt-bass/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Vance says military should never let AI make life-and-death decisions",
-            "url": "https://www.washingtonpost.com/politics/2026/05/28/vance-says-military-should-never-let-ai-make-life-and-death-decisions/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Michigan Democratic candidates square off in Senate debate: Key takeaways",
+            "url": "https://thehill.com/homenews/campaign/5900248-michigan-democratic-senate-debate/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "White House Launches Controversial Immigration Tracking Site",
+        "body": "The administration has unveiled a new website tracking immigrant arrests, sparking immediate debate about transparency and enforcement tactics. The site - dubbed the 'aliens' site - provides detailed information about recent immigration enforcement actions. \n\nPolitical reactions have been sharply divided, with supporters arguing for increased accountability and critics viewing the platform as potentially inflammatory. The move reflects ongoing tensions around immigration policy and enforcement strategies.",
+        "sources": [
+          {
+            "title": "White House launches ‘aliens’ site touting immigrant arrests",
+            "url": "https://thehill.com/homenews/administration/5900475-white-house-aliens-site-immigrant-arrests/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Anti-ICE agitators clash with federal agents outside New Jersey detention center as tensions escalate",
+            "url": "https://www.foxnews.com/politics/ice-clashes-agitators-intensify-outside-delaney-hall-detention-center-in-newark",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Rabid anti-Israel activists set to hit the streets tonight in Mamdani's Manhattan",
+            "url": "https://www.foxnews.com/politics/rabid-anti-israel-activists-set-hit-streets-tonight-mamdanis-manhattan",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Corruption Commission Leadership Shifts After Brereton Resignation",
-        "body": "Communications Minister Michelle Rowland signaled a reset of the National Anti-Corruption Commission following the resignation of former chief commissioner Paul Brereton. The leadership change comes amid ongoing scrutiny of the commission's operations and public expectations for transparency.\n\nAsio has simultaneously warned politicians about discussing classified information in vehicles - highlighting broader concerns about government communication security. The developments suggest potential systemic reforms in how Australian public institutions manage integrity and sensitive information.",
+        "headline": "KPMG Australia CEO Quits Amid Whistleblower Scandal",
+        "body": "Andrew Yates resigned from KPMG Australia following mounting pressure over mishandled whistleblower allegations. The departure signals deep internal turmoil at the professional services firm.\n\nYates stepped down after an investigation revealed systemic issues with how the company processed and responded to internal complaints. His exit underscores growing corporate accountability in the wake of recent governance failures.",
         "sources": [
           {
-            "title": "Australia news live: Rowland to ‘reset’ corruption commission after Brereton resigns; Asio warns politicians against classified chats in cars",
+            "title": "KPMG Australia’s CEO Andrew Yates quits over whistleblower scandal",
+            "url": "https://www.theguardian.com/business/2026/may/29/kpmg-australia-ceo-andrew-yates-quits-whistleblower-scandal-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "KPMG boss quits amid auditing scandal",
+            "url": "https://www.abc.net.au/news/2026-05-29/kpmg-boss-resigns-over-mishandled-whistleblower-allegations/106737180",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "James Valentine Mourned at Public Memorial in Sydney",
+        "body": "Friends and loyal listeners gathered to farewell ABC radio presenter James Valentine in an emotional public memorial. The event celebrated the broadcaster's life and significant contribution to Australian media.\n\nValentine was remembered as a wonderful human being who connected deeply with audiences through his warmth and wit. Tributes highlighted his decades-long impact on radio and cultural conversations.",
+        "sources": [
+          {
+            "title": "James Valentine remembered as 'wonderful human being' at public memorial",
+            "url": "https://www.abc.net.au/news/2026-05-29/james-valentine-public-memorial-sydney-friends-listeners/106737458",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Friends, loyal listeners gather for James Valentine's public memorial",
+            "url": "https://www.abc.net.au/news/2026-05-29/abc-radio-presenter-james-valentine-memorial-sydney/106736106",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Brisbane Olympic Stadium Protests Spark Arrest of Two",
+        "body": "Tensions escalated at a protest near Brisbane's Olympic stadium, resulting in two arrests. The demonstration highlights ongoing community concerns about the major infrastructure project.\n\nThe incident reflects broader debates about public investment, sporting infrastructure, and the economic impact of major events. Protesters appear to be challenging the stadium's cost and community benefit.",
+        "sources": [
+          {
+            "title": "Australia news live: entertainment elite gather to farewell James Valentine; two arrested at protest over Brisbane’s Olympic stadium",
             "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Live: AG defends immunity claim for counterterrorism documents",
-            "url": "https://www.abc.net.au/news/2026-05-29/federal-politics-live-blog-martime-strategic-fleet/106735892",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Federal Approval Sparks Controversy in Sunshine Coast Development",
-        "body": "The federal government has controversially approved a major housing development on the Sunshine Coast, drawing mixed reactions from local stakeholders. The Stockland Aura South project represents significant urban expansion in a region already experiencing complex environmental and community tensions.\n\nThe approval raises questions about balancing infrastructure growth with environmental preservation. Local community groups and environmental advocates are likely to scrutinize the decision's long-term implications for regional development and ecological sustainability.",
-        "sources": [
-          {
-            "title": "Controversial Sunshine Coast housing development gets federal approval",
-            "url": "https://www.abc.net.au/news/2026-05-29/stockland-aura-south-federal-government-approval/106731014",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Qld government to push ahead with Victoria Park demolition amid heritage challenges",
-            "url": "https://www.abc.net.au/news/2026-05-29/victoria-park-stadium-construction-heritage-challenges/106729382",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Aspiring home owner loses $36,000 deposit in failed 'modular home' project",
-            "url": "https://www.abc.net.au/news/2026-05-29/lismore-ecovillage-affordable-housing-development-stalls/106665756",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Political Figures Questioned Over Taxpayer-Funded Cruise Ship Travel",
-        "body": "Pauline Hanson and Barnaby Joyce face criticism after billing taxpayers for flights to private events on a luxury cruise ship hosted by mining magnate Gina Rinehart. The incident has reignited debates about parliamentary travel expenses and potential conflicts of interest.\n\nThe revelations prompt renewed calls for stricter oversight of political travel allowances and transparency in politicians' interactions with business leaders. Public scrutiny remains high, with opposition figures demanding detailed explanations of the travel's official purpose.",
-        "sources": [
-          {
-            "title": "Morning Mail: Hanson and Joyce’s cruise ship claims, Netanyahu’s Gaza order, Sinner wilts in Paris",
-            "url": "https://www.theguardian.com/australia-news/2026/may/29/morning-mail-friday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Hanson and Joyce bill taxpayers for flights to private events on luxury cruise ship hosted by Rinehart",
-            "url": "https://www.theguardian.com/australia-news/2026/may/28/pauline-hanson-barnaby-joyce-one-nation-bill-taxpayers-flights-private-events-gina-rinehart-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Tony Abbott to step down from Advance role when elected Liberal party federal president",
-            "url": "https://www.theguardian.com/australia-news/2026/may/28/tony-abbott-to-step-down-from-advance-role-when-elected-liberal-party-federal-president",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -122,84 +128,54 @@
     ],
     "world": [
       {
-        "headline": "US and Iran Inch Toward Fragile Truce Amid Ongoing Tensions",
-        "body": "US and Iranian officials have reached a tentative agreement to extend their current ceasefire for 60 days, with President Trump's final approval still pending. The potential deal comes amid complex diplomatic negotiations and lingering military uncertainties.\n\nRebuild of US weapons stockpiles could take years following recent conflicts, highlighting the deep structural challenges underlying the potential truce. Meanwhile, diplomatic sources suggest the agreement remains delicate - with multiple potential points of breakdown.",
+        "headline": "Mexico Moves to Nullify Election Amid Foreign Interference Claims",
+        "body": "Mexico's government has backed a controversial amendment to annul recent election results, citing significant foreign interference. The proposed legislative change signals a dramatic escalation in the country's political crisis - and could potentially trigger a constitutional showdown.\n\nThe move suggests deep concerns about external manipulation of the democratic process. Political analysts warn the amendment could set a dangerous precedent for challenging electoral outcomes, potentially undermining democratic institutions.",
         "sources": [
           {
-            "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-            "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-            "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Are US and Iran close to peace or sliding back to war?",
-            "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-            "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
+            "title": "Mexico backs amendment to annul election results over foreign interference",
+            "url": "https://www.aljazeera.com/news/2026/5/29/mexico-backs-amendment-to-annul-election-results-over-foreign-interference?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Escalates Gaza Campaign - EU Sanctions Settlers",
-        "body": "Israeli Prime Minister Netanyahu has directed military forces to seize 70 percent of the Gaza Strip, dramatically expanding territorial control. The move comes as international pressure mounts - with the European Union imposing sanctions on what it terms extremist Israeli settlers in the occupied West Bank.\n\nThe UN has additionally added Israel to a blacklist for conflict-related sexual violence, further complicating the geopolitical landscape. Civilian populations continue to bear the brunt of intensifying regional conflicts.",
+        "headline": "Israel Expands Gaza Operation - Mass Evacuations in Lebanon",
+        "body": "Israeli forces are intensifying military operations in Gaza, with Prime Minister Netanyahu ordering the army to seize 70 percent of the territory. The aggressive expansion has triggered widespread displacement and humanitarian concerns.\n\nSimultaneously, Israeli attacks are driving mass evacuations in southern Lebanon. Defiant Lebanese families are resisting displacement despite direct attacks on their homes - highlighting the escalating regional tensions and potential for broader conflict.",
         "sources": [
           {
-            "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-            "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+            "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-            "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
+            "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israel hits Lebanese capital in 'targeted strike'",
-            "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-            "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+            "title": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Record Heatwave Scorches Europe - Temperatures Shatter Records",
-        "body": "Europe is experiencing an unprecedented heatwave, with Portugal breaking its hottest May day record. Temperatures are soaring across the continent, pushing climate crisis concerns to the forefront of public discourse.\n\nMeteorologsts warn that such extreme weather events are becoming increasingly frequent. The record-breaking temperatures underscore growing challenges posed by global climate change.",
+        "headline": "Blue Origin Rocket Explodes During Florida Launch Test",
+        "body": "A Blue Origin New Glenn rocket catastrophically failed during a launch pad test in Florida, marking a significant setback for the commercial space company. The explosion occurred without reported injuries - but represents a major technical and financial blow.\n\nThe incident raises fresh questions about the reliability of private space launch technologies. Blue Origin will likely face intense scrutiny and potential delays in its ambitious space exploration plans.",
         "sources": [
           {
-            "title": "Europe hit by record-breaking heatwave",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
+            "title": "Blue Origin’s New Glenn rocket explodes on launchpad in Florida",
+            "url": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-            "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Moment Blue Origin rocket explodes during test in Florida",
+            "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
@@ -208,8 +184,56 @@
     ],
     "ai": [
       {
-        "headline": "AI Firms Raise Billions, Wrestle with Model Reliability",
-        "body": "Anthropic has secured a massive $65 billion funding round, valuing the AI company near $1 trillion ahead of its anticipated IPO. The investment comes amid growing scrutiny of large language model performance - with new research revealing persistent challenges in model accuracy and reliability.\n\nA study published today shows that language models continue to believe false statements even after being explicitly warned they are incorrect. This reliability problem emerges just as tech giants like Microsoft and Apple push to integrate more advanced AI into consumer products, highlighting the critical need for more robust and trustworthy AI systems.",
+        "headline": "Anthropic Raises $65B, Nears Trillion-Dollar Valuation",
+        "body": "Anthropic has secured a massive $65 billion funding round, positioning itself on the cusp of a $1 trillion valuation ahead of its initial public offering. The AI company - backed by major tech investors - continues to push boundaries in artificial intelligence development. Its rapid growth reflects the intense investor interest in generative AI technologies that are reshaping multiple industries.",
+        "sources": [
+          {
+            "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+            "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The internet is being rebuilt for machines",
+            "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+            "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Blue Origin's New Glenn Rocket Explodes During Test",
+        "body": "Blue Origin suffered a catastrophic failure during a static fire test of its New Glenn rocket in Florida. The explosion marks a significant setback for the space company's orbital launch ambitions. Detailed investigation will likely follow - a common process after major rocket mishaps that can reveal critical engineering insights and potential design flaws.",
+        "sources": [
+          {
+            "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+            "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+            "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Blue Origin's New Glenn blows up during static fire test",
+            "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Advances Spark Concerns About Machine Reliability",
+        "body": "New research highlights persistent challenges in AI reliability. Language models continue to demonstrate troubling tendencies - believing false statements even after explicit warnings about their inaccuracy. The findings underscore growing concerns about AI systems' ability to distinguish truth from fiction. Meanwhile, tech companies race to develop more robust and trustworthy AI technologies.",
         "sources": [
           {
             "title": "LLMs believe false statements even after explicit warnings that they're false",
@@ -218,9 +242,9 @@
             "lean": null
           },
           {
-            "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-            "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-            "source": "TechCrunch",
+            "title": "Various LLM Smells",
+            "url": "https://shvbsle.in/various-llm-smells/",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -230,47 +254,23 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Tech Developers Battle Over AI Integration and Ethics",
-        "body": "Tensions are rising in the tech development community as professionals grapple with AI's expanding role. In one dramatic incident, a frustrated developer secretly embedded a data-destroying prompt injection into code - a stark illustration of growing workplace conflicts around AI implementation.\n\nMeanwhile, industry leaders like Sam Altman and Dario Amodei are walking back previous apocalyptic predictions about AI's impact on jobs. The landscape continues to shift rapidly, with companies like Asana acquiring no-code AI agent builders and Microsoft enhancing its 365 Copilot with improved speed and design.",
-        "sources": [
-          {
-            "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-            "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Asana acquires no-code agent-builder StackAI",
-            "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-            "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-            "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Price Tumbles Below $73K as Whales Pull Back",
-        "body": "Bitcoin's price continues to slide, dropping 5.5% over five days and breaching the $73,000 support level. Whale activity has stalled, with analysts noting trading patterns eerily similar to the 2022 bear market. CryptoQuant reports weak demand, suggesting institutional investors are growing cautious.\n\nTraders are increasingly pessimistic, with many convinced the price could fall below $70,000 before month's end. ETF outflows are accelerating - BlackRock's Bitcoin ETF saw near-record withdrawals as market sentiment turns bearish.",
+        "headline": "Bitcoin Demand Dries Up - Whales Halt Accumulation",
+        "body": "Bitcoin's price stagnation continues as major holders pull back from buying. Analytics firm CryptoQuant reports a significant slowdown in whale and dolphin accumulation, signaling potential market weakness. \n\nThe cryptocurrency remains trapped under $74,000, with trading volumes suggesting a cooling market. Analysts see parallels to the 2022 bear market structure, hinting at possible further price consolidation or decline.",
         "sources": [
           {
-            "title": "Bitcoin enters cooldown phase under $75K as ‘active distribution’ rises",
-            "url": "https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin’s major holders halt buys as demand slows: CryptoQuant",
+            "url": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
+            "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
+            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -284,77 +284,29 @@
             "url": "https://decrypt.co/369378/bitcoin-whales-pulling-back-activity-mirrors-2022-bear-market",
             "source": "Decrypt",
             "lean": null
-          },
-          {
-            "title": "Bitcoin Price Falls 5.5% in 5 Days to Below 73,000 as Spot ETF Outflows Accelerate",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-73000",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Traders Increasingly Convinced Price Will Fall Below $70K by End of May",
-            "url": "https://decrypt.co/369328/bitcoin-traders-convinced-price-fall-below-70k-end-may",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K",
-            "url": "https://cointelegraph.com/news/blackrocks-bitcoin-etf-ibit-near-record-outflows-btc-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Miners Squeezed by AI Demand and Network Changes",
-        "body": "Bitcoin's mining landscape faces unprecedented challenges as artificial intelligence competes for computational resources. Fidelity researchers warn that the network is entering a new security phase, with hash rate growth flattening. Miners must adapt to increasingly complex technological and economic pressures.\n\nThe industry's dynamics are shifting rapidly. Some miners are exploring alternative strategies, including exploring yield opportunities on layer-two networks like Stacks, which now offers Bitcoin staking options.",
+        "headline": "Bitcoin Miners Confront AI-Driven Network Challenges",
+        "body": "Bitcoin's mining landscape faces unprecedented pressure from artificial intelligence technologies. Fidelity research indicates the network is entering a new security phase, with hash rate growth flattening amid increasing computational competition. \n\nThe emerging challenge suggests potential long-term shifts in Bitcoin's mining ecosystem, as technological demands and network economics evolve rapidly.",
         "sources": [
           {
             "title": "Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says",
             "url": "https://bitcoinmagazine.com/news/bitcoin-miners-face-ai-squeeze",
             "source": "Bitcoin Magazine",
             "lean": null
-          },
-          {
-            "title": "UTXO Enters Bitcoin Staking on Stacks, Targets BTC Yield",
-            "url": "https://bitcoinmagazine.com/news/utxo-enters-bitcoin-staking-on-stacks",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin bids farewell to CME futures gaps with $67K still on the radar",
-            "url": "https://cointelegraph.com/markets/bitcoin-bids-farewell-to-cme-gaps-with-67k-still-on-the-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Corporate Bitcoin Strategies Unravel as Market Volatility Continues",
-        "body": "French technology company Sequans has become the latest firm to abandon its Bitcoin treasury strategy, completely liquidating its digital asset holdings. The move signals growing corporate hesitancy toward cryptocurrency investments amid market uncertainty.\n\nJPMorgan analysts suggest the trend reflects a cooling of the debasement trade. Institutional investors are reassessing their crypto positions, with potential geopolitical developments like the U.S.-Iran negotiations adding further complexity to investment decisions.",
+        "headline": "Calamos Launches Protected Bitcoin ETF Amid Market Uncertainty",
+        "body": "Investment firm Calamos is betting on protected Bitcoin exchange-traded funds as a strategy to weather market volatility. The move signals institutional confidence in cryptocurrency investment vehicles despite current market uncertainties. \n\nThe ETF aims to provide investors with a more stable entry point into Bitcoin, potentially attracting risk-averse institutional and retail investors.",
         "sources": [
           {
-            "title": "French company abandons crypto treasury strategy, will liquidate Bitcoin holdings",
-            "url": "https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Sequans (SQNS) Completes Bitcoin Unwind, Exits Digital Asset Strategy After Less Than a Year",
-            "url": "https://bitcoinmagazine.com/news/sequans-completes-bitcoin-unwind",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Sequans completes bitcoin treasury unwind, refocuses on IoT semiconductors",
-            "url": "https://www.theblock.co/post/402883/sequans-completes-bitcoin-treasury-unwind-refocuses-iot-semiconductors?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "JPMorgan says bitcoin and gold ETF outflows point to ‘cooling’ debasement trade amid hopes for Iran-US deal",
-            "url": "https://www.theblock.co/post/402888/jpmorgan-bitcoin-gold-etf-outflows-cooling-debasement-trade-hopes-iran-us-deal?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+            "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -363,21 +315,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "Modern French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment Protocol",
-      "description": "Implement a micro-movement sequence every 30 minutes to reset spinal alignment and prevent cumulative musculoskeletal strain",
-      "tip": "Use painter's tape on your floor to mark ideal foot placement and standing desk height for consistent ergonomic positioning"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's biomechanical stress",
+      "tip": "Set a hourly timer to do 30-second standing spinal waves and shoulder blade retractions"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied decryption by cryptographers and linguists for centuries",
-      "why": "It represents one of the most intriguing unsolved puzzles in historical linguistics and cryptography, challenging our understanding of medieval knowledge transmission"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate behaviors arise from simple interactions across disciplines like biology, sociology, and computer science",
+      "why": "Understanding emergence reveals how complexity spontaneously generates from basic rules, offering profound insights into everything from ant colonies to artificial intelligence"
     }
   }
 }
