@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-05-29T22:35:29.437Z",
+  "generatedAt": "2026-05-30T05:22:50.167Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Kennedy Center Name Sparks Legal Battle",
-        "body": "A federal judge has ordered the removal of Donald Trump's name from the Kennedy Center, but the ruling comes with a crucial caveat. The judge specified that only Congress has the ultimate authority to rename the venue - leaving the final resolution uncertain.\n\nThe decision highlights ongoing tensions surrounding Trump's legacy. While NPR and Fox News reported different nuances of the ruling, both outlets confirmed the judge's intervention in the naming dispute. The ruling reflects the continued political polarization around the former president's public memorials.",
+        "headline": "Trump's Health Checked, Doctor Declares Excellent Condition",
+        "body": "Former President Donald Trump underwent a comprehensive medical examination at Walter Reed National Military Medical Center. Multiple sources, including the White House and Trump's personal physician, reported his health as excellent following the routine checkup.\n\nThe physical examination comes amid ongoing speculation about Trump's fitness for potential future political roles. Medical reports suggest no significant health concerns, providing reassurance to his supporters and political allies.",
+        "sources": [
+          {
+            "title": "Trump’s doctor says he is in ‘excellent health’ after latest checkup",
+            "url": "https://www.washingtonpost.com/politics/2026/05/30/trumps-doctor-says-his-health-is-excellent-after-walter-reed-visit/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "White House memo says Trump ‘remains in excellent health’ after physical",
+            "url": "https://thehill.com/homenews/administration/5902211-trump-physical-report-released/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Kennedy Center Name Battle: Trump Faces Judicial Removal Order",
+        "body": "A federal judge has ordered the removal of Trump's name from the Kennedy Center, sparking a complex legal and political dispute. The ruling suggests only Congress has the ultimate authority to rename the cultural institution.\n\nThe decision highlights ongoing tensions surrounding Trump's legacy and institutional associations. Multiple news sources - from NPR to Fox News - reported the judicial intervention, indicating the story's broad political significance.",
         "sources": [
           {
             "title": "Trump's name must come off of the Kennedy Center, judge rules",
@@ -34,36 +52,18 @@
         ]
       },
       {
-        "headline": "Louisiana Redraws Congressional Map After Supreme Court Ruling",
-        "body": "Louisiana lawmakers have passed a new congressional map that effectively dismantles a majority-Black district, sparking immediate controversy. The move comes directly after a Supreme Court ruling that reshaped the state's electoral landscape.\n\nCivil rights advocates argue the new map dilutes minority voting power. Republican legislators maintain the map meets legal requirements. The redistricting reflects ongoing national tensions around representation and electoral boundaries.",
+        "headline": "US Military Strikes Drug Boat, Kills Three in Pacific Operation",
+        "body": "US military forces conducted a targeted strike against a suspected drug trafficking vessel in the eastern Pacific, resulting in three fatalities. The operation, reported by The Hill, underscores ongoing efforts to disrupt maritime narcotics smuggling.\n\nSouthCom's decisive action reflects continued US commitment to interdiction strategies in international waters. The strike demonstrates military precision in confronting transnational criminal activities.",
         "sources": [
           {
-            "title": "Louisiana lawmakers pass a congressional map to dismantle a majority-Black district",
-            "url": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Louisiana Legislature passes new GOP-favored map after Supreme Court ruling",
-            "url": "https://thehill.com/homenews/5901463-louisiana-legislature-house-map-black-majority-district/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Pentagon Deal Raises Trump Conflict of Interest Questions",
-        "body": "A $9 billion Pentagon contract with Dell has triggered fresh scrutiny of potential conflicts of interest related to the Trump administration. The deal has drawn attention from political watchdogs and media outlets.\n\nWhile specifics remain unclear, the contract underscores ongoing concerns about government procurement and potential improper influence. The story reflects broader debates about transparency in federal contracting and the long-term impact of previous administration policies.",
-        "sources": [
-          {
-            "title": "Pentagon’s $9B Dell deal sparks Trump conflict of interest concerns",
-            "url": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
+            "title": "US military kills 3 in latest strike on suspected drug boat in eastern Pacific",
+            "url": "https://thehill.com/policy/defense/5902179-southcom-strikes-suspected-drug-boat/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "What lies ahead for the Republican Party after Trump?",
-            "url": "https://thehill.com/opinion/white-house/5900352-republican-party-2029-outlook/",
+            "title": "Southcom commander meets with Cuban military officials as Trump amps up pressure on island",
+            "url": "https://thehill.com/policy/defense/5902181-us-southcom-cuba-military-talks/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,54 +72,54 @@
     ],
     "au-politics": [
       {
-        "headline": "Olympic Stadium Plan Sparks Corruption Concerns in Brisbane",
-        "body": "The International Olympic Committee faces mounting pressure over Brisbane's 2032 Olympic stadium proposal. An emerging petition claims the current development plan creates a perfect storm for potential corruption - challenging the transparency of infrastructure planning.\n\nLocal activists argue the stadium project lacks sufficient public oversight. The IOC petition highlights growing community skepticism about how major sporting infrastructure contracts are awarded and managed.",
+        "headline": "Weapons Manufacturing Set to Transform Western Australia's Coal Region",
+        "body": "The West Australian government is exploring a radical economic pivot in Collie - transforming the coal mining heartland into a weapons manufacturing hub. This strategic shift aims to create new industrial opportunities as traditional fossil fuel industries decline. Local communities face potential economic reinvention, with significant implications for regional employment and infrastructure.",
         "sources": [
           {
-            "title": "'Perfect storm' for corruption: IOC petition targets Brisbane's 2032 Olympic stadium plan",
-            "url": "https://www.abc.net.au/news/2026-05-30/ioc-petition-brisbane-olympics-2032-stadium-protest/106733114",
+            "title": "Will weapons manufacturing transform WA's coal mining heartland?",
+            "url": "https://www.abc.net.au/news/2026-05-30/collie-missiles-wa-government-plan-analysis/106726962",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Should politicians be using AI-generated images?",
-            "url": "https://www.abc.net.au/news/2026-05-30/politicians-criticised-for-using-ai-generated-images/106728456",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "The ‘Pilbara killer’ and the ‘lithium triangle’",
+            "url": "https://www.spectator.com.au/2026/05/the-pilbara-killer-and-the-lithium-triangle/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       },
       {
-        "headline": "Northern Territory Health Data Reveals Delayed Diphtheria Alert",
-        "body": "Leaked health documents show Northern Territory authorities delayed public communication about a significant diphtheria case surge. The data indicates cases increased substantially a month before an official alert was issued - raising serious questions about public health communication protocols.\n\nHealth experts are calling for greater transparency and faster reporting mechanisms to protect community health and enable timely preventative measures.",
+        "headline": "Tasmania Reverses GP Service Funding Cuts After Community Pressure",
+        "body": "The Tasmanian government has backed down from controversial healthcare funding cuts, granting a one-year reprieve to local GP services. The decision follows sustained community and professional sector criticism about potential healthcare access reductions. This temporary funding restoration highlights ongoing tensions between fiscal constraints and maintaining rural medical services.",
         "sources": [
           {
-            "title": "Leaked data shows NT diphtheria cases surged a month before alert was issued",
-            "url": "https://www.abc.net.au/news/2026-05-30/leaked-nt-health-data-diphtheria-surge-month-before-public-alert/106737280",
+            "title": "Tasmanian government reverses GP service funding cuts for one year",
+            "url": "https://www.abc.net.au/news/2026-05-30/cygent-family-practice-moreton-group-funding-reprieve/106740508",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Australians are watching scrutiny of the Bondi attack through a keyhole",
-            "url": "https://www.abc.net.au/news/2026-05-30/royal-commission-antisemitism-social-cohesion-asio-police-bondi/106718554",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "‘Significant’ storm to hammer millions in WA and bring icy weather to NSW, Victoria and SA",
+            "url": "https://www.theguardian.com/australia-news/2026/may/30/western-australia-storm-to-affect-millions-icy-weather-for-nsw-victoria-sa",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Tasmania Confronts Email Leak and Political Accountability",
-        "body": "Tasmanian politician Ruth Forrest continues to seek accountability after her private email was leaked. The incident has sparked broader discussions about parliamentary privacy and professional conduct.\n\nThe Tasmanian government appears reluctant to provide a formal apology - suggesting potential tensions around transparency and political communication standards.",
+        "headline": "US Warns China Against Regional Hegemony at Asia Security Dialogue",
+        "body": "Tensions between the United States and China remain high following sharp comments at the Shangri-La Dialogue. US representatives explicitly stated they would not permit Chinese regional dominance - signaling continued strategic competition in the Asia-Pacific. The rhetoric underscores ongoing geopolitical challenges and potential flashpoints in international relations.",
         "sources": [
           {
-            "title": "Will Ruth Forrest get an apology for her leaked email?",
-            "url": "https://www.abc.net.au/news/2026-05-30/tasmanian-government-reluctant-to-apologise-to-ruth-forrest/106737064",
+            "title": "US won't let China impose 'hegemony' in Asia, Hegseth says",
+            "url": "https://www.abc.net.au/news/2026-05-30/pete-hegseth-us-will-prevent-china-hegemony-shangri-la-dialogue/106740596",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Former mayor's lawyer describes private prosecution as 'nightmare'",
-            "url": "https://www.abc.net.au/news/2026-05-30/david-penman-lays-further-charges-against-hepburn-councillor/106739350",
+            "title": "Ukraine war reaches 'a new phase', where Kyiv has the advantage",
+            "url": "https://www.abc.net.au/news/2026-05-30/drones-make-russias-key-logistics-routes-highways-to-hell/106259606",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -128,9 +128,45 @@
     ],
     "world": [
       {
-        "headline": "Trump Weighs Iran Deal as Tensions Simmer",
-        "body": "President Trump is poised to make a final determination on a potential Iran deal after high-stakes negotiations. Senior officials including J.D. Vance suggest significant progress has been made towards an agreement - though Iran denies any finalized ceasefire is imminent.\n\nThe talks represent a complex diplomatic gambit, with potential ramifications for regional stability. Trump's meeting in the Situation Room signals the gravity of potential breakthrough - or continued standoff - in US-Iran relations.",
+        "headline": "Israel Expands Lebanon Invasion - Tensions Escalate",
+        "body": "Israeli forces have crossed the Litani River in Lebanon - a significant territorial push that signals deepening regional conflict. Prime Minister Netanyahu confirmed the military advance, raising concerns about potential broader confrontation between Israel and regional actors.\n\nThe invasion has sparked growing frustration in Lebanon, with international observers warning of potential humanitarian consequences. Strategic movements suggest Israel is pursuing aggressive territorial objectives beyond its initial stated goals.",
         "sources": [
+          {
+            "title": "Frustration in Lebanon as Israel expands invasion",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+            "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Trump Navigates Complex Iran Deal Negotiations",
+        "body": "Former President Trump is attempting to broker a potential resolution with Iran - moving between diplomatic channels and high-stakes negotiations. Multiple sources indicate ongoing discussions in the Situation Room, though conflicting reports suggest no definitive agreement has been reached.\n\nIran has publicly denied that a ceasefire is finalized, adding complexity to the delicate diplomatic process. The potential framework remains uncertain, with significant geopolitical implications hanging in the balance.",
+        "sources": [
+          {
+            "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+            "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "Iran denies ceasefire deal with US is “finalised”",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
@@ -144,57 +180,45 @@
             "lean": null
           },
           {
-            "title": "Trump holds meeting to make 'final determination' on Iran deal",
-            "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
             "title": "Trump heads into Situation Room to potentially finalise Iran deal",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
-          {
-            "title": "Trump says ‘final determination’ to be made on possible Iran deal",
-            "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Vance says US, Iran have made “a lot of progress” towards deal",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Expands Military Operations into Lebanon",
-        "body": "Israeli forces have crossed the Litani River in southern Lebanon - escalating military tensions in the region. Netanyahu confirmed the strategic advance, while Israeli fighter jets simultaneously conducted strikes on a village in southern Lebanon.\n\nThe incursion represents a significant expansion of Israel's military campaign. International observers are closely monitoring the potential for broader regional conflict as cross-border operations intensify.",
+        "headline": "Global Political Tensions Simmer Across Multiple Fronts",
+        "body": "Political instability is emerging in several regions - from Romania's deepening crisis to tensions between Ukraine and Poland. Canada faces economic challenges and potential internal fractures, while South American nations like Brazil challenge US diplomatic designations.\n\nThe geopolitical landscape continues to shift, with complex diplomatic negotiations and internal political pressures creating a volatile international environment. Nations are increasingly navigating intricate political and economic challenges.",
         "sources": [
           {
-            "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+            "title": "Could Alberta trigger Canada’s Brexit moment?",
+            "url": "https://www.aljazeera.com/video/the-take-2/2026/5/29/aje-onl-can_albertareferendum_av_v2-290526?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israeli fighter jets strike village in south Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
+            "title": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
+            "url": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "UN Condemns Sexual Violence in Conflict Zones",
-        "body": "The United Nations has added Israel and Russia to its blacklist of parties accused of conflict-related sexual violence. The report highlights systematic abuses in ongoing military operations - casting a harsh spotlight on human rights violations.\n\nThe designation carries significant diplomatic weight and potential consequences for international reputation. It underscores growing global scrutiny of wartime conduct and accountability for military actors.",
-        "sources": [
+          },
           {
-            "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-            "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+            "title": "Canada sidelined in USMCA renegotiations as domestic economy dips",
+            "url": "https://www.aljazeera.com/economy/2026/5/29/canada-sidelined-in-usmca-renegotiations-as-domestic-economy-dips?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
+            "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Romania's political crisis deepens",
+            "url": "https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           }
         ]
@@ -202,32 +226,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Reshapes Tech Work: Coders Demand Assistance, Creators Clash",
-        "body": "The tech workforce is undergoing a radical transformation as developers increasingly refuse to work without AI tools. This shift signals a profound change in professional expectations - and potential risks for workers themselves.\n\nIn a parallel development, creative tensions are emerging. Amazon's plan to create an AI-animated TV show has sparked a fierce dispute with the original creator, highlighting the growing friction between technological innovation and artistic ownership.",
-        "sources": [
-          {
-            "title": "Coders are refusing to work without AI — and that could come back to bite them",
-            "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-            "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-            "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Training Goes Physical: Startups Pay for Domestic Data Collection",
-        "body": "Tech companies are getting creative in their quest for AI training data. Shift, a startup, will clean homes for free - provided they can record and document every action for robotic system training. The Verge reports similar initiatives emerging across the industry.\n\nThis approach represents a new frontier in machine learning. By capturing real-world domestic tasks, companies aim to develop more sophisticated and adaptable robotic systems that can navigate complex home environments.",
+        "headline": "AI Training Data Sparks Controversy in Tech Labor Market",
+        "body": "Tech companies are aggressively pursuing AI training data - and workers are taking notice. Startup Shift plans to clean homes for free to gather robotic training information, while other firms seek to film people performing everyday tasks. This data collection strategy highlights growing tensions around AI development and labor rights.\n\nThe trend reflects a broader shift in how companies view human labor. Workers are increasingly demanding AI assistance and compensation for their data, creating a complex negotiation around the future of work and technological innovation.",
         "sources": [
           {
             "title": "Shift will clean homes for free to train future robots",
@@ -242,16 +242,34 @@
             "lean": null
           },
           {
-            "title": "Startup offers free home cleaning—if it can record it all for robot training",
-            "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+            "title": "Coders are refusing to work without AI — and that could come back to bite them",
+            "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US Research Grants Face Potential Political Interference",
+        "body": "The White House has proposed controversial new rules that would give political appointees final approval on research grants. These regulations would allow unprecedented political control over scientific funding - potentially chilling academic and scientific research.\n\nThe proposed changes have sparked significant pushback from the scientific community. Researchers and academic institutions warn that such oversight could compromise scientific independence and potentially redirect funding based on political considerations rather than merit.",
+        "sources": [
+          {
+            "title": "WH proposes rules giving political appointees final approval on research grants",
+            "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Proposed new US funding rules: We can cancel any grant at any time",
+            "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
             "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Chip Race Heats Up: Groq Raises $650M After Nvidia Moves",
-        "body": "The artificial intelligence hardware market is seeing intense competition. Groq is reportedly raising $650 million in funding - a significant move following Nvidia's recent $20 billion strategic investment in an AI chip startup.\n\nThis funding surge underscores the massive financial stakes in developing next-generation AI computing infrastructure. Investors and tech giants are betting big on the computational technologies that will power future machine learning breakthroughs.",
+        "headline": "AI Chips and Startup Funding Heat Up Tech Investment Landscape",
+        "body": "AI chip startup Groq is reportedly raising $650 million - following Nvidia's massive $20 billion strategic investment in another AI hardware company. The funding surge underscores the intense competition and massive capital flowing into artificial intelligence infrastructure.\n\nInvestors continue to bet big on AI hardware, seeing potential for breakthrough technologies that could reshape computing and machine learning capabilities. The rapid investment cycle suggests continued confidence in AI's transformative potential across multiple industries.",
         "sources": [
           {
             "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -266,9 +284,9 @@
             "lean": null
           },
           {
-            "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-            "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-            "source": "Hacker News",
+            "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+            "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+            "source": "Wired",
             "lean": null
           }
         ]
@@ -276,72 +294,42 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin ETFs Bleed $2.8B as Institutional Interest Cools",
-        "body": "Bitcoin-based exchange traded funds are experiencing an unprecedented outflow, shedding $2.8 billion over nine consecutive days. The sustained withdrawal signals potential waning institutional appetite for the cryptocurrency. Market analysts view this trend as a critical indicator of broader investor sentiment - suggesting a possible pullback in institutional Bitcoin exposure.",
+        "headline": "Bitcoin Wallet Maker Coinkite Upgrades Security Hardware",
+        "body": "Coinkite launched its Coldcard MK5 hardware wallet, promising major user experience improvements for Bitcoin storage. The new device represents a significant upgrade in personal Bitcoin security infrastructure - a critical concern for investors protecting digital assets.\n\nHardware wallets remain a key defense against theft and hacking. Coinkite's refresh signals ongoing innovation in Bitcoin self-custody technologies, giving users more robust tools to manage their cryptocurrency independently.",
         "sources": [
           {
-            "title": "Bitcoin ETFs bleed $2.8B in record nine-day outflow streak",
-            "url": "https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak",
-            "url": "https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
-            "url": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
-            "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Texas Builds Strategic Bitcoin Reserve with State Experts",
-        "body": "Texas is assembling a dedicated Bitcoin reserve advisory committee, signaling the state's deepening commitment to cryptocurrency infrastructure. The committee includes executives from CleanSpark and other Bitcoin mining firms, suggesting a strategic approach to direct Bitcoin custody. This move indicates Texas is moving beyond traditional ETF investments toward more direct cryptocurrency management.",
-        "sources": [
-          {
-            "title": "Texas appoints CleanSpark exec, bitcoin miner CEO to Strategic Bitcoin Reserve committee",
-            "url": "https://www.theblock.co/post/403026/texas-cleanspark-exec-bitcoin-miner-ceo-strategic-bitcoin-reserve-committee?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Texas Names Bitcoin Reserve Advisory Committee as State Eyes Direct Bitcoin Custody",
-            "url": "https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee",
+            "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
+            "url": "https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet",
             "source": "Bitcoin Magazine",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Retail Investors Still Drive Market Sentiment",
+        "body": "Retail investors continue to play a crucial role in Bitcoin's market dynamics, according to Swan Bitcoin CEO. Despite institutional growth, individual investors remain a powerful force in cryptocurrency trading and price movement.\n\nThe ongoing interest suggests sustained grassroots enthusiasm for Bitcoin - even as larger financial players increasingly enter the market. Retail sentiment could signal potential price shifts and market momentum in the coming months.",
+        "sources": [
+          {
+            "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+            "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
           },
           {
-            "title": "Texas Bitcoin reserve plans shift from ETF to direct BTC custody",
-            "url": "https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
+            "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Blockchain Becomes Permanent Record for US Constitution",
-        "body": "An anonymous user has permanently inscribed the US Constitution onto the Bitcoin blockchain, creating an immutable digital record of the foundational document. This unprecedented act leverages Bitcoin's core technological strength - its ability to preserve information permanently and transparently. The inscription represents a novel intersection of historical documentation and blockchain technology.",
+        "headline": "Bitcoin ATM Scam Highlights Consumer Risks",
+        "body": "A retired couple lost $76,000 through a Bitcoin ATM scam, filing a federal lawsuit against Bitcoin Depot. The case underscores persistent risks in cryptocurrency access points and the vulnerability of less tech-savvy investors.\n\nLegal action against Bitcoin Depot could prompt broader industry scrutiny of ATM security and consumer protection practices. The lawsuit represents a growing trend of legal challenges in the cryptocurrency ecosystem.",
         "sources": [
           {
-            "title": "You Can Now Read the US Constitution via the Bitcoin Blockchain",
-            "url": "https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Someone Just Inscribed the U.S. Constitution onto the Bitcoin Blockchain",
-            "url": "https://bitcoinmagazine.com/news/someone-inscribed-the-constitution-bitcoin",
+            "title": "Retired Couple Loses $76,000 Life Savings to Bitcoin ATM Scam, Sues Bitcoin Depot in Federal Court",
+            "url": "https://bitcoinmagazine.com/news/retired-couple-sues-bitcoin-depot-in-court",
             "source": "Bitcoin Magazine",
             "lean": null
           }
@@ -351,21 +339,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Provençal Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted series of micro-stretches that realign spine and release tension from prolonged sitting",
-      "tip": "Use a doorframe to gently traction your spine by holding the sides and letting your body weight create a gentle stretch"
+      "name": "Dynamic Desk Decompression",
+      "description": "Implement a micro-movement protocol that alternates between active stretching and precise micro-adjustments to reset spinal alignment during long sedentary periods",
+      "tip": "Set a subtle hourly alarm to trigger a 90-second sequence of shoulder rolls, neck stretches, and subtle torso rotations"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy natural systems to solve complex urban challenges",
-      "why": "Reveals how nature's 3.8 billion years of evolutionary problem-solving can transform how humans design sustainable infrastructure"
+      "description": "An emerging design philosophy where city infrastructure and architecture directly mimic natural ecosystems' efficiency and resilience",
+      "why": "Understanding how nature solves complex systemic challenges could revolutionize how we conceptualize sustainable urban living and infrastructure development"
     }
   }
 }
