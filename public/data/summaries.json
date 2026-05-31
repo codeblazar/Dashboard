@@ -1,139 +1,163 @@
 {
-  "generatedAt": "2026-05-31T10:43:21.882Z",
+  "generatedAt": "2026-05-31T22:25:45.009Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Political Tensions Rise as Redistricting and Federal Worker Rules Clash",
-        "body": "The political landscape is heating up with contentious battles over federal worker policies and electoral boundaries. A proposed set of non-disclosure agreements for federal employees has sparked widespread criticism from across the political spectrum - drawing fire from both Democratic and Republican lawmakers who see the measure as potentially restricting government transparency.\n\nSimultaneously, redistricting preparations for the 2028 elections are intensifying, with both major parties positioning themselves to gain strategic advantages. The emerging conflict suggests a potentially volatile electoral environment, with each side viewing redistricting as a critical battleground for future political control.",
+        "headline": "Trump Team Shrinks as Legal Talent Exits, Midterms Loom",
+        "body": "The Trump administration faces mounting challenges in legal staffing as key lawyers depart. Multiple sources suggest a significant talent drain, with the former president characterizing the situation as a potential strategic shift.\n\nCongress returns from Memorial Day break to a complex legislative landscape. Republicans confront reconciliation bill negotiations and FISA extension challenges, highlighting internal party tensions and the difficult political terrain ahead.",
         "sources": [
           {
-            "title": "Proposed NDAs for federal workers spark diverse backlash",
-            "url": "https://thehill.com/homenews/administration/5901850-nondisclosure-agreements-federal-workers-trump-administration/",
+            "title": "Trump responds to NYT article, says it’s ‘very good’ administration is losing legal talent",
+            "url": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Redistricting battle set to escalate ahead of 2028 elections",
-            "url": "https://thehill.com/homenews/house/5901995-redistricting-war-2028-elections/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "After a Memorial Day break, Congress returns to the same problems they left behind",
+            "url": "https://www.npr.org/2026/05/31/nx-s1-5841890/after-a-memorial-day-break-congress-returns-to-the-same-problems-they-left-behind",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "GOP’s Bill Cassidy faces new decisions on bucking Trump",
-            "url": "https://thehill.com/policy/healthcare/5901986-senate-health-committee-cassidy-trump/",
+            "title": "Republicans battle déjà vu as they return to tackle reconciliation bill, FISA extension",
+            "url": "https://thehill.com/homenews/house/5901883-republicans-immigration-reconciliation-fisa/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "State Leaders Challenge Trump - Tax Proposals and Legal Battles Emerge",
-        "body": "Blue state governments are mounting novel financial challenges to Trump-related legal proceedings, proposing a 100 percent tax on potential legal settlement payouts. This aggressive fiscal strategy represents a direct political counterattack against what some Democratic leaders view as Trump's attempts to manage legal challenges.\n\nThe legal landscape remains complex. The Justice Department has requested a judge's recusal in the Georgia election case, while Trump continues to generate controversy - most recently suggesting replacing a 250th anniversary concert with a political rally after artists withdrew support.",
+        "headline": "Pence Breaks with Trump, Criticizes January 6 Narrative",
+        "body": "Mike Pence continues to distance himself from Trump's election claims, asserting that efforts to rewrite January 6 history are ongoing. He criticized Trump's anti-weaponization fund as a bad political strategy.\n\nThe rift between the former president and his ex-vice president deepens, signaling potential fractures in the Republican Party. Pence's comments suggest an ongoing struggle to define the party's post-Trump identity.",
         "sources": [
           {
-            "title": "Blue states pitch 100 percent tax on Trump’s ‘anti-weaponization’ payouts",
-            "url": "https://www.washingtonpost.com/politics/2026/05/31/blue-states-want-tax-trumps-weaponization-fund-payouts-100-percent/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Justice Department asks for judge’s recusal from Georgia election case over Fani Willis event",
-            "url": "https://thehill.com/regulation/court-battles/5902833-doj-asks-judge-recusal-georgia/",
+            "title": "Pence: There’s ‘clearly” been an effort to ‘rewrite’ Jan. 6 history",
+            "url": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump floats replacing 250th anniversary concert with massive MAGA rally after artists pull out",
-            "url": "https://www.foxnews.com/politics/trump-floats-replacing-250th-anniversary-concert-massive-maga-rally-artists-pull",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Pence calls Trump’s ‘anti-weaponization’ fund ‘a bad idea’",
+            "url": "https://thehill.com/regulation/court-battles/5903098-pence-criticizes-trump-fund/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Pence following Paxton win: GOP ‘lost our way,’ but Democrats ‘have lost their minds’",
+            "url": "https://thehill.com/homenews/campaign/5903039-pence-comments-texas-senate/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Texas Senate Race Signals Shifting Political Landscape",
+        "body": "The recent Paxton victory in Texas has sparked intense political analysis. GOP strategists suggest Trump's endorsement was a costly miscalculation, while Democrats see potential opportunities in traditionally Republican strongholds.\n\nDemocratic leaders like Beshear argue that Texas could be competitive in upcoming elections, indicating a potential realignment of state-level political dynamics.",
+        "sources": [
+          {
+            "title": "GOP strategist: Trump made a ‘$100M mistake’ backing Paxton",
+            "url": "https://thehill.com/homenews/campaign/5903264-gop-strategist-trump-made-a-100m-mistake-backing-paxton/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "‘Texas is in play’ for Democrats after Paxton win: Beshear",
+            "url": "https://thehill.com/homenews/campaign/5903223-beshear-paxton-texas-senate/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Pence following Paxton win: GOP ‘lost our way,’ but Democrats ‘have lost their minds’",
+            "url": "https://thehill.com/homenews/campaign/5903039-pence-comments-texas-senate/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Australia Shifts AUKUS Strategy, Buys Used US Submarines",
-        "body": "The Australian government has dramatically altered its submarine acquisition plan under the AUKUS partnership. Defence Minister Richard Marles confirmed Australia will purchase secondhand Virginia-class submarines from the United States - a move promising significant cost savings.\n\nThe decision marks a substantial pivot from previous plans to build new nuclear-powered submarines. Experts suggest the change reflects budgetary constraints and strategic urgency in enhancing Australia's naval capabilities. Political reactions have been mixed, with opposition figures questioning the long-term implications of the revised strategy.",
+        "headline": "One Nation Surges in Polls, Challenging Labor's Political Dominance",
+        "body": "A new poll has revealed One Nation polling ahead of Labor, signaling a potential shift in Australia's political landscape. Former deputy PM Barnaby Joyce publicly defended party leader Pauline Hanson, suggesting she has the ability to become Prime Minister.\n\nThe poll comes amid growing political volatility, with the Liberal Party separately releasing an internal discussion paper raising concerns about membership demographics and the party's appeal to women and younger voters.",
         "sources": [
           {
-            "title": "Australia scraps new Virginia-class submarines in AUKUS shake-up",
-            "url": "https://www.abc.net.au/news/2026-05-31/australia-to-buy-second-hand-united-states-submarines-aukus/106742496",
+            "title": "Australia news live: poll puts One Nation ahead of Labor; free public transport ends in Victoria",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Live: Joyce defends Hanson's record as One Nation leader, says she has 'ability' to be PM",
+            "url": "https://www.abc.net.au/news/2026-06-01/federal-politics-live-blog-june-1/106743558",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Major Aukus switch to buy only secondhand subs from US means ‘significant’ cost savings, Marles says",
-            "url": "https://www.theguardian.com/australia-news/2026/may/31/aukus-australia-to-buy-only-secondhand-virginia-class-submarines-from-us-significant-cost-savings-richard-marles",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Australia to buy only secondhand nuclear subs from US in major Aukus switch – as it happened",
-            "url": "https://www.theguardian.com/australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Brisbane Olympic Stadium Sparks Indigenous Sacred Site Controversy",
-        "body": "The Queensland government has declined to protect Victoria Park - an Indigenous sacred site - ahead of Olympic stadium construction. Multiple government applications to preserve the cultural heritage site have been rejected, drawing sharp criticism from Indigenous groups.\n\nThe decision highlights ongoing tensions between development priorities and Indigenous land rights. Activists argue the site holds significant cultural importance and should be protected, while Olympic planners emphasize the economic and infrastructural benefits of the stadium project.",
-        "sources": [
-          {
-            "title": "Government declines to protect Indigenous sacred site to be bulldozed for Brisbane Olympic stadium",
-            "url": "https://www.theguardian.com/australia-news/2026/may/31/brisbane-olympic-stadium-victoria-park-government-declines-to-protect-indigenous-sacred-site-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Applications to protect Victoria Park rejected ahead of construction of Olympic stadium",
-            "url": "https://www.abc.net.au/news/2026-05-31/victoria-park-cultural-heritage-applications-olympic-games/106740566",
+            "title": "Quietly published Liberal Party paper raises gender membership concerns",
+            "url": "https://www.abc.net.au/news/2026-06-01/liberal-party-discussion-paper-women-young-people-one-nation/106742254",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Green Party Leader Urges Combative Approach Against Populism",
-        "body": "English Green Party leader Zack Polanski has called on Australian Green colleagues to more directly confront right-wing populist movements. Speaking to Australian political circles, Polanski advocated for a strategy of emotional engagement - specifically urging the party to connect with voter anger.\n\nHis comments reflect growing progressive concerns about the rising influence of conservative political movements in Australia and internationally. The strategy suggests a more confrontational political approach, moving away from traditional measured political discourse.",
+        "headline": "Rural Healthcare Crisis Deepens with Nursing Cuts in High Country",
+        "body": "A High Country town has been left without after-hours medical care following significant nursing cuts, highlighting ongoing challenges in rural healthcare access. The situation in Swifts Creek underscores the mounting pressure on regional health services.\n\nThe staffing shortfall represents a critical issue for remote communities, where healthcare infrastructure is already stretched thin. Local residents now face potentially dangerous delays in receiving urgent medical attention.",
         "sources": [
           {
-            "title": "English Green party leader Zack Polanski tells Australian colleagues to ‘connect with anger’ to counter rightwing populism",
-            "url": "https://www.theguardian.com/australia-news/2026/may/31/australian-greens-zack-polanski-england-wales-leader-connect-with-anger-to-counter-rightwing-populism-one-nation",
+            "title": "Alarm as nursing cuts leave High Country town without after-hours care",
+            "url": "https://www.abc.net.au/news/2026-06-01/swifts-creek-bush-nursing-shortfall/106725776",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Officeworks plan to offshore white-collar jobs 'short term solution'",
+            "url": "https://www.abc.net.au/news/2026-06-01/sydney-officeworks-offshoring-jobs-cost-cutting-staff-say/106739754",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Labor Proposes HECS Debt Reform to Save Students Billions",
+        "body": "The Albanese government is considering a HECS debt indexation reform that could save university students approximately $3 billion over a decade. The proposed change involves adjusting the indexation date by five months.\n\nThe potential reform comes amid ongoing debates about the financial burden of higher education and student debt. If implemented, the change could provide significant relief for graduates struggling with mounting educational costs.",
+        "sources": [
+          {
+            "title": "Morning Mail: A Hecs debt tweak that could save billions; Israel seizes Lebanon castle; the rise of AI fashion models",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/01/morning-mail-monday-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "The exchange which proved the absurdity of Australia’s gender laws",
-            "url": "https://www.spectator.com.au/2026/05/the-exchange-which-proved-the-absurdity-of-australias-gender-laws/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Students would save $3bn over a decade if Labor changed Hecs indexation date by five months",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/01/hecs-debt-indexation-change-university-students-graduates-would-save-billions",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Why is Labor spending its political majority on this tax reform?",
+            "url": "https://www.abc.net.au/news/2026-06-01/capital-gains-tax-negative-gearing-housing-chalmers-albanese/106742204",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Global Tensions Rise: Israel Expands, Iran War Continues",
-        "body": "Israel escalated military actions in Lebanon, issuing displacement orders and seizing a strategic castle. The ongoing Iran war entered its 93rd day, with US President Trump refusing to rush negotiations and signaling tougher terms on any potential deal.\n\nMeanwhile, regional dynamics remain volatile. Lebanon has accused Israel of implementing a scorched-earth policy, while diplomatic channels struggle to find a resolution. The conflict continues to draw international attention and strain geopolitical relationships.",
+        "headline": "Nicaragua Confirms Death of Indigenous Leader in Custody",
+        "body": "Nicaraguan authorities have confirmed the death of prominent indigenous leader Brooklyn Rivera after three years of imprisonment. The circumstances surrounding his death remain unclear - a pattern of concern for human rights groups monitoring political detentions in the country.\n\nRivera was a key advocate for indigenous rights in Nicaragua's Caribbean coastal regions. His death highlights ongoing tensions between the government and indigenous communities, raising international scrutiny of the country's treatment of political prisoners and minority populations.",
         "sources": [
           {
-            "title": "Trump tightens terms on Iran war deal, US media say",
-            "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Nicaraguan indigenous leader dies after three years in prison",
+            "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-            "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
+            "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+            "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -141,41 +165,47 @@
       },
       {
         "headline": "Colombia Votes in Pivotal Presidential Election",
-        "body": "Colombians headed to the polls in a presidential election that could dramatically reshape the country's relationship with the United States. The vote represents a critical moment for regional politics and potential shifts in diplomatic and economic strategies.\n\nThe election comes at a time of significant global uncertainty, with candidates offering contrasting visions for Colombia's future. Voters face a choice that could impact international alignments and domestic policy directions.",
+        "body": "Polls closed Sunday in Colombia's high-stakes presidential election - a contest that could dramatically reshape the country's political landscape and international relations. Voters faced critical choices about economic policy, peace negotiations, and future engagement with the United States.\n\nThe election comes at a moment of significant regional tension. Candidates offered starkly different visions for Colombia's future - from continued market-oriented reforms to more progressive social policies. International observers watched closely, recognizing the potential for substantial geopolitical shifts.",
         "sources": [
           {
-            "title": "Colombia votes in presidential election that could redefine relations with US",
+            "title": "Polls close in Colombia presidential election that may reshape relations with US",
             "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Venezuela opposition candidate Gonzalez urges new elections",
-            "url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Polls open in Colombia’s pivotal presidential election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global Sports and Unrest: PSG Wins, Riots Erupt",
-        "body": "Paris Saint-Germain's Champions League victory sparked nationwide riots in France, leading to hundreds of arrests. The celebrations turned violent, with law enforcement struggling to control massive crowds across multiple cities.\n\nIn other sports news, Victor Wembanyama led the San Antonio Spurs to the NBA Finals, defeating the Oklahoma City Thunder. The young French basketball star continues to make headlines in his breakthrough season.",
+        "headline": "Israel Expands Ground Offensive into Lebanon",
+        "body": "Israeli forces have seized a castle in Lebanon - marking the largest military advance into the country in years. The operation signals escalating tensions along the volatile border region and potential for broader regional conflict.\n\nThe incursion comes amid ongoing military operations and diplomatic tensions. US congressional discussions about deepening military cooperation with Israel add another layer of complexity to the geopolitical landscape. Regional experts warn the situation could rapidly destabilize.",
         "sources": [
           {
-            "title": "Hundreds arrested in France after wild Champions League celebrations",
-            "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+            "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "France arrests hundreds of rioters nationwide as PSG win Champions League",
-            "url": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss",
+            "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
+            "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Wembanyama’s Spurs dethrone Thunder to reach NBA Finals against Knicks",
-            "url": "https://www.aljazeera.com/sports/2026/5/31/wembanyamas-spurs-dethrone-thunder-to-reach-nba-finals-against-knicks?traffic_source=rss",
+            "title": "US Congress moves to deepen military ties with Israel: Why it matters",
+            "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "The largest Israeli advance into Lebanon in years",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -184,42 +214,72 @@
     ],
     "ai": [
       {
-        "headline": "AI Assistants Evolve: Google and Meta Push Boundaries",
-        "body": "Google and Meta are aggressively expanding their AI assistant technologies. Google's Gemini Spark promises a 24/7 AI companion that delivers practical utility across work and personal domains. The system appears to move beyond previous digital assistant limitations - offering more contextual and responsive interactions.\n\nMeanwhile, Meta is developing an AI pendant - a wearable device suggesting the company wants to make artificial intelligence more physically present in daily life. These developments signal a broader tech industry push to make AI more intimate and immediately accessible.",
+        "headline": "AI Sparks Data Privacy and Workplace Transformation Debates",
+        "body": "Emerging AI technologies are reshaping workplace dynamics and raising critical privacy concerns. A TechCrunch analysis explores potential psychological risks of AI systems, while a GitHub project showcases a self-hosted AI workspace that could democratize advanced computing tools.\n\nSeparately, a new vulnerability in ChatGPT for Google Sheets highlights ongoing data security challenges. Researchers demonstrated how AI-powered tools might inadvertently enable corporate data exfiltration - a stark reminder of the complex ethical landscape surrounding artificial intelligence integration.",
         "sources": [
           {
-            "title": "Meta is reportedly developing an AI pendant",
-            "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+            "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+            "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Odysseus – self-hosted AI workspace",
+            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Making sense of the debate over AI psychosis",
+            "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-            "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+            "title": "Making sense of the debate over AI psychosis",
+            "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
             "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Giants Invest Billions in Infrastructure and AI",
-        "body": "SoftBank announced a massive €75 billion investment to build data centers in France - a strategic move signaling continued global infrastructure expansion. The investment highlights the critical role of physical computing infrastructure in supporting advanced technologies.\n\nIn another significant development, OpenRouter secured $113 million in Series B funding. The raise underscores investor confidence in AI routing and infrastructure technologies. These investments suggest a robust ecosystem preparing for continued AI growth and computational demands.",
+        "headline": "Medical Breakthroughs Offer Hope in Cancer and Cognitive Health",
+        "body": "Promising medical research is delivering new treatment possibilities for patients. A clinical trial revealed a daily pill that could potentially double survival time for pancreatic cancer patients - a significant advancement in oncology treatment.\n\nIn parallel, nutritional science is exploring cognitive health interventions. A recent study found that creatine supplements might help slow early cognitive decline, offering potential strategies for managing age-related neurological challenges.",
         "sources": [
           {
-            "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-            "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "OpenRouter raises $113M Series B",
-            "url": "https://openrouter.ai/announcements/series-b",
+            "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+            "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Accenture to acquire Ookla",
-            "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+            "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+            "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Water and Energy Innovation Tackles Global Resource Challenges",
+        "body": "Breakthrough solar desalination technology promises to generate fresh water without producing toxic brine - a potential game-changer for water-scarce regions. The innovation could significantly impact global water resource management and sustainability efforts.\n\nTechnology continues to push boundaries across multiple sectors. From advanced data streaming solutions to novel image generation techniques, researchers are developing tools that promise to reshape how we process and utilize information.",
+        "sources": [
+          {
+            "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+            "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+            "url": "https://github.com/viggy28/streambed",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+            "url": "https://prismml.com/news/bonsai-image-4b",
             "source": "Hacker News",
             "lean": null
           }
@@ -228,24 +288,42 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Sentiment Surges as Traders Eye Potential Volatility",
-        "body": "Crypto market analysts at Santiment report Bitcoin sentiment reaching its most positive ratio in 2026. The bullish mood comes amid uncertain price movements - with some analysts warning of potential downside risks around the $65,000 level.\n\nTraders are showing cautious optimism, though trading volumes remain relatively weak. Market watchers suggest the current price point represents a critical juncture for Bitcoin's near-term trajectory.",
+        "headline": "Bitcoin Targets $78K as Volatility Signals Market Maturity",
+        "body": "Bitcoin's price trajectory shows signs of stabilization - a potential turning point for the cryptocurrency. Short-term holders are defending key support levels, with analysts targeting $78,000 in the near term. Veteran investor Trace Mayer suggests the reduced price volatility signals market maturity, moving beyond the wild speculation of earlier years.",
         "sources": [
           {
-            "title": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment",
-            "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
+            "title": "Bitcoin's wild days are over — and Trace Mayer says that's a good thing",
+            "url": "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
-            "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
+            "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Michael Saylor Hints at Fresh Bitcoin Investment Strategy",
+        "body": "MicroStrategy CEO Michael Saylor continues to signal confidence in Bitcoin, teasing potential new purchases with a cryptic tweet about the asset working better. His ongoing strategic investments have positioned the company as a major institutional Bitcoin holder. Saylor's consistent bullish stance reflects a broader trend of corporate interest in cryptocurrency as a strategic asset.",
+        "sources": [
           {
-            "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
-            "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
+            "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US Economic Data Could Trigger Bitcoin Price Movement",
+        "body": "Upcoming US PMI data could significantly impact Bitcoin's price trajectory this week. The cryptocurrency is currently preparing for potential downside movement in May, with market watchers closely monitoring economic indicators. Traders are assessing how macroeconomic signals might influence Bitcoin's short-term performance and investor sentiment.",
+        "sources": [
+          {
+            "title": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price",
+            "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -255,21 +333,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "name": "Moroccan Shakshuka Ramekins",
+      "cuisine": "North African/Mediterranean",
+      "description": "Spicy poached eggs nestled in a rich tomato and bell pepper sauce, baked individually in ceramic ramekins",
+      "tip": "Use cast iron ramekins if possible for more even heat distribution and a rustic presentation"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
+      "description": "A targeted micro-routine to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Use a doorway to do gentle backward leans, pressing your lower back against the frame while keeping feet slightly forward"
     },
     "learn": {
       "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
+      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre illustrations of plants, astronomical charts, and human figures",
+      "why": "It remains one of history's most fascinating unsolved cryptographic puzzles, challenging linguists, cryptographers, and historians for centuries"
     }
   }
 }
