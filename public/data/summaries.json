@@ -1,77 +1,53 @@
 {
-  "generatedAt": "2026-05-31T05:36:39.214Z",
+  "generatedAt": "2026-05-31T10:43:21.882Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Political Tensions Flare Around America 250 Celebration",
-        "body": "The upcoming 250th anniversary of the United States is becoming a flashpoint for political conflict. Donald Trump has proposed replacing the official concert - after several artists withdrew - with a massive MAGA rally, signaling potential culture war tensions around the national celebration.\n\nSecurity preparations are heightened, with political divisions running deep. The event has become a symbolic battleground, reflecting broader national polarization around patriotism, entertainment, and political messaging.",
+        "headline": "Political Tensions Rise as Redistricting and Federal Worker Rules Clash",
+        "body": "The political landscape is heating up with contentious battles over federal worker policies and electoral boundaries. A proposed set of non-disclosure agreements for federal employees has sparked widespread criticism from across the political spectrum - drawing fire from both Democratic and Republican lawmakers who see the measure as potentially restricting government transparency.\n\nSimultaneously, redistricting preparations for the 2028 elections are intensifying, with both major parties positioning themselves to gain strategic advantages. The emerging conflict suggests a potentially volatile electoral environment, with each side viewing redistricting as a critical battleground for future political control.",
         "sources": [
+          {
+            "title": "Proposed NDAs for federal workers spark diverse backlash",
+            "url": "https://thehill.com/homenews/administration/5901850-nondisclosure-agreements-federal-workers-trump-administration/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Redistricting battle set to escalate ahead of 2028 elections",
+            "url": "https://thehill.com/homenews/house/5901995-redistricting-war-2028-elections/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "GOP’s Bill Cassidy faces new decisions on bucking Trump",
+            "url": "https://thehill.com/policy/healthcare/5901986-senate-health-committee-cassidy-trump/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "State Leaders Challenge Trump - Tax Proposals and Legal Battles Emerge",
+        "body": "Blue state governments are mounting novel financial challenges to Trump-related legal proceedings, proposing a 100 percent tax on potential legal settlement payouts. This aggressive fiscal strategy represents a direct political counterattack against what some Democratic leaders view as Trump's attempts to manage legal challenges.\n\nThe legal landscape remains complex. The Justice Department has requested a judge's recusal in the Georgia election case, while Trump continues to generate controversy - most recently suggesting replacing a 250th anniversary concert with a political rally after artists withdrew support.",
+        "sources": [
+          {
+            "title": "Blue states pitch 100 percent tax on Trump’s ‘anti-weaponization’ payouts",
+            "url": "https://www.washingtonpost.com/politics/2026/05/31/blue-states-want-tax-trumps-weaponization-fund-payouts-100-percent/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Justice Department asks for judge’s recusal from Georgia election case over Fani Willis event",
+            "url": "https://thehill.com/regulation/court-battles/5902833-doj-asks-judge-recusal-georgia/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump floats replacing 250th anniversary concert with massive MAGA rally after artists pull out",
             "url": "https://www.foxnews.com/politics/trump-floats-replacing-250th-anniversary-concert-massive-maga-rally-artists-pull",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Political tensions run high as America 250 set to take over DC",
-            "url": "https://thehill.com/homenews/administration/5901851-america-250-security-prep/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump teases ‘major speech’ after entertainers pull out of America 250 celebration",
-            "url": "https://thehill.com/homenews/administration/5902574-trump-rally-america-250/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Senate Candidate Embroiled in Personal Conduct Scandal",
-        "body": "Senate candidate Graham Platner faces serious allegations of marital infidelity. His wife has reportedly informed campaign staff that he sent explicit text messages to multiple women while married - a revelation that could significantly damage his political prospects.\n\nThe scandal highlights ongoing scrutiny of candidate personal conduct and potential ethical breaches in political campaigns. Platner's response and the campaign's strategy remain uncertain in the wake of these damaging claims.",
-        "sources": [
-          {
-            "title": "Senate candidate Graham Platner sent explicit texts to multiple women while married, wife says: report",
-            "url": "https://www.foxnews.com/politics/senate-candidate-graham-platner-sent-explicit-texts-multiple-women-while-married-wife-says",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Reports: Platner’s wife told campaign staff he sent sexual messages to other women",
-            "url": "https://thehill.com/homenews/campaign/5902674-platner-campaign-wife-messages/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Immigration Tensions Escalate in New Jersey Protests",
-        "body": "Protests at the Delaney Hall immigration facility in New Jersey have intensified, with far-left activists and ICE supporters converging in a tense standoff. The event reflects broader national divisions over immigration policy and enforcement.\n\nCongressional representatives Sherrill and Mullin have sought common ground in managing the protests, suggesting potential bipartisan approaches to managing such volatile situations.",
-        "sources": [
-          {
-            "title": "Hasan Piker defends pro-communist, anti-ICE Singham network activists as 'wonderful people'",
-            "url": "https://www.foxnews.com/politics/hasan-piker-defends-pro-communist-anti-ice-singham-network-activists-wonderful-people",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Delaney Hall protests intensify as far-left activists, ICE supporters converge in New Jersey",
-            "url": "https://www.foxnews.com/politics/delaney-hall-protests-intensify-far-left-activists-ice-supporters-converge-new-jersey",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Sherrill, Mullin find common ground on securing protests outside ICE facility in NJ",
-            "url": "https://thehill.com/homenews/5902714-sherill-mullin-immigration-protests/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Immigrant detainees sue over 'horrific' conditions at Texas ICE facility",
-            "url": "https://www.npr.org/2026/05/30/nx-s1-5841359/immigrant-detainees-sue-texas-camp-east-montana",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       }
@@ -79,10 +55,10 @@
     "au-politics": [
       {
         "headline": "Australia Shifts AUKUS Strategy, Buys Used US Submarines",
-        "body": "The Australian government has dramatically altered its submarine acquisition plan under the AUKUS partnership. Defence Minister Richard Marles announced Australia will purchase second-hand Virginia-class nuclear submarines from the United States - a significant pivot from previous plans.\n\nThe move promises substantial cost savings and faster capability development. Marles described the switch as a pragmatic solution to accelerate Australia's naval modernization, addressing previous delays in the original submarine program.",
+        "body": "The Australian government has dramatically altered its submarine acquisition plan under the AUKUS partnership. Defence Minister Richard Marles confirmed Australia will purchase secondhand Virginia-class submarines from the United States - a move promising significant cost savings.\n\nThe decision marks a substantial pivot from previous plans to build new nuclear-powered submarines. Experts suggest the change reflects budgetary constraints and strategic urgency in enhancing Australia's naval capabilities. Political reactions have been mixed, with opposition figures questioning the long-term implications of the revised strategy.",
         "sources": [
           {
-            "title": "Australia to buy three second-hand US submarines under AUKUS shake-up",
+            "title": "Australia scraps new Virginia-class submarines in AUKUS shake-up",
             "url": "https://www.abc.net.au/news/2026-05-31/australia-to-buy-second-hand-united-states-submarines-aukus/106742496",
             "source": "ABC Australia",
             "lean": "center-left"
@@ -102,39 +78,57 @@
         ]
       },
       {
-        "headline": "Destructive Storms Slam Western Australia, Thousands Lose Power",
-        "body": "Severe storms have battered Western Australia's southwest, leaving thousands of residents without electricity. The wild weather struck multiple regions including Perth, Margaret River, and Mandurah, causing widespread disruption.\n\nEmergency services worked to restore power and manage potential risks. A missing 11-year-old boy was located during the chaotic conditions, highlighting the storms' intensity and the challenges faced by local communities.",
+        "headline": "Brisbane Olympic Stadium Sparks Indigenous Sacred Site Controversy",
+        "body": "The Queensland government has declined to protect Victoria Park - an Indigenous sacred site - ahead of Olympic stadium construction. Multiple government applications to preserve the cultural heritage site have been rejected, drawing sharp criticism from Indigenous groups.\n\nThe decision highlights ongoing tensions between development priorities and Indigenous land rights. Activists argue the site holds significant cultural importance and should be protected, while Olympic planners emphasize the economic and infrastructural benefits of the stadium project.",
         "sources": [
           {
-            "title": "Thousands without power in Perth as destructive storms hit WA",
-            "url": "https://www.theguardian.com/australia-news/2026/may/31/thousands-without-power-storm-winds-perth-margaret-river-mandurah-wa-weather",
+            "title": "Government declines to protect Indigenous sacred site to be bulldozed for Brisbane Olympic stadium",
+            "url": "https://www.theguardian.com/australia-news/2026/may/31/brisbane-olympic-stadium-victoria-park-government-declines-to-protect-indigenous-sacred-site-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Thousands without power after intense storm lashes WA",
-            "url": "https://www.abc.net.au/news/2026-05-31/intense-storm-hits-wa-thousands-without-power/106741236",
+            "title": "Applications to protect Victoria Park rejected ahead of construction of Olympic stadium",
+            "url": "https://www.abc.net.au/news/2026-05-31/victoria-park-cultural-heritage-applications-olympic-games/106740566",
             "source": "ABC Australia",
             "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Green Party Leader Urges Combative Approach Against Populism",
+        "body": "English Green Party leader Zack Polanski has called on Australian Green colleagues to more directly confront right-wing populist movements. Speaking to Australian political circles, Polanski advocated for a strategy of emotional engagement - specifically urging the party to connect with voter anger.\n\nHis comments reflect growing progressive concerns about the rising influence of conservative political movements in Australia and internationally. The strategy suggests a more confrontational political approach, moving away from traditional measured political discourse.",
+        "sources": [
+          {
+            "title": "English Green party leader Zack Polanski tells Australian colleagues to ‘connect with anger’ to counter rightwing populism",
+            "url": "https://www.theguardian.com/australia-news/2026/may/31/australian-greens-zack-polanski-england-wales-leader-connect-with-anger-to-counter-rightwing-populism-one-nation",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Police find 11yo boy who went missing in wild weather in Perth",
-            "url": "https://www.abc.net.au/news/2026-05-31/norman-krakouer-missing-from-mount-claremont-found/106742128",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "The exchange which proved the absurdity of Australia’s gender laws",
+            "url": "https://www.spectator.com.au/2026/05/the-exchange-which-proved-the-absurdity-of-australias-gender-laws/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Global Conflicts Escalate: Iran, Ukraine, and Israel Tensions Rise",
-        "body": "Geopolitical tensions are simmering across multiple global hotspots. In Ukraine, the IAEA seeks access to the Zaporizhzhia nuclear plant after a reported drone strike - a potential new flashpoint in the ongoing conflict. Meanwhile, the Iran-Israel confrontation intensifies, with Lebanon accusing Israel of a scorched-earth invasion and the US-Tehran diplomatic deal hanging in precarious balance.\n\nThe situation remains volatile. Iran has reasserted control over the strategic Hormuz Strait, signaling its determination to maintain regional influence. US Congress has simultaneously advanced a military integration plan with Israel, suggesting deeper strategic alignment in the region.",
+        "headline": "Global Tensions Rise: Israel Expands, Iran War Continues",
+        "body": "Israel escalated military actions in Lebanon, issuing displacement orders and seizing a strategic castle. The ongoing Iran war entered its 93rd day, with US President Trump refusing to rush negotiations and signaling tougher terms on any potential deal.\n\nMeanwhile, regional dynamics remain volatile. Lebanon has accused Israel of implementing a scorched-earth policy, while diplomatic channels struggle to find a resolution. The conflict continues to draw international attention and strain geopolitical relationships.",
         "sources": [
           {
-            "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
-            "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Trump tightens terms on Iran war deal, US media say",
+            "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+            "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -142,64 +136,46 @@
             "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Colombia Votes in Pivotal Presidential Election",
+        "body": "Colombians headed to the polls in a presidential election that could dramatically reshape the country's relationship with the United States. The vote represents a critical moment for regional politics and potential shifts in diplomatic and economic strategies.\n\nThe election comes at a time of significant global uncertainty, with candidates offering contrasting visions for Colombia's future. Voters face a choice that could impact international alignments and domestic policy directions.",
+        "sources": [
           {
-            "title": "US Congress advances American-Israeli military integration plan",
-            "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Colombia votes in presidential election that could redefine relations with US",
+            "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Is the war in Ukraine entering a new phase?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-            "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Venezuela opposition candidate Gonzalez urges new elections",
+            "url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Humanitarian Crises Mount: Floods, Refugees, and Disease Threaten Populations",
-        "body": "Multiple humanitarian emergencies are unfolding across different regions. In Laos, emotional rescue efforts continue as survivors are pulled from a flooded cave system. Eastern Syria faces similar challenges with the Euphrates River bursting its banks, triggering widespread rescue operations.\n\nDisease remains a critical concern. The Ebola outbreak in the Democratic Republic of Congo is described as deeply alarming, with women bearing the brunt of the health crisis. In Afghanistan, a tragic refugee incident saw 22 people killed when their truck overturned - a stark reminder of ongoing displacement challenges.",
+        "headline": "Global Sports and Unrest: PSG Wins, Riots Erupt",
+        "body": "Paris Saint-Germain's Champions League victory sparked nationwide riots in France, leading to hundreds of arrests. The celebrations turned violent, with law enforcement struggling to control massive crowds across multiple cities.\n\nIn other sports news, Victor Wembanyama led the San Antonio Spurs to the NBA Finals, defeating the Oklahoma City Thunder. The young French basketball star continues to make headlines in his breakthrough season.",
         "sources": [
           {
-            "title": "Emotional scenes as more survivors pulled from flooded Laos cave",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-            "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Hundreds arrested in France after wild Champions League celebrations",
+            "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Women bear the brunt of DRC’s Ebola outbreak",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
+            "title": "France arrests hundreds of rioters nationwide as PSG win Champions League",
+            "url": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "22 killed as truck carrying refugees overturns in Afghanistan",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
+            "title": "Wembanyama’s Spurs dethrone Thunder to reach NBA Finals against Knicks",
+            "url": "https://www.aljazeera.com/sports/2026/5/31/wembanyamas-spurs-dethrone-thunder-to-reach-nba-finals-against-knicks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -208,8 +184,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Assistants Evolve: Google's Gemini Spark and Meta's Wearable Tech",
-        "body": "Google and Meta are pushing the boundaries of AI personal assistance. Gemini Spark - Google's 24/7 AI helper - is showing promising utility in early tests, with users reporting practical applications beyond simple queries. Meanwhile, Meta is developing an AI pendant - a wearable device that suggests the tech giant is betting big on ambient, always-on artificial intelligence.",
+        "headline": "AI Assistants Evolve: Google and Meta Push Boundaries",
+        "body": "Google and Meta are aggressively expanding their AI assistant technologies. Google's Gemini Spark promises a 24/7 AI companion that delivers practical utility across work and personal domains. The system appears to move beyond previous digital assistant limitations - offering more contextual and responsive interactions.\n\nMeanwhile, Meta is developing an AI pendant - a wearable device suggesting the company wants to make artificial intelligence more physically present in daily life. These developments signal a broader tech industry push to make AI more intimate and immediately accessible.",
         "sources": [
           {
             "title": "Meta is reportedly developing an AI pendant",
@@ -226,8 +202,8 @@
         ]
       },
       {
-        "headline": "Tech Funding Surge: OpenRouter Raises $113M, SoftBank Invests in French Data Centers",
-        "body": "The AI infrastructure market continues to attract massive investment. OpenRouter secured a $113 million Series B funding round - a significant vote of confidence in AI routing technologies. In a parallel move, SoftBank announced plans to invest up to €75 billion in French data centers - signaling a major commitment to European tech infrastructure and potentially positioning France as a key AI development hub.",
+        "headline": "Tech Giants Invest Billions in Infrastructure and AI",
+        "body": "SoftBank announced a massive €75 billion investment to build data centers in France - a strategic move signaling continued global infrastructure expansion. The investment highlights the critical role of physical computing infrastructure in supporting advanced technologies.\n\nIn another significant development, OpenRouter secured $113 million in Series B funding. The raise underscores investor confidence in AI routing and infrastructure technologies. These investments suggest a robust ecosystem preparing for continued AI growth and computational demands.",
         "sources": [
           {
             "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -240,22 +216,10 @@
             "url": "https://openrouter.ai/announcements/series-b",
             "source": "Hacker News",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Ethics Spotlight: Fake Influencers and Technological Skepticism Emerge",
-        "body": "Ethical concerns around AI continue to surface. Shein has been caught using AI-generated Black influencers to market products - a troubling example of synthetic representation. Simultaneously, broader technological skepticism is growing. A recent encyclical from religious leadership attacked technological messianism - highlighting increasing societal pushback against unchecked technological optimism.",
-        "sources": [
-          {
-            "title": "AI grifters are creating fake Black people to sell Shein junk",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-            "source": "The Verge",
-            "lean": null
           },
           {
-            "title": "Leo's first encyclical attacks technological messianism",
-            "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+            "title": "Accenture to acquire Ookla",
+            "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
             "source": "Hacker News",
             "lean": null
           }
@@ -264,9 +228,21 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Teeters at Critical Price Level - Analysts Warn",
-        "body": "Bitcoin faces a potential sharp correction as market analysts flag a critical support zone. Technical indicators suggest the cryptocurrency could tumble toward $65,000 if current price levels do not hold.\n\nTraders are watching key resistance and support levels closely. The market remains volatile, with significant price swings possible in the coming days as institutional and retail investors assess Bitcoin's near-term trajectory.",
+        "headline": "Bitcoin Sentiment Surges as Traders Eye Potential Volatility",
+        "body": "Crypto market analysts at Santiment report Bitcoin sentiment reaching its most positive ratio in 2026. The bullish mood comes amid uncertain price movements - with some analysts warning of potential downside risks around the $65,000 level.\n\nTraders are showing cautious optimism, though trading volumes remain relatively weak. Market watchers suggest the current price point represents a critical juncture for Bitcoin's near-term trajectory.",
         "sources": [
+          {
+            "title": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment",
+            "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
+            "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
           {
             "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
             "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -279,21 +255,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Sunrise",
-      "cuisine": "North African/Middle Eastern",
-      "description": "Spicy poached eggs nestled in a vibrant tomato and bell pepper sauce, topped with fresh herbs and crumbled feta",
-      "tip": "Use cast iron skillet for authentic even heat and deeper flavor development"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Warrior Reset",
-      "description": "Implement a dynamic 5-minute mobility sequence targeting thoracic spine and shoulder girdle to counteract prolonged sitting",
-      "tip": "Set a hourly phone alarm to trigger a quick standing wall angel stretch with deep breathing"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
     },
     "learn": {
       "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical and astronomical illustrations that have defied translation for centuries",
-      "why": "It represents one of the most fascinating unsolved cryptographic mysteries in human history, challenging linguists, cryptographers, and historians with its impenetrable secrets"
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
     }
   }
 }
