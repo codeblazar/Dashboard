@@ -1,12 +1,72 @@
 {
-  "generatedAt": "2026-06-01T05:44:02.501Z",
+  "generatedAt": "2026-06-01T12:04:39.508Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Pence Breaks with Trump, Challenges Conservative Credentials",
-        "body": "Former Vice President Mike Pence escalated his political split from Donald Trump, questioning the ex-president's commitment to conservative principles and constitutional order. In a series of statements, Pence suggested Trump's approach threatens core Republican values - a rare public rebuke from a former close ally.\n\nThe critique comes amid growing tensions within the Republican Party. Pence's comments signal a potential challenge to Trump's continued dominance, hinting at possible alternative leadership paths for conservatives seeking to redefine the party's post-Trump identity.",
+        "headline": "US Strikes Iran as Tensions Escalate in Middle East",
+        "body": "The US launched targeted military strikes against Iranian radar and drone sites, marking a significant escalation in regional tensions. The operation comes amid complex diplomatic negotiations and competing strategic interests in the Middle East.\n\nPresident Trump's administration defended the strikes as a necessary defensive action, while international observers - including French President Macron - continue to push for diplomatic resolution. The strikes have created sharp divisions within Congress, with some Republican lawmakers supporting the action and others expressing concern about potential long-term consequences.",
         "sources": [
+          {
+            "title": "US bombs radar, drone sites in Iran",
+            "url": "https://thehill.com/policy/defense/5903614-us-military-strikes-iran/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump’s Iran peace deal pits Republican vs. Republican",
+            "url": "https://thehill.com/homenews/senate/5901912-trump-iran-peace-deal-senate-republicans/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Macron says opportunity for US, Iran deal ‘must be seized now’",
+            "url": "https://thehill.com/policy/international/5903438-macron-urges-middle-east-peace/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Congressional Gridlock Threatens Trump's Legislative Agenda",
+        "body": "Republican infighting threatens to derail key legislative priorities as Congress returns from Memorial Day recess. Internal party divisions are complicating efforts to pass critical budget reconciliation and immigration measures.\n\nSenate Majority Leader Chuck Schumer has signaled Democrats will aggressively challenge Trump-backed initiatives, particularly what he calls a potential Republican slush fund. The political standoff highlights deep partisan rifts and the challenges of governing with narrow congressional majorities.",
+        "sources": [
+          {
+            "title": "Congress barrels toward deadline pile-up as GOP divisions threaten Trump agenda",
+            "url": "https://www.foxnews.com/politics/congress-barrels-toward-deadline-pile-up-gop-divisions-threaten-trump-agenda",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Schumer: Democrats to make all-out effort to kill Trump ‘slush fund’",
+            "url": "https://thehill.com/homenews/senate/5903612-chuck-schumer-vows-to-kill-donald-trump-fund/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "This week on the Hill: Reconciliation bill runs up against Republican infighting",
+            "url": "https://thehill.com/homenews/senate/5901961-reconciliation-immigration-war-powers-iran-fisa/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "After Memorial Day break, Congress returns to D.C. with long to-do list",
+            "url": "https://www.npr.org/2026/06/01/nx-s1-5839347/after-memorial-day-break-congress-returns-to-d-c-with-long-to-do-list",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "2028 Presidential Race Takes Shape Amid Political Uncertainty",
+        "body": "The emerging 2028 Democratic presidential field remains wide open, with multiple potential candidates positioning themselves for a potential run. Internal party dynamics and shifting political landscapes are creating an unpredictable primary environment.\n\nMeanwhile, ongoing tensions within the Republican Party - exemplified by Mike Pence's recent criticism of Trump's constitutional approach - suggest continued ideological struggles. The political landscape remains fluid, with potential candidates carefully navigating complex internal party dynamics.",
+        "sources": [
+          {
+            "title": "Who’s leading the wide-open 2028 Democratic presidential field?",
+            "url": "https://www.washingtonpost.com/politics/2026/06/01/whos-leading-wide-open-2028-democratic-presidential-field/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "Pence questions Trump’s conservative credentials and ‘hostility to constitutional order’",
             "url": "https://thehill.com/homenews/administration/5903490-pence-criticizes-trump-conservatism/",
@@ -14,174 +74,150 @@
             "lean": "center"
           },
           {
-            "title": "Pence: There’s ‘clearly’ been an effort to ‘rewrite’ Jan. 6 history",
-            "url": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Texas Senate Race Heats Up with Paxton's Controversial Candidacy",
-        "body": "Texas Attorney General Ken Paxton's Senate campaign faces internal Republican skepticism after a contentious primary win. GOP strategists argue Trump's endorsement was a significant miscalculation - potentially costing the party millions in campaign resources.\n\nDemocrats see an opportunity, with Kentucky Governor Andy Beshear suggesting Texas could become a competitive battleground. The race highlights ongoing tensions between Trump-aligned candidates and traditional Republican leadership, with national implications for the party's 2026 electoral strategy.",
-        "sources": [
-          {
-            "title": "Paxton set to meet with Thune after Cornyn loss",
-            "url": "https://thehill.com/homenews/campaign/5903466-texas-ag-ken-paxton-senate/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "GOP strategist: Trump made a ‘$100M mistake’ backing Paxton",
-            "url": "https://thehill.com/homenews/campaign/5903264-gop-strategist-trump-made-a-100m-mistake-backing-paxton/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "‘Texas is in play’ for Democrats after Paxton win: Beshear",
-            "url": "https://thehill.com/homenews/campaign/5903223-beshear-paxton-texas-senate/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "International Tensions Simmer: Iran, Ukraine, and Diplomatic Challenges",
-        "body": "Global diplomatic dynamics remain complex, with French President Macron urging immediate action on US-Iran negotiations. A Senate Democrat suggested Iran has emerged stronger from recent conflicts - a potentially provocative assessment of Middle Eastern geopolitics.\n\nUkrainian President Zelensky continues seeking diplomatic engagement, hoping for talks involving international figures like Witkoff and Kushner. The ongoing diplomatic maneuvering underscores the intricate balance of international relations in a rapidly shifting geopolitical landscape.",
-        "sources": [
-          {
-            "title": "Macron says opportunity for US, Iran deal ‘must be seized now’",
-            "url": "https://thehill.com/policy/international/5903438-macron-urges-middle-east-peace/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Senate Democrat: Iran is ‘stronger’ than before war",
-            "url": "https://thehill.com/policy/defense/5903260-coons-iran-stronger-war/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Zelensky says he hopes Witkoff, Kushner visit Kyiv for talks",
-            "url": "https://thehill.com/policy/international/5903091-ukraine-russia-negotiations-zelensky/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "The midterms are just months away. What message is the GOP sharing to sway voters?",
+            "url": "https://www.npr.org/2026/06/01/nx-s1-5808846/the-midterms-are-just-months-away-what-message-is-the-gop-sharing-to-sway-voters",
+            "source": "NPR",
+            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Home Buyers Gain as Property Market Cools",
-        "body": "Treasurer Jim Chalmers welcomed falling auction clearance rates as a potential relief for first-time home buyers struggling with housing affordability. The comments came amid mixed signals in the property market - with some seeing reduced competition as an opportunity, while others worry about broader economic implications.\n\nPolitical tensions emerged around the issue, with One Nation polling suggesting growing voter frustration around housing costs. The party's recent surge indicates housing remains a critical electoral battleground.",
+        "headline": "Labor Targets One Nation in Cost of Living Battle",
+        "body": "The federal Labor government has launched a strategic campaign to undermine One Nation's growing popularity by highlighting potential risks to Australian households. Party strategists aim to challenge Pauline Hanson's appeal among working-class voters by framing the minor party as a threat to economic stability.\n\nThe move signals an increasingly aggressive political approach from Labor, seeking to redirect public attention from current cost of living pressures toward what they describe as the potential dangers of populist political alternatives.",
         "sources": [
           {
-            "title": "Australia news live: Chalmers says falling auction clearance rates a ‘good thing’ for first home buyers; Abbott not ‘too excited’ by One Nation’s poll surge",
+            "title": "Labor to highlight ‘risk’ of One Nation to cost of living in bid to dent Pauline Hanson’s popularity",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/01/labor-cost-of-living-risk-one-nation-pauline-hanson-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Hastie says falling house prices might not be ‘all that encouraging’ for recent buyers – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Jim Chalmers says budget changes allowing first home buyers to ‘have a crack’",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/01/house-prices-auction-jim-chalmers-response-first-home-buyers",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Reconciliation Week Sparks Debate on Indigenous Ceremonies",
-        "body": "Welcome to Country ceremonies have come under increased scrutiny following recent controversies around national commemorations. The spotlight intensified during Reconciliation Week, with community leaders and politicians reassessing the role and meaning of these traditional acknowledgments.\n\nThe debate reflects ongoing tensions around Indigenous recognition, with some viewing the ceremonies as crucial symbolic gestures and others questioning their practical impact on reconciliation efforts.",
+        "headline": "Housing Market Tensions Rise as Prices and Policies Shift",
+        "body": "Treasurer Jim Chalmers defended recent budget changes designed to assist first home buyers, while Liberal MP Andrew Hastie warned that falling house prices could create challenges for recent property purchasers. The conflicting perspectives underscore the complex economic landscape facing Australian homeowners and potential buyers.\n\nChalmers positioned the changes as an opportunity for younger Australians to enter the property market, while conservative voices expressed concern about potential economic instability triggered by housing market fluctuations.",
         "sources": [
           {
-            "title": "Spotlight on Welcome to Country ceremonies in wake of Anzac Day controversy",
-            "url": "https://www.abc.net.au/news/2026-06-01/reconciliation-week-puts-spotlight-on-welcome-to-country/106739750",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Hastie says falling house prices might not be ‘all that encouraging’ for recent buyers – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "'I won't be a yes man': Co-chair of ACT Reconciliation council resigns",
-            "url": "https://www.abc.net.au/news/2026-06-01/act-reconciliation-council-selina-walker-resigns/106743894",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Drug Bust Highlights Ongoing Coastal Enforcement Challenges",
-        "body": "Queensland police seized $6 million worth of cocaine at a north Queensland boat ramp in a significant maritime drug interdiction. The discovery underscores ongoing challenges in preventing illegal narcotics from entering Australian markets.\n\nLaw enforcement agencies continue to invest substantial resources in coastal surveillance and interdiction operations, with this latest seizure representing a notable success in disrupting potential drug distribution networks.",
-        "sources": [
+            "title": "Jim Chalmers says budget changes allowing first home buyers to ‘have a crack’",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/01/house-prices-auction-jim-chalmers-response-first-home-buyers",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
           {
-            "title": "$6 million of cocaine found at north Queensland boat ramp",
-            "url": "https://www.abc.net.au/news/2026-06-01/police-find-40kg-illegal-drugs-at-north-queensland-boat-ramp/106745590",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Is Albo using his sinister communist tax changes to destroy the housing market? | First Dog on the Moon",
+            "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/01/is-albo-using-his-sinister-communist-tax-changes-to-destroy-the-housing-market",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Gulf Tensions Escalate: Iran-US Strikes Intensify Regional Conflict",
-        "body": "A new wave of air strikes has erupted in the Gulf, with both Iran and the United States reporting military actions. The conflict shows no signs of de-escalation, raising international alarm about potential wider regional instability.\n\nThe strikes come amid growing diplomatic tensions, with reports of missile and drone attacks targeting strategic locations. Kuwait has also reported incoming attacks, suggesting the conflict may be spreading beyond initial engagement zones.",
+        "headline": "US and Iran Trade Strikes as Regional Tensions Escalate",
+        "body": "The Middle East teeters on the brink of wider conflict as the United States and Iran exchange military blows. US forces struck Iranian radar sites after Iran launched retaliatory attacks, with Kuwait reporting missile and drone strikes on its territory. The Iranian Revolutionary Guard Corps claimed to have hit multiple US military installations - satellite imagery suggests damage to at least 20 sites since hostilities began.",
         "sources": [
           {
-            "title": "Iran and US report new wave of air strikes in Gulf",
+            "title": "US, Iran trade new attacks amid talks: Here’s what we know",
+            "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
             "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+            "title": "Iran’s IRGC launches retaliatory strike after US attacks",
+            "url": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump seeking edits to US-Iran deal, US media report",
-            "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
+            "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+            "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Myanmar Village Blast Kills Dozens in Ongoing Rebel Conflict",
-        "body": "A massive explosion in a rebel-held village in Myanmar has resulted in significant civilian casualties, highlighting the continuing violence in the region. The blast underscores the brutal nature of the ongoing internal conflict.\n\nThe incident adds to the mounting humanitarian crisis in Myanmar, where ethnic tensions and military repression continue to claim lives and destabilize communities. International observers are calling for immediate humanitarian intervention.",
+        "headline": "Israel Intensifies Attacks on Lebanon amid Hezbollah Conflict",
+        "body": "Israeli forces have dramatically escalated operations against Lebanon, bombing civilian landmarks including a renowned chef's restaurant and capturing the historic Beaufort Castle. Prime Minister Benjamin Netanyahu ordered strikes on Beirut suburbs as the conflict with Hezbollah grows more intense. Washington has proposed a de-escalation roadmap - but military actions suggest little immediate appetite for diplomatic resolution.",
         "sources": [
           {
-            "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-            "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
-            "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
+            "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+            "url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
-            "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
+            "title": "Israel bombs a beloved Lebanese landmark, chef Husen Fayad’s restaurant",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-bombs-a-beloved-lebanese-landmark-chef-husen-fayads-restaurant?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+            "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Washington proposes ‘roadmap’ for de-escalation in Lebanon: US official",
+            "url": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "US Tightens AI Chip Exports in Escalating Tech War with China",
-        "body": "The United States has expanded its ban on AI chip shipments, now applying restrictions to Chinese firms operating outside mainland China. This move represents a significant escalation in the ongoing technological and economic competition between the two nations.\n\nThe export controls aim to limit China's access to advanced semiconductor technology, potentially disrupting global supply chains and intensifying geopolitical tensions. Tech industry analysts warn of potential retaliatory measures from Beijing.",
+        "headline": "France Seizes Russian Oil Tanker with UK Backing",
+        "body": "French naval forces intercepted a sanctioned Russian oil tanker with support from the United Kingdom. President Emmanuel Macron confirmed the seizure - a bold move that escalates economic pressure on Russia amid ongoing international tensions. The operation signals continued Western resolve to enforce maritime sanctions against Russian maritime assets.",
         "sources": [
           {
-            "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
-            "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china?traffic_source=rss",
+            "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+            "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "French Navy seizes Russian oil tanker",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
-            "url": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Sheinbaum accuses US of ‘interference’ amid probe of Mexican officials",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/sheinbaum-accuses-us-of-interference-amid-probe-of-mexican-officials?traffic_source=rss",
+            "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+            "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -190,19 +226,19 @@
     ],
     "ai": [
       {
-        "headline": "AI Data Security Breaches Spark Corporate Alarm",
-        "body": "A series of cybersecurity incidents revealed critical vulnerabilities in enterprise AI systems. A ChatGPT plugin for Google Sheets demonstrated potential data exfiltration risks - allowing unauthorized access to sensitive workbook information. Separately, Erin Brockovich launched an investigation into data center transparency, highlighting growing concerns about corporate data management practices.\n\nThe incidents underscore the fragile security landscape surrounding AI technologies. Companies must rapidly develop robust protection strategies or risk significant operational and reputational damage.",
+        "headline": "AI Solves 80-Year Math Problem, Sparks Philosophical Debate",
+        "body": "OpenAI's latest model cracked a decades-old mathematical challenge that had stumped human researchers. The breakthrough highlights artificial intelligence's growing capacity to solve complex problems across disciplines - and raises deeper questions about machine intelligence.\n\nBeyond the technical achievement, researchers are grappling with the philosophical implications. Some argue that large language models are approaching a form of quasi-religious belief system, blurring lines between computational problem-solving and more abstract forms of reasoning.",
         "sources": [
           {
-            "title": "Erin Brockovich takes aim at data center secrecy",
-            "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-            "source": "TechCrunch",
+            "title": "LLMs Are Closer to Religion Than They Appear",
+            "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+            "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-            "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-            "source": "Hacker News",
+            "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+            "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
@@ -214,19 +250,25 @@
         ]
       },
       {
-        "headline": "Meta Launches Subscription Model Across Social Platforms",
-        "body": "Meta announced paid subscription tiers for Instagram, Facebook, and WhatsApp - signaling a major shift in its monetization strategy. The move suggests the company is seeking alternative revenue streams beyond traditional advertising.\n\nIndustry analysts view this as a potential response to declining ad revenues and increasing user privacy demands. The subscriptions may include enhanced AI-powered features, though specific details remain limited.",
+        "headline": "Nvidia Pushes AI Capabilities to Personal Computing Frontier",
+        "body": "Nvidia unveiled a new AI chip designed for personal computers, signaling a major push to bring advanced machine learning capabilities directly to consumer hardware. The announcement suggests a future where sophisticated AI tools become standard on home and work devices.\n\nThis development comes amid rapid technological evolution, with companies racing to make AI more accessible and powerful. Personal computing is transforming - no longer just about processing power, but about intelligent, adaptive systems that can solve complex problems.",
         "sources": [
           {
-            "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-            "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+            "title": "Nvidia announces new AI chip for personal computers",
+            "url": "https://www.bbc.com/news/articles/crmp9mppvzro",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Making sense of the debate over AI psychosis",
-            "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-            "source": "TechCrunch",
+            "title": "A 10 year old Xeon is all you need",
+            "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+            "url": "https://prismml.com/news/bonsai-image-4b",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -234,9 +276,21 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Bleeds as ETF Investors Jump Ship",
-        "body": "Bitcoin suffered another sharp downturn Monday as spot ETF investors pulled record amounts of capital from funds. The cryptocurrency slid lower while broader equity markets - particularly AI-driven tech stocks - continued their upward trajectory.\n\nThe outflow signals growing investor uncertainty. Wall Street's current AI enthusiasm appears to be drawing capital away from Bitcoin, challenging the digital asset's recent narrative of institutional adoption.",
+        "headline": "Bitcoin ETF Bleeds Billions as Investor Confidence Wavers",
+        "body": "Bitcoin spot ETFs have hemorrhaged nearly $3 billion in the past 10 days, signaling growing investor uncertainty. Outflows hit a record level, reflecting a sharp pullback in institutional interest that could further pressure Bitcoin's price trajectory.\n\nThe exodus comes as broader market dynamics shift. Software stocks are showing signs of decoupling from Bitcoin's performance, suggesting potential volatility ahead for the cryptocurrency's investment landscape.",
         "sources": [
+          {
+            "title": "Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative",
+            "url": "https://decrypt.co/369583/bitcoin-etf-losses-near-3b-across-10-days-as-ytd-flows-turn-negative",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin and software stocks are breaking up — and history says a major crypto move is coming",
+            "url": "https://www.coindesk.com/markets/2026/06/01/software-stocks-break-from-bitcoin-as-igv-stages-powerful-recovery",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
             "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
@@ -246,13 +300,25 @@
         ]
       },
       {
-        "headline": "Michael Saylor Hints at Potential MicroStrategy Bitcoin Purchase",
-        "body": "MicroStrategy CEO Michael Saylor signaled potential further Bitcoin acquisition with a cryptic tweet suggesting the cryptocurrency is performing well. Saylor - a vocal Bitcoin maximalist - has consistently advocated for corporate Bitcoin investment and has led his company's aggressive purchasing strategy.\n\nHis comments come amid market volatility, potentially telegraphing MicroStrategy's continued confidence in Bitcoin as a long-term treasury asset despite current price fluctuations.",
+        "headline": "Bitcoin Slides into June amid Market Turbulence",
+        "body": "Bitcoin started June trading in the red, extending its recent downward trend. The cryptocurrency continues to face headwinds from macroeconomic factors and shifting investor sentiment.\n\nWall Street's current focus on AI-driven stocks appears to be drawing capital away from Bitcoin, compounding the asset's recent price challenges. Futures markets hint at underlying risk appetite that may yet influence Bitcoin's near-term performance.",
         "sources": [
           {
-            "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
-            "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+            "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week",
+            "url": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
+            "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
+            "source": "CoinDesk",
             "lean": null
           }
         ]
@@ -261,21 +327,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Miso Butter Corn Risotto",
+      "cuisine": "Japanese-Italian Fusion",
+      "description": "Creamy risotto with sweet summer corn, umami-rich miso, and a hint of charred kernels",
+      "tip": "Toast the corn kernels in a dry skillet before adding to intensify their sweetness"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's loading points every 20 minutes to prevent static muscle tension",
-      "tip": "Use painter's tape on your floor to mark ideal foot placement and alternate between standing and sitting positions"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-stretch sequence to reset spinal alignment and release tension from prolonged sitting",
+      "tip": "Use a doorway as a support to gently traction your spine by holding the door frame and letting your body weight create a gentle stretch"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
-      "why": "Understanding how termite mounds regulate temperature or how forest ecosystems distribute resources can revolutionize how we design human environments"
+      "topic": "The Fermi Paradox",
+      "description": "A scientific puzzle exploring why, given the vast number of potentially habitable planets, we haven't detected signs of extraterrestrial intelligence",
+      "why": "It challenges our understanding of cosmic probability, evolution, and our potential cosmic loneliness in a way that expands philosophical and scientific imagination"
     }
   }
 }
