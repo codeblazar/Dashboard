@@ -1,60 +1,36 @@
 {
-  "generatedAt": "2026-05-31T22:25:45.009Z",
+  "generatedAt": "2026-06-01T05:44:02.501Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Team Shrinks as Legal Talent Exits, Midterms Loom",
-        "body": "The Trump administration faces mounting challenges in legal staffing as key lawyers depart. Multiple sources suggest a significant talent drain, with the former president characterizing the situation as a potential strategic shift.\n\nCongress returns from Memorial Day break to a complex legislative landscape. Republicans confront reconciliation bill negotiations and FISA extension challenges, highlighting internal party tensions and the difficult political terrain ahead.",
+        "headline": "Pence Breaks with Trump, Challenges Conservative Credentials",
+        "body": "Former Vice President Mike Pence escalated his political split from Donald Trump, questioning the ex-president's commitment to conservative principles and constitutional order. In a series of statements, Pence suggested Trump's approach threatens core Republican values - a rare public rebuke from a former close ally.\n\nThe critique comes amid growing tensions within the Republican Party. Pence's comments signal a potential challenge to Trump's continued dominance, hinting at possible alternative leadership paths for conservatives seeking to redefine the party's post-Trump identity.",
         "sources": [
           {
-            "title": "Trump responds to NYT article, says it’s ‘very good’ administration is losing legal talent",
-            "url": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
+            "title": "Pence questions Trump’s conservative credentials and ‘hostility to constitutional order’",
+            "url": "https://thehill.com/homenews/administration/5903490-pence-criticizes-trump-conservatism/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "After a Memorial Day break, Congress returns to the same problems they left behind",
-            "url": "https://www.npr.org/2026/05/31/nx-s1-5841890/after-a-memorial-day-break-congress-returns-to-the-same-problems-they-left-behind",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Republicans battle déjà vu as they return to tackle reconciliation bill, FISA extension",
-            "url": "https://thehill.com/homenews/house/5901883-republicans-immigration-reconciliation-fisa/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Pence Breaks with Trump, Criticizes January 6 Narrative",
-        "body": "Mike Pence continues to distance himself from Trump's election claims, asserting that efforts to rewrite January 6 history are ongoing. He criticized Trump's anti-weaponization fund as a bad political strategy.\n\nThe rift between the former president and his ex-vice president deepens, signaling potential fractures in the Republican Party. Pence's comments suggest an ongoing struggle to define the party's post-Trump identity.",
-        "sources": [
-          {
-            "title": "Pence: There’s ‘clearly” been an effort to ‘rewrite’ Jan. 6 history",
+            "title": "Pence: There’s ‘clearly’ been an effort to ‘rewrite’ Jan. 6 history",
             "url": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Pence calls Trump’s ‘anti-weaponization’ fund ‘a bad idea’",
-            "url": "https://thehill.com/regulation/court-battles/5903098-pence-criticizes-trump-fund/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Pence following Paxton win: GOP ‘lost our way,’ but Democrats ‘have lost their minds’",
-            "url": "https://thehill.com/homenews/campaign/5903039-pence-comments-texas-senate/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Texas Senate Race Signals Shifting Political Landscape",
-        "body": "The recent Paxton victory in Texas has sparked intense political analysis. GOP strategists suggest Trump's endorsement was a costly miscalculation, while Democrats see potential opportunities in traditionally Republican strongholds.\n\nDemocratic leaders like Beshear argue that Texas could be competitive in upcoming elections, indicating a potential realignment of state-level political dynamics.",
+        "headline": "Texas Senate Race Heats Up with Paxton's Controversial Candidacy",
+        "body": "Texas Attorney General Ken Paxton's Senate campaign faces internal Republican skepticism after a contentious primary win. GOP strategists argue Trump's endorsement was a significant miscalculation - potentially costing the party millions in campaign resources.\n\nDemocrats see an opportunity, with Kentucky Governor Andy Beshear suggesting Texas could become a competitive battleground. The race highlights ongoing tensions between Trump-aligned candidates and traditional Republican leadership, with national implications for the party's 2026 electoral strategy.",
         "sources": [
+          {
+            "title": "Paxton set to meet with Thune after Cornyn loss",
+            "url": "https://thehill.com/homenews/campaign/5903466-texas-ag-ken-paxton-senate/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "GOP strategist: Trump made a ‘$100M mistake’ backing Paxton",
             "url": "https://thehill.com/homenews/campaign/5903264-gop-strategist-trump-made-a-100m-mistake-backing-paxton/",
@@ -66,10 +42,28 @@
             "url": "https://thehill.com/homenews/campaign/5903223-beshear-paxton-texas-senate/",
             "source": "The Hill",
             "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "International Tensions Simmer: Iran, Ukraine, and Diplomatic Challenges",
+        "body": "Global diplomatic dynamics remain complex, with French President Macron urging immediate action on US-Iran negotiations. A Senate Democrat suggested Iran has emerged stronger from recent conflicts - a potentially provocative assessment of Middle Eastern geopolitics.\n\nUkrainian President Zelensky continues seeking diplomatic engagement, hoping for talks involving international figures like Witkoff and Kushner. The ongoing diplomatic maneuvering underscores the intricate balance of international relations in a rapidly shifting geopolitical landscape.",
+        "sources": [
+          {
+            "title": "Macron says opportunity for US, Iran deal ‘must be seized now’",
+            "url": "https://thehill.com/policy/international/5903438-macron-urges-middle-east-peace/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Pence following Paxton win: GOP ‘lost our way,’ but Democrats ‘have lost their minds’",
-            "url": "https://thehill.com/homenews/campaign/5903039-pence-comments-texas-senate/",
+            "title": "Senate Democrat: Iran is ‘stronger’ than before war",
+            "url": "https://thehill.com/policy/defense/5903260-coons-iran-stronger-war/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Zelensky says he hopes Witkoff, Kushner visit Kyiv for talks",
+            "url": "https://thehill.com/policy/international/5903091-ukraine-russia-negotiations-zelensky/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -78,66 +72,42 @@
     ],
     "au-politics": [
       {
-        "headline": "One Nation Surges in Polls, Challenging Labor's Political Dominance",
-        "body": "A new poll has revealed One Nation polling ahead of Labor, signaling a potential shift in Australia's political landscape. Former deputy PM Barnaby Joyce publicly defended party leader Pauline Hanson, suggesting she has the ability to become Prime Minister.\n\nThe poll comes amid growing political volatility, with the Liberal Party separately releasing an internal discussion paper raising concerns about membership demographics and the party's appeal to women and younger voters.",
+        "headline": "Home Buyers Gain as Property Market Cools",
+        "body": "Treasurer Jim Chalmers welcomed falling auction clearance rates as a potential relief for first-time home buyers struggling with housing affordability. The comments came amid mixed signals in the property market - with some seeing reduced competition as an opportunity, while others worry about broader economic implications.\n\nPolitical tensions emerged around the issue, with One Nation polling suggesting growing voter frustration around housing costs. The party's recent surge indicates housing remains a critical electoral battleground.",
         "sources": [
           {
-            "title": "Australia news live: poll puts One Nation ahead of Labor; free public transport ends in Victoria",
+            "title": "Australia news live: Chalmers says falling auction clearance rates a ‘good thing’ for first home buyers; Abbott not ‘too excited’ by One Nation’s poll surge",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese",
             "source": "Guardian AU",
             "lean": "left"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Reconciliation Week Sparks Debate on Indigenous Ceremonies",
+        "body": "Welcome to Country ceremonies have come under increased scrutiny following recent controversies around national commemorations. The spotlight intensified during Reconciliation Week, with community leaders and politicians reassessing the role and meaning of these traditional acknowledgments.\n\nThe debate reflects ongoing tensions around Indigenous recognition, with some viewing the ceremonies as crucial symbolic gestures and others questioning their practical impact on reconciliation efforts.",
+        "sources": [
           {
-            "title": "Live: Joyce defends Hanson's record as One Nation leader, says she has 'ability' to be PM",
-            "url": "https://www.abc.net.au/news/2026-06-01/federal-politics-live-blog-june-1/106743558",
+            "title": "Spotlight on Welcome to Country ceremonies in wake of Anzac Day controversy",
+            "url": "https://www.abc.net.au/news/2026-06-01/reconciliation-week-puts-spotlight-on-welcome-to-country/106739750",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Quietly published Liberal Party paper raises gender membership concerns",
-            "url": "https://www.abc.net.au/news/2026-06-01/liberal-party-discussion-paper-women-young-people-one-nation/106742254",
+            "title": "'I won't be a yes man': Co-chair of ACT Reconciliation council resigns",
+            "url": "https://www.abc.net.au/news/2026-06-01/act-reconciliation-council-selina-walker-resigns/106743894",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Rural Healthcare Crisis Deepens with Nursing Cuts in High Country",
-        "body": "A High Country town has been left without after-hours medical care following significant nursing cuts, highlighting ongoing challenges in rural healthcare access. The situation in Swifts Creek underscores the mounting pressure on regional health services.\n\nThe staffing shortfall represents a critical issue for remote communities, where healthcare infrastructure is already stretched thin. Local residents now face potentially dangerous delays in receiving urgent medical attention.",
+        "headline": "Drug Bust Highlights Ongoing Coastal Enforcement Challenges",
+        "body": "Queensland police seized $6 million worth of cocaine at a north Queensland boat ramp in a significant maritime drug interdiction. The discovery underscores ongoing challenges in preventing illegal narcotics from entering Australian markets.\n\nLaw enforcement agencies continue to invest substantial resources in coastal surveillance and interdiction operations, with this latest seizure representing a notable success in disrupting potential drug distribution networks.",
         "sources": [
           {
-            "title": "Alarm as nursing cuts leave High Country town without after-hours care",
-            "url": "https://www.abc.net.au/news/2026-06-01/swifts-creek-bush-nursing-shortfall/106725776",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Officeworks plan to offshore white-collar jobs 'short term solution'",
-            "url": "https://www.abc.net.au/news/2026-06-01/sydney-officeworks-offshoring-jobs-cost-cutting-staff-say/106739754",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Labor Proposes HECS Debt Reform to Save Students Billions",
-        "body": "The Albanese government is considering a HECS debt indexation reform that could save university students approximately $3 billion over a decade. The proposed change involves adjusting the indexation date by five months.\n\nThe potential reform comes amid ongoing debates about the financial burden of higher education and student debt. If implemented, the change could provide significant relief for graduates struggling with mounting educational costs.",
-        "sources": [
-          {
-            "title": "Morning Mail: A Hecs debt tweak that could save billions; Israel seizes Lebanon castle; the rise of AI fashion models",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/01/morning-mail-monday-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Students would save $3bn over a decade if Labor changed Hecs indexation date by five months",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/01/hecs-debt-indexation-change-university-students-graduates-would-save-billions",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Why is Labor spending its political majority on this tax reform?",
-            "url": "https://www.abc.net.au/news/2026-06-01/capital-gains-tax-negative-gearing-housing-chalmers-albanese/106742204",
+            "title": "$6 million of cocaine found at north Queensland boat ramp",
+            "url": "https://www.abc.net.au/news/2026-06-01/police-find-40kg-illegal-drugs-at-north-queensland-boat-ramp/106745590",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,12 +116,36 @@
     ],
     "world": [
       {
-        "headline": "Nicaragua Confirms Death of Indigenous Leader in Custody",
-        "body": "Nicaraguan authorities have confirmed the death of prominent indigenous leader Brooklyn Rivera after three years of imprisonment. The circumstances surrounding his death remain unclear - a pattern of concern for human rights groups monitoring political detentions in the country.\n\nRivera was a key advocate for indigenous rights in Nicaragua's Caribbean coastal regions. His death highlights ongoing tensions between the government and indigenous communities, raising international scrutiny of the country's treatment of political prisoners and minority populations.",
+        "headline": "Gulf Tensions Escalate: Iran-US Strikes Intensify Regional Conflict",
+        "body": "A new wave of air strikes has erupted in the Gulf, with both Iran and the United States reporting military actions. The conflict shows no signs of de-escalation, raising international alarm about potential wider regional instability.\n\nThe strikes come amid growing diplomatic tensions, with reports of missile and drone attacks targeting strategic locations. Kuwait has also reported incoming attacks, suggesting the conflict may be spreading beyond initial engagement zones.",
         "sources": [
           {
-            "title": "Nicaraguan indigenous leader dies after three years in prison",
-            "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Iran and US report new wave of air strikes in Gulf",
+            "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump seeking edits to US-Iran deal, US media report",
+            "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar Village Blast Kills Dozens in Ongoing Rebel Conflict",
+        "body": "A massive explosion in a rebel-held village in Myanmar has resulted in significant civilian casualties, highlighting the continuing violence in the region. The blast underscores the brutal nature of the ongoing internal conflict.\n\nThe incident adds to the mounting humanitarian crisis in Myanmar, where ethnic tensions and military repression continue to claim lives and destabilize communities. International observers are calling for immediate humanitarian intervention.",
+        "sources": [
+          {
+            "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+            "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
@@ -160,52 +154,34 @@
             "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Colombia Votes in Pivotal Presidential Election",
-        "body": "Polls closed Sunday in Colombia's high-stakes presidential election - a contest that could dramatically reshape the country's political landscape and international relations. Voters faced critical choices about economic policy, peace negotiations, and future engagement with the United States.\n\nThe election comes at a moment of significant regional tension. Candidates offered starkly different visions for Colombia's future - from continued market-oriented reforms to more progressive social policies. International observers watched closely, recognizing the potential for substantial geopolitical shifts.",
-        "sources": [
-          {
-            "title": "Polls close in Colombia presidential election that may reshape relations with US",
-            "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
           },
           {
-            "title": "Polls open in Colombia’s pivotal presidential election",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
+            "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+            "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Expands Ground Offensive into Lebanon",
-        "body": "Israeli forces have seized a castle in Lebanon - marking the largest military advance into the country in years. The operation signals escalating tensions along the volatile border region and potential for broader regional conflict.\n\nThe incursion comes amid ongoing military operations and diplomatic tensions. US congressional discussions about deepening military cooperation with Israel add another layer of complexity to the geopolitical landscape. Regional experts warn the situation could rapidly destabilize.",
+        "headline": "US Tightens AI Chip Exports in Escalating Tech War with China",
+        "body": "The United States has expanded its ban on AI chip shipments, now applying restrictions to Chinese firms operating outside mainland China. This move represents a significant escalation in the ongoing technological and economic competition between the two nations.\n\nThe export controls aim to limit China's access to advanced semiconductor technology, potentially disrupting global supply chains and intensifying geopolitical tensions. Tech industry analysts warn of potential retaliatory measures from Beijing.",
         "sources": [
           {
-            "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-            "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-            "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
+            "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
+            "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US Congress moves to deepen military ties with Israel: Why it matters",
-            "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+            "title": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
+            "url": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "The largest Israeli advance into Lebanon in years",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
+            "title": "Sheinbaum accuses US of ‘interference’ amid probe of Mexican officials",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/sheinbaum-accuses-us-of-interference-amid-probe-of-mexican-officials?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -214,28 +190,22 @@
     ],
     "ai": [
       {
-        "headline": "AI Sparks Data Privacy and Workplace Transformation Debates",
-        "body": "Emerging AI technologies are reshaping workplace dynamics and raising critical privacy concerns. A TechCrunch analysis explores potential psychological risks of AI systems, while a GitHub project showcases a self-hosted AI workspace that could democratize advanced computing tools.\n\nSeparately, a new vulnerability in ChatGPT for Google Sheets highlights ongoing data security challenges. Researchers demonstrated how AI-powered tools might inadvertently enable corporate data exfiltration - a stark reminder of the complex ethical landscape surrounding artificial intelligence integration.",
+        "headline": "AI Data Security Breaches Spark Corporate Alarm",
+        "body": "A series of cybersecurity incidents revealed critical vulnerabilities in enterprise AI systems. A ChatGPT plugin for Google Sheets demonstrated potential data exfiltration risks - allowing unauthorized access to sensitive workbook information. Separately, Erin Brockovich launched an investigation into data center transparency, highlighting growing concerns about corporate data management practices.\n\nThe incidents underscore the fragile security landscape surrounding AI technologies. Companies must rapidly develop robust protection strategies or risk significant operational and reputational damage.",
         "sources": [
           {
-            "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+            "title": "Erin Brockovich takes aim at data center secrecy",
+            "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "ChatGPT for Google Sheets exfiltrates workbooks",
             "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Odysseus – self-hosted AI workspace",
-            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Making sense of the debate over AI psychosis",
-            "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
             "title": "Making sense of the debate over AI psychosis",
             "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
             "source": "TechCrunch",
@@ -244,43 +214,19 @@
         ]
       },
       {
-        "headline": "Medical Breakthroughs Offer Hope in Cancer and Cognitive Health",
-        "body": "Promising medical research is delivering new treatment possibilities for patients. A clinical trial revealed a daily pill that could potentially double survival time for pancreatic cancer patients - a significant advancement in oncology treatment.\n\nIn parallel, nutritional science is exploring cognitive health interventions. A recent study found that creatine supplements might help slow early cognitive decline, offering potential strategies for managing age-related neurological challenges.",
+        "headline": "Meta Launches Subscription Model Across Social Platforms",
+        "body": "Meta announced paid subscription tiers for Instagram, Facebook, and WhatsApp - signaling a major shift in its monetization strategy. The move suggests the company is seeking alternative revenue streams beyond traditional advertising.\n\nIndustry analysts view this as a potential response to declining ad revenues and increasing user privacy demands. The subscriptions may include enhanced AI-powered features, though specific details remain limited.",
         "sources": [
           {
-            "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-            "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+            "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+            "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-            "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Water and Energy Innovation Tackles Global Resource Challenges",
-        "body": "Breakthrough solar desalination technology promises to generate fresh water without producing toxic brine - a potential game-changer for water-scarce regions. The innovation could significantly impact global water resource management and sustainability efforts.\n\nTechnology continues to push boundaries across multiple sectors. From advanced data streaming solutions to novel image generation techniques, researchers are developing tools that promise to reshape how we process and utilize information.",
-        "sources": [
-          {
-            "title": "New solar desalination breakthrough makes fresh water without toxic brine",
-            "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
-            "url": "https://github.com/viggy28/streambed",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-            "url": "https://prismml.com/news/bonsai-image-4b",
-            "source": "Hacker News",
+            "title": "Making sense of the debate over AI psychosis",
+            "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -288,42 +234,24 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Targets $78K as Volatility Signals Market Maturity",
-        "body": "Bitcoin's price trajectory shows signs of stabilization - a potential turning point for the cryptocurrency. Short-term holders are defending key support levels, with analysts targeting $78,000 in the near term. Veteran investor Trace Mayer suggests the reduced price volatility signals market maturity, moving beyond the wild speculation of earlier years.",
+        "headline": "Bitcoin Bleeds as ETF Investors Jump Ship",
+        "body": "Bitcoin suffered another sharp downturn Monday as spot ETF investors pulled record amounts of capital from funds. The cryptocurrency slid lower while broader equity markets - particularly AI-driven tech stocks - continued their upward trajectory.\n\nThe outflow signals growing investor uncertainty. Wall Street's current AI enthusiasm appears to be drawing capital away from Bitcoin, challenging the digital asset's recent narrative of institutional adoption.",
         "sources": [
           {
-            "title": "Bitcoin's wild days are over — and Trace Mayer says that's a good thing",
-            "url": "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness",
+            "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
+            "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Michael Saylor Hints at Fresh Bitcoin Investment Strategy",
-        "body": "MicroStrategy CEO Michael Saylor continues to signal confidence in Bitcoin, teasing potential new purchases with a cryptic tweet about the asset working better. His ongoing strategic investments have positioned the company as a major institutional Bitcoin holder. Saylor's consistent bullish stance reflects a broader trend of corporate interest in cryptocurrency as a strategic asset.",
+        "headline": "Michael Saylor Hints at Potential MicroStrategy Bitcoin Purchase",
+        "body": "MicroStrategy CEO Michael Saylor signaled potential further Bitcoin acquisition with a cryptic tweet suggesting the cryptocurrency is performing well. Saylor - a vocal Bitcoin maximalist - has consistently advocated for corporate Bitcoin investment and has led his company's aggressive purchasing strategy.\n\nHis comments come amid market volatility, potentially telegraphing MicroStrategy's continued confidence in Bitcoin as a long-term treasury asset despite current price fluctuations.",
         "sources": [
           {
             "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
             "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Economic Data Could Trigger Bitcoin Price Movement",
-        "body": "Upcoming US PMI data could significantly impact Bitcoin's price trajectory this week. The cryptocurrency is currently preparing for potential downside movement in May, with market watchers closely monitoring economic indicators. Traders are assessing how macroeconomic signals might influence Bitcoin's short-term performance and investor sentiment.",
-        "sources": [
-          {
-            "title": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price",
-            "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -333,21 +261,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Shakshuka Ramekins",
-      "cuisine": "North African/Mediterranean",
-      "description": "Spicy poached eggs nestled in a rich tomato and bell pepper sauce, baked individually in ceramic ramekins",
-      "tip": "Use cast iron ramekins if possible for more even heat distribution and a rustic presentation"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-routine to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Use a doorway to do gentle backward leans, pressing your lower back against the frame while keeping feet slightly forward"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body's loading points every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and alternate between standing and sitting positions"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre illustrations of plants, astronomical charts, and human figures",
-      "why": "It remains one of history's most fascinating unsolved cryptographic puzzles, challenging linguists, cryptographers, and historians for centuries"
+      "topic": "Biomimicry in Urban Design",
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Understanding how termite mounds regulate temperature or how forest ecosystems distribute resources can revolutionize how we design human environments"
     }
   }
 }
