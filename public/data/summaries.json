@@ -1,105 +1,81 @@
 {
-  "generatedAt": "2026-06-02T22:46:23.258Z",
+  "generatedAt": "2026-06-03T05:44:32.537Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Taps Controversial Figure for Intelligence Leadership",
-        "body": "Former President Trump has nominated Bill Pulte as acting intelligence chief, a move drawing sharp reactions across the political spectrum. Pulte - a social media entrepreneur with limited government experience - represents another unconventional appointment by Trump.\n\nThe selection comes amid ongoing tensions about intelligence leadership and political appointments. While Trump allies praise the choice as bringing fresh perspective, critics argue Pulte lacks the traditional national security background typically required for such a sensitive role.",
+        "headline": "Supreme Court Backs Alabama GOP Map, Sparks Partisan Battle",
+        "body": "The Supreme Court has allowed Alabama Republicans to use their contested congressional map for upcoming midterms, a decision that intensifies national redistricting debates. Conservative justices sided with the GOP-drawn map, which Democrats argue dilutes minority voting power.\n\nThe ruling could have far-reaching implications for electoral representation. Civil rights groups have consistently challenged the map as potentially discriminatory, but the court's conservative majority appears willing to give state legislatures broad latitude in drawing district boundaries.",
         "sources": [
           {
-            "title": "Who is Bill Pulte, Trump’s pick for new intel chief",
-            "url": "https://thehill.com/homenews/administration/5906680-trump-names-pulte-acting-intel-chief/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Supreme Court allows Alabama GOP-backed congressional map for midterms",
+            "url": "https://www.foxnews.com/politics/supreme-court-allows-alabama-gop-backed-congressional-map-midterms",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "The DOJ won't move ahead with anti-weaponization fund, acting AG Todd Blanche says",
-            "url": "https://www.npr.org/2026/06/02/nx-s1-5844681/the-doj-wont-move-ahead-with-anti-weaponization-fund-acting-ag-todd-blanche-says",
+            "title": "Supreme Court reinstates Republican-favored Alabama congressional districts",
+            "url": "https://www.npr.org/2026/06/02/nx-s1-5844744/supreme-court-alabama-congressional-districts",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Acting AG Blanche reveals fate of Trump's 'anti-weaponization fund' under pressure from House lawmakers",
-            "url": "https://www.foxnews.com/politics/acting-ag-blanche-reveals-fate-trumps-anti-weaponization-fund-under-pressure-from-house-lawmakers",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Supreme Court clears way for Alabama Republicans to use congressional map for midterms",
+            "url": "https://thehill.com/regulation/court-battles/5907001-supreme-court-alabama-redistricting/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Primaries Test Political Landscape in Multiple States",
-        "body": "Voters in California, Iowa, New Mexico, and other states head to polls today for crucial primary elections. High-profile races include New Mexico's gubernatorial contest featuring Biden administration official Deb Haaland and California's crowded governor's primary.\n\nThese elections will provide early indicators of voter sentiment and potential shifts in political momentum. Candidates from both major parties are competing in Senate, House, and state-level races that could signal broader national trends heading into the midterm election cycle.",
+        "headline": "Primary Battles Heat Up in Iowa, New Mexico, and California",
+        "body": "Multiple states saw significant primary contests that could reshape political landscapes. In Iowa, Zach Lahn secured a surprising GOP gubernatorial primary victory, defeating a Trump-endorsed candidate. New Mexico saw Deb Haaland winning the Democratic gubernatorial primary.\n\nCalifornia's primary remains complex, with vote counting expected to take days or even weeks. Key races for governor and local offices are still developing, reflecting the ongoing dynamism in state-level political competitions.",
         "sources": [
           {
-            "title": "New Mexico governor primary includes Biden official Deb Haaland. See live results.",
+            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
             "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "California’s crowded governor primary is underway. See live results here.",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Trump-endorsed Feenstra concedes to MAHA-backed Lahn in GOP governor primary upset",
+            "url": "https://www.foxnews.com/politics/trump-endorsed-feenstra-concedes-maha-backed-lahn-gop-governor-primary-upset",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
-            "title": "Live results: New Mexico Senate primaries",
-            "url": "https://thehill.com/homenews/campaign/5897893-live-results-new-mexico-senate-primaries/",
+            "title": "Gregg Hull wins New Mexico GOP gubernatorial primary, setting up bid to flip governor’s office",
+            "url": "https://www.foxnews.com/politics/gregg-hull-wins-new-mexico-gop-gubernatorial-primary-setting-up-bid-flip-governors-office",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Iowa voters pick their nominees for competitive general elections",
+            "url": "https://www.npr.org/2026/06/02/g-s1-125550/iowa-election-results-josh-turek-zach-lahn",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Lahn, Sand poised for head-to-head matchup for Iowa governor",
+            "url": "https://thehill.com/homenews/campaign/5906068-zach-lahn-rob-sand-iowa-governor/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Live results: South Dakota governor’s primary elections",
-            "url": "https://thehill.com/homenews/campaign/5897902-live-results-south-dakota-governors-primary-elections/",
+            "title": "Haaland wins Democratic primary in New Mexico’s governor race",
+            "url": "https://thehill.com/homenews/campaign/5905885-haaland-new-mexico-governor-race/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Live results: Iowa Senate primaries",
-            "url": "https://thehill.com/homenews/campaign/5897873-live-results-iowa-senate-primaries/",
+            "title": "California primary vote count could take days or even weeks — Here’s why",
+            "url": "https://thehill.com/homenews/campaign/5906565-vote-counting-process-california/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Live results: California House primaries",
-            "url": "https://thehill.com/homenews/campaign/5897866-live-results-california-house-primaries/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Live results: Iowa gubernatorial primary elections",
-            "url": "https://thehill.com/homenews/campaign/5897870-live-results-iowa-gubernatorial-primary-elections/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Pentagon and Defense Policies Draw Controversial Attention",
-        "body": "The Pentagon faces scrutiny after hiring a convicted January 6 rioter for a counterterrorism position - a decision sparking bipartisan criticism. Meanwhile, Democratic senators are pushing for AI guardrails in military applications through the National Defense Authorization Act.\n\nAdditional defense-related tensions emerged with reports of a US fighter jet striking an Iranian oil tanker and Senator Rubio challenging global health funding related to Ebola response. These developments highlight ongoing complexities in national security policy.",
-        "sources": [
-          {
-            "title": "Pentagon hires convicted Jan. 6 rioter for counterterrorism post",
-            "url": "https://thehill.com/policy/defense/5906798-pentagon-appointment-jan-6-special-operations/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "US fighter jet struck and disabled an oil tanker headed for Iran’s Kharg Island",
-            "url": "https://thehill.com/policy/defense/5906785-iran-oil-export-terminal/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Rubio spars with Democrats over Ebola outbreak, global health cuts",
-            "url": "https://thehill.com/homenews/administration/5906723-trump-cuts-ebola-response/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Democratic senators push for AI guardrails on military in NDAA",
-            "url": "https://thehill.com/policy/defense/5906615-ai-military-guardrails-senate/",
+            "title": "Live updates: California, Iowa head to primary polls; Blanche confirms White House won’t resurrect anti-weaponization fund",
+            "url": "https://thehill.com/homenews/administration/5904025-live-updates-trump-iran-iowa-california-primary/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -108,122 +84,104 @@
     ],
     "au-politics": [
       {
-        "headline": "Abortion Debate Heats Up as NSW Vote Approaches",
-        "body": "Tensions are rising ahead of a contentious abortion vote in New South Wales. Barnaby Joyce, speaking at a Sydney event, criticized what he called perverse logic around reproductive rights - drawing sharp responses from pro-choice advocates.\n\nThe debate intensified with government ministers stating there is no evidence of sex selection in current abortion practices. Political lines are clearly drawn, with passionate arguments emerging from both sides of the ideological divide.",
+        "headline": "Political Tensions Rise as PM Attacks Opposition Tactics",
+        "body": "Prime Minister Anthony Albanese escalated parliamentary rhetoric Wednesday, labeling the Coalition the Liberal One National party and targeting Opposition figures with pointed personal remarks. During question time, Angus Taylor faced sharp criticism, with Albanese coining the term Temu-Abbott - a provocative blend referencing past and present political figures.\n\nThe day saw further drama with Christian Hastie being ejected from question time, highlighting ongoing tensions between government and opposition benches. These exchanges reflect deepening political divisions as parliamentary dynamics continue to intensify.",
         "sources": [
           {
-            "title": "'Perverse logic' over abortion, Barnaby Joyce tells Sydney crowd",
-            "url": "https://www.abc.net.au/news/2026-06-03/one-nation-barnaby-joyce-sydney-abortion-demonstration/106752420",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Australia politics live: PM calls Coalition ‘Liberal One National party’ and Taylor ‘Temu-Abbott’ as Hastie booted from question time",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Politics live: minister says ‘no evidence’ of sex selection in NSW ahead of contentious abortion vote; national accounts due today",
-            "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
+            "title": "How grassroots organisations are combatting One Nation’s rise in western Sydney – video",
+            "url": "https://www.theguardian.com/australia-news/video/2026/jun/03/one-nation-pauline-hanson-rise-sydney-grassroots-organisations-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Canberra Liberals Fracture as Leader Exits Over 'Toxic Culture'",
-        "body": "The Canberra Liberals are facing internal turmoil after a senior party member dramatically quit, citing deep-seated cultural problems. Leanne Castley's departure highlights ongoing challenges within the party's organizational structure.\n\nHer exit signals potential broader discontent and could trigger a significant internal review of party practices and leadership approach. The move adds to existing pressures on the regional political organization.",
+        "headline": "Regional Media Under Pressure as News Services Shrink",
+        "body": "Australian regional journalism faces significant challenges after cuts to news services, with NBN News experiencing substantial reductions that could impact local information networks. The cuts represent a potential crisis for rural and regional media access - a critical communication lifeline for many communities.\n\nThe developments underscore broader concerns about media diversity and information accessibility in non-metropolitan areas. Grassroots organizations are increasingly stepping in to fill potential information gaps left by traditional media retreats.",
         "sources": [
           {
-            "title": "Breaking: Former Canberra Liberals leader leaves party citing 'toxic culture'",
-            "url": "https://www.abc.net.au/news/2026-06-03/leanne-castley-announcement-canberra-liberals/106752552",
+            "title": "News bulletin cuts  'canary in the coal mine' for regional journalism",
+            "url": "https://www.abc.net.au/news/2026-06-03/cuts-to-nbn-news-set-to-impact-regional-journalism-in-nsw/106753294",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "How grassroots organisations are combatting One Nation’s rise in western Sydney – video",
+            "url": "https://www.theguardian.com/australia-news/video/2026/jun/03/one-nation-pauline-hanson-rise-sydney-grassroots-organisations-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Regional Doctor Shortage Reaches Critical Point in WA",
-        "body": "Western Australia's regional healthcare is under severe strain after Kalbarri lost its only general practitioner - a stark illustration of mounting medical workforce challenges. The town's situation epitomizes a growing crisis in rural medical service delivery.\n\nThe GP shortage threatens community health and highlights systemic issues in recruiting and retaining medical professionals in remote areas. Local residents now face significant barriers to accessing basic healthcare services.",
+        "headline": "Extreme Weather Warning: El Niño Set to Intensify",
+        "body": "Meteorological experts predict an El Niño event will develop in coming months, signaling potentially severe climate conditions for eastern Australia. The forecast suggests hotter and drier weather patterns that could significantly impact agricultural and environmental sectors.\n\nThe Bureau of Meteorology's warning highlights growing climate volatility and potential challenges for farmers, water resources, and bushfire management. Communities are advised to prepare for potentially challenging environmental conditions in the months ahead.",
         "sources": [
           {
-            "title": "Regional town loses only GP and adds to critical shortage across WA",
-            "url": "https://www.abc.net.au/news/2026-06-03/kalbarri-loses-only-gp-critical-doctor-shortage-wa/106750164",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Russia Launches Major Overnight Attack on Ukraine",
-        "body": "Russian forces unleashed a massive bombardment across Ukraine overnight - the largest assault in months. Multiple cities reported significant missile and drone strikes targeting critical infrastructure and military positions. Ukrainian officials confirmed heavy damage in several regions, particularly around Kyiv and eastern frontline zones.\n\nThe attack signals a potential escalation in the ongoing conflict. Residents in targeted areas described scenes of destruction and chaos, with residential buildings and civilian infrastructure bearing the brunt of the strikes.",
+        "headline": "US and Iran Escalate Attacks as War Enters Fourth Month",
+        "body": "The Iran-US conflict has intensified, with both sides launching new strikes across strategic locations. The United States targeted Iran's Qeshm Island, while Tehran responded by firing missiles toward Kuwait and Bahrain - raising regional tensions to a dangerous new level.\n\nCeasefire negotiations remain stalled, suggesting a prolonged and increasingly volatile confrontation. Regional powers are watching nervously as missile exchanges threaten to draw more countries into the conflict, with Kuwait already experiencing missile flyovers and potential infrastructure risks.",
         "sources": [
           {
-            "title": "Russia launches massive overnight attack on Ukraine",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
+            "title": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+            "url": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-            "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US-Israel Tensions Simmer as Trump Confronts Netanyahu",
-        "body": "Rumors of a heated exchange between former President Trump and Israeli Prime Minister Netanyahu have sparked speculation about deepening rifts in US-Israel relations. Reports suggest Trump berated Netanyahu over recent military actions and diplomatic strategies - though analysts remain skeptical about the precise details.\n\nThe potential diplomatic friction comes amid ongoing tensions in the Middle East, with Israel continuing military operations in Gaza and southern Lebanon. Trump's reported intervention adds another layer of complexity to an already volatile geopolitical landscape.",
-        "sources": [
-          {
-            "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-            "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
-            "url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-            "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli settlers torch Palestinian homes in village near Ramallah",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "What Trump ‘telling off’ means for Netanyahu",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Targets Iran-Bound Oil Tanker in Escalating Maritime Tensions",
-        "body": "The United States military fired a missile at an Iran-bound oil tanker in a provocative maritime action that signals heightened regional tensions. This incident follows ongoing diplomatic and military pressures between the US and Iran, with recent statements suggesting increased engagement by Iran's new supreme leader.\n\nThe missile strike represents a direct and aggressive intervention in maritime shipping routes, potentially escalating the already fraught relationship between Washington and Tehran. US officials have not provided extensive details about the specific circumstances of the targeting.",
-        "sources": [
-          {
-            "title": "US says it fired missile at Iran-bound oil tanker",
+            "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
             "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+            "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-            "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
+            "title": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine Endures Massive Russian Overnight Assault on Kyiv",
+        "body": "Russian forces launched a significant overnight attack against Ukraine, forcing Kyiv residents to seek shelter and bracing for potential widespread damage. The assault represents another escalation in the ongoing conflict, with civilian populations once again bearing the brunt of military aggression.\n\nPutin's strategy remains uncompromising, though internal Russian discourse about the war may be subtly shifting. The continued attacks suggest no immediate resolution is in sight for the prolonged military engagement.",
+        "sources": [
+          {
+            "title": "Kyiv residents seek shelter during renewed Russian attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kyiv-residents-seek-shelter-during-renewed-russian-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+            "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Russia launches massive overnight attack on Ukraine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -232,8 +190,32 @@
     ],
     "ai": [
       {
-        "headline": "Microsoft Unveils AI Agents and Advanced Reasoning Model",
-        "body": "Microsoft launched several AI innovations at Build 2026, signaling a major push into intelligent agent technology. The company introduced Scout - an autonomous AI assistant built on OpenClaw that promises to function as a persistent digital coworker. Alongside Scout, Microsoft revealed MAI-Thinking-1, its first advanced reasoning AI model that could reshape how complex problems are approached.\n\nThe tech giant also released a new developer tool allowing teams to test and control AI agent behaviors using simple text descriptions. These announcements suggest Microsoft is positioning itself at the forefront of next-generation AI interaction and reasoning capabilities.",
+        "headline": "AI Disrupts Law and Tech - Professors Lose Ground",
+        "body": "Stanford researchers revealed AI systems now outperform law professors in complex legal analysis - a watershed moment for professional knowledge work. The study suggests machine learning models can parse legal documents and generate insights with greater speed and accuracy than human experts.\n\nThis breakthrough signals a broader transformation across knowledge industries. As AI capabilities expand, traditional professional roles face unprecedented challenges - from legal analysis to research and beyond.",
+        "sources": [
+          {
+            "title": "AI outperforms law professors in Stanford Law study",
+            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+            "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+            "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Microsoft Unveils Advanced AI Reasoning Model at Build 2026",
+        "body": "Microsoft launched its first advanced reasoning AI model at Build 2026 - a potential game-changer in artificial intelligence capabilities. The MAI-Code-1-Flash represents a significant leap in machine comprehension and problem-solving skills.\n\nThe company also introduced a novel tool allowing developers to generate AI behavior tests using simple text descriptions. These developments suggest Microsoft is aggressively positioning itself at the forefront of AI innovation - challenging competitors with sophisticated reasoning technologies.",
         "sources": [
           {
             "title": "Microsoft Build 2026: The 7 biggest announcements",
@@ -248,51 +230,27 @@
             "lean": null
           },
           {
-            "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-            "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
             "title": "Microsoft’s first advanced reasoning AI is here",
             "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-            "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-            "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Microsoft offers devs a better way to control AI agent behavior",
-            "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-            "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-            "source": "Wired",
+            "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+            "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Privacy Battles Heat Up with Lawsuits and Regulation",
-        "body": "Tech companies face mounting legal and regulatory pressure over AI and privacy practices. Amazon-owned Ring is confronting a lawsuit demanding compensation for facial scanning, while Google announced new protections against AI-powered phone scam impersonations. Meanwhile, the Trump administration signed an executive order requiring AI model reviews before public release.\n\nThese developments highlight growing tensions between technological innovation and individual privacy rights. Mathematicians and other professionals are also raising alarms about AI's potential to disrupt established industries and professional practices.",
+        "headline": "Washington Moves to Regulate AI Development and Deployment",
+        "body": "The Trump administration issued an executive order mandating comprehensive reviews of AI models before public release - signaling heightened federal scrutiny of technological development. This unprecedented intervention reflects growing concerns about AI's societal implications.\n\nConcurrently, industry players are grappling with AI's transformative potential. Uber has already capped employee AI spending after exhausting its budget in just four months - highlighting both the technology's rapid adoption and significant resource demands.",
         "sources": [
           {
-            "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-            "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-            "source": "Ars Technica",
+            "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+            "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
@@ -300,74 +258,62 @@
             "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
             "source": "The Verge",
             "lean": null
-          },
-          {
-            "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-            "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-            "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-            "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-            "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-            "source": "TechCrunch",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $69K as Institutional Investors Retreat",
-        "body": "Bitcoin suffered a sharp selloff Tuesday, dropping below $69,000 and marking its lowest point in two months. Institutional outflows and softening demand drove the decline - a 13% weekly drop that has traders turning bearish.\n\nKey players are making strategic moves amid the downturn. Strategy, a major Bitcoin holder, sold significant BTC holdings, while Strive countered by adding 2,500 Bitcoin to its treasury. The volatility signals ongoing uncertainty in institutional cryptocurrency investment strategies.",
+        "headline": "Bitcoin Tumbles Below $66K as Investors Flee to AI Stocks",
+        "body": "Bitcoin suffered a sharp selloff on Wednesday, dropping below $66,000 amid a broader market shift toward high-flying AI equities. The cryptocurrency's price plunge accelerated a move into digital dollars, signaling investor uncertainty. Market analysts at K33 predict a choppy summer ahead as capital continues to chase more volatile tech investments.\n\nThe dramatic price movement underscores Bitcoin's ongoing volatility. Despite its massive computational power - reportedly dwarfing the top 100 supercomputers by 600,000 times - the digital asset remains vulnerable to rapid market sentiment shifts.",
         "sources": [
           {
-            "title": "Bitcoin Traders Flip Bearish as BTC Falls to Lowest Price in Months",
-            "url": "https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months",
-            "source": "Decrypt",
+            "title": "Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin Price Crashes to $67,000 Range, Down 13% in a Week Amid ETF Outflows and Market Fears",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-67000-range",
-            "source": "Bitcoin Magazine",
+            "title": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "‘Materially softer demand’: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest",
-            "url": "https://www.theblock.co/post/403356/materially-softer-demand-bitcoin-hits-two-month-low-below-69000-amid-institutional-outflow-streak-fading-onchain-interest?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
+            "url": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells",
-            "url": "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Strive added 2,500 bitcoin last week to reach 19,000 BTC as Strategy sold",
-            "url": "https://www.coindesk.com/markets/2026/06/02/strive-adds-2-500-bitcoin-to-hit-19-000-btc-just-a-day-after-strategy-turns-seller",
+            "title": "Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says",
+            "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
+        "headline": "Quantum Threat Looms as Bitcoin Faces Potential Technological Disruption",
+        "body": "Microsoft's breakthrough in quantum computing has raised fresh concerns about Bitcoin's long-term technological security. The tech giant revealed a quantum chip claimed to be 1,000 times more reliable, potentially threatening Bitcoin's cryptographic foundations. This development comes at a critical moment for the cryptocurrency.\n\nThe quantum computing advancement represents a significant potential challenge to Bitcoin's blockchain security. While the immediate impact remains uncertain, the technological arms race between quantum computing and cryptocurrency encryption continues to intensify.",
+        "sources": [
+          {
+            "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
+            "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise",
+            "url": "https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
         "headline": "Political Pressure Mounts Against Bitcoin 401(k) Investment Options",
-        "body": "Democratic senators Bernie Sanders and Elizabeth Warren are pushing the Labor Department to abandon proposed rules allowing Bitcoin investments in retirement accounts. Their coordinated effort targets what they view as a risky financial instrument for worker savings.\n\nThe political challenge could significantly impact Bitcoin's mainstream financial integration. By targeting 401(k) regulations, the senators aim to limit cryptocurrency's penetration into traditional retirement investment vehicles.",
+        "body": "Democratic senators Bernie Sanders and Elizabeth Warren are pushing the Labor Department to abandon proposed rules allowing Bitcoin in 401(k) retirement plans. Their aggressive stance signals continued political skepticism toward cryptocurrency investments. The move could significantly impact institutional adoption of Bitcoin.\n\nThe political pressure comes as some major investment firms show mixed signals about Bitcoin. While Strategy recently sold Bitcoin holdings, other firms like Strive are doubling down with substantial investment offerings.",
         "sources": [
           {
             "title": "Democrats Sanders and Warren Push Labor Department to Abandon Bitcoin 401(k) Rule",
@@ -380,35 +326,11 @@
             "url": "https://decrypt.co/369773/bernie-sanders-elizabeth-warren-labor-dept-drop-bitcoin-crypto-401k-plan",
             "source": "Decrypt",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin's Future Value Could Hit $224K on Sovereign Debt Fears",
-        "body": "Bitwise Asset Management suggests Bitcoin could reach a $224,000 fair value if global sovereign debt concerns deepen. The projection comes as Bitcoin faces what some analysts describe as an ongoing identity crisis in financial markets.\n\nThe forecast highlights Bitcoin's potential as an alternative asset during economic uncertainty. Despite current price volatility, long-term institutional interest remains - with firms like Charles Schwab targeting Bitcoin trading platforms by mid-2027.",
-        "sources": [
-          {
-            "title": "Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise",
-            "url": "https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
           },
           {
-            "title": "Charles Schwab Sets Mid-2027 Target for Advisor Bitcoin and Crypto Spot Trading",
-            "url": "https://bitcoinmagazine.com/news/charles-schwab-sets-mid-2027-target",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin faces an 'identity crisis' and DeFi devs need to stop acting like tech bros",
-            "url": "https://www.coindesk.com/business/2026/06/02/bitcoin-faces-identity-crisis-as-defi-quietly-builds-its-breakthrough-point",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "How to better understand bitcoin’s perpetual identity crisis",
-            "url": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
-            "source": "CoinDesk",
+            "title": "As Strategy Sells Bitcoin, Strive Doubles Down With $4.2 Billion Offering",
+            "url": "https://decrypt.co/369724/strategy-sells-bitcoin-strive-doubles-down-4-2-billion-offering",
+            "source": "Decrypt",
             "lean": null
           }
         ]
@@ -417,21 +339,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Moroccan Spiced Lamb Tagine",
-      "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
-      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted series of micro-movements to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Use a doorframe as a reference point for shoulder blade retraction and gentle spinal extension"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body's position every 20 minutes to prevent muscular stagnation and maintain spinal fluidity",
+      "tip": "Use a small sticky note at eye level as a reminder to consciously reset your posture and engage core muscles"
     },
     "learn": {
-      "topic": "The Fermi Paradox",
-      "description": "A scientific puzzle exploring why, given the vast number of potentially habitable planets, we haven't detected signs of extraterrestrial intelligence",
-      "why": "It challenges our understanding of cosmic probability, evolution, and humanity's potential place in the universe"
+      "topic": "Biomimicry in Urban Design",
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
+      "why": "Understanding how nature solves complex design challenges can revolutionize how we think about sustainable urban development and solve critical environmental problems"
     }
   }
 }
