@@ -1,35 +1,53 @@
 {
-  "generatedAt": "2026-06-03T05:44:32.537Z",
+  "generatedAt": "2026-06-03T11:42:25.399Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Supreme Court Backs Alabama GOP Map, Sparks Partisan Battle",
-        "body": "The Supreme Court has allowed Alabama Republicans to use their contested congressional map for upcoming midterms, a decision that intensifies national redistricting debates. Conservative justices sided with the GOP-drawn map, which Democrats argue dilutes minority voting power.\n\nThe ruling could have far-reaching implications for electoral representation. Civil rights groups have consistently challenged the map as potentially discriminatory, but the court's conservative majority appears willing to give state legislatures broad latitude in drawing district boundaries.",
+        "headline": "California Governor's Race Tightens in Crowded Primary Battle",
+        "body": "California's gubernatorial primary remains undecided as several candidates vie for the top two spots. Alex Padilla Becerra and Katherine Hilton currently lead in early returns, with votes still being counted across the state. The top-two primary system means the two highest vote-getters - regardless of party - will advance to the general election.\n\nThe race reflects California's complex political landscape. Multiple candidates from different political backgrounds are competing, highlighting the state's shifting political dynamics and the continued importance of California's electoral process.",
         "sources": [
           {
-            "title": "Supreme Court allows Alabama GOP-backed congressional map for midterms",
-            "url": "https://www.foxnews.com/politics/supreme-court-allows-alabama-gop-backed-congressional-map-midterms",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
+            "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
-            "title": "Supreme Court reinstates Republican-favored Alabama congressional districts",
-            "url": "https://www.npr.org/2026/06/02/nx-s1-5844744/supreme-court-alabama-congressional-districts",
+            "title": "California's primary for governor is undecided as candidates vie to be in the top two",
+            "url": "https://www.npr.org/2026/06/03/nx-s1-5844747/california-primary-election-results-governor",
             "source": "NPR",
             "lean": "left"
           },
           {
-            "title": "Supreme Court clears way for Alabama Republicans to use congressional map for midterms",
-            "url": "https://thehill.com/regulation/court-battles/5907001-supreme-court-alabama-redistricting/",
+            "title": "Hilton, Becerra, in the lead with votes still being counted in battle for California governor",
+            "url": "https://www.foxnews.com/politics/hilton-becerra-lead-votes-still-being-counted-battle-california-governor",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Seeks Greater Control Over Science Funding and Policy",
+        "body": "President Trump is pushing for increased control over federal science funding, proposing significant changes to how research budgets are allocated. The move signals a continued effort to reshape government scientific priorities and oversight.\n\nThe proposed changes have drawn mixed reactions. Supporters argue it will streamline scientific funding, while critics see it as potential political interference in research. The proposal touches on ongoing debates about the independence of scientific institutions and the role of political leadership in research direction.",
+        "sources": [
+          {
+            "title": "President Trump seeks control of science funding",
+            "url": "https://www.npr.org/2026/06/03/nx-s1-5844678/trump-science-funding-omb-budget-office-rule-change",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump bows to Senate GOP with abandonment of ‘anti-weaponization’ fund",
+            "url": "https://thehill.com/homenews/senate/5906764-gop-senators-fund-concerns/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Primary Battles Heat Up in Iowa, New Mexico, and California",
-        "body": "Multiple states saw significant primary contests that could reshape political landscapes. In Iowa, Zach Lahn secured a surprising GOP gubernatorial primary victory, defeating a Trump-endorsed candidate. New Mexico saw Deb Haaland winning the Democratic gubernatorial primary.\n\nCalifornia's primary remains complex, with vote counting expected to take days or even weeks. Key races for governor and local offices are still developing, reflecting the ongoing dynamism in state-level political competitions.",
+        "headline": "Primaries Reshape Political Landscape in Multiple States",
+        "body": "Primary elections across several states are setting the stage for competitive midterm races. In Iowa, Zach Lahn and Rob Sand are positioned for a head-to-head gubernatorial contest. New Mexico saw former Biden official Deb Haaland winning her primary for governor.\n\nThe results reflect ongoing political realignments. Some Trump-endorsed candidates faced challenges - notably in Iowa, where a Trump-backed candidate conceded to a MAHA-supported nominee. These primaries offer early insights into voter sentiment and potential shifts in political momentum.",
         "sources": [
           {
             "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
@@ -44,12 +62,6 @@
             "lean": "right"
           },
           {
-            "title": "Gregg Hull wins New Mexico GOP gubernatorial primary, setting up bid to flip governor’s office",
-            "url": "https://www.foxnews.com/politics/gregg-hull-wins-new-mexico-gop-gubernatorial-primary-setting-up-bid-flip-governors-office",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
             "title": "Iowa voters pick their nominees for competitive general elections",
             "url": "https://www.npr.org/2026/06/02/g-s1-125550/iowa-election-results-josh-turek-zach-lahn",
             "source": "NPR",
@@ -60,72 +72,60 @@
             "url": "https://thehill.com/homenews/campaign/5906068-zach-lahn-rob-sand-iowa-governor/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Haaland wins Democratic primary in New Mexico’s governor race",
-            "url": "https://thehill.com/homenews/campaign/5905885-haaland-new-mexico-governor-race/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "California primary vote count could take days or even weeks — Here’s why",
-            "url": "https://thehill.com/homenews/campaign/5906565-vote-counting-process-california/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Live updates: California, Iowa head to primary polls; Blanche confirms White House won’t resurrect anti-weaponization fund",
-            "url": "https://thehill.com/homenews/administration/5904025-live-updates-trump-iran-iowa-california-primary/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Political Tensions Rise as PM Attacks Opposition Tactics",
-        "body": "Prime Minister Anthony Albanese escalated parliamentary rhetoric Wednesday, labeling the Coalition the Liberal One National party and targeting Opposition figures with pointed personal remarks. During question time, Angus Taylor faced sharp criticism, with Albanese coining the term Temu-Abbott - a provocative blend referencing past and present political figures.\n\nThe day saw further drama with Christian Hastie being ejected from question time, highlighting ongoing tensions between government and opposition benches. These exchanges reflect deepening political divisions as parliamentary dynamics continue to intensify.",
+        "headline": "US Threatens Tariffs Over Australia's Forced Labour Crackdown",
+        "body": "Australia faces potential 12.5% tariffs from the United States over its aggressive stance on forced labour imports. The proposed tariff comes as Australia tightens regulations on international supply chains - a move that could significantly impact trade relations.\n\nBoth left and right-leaning sources suggest the tariff is a direct response to Australia's recent legislative efforts to block goods potentially produced through exploitative labour practices. The dispute highlights the complex diplomatic and economic tensions surrounding global trade standards.",
         "sources": [
           {
-            "title": "Australia politics live: PM calls Coalition ‘Liberal One National party’ and Taylor ‘Temu-Abbott’ as Hastie booted from question time",
-            "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "How grassroots organisations are combatting One Nation’s rise in western Sydney – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/jun/03/one-nation-pauline-hanson-rise-sydney-grassroots-organisations-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Regional Media Under Pressure as News Services Shrink",
-        "body": "Australian regional journalism faces significant challenges after cuts to news services, with NBN News experiencing substantial reductions that could impact local information networks. The cuts represent a potential crisis for rural and regional media access - a critical communication lifeline for many communities.\n\nThe developments underscore broader concerns about media diversity and information accessibility in non-metropolitan areas. Grassroots organizations are increasingly stepping in to fill potential information gaps left by traditional media retreats.",
-        "sources": [
-          {
-            "title": "News bulletin cuts  'canary in the coal mine' for regional journalism",
-            "url": "https://www.abc.net.au/news/2026-06-03/cuts-to-nbn-news-set-to-impact-regional-journalism-in-nsw/106753294",
+            "title": "Australia faces proposed 12.5pc US tariff over forced labour crackdown",
+            "url": "https://www.abc.net.au/news/2026-06-03/australia-faces-proposed-us-tariff-over-forced-labour-crackdown/106756686",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "How grassroots organisations are combatting One Nation’s rise in western Sydney – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/jun/03/one-nation-pauline-hanson-rise-sydney-grassroots-organisations-ntwnfb",
+            "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
+            "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Extreme Weather Warning: El Niño Set to Intensify",
-        "body": "Meteorological experts predict an El Niño event will develop in coming months, signaling potentially severe climate conditions for eastern Australia. The forecast suggests hotter and drier weather patterns that could significantly impact agricultural and environmental sectors.\n\nThe Bureau of Meteorology's warning highlights growing climate volatility and potential challenges for farmers, water resources, and bushfire management. Communities are advised to prepare for potentially challenging environmental conditions in the months ahead.",
+        "headline": "Nicotine Black Market Explodes - Illegal Tobacco Consumption Soars",
+        "body": "Australian tobacco consumption has shifted dramatically underground, with new data showing 80% of nicotine products now sourced illegally. The black market has grown by 40% in eight years - a trend that challenges existing regulatory frameworks.\n\nThe surge suggests current tobacco control policies may be backfiring. Consumers are finding alternative supply routes, potentially undermining public health objectives and creating new economic challenges for law enforcement.",
         "sources": [
           {
-            "title": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
+            "title": "Nicotine use soars by 40% in eight years as Australian black market explodes",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "ABS estimates 80pc of tobacco consumed in Australia last year was illegally sourced",
+            "url": "https://www.abc.net.au/news/2026-06-03/abs-estimates-80pc-of-tobacco-used-in-australia-illegal/106756000",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Political Tensions Simmer as Budget Tax Changes Spark Debate",
+        "body": "Prime Minister Anthony Albanese escalated political rhetoric by labelling Opposition figure Angus Taylor as Temu Abbott during heated budget tax discussions. The exchange reflects deepening divisions over proposed fiscal reforms.\n\nBoth government and opposition sources indicate fundamental disagreements about the budget's tax structure. The inflammatory language suggests the debate extends beyond policy - touching on broader political identities and strategic positioning ahead of future electoral contests.",
+        "sources": [
+          {
+            "title": "Albanese calls Taylor ‘Temu Abbott’ as bitter fight rages over budget tax changes",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/03/budget-tax-changes-temu-abbot-insult-prime-minister-anthony-albanese-calls-angus-taylor",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Jim Chalmers is putting a positive spin on the economy, but is Australia’s outlook grim?",
+            "url": "https://www.theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -134,54 +134,72 @@
     ],
     "world": [
       {
-        "headline": "US and Iran Escalate Attacks as War Enters Fourth Month",
-        "body": "The Iran-US conflict has intensified, with both sides launching new strikes across strategic locations. The United States targeted Iran's Qeshm Island, while Tehran responded by firing missiles toward Kuwait and Bahrain - raising regional tensions to a dangerous new level.\n\nCeasefire negotiations remain stalled, suggesting a prolonged and increasingly volatile confrontation. Regional powers are watching nervously as missile exchanges threaten to draw more countries into the conflict, with Kuwait already experiencing missile flyovers and potential infrastructure risks.",
+        "headline": "US and Iran Trade Strikes as Tensions Escalate in Middle East",
+        "body": "Conflict between the United States and Iran intensified Wednesday with reciprocal military actions across the region. US forces struck Iran's Qeshm Island, prompting Iranian drone attacks on Kuwait's airport and a strategic location. One person was killed in the Kuwait strike, marking a dangerous expansion of regional hostilities.\n\nThe strikes represent a significant escalation in ongoing tensions, with both sides demonstrating military capabilities and willingness to engage directly. Kuwait's involvement signals the potential for broader regional destabilization, as military actions threaten to draw additional nations into the conflict.",
         "sources": [
           {
-            "title": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
-            "url": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+            "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
             "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
+            "title": "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
+            "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
+            "title": "US ‘disables’ ship allegedly bound for Iranian port",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ukraine Endures Massive Russian Overnight Assault on Kyiv",
-        "body": "Russian forces launched a significant overnight attack against Ukraine, forcing Kyiv residents to seek shelter and bracing for potential widespread damage. The assault represents another escalation in the ongoing conflict, with civilian populations once again bearing the brunt of military aggression.\n\nPutin's strategy remains uncompromising, though internal Russian discourse about the war may be subtly shifting. The continued attacks suggest no immediate resolution is in sight for the prolonged military engagement.",
+        "headline": "Deadly Fire in New Delhi Hotel Kills 21 - Foreign Nationals Among Victims",
+        "body": "A catastrophic fire at a hotel in New Delhi claimed at least 21 lives Wednesday, with foreign nationals among the casualties. Emergency services responded to the blaze, which swept through the multi-story building, trapping and killing numerous guests and staff.\n\nThe incident highlights ongoing concerns about fire safety standards in India's rapidly developing urban centers. Investigations are underway to determine the cause of the fire and the circumstances that led to such a high death toll.",
         "sources": [
           {
-            "title": "Kyiv residents seek shelter during renewed Russian attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kyiv-residents-seek-shelter-during-renewed-russian-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-            "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Foreign nationals among at least 21 killed in Delhi fire",
+            "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Russia launches massive overnight attack on Ukraine",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
+            "title": "Fire at New Delhi hotel kills at least 21 people",
+            "url": "https://www.aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Foreign nationals among 21 dead in fire in Indian capital",
+            "url": "https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "World Cup 2026 Begins - Global Excitement Builds for Tournament",
+        "body": "The FIFA World Cup 2026 approaches with teams from around the globe preparing for the international football spectacle. Cape Verde's national team has already arrived in the United States, joining the growing anticipation for the tournament.\n\nBrazil's team - considered underdogs this year - remains focused and determined. The tournament promises to showcase global football talent and unite fans worldwide in celebration of the sport.",
+        "sources": [
+          {
+            "title": "Morocco World Cup 2026 preview: Players to watch, group and squad list",
+            "url": "https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Cape Verde football team arrives in the US for the World Cup",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/cape-verde-football-team-arrives-in-the-us-for-the-world-cup?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Unfancied Brazil will stay sharp at the World Cup, Casemiro says",
+            "url": "https://www.aljazeera.com/sports/2026/6/3/casemiro-brazil-not-fifa-world-cup-2026-favourites-football?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -190,48 +208,42 @@
     ],
     "ai": [
       {
-        "headline": "AI Disrupts Law and Tech - Professors Lose Ground",
-        "body": "Stanford researchers revealed AI systems now outperform law professors in complex legal analysis - a watershed moment for professional knowledge work. The study suggests machine learning models can parse legal documents and generate insights with greater speed and accuracy than human experts.\n\nThis breakthrough signals a broader transformation across knowledge industries. As AI capabilities expand, traditional professional roles face unprecedented challenges - from legal analysis to research and beyond.",
+        "headline": "AI Sparks Alarm: Mathematicians Warn of Rapid Technological Leap",
+        "body": "The scientific community faces mounting concerns about artificial intelligence's accelerating capabilities. Mathematicians have raised urgent warnings about AI's rapid advancement - signaling potential risks beyond current computational understanding.\n\nResearchers point to emerging evidence of AI systems outperforming human experts in complex domains. A Stanford Law study showed AI surpassing law professors in analytical tasks, while University of Toronto researchers demonstrated an AI worm capable of targeting multiple online devices - underscoring the technology's expanding reach and potential vulnerabilities.",
         "sources": [
+          {
+            "title": "Mathematicians issue warning as AI rapidly gains ground",
+            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "U of T researchers demonstrate AI worm could target any online device",
+            "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "AI outperforms law professors in Stanford Law study",
             "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
             "source": "Hacker News",
             "lean": null
-          },
-          {
-            "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-            "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-            "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-            "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-            "source": "TechCrunch",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Microsoft Unveils Advanced AI Reasoning Model at Build 2026",
-        "body": "Microsoft launched its first advanced reasoning AI model at Build 2026 - a potential game-changer in artificial intelligence capabilities. The MAI-Code-1-Flash represents a significant leap in machine comprehension and problem-solving skills.\n\nThe company also introduced a novel tool allowing developers to generate AI behavior tests using simple text descriptions. These developments suggest Microsoft is aggressively positioning itself at the forefront of AI innovation - challenging competitors with sophisticated reasoning technologies.",
+        "headline": "Tech Giants Wrestle with AI's Environmental and Regulatory Challenges",
+        "body": "Google and other tech leaders are confronting AI's substantial environmental footprint. The company has proposed innovative solutions to reduce water consumption in data centers - a critical challenge as AI computational demands surge.\n\nRegulatory pressures are mounting globally. The UK has mandated that Google allow publishers to opt out of AI search features, signaling increasing governmental oversight. Meanwhile, tech firms continue pushing boundaries - with Microsoft announcing Project Solara, an Android OS designed around AI agents rather than traditional applications.",
         "sources": [
           {
-            "title": "Microsoft Build 2026: The 7 biggest announcements",
-            "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+            "title": "AI has a water problem. Google thinks it has a fix",
+            "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-            "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Microsoft’s first advanced reasoning AI is here",
-            "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+            "title": "Google must let publishers opt out of AI Search features, rules UK",
+            "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
             "source": "The Verge",
             "lean": null
           },
@@ -242,94 +254,52 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Washington Moves to Regulate AI Development and Deployment",
-        "body": "The Trump administration issued an executive order mandating comprehensive reviews of AI models before public release - signaling heightened federal scrutiny of technological development. This unprecedented intervention reflects growing concerns about AI's societal implications.\n\nConcurrently, industry players are grappling with AI's transformative potential. Uber has already capped employee AI spending after exhausting its budget in just four months - highlighting both the technology's rapid adoption and significant resource demands.",
-        "sources": [
-          {
-            "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-            "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Trump signs executive order to review AI models before they’re released",
-            "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $66K as Investors Flee to AI Stocks",
-        "body": "Bitcoin suffered a sharp selloff on Wednesday, dropping below $66,000 amid a broader market shift toward high-flying AI equities. The cryptocurrency's price plunge accelerated a move into digital dollars, signaling investor uncertainty. Market analysts at K33 predict a choppy summer ahead as capital continues to chase more volatile tech investments.\n\nThe dramatic price movement underscores Bitcoin's ongoing volatility. Despite its massive computational power - reportedly dwarfing the top 100 supercomputers by 600,000 times - the digital asset remains vulnerable to rapid market sentiment shifts.",
+        "headline": "Bitcoin Crashes Through $66K - Traders Brace for More Pain",
+        "body": "Bitcoin's price plummeted below $66,000 Wednesday, triggering $1.8 billion in crypto liquidations and sending market sentiment into a tailspin. The sharp decline marks a 9.5% weekly slide that has investors on edge.\n\nTraders are signaling extreme fear, with prediction markets suggesting the selloff could continue. Geopolitical tensions - including new US and Iran strikes - have added pressure to an already volatile market. Technical indicators hint at a potential bottom, but most experts remain cautiously pessimistic about an immediate recovery.",
         "sources": [
           {
-            "title": "Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records",
+            "title": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
+            "url": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-steadies-at-usd67-000-faces-critical-juncture-after-sliding-9-5-in-seven-days",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars",
+            "title": "Prediction market traders bet bitcoin's selloff has further to run",
+            "url": "https://www.coindesk.com/markets/2026/06/03/kalshi-traders-bet-bitcoin-s-selloff-has-further-to-run",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
-            "url": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
-            "source": "CoinDesk",
+            "title": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto",
+            "url": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           },
           {
-            "title": "Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says",
-            "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says",
+            "title": "Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Quantum Threat Looms as Bitcoin Faces Potential Technological Disruption",
-        "body": "Microsoft's breakthrough in quantum computing has raised fresh concerns about Bitcoin's long-term technological security. The tech giant revealed a quantum chip claimed to be 1,000 times more reliable, potentially threatening Bitcoin's cryptographic foundations. This development comes at a critical moment for the cryptocurrency.\n\nThe quantum computing advancement represents a significant potential challenge to Bitcoin's blockchain security. While the immediate impact remains uncertain, the technological arms race between quantum computing and cryptocurrency encryption continues to intensify.",
+        "headline": "Quantum Computing Threat Looms Large for Bitcoin Infrastructure",
+        "body": "Microsoft's breakthrough in quantum computing has reignited concerns about Bitcoin's long-term technological resilience. The tech giant revealed a quantum chip claimed to be 1,000 times more reliable - a development that could potentially undermine Bitcoin's cryptographic security.\n\nWhile the immediate threat remains theoretical, the announcement signals growing technological challenges for the world's leading cryptocurrency. Bitcoin developers and researchers are closely monitoring advances that could fundamentally challenge the network's fundamental security assumptions.",
         "sources": [
           {
             "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
             "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise",
-            "url": "https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Political Pressure Mounts Against Bitcoin 401(k) Investment Options",
-        "body": "Democratic senators Bernie Sanders and Elizabeth Warren are pushing the Labor Department to abandon proposed rules allowing Bitcoin in 401(k) retirement plans. Their aggressive stance signals continued political skepticism toward cryptocurrency investments. The move could significantly impact institutional adoption of Bitcoin.\n\nThe political pressure comes as some major investment firms show mixed signals about Bitcoin. While Strategy recently sold Bitcoin holdings, other firms like Strive are doubling down with substantial investment offerings.",
-        "sources": [
-          {
-            "title": "Democrats Sanders and Warren Push Labor Department to Abandon Bitcoin 401(k) Rule",
-            "url": "https://bitcoinmagazine.com/news/sanders-and-warren-push-bitcoin-401k-rule",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bernie Sanders, Elizabeth Warren Urge Labor Department to Drop Bitcoin, Crypto 401K Plan",
-            "url": "https://decrypt.co/369773/bernie-sanders-elizabeth-warren-labor-dept-drop-bitcoin-crypto-401k-plan",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "As Strategy Sells Bitcoin, Strive Doubles Down With $4.2 Billion Offering",
-            "url": "https://decrypt.co/369724/strategy-sells-bitcoin-strive-doubles-down-4-2-billion-offering",
             "source": "Decrypt",
             "lean": null
           }
@@ -340,20 +310,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "cuisine": "French-Provençal Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
       "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's position every 20 minutes to prevent muscular stagnation and maintain spinal fluidity",
-      "tip": "Use a small sticky note at eye level as a reminder to consciously reset your posture and engage core muscles"
+      "name": "Desk Wave Micro-Movements",
+      "description": "Introduce subtle, fluid spine and shoulder movements every 20 minutes while seated to prevent static muscle tension and promote dynamic sitting",
+      "tip": "Imagine your spine as a flexible reed gently moving in a breeze, making small circular and wave-like motions without drawing attention"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
-      "why": "Understanding how nature solves complex design challenges can revolutionize how we think about sustainable urban development and solve critical environmental problems"
+      "description": "An emerging field where city infrastructure and architecture are designed by studying and emulating natural ecosystem strategies and patterns",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and create more resilient, efficient human environments"
     }
   }
 }
