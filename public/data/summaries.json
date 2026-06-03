@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-06-03T11:42:25.399Z",
+  "generatedAt": "2026-06-03T22:47:07.810Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "California Governor's Race Tightens in Crowded Primary Battle",
-        "body": "California's gubernatorial primary remains undecided as several candidates vie for the top two spots. Alex Padilla Becerra and Katherine Hilton currently lead in early returns, with votes still being counted across the state. The top-two primary system means the two highest vote-getters - regardless of party - will advance to the general election.\n\nThe race reflects California's complex political landscape. Multiple candidates from different political backgrounds are competing, highlighting the state's shifting political dynamics and the continued importance of California's electoral process.",
+        "headline": "House Defies Trump, Passes Iran War Powers Resolution",
+        "body": "In a rare bipartisan rebuke, the House voted to limit presidential war powers and direct Trump to end hostilities with Iran. The resolution passed with support from both Democrats and some Republicans - a significant challenge to the administration's foreign policy approach.\n\nThe vote highlights growing congressional frustration with executive military actions. While Trump's team suggested the resolution would be challenged, lawmakers from both parties signaled a desire to reassert congressional oversight of military engagements.",
+        "sources": [
+          {
+            "title": "House passes war powers resolution directing Trump to end hostilities with Iran",
+            "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Live updates: House passes Iran war powers resolution; Senate moves forward with reconciliation",
+            "url": "https://thehill.com/homenews/administration/5905933-live-updates-trump-rubio-primary-elections/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump suffers rare House defeat as bipartisan vote moves to withdraw troops from Iran conflict",
+            "url": "https://www.foxnews.com/politics/trump-suffers-rare-house-defeat-bipartisan-vote-moves-withdraw-troops-from-iran-conflict",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "House passes resolution to end Iran War, challenging Trump",
+            "url": "https://thehill.com/homenews/house/5908560-iran-war-resolution-house/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "California and New Mexico Primaries Set Stage for Governors' Races",
+        "body": "Two key western states saw high-profile primary victories that could reshape gubernatorial contests. In California, Hilton and Becerra emerged as leading candidates, with Trump quickly congratulating Hilton. Meanwhile, former Interior Secretary Deb Haaland secured the Democratic nomination in New Mexico.\n\nThese primaries reflect ongoing political realignments in states with changing demographic landscapes. Both races are expected to be closely watched as potential indicators of broader national political trends.",
         "sources": [
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
@@ -14,62 +44,44 @@
             "lean": "center-left"
           },
           {
-            "title": "California's primary for governor is undecided as candidates vie to be in the top two",
-            "url": "https://www.npr.org/2026/06/03/nx-s1-5844747/california-primary-election-results-governor",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Hilton, Becerra, in the lead with votes still being counted in battle for California governor",
-            "url": "https://www.foxnews.com/politics/hilton-becerra-lead-votes-still-being-counted-battle-california-governor",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Seeks Greater Control Over Science Funding and Policy",
-        "body": "President Trump is pushing for increased control over federal science funding, proposing significant changes to how research budgets are allocated. The move signals a continued effort to reshape government scientific priorities and oversight.\n\nThe proposed changes have drawn mixed reactions. Supporters argue it will streamline scientific funding, while critics see it as potential political interference in research. The proposal touches on ongoing debates about the independence of scientific institutions and the role of political leadership in research direction.",
-        "sources": [
-          {
-            "title": "President Trump seeks control of science funding",
-            "url": "https://www.npr.org/2026/06/03/nx-s1-5844678/trump-science-funding-omb-budget-office-rule-change",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump bows to Senate GOP with abandonment of ‘anti-weaponization’ fund",
-            "url": "https://thehill.com/homenews/senate/5906764-gop-senators-fund-concerns/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Primaries Reshape Political Landscape in Multiple States",
-        "body": "Primary elections across several states are setting the stage for competitive midterm races. In Iowa, Zach Lahn and Rob Sand are positioned for a head-to-head gubernatorial contest. New Mexico saw former Biden official Deb Haaland winning her primary for governor.\n\nThe results reflect ongoing political realignments. Some Trump-endorsed candidates faced challenges - notably in Iowa, where a Trump-backed candidate conceded to a MAHA-supported nominee. These primaries offer early insights into voter sentiment and potential shifts in political momentum.",
-        "sources": [
-          {
             "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
             "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Trump-endorsed Feenstra concedes to MAHA-backed Lahn in GOP governor primary upset",
-            "url": "https://www.foxnews.com/politics/trump-endorsed-feenstra-concedes-maha-backed-lahn-gop-governor-primary-upset",
+            "title": "Trump congratulates Hilton on yet-to-be called California governor’s race",
+            "url": "https://thehill.com/homenews/campaign/5908712-trump-congratulates-hilton-california/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Moves to Reshape Federal Workforce, Attacks Media",
+        "body": "The administration took steps to convert career federal workers to at-will positions - a move likely to face legal challenges. Trump also continued his confrontational media strategy, attacking CNN reporter Kaitlan Collins and claiming anti-fraud efforts could balance the federal budget.\n\nThese actions underscore the administration's ongoing efforts to transform government operations and maintain an aggressive public communication approach. Republican supporters see the moves as necessary reform, while critics view them as potentially undermining government stability.",
+        "sources": [
+          {
+            "title": "Trump says anti-fraud efforts are uncovering billions in waste, claims savings could balance budget",
+            "url": "https://www.foxnews.com/politics/trump-says-anti-fraud-efforts-uncovering-billions-waste-claims-savings-could-balance-budget",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Iowa voters pick their nominees for competitive general elections",
-            "url": "https://www.npr.org/2026/06/02/g-s1-125550/iowa-election-results-josh-turek-zach-lahn",
-            "source": "NPR",
-            "lean": "left"
+            "title": "Trump formalizes move of career federal workers into ‘at will’ roles",
+            "url": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Lahn, Sand poised for head-to-head matchup for Iowa governor",
-            "url": "https://thehill.com/homenews/campaign/5906068-zach-lahn-rob-sand-iowa-governor/",
+            "title": "Trump attacks CNN’s Collins: ‘Hatred in her eyes’",
+            "url": "https://thehill.com/homenews/administration/5908663-trump-attacks-cnn-kaitlan-collins/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump on whether anti-weaponization fund is dead: ‘I’d have to ask the lawyers’",
+            "url": "https://thehill.com/homenews/administration/5908746-trump-18b-fund-halted/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -78,128 +90,116 @@
     ],
     "au-politics": [
       {
-        "headline": "US Threatens Tariffs Over Australia's Forced Labour Crackdown",
-        "body": "Australia faces potential 12.5% tariffs from the United States over its aggressive stance on forced labour imports. The proposed tariff comes as Australia tightens regulations on international supply chains - a move that could significantly impact trade relations.\n\nBoth left and right-leaning sources suggest the tariff is a direct response to Australia's recent legislative efforts to block goods potentially produced through exploitative labour practices. The dispute highlights the complex diplomatic and economic tensions surrounding global trade standards.",
+        "headline": "US Slaps Surprise Tariffs on Australia - Trade Tensions Flare",
+        "body": "Diplomatic friction erupted Wednesday as the United States imposed unexpected tariffs on Australian goods, catching Canberra completely off guard. Prime Minister Anthony Albanese described the move as an unwarranted action stemming from an ideological disagreement between the two traditionally close allies.\n\nThe tariffs threaten to disrupt long-standing trade relationships. Albanese emphasized that the Australian government received no prior warning about the economic measures, signaling potential escalation in trade negotiations.",
         "sources": [
           {
-            "title": "Australia faces proposed 12.5pc US tariff over forced labour crackdown",
-            "url": "https://www.abc.net.au/news/2026-06-03/australia-faces-proposed-us-tariff-over-forced-labour-crackdown/106756686",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
-            "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Nicotine Black Market Explodes - Illegal Tobacco Consumption Soars",
-        "body": "Australian tobacco consumption has shifted dramatically underground, with new data showing 80% of nicotine products now sourced illegally. The black market has grown by 40% in eight years - a trend that challenges existing regulatory frameworks.\n\nThe surge suggests current tobacco control policies may be backfiring. Consumers are finding alternative supply routes, potentially undermining public health objectives and creating new economic challenges for law enforcement.",
-        "sources": [
-          {
-            "title": "Nicotine use soars by 40% in eight years as Australian black market explodes",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine",
+            "title": "Australia politics live: PM says ‘unwarranted’ tariffs announced by US on Australia came without warning; parliament to vote on tax changes",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "ABS estimates 80pc of tobacco consumed in Australia last year was illegally sourced",
-            "url": "https://www.abc.net.au/news/2026-06-03/abs-estimates-80pc-of-tobacco-used-in-australia-illegal/106756000",
+            "title": "Live: 'Ideological disagreement' between Australia and US on tariffs, PM says",
+            "url": "https://www.abc.net.au/news/2026-06-04/federal-politics-live-blog-trade-minister-meeting/106756318",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Political Tensions Simmer as Budget Tax Changes Spark Debate",
-        "body": "Prime Minister Anthony Albanese escalated political rhetoric by labelling Opposition figure Angus Taylor as Temu Abbott during heated budget tax discussions. The exchange reflects deepening divisions over proposed fiscal reforms.\n\nBoth government and opposition sources indicate fundamental disagreements about the budget's tax structure. The inflammatory language suggests the debate extends beyond policy - touching on broader political identities and strategic positioning ahead of future electoral contests.",
+        "headline": "UN Intervenes in Woodside Gas Plant Environmental Challenge",
+        "body": "A United Nations special envoy has stepped into the ongoing dispute surrounding the Woodside gas plant, highlighting international scrutiny of Australia's energy development practices. The intervention suggests growing global concern about the environmental implications of major resource projects.\n\nThe case underscores tensions between economic development and environmental protection - a complex debate playing out across Australia's resource-rich landscape. Woodside now faces increased international attention to its North West Shelf operations.",
         "sources": [
           {
-            "title": "Albanese calls Taylor ‘Temu Abbott’ as bitter fight rages over budget tax changes",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/03/budget-tax-changes-temu-abbot-insult-prime-minister-anthony-albanese-calls-angus-taylor",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "UN envoy intervenes in Woodside gas plant challenge",
+            "url": "https://www.abc.net.au/news/2026-06-04/un-special-rapporteur-woodside-north-west-shelf/106724220",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Jim Chalmers is putting a positive spin on the economy, but is Australia’s outlook grim?",
-            "url": "https://www.theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Heatwaves are becoming so extreme, they're 'breaking the biology' of plants",
+            "url": "https://www.abc.net.au/news/2026-06-04/extreme-heatwaves-threatening-crops-food-supply-australia/106745486",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Australian Economy Faces Potential Downturn - Experts Sound Alarm",
+        "body": "Economic analysts are warning that Australia may be entering a significant economic slowdown, with potential widespread implications for businesses and households. The forecast suggests challenging times ahead for the national economy.\n\nKey indicators point to mounting pressures, including potential contractions in key sectors. Economists recommend careful monitoring of economic indicators and potential policy interventions to mitigate potential negative impacts.",
+        "sources": [
+          {
+            "title": "Australia's economic slowdown is just beginning, experts warn",
+            "url": "https://www.abc.net.au/news/2026-06-04/australia-s-economic-slowdown-is-just-beginning-economists-warn/106756668",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Live: ASX to fall, SpaceX eyes mega IPO",
+            "url": "https://www.abc.net.au/news/2026-06-04/asx-markets-business-news-live-updates/106757400",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US and Iran Trade Strikes as Tensions Escalate in Middle East",
-        "body": "Conflict between the United States and Iran intensified Wednesday with reciprocal military actions across the region. US forces struck Iran's Qeshm Island, prompting Iranian drone attacks on Kuwait's airport and a strategic location. One person was killed in the Kuwait strike, marking a dangerous expansion of regional hostilities.\n\nThe strikes represent a significant escalation in ongoing tensions, with both sides demonstrating military capabilities and willingness to engage directly. Kuwait's involvement signals the potential for broader regional destabilization, as military actions threaten to draw additional nations into the conflict.",
+        "headline": "US Congress Rebukes Trump, Halts Potential Iran War",
+        "body": "The US House of Representatives has passed a critical war powers resolution aimed at blocking potential military action against Iran. This move directly challenges President Trump's foreign policy approach and signals growing congressional resistance to unilateral military escalation.\n\nThe resolution comes amid heightened tensions in the Middle East - with Iranian drone strikes on Kuwait and Israeli-Lebanese border conflicts adding complexity to the geopolitical landscape. Congressional leaders argue the resolution will prevent unauthorized military engagement and reassert legislative control over war powers.",
         "sources": [
           {
-            "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+            "title": "US House votes to halt Iran war, in rebuke to Trump",
+            "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "US House of Representatives passes war powers resolution in rebuke to Trump",
+            "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Kuwait labels Iran attack ‘heinous aggression’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
             "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
-          },
-          {
-            "title": "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
-            "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US ‘disables’ ship allegedly bound for Iranian port",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Deadly Fire in New Delhi Hotel Kills 21 - Foreign Nationals Among Victims",
-        "body": "A catastrophic fire at a hotel in New Delhi claimed at least 21 lives Wednesday, with foreign nationals among the casualties. Emergency services responded to the blaze, which swept through the multi-story building, trapping and killing numerous guests and staff.\n\nThe incident highlights ongoing concerns about fire safety standards in India's rapidly developing urban centers. Investigations are underway to determine the cause of the fire and the circumstances that led to such a high death toll.",
+        "headline": "Israel-Lebanon Conflict Intensifies with Deadly Cross-Border Strikes",
+        "body": "Israeli military strikes have killed nine people in Lebanon, with attacks reaching close to Beirut's outskirts. Hezbollah responded by firing rockets across the border, escalating a rapidly deteriorating situation.\n\nThe conflict has raised international alarm, with hospitals and civilian areas increasingly at risk. Strategic strikes near medical facilities - including a hospital in Tyre - have drawn particular condemnation, highlighting the potential humanitarian consequences of the ongoing confrontation.",
         "sources": [
           {
-            "title": "Foreign nationals among at least 21 killed in Delhi fire",
-            "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+            "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Fire at New Delhi hotel kills at least 21 people",
-            "url": "https://www.aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people?traffic_source=rss",
+            "title": "Israel’s decades-long history of invading Lebanon",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Foreign nationals among 21 dead in fire in Indian capital",
-            "url": "https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "World Cup 2026 Begins - Global Excitement Builds for Tournament",
-        "body": "The FIFA World Cup 2026 approaches with teams from around the globe preparing for the international football spectacle. Cape Verde's national team has already arrived in the United States, joining the growing anticipation for the tournament.\n\nBrazil's team - considered underdogs this year - remains focused and determined. The tournament promises to showcase global football talent and unite fans worldwide in celebration of the sport.",
-        "sources": [
-          {
-            "title": "Morocco World Cup 2026 preview: Players to watch, group and squad list",
-            "url": "https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list?traffic_source=rss",
+            "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Cape Verde football team arrives in the US for the World Cup",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/cape-verde-football-team-arrives-in-the-us-for-the-world-cup?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Unfancied Brazil will stay sharp at the World Cup, Casemiro says",
-            "url": "https://www.aljazeera.com/sports/2026/6/3/casemiro-brazil-not-fifa-world-cup-2026-favourites-football?traffic_source=rss",
+            "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+            "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -208,49 +208,73 @@
     ],
     "ai": [
       {
-        "headline": "AI Sparks Alarm: Mathematicians Warn of Rapid Technological Leap",
-        "body": "The scientific community faces mounting concerns about artificial intelligence's accelerating capabilities. Mathematicians have raised urgent warnings about AI's rapid advancement - signaling potential risks beyond current computational understanding.\n\nResearchers point to emerging evidence of AI systems outperforming human experts in complex domains. A Stanford Law study showed AI surpassing law professors in analytical tasks, while University of Toronto researchers demonstrated an AI worm capable of targeting multiple online devices - underscoring the technology's expanding reach and potential vulnerabilities.",
+        "headline": "Google Faces AI Regulation Pressure in UK Search Market",
+        "body": "Google must now provide clearer attribution for AI-generated search results in the United Kingdom. The ruling requires the tech giant to link more transparently to original content sources and allow publishers to opt out of AI training and result generation.\n\nThis regulatory move signals growing governmental scrutiny of AI's impact on digital content ecosystems. Publishers have long complained about AI systems using their content without compensation or clear attribution.",
         "sources": [
           {
-            "title": "Mathematicians issue warning as AI rapidly gains ground",
-            "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-            "source": "Hacker News",
+            "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+            "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "U of T researchers demonstrate AI worm could target any online device",
-            "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-            "source": "Hacker News",
+            "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+            "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "AI outperforms law professors in Stanford Law study",
-            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+            "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
             "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Giants Wrestle with AI's Environmental and Regulatory Challenges",
-        "body": "Google and other tech leaders are confronting AI's substantial environmental footprint. The company has proposed innovative solutions to reduce water consumption in data centers - a critical challenge as AI computational demands surge.\n\nRegulatory pressures are mounting globally. The UK has mandated that Google allow publishers to opt out of AI search features, signaling increasing governmental oversight. Meanwhile, tech firms continue pushing boundaries - with Microsoft announcing Project Solara, an Android OS designed around AI agents rather than traditional applications.",
+        "headline": "AI Raises Ethical Concerns as Capabilities and Controversies Expand",
+        "body": "Emerging AI technologies continue to push ethical boundaries. xAI faces a legal challenge over alleged deepfake nude images, while Google launches Dreambeans - an AI tool that transforms personal photos into cartoons.\n\nThe developments underscore mounting tensions between technological innovation and potential misuse. As AI capabilities grow more sophisticated, questions of consent, privacy, and responsible development become increasingly complex.",
         "sources": [
           {
-            "title": "AI has a water problem. Google thinks it has a fix",
-            "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-            "source": "The Verge",
+            "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+            "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Google must let publishers opt out of AI Search features, rules UK",
-            "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-            "source": "The Verge",
+            "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+            "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+            "source": "Wired",
             "lean": null
           },
           {
-            "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-            "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+            "title": "As AI gets better, it reveals an empty promise",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Google Raises $85B for AI Business in Massive Investment Signal",
+        "body": "Alphabet secured a record $85 billion fundraising round for Google's AI division, signaling massive investor confidence in artificial intelligence technologies. The company also unveiled Gemma 4 - a 12B model designed to run on laptops with 16GB RAM.\n\nThis substantial investment suggests AI remains a critical growth sector, with tech giants positioning themselves to dominate emerging machine learning markets.",
+        "sources": [
+          {
+            "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+            "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+            "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
             "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -258,49 +282,85 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Crashes Through $66K - Traders Brace for More Pain",
-        "body": "Bitcoin's price plummeted below $66,000 Wednesday, triggering $1.8 billion in crypto liquidations and sending market sentiment into a tailspin. The sharp decline marks a 9.5% weekly slide that has investors on edge.\n\nTraders are signaling extreme fear, with prediction markets suggesting the selloff could continue. Geopolitical tensions - including new US and Iran strikes - have added pressure to an already volatile market. Technical indicators hint at a potential bottom, but most experts remain cautiously pessimistic about an immediate recovery.",
+        "headline": "Bitcoin Plunges Below $65K as Market Sentiment Shifts",
+        "body": "Bitcoin suffered a sharp correction Wednesday, dropping to its lowest level since March and triggering over $1.8 billion in crypto liquidations. The cryptocurrency fell below critical support levels, with traders noting the price movement mirrors patterns from 2022's market downturn.\n\nAnalysts point to multiple factors driving the selloff - including rotation into AI stocks and IPOs, and a broader pullback in momentum trading. The crash has raised questions about Bitcoin's near-term trajectory, with some experts seeing potential for a technical rebound.",
         "sources": [
+          {
+            "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-precarious",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "As Oil Moves Higher, Bitcoin Sinks to Lowest Price Since March",
+            "url": "https://decrypt.co/369925/oil-moves-higher-bitcoin-sinks-lowest-price-since-march",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin copying 2022 'almost perfectly' as trader sees key support failing",
+            "url": "https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Live markets: bitcoin hits weakest level since late March as selling continues",
+            "url": "https://www.coindesk.com/markets/2026/06/03/live-markets-what-s-next-as-bitcoin-re-tests-february-low-for-third-time",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
             "url": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "US Treasury Advances Bitcoin Reserve Legislation",
+        "body": "The US Treasury is making significant progress on Bitcoin-related legislation, with the potential CLARITY Act moving closer to Senate approval. Prominent investor Scott Bessent has publicly backed the strategic Bitcoin reserve initiative, signaling growing institutional support.\n\nThe proposed legislation aims to establish a formal framework for national Bitcoin holdings, potentially transforming the cryptocurrency's role in government financial strategy. Bessent described the initiative as moving at a deliberate pace - suggesting careful, strategic implementation.",
+        "sources": [
           {
-            "title": "Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-steadies-at-usd67-000-faces-critical-juncture-after-sliding-9-5-in-seven-days",
-            "source": "CoinDesk",
+            "title": "US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act",
+            "url": "https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
-            "title": "Prediction market traders bet bitcoin's selloff has further to run",
-            "url": "https://www.coindesk.com/markets/2026/06/03/kalshi-traders-bet-bitcoin-s-selloff-has-further-to-run",
-            "source": "CoinDesk",
+            "title": "Scott Bessent Backs Strategic Bitcoin Reserve, Urges Senate to Pass Clarity Act",
+            "url": "https://bitcoinmagazine.com/news/scott-bessent-strategic-bitcoin-reserve",
+            "source": "Bitcoin Magazine",
             "lean": null
           },
           {
-            "title": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto",
-            "url": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&amp;utm_medium=rss",
+            "title": "Bessent backs summer push for Clarity Act, says bitcoin reserve moving at ‘deliberate speed’",
+            "url": "https://www.theblock.co/post/403563/bessent-backs-summer-push-clarity-act-bitcoin-reserve-moving-deliberate-speed?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash",
-            "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Quantum Computing Threat Looms Large for Bitcoin Infrastructure",
-        "body": "Microsoft's breakthrough in quantum computing has reignited concerns about Bitcoin's long-term technological resilience. The tech giant revealed a quantum chip claimed to be 1,000 times more reliable - a development that could potentially undermine Bitcoin's cryptographic security.\n\nWhile the immediate threat remains theoretical, the announcement signals growing technological challenges for the world's leading cryptocurrency. Bitcoin developers and researchers are closely monitoring advances that could fundamentally challenge the network's fundamental security assumptions.",
+        "headline": "Financial Institutions Expand Bitcoin Trading Infrastructure",
+        "body": "Major financial platforms are rapidly integrating Bitcoin trading capabilities. Charles Schwab launched 24/7 Bitcoin futures trading on its thinkorswim platform, while Kalshi introduced America's first regulated Bitcoin perpetual futures market.\n\nThese developments signal growing mainstream acceptance of cryptocurrency trading. The moves come alongside innovative financial products like the Lava Card - a secured Visa credit card offering Bitcoin rewards on purchases - highlighting the increasing convergence of traditional finance and digital assets.",
         "sources": [
           {
-            "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
-            "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
-            "source": "Decrypt",
+            "title": "Kalshi Goes Live With America’s First Regulated Bitcoin Perpetual Futures",
+            "url": "https://bitcoinmagazine.com/news/kalshi-goes-live-with-americas-first",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase",
+            "url": "https://bitcoinmagazine.com/news/lava-card-launches-visa-credit-card",
+            "source": "Bitcoin Magazine",
+            "lean": null
+          },
+          {
+            "title": "Charles Schwab Launches 24/7 Bitcoin Futures Trading on thinkorswim",
+            "url": "https://bitcoinmagazine.com/news/charles-schwab-launches-24-7-bitcoin-futures-trading-on-thinkorswim",
+            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -310,20 +370,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Wave Micro-Movements",
-      "description": "Introduce subtle, fluid spine and shoulder movements every 20 minutes while seated to prevent static muscle tension and promote dynamic sitting",
-      "tip": "Imagine your spine as a flexible reed gently moving in a breeze, making small circular and wave-like motions without drawing attention"
+      "name": "Dynamic Desk Decompression",
+      "description": "Implement a micro-movement protocol that alternates between active sitting, standing, and targeted stretching to reset spinal alignment and muscular tension",
+      "tip": "Set a 25-minute timer and switch between a stability ball, standing desk, and seated stretching to prevent postural stagnation"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging field where city infrastructure and architecture are designed by studying and emulating natural ecosystem strategies and patterns",
-      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and create more resilient, efficient human environments"
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystem principles and biological adaptation strategies",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to climate resilience"
     }
   }
 }
