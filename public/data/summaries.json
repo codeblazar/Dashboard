@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-06-04T22:35:26.223Z",
+  "generatedAt": "2026-06-05T05:37:51.669Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Campaign Controversies Shake Up Primary Season",
-        "body": "Multiple political campaigns face turbulence as allegations and scandals emerge. In Maine, a candidate named Platner confronts explosive claims from former partners about abusive behavior and alleged Nazi symbolism - a story that has left Democratic senators struggling to offer support.\n\nIn California, the governor's primary race continues with high-profile candidates like Hilton and Becerra competing, while national attention remains fixed on potential campaign-ending revelations. The incidents underscore growing tensions within political parties as primary season intensifies.",
+        "headline": "Ukraine Aid Splits GOP - 18 Republicans Break with Trump",
+        "body": "The House passed a Ukraine aid package yesterday, with 18 Republican lawmakers defying former President Trump's opposition. The bill now faces a likely presidential veto, highlighting deep fractures within the Republican Party over foreign policy support.\n\nTrump has consistently criticized Ukraine funding, but a significant bloc of Republicans - including some vocal critics of the administration - voted to support the aid package. The vote underscores ongoing tensions between Trump's America First approach and traditional Republican foreign policy stances.",
         "sources": [
           {
-            "title": "‘He hated women’: Explosive abuse, new Nazi tattoo allegations from exes rock Platner's campaign",
-            "url": "https://www.foxnews.com/politics/hated-women-explosive-abuse-new-nazi-tattoo-allegations-exes-rock-platners-campaign",
+            "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
+            "url": "https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight",
             "source": "Fox News",
             "lean": "right"
+          },
+          {
+            "title": "House passes new Ukraine aid package, with 18 Republicans bucking Trump",
+            "url": "https://thehill.com/policy/international/5911086-house-passes-ukraine-aid/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "California and New Mexico Primaries Set Stage for Governor Races",
+        "body": "Two key state primaries are taking shape, with Xavier Becerra and Deb Haaland emerging as significant contenders. In California, Becerra advanced in the gubernatorial primary, while Haaland secured her party's nomination in New Mexico.\n\nThese races represent important battlegrounds for both Democratic Party leadership and state-level political momentum. Each candidate brings distinct political backgrounds - Becerra from federal service, Haaland with her previous cabinet experience - that could shape their electoral strategies.",
+        "sources": [
+          {
+            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
+            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
+            "source": "Washington Post",
+            "lean": "center-left"
           },
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
@@ -20,128 +38,92 @@
             "lean": "center-left"
           },
           {
-            "title": "SEE IT: Dem senators dodge on backing Platner as Maine candidate’s scandal clouds final days before primary",
-            "url": "https://www.foxnews.com/politics/see-it-dem-senators-dodge-backing-platner-maine-candidates-scandal-clouds-final-days-before-primary",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Becerra advances in California governor’s race",
+            "url": "https://thehill.com/homenews/campaign/5911230-xavier-becerra-advances-california-governor/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Midterm Predictions Suggest Tight Political Landscape",
-        "body": "Political strategists are offering conflicting predictions about the upcoming midterm elections. Republican strategist Karl Rove suggests Democrats' current polling advantage may not translate into a decisive victory, while Steve Bannon provocatively claims Republicans will lose the Senate.\n\nA national survey reveals deeper political malaise - 57 percent of Americans believe the current democratic system is not functioning effectively, and only 78 percent consider themselves proud Americans. These numbers hint at potential voter volatility in the coming elections.",
+        "headline": "Senate Blocks Trump's Election Reform - Bipartisan Resistance Emerges",
+        "body": "The Senate has again blocked the SAVE America Act, with four Republican senators joining Democrats to prevent its passage. This marks another legislative setback for Trump's election reform proposals.\n\nThe vote reflects ongoing internal Republican tensions and a willingness of some moderate senators to break with the former president's agenda. Multiple amendment votes have demonstrated a growing independence among Republican lawmakers who are seeking to chart their own political course.",
         "sources": [
           {
-            "title": "Rove: Democrats’ polling advantage might not result in blue wave in midterms",
-            "url": "https://thehill.com/homenews/campaign/5910871-republican-strategist-karl-rove/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Republicans' sweeping election overhaul fails in the Senate",
+            "url": "https://www.npr.org/2026/06/04/nx-s1-5751145/save-act-senate-vote-trump",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "22 percent in new poll do not consider themselves proud Americans",
-            "url": "https://thehill.com/homenews/administration/5910763-patriotism-survey-americans-pride/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "57 percent say system of democracy in US not working: Survey",
-            "url": "https://thehill.com/blogs/blog-briefing-room/news/5910613-democracy-poll-americans-unhappy/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Bannon: GOP ‘going to lose the Senate’ in midterms",
-            "url": "https://thehill.com/homenews/campaign/5910570-bannon-predicts-gop-senate-loss/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Four Senate Republicans again unite with Dems to block Trump's SAVE America Act",
+            "url": "https://www.foxnews.com/politics/four-senate-republicans-unite-dems-block-trumps-save-america-act",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Victoria Faces Rising Crime Wave: Firebombings and Youth Violence Surge",
-        "body": "Victoria's police commissioner Mike Bush confronted escalating urban violence this week. Firebombings have become a persistent threat, with law enforcement struggling to contain the trend. In a separate incident, teens are now being sought after a homeless man was stabbed in Bendigo - highlighting growing concerns about youth crime.\n\nPolice sources suggest the attacks reflect deeper social tensions. Community leaders are calling for comprehensive intervention strategies that address root causes of violence, not just immediate law enforcement responses.",
+        "headline": "Police Respond to Siege and Court Escape in Northern Territory",
+        "body": "Armed police in Victoria responded to a tense siege in Spotswood, while a separate incident in Darwin saw a man dramatically escape court custody. The Darwin escapee triggered an immediate police manhunt, highlighting ongoing challenges in law enforcement containment.\n\nBoth incidents underscore the unpredictable nature of criminal proceedings and the high-stakes situations confronting Australian police forces. Authorities are working to resolve these situations and ensure public safety.",
         "sources": [
           {
-            "title": "Victoria's top cop on when the scourge of firebombings will stop",
-            "url": "https://www.abc.net.au/news/2026-06-05/victoria-police-commissioner-mike-bush-crime-firebombings/106757694",
+            "title": "Armed police respond to Spotswood siege",
+            "url": "https://www.abc.net.au/news/2026-06-05/vic-armed-police-respond-to-spotswood-siege/106764902",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Police search for teens after homeless man stabbed in Bendigo overnight",
-            "url": "https://www.abc.net.au/news/2026-06-05/homeless-man-stabbed-bendigo-youth-crime-police-investigate/106762450",
+            "title": "Video shows man escaping court custody in Darwin, triggering police manhunt",
+            "url": "https://www.abc.net.au/news/2026-06-05/nt-police-manhunt-brandt-graham-escape-from-darwin-local-court/106764576",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Housing Debate Heats Up as Prices and Political Tensions Collide",
-        "body": "Federal politicians are locked in a heated exchange over housing affordability. Shadow ministers are pushing for a 6% drop in entry-level house prices, while Labor claims victory in ongoing tax reform discussions. Former Prime Minister John Howard has also entered the fray, signing an open letter urging gambling reforms that could impact property markets.\n\nThe debate has become increasingly charged, with some politicians admitting the topic now invokes significant political anxiety. Economists continue to watch closely as policy proposals could dramatically reshape Australia's real estate landscape.",
+        "headline": "One Nation Struggles with Housing Policy Clarity",
+        "body": "One Nation MPs are facing internal confusion over their party's housing policy, with multiple representatives unable to clearly articulate their stance. Prime Minister Anthony Albanese responded by stating he is not critical of One Nation voters, suggesting a nuanced political approach.\n\nThe policy disarray highlights potential internal challenges for the minor party and could impact their political credibility. Such public uncertainty may influence voter perceptions ahead of future electoral contests.",
         "sources": [
           {
-            "title": "Australia news live: John Howard signs open letter urging gambling reforms; Julian Hill claims Labor has ‘won the debate’ on housing tax changes",
+            "title": "Australia news live: Albanese says he is not ‘critical’ of One Nation voters; Asic investigates KPMG after whistleblower claims",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: Shadow minister says he wants to see 6pc drop in entry-level house prices",
-            "url": "https://www.abc.net.au/news/2026-06-05/federal-politics-live-blog-house-prices/106762216",
+            "title": "Multiple One Nation MPs are unclear about their party's housing policy",
+            "url": "https://www.abc.net.au/news/2026-06-05/one-nation-housing-policy-confusing-train-wreck-interview/106764998",
             "source": "ABC Australia",
             "lean": "center-left"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Police Officer Avoids Jail in Indigenous Teenager's Death",
+        "body": "A police sergeant has avoided jail time over the death of 16-year-old Indigenous teenager Jai Wright, a decision that will likely reignite discussions about police accountability. The case has drawn significant attention to systemic issues in law enforcement interactions with Indigenous communities.\n\nThe legal outcome raises complex questions about justice, police conduct, and the treatment of Indigenous Australians in the criminal justice system. Community and legal experts are expected to continue scrutinizing the case's implications.",
+        "sources": [
           {
-            "title": "Debate over house prices 'invokes terror' in politicians",
-            "url": "https://www.abc.net.au/news/2026-06-05/politicians-mixed-views-on-falling-house-prices/106762196",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Newsroom Edition: Are falling house prices a trap for Labor? – podcast",
-            "url": "https://www.theguardian.com/australia-news/audio/2026/jun/04/falling-house-prices-full-story-podcast",
+            "title": "Police sergeant avoids jail over death of 16-year-old Indigenous teenager Jai Wright",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/05/jai-wright-indigenous-teenager-collision-death-police-officer-avoids-jail-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "Sydney police officer sentenced over death of Indigenous 16yo",
+            "url": "https://www.abc.net.au/news/2026-06-05/nsw-police-officer-sentenced-jai-kalani-wright-death/106762426",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Israel-Lebanon Tensions Escalate as US Mediation Fails",
-        "body": "Diplomatic efforts to broker peace between Israel and Lebanon have collapsed after Hezbollah rejected a US-proposed ceasefire deal. The militant group's refusal comes as Israeli attacks continue, deepening the regional crisis. Tensions remain high, with both sides showing little willingness to compromise and international mediation efforts appearing increasingly futile.",
-        "sources": [
-          {
-            "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-            "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
-            "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine Mourns Children Lost as Russian Attacks Continue",
-        "body": "Ukraine continues to suffer devastating losses from ongoing Russian attacks. Kyiv reports 707 children have been killed since the 2022 invasion - a grim milestone that underscores the conflict's brutal human cost. In the latest assault, Russia killed 12 people in targeted strikes, maintaining its aggressive military campaign against Ukrainian civilian populations.",
+        "headline": "Ukraine Seeks Direct Talks as Putin Tensions Simmer",
+        "body": "Ukrainian President Volodymyr Zelensky has proposed a direct face-to-face meeting with Vladimir Putin in an unprecedented diplomatic overture. The open letter signals a potential breakthrough in the ongoing conflict that has devastated Ukraine for over two years.\n\nZelensky's proposal comes amid continued Russian attacks that have claimed civilian lives. The diplomatic gambit represents a high-risk strategy to potentially restart stalled peace negotiations and draw international attention to Ukraine's position.",
         "sources": [
           {
             "title": "Zelensky proposes face-to-face talks in open letter to Putin",
@@ -158,19 +140,43 @@
         ]
       },
       {
-        "headline": "Bolton to Plead Guilty in Classified Documents Case",
-        "body": "Former Trump administration official John Bolton is expected to accept a plea deal in the ongoing classified documents investigation. Sources confirm Bolton will plead guilty, marking a significant turn in the legal proceedings against a key figure who has since become a critic of the former president. The case highlights ongoing tensions surrounding government document handling and potential legal vulnerabilities.",
+        "headline": "Middle East Tensions Escalate with Hezbollah-Israel Conflict",
+        "body": "Hezbollah has rejected a US-brokered ceasefire agreement with Israel, dramatically increasing tensions in the region. The militant group's refusal threatens to expand the current conflict and potentially draw in broader regional actors.\n\nIsrael continues military strikes in Lebanon, while diplomatic efforts to de-escalate the situation appear to be faltering. The rejection signals a potentially dangerous escalation in a region already fraught with complex political and military dynamics.",
         "sources": [
           {
-            "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-            "url": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+            "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
-            "url": "https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case?traffic_source=rss",
+            "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
             "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "China's Xi Plans Rare North Korea State Visit",
+        "body": "Chinese President Xi Jinping is preparing for an unusual diplomatic mission to North Korea - a rare state visit that could reshape regional geopolitical dynamics. The trip signals potential renewed engagement between the two historically close but recently distant allies.\n\nXi's visit comes at a time of increased global scrutiny of North Korea's nuclear program and international isolation. The diplomatic journey could potentially signal new strategic alignments in East Asian geopolitics.",
+        "sources": [
+          {
+            "title": "China's Xi Jinping to make rare visit to North Korea",
+            "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -178,9 +184,39 @@
     ],
     "ai": [
       {
-        "headline": "AI Labs Proliferate as Tech Giants Stake Competitive Claims",
-        "body": "Airbnb's Brian Chesky is launching a new AI research lab, signaling the company's ambition to compete in artificial intelligence. The move comes amid intense corporate jockeying for technological advantage - with companies from tech platforms to defense contractors racing to establish AI capabilities.\n\nThe trend extends beyond Airbnb. Defense technology firms are increasingly prioritizing AI development, as evidenced by upcoming conferences and strategic investments. Some organizations, like the NSA, are already exploring advanced AI systems for specialized applications such as cybersecurity.",
+        "headline": "AI Startups Gear Up for High-Stakes IPO Battle",
+        "body": "The artificial intelligence sector is heating up as major players prepare for public offerings. Anthropic is moving forward with its IPO, with executive Daniela Amodei confidently addressing investor concerns about AI's financial potential. Meanwhile, the broader tech landscape sees increased scrutiny and excitement around AI companies' market entry strategies.\n\nThe competitive landscape is intensifying, with multiple AI firms positioning themselves for significant public market debuts. Investment interest remains high, despite ongoing debates about the long-term value and sustainability of AI technologies.",
         "sources": [
+          {
+            "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+            "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+            "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tech Giants Expand AI Reach Across Platforms and Services",
+        "body": "Major technology companies are aggressively integrating AI into their core products and infrastructure. Apple has approved Poke as the first AI agent on its Messages for Business platform, signaling a new approach to enterprise communication. Airbnb's Brian Chesky is planning to launch a dedicated AI research lab, highlighting the tech industry's continued investment in artificial intelligence.\n\nMicrosoft has also made a significant move by releasing Azure Linux 4.0 - its first general-purpose Linux distribution - potentially creating new opportunities for AI development and deployment.",
+        "sources": [
+          {
+            "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+            "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
             "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
@@ -188,62 +224,8 @@
             "lean": null
           },
           {
-            "title": "IPv6 zones in URLs are a mistake",
-            "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "NSA using Anthropic's Mythos for cyber attacks",
-            "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Meta Expands AI and Hardware Strategies Across Platforms",
-        "body": "Meta is aggressively pushing into AI and hardware, rolling out new creator tools and facial recognition technology for smart glasses. The company is also innovating in infrastructure - building data centers in tents to rapidly expand computational capacity.\n\nThese moves suggest Meta is doubling down on AI integration across its platforms. A new AI assistant for Facebook creators hints at the company's strategy to embed artificial intelligence deeper into user experiences. The unconventional data center approach underscores Meta's drive for efficiency and rapid scaling.",
-        "sources": [
-          {
-            "title": "Meta's ships facial recognition on smart glasses",
-            "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-            "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Meta rolls out a new AI creator assistant on Facebook",
-            "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Chip Makers Strain Under Massive AI Computational Demand",
-        "body": "TSMC is struggling to meet surging demand for AI-capable semiconductors, warning that its production capacity is severely constrained. The chip manufacturer's challenges reflect the explosive growth in artificial intelligence technologies and their increasing computational requirements.\n\nThe strain on manufacturing highlights the critical infrastructure challenges facing the AI industry. As companies across sectors invest heavily in AI development, the race for advanced computational resources has become a strategic bottleneck.",
-        "sources": [
-          {
-            "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-            "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-            "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-            "url": "https://github.com/huawei-csl/KVarN",
+            "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+            "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
             "source": "Hacker News",
             "lean": null
           }
@@ -252,8 +234,8 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Plunges 21% as Institutional Confidence Wavers",
-        "body": "Bitcoin suffered a sharp correction, dropping below $62,000 and testing institutional investors' resolve. Professional investors dumped 52,000 BTC from ETFs in Q1, signaling potential market uncertainty. The cryptocurrency's fear index hit 12 - a level reminiscent of the FTX crash - as selling pressure intensified across major investment platforms.",
+        "headline": "Bitcoin Plummets as Institutional Investors Bail",
+        "body": "Bitcoin suffered a sharp 21% decline, testing the resolve of institutional investors. Professional funds dumped over 52,000 BTC in ETFs during Q1, signaling potential market uncertainty. The cryptocurrency's price drop triggered a fear index reading of 12 - a level reminiscent of the FTX crash and sparking concerns about market stability.",
         "sources": [
           {
             "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
@@ -272,47 +254,17 @@
             "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-            "url": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment",
-            "url": "https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Saylor Defends Bitcoin Strategy Amid Market Turbulence",
-        "body": "Michael Saylor blamed capital rotation into AI for Bitcoin's recent slide, downplaying Strategy's massive paper loss of $11 billion. Despite the downturn, Saylor remains bullish on Bitcoin. Some analysts, like those at Schwab, suggest the $60,000 mining cost could mark the market bottom - offering a potential silver lining for long-term investors.",
+        "headline": "Mining Costs and Market Volatility Signal Potential Bottom",
+        "body": "Schwab strategists suggest Bitcoin's $60,000 mining cost could mark the current market cycle's bottom. Despite the recent price tumble, some analysts remain bullish. Michael Saylor of MicroStrategy blamed the downturn on capital rotation into AI, while investor Anthony Pompliano continues to maintain an optimistic outlook on Bitcoin's long-term potential.",
         "sources": [
           {
-            "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
-            "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Michael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000",
-            "url": "https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop",
+            "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
+            "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
             "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss",
-            "url": "https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Strategy's Saylor's explanation for bitcoin's slide isn't what bears think",
-            "url": "https://www.coindesk.com/markets/2026/06/04/strategy-s-saylor-s-explanation-for-bitcoin-s-slide-isn-t-what-bears-think",
-            "source": "CoinDesk",
             "lean": null
           },
           {
@@ -320,28 +272,16 @@
             "url": "https://bitcoinmagazine.com/news/schwab-strategist-bitcoins-60000-mining",
             "source": "Bitcoin Magazine",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Miners Emerge as Key Players in AI Infrastructure",
-        "body": "Bitcoin miners are positioning themselves as critical infrastructure providers for the AI boom. Bernstein analysts predict miners could see ninefold revenue growth by 2030 through strategic power management. This emerging role transforms Bitcoin mining from a purely cryptocurrency-focused activity to a broader technology infrastructure play.",
-        "sources": [
+          },
           {
-            "title": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom—And Revenue Will Surge: Bernstein",
-            "url": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
-            "source": "Decrypt",
+            "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
+            "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000",
+            "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "‘The power landlords of AI’: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030",
-            "url": "https://www.theblock.co/post/403636/the-power-landlords-of-ai-bernstein-initiates-coverage-on-bitcoin-miners-terawulf-and-cipher-digital-sees-ninefold-ai-revenue-by-2030?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "US Bitcoin Reserve Moving Ahead at ‘Deliberate Speed’: Bessent",
-            "url": "https://decrypt.co/369993/us-bitcoin-reserve-moving-ahead-at-deliberate-speed-bessent",
+            "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
+            "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
             "source": "Decrypt",
             "lean": null
           }
@@ -351,21 +291,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Smoked Paprika Shakshuka",
-      "cuisine": "North African/Middle Eastern fusion",
-      "description": "Eggs poached in a rich tomato sauce with deep smoky undertones and crispy herb-infused edges",
-      "tip": "Use cast iron skillet for best heat distribution and crispy bottom development"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that resets spinal alignment and interrupts prolonged sitting stress every 45 minutes",
-      "tip": "Use a small resistance band to do gentle standing side bends and rotational stretches between work tasks"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body's loading zones every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and rotation points"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and environmental adaptation mechanisms",
-      "why": "Reveals how complex natural systems can inspire revolutionary approaches to sustainable city planning and infrastructure development"
+      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and systemic solutions",
+      "why": "Reveals how complex natural systems can inspire revolutionary approaches to sustainable city planning and infrastructure"
     }
   }
 }
