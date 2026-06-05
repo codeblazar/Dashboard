@@ -1,53 +1,11 @@
 {
-  "generatedAt": "2026-06-05T11:12:00.547Z",
+  "generatedAt": "2026-06-05T22:31:07.422Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Senate Passes $70B Border Bill Amid GOP Tensions",
-        "body": "The Senate approved a $70 billion immigration enforcement package, highlighting deep Republican internal divisions. Six GOP senators broke ranks on key amendments, particularly around Trump's proposed anti-weaponization fund.\n\nWhile the bill passed, it revealed fractures within the Republican party. Fox News framed it as a Trump victory, while NPR emphasized the underlying conflicts. The legislation increases funding for ICE and Border Patrol, reflecting ongoing debates about border security and immigration policy.",
-        "sources": [
-          {
-            "title": "Senate passes $70B immigration enforcement bill",
-            "url": "https://www.npr.org/2026/06/05/nx-s1-5846767/senate-passes-70b-immigration-enforcement-bill",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Senate Republicans pass immigration funding after overnight vote",
-            "url": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Senate passes $70B immigration enforcement bill without limits on Trump settlement fund",
-            "url": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump scores victory despite growing GOP divide after Senate passes $70B ICE, Border Patrol funding package",
-            "url": "https://www.foxnews.com/politics/trump-scores-victory-despite-growing-gop-divide-senate-passes-70-billion-ice-border-patrol-funding-package",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Senate passes immigration enforcement funding after clashes over ballroom, ‘anti-weaponization’ fund",
-            "url": "https://thehill.com/homenews/senate/5911411-senate-passes-reconciliation-immigration-bill/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Six GOP senators vote to block Trump from reviving anti-weaponization fund",
-            "url": "https://thehill.com/homenews/senate/5911405-cassidy-amendment-anti-weaponization-fund/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "California and New Mexico Primaries Set Stage for Governor Races",
-        "body": "Two key western states saw significant primary developments in gubernatorial races. In California, Xavier Becerra and another candidate emerged as frontrunners, while former Interior Secretary Deb Haaland won New Mexico's Democratic primary.\n\nThese races signal potential shifts in state-level political leadership. California's race remains competitive, with multiple strong candidates vying for the nomination. Haaland's victory in New Mexico represents a potential return to electoral politics for a prominent Biden administration official.",
+        "headline": "California Primary Sees Tight Races for Governor, Senate Seats",
+        "body": "California's primary election revealed intense competition across multiple races. In the governor's contest, Hilton and Becerra emerged as leading candidates, with a tight battle reflecting the state's complex political landscape. Meanwhile, election officials are investigating potential voting irregularities - a development that could impact final results.\n\nThe primary also highlighted broader national political tensions. Multiple sources reported ongoing vote-counting challenges, with experts suggesting four key pressure points are slowing the process. These delays have raised questions about electoral transparency and efficiency.",
         "sources": [
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
@@ -56,14 +14,68 @@
             "lean": "center-left"
           },
           {
-            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
+            "title": "DOJ prosecutor in California opens ‘multiple election fraud’ probes",
+            "url": "https://thehill.com/homenews/state-watch/5912737-california-election-fraud-probes/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "California election limbo fueled by 4 pressure points dragging out vote count, expert says",
+            "url": "https://www.foxnews.com/politics/california-election-limbo-fueled-4-pressure-points-dragging-out-vote-count-expert-says",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Campaigns in Wisconsin, Targets Agriculture and Energy Policy",
+        "body": "Former President Trump visited Wisconsin, focusing on agricultural and energy issues crucial to rural voters. During a roundtable event, he discussed fertilizer and fuel prices - key economic concerns for farmers. Trump also addressed the recent Reflecting Pool renovation, defending the project against criticism.\n\nThe visit underscores Trump's continued political engagement and efforts to maintain influence within the Republican Party. His comments on agricultural policy and infrastructure projects signal an ongoing strategy to connect with working-class and rural constituencies.",
+        "sources": [
+          {
+            "title": "Trump talks fertilizer, fuel to farmers in Wisconsin, but also Reflecting Pool, fountains",
+            "url": "https://thehill.com/homenews/administration/5912786-fertilizer-energy-prices-rise/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Live updates: Trump heads to Wisconsin; Senate funds immigration enforcement through 2029",
+            "url": "https://thehill.com/homenews/administration/5910453-live-updates-senate-trump-budget-ballroom-midterms/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Watch live: Trump speaks on agriculture at Wisconsin roundtable",
+            "url": "https://thehill.com/video-clips/5912300-watch-live-donald-trump-wisconsin-agriculture-roundtable/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump: Reflecting Pool work wasn’t simply ‘paint job’",
+            "url": "https://thehill.com/homenews/administration/5912283-donald-trump-reflecting-pool-renovations-criticism-washington/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Senate Battles Over Funding, Immigration Enforcement Dominate Week",
+        "body": "The Senate concluded a grueling funding battle, ultimately approving immigration enforcement funding through 2029. The debate highlighted deep partisan divisions over border security and immigration policy. Republican Senator Eric Schmitt strongly advocated for stricter deportation measures, criticizing proposed legislation that would limit such actions.\n\nThe funding agreement represents a complex compromise, reflecting the challenging political negotiations surrounding immigration. Different political perspectives remain sharply divided, with each side presenting contrasting views on border security and immigrant rights.",
+        "sources": [
+          {
+            "title": "Eric Schmitt rips Hirono over denaturalization bill: 'You're damn right we're deporting' criminals",
+            "url": "https://www.foxnews.com/politics/eric-schmitt-rips-hirono-denaturalization-bill-youre-damn-right-were-deporting-criminals",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "5 takeaways from the grueling Senate funding battle that just ended",
+            "url": "https://www.washingtonpost.com/politics/2026/06/05/5-takeaways-senates-latest-grueling-funding-battle/",
             "source": "Washington Post",
             "lean": "center-left"
           },
           {
-            "title": "Becerra advances in California governor’s race",
-            "url": "https://thehill.com/homenews/campaign/5911230-xavier-becerra-advances-california-governor/",
+            "title": "ICE to stop reporting deaths of newly released detainees: ‘This is common sense’",
+            "url": "https://thehill.com/homenews/administration/5912449-ice-released-detainee-death-policy/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -72,203 +84,87 @@
     ],
     "au-politics": [
       {
-        "headline": "Royal Rent Controversy: Prince Andrew's Financial Arrangements Scrutinized",
-        "body": "A government watchdog has uncovered details about Prince Andrew's rental income from the Royal Lodge, raising questions about his financial management. The investigation found that Andrew earned rental income while charging tenants a token rent - a practice now under intense scrutiny.\n\nThe Spectator and ABC reports suggest differing perspectives on the appropriateness of Andrew's rental arrangements. While some argue the practice was within royal protocols, others see it as potentially improper financial handling of royal property.",
-        "sources": [
-          {
-            "title": "Andrew earned rental income from royal estate while paying token rent, watchdog finds",
-            "url": "https://www.abc.net.au/news/2026-06-05/andrew-pocketed-royal-cottage-rent-watchdog-finds/106766254",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Did Andrew need to charge his Royal Lodge tenants full rent?",
-            "url": "https://www.spectator.com.au/2026/06/did-andrew-need-to-charge-his-royal-lodge-tenants-full-rent/",
-            "source": "Spectator AU",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Albanese Admits One Nation's Rise Shaped Tax Reform Strategy",
-        "body": "Prime Minister Anthony Albanese has openly acknowledged that the growing political influence of One Nation played a significant role in the government's decision to overhaul the tax system. The admission signals a strategic response to the minor party's increasing electoral appeal.\n\nThe government's tax reform - particularly around capital gains tax - appears to be a direct attempt to address voter concerns highlighted by One Nation's populist messaging. This move suggests a pragmatic political approach to neutralizing potential electoral threats.",
-        "sources": [
-          {
-            "title": "One Nation, six farcical explanations and no clearer understanding of its housing policy",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/05/one-nation-pauline-hanson-housing-policy-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "PM admits One Nation's rise influenced decision to overhaul tax system",
-            "url": "https://www.abc.net.au/news/2026-06-05/albanese-one-nation-influence-tax-cgt/106765436",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Allegra Spender defends voting against CGT reform – as it happened",
-            "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "China's Xi Prepares for Diplomatic Visit to North Korea",
-        "body": "Chinese President Xi Jinping is set to travel to North Korea next week - his first visit since 2019. The diplomatic journey signals potential renewed engagement between the two nations after a period of limited high-level interactions.\n\nThe visit comes at a time of complex geopolitical tensions, with potential implications for regional stability and international diplomatic relationships. Xi's trip will likely be closely watched by global diplomatic observers for its strategic significance.",
-        "sources": [
-          {
-            "title": "Chinese President Xi Jinping will travel to North Korea next week",
-            "url": "https://www.abc.net.au/news/2026-06-05/chinese-president-to-visit-north-korea-first-visit-since-2019/106766452",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
+        "headline": "Australian Politics summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ],
     "world": [
       {
-        "headline": "World Cup 2026 Kicks Off Amid Geopolitical Tensions",
-        "body": "The FIFA World Cup 2026 approaches with unprecedented global scrutiny. Visa restrictions and ongoing conflicts are already casting shadows over the tournament. Iranian fans face significant challenges entering the United States - with travel bans and diplomatic tensions blocking many supporters from attending the global sporting event.\n\nThe tournament promises innovation, including NFL-style half-time shows and new team presentations. But beneath the spectacle, deeper geopolitical narratives simmer - with sports once again becoming a complex arena for international relations.",
-        "sources": [
-          {
-            "title": "Ranking the World Cup 2026 groups: Which teams are favourites to progress?",
-            "url": "https://www.aljazeera.com/sports/2026/6/5/ranking-the-2026-world-cup-groups-which-teams-are-favourites-to-progress?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US visa rejections, war on Iran keep fans away from World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
-            "url": "https://www.aljazeera.com/news/2026/6/5/fifa-world-cup-2026-super-bowl-half-time-show-kits-football-talking-points?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine Seeks Diplomatic Opening - Putin Remains Noncommittal",
-        "body": "Ukrainian President Volodymyr Zelenskyy has extended a direct diplomatic overture to Vladimir Putin, proposing a face-to-face meeting amid ongoing conflict. The Russian leader remains cautious - publicly stating it is too early to discuss long-term political scenarios.\n\nParallel to the diplomatic maneuvering, the International Atomic Energy Agency has brokered a temporary ceasefire to allow critical repairs at a nuclear facility. These fragile negotiations underscore the complex diplomatic landscape surrounding the prolonged Ukrainian conflict.",
-        "sources": [
-          {
-            "title": "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
-            "url": "https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
-            "url": "https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Putin says ‘too early’ to talk about staying in power until 2036",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/putin-says-too-early-to-talk-about-staying-in-power-until-2036?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-            "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Tensions Simmer: China, US Ratchet Up Pressure",
-        "body": "Diplomatic tensions continue to escalate across multiple global theaters. China's President Xi Jinping is set to visit North Korea - a rare diplomatic engagement aimed at reinforcing regional ties. Simultaneously, the United States has increased pressure on Cuba by sanctioning President Diaz-Canel.\n\nThese moves reflect ongoing geopolitical realignments. Xi's visit signals China's strategic interests in maintaining influence in the Korean peninsula, while US sanctions represent continued attempts to challenge governments perceived as adversarial.",
-        "sources": [
-          {
-            "title": "US raises pressure on Cuba as it sanctions President Diaz-Canel",
-            "url": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "China’s Xi headed to North Korea in bid to shore up ties",
-            "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-            "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          }
-        ]
+        "headline": "World Events summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ],
     "ai": [
       {
-        "headline": "EU Pushes Tech Sovereignty with Open-Source Strategy",
-        "body": "The European Commission unveiled a comprehensive strategy to boost tech independence and open-source development. The communication signals a major policy shift - positioning the EU as a critical counterweight to US and Chinese tech dominance.\n\nKey proposals include increased funding for open-source projects and stricter regulations around technological sovereignty. The strategy aims to reduce reliance on foreign tech platforms and create a more robust European digital ecosystem.",
+        "headline": "AI Compute Costs Skyrocket as Tech Giants Scramble",
+        "body": "The AI industry faces a financial reckoning as computational expenses spiral out of control. Google's massive $920 million monthly compute contract with SpaceX signals the extreme infrastructure demands of cutting-edge AI development.\n\nStartups and tech giants are now racing to optimize token usage and reduce runaway costs. The challenge extends beyond simple budgeting - it's a fundamental constraint on AI innovation that could reshape the competitive landscape.",
         "sources": [
           {
-            "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-            "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+            "title": "Google will pay SpaceX $920M per month for compute",
+            "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+            "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+            "url": "https://news.ycombinator.com/item?id=48414869",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Smart Devices Vulnerable: Hackers Exploit Connected Tech",
+        "body": "Cybersecurity researchers have uncovered a critical vulnerability allowing remote device infection through popular smart speakers. The exploit demonstrates how interconnected home and office technology can become a gateway for malicious actors.\n\nTech companies face mounting pressure to secure increasingly complex networks of smart devices. As AI integration deepens, the potential attack surface continues to expand - leaving users and businesses at growing risk.",
+        "sources": [
+          {
+            "title": "Highly reviewed speaker can be hacked over the air to infect connected devices",
+            "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Mantine-datatable (and others) compromised – owner account suspended",
+            "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-            "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-            "source": "Wired",
+            "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+            "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+            "source": "Ars Technica",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Security Challenges Emerge as Complexity Grows",
-        "body": "Recent cybersecurity incidents are exposing the intricate vulnerabilities of advanced AI systems. The Meta hack highlighted that current security models may be insufficient to protect increasingly complex technological infrastructure.\n\nInvestors and tech leaders are grappling with the mounting challenges. As AI becomes more integrated into critical systems, the need for robust security frameworks has never been more urgent.",
+        "headline": "Data Center Expansion Stalls Amid Environmental Pushback",
+        "body": "Local resistance and regulatory challenges are forcing major tech companies to dramatically scale back data center plans. New York has implemented a one-year ban on new data centers, while other protests have already cut proposed infrastructure by 50%.\n\nThe pushback reflects growing concerns about the environmental impact of massive computing infrastructure. Tech companies must now balance technological ambition with community and ecological considerations.",
         "sources": [
           {
-            "title": "AI Has Come for Serif Fonts",
-            "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-            "source": "Wired",
+            "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+            "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+            "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "The Meta hack shows there’s more to AI security than Mythos",
-            "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-            "source": "MIT Tech Review",
+            "title": "New York lawmakers pass one-year ban on new data centers",
+            "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+            "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-            "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+            "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+            "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
             "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Giants Expand AI Investments Amid Market Uncertainty",
-        "body": "Major tech companies are doubling down on AI research and development. Airbnb announced plans to launch a new AI laboratory - signaling continued industry optimism despite market volatility.\n\nInvestors remain bullish on AI potential. Anthropic is preparing for its IPO, with leadership confidently addressing concerns about potential returns in the rapidly evolving technological landscape.",
-        "sources": [
-          {
-            "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-            "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-            "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-            "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-            "source": "Wired",
             "lean": null
           }
         ]
@@ -276,48 +172,66 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles Below $63,000 as Market Confidence Wavers",
-        "body": "Bitcoin suffered a sharp decline, dropping near $62,000 amid broader market uncertainty. The cryptocurrency is experiencing its worst week since July 2024, with investors growing increasingly nervous about potential further downside.\n\nGrayscale analysts suggest the market needs new buyers to establish a sustainable price floor. The current volatility reflects broader challenges in crypto markets, including unwinding of AI-related trading positions and potential technical breakdown scenarios.",
+        "headline": "Bitcoin Plunges Below $60K as Market Sentiment Turns Bearish",
+        "body": "Bitcoin suffered a sharp selloff on Friday, breaking through critical support levels and triggering widespread market anxiety. The cryptocurrency dropped below $60,000 for the first time since October 2024 - a move that wiped out nearly $200 billion in market value.\n\nMichael Saylor of MicroStrategy called for disciplined expansion amid the downturn, suggesting the market needs strategic approach to maintain long-term growth. Analysts are watching closely for potential short-term rebounds, with some noting early signs of potential market stabilization.",
         "sources": [
           {
-            "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-            "url": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels",
+            "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+            "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale",
-            "url": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
+            "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
+            "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
+            "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
-            "url": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
+            "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
+            "url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin loses $60,000, falls to weakest price since October 2024",
+            "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
-            "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
-            "source": "CoinDesk",
+            "title": "How low can Bitcoin price go if $60K support fails?",
+            "url": "https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin ETF Outflows Finally Slow After Record Selling Streak",
-        "body": "US Bitcoin ETFs have ended a record-breaking period of massive investor withdrawals. The halt in outflows signals potential stabilization after weeks of sustained selling pressure.\n\nInvestors have been cautious, with many watching critical price levels around $60,000. A breakdown below this psychological threshold could trigger additional selling and further market turbulence.",
+        "headline": "Strong Jobs Data Hammers Bitcoin, Institutional Interest Remains Steady",
+        "body": "US jobs report triggered significant Bitcoin selling on Friday, pushing prices to multi-month lows. The robust employment numbers increased expectations of continued Federal Reserve monetary tightening - a scenario typically negative for speculative assets.\n\nDespite the price drop, institutional engagement remains active. Morgan Stanley announced new options for clients to lend Bitcoin, signaling continued financial sector interest in cryptocurrency infrastructure. ETF flows also showed signs of stabilization after weeks of consistent outflows.",
         "sources": [
           {
-            "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
-            "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
-            "source": "CoinDesk",
+            "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
+            "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
+            "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Here's what could happen if bitcoin breaks below $60,000",
-            "url": "https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000",
+            "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
+            "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
+            "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
+            "url": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
             "source": "CoinDesk",
             "lean": null
           }
@@ -328,20 +242,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-inspired Fusion",
+      "cuisine": "French-Inspired Fusion",
       "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Perform three 30-second standing back extensions with hands on lower back every two hours"
+      "name": "Dynamic Desk Alignment Protocol",
+      "description": "Implement a micro-movement sequence every 30 minutes to reset spinal alignment and interrupt sedentary muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and remind you of optimal standing/sitting positioning"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "The emerging field of designing cities and infrastructure by directly copying strategies found in natural ecosystems",
-      "why": "It offers revolutionary approaches to sustainable architecture, energy efficiency, and solving complex urban challenges by studying how nature has already solved similar problems"
+      "description": "Emerging architectural and engineering approach that designs human environments by studying and emulating nature's time-tested patterns and strategies",
+      "why": "Understanding how natural systems solve complex problems can revolutionize how we think about sustainable infrastructure and design"
     }
   }
 }
