@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-06T05:23:25.063Z",
+  "generatedAt": "2026-06-06T10:42:30.431Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "California and New Mexico Primaries Set November Showdowns",
-        "body": "Democrats Xavier Becerra and Deb Haaland secured top spots in their respective state governor primaries on Saturday. Becerra will face Republican challengers in California's November election after winning the most votes, while Haaland emerged victorious in New Mexico's primary contest.\n\nBoth candidates represent potential political comebacks - Becerra after serving as HHS Secretary and Haaland following her recent federal role. Their victories signal continued Democratic Party engagement in state-level races, with each hoping to translate national political experience into gubernatorial success.",
+        "headline": "California Primaries Reveal Shifting Political Landscape",
+        "body": "Democrat Xavier Becerra secured the top spot in California's gubernatorial primary, setting up a November showdown. The race highlights growing political tensions in the traditionally blue state - with some Republicans claiming momentum and voter fatigue.\n\nBecerra will likely face a competitive general election. Early results suggest Republicans are seeing increased support in California, potentially signaling broader national trends ahead of midterm elections.",
         "sources": [
-          {
-            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
             "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
             "source": "Washington Post",
             "lean": "center-left"
+          },
+          {
+            "title": "GOP victor in CA House primary cites major momentum shift in deep blue state: ‘Californians are tired’",
+            "url": "https://www.foxnews.com/politics/gop-victor-ca-house-primary-cites-major-momentum-shift-deep-blue-state-californians-tired",
+            "source": "Fox News",
+            "lean": "right"
           },
           {
             "title": "Democrat Xavier Becerra wins the top spot in November's race for California governor",
@@ -34,39 +34,21 @@
         ]
       },
       {
-        "headline": "Graham Platner Fights Allegations in Contentious Maine Senate Race",
-        "body": "Maine Senate candidate Graham Platner is battling new allegations that threaten his campaign, forcefully denying what he calls false accusations. At a rally, Platner claimed his past has been weaponized and appealed directly to Maine voters for support.\n\nDemocratic Representative Madeleine Dean suggested Platner has disqualified himself from the race, escalating tensions. The controversy highlights the increasingly personal nature of current political campaigns, where personal history can quickly become a central campaign issue.",
+        "headline": "Trump Tensions Rise Within Republican Party",
+        "body": "Mounting friction between former President Trump and Senate Republicans is creating internal party challenges. Some GOP senators have begun openly challenging Trump-backed initiatives - including a recent voter ID law that failed to pass.\n\nTrump continues to exert significant influence, expanding policy programs like his prescription drug discount initiative and signaling potential major changes in intelligence leadership. These moves are generating mixed reactions within Republican ranks.",
         "sources": [
           {
-            "title": "Graham Platner blasts new allegations as 'false accusations': 'Maine, you have my back'",
-            "url": "https://www.foxnews.com/politics/graham-platner-blasts-new-allegations-false-accusations-maine-you-have-my-back",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Graham Platner says his past has been ‘weaponized’ at rally in Maine",
-            "url": "https://www.washingtonpost.com/politics/2026/06/06/graham-platner-says-his-past-has-been-weaponized-rally-maine/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "House Democrat says Platner has ‘disqualified himself’ from Maine Senate race",
-            "url": "https://thehill.com/homenews/campaign/5912815-madeleine-dean-on-platner-allegations/",
+            "title": "Tensions grow between Trump and Senate GOP: Five takeaways",
+            "url": "https://thehill.com/homenews/senate/5912799-trump-gop-tensions-rising/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Graham Platner isn't going anywhere in Maine Senate race after latest controversy",
-            "url": "https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election",
-            "source": "NPR",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Targets Prescription Costs and Intelligence Community",
-        "body": "President Trump expanded his prescription drug discount program to cover over 800 medications, a move likely to appeal to cost-conscious voters. Simultaneously, he authorized new Director of National Intelligence William Pulte to begin mass personnel changes within intelligence agencies.\n\nThese actions underscore Trump's continued focus on healthcare affordability and his long-standing critique of the intelligence community. The prescription drug expansion and potential intelligence staff reductions represent key campaign promises being actively pursued.",
-        "sources": [
+            "title": "WATCH: Hawley fumes after 4 GOP senators help sink Trump-backed voter ID law",
+            "url": "https://www.foxnews.com/politics/watch-hawley-fumes-4-gop-senators-help-sink-trump-backed-voter-id-law",
+            "source": "Fox News",
+            "lean": "right"
+          },
           {
             "title": "Trump expands TrumpRx prescription drug discount program to more than 800 medications",
             "url": "https://www.foxnews.com/politics/trump-expands-trumprx-prescription-drug-discount-program-800-medications",
@@ -78,90 +60,60 @@
             "url": "https://www.foxnews.com/politics/trump-green-lights-new-dni-pulte-start-process-mass-intelligence-firings",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Trump acknowledges price pain for farmers as supporters cheer for ending war",
-            "url": "https://www.washingtonpost.com/politics/2026/06/05/trump-visits-wisconsin-bid-reassure-farmers/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Trump talks fertilizer, fuel to farmers in Wisconsin, but also Reflecting Pool, fountains",
-            "url": "https://thehill.com/homenews/administration/5912786-fertilizer-energy-prices-rise/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Aukus Partnership Faces Mounting Questions of Stability",
-        "body": "Australia's strategic defense alliance with the United States and United Kingdom is under scrutiny following reports of potential internal tensions. The Spectator Australia raised pointed questions about the partnership's coherence, suggesting underlying challenges that could impact regional security dynamics.\n\nWhile official statements remain diplomatic, the article hints at potential disagreements over implementation, technological transfer, and strategic priorities. The debate underscores the complex geopolitical negotiations required to maintain such a multilateral defense arrangement.",
+        "headline": "Australia-NZ Friendship Strengthens Amid Global Tensions",
+        "body": "Prime Minister Anthony Albanese and New Zealand's Christopher Luxon reaffirmed the trans-Tasman alliance, emphasizing resilience in a volatile global landscape. The leaders highlighted shared strategic interests and commitment to regional stability.\n\nTheir talks underscored the importance of bilateral cooperation, with both nations seeking to navigate complex geopolitical challenges. The meeting signals a united approach to diplomatic and economic cooperation in the Asia-Pacific region.",
         "sources": [
+          {
+            "title": "Australia, NZ back friendship to endure 'volatile world'",
+            "url": "https://www.abc.net.au/news/2026-06-06/pm-anthony-albanese-christoper-luxon-australia-new-zealand-talks/106767688",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
           {
             "title": "Is Aukus in disarray?",
             "url": "https://www.spectator.com.au/2026/06/is-aukus-in-disarray/",
             "source": "Spectator AU",
             "lean": "right"
-          },
-          {
-            "title": "US and Iran trade fire in Strait of Hormuz",
-            "url": "https://www.abc.net.au/news/2026-06-06/us-and-iran-trade-fire-near-strait-of-hormuz/106767478",
-            "source": "ABC Australia",
-            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Labor's Migration Strategy Sparks Political Debate",
-        "body": "The federal government's migration approach has become a focal point of political discussion, with the Spectator Australia criticizing Labor's budgetary projections for immigration. The critique suggests the current policy may have significant long-term economic and social implications.\n\nMigration policy remains a sensitive political issue, with different perspectives emerging from across the political spectrum. The debate reflects broader tensions around population growth, economic workforce needs, and national identity.",
+        "headline": "Disaster Recovery Funding Sparks Fierce Queensland Debate",
+        "body": "Proposed changes to disaster recovery funding in Queensland have triggered intense opposition from local communities and stakeholders. The controversial modifications could significantly impact how communities receive financial support after natural disasters.\n\nCritical voices argue the changes may leave vulnerable regions without adequate resources. Government officials maintain the reforms aim to streamline and improve recovery mechanisms, but face mounting pressure to reconsider the proposal.",
         "sources": [
+          {
+            "title": "Fierce opposition to disaster recovery funding changes in Queensland",
+            "url": "https://www.abc.net.au/news/2026-06-06/queensland-disaster-recovery-funding-changes-proposal/106768086",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
           {
             "title": "Labor is budgeting more migration",
             "url": "https://www.spectator.com.au/2026/06/labor-is-budgeting-more-migration/",
             "source": "Spectator AU",
             "lean": "right"
-          },
-          {
-            "title": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/06/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
-            "source": "Guardian AU",
-            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Shark Attack and Sports Highlight Weekend News",
-        "body": "A shark attack off the Western Australian coast near Albany has drawn national attention, with reports of a diver bitten by a suspected 4.5-meter shark. The incident underscores ongoing maritime safety concerns in Australian waters.\n\nIn sports news, the Socceroos and other Australian athletes continue to make headlines. Oscar Piastri's performance in Monaco F1 practice and the AFL matches provide additional weekend sporting drama, reflecting Australia's passionate sports culture.",
+        "headline": "Shark Attack Claims Diver's Life Off Western Australian Coast",
+        "body": "A fatal shark attack near Albany has shocked the local community and reignited discussions about marine safety. The victim - a diver - was killed by a 4.5-meter shark in waters off Western Australia's southern coast.\n\nEmergency services responded quickly, but could not save the man's life. The incident highlights ongoing risks for ocean users and may prompt renewed conversations about shark mitigation strategies.",
         "sources": [
           {
-            "title": "Breaking: Diver bitten by suspected 4.5m shark off Albany",
-            "url": "https://www.abc.net.au/news/2026-06-06/diver-bitten-in-shark-attack-off-albany-western-australia/106768050",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Man dies after shark attack off Western Australia coast near Albany",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Live: Kangaroos in huge hole as Dockers flex muscles in second quarter",
-            "url": "https://www.abc.net.au/news/2026-06-06/afl-rd-13-live-blog-nth-fre-gcs-bri-wce-ptad/106756074",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Korda stages comeback as four Aussies advance at US Open",
-            "url": "https://www.abc.net.au/news/2026-06-06/golf-us-womens-open-nelly-korda-stages-comeback-second-round/106767844",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Socceroos star labels US punditry 'rubbish' ahead of FIFA World Cup",
-            "url": "https://www.abc.net.au/news/2026-06-06/connor-metcalfe-sick-of-commentary-socceroos-fifa-world-cup/106767472",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Piastri struggles in Monaco F1 practice as Ferrari makes statement",
-            "url": "https://www.abc.net.au/news/2026-06-06/monaco-f1-grand-prix-oscar-piastri-lewis-hamilton/106767330",
+            "title": "Diver dies after being bitten by 4.5m shark off Albany, WA",
+            "url": "https://www.abc.net.au/news/2026-06-06/diver-dies-in-shark-attack-off-albany-western-australia/106768050",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -170,73 +122,85 @@
     ],
     "world": [
       {
-        "headline": "Iran Escalates Regional Tensions with Missile Strikes on Gulf States",
-        "body": "Iran launched missiles targeting Kuwait and Bahrain in a dramatic escalation of regional tensions following a clash with US forces. The strikes mark a significant expansion of the conflict, raising fears of broader regional instability.\n\nUS military sources confirmed Iranian drones were shot down and radar sites targeted in the initial confrontation. The situation remains highly volatile, with potential for further military engagement in the Gulf region.",
+        "headline": "US and Iran Trade Blows as Gulf Tensions Escalate",
+        "body": "Tensions in the Gulf region have sharply escalated after a series of military exchanges between the United States and Iran. US forces intercepted Iranian attacks and struck Iranian radar sites on Goruk and Qeshm Island - marking a dangerous escalation of ongoing regional conflicts.\n\nThe strikes come amid heightened regional instability, with reports of Iranian missiles targeting Kuwait and Bahrain. Military analysts warn that these exchanges could potentially trigger a broader conflict, with both sides testing the limits of recent ceasefire agreements.",
         "sources": [
+          {
+            "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+            "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+            "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
             "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "World Cup 2026 Kicks Off with Tech and Global Excitement",
+        "body": "The FIFA World Cup 2026 is set to revolutionize soccer with unprecedented technological innovations. New match ball sensors, AI-powered player tracking, and even robot dogs will transform how fans experience the tournament.\n\nWith teams like Iran receiving US visas and players like Ronaldo preparing for their sixth World Cup appearance, the global excitement is palpable. From zoo animals predicting winners to national teams finalizing preparations, the tournament promises to be a landmark sporting event.",
+        "sources": [
+          {
+            "title": "Jordan World Cup 2026 preview: Players to watch, group matches and squad",
+            "url": "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
           },
           {
-            "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
+            "title": "What’s new at World Cup 2026? From match ball sensors to AI and robot dogs",
+            "url": "https://www.aljazeera.com/sports/2026/6/6/fifa-world-cup-2026-what-is-new-sensor-match-ball-ai-player-avatar?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran's football team granted visas to enter US for World Cup, officials say",
+            "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Gaza Conflict Intensifies Despite Ceasefire Claims",
-        "body": "Israeli attacks continue to devastate Gaza, creating a climate of pervasive fear among residents. Families are left clearing rubble after overnight strikes, while France has opened a war crimes probe into Israel's treatment of Gaza activists.\n\nThe humanitarian crisis deepens as local communities struggle to survive. In one poignant example, fishermen are now constructing boats from doorframes - a stark symbol of resilience amid destruction.",
+        "headline": "Violence Continues in West Bank as Israeli-Palestinian Tensions Surge",
+        "body": "Another tragic incident has heightened tensions in the occupied West Bank after an Israeli soldier reportedly shot and killed a Palestinian baby near Hebron. The killing has drawn international condemnation, with Israeli settlers reportedly dismissing global criticism.\n\nThe ongoing conflict continues to spark international concern, with human rights organizations calling for immediate investigation and de-escalation of violence in the region.",
         "sources": [
           {
-            "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-            "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
+            "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+            "url": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-            "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
+            "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Families clear rubble after overnight Israeli strikes in Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Political Landscape: Trump Rallies Farmers Amid Complex Geopolitics",
-        "body": "Former President Trump is making strategic pitches to farmers in Wisconsin, highlighting economic challenges from tariffs and high prices. Simultaneously, he claims Iran talks are progressing positively and touts a recent jobs surge.\n\nIn related political developments, a federal judge struck down Trump-era restrictions on asylum and visa processing for 39 countries - a significant legal setback for the administration's immigration policies.",
-        "sources": [
-          {
-            "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-            "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
-            "url": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
+            "url": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -244,8 +208,8 @@
     ],
     "ai": [
       {
-        "headline": "AI Firms Blocked from S&P 500 as Market Tightens",
-        "body": "SpaceX, OpenAI, and Anthropic face a sharp market rebuke after being denied entry to the S&P 500 index. The rejection stems from strict profitability requirements that these high-profile tech companies currently cannot meet - a signal of increasing financial scrutiny in the AI and tech sectors.\n\nThe move highlights growing investor caution around unprofitable tech ventures. Despite massive valuations and technological promise, these companies must now prove sustainable business models to gain mainstream financial recognition.",
+        "headline": "AI and Tech Firms Blocked from S&P 500 Amid Profitability Concerns",
+        "body": "The S&P 500 has rejected high-profile tech companies SpaceX, OpenAI, and Anthropic from index entry. The move stems from strict listing requirements that demand consistent profitability - a bar these innovative but cash-burning firms cannot currently clear. This blockade signals growing scrutiny of tech unicorns that have relied on massive venture capital and speculative valuations.\n\nThe decision could force these companies to reassess their financial strategies. For SpaceX and AI leaders like OpenAI, the rejection represents a significant challenge to their narrative of transformative technological progress.",
         "sources": [
           {
             "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
@@ -262,8 +226,8 @@
         ]
       },
       {
-        "headline": "Google Pays SpaceX $920M Monthly for Massive Compute Deal",
-        "body": "Google has struck a landmark infrastructure agreement with SpaceX, committing nearly a billion dollars monthly for computational resources. The deal underscores the massive computing demands driving AI development and the strategic partnerships emerging between tech giants.\n\nThis unprecedented compute contract signals the escalating computational arms race in artificial intelligence. Companies are investing heavily in infrastructure to power next-generation machine learning models and maintain competitive technological edges.",
+        "headline": "Google Commits $920M Monthly to SpaceX Compute Infrastructure",
+        "body": "Google has struck a massive cloud computing deal with SpaceX, agreeing to pay $920 million monthly for computational resources. The agreement underscores the escalating computational demands of AI development and cloud services. Tech giants are increasingly seeking alternative infrastructure solutions beyond traditional data center models.\n\nThe deal comes as New York lawmakers passed a one-year moratorium on new data center construction, reflecting growing local resistance to massive tech infrastructure projects. For SpaceX, this represents a significant revenue stream beyond its space exploration activities.",
         "sources": [
           {
             "title": "Google will pay SpaceX $920M per month for compute",
@@ -271,18 +235,6 @@
             "source": "TechCrunch",
             "lean": null
           },
-          {
-            "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "New York Halts Data Center Expansion Amid Local Resistance",
-        "body": "New York state lawmakers have passed a one-year moratorium on new data center construction, responding to mounting local opposition. The unprecedented move reflects growing community pushback against the environmental and infrastructure impacts of massive tech infrastructure.\n\nTech companies face increasing regulatory challenges as communities demand greater accountability for resource consumption and local disruption. The ban signals a potential shift in how large-scale technological infrastructure is planned and implemented.",
-        "sources": [
           {
             "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
             "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
@@ -300,24 +252,12 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Plunges Below $60K - Bears Sense Blood",
-        "body": "Bitcoin suffered a sharp downturn, dropping below the critical $60,000 support level and wiping out $200 billion in market value. Traders watched closely as funding rates dropped - a potential signal of brewing market tension.\n\nDespite the dramatic fall, hardcore Bitcoin investors remain unfazed. Market analysts suggest the current volatility might trigger a short squeeze, with bearish positions potentially facing a $2.6 billion trap if sentiment rapidly reverses.",
+        "headline": "Bitcoin Rebounds - $1.6 Billion Liquidation Shakes Market",
+        "body": "Bitcoin clawed back above $61,000 after a brutal 24-hour selloff that triggered massive investor liquidations. Traders saw over $1.6 billion in positions forcibly closed as volatility hammered cryptocurrency markets.\n\nThe rapid price swings underscore Bitcoin's ongoing market sensitivity. Institutional and retail investors alike felt the impact - with futures and options contracts bearing the brunt of the sudden price movement.",
         "sources": [
           {
-            "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
-            "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
-            "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-            "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
+            "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+            "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
             "source": "CoinDesk",
             "lean": null
           }
@@ -329,19 +269,19 @@
     "food": {
       "name": "Moroccan Spiced Lamb Tagine",
       "cuisine": "North African",
-      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over herbed couscous",
       "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "Perform a targeted micro-stretch sequence that realigns vertebral spacing and releases tension in the thoracic spine",
-      "tip": "Use a doorframe as a guide: place hands on either side at shoulder height and gently lean forward, allowing gravity to create spinal traction"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic standing intervals to reset spinal compression and muscular tension",
+      "tip": "Use a kitchen timer to alternate between sitting and standing every 25 minutes"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and systemic solutions",
-      "why": "Reveals how complex natural systems can inspire revolutionary approaches to sustainable city planning and infrastructure development"
+      "description": "Architectural and engineering strategies that directly copy nature's elegant problem-solving mechanisms",
+      "why": "Reveals how complex natural systems can inspire revolutionary approaches to sustainable city planning and infrastructure"
     }
   }
 }
