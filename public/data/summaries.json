@@ -1,12 +1,42 @@
 {
-  "generatedAt": "2026-06-06T22:28:27.917Z",
+  "generatedAt": "2026-06-07T05:37:17.344Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "California Governor Race Heats Up with Hilton and Becerra",
-        "body": "California's gubernatorial primary is drawing sharp battle lines between career politician Xavier Becerra and challenger Steve Hilton. Hilton launched an aggressive ad campaign mocking Becerra's 36-year political tenure, positioning himself as an outsider candidate seeking reform.\n\nThe race reflects broader tensions within California's political landscape. Becerra, a longtime Democratic insider, faces mounting criticism about establishment politics. Hilton's strategy targets voter frustration with career politicians, using pointed messaging to differentiate himself from the incumbent political class.",
+        "headline": "Democrats Face Internal Tensions Ahead of Midterms",
+        "body": "The Democratic Party confronts mounting internal criticism about its political direction. A prominent mayor argues the party has drifted from working-class concerns - a potentially damaging narrative as midterm elections approach.\n\nSimultaneously, the Biden administration experiences leadership transitions, with a key AI policy adviser preparing to exit. These shifts suggest potential strategic recalibration within the party's policy apparatus.",
         "sources": [
+          {
+            "title": "White House AI policy adviser to leave role at end of month",
+            "url": "https://thehill.com/homenews/administration/5913508-ai-policy-expert-leaves-white-house/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Mamdani: Democratic Party has ‘lost its focus on working people’",
+            "url": "https://thehill.com/homenews/campaign/5913496-mayor-mamdani-democrats-economic-issues/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "California and New Mexico Primaries Signal Complex Political Landscape",
+        "body": "State-level primaries reveal nuanced political dynamics across the Southwest. In New Mexico, former Biden official Deb Haaland secured the gubernatorial primary - a potential signal of continued progressive momentum.\n\nCalifornia's gubernatorial race shows similar complexity. Candidates like Steve Hilton and Xavier Becerra are battling over political experience and voter perception. The race highlights ongoing tensions between establishment and insurgent political approaches.",
+        "sources": [
+          {
+            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
+            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
             "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
@@ -20,32 +50,14 @@
             "lean": "right"
           },
           {
+            "title": "Who will face Karen Bass? LA voters still waiting to find out",
+            "url": "https://www.npr.org/2026/06/06/nx-s1-5845371/who-will-face-karen-bass-la-voters-still-waiting-to-find-out",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
             "title": "McCarthy criticizes California’s vote count process after Trump claim of ‘big cheating’",
             "url": "https://thehill.com/homenews/campaign/5913401-mccarthy-criticizes-california-vote-count/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Continues Controversial Pardons, Sparks Political Debate",
-        "body": "Former President Trump has again wielded his presidential pardon power, this time clearing a GOP congressman convicted of insider trading. The move reignites long-standing debates about executive clemency and political accountability.\n\nReactions split along predictable partisan lines. Some Republicans defend Trump's action as executive prerogative, while Democrats and critics view it as undermining judicial processes. Former Vice President Mike Pence separately criticized Trump's previous pardons of January 6 rioters, suggesting such individuals should not benefit financially from their actions.",
-        "sources": [
-          {
-            "title": "Trump pardons former GOP congressman convicted of insider trading",
-            "url": "https://www.washingtonpost.com/politics/2026/06/06/trump-pardons-former-gop-congressman-convicted-insider-trading/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Trump pardons ex-GOP lawmaker convicted in insider trading scheme",
-            "url": "https://thehill.com/homenews/administration/5913284-donald-trump-steve-buyer-indiana-pardon-insider-trading/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Pence says violent Jan. 6 rioters pardoned by Trump ‘should never get a dime’",
-            "url": "https://thehill.com/homenews/administration/5913383-pence-criticizes-trump-pardons/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -54,56 +66,57 @@
     ],
     "au-politics": [
       {
-        "headline": "Australian Politics summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
-      }
-    ],
-    "world": [
-      {
-        "headline": "US-Iran Tensions Escalate as Diplomatic Channels Fray",
-        "body": "Diplomatic relations between the United States and Iran have sharply deteriorated. Iranian officials reported staff were blocked from entering the US despite World Cup player visas - a move signaling deepening hostilities. The conflict continues to simmer, with ongoing military exchanges in the Gulf region testing fragile ceasefire agreements.\n\nThe situation reflects broader geopolitical tensions. With 100 days into the conflict, President Trump struggles to build domestic support for continued military engagement. Regional powers watch nervously as the standoff threatens to destabilize the Middle East.",
+        "headline": "Aukus Submarine Deal Sparks Heated Political Debate",
+        "body": "Prime Minister Anthony Albanese remains committed to the Aukus nuclear submarine program, declaring the initiative is full-steam ahead despite growing criticism. The Greens have raised significant concerns, warning that the deal could escalate tensions with China and potentially draw Australia into a military conflict.\n\nThe opposition between government and Green Party perspectives highlights the complex geopolitical calculations at play. While Albanese sees the submarines as a critical strategic asset, the Greens argue the program risks destabilizing regional security and increasing military confrontation.",
         "sources": [
           {
-            "title": "Iran says staff blocked from entering US after players given World Cup visas",
-            "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
+            "title": "Greens warn nuclear submarines deal risks war with China as Albanese says Aukus ‘full-steam ahead’",
+            "url": "https://www.theguardian.com/world/2026/jun/07/greens-warn-nuclear-submarines-deal-risks-war-with-china-as-albanese-says-aukus-full-steam-ahead",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "100 days into the war on Iran, Trump fails to rally US support",
-            "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-            "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
+            "title": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
+            "url": "https://www.abc.net.au/news/2026-06-07/shoebridge-beyond-capacity-aukus-defend-sea-trade-lanes/106769392",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Israeli-Palestinian Violence Escalates with Deadly Attacks",
-        "body": "Tensions between Israel and Palestinians have reached a critical point. Israeli attacks in Gaza and the West Bank have resulted in multiple civilian casualties - including the tragic death of a baby killed by Israeli troops. Video evidence has emerged showing Israeli soldiers and settlers assaulting Palestinians.\n\nThe violence extends beyond Gaza. Lebanese sources report Israeli attacks killing at least 12 people - including high-ranking military officers. These incidents threaten to spark wider regional conflict and further erode hopes for peaceful resolution.",
+        "headline": "Liberal Party Confronts Internal Challenges of Gender Representation",
+        "body": "The Liberal Party is facing internal scrutiny over its approach to women's representation and participation. A recent Spectator Australia analysis suggests the party is struggling to address systemic barriers that limit female political engagement.\n\nThe debate reflects broader conversations about gender dynamics within Australian political institutions. While the party leadership has not publicly responded in detail, the ongoing discussion signals potential pressure for structural reforms and more inclusive candidate selection processes.",
         "sources": [
           {
-            "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-            "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Does the Liberal Party have a woman problem?",
+            "url": "https://www.spectator.com.au/2026/06/does-the-liberal-party-have-a-woman-problem/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
+      }
+    ],
+    "world": [
+      {
+        "headline": "Middle East Tensions Escalate as Iran-Israel Conflict Widens",
+        "body": "Diplomatic relations between the US and Iran remain fraught, with multiple failed negotiations casting a shadow over regional stability. The ongoing conflict has drawn in multiple actors - with Israel launching attacks in Lebanon and Gaza, killing military personnel and civilians. Pakistan has urged an end to the hostilities, signaling growing international concern about potential broader escalation.",
+        "sources": [
+          {
+            "title": "How many times were the US and Iran on the verge of a deal?",
+            "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+            "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -111,16 +124,34 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Armenia Votes Under Russian Pressure - Democracy at Crossroads",
+        "body": "Armenia holds critical elections today with significant geopolitical implications. The vote comes amid intense pressure from Russia to maintain its traditional sphere of influence. Pro-Western government factions face a crucial test - balancing national sovereignty with regional power dynamics. International observers are closely monitoring the electoral process for signs of potential interference or manipulation.",
+        "sources": [
           {
-            "title": "Israeli attacks in Lebanon kill 12 people, including high-ranking officers",
-            "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Armenia votes as Russia piles pressure on pro-West government",
+            "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Israeli attack on Gaza City tent camp kills at least seven",
-            "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+            "title": "Why are Armenia’s elections being so keenly watched abroad?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "China's Xi Visits North Korea - Strategic Signals Sent",
+        "body": "Chinese President Xi Jinping's unexpected visit to North Korea signals renewed diplomatic engagement in the region. The timing and context suggest a strategic recalibration of bilateral relations. Xi's trip comes amid global tensions - potentially aimed at strengthening China's geopolitical positioning and sending a message to Western powers about regional alliances.",
+        "sources": [
+          {
+            "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+            "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -129,79 +160,91 @@
     ],
     "ai": [
       {
-        "headline": "AI & Technology summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "AI Safety Advances as OpenAI Shields Against Prompt Attacks",
+        "body": "OpenAI has introduced Lockdown Mode - a new security feature designed to protect sensitive data from increasingly sophisticated prompt injection attacks. The move signals growing concerns about AI system vulnerabilities in enterprise and sensitive environments.\n\nThe development comes alongside emerging tools like TakoVM, which offers isolated model execution for businesses. These technologies reflect an industry-wide push to create more robust and secure AI deployment strategies.",
+        "sources": [
+          {
+            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+            "url": "https://github.com/las7/TakoVM",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+            "url": "https://arxiv.org/abs/2601.14470",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Tech Shifts: White House AI Advisor Exits amid Political Tensions",
+        "body": "Sriram Krishnan is stepping down from his role as White House AI advisor, creating uncertainty in the national AI policy landscape. His departure coincides with potential political maneuvering around AI governance - including reports that the Trump administration might seek an equity stake in OpenAI.\n\nThe moves underscore the increasingly complex intersection of technology, politics, and strategic national interests in the AI domain.",
+        "sources": [
+          {
+            "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+            "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "The Trump administration might take an equity stake in OpenAI",
+            "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Meta Faces Major Security Breach through AI Chatbot Exploit",
+        "body": "Thousands of Instagram accounts have been compromised after hackers discovered a vulnerability in Meta's AI chatbot. The breach exposes significant security risks in conversational AI platforms and raises questions about the robustness of current authentication mechanisms.\n\nThis incident follows Meta's recent experiments with AI-generated content, including an AI-powered clickbait news feed - suggesting the platform is pushing technological boundaries while potentially overlooking critical security implications.",
+        "sources": [
+          {
+            "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+            "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Meta made its own AI-generated clickbait news feed",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Plunges: Worst Market Rout Since FTX Collapse",
-        "body": "Bitcoin suffered a brutal selloff this week - wiping out gains accumulated since the 2024 presidential election. Crypto markets shed $390 billion in value, marking the most significant downturn since the FTX bankruptcy. Technical indicators suggest Bitcoin is now the most oversold it has been since the 2020 market crash. Investors are watching closely to see if the digital asset can find support and potentially rebound toward the $70,000 level.",
-        "sources": [
-          {
-            "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-            "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
-            "url": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Billion-Dollar Bitcoin Bet Signals Investor Confidence",
-        "body": "A prominent crypto pioneer has doubled down on Bitcoin, converting a $20 million family investment into a billion-dollar fund. The move signals continued institutional confidence despite current market volatility. Meanwhile, Michael Saylor - a vocal Bitcoin advocate - outlined four key forces he believes are critical to Bitcoin's long-term success. These strategic investments and vocal support suggest some investors remain bullish on Bitcoin's potential.",
-        "sources": [
-          {
-            "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-            "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
-            "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Satoshi-Era Bitcoin Moves in $285 Billion Legal Battle",
-        "body": "Bitcoin from the earliest days of the cryptocurrency - potentially linked to its mysterious creator Satoshi Nakamoto - has begun moving after 14 years of dormancy. The coins are central to a massive $285 billion lawsuit that could have significant implications for the Bitcoin ecosystem. The sudden movement of these long-untouched coins has sparked intense speculation about ownership and potential market impact.",
-        "sources": [
-          {
-            "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-            "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
+        "headline": "Bitcoin summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ]
   },
   "suggestions": {
     "food": {
-      "name": "Saffron Risotto with Crispy Pancetta",
-      "cuisine": "Italian fusion",
-      "description": "Creamy Arborio rice infused with golden saffron threads, topped with crispy rendered pancetta for textural contrast",
-      "tip": "Toast the rice in butter before adding liquid to enhance nutty flavor and prevent mushiness"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
     },
     "health": {
       "category": "Posture",
       "name": "Desk Spine Decompression",
-      "description": "Perform a targeted 3-minute spinal reset using wall traction and controlled breathing to counteract prolonged sitting",
-      "tip": "Stand with your back against a wall, slowly slide down into a seated position, and breathe deeply while maintaining wall contact"
+      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
+      "tip": "Perform three 30-second standing back extensions every 90 minutes, focusing on gentle backward arch and shoulder blade retraction"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, from self-healing materials to adaptive energy systems",
-      "why": "This emerging field offers radical solutions to urban sustainability challenges by directly translating nature's 3.8 billion years of evolutionary problem-solving"
+      "description": "An emerging design philosophy where city infrastructure and architecture directly mimic natural ecosystem principles and efficiencies",
+      "why": "Understanding how nature solves complex problems can revolutionize how humans design sustainable, adaptive urban environments"
     }
   }
 }
