@@ -1,35 +1,11 @@
 {
-  "generatedAt": "2026-06-07T05:37:17.344Z",
+  "generatedAt": "2026-06-07T10:50:08.261Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Democrats Face Internal Tensions Ahead of Midterms",
-        "body": "The Democratic Party confronts mounting internal criticism about its political direction. A prominent mayor argues the party has drifted from working-class concerns - a potentially damaging narrative as midterm elections approach.\n\nSimultaneously, the Biden administration experiences leadership transitions, with a key AI policy adviser preparing to exit. These shifts suggest potential strategic recalibration within the party's policy apparatus.",
-        "sources": [
-          {
-            "title": "White House AI policy adviser to leave role at end of month",
-            "url": "https://thehill.com/homenews/administration/5913508-ai-policy-expert-leaves-white-house/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Mamdani: Democratic Party has ‘lost its focus on working people’",
-            "url": "https://thehill.com/homenews/campaign/5913496-mayor-mamdani-democrats-economic-issues/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
-            "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "California and New Mexico Primaries Signal Complex Political Landscape",
-        "body": "State-level primaries reveal nuanced political dynamics across the Southwest. In New Mexico, former Biden official Deb Haaland secured the gubernatorial primary - a potential signal of continued progressive momentum.\n\nCalifornia's gubernatorial race shows similar complexity. Candidates like Steve Hilton and Xavier Becerra are battling over political experience and voter perception. The race highlights ongoing tensions between establishment and insurgent political approaches.",
+        "headline": "Democrats Eye Gubernatorial Wins in Western States",
+        "body": "Former Interior Secretary Deb Haaland secured the New Mexico gubernatorial primary, signaling potential Democratic momentum in state-level races. Her victory follows a competitive primary campaign that tested her political brand beyond federal office.\n\nIn California, prominent Democrats including Alex Becerra are leading their primary contest, suggesting the party is positioning strong candidates in key western states. These primaries reflect ongoing Democratic strategies to rebuild state-level political infrastructure.",
         "sources": [
           {
             "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
@@ -42,22 +18,40 @@
             "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
             "source": "Washington Post",
             "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump's Ukraine Policy Sparks Bipartisan Confusion",
+        "body": "Former President Trump continues to perplex foreign policy experts with his approach to drone support for Ukraine. His hesitation on military aid has drawn criticism from both Republican and Democratic national security voices.\n\nThe ongoing uncertainty highlights persistent tensions within the GOP about international military commitments. Trump's position remains complex - balancing isolationist rhetoric with traditional Republican defense perspectives.",
+        "sources": [
+          {
+            "title": "Trump drags feet on drone deal with Ukraine, mystifying experts",
+            "url": "https://thehill.com/policy/defense/5911039-trump-drone-deal-ukraine/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Steve Hilton launches ad mocking Xavier Becerra's '36 years' as a career politician in California gov race",
-            "url": "https://www.foxnews.com/politics/steve-hilton-launches-ad-mocking-xavier-becerras-36-years-career-politician-california-gov-race",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Economic Tensions Simmer in Democratic Party Ranks",
+        "body": "Internal Democratic Party debates intensify as some leaders argue the party has drifted from working-class concerns. Prominent voices are calling for a renewed focus on economic issues and grassroots priorities.\n\nThe critique comes amid ongoing discussions about party strategy and messaging ahead of upcoming midterm elections. Democratic leaders are wrestling with how to reconnect with voters across different economic demographics.",
+        "sources": [
+          {
+            "title": "Mamdani: Democratic Party has ‘lost its focus on working people’",
+            "url": "https://thehill.com/homenews/campaign/5913496-mayor-mamdani-democrats-economic-issues/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Who will face Karen Bass? LA voters still waiting to find out",
-            "url": "https://www.npr.org/2026/06/06/nx-s1-5845371/who-will-face-karen-bass-la-voters-still-waiting-to-find-out",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "McCarthy criticizes California’s vote count process after Trump claim of ‘big cheating’",
-            "url": "https://thehill.com/homenews/campaign/5913401-mccarthy-criticizes-california-vote-count/",
+            "title": "Democratic confidence surges with Turek’s Iowa Senate primary",
+            "url": "https://thehill.com/homenews/campaign/5913157-josh-turek-iowa-senate-democrats/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -66,92 +60,146 @@
     ],
     "au-politics": [
       {
-        "headline": "Aukus Submarine Deal Sparks Heated Political Debate",
-        "body": "Prime Minister Anthony Albanese remains committed to the Aukus nuclear submarine program, declaring the initiative is full-steam ahead despite growing criticism. The Greens have raised significant concerns, warning that the deal could escalate tensions with China and potentially draw Australia into a military conflict.\n\nThe opposition between government and Green Party perspectives highlights the complex geopolitical calculations at play. While Albanese sees the submarines as a critical strategic asset, the Greens argue the program risks destabilizing regional security and increasing military confrontation.",
+        "headline": "Albanese Backs AUKUS as Greens Warn of China Conflict",
+        "body": "Prime Minister Anthony Albanese has reaffirmed Australia's commitment to the AUKUS nuclear submarine program, declaring it is moving full-steam ahead. The Greens, however, have raised significant concerns about potential military escalation with China.\n\nThe opposition party argues the submarine deal could increase regional tensions and drag Australia into a potential conflict. Albanese remains steadfast, positioning the strategic defense partnership as crucial to national security. The debate highlights ongoing divisions in Australian foreign policy approaches.",
         "sources": [
           {
             "title": "Greens warn nuclear submarines deal risks war with China as Albanese says Aukus ‘full-steam ahead’",
             "url": "https://www.theguardian.com/world/2026/jun/07/greens-warn-nuclear-submarines-deal-risks-war-with-china-as-albanese-says-aukus-full-steam-ahead",
             "source": "Guardian AU",
             "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Pauline Hanson Backs Ben Roberts-Smith at Public Rally",
+        "body": "One Nation leader Pauline Hanson has publicly declared her support for Ben Roberts-Smith, telling a rally she respects and admires the controversial former SAS soldier. Hanson suggested she understands Roberts-Smith's experience, claiming she has walked in his shoes.\n\nThe comments come amid ongoing legal and public scrutiny of Roberts-Smith's military conduct. Hanson's intervention adds another layer of political complexity to the high-profile case, potentially influencing public perception of the decorated veteran.",
+        "sources": [
+          {
+            "title": "One Nation leader Pauline Hanson tells rally Ben Roberts-Smith is a person ‘I respect and I admire’",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/07/one-nation-leader-pauline-hanson-tells-rally-ben-roberts-smith-is-a-person-i-respect-and-i-admire-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
-            "url": "https://www.abc.net.au/news/2026-06-07/shoebridge-beyond-capacity-aukus-defend-sea-trade-lanes/106769392",
+            "title": "Pauline Hanson tells Ben Roberts-Smith supporters she's 'walked in his shoes'",
+            "url": "https://www.abc.net.au/news/2026-06-07/pauline-hanson-says-she-knows-how-ben-roberts-smith-feels/106769724",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Liberal Party Confronts Internal Challenges of Gender Representation",
-        "body": "The Liberal Party is facing internal scrutiny over its approach to women's representation and participation. A recent Spectator Australia analysis suggests the party is struggling to address systemic barriers that limit female political engagement.\n\nThe debate reflects broader conversations about gender dynamics within Australian political institutions. While the party leadership has not publicly responded in detail, the ongoing discussion signals potential pressure for structural reforms and more inclusive candidate selection processes.",
+        "headline": "ACT Pauses Infrastructure Projects amid Construction Peak",
+        "body": "The Australian Capital Territory has decided to put several infrastructure projects on hold, citing the region's current construction saturation. Local authorities suggest the pause will allow current projects to progress without overwhelming existing resources.\n\nThe decision reflects a strategic approach to managing urban development, balancing ongoing construction demands with capacity constraints. It signals a pragmatic response to the region's rapid growth and infrastructure challenges.",
         "sources": [
           {
-            "title": "Does the Liberal Party have a woman problem?",
-            "url": "https://www.spectator.com.au/2026/06/does-the-liberal-party-have-a-woman-problem/",
-            "source": "Spectator AU",
-            "lean": "right"
+            "title": "Several infrastructure projects put on backburner as ACT 'at peak construction'",
+            "url": "https://www.abc.net.au/news/2026-06-07/several-act-infrastructure-projects-to-be-put-on-backburner/106767638",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Middle East Tensions Escalate as Iran-Israel Conflict Widens",
-        "body": "Diplomatic relations between the US and Iran remain fraught, with multiple failed negotiations casting a shadow over regional stability. The ongoing conflict has drawn in multiple actors - with Israel launching attacks in Lebanon and Gaza, killing military personnel and civilians. Pakistan has urged an end to the hostilities, signaling growing international concern about potential broader escalation.",
+        "headline": "US-Israel War on Iran Reaches Grim 100-Day Milestone",
+        "body": "The protracted conflict between the US, Israel, and Iran has ground into its fourth month, with escalating tensions and no clear resolution in sight. Multiple Al Jazeera reports highlight the ongoing military exchanges and geopolitical fallout from the sustained military campaign.\n\nBoth sides continue to trade attacks, with diplomatic channels seemingly exhausted. The war has dramatically reshaped regional dynamics, drawing international scrutiny and causing significant economic and humanitarian strain. Iran claims survival as a form of victory, while US and Israeli officials maintain their strategic objectives remain uncompromised.",
         "sources": [
+          {
+            "title": "How have countries around the world responded to the US-Israel war on Iran?",
+            "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "100 days of the US–Israel war on Iran",
+            "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "The accomplishments of 100 days of war on Iran are undeniable",
+            "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran after 100 days of war: The triumph of survival",
+            "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+            "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war 100 days: How the conflict impacted Iran and the world",
+            "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "How many times were the US and Iran on the verge of a deal?",
             "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Kosovo Votes Again - Democracy Strained by Political Deadlock",
+        "body": "Kosovo held its third election in 16 months on Sunday, with voters hoping to break a persistent political impasse. The small Balkan nation continues to struggle with internal divisions and seeks closer integration with the EU and NATO.\n\nThe repeated electoral cycles reflect deep-rooted challenges in Kosovo's democratic process. International observers are closely monitoring the vote, which could potentially determine the country's diplomatic and economic trajectory in the coming years.",
+        "sources": [
           {
-            "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+            "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+            "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-            "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Kosovo holds third election in 16 months",
+            "url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Armenia Votes Under Russian Pressure - Democracy at Crossroads",
-        "body": "Armenia holds critical elections today with significant geopolitical implications. The vote comes amid intense pressure from Russia to maintain its traditional sphere of influence. Pro-Western government factions face a crucial test - balancing national sovereignty with regional power dynamics. International observers are closely monitoring the electoral process for signs of potential interference or manipulation.",
+        "headline": "World Cup 2026 Tensions Rise with Visa and Preparation Challenges",
+        "body": "The upcoming FIFA World Cup is facing multiple logistical and diplomatic hurdles. Iran has criticized the US for refusing visas to its World Cup delegation, while host nations are simultaneously preparing for potential health risks including an Ebola outbreak.\n\nPlayer visa issues and last-minute preparations are creating additional stress for teams and organizers. The tournament - spanning Mexico and other host countries - promises high stakes both on and off the field.",
         "sources": [
           {
-            "title": "Armenia votes as Russia piles pressure on pro-West government",
-            "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
+            "title": "How the hosts are preparing for an Ebola outbreak during World Cup 2026",
+            "url": "https://www.aljazeera.com/sports/2026/6/7/how-the-hosts-are-preparing-for-an-ebola-outbreak-during-world-cup-2026?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Why are Armenia’s elections being so keenly watched abroad?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss",
+            "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "China's Xi Visits North Korea - Strategic Signals Sent",
-        "body": "Chinese President Xi Jinping's unexpected visit to North Korea signals renewed diplomatic engagement in the region. The timing and context suggest a strategic recalibration of bilateral relations. Xi's trip comes amid global tensions - potentially aimed at strengthening China's geopolitical positioning and sending a message to Western powers about regional alliances.",
-        "sources": [
+          },
           {
-            "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
-            "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
+            "title": "Who are the best star players to watch at World Cup 2026?",
+            "url": "https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Massive human wave in Mexico ahead of World Cup 2026",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/massive-human-wave-in-mexico-ahead-of-world-cup-2026?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Why are players being issued visas just days before the World Cup?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -160,70 +208,15 @@
     ],
     "ai": [
       {
-        "headline": "AI Safety Advances as OpenAI Shields Against Prompt Attacks",
-        "body": "OpenAI has introduced Lockdown Mode - a new security feature designed to protect sensitive data from increasingly sophisticated prompt injection attacks. The move signals growing concerns about AI system vulnerabilities in enterprise and sensitive environments.\n\nThe development comes alongside emerging tools like TakoVM, which offers isolated model execution for businesses. These technologies reflect an industry-wide push to create more robust and secure AI deployment strategies.",
-        "sources": [
-          {
-            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
-            "url": "https://github.com/las7/TakoVM",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-            "url": "https://arxiv.org/abs/2601.14470",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Tech Shifts: White House AI Advisor Exits amid Political Tensions",
-        "body": "Sriram Krishnan is stepping down from his role as White House AI advisor, creating uncertainty in the national AI policy landscape. His departure coincides with potential political maneuvering around AI governance - including reports that the Trump administration might seek an equity stake in OpenAI.\n\nThe moves underscore the increasingly complex intersection of technology, politics, and strategic national interests in the AI domain.",
-        "sources": [
-          {
-            "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-            "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "The Trump administration might take an equity stake in OpenAI",
-            "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Meta Faces Major Security Breach through AI Chatbot Exploit",
-        "body": "Thousands of Instagram accounts have been compromised after hackers discovered a vulnerability in Meta's AI chatbot. The breach exposes significant security risks in conversational AI platforms and raises questions about the robustness of current authentication mechanisms.\n\nThis incident follows Meta's recent experiments with AI-generated content, including an AI-powered clickbait news feed - suggesting the platform is pushing technological boundaries while potentially overlooking critical security implications.",
-        "sources": [
-          {
-            "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-            "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Meta made its own AI-generated clickbait news feed",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-            "source": "The Verge",
-            "lean": null
-          }
-        ]
+        "headline": "AI & Technology summary unavailable",
+        "body": "Could not generate summary at this time.",
+        "sources": []
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin summary unavailable",
-        "body": "Could not generate summary at this time.",
+        "headline": "No recent Bitcoin news",
+        "body": "No articles were published in this category in the past 24 hours.",
         "sources": []
       }
     ]
@@ -231,20 +224,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "cuisine": "French-inspired Mediterranean",
+      "description": "Delicate herb-infused roast chicken with floral lavender and sweet local honey glaze",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
-      "tip": "Perform three 30-second standing back extensions every 90 minutes, focusing on gentle backward arch and shoulder blade retraction"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's negative muscular impacts",
+      "tip": "Set a 25-minute timer and alternate between sitting, standing, and gentle spinal twists each cycle"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging design philosophy where city infrastructure and architecture directly mimic natural ecosystem principles and efficiencies",
-      "why": "Understanding how nature solves complex problems can revolutionize how humans design sustainable, adaptive urban environments"
+      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
+      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions, from water management to energy efficiency"
     }
   }
 }
