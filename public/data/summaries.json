@@ -1,11 +1,59 @@
 {
-  "generatedAt": "2026-06-07T10:50:08.261Z",
+  "generatedAt": "2026-06-07T22:27:55.896Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Democrats Eye Gubernatorial Wins in Western States",
-        "body": "Former Interior Secretary Deb Haaland secured the New Mexico gubernatorial primary, signaling potential Democratic momentum in state-level races. Her victory follows a competitive primary campaign that tested her political brand beyond federal office.\n\nIn California, prominent Democrats including Alex Becerra are leading their primary contest, suggesting the party is positioning strong candidates in key western states. These primaries reflect ongoing Democratic strategies to rebuild state-level political infrastructure.",
+        "headline": "Iran Launches Missiles at Israel, Threatening Fragile Peace",
+        "body": "Iran fired missiles directly at Israel for the first time since the recent ceasefire, dramatically escalating regional tensions. The attack threatens to unravel diplomatic progress and potentially draw broader international intervention.\n\nPolitical reactions were swift and divided. Some hawks called for immediate retaliation, while diplomatic voices urged restraint. The incident puts significant pressure on both the Biden and Trump administrations to navigate a complex geopolitical landscape.",
+        "sources": [
+          {
+            "title": "Iran launches missiles at Israel for first time since ceasefire",
+            "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Iran fires on Israel, jeopardizing ceasefire",
+            "url": "https://thehill.com/homenews/administration/5914039-iran-fires-on-israel-jeopardizing-ceasefire/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump says US would only unfreeze Iranian assets after peace deal",
+            "url": "https://thehill.com/homenews/administration/5913776-trump-iran-assets-negotiations/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Walks Out of Interviews, Sparks Media and Political Controversy",
+        "body": "Former President Trump abruptly ended multiple media interviews this weekend, walking out when challenged about false claims. The incidents - including walkouts from Meet the Press and an NBC interview - have reignited debates about media confrontation and Trump's communication style.\n\nDemocrats are signaling potential future investigations into Trump's administration, while Republican supporters continue to defend his approach to media interactions.",
+        "sources": [
+          {
+            "title": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+            "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-walks-out-meet-press-interview-when-challenged-over-false-claims/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump cuts off interview with Welker: ‘I’ve had enough’",
+            "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Democrats eyeing investigations, and perhaps prosecutions, of Trump officials",
+            "url": "https://thehill.com/homenews/house/5912666-democrats-trump-officials-investigations-prosecute/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Primary Races Heat Up in California and New Mexico",
+        "body": "Key primary elections in California and New Mexico are showing significant political movement. In New Mexico, former Biden official Deb Haaland won the gubernatorial primary, while California saw Hilton and Becerra leading in their respective races.\n\nThese primaries reflect ongoing political realignments and test the strength of different political factions within state-level contests.",
         "sources": [
           {
             "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
@@ -20,82 +68,40 @@
             "lean": "center-left"
           }
         ]
-      },
-      {
-        "headline": "Trump's Ukraine Policy Sparks Bipartisan Confusion",
-        "body": "Former President Trump continues to perplex foreign policy experts with his approach to drone support for Ukraine. His hesitation on military aid has drawn criticism from both Republican and Democratic national security voices.\n\nThe ongoing uncertainty highlights persistent tensions within the GOP about international military commitments. Trump's position remains complex - balancing isolationist rhetoric with traditional Republican defense perspectives.",
-        "sources": [
-          {
-            "title": "Trump drags feet on drone deal with Ukraine, mystifying experts",
-            "url": "https://thehill.com/policy/defense/5911039-trump-drone-deal-ukraine/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
-            "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Economic Tensions Simmer in Democratic Party Ranks",
-        "body": "Internal Democratic Party debates intensify as some leaders argue the party has drifted from working-class concerns. Prominent voices are calling for a renewed focus on economic issues and grassroots priorities.\n\nThe critique comes amid ongoing discussions about party strategy and messaging ahead of upcoming midterm elections. Democratic leaders are wrestling with how to reconnect with voters across different economic demographics.",
-        "sources": [
-          {
-            "title": "Mamdani: Democratic Party has ‘lost its focus on working people’",
-            "url": "https://thehill.com/homenews/campaign/5913496-mayor-mamdani-democrats-economic-issues/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Democratic confidence surges with Turek’s Iowa Senate primary",
-            "url": "https://thehill.com/homenews/campaign/5913157-josh-turek-iowa-senate-democrats/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Albanese Backs AUKUS as Greens Warn of China Conflict",
-        "body": "Prime Minister Anthony Albanese has reaffirmed Australia's commitment to the AUKUS nuclear submarine program, declaring it is moving full-steam ahead. The Greens, however, have raised significant concerns about potential military escalation with China.\n\nThe opposition party argues the submarine deal could increase regional tensions and drag Australia into a potential conflict. Albanese remains steadfast, positioning the strategic defense partnership as crucial to national security. The debate highlights ongoing divisions in Australian foreign policy approaches.",
+        "headline": "Political Tensions Rise as One Nation Polls Ahead of Labor",
+        "body": "A new poll suggests One Nation has overtaken Labor in voter support, signaling potential shifts in Australia's political landscape. Former Prime Minister Julia Gillard has publicly criticized recent political advertising, specifically calling out sexist rhetoric targeting a Victorian premier.\n\nThe political climate appears increasingly fractured. Polling data indicates growing voter volatility, with minor parties gaining ground against traditional major party structures. These developments suggest deeper public dissatisfaction with mainstream political representation.",
         "sources": [
           {
-            "title": "Greens warn nuclear submarines deal risks war with China as Albanese says Aukus ‘full-steam ahead’",
-            "url": "https://www.theguardian.com/world/2026/jun/07/greens-warn-nuclear-submarines-deal-risks-war-with-china-as-albanese-says-aukus-full-steam-ahead",
+            "title": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
+            "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Pauline Hanson Backs Ben Roberts-Smith at Public Rally",
-        "body": "One Nation leader Pauline Hanson has publicly declared her support for Ben Roberts-Smith, telling a rally she respects and admires the controversial former SAS soldier. Hanson suggested she understands Roberts-Smith's experience, claiming she has walked in his shoes.\n\nThe comments come amid ongoing legal and public scrutiny of Roberts-Smith's military conduct. Hanson's intervention adds another layer of political complexity to the high-profile case, potentially influencing public perception of the decorated veteran.",
+        "headline": "NDIS Funding Dispute Highlights Disability Community Frustrations",
+        "body": "The National Disability Insurance Scheme faces mounting criticism from participants who argue the program is mismanaging funding allocation. Disability advocates claim the NDIS is fighting unnecessary battles instead of addressing core funding challenges.\n\nTribunal reviews of funding plans have exposed systemic tensions between administrative processes and individual support needs. The dispute underscores ongoing challenges in delivering responsive, person-centered disability support across Australia.",
         "sources": [
           {
-            "title": "One Nation leader Pauline Hanson tells rally Ben Roberts-Smith is a person ‘I respect and I admire’",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/07/one-nation-leader-pauline-hanson-tells-rally-ben-roberts-smith-is-a-person-i-respect-and-i-admire-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Pauline Hanson tells Ben Roberts-Smith supporters she's 'walked in his shoes'",
-            "url": "https://www.abc.net.au/news/2026-06-07/pauline-hanson-says-she-knows-how-ben-roberts-smith-feels/106769724",
+            "title": "Disability community says NDIS 'fighting the wrong battles' over funding plans",
+            "url": "https://www.abc.net.au/news/2026-06-08/ndis-participants-funding-plans-reviewed-at-tribunal/106726748",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "ACT Pauses Infrastructure Projects amid Construction Peak",
-        "body": "The Australian Capital Territory has decided to put several infrastructure projects on hold, citing the region's current construction saturation. Local authorities suggest the pause will allow current projects to progress without overwhelming existing resources.\n\nThe decision reflects a strategic approach to managing urban development, balancing ongoing construction demands with capacity constraints. It signals a pragmatic response to the region's rapid growth and infrastructure challenges.",
+        "headline": "Tasmania's Population Decline Signals Economic Warning Signs",
+        "body": "Tasmania's population growth has stalled, raising significant economic and social concerns for the island state. Recent data shows people are no longer moving to Tasmania at previous rates - a trend with potential long-term implications for regional development.\n\nThe population plateau could impact infrastructure planning, workforce availability, and local economic strategies. Policymakers may need to develop targeted interventions to reverse this demographic trend and maintain regional vitality.",
         "sources": [
           {
-            "title": "Several infrastructure projects put on backburner as ACT 'at peak construction'",
-            "url": "https://www.abc.net.au/news/2026-06-07/several-act-infrastructure-projects-to-be-put-on-backburner/106767638",
+            "title": "Tasmania's population boom has gone bust — and it spells trouble",
+            "url": "https://www.abc.net.au/news/2026-06-08/people-arent-moving-to-tasmania-anymore/106762906",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -104,103 +110,67 @@
     ],
     "world": [
       {
-        "headline": "US-Israel War on Iran Reaches Grim 100-Day Milestone",
-        "body": "The protracted conflict between the US, Israel, and Iran has ground into its fourth month, with escalating tensions and no clear resolution in sight. Multiple Al Jazeera reports highlight the ongoing military exchanges and geopolitical fallout from the sustained military campaign.\n\nBoth sides continue to trade attacks, with diplomatic channels seemingly exhausted. The war has dramatically reshaped regional dynamics, drawing international scrutiny and causing significant economic and humanitarian strain. Iran claims survival as a form of victory, while US and Israeli officials maintain their strategic objectives remain uncompromised.",
+        "headline": "Iran Launches Missiles at Israel After Beirut Strike",
+        "body": "Tensions escalated dramatically in the Middle East as Iran fired missiles into Israel - a direct response to what Tehran claims was an unacceptable attack on Beirut. The missile launches triggered widespread celebrations in Tehran, signaling a potential breakdown of recent diplomatic efforts to maintain regional stability.\n\nIranian officials declared the Beirut strike had crossed all red lines - a provocative statement that suggests the conflict could rapidly spiral. The attack marks a significant escalation in the ongoing regional tensions, with Iran positioning itself as willing to directly confront Israel militarily.",
         "sources": [
           {
-            "title": "How have countries around the world responded to the US-Israel war on Iran?",
-            "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
+            "title": "Videos show missiles launched from Iran into Israel",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "100 days of the US–Israel war on Iran",
-            "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
+            "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "The accomplishments of 100 days of war on Iran are undeniable",
-            "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+            "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+            "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran after 100 days of war: The triumph of survival",
-            "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Israel strikes Beirut suburb days after US-brokered truce",
+            "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-            "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war 100 days: How the conflict impacted Iran and the world",
-            "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How many times were the US and Iran on the verge of a deal?",
-            "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+            "title": "Iran fires missiles at Israel after it attacked Beirut",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Kosovo Votes Again - Democracy Strained by Political Deadlock",
-        "body": "Kosovo held its third election in 16 months on Sunday, with voters hoping to break a persistent political impasse. The small Balkan nation continues to struggle with internal divisions and seeks closer integration with the EU and NATO.\n\nThe repeated electoral cycles reflect deep-rooted challenges in Kosovo's democratic process. International observers are closely monitoring the vote, which could potentially determine the country's diplomatic and economic trajectory in the coming years.",
+        "headline": "Ukraine Peace Talks: European Allies Set Strict Conditions",
+        "body": "Zelensky's closest European partners have outlined five specific conditions for potential peace negotiations - a strategic move that could reshape the diplomatic landscape of the ongoing conflict. The conditions suggest a nuanced approach that balances Ukraine's sovereignty with pragmatic geopolitical realities.\n\nThe development signals a coordinated European strategy to create a framework for potential diplomatic resolution. By establishing clear preconditions, Zelensky's allies aim to strengthen Ukraine's negotiating position while maintaining international pressure on Russia.",
         "sources": [
           {
-            "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
-            "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Zelensky's close European allies set out five conditions for peace talks",
+            "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Kosovo holds third election in 16 months",
-            "url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-world-4025-rdf",
+            "title": "Has Zelenskyy forfeited an honor — and Poland's sympathy?",
+            "url": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-world-4025-rdf",
             "source": "DW News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "World Cup 2026 Tensions Rise with Visa and Preparation Challenges",
-        "body": "The upcoming FIFA World Cup is facing multiple logistical and diplomatic hurdles. Iran has criticized the US for refusing visas to its World Cup delegation, while host nations are simultaneously preparing for potential health risks including an Ebola outbreak.\n\nPlayer visa issues and last-minute preparations are creating additional stress for teams and organizers. The tournament - spanning Mexico and other host countries - promises high stakes both on and off the field.",
+        "headline": "Xi Jinping's North Korea Visit Sparks Diplomatic Speculation",
+        "body": "Chinese President Xi Jinping's upcoming visit to North Korea has triggered intense international speculation about the true motivations behind the diplomatic engagement. Analysts are parsing whether this represents a strategic move to leverage regional influence or a genuine attempt to stabilize relations.\n\nThe visit comes at a complex moment in geopolitical dynamics - with tensions high across multiple international theaters. Xi's journey could signal significant shifts in China's approach to its most unpredictable regional ally.",
         "sources": [
           {
-            "title": "How the hosts are preparing for an Ebola outbreak during World Cup 2026",
-            "url": "https://www.aljazeera.com/sports/2026/6/7/how-the-hosts-are-preparing-for-an-ebola-outbreak-during-world-cup-2026?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Who are the best star players to watch at World Cup 2026?",
-            "url": "https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Massive human wave in Mexico ahead of World Cup 2026",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/massive-human-wave-in-mexico-ahead-of-world-cup-2026?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Why are players being issued visas just days before the World Cup?",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+            "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
@@ -208,15 +178,58 @@
     ],
     "ai": [
       {
-        "headline": "AI & Technology summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "AI Operating System Emerges - Tech World Shifts",
+        "body": "VibeOS launched today as the first AI-native operating system, signaling a potential sea change in computing infrastructure. The platform promises deep integration of artificial intelligence across core system functions - moving beyond traditional OS design that treats AI as an add-on feature.\n\nThis breakthrough suggests a fundamental reimagining of how computers interact with users and process information. Early reactions from tech circles indicate significant interest in an operating system built from the ground up with machine learning at its core.",
+        "sources": [
+          {
+            "title": "VibeOS: First ever AI-native operating system",
+            "url": "https://vibeos.sh/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "OpenAI is still working on that ‘super app’",
+            "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "AI ‘content creators’ are getting harder to spot",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Software Engineers Confront AI's Transformative Impact",
+        "body": "Mounting evidence suggests large language models are dramatically reshaping software development careers. Developers report increasing anxiety about AI's capacity to generate code and automate complex programming tasks.\n\nThe trend extends beyond coding. Design professionals are now routinely using AI tools like Claude for creative work, with some reporting they rely more on AI assistants than traditional design software. The rapid technological shift is forcing professionals to rapidly adapt or risk obsolescence.",
+        "sources": [
+          {
+            "title": "LLMs are eroding my software engineering career and I don't know what to do",
+            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "I design with Claude more than Figma now",
+            "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+            "url": "https://github.com/devenjarvis/lathe",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
       }
     ],
     "btc": [
       {
-        "headline": "No recent Bitcoin news",
-        "body": "No articles were published in this category in the past 24 hours.",
+        "headline": "Bitcoin summary unavailable",
+        "body": "Could not generate summary at this time.",
         "sources": []
       }
     ]
@@ -224,20 +237,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-inspired Mediterranean",
-      "description": "Delicate herb-infused roast chicken with floral lavender and sweet local honey glaze",
+      "cuisine": "French-Provençal Fusion",
+      "description": "Tender roasted chicken infused with local lavender and wildflower honey, creating a delicate floral-sweet main course",
       "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
     },
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
-      "description": "Implement micro-movements and strategic stretching to counteract prolonged sitting's negative muscular impacts",
-      "tip": "Set a 25-minute timer and alternate between sitting, standing, and gentle spinal twists each cycle"
+      "description": "Implement a micro-movement protocol that shifts your body's alignment every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and rotation points around your workspace"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering approaches that directly copy nature's elegant problem-solving strategies for sustainable city infrastructure",
-      "why": "Reveals how complex natural systems can inspire revolutionary human design solutions, from water management to energy efficiency"
+      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure and sustainable architecture",
+      "why": "This emerging field offers radical solutions to urban challenges by studying how complex natural systems self-organize and adapt"
     }
   }
 }
