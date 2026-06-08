@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-06-07T22:27:55.896Z",
+  "generatedAt": "2026-06-08T05:41:16.704Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Iran Launches Missiles at Israel, Threatening Fragile Peace",
-        "body": "Iran fired missiles directly at Israel for the first time since the recent ceasefire, dramatically escalating regional tensions. The attack threatens to unravel diplomatic progress and potentially draw broader international intervention.\n\nPolitical reactions were swift and divided. Some hawks called for immediate retaliation, while diplomatic voices urged restraint. The incident puts significant pressure on both the Biden and Trump administrations to navigate a complex geopolitical landscape.",
+        "headline": "Iran-Israel Tensions Escalate with Missile Exchanges",
+        "body": "Diplomatic relations between Iran and Israel have sharply deteriorated after a series of missile strikes. Israel launched retaliatory attacks following an Iranian missile barrage, threatening regional stability. The conflict has drawn international attention - particularly from the US, which is weighing potential diplomatic interventions.\n\nFormer national security advisor John Bolton warned that current diplomatic approaches could trigger a broader nuclear arms race. The Treasury Department is simultaneously exploring using frozen Iranian assets to support Gulf allies, adding complexity to the geopolitical landscape.",
         "sources": [
           {
-            "title": "Iran launches missiles at Israel for first time since ceasefire",
+            "title": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
             "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
             "source": "Washington Post",
             "lean": "center-left"
+          },
+          {
+            "title": "Bolton warns Trump actions in Iran could spark nuclear arms race",
+            "url": "https://thehill.com/policy/defense/5914064-bolton-warns-trump-iran-nuclear/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
             "title": "Iran fires on Israel, jeopardizing ceasefire",
@@ -20,16 +26,34 @@
             "lean": "center"
           },
           {
-            "title": "Trump says US would only unfreeze Iranian assets after peace deal",
-            "url": "https://thehill.com/homenews/administration/5913776-trump-iran-assets-negotiations/",
+            "title": "Treasury intends to use Iranian assets for Gulf allies to rebuild: CBS report",
+            "url": "https://thehill.com/policy/defense/5914249-treasury-iranian-assets-gulf-allies/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Walks Out of Interviews, Sparks Media and Political Controversy",
-        "body": "Former President Trump abruptly ended multiple media interviews this weekend, walking out when challenged about false claims. The incidents - including walkouts from Meet the Press and an NBC interview - have reignited debates about media confrontation and Trump's communication style.\n\nDemocrats are signaling potential future investigations into Trump's administration, while Republican supporters continue to defend his approach to media interactions.",
+        "headline": "California and New Mexico Primaries Set Stage for Governor Races",
+        "body": "Primary elections in two key western states have produced notable outcomes for gubernatorial contests. In California, Alex Becerra and another candidate are leading the primary field, signaling a competitive race ahead. New Mexico saw former Biden administration official Deb Haaland securing her party's nomination for governor.\n\nThese primaries represent critical tests for political momentum and could provide insights into voter sentiment heading into the broader midterm election cycle.",
+        "sources": [
+          {
+            "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
+            "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
+            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Dominates News Cycle with Controversial Interviews and Picks",
+        "body": "Former President Donald Trump continues to generate significant media attention through provocative statements and personnel selections. He walked out of a Meet the Press interview after being challenged on false claims, while also facing criticism for his director of national intelligence nomination.\n\nDemocrats are signaling potential investigations of Trump administration officials, suggesting continued political tension. Trump's policy positions - particularly on deportation and international relations - remain central to national political discourse.",
         "sources": [
           {
             "title": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
@@ -38,70 +62,70 @@
             "lean": "center-left"
           },
           {
-            "title": "Trump cuts off interview with Welker: ‘I’ve had enough’",
-            "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
             "title": "Democrats eyeing investigations, and perhaps prosecutions, of Trump officials",
             "url": "https://thehill.com/homenews/house/5912666-democrats-trump-officials-investigations-prosecute/",
             "source": "The Hill",
             "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Primary Races Heat Up in California and New Mexico",
-        "body": "Key primary elections in California and New Mexico are showing significant political movement. In New Mexico, former Biden official Deb Haaland won the gubernatorial primary, while California saw Hilton and Becerra leading in their respective races.\n\nThese primaries reflect ongoing political realignments and test the strength of different political factions within state-level contests.",
-        "sources": [
-          {
-            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
-            "source": "Washington Post",
-            "lean": "center-left"
           },
           {
-            "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Trump chooses an unqualified director of national intelligence",
+            "url": "https://thehill.com/opinion/national-security/5913051-pulte-political-appointee-dni/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "A big win for Trump's deportation agenda, with another fight looming",
+            "url": "https://www.npr.org/2026/06/07/nx-s1-5849211/a-big-win-for-trumps-deportation-agenda-with-another-fight-looming",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Four takeaways from Trump’s explosive interview",
+            "url": "https://thehill.com/homenews/administration/5913962-trump-nbc-iran-california-election-interview/",
+            "source": "The Hill",
+            "lean": "center"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Political Tensions Rise as One Nation Polls Ahead of Labor",
-        "body": "A new poll suggests One Nation has overtaken Labor in voter support, signaling potential shifts in Australia's political landscape. Former Prime Minister Julia Gillard has publicly criticized recent political advertising, specifically calling out sexist rhetoric targeting a Victorian premier.\n\nThe political climate appears increasingly fractured. Polling data indicates growing voter volatility, with minor parties gaining ground against traditional major party structures. These developments suggest deeper public dissatisfaction with mainstream political representation.",
+        "headline": "One Nation Surge Challenges Albanese's Political Calculus",
+        "body": "Labor faces mounting pressure as One Nation's polling numbers climb, threatening the government's electoral standing. Recent surveys suggest the right-wing party is gaining significant traction - potentially drawing support from traditional Labor voters.\n\nPrime Minister Anthony Albanese appears to be adopting a strategic long-game approach, recognizing the complex political landscape. Tanya Plibersek acknowledged the party's polling challenges, signaling internal awareness of the shifting political dynamics.",
         "sources": [
           {
-            "title": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
+            "title": "As One Nation nips at his heels, the PM has no choice but to play the long game",
+            "url": "https://www.abc.net.au/news/2026-06-08/albanese-long-game-one-nation/106771532",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australia news live: ‘We get the message,’ Plibersek says, after poll shows One Nation support surpassing Labor",
             "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "NDIS Funding Dispute Highlights Disability Community Frustrations",
-        "body": "The National Disability Insurance Scheme faces mounting criticism from participants who argue the program is mismanaging funding allocation. Disability advocates claim the NDIS is fighting unnecessary battles instead of addressing core funding challenges.\n\nTribunal reviews of funding plans have exposed systemic tensions between administrative processes and individual support needs. The dispute underscores ongoing challenges in delivering responsive, person-centered disability support across Australia.",
-        "sources": [
+          },
           {
-            "title": "Disability community says NDIS 'fighting the wrong battles' over funding plans",
-            "url": "https://www.abc.net.au/news/2026-06-08/ndis-participants-funding-plans-reviewed-at-tribunal/106726748",
+            "title": "Ignoring One Nation like 'ignoring will of people', Basil Zempilas warns",
+            "url": "https://www.abc.net.au/news/2026-06-08/wa-opposition-leader-basil-zempilas-has-open-mind-on-one-nation/106771750",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Tasmania's Population Decline Signals Economic Warning Signs",
-        "body": "Tasmania's population growth has stalled, raising significant economic and social concerns for the island state. Recent data shows people are no longer moving to Tasmania at previous rates - a trend with potential long-term implications for regional development.\n\nThe population plateau could impact infrastructure planning, workforce availability, and local economic strategies. Policymakers may need to develop targeted interventions to reverse this demographic trend and maintain regional vitality.",
+        "headline": "Violence Sparks Concern with Multiple Assault Incidents Reported",
+        "body": "Two separate violent assaults have raised community safety concerns across Australia. In Byron Bay, a Canadian tourist suffered a brain bleed after a park attack, while another incident in Warrawong left a man with a fractured skull.\n\nBoth cases highlight potential underlying issues of public safety and urban violence. Law enforcement is investigating the circumstances of these brutal assaults, which have shocked local communities and prompted calls for increased security measures.",
         "sources": [
           {
-            "title": "Tasmania's population boom has gone bust — and it spells trouble",
-            "url": "https://www.abc.net.au/news/2026-06-08/people-arent-moving-to-tasmania-anymore/106762906",
+            "title": "'Brazen' hammer attack leaves man with fractured skull, brain bleed",
+            "url": "https://www.abc.net.au/news/2026-06-08/warrawong-hammer-attack-leaves-man-with-fractured-skull-nsw/106772634",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Byron Bay park bashing leaves Canadian tourist with brain bleed",
+            "url": "https://www.abc.net.au/news/2026-06-08/byron-bay-canadian-tourist-assaulted-fractured-skull/106772084",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -110,18 +134,24 @@
     ],
     "world": [
       {
-        "headline": "Iran Launches Missiles at Israel After Beirut Strike",
-        "body": "Tensions escalated dramatically in the Middle East as Iran fired missiles into Israel - a direct response to what Tehran claims was an unacceptable attack on Beirut. The missile launches triggered widespread celebrations in Tehran, signaling a potential breakdown of recent diplomatic efforts to maintain regional stability.\n\nIranian officials declared the Beirut strike had crossed all red lines - a provocative statement that suggests the conflict could rapidly spiral. The attack marks a significant escalation in the ongoing regional tensions, with Iran positioning itself as willing to directly confront Israel militarily.",
+        "headline": "Iran Launches Missiles at Israel - Regional Tensions Escalate",
+        "body": "Iran fired missiles at Israel after what it called a red line crossed in a Beirut attack - marking a dramatic escalation in regional hostilities. Debris was reported falling in Jordan as Israeli defense systems intercepted multiple incoming projectiles. Celebrations erupted in Tehran as missiles streaked overhead, signaling Iran's direct military response to recent Israeli actions.",
         "sources": [
           {
-            "title": "Videos show missiles launched from Iran into Israel",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+            "title": "Iran and Israel trade threats after Tehran launches missiles",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+            "title": "Iran war live: Tehran fires missiles at Israel after strikes on Tehran",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
@@ -129,12 +159,6 @@
             "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
             "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israel strikes Beirut suburb days after US-brokered truce",
-            "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
             "lean": null
           },
           {
@@ -146,31 +170,31 @@
         ]
       },
       {
-        "headline": "Ukraine Peace Talks: European Allies Set Strict Conditions",
-        "body": "Zelensky's closest European partners have outlined five specific conditions for potential peace negotiations - a strategic move that could reshape the diplomatic landscape of the ongoing conflict. The conditions suggest a nuanced approach that balances Ukraine's sovereignty with pragmatic geopolitical realities.\n\nThe development signals a coordinated European strategy to create a framework for potential diplomatic resolution. By establishing clear preconditions, Zelensky's allies aim to strengthen Ukraine's negotiating position while maintaining international pressure on Russia.",
+        "headline": "Massive Earthquake Triggers Tsunami Alerts Across Asia",
+        "body": "A powerful 8.2 magnitude earthquake struck near the Philippines - sending tsunami warnings cascading across multiple Asian nations. The quake's epicenter triggered immediate emergency responses and evacuation protocols in coastal regions. Seismologists are monitoring potential aftershocks and assessing potential infrastructure damage in the affected zones.",
         "sources": [
           {
-            "title": "Zelensky's close European allies set out five conditions for peace talks",
-            "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Has Zelenskyy forfeited an honor — and Poland's sympathy?",
-            "url": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
+            "title": "Powerful earthquake hits Philippines, triggering tsunami alerts across Asia",
+            "url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Xi Jinping's North Korea Visit Sparks Diplomatic Speculation",
-        "body": "Chinese President Xi Jinping's upcoming visit to North Korea has triggered intense international speculation about the true motivations behind the diplomatic engagement. Analysts are parsing whether this represents a strategic move to leverage regional influence or a genuine attempt to stabilize relations.\n\nThe visit comes at a complex moment in geopolitical dynamics - with tensions high across multiple international theaters. Xi's journey could signal significant shifts in China's approach to its most unpredictable regional ally.",
+        "headline": "Tech Stocks Plummet Amid Middle East Tensions",
+        "body": "Asian financial markets experienced significant volatility as tech stocks plunged following renewed Middle East attacks. The geopolitical uncertainty triggered investor panic - wiping billions from market valuations. Global economic analysts warn that ongoing regional conflicts could further destabilize international investment landscapes.",
         "sources": [
           {
-            "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-            "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+            "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss",
+            "source": "Al Jazeera",
             "lean": null
           }
         ]
@@ -178,19 +202,19 @@
     ],
     "ai": [
       {
-        "headline": "AI Operating System Emerges - Tech World Shifts",
-        "body": "VibeOS launched today as the first AI-native operating system, signaling a potential sea change in computing infrastructure. The platform promises deep integration of artificial intelligence across core system functions - moving beyond traditional OS design that treats AI as an add-on feature.\n\nThis breakthrough suggests a fundamental reimagining of how computers interact with users and process information. Early reactions from tech circles indicate significant interest in an operating system built from the ground up with machine learning at its core.",
+        "headline": "AI Models Clash: DeepSeek Challenges GPT in Precision Race",
+        "body": "The AI landscape shifted again as DeepSeek V4 Pro outperformed GPT-5.5 Pro in precision benchmarks. This latest development signals an intensifying competition among large language models - with Chinese AI firms increasingly challenging US tech giants.\n\nThe breakthrough highlights the rapid evolution of AI capabilities. Precision metrics matter deeply for real-world applications like scientific research and complex problem-solving, where nuanced understanding trumps raw generation speed.",
         "sources": [
           {
-            "title": "VibeOS: First ever AI-native operating system",
-            "url": "https://vibeos.sh/",
+            "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+            "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "OpenAI is still working on that ‘super app’",
-            "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-            "source": "TechCrunch",
+            "title": "LLMs are eroding my software engineering career and I don't know what to do",
+            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+            "source": "Hacker News",
             "lean": null
           },
           {
@@ -202,25 +226,25 @@
         ]
       },
       {
-        "headline": "Software Engineers Confront AI's Transformative Impact",
-        "body": "Mounting evidence suggests large language models are dramatically reshaping software development careers. Developers report increasing anxiety about AI's capacity to generate code and automate complex programming tasks.\n\nThe trend extends beyond coding. Design professionals are now routinely using AI tools like Claude for creative work, with some reporting they rely more on AI assistants than traditional design software. The rapid technological shift is forcing professionals to rapidly adapt or risk obsolescence.",
+        "headline": "Texas Grid Warns: Data Centers Strain Electrical Infrastructure",
+        "body": "Texas power grid operators raised alarm after multiple data centers and cryptocurrency sites failed critical voltage stability tests. The infrastructure stress points to growing tensions between technological expansion and electrical capacity.\n\nEnergy experts warn that the proliferation of compute-heavy facilities - from AI training centers to blockchain operations - is pushing electrical grids toward potential breaking points. Reliability and sustainability now compete directly with technological ambition.",
         "sources": [
           {
-            "title": "LLMs are eroding my software engineering career and I don't know what to do",
-            "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+            "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+            "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "I design with Claude more than Figma now",
-            "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-            "source": "Hacker News",
+            "title": "Is this the dawn of the Tokenpocalypse?",
+            "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-            "url": "https://github.com/devenjarvis/lathe",
-            "source": "Hacker News",
+            "title": "Notion restores access to Anthropic after service disruption",
+            "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -228,9 +252,58 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Bitcoin Wobbles as Global Markets Rattle Crypto Investors",
+        "body": "Bitcoin's price dropped below $63,000 amid escalating geopolitical tensions and stock market volatility. The cryptocurrency's value swung dramatically as Iran-Israel trade conflicts and a sharp 8% plunge in South Korea's KOSPI index triggered market uncertainty.\n\nTraders watched closely as the digital asset demonstrated its sensitivity to broader economic pressures. Despite the short-term turbulence, Bitcoin showed resilience - quickly recovering to previous price levels and signaling continued investor interest in the face of global market disruptions.",
+        "sources": [
+          {
+            "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
+            "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%",
+            "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "What happens to Bitcoin if the Nasdaq falls further?",
+            "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Michael Saylor Hints at More Bitcoin Purchases amid Strategy Scrutiny",
+        "body": "MicroStrategy CEO Michael Saylor is again signaling potential Bitcoin acquisitions, even as his company faces increased investor scrutiny. The tech executive's continued bullish stance on Bitcoin comes at a critical moment - with a preferred dividend pay date vote approaching and ongoing questions about the company's investment strategy.\n\nSaylor's persistent Bitcoin advocacy continues to draw market attention. His signals suggest MicroStrategy remains committed to its aggressive cryptocurrency investment approach, despite growing external pressures and market volatility.",
+        "sources": [
+          {
+            "title": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms",
+            "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
+            "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
+            "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "New York Court Pauses Major Bitcoin Wallet Ownership Lawsuit",
+        "body": "A New York judge has temporarily halted a complex legal battle over ownership of nearly 40,000 Bitcoin wallets. The court stayed the lawsuit and scheduled a July hearing to consider a proposed amicus brief - indicating the case's significant potential implications for cryptocurrency ownership rights.\n\nThe legal proceedings highlight the ongoing challenges in establishing clear ownership and transfer protocols for digital assets. Cryptocurrency stakeholders will closely monitor the case's progression, as its outcome could set important precedents for future blockchain-related legal disputes.",
+        "sources": [
+          {
+            "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
+            "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
       }
     ]
   },
@@ -238,19 +311,19 @@
     "food": {
       "name": "Lavender Honey Roasted Chicken",
       "cuisine": "French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with local lavender and wildflower honey, creating a delicate floral-sweet main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's alignment every 20 minutes to prevent static muscle tension",
-      "tip": "Use painter's tape on your floor to mark ideal foot placement and rotation points around your workspace"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Perform a standing 'cat-cow' stretch by slowly arching and rounding your spine for 60 seconds every 90 minutes"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure and sustainable architecture",
-      "why": "This emerging field offers radical solutions to urban challenges by studying how complex natural systems self-organize and adapt"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
+      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
     }
   }
 }
