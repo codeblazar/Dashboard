@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-06-09T05:28:33.049Z",
+  "generatedAt": "2026-06-09T11:08:23.441Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "California, New Mexico Primaries Set Stage for Heated Governor Races",
-        "body": "Two key state primaries signaled potential political shifts on Tuesday. In California, Alex Becerra and Trump-backed candidate Rick Hilton emerged as top contenders for governor - setting up a high-stakes November battle. Meanwhile, former Interior Secretary Deb Haaland secured the New Mexico gubernatorial Democratic nomination, positioning herself for a potential return to executive leadership.\n\nBoth races reflect broader national political dynamics. California's contest highlights ongoing tensions between establishment Democrats and Trump-aligned Republicans, while Haaland's run represents continued Indigenous political representation at state leadership levels.",
+        "headline": "Trump Nominates Blanche as AG, Sparks Political Crossfire",
+        "body": "Former President Donald Trump has formally nominated attorney Todd Blanche to serve as attorney general, a move that immediately polarized political reactions. Republican supporters view the nomination as a strategic legal repositioning, while Democratic critics argue it represents potential interference with judicial independence.\n\nThe nomination comes amid ongoing legal challenges and investigations surrounding Trump, raising questions about the potential implications of Blanche's potential confirmation. Political analysts suggest the move could be part of a broader strategy to reshape federal legal leadership.",
         "sources": [
           {
-            "title": "Former Biden official Deb Haaland wins New Mexico primary for governor",
-            "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Trump formally nominates Todd Blanche to serve as attorney general",
+            "url": "https://www.npr.org/2026/06/09/nx-s1-5850426/trump-formally-nominates-todd-blanche-to-serve-as-attorney-general",
+            "source": "NPR",
+            "lean": "left"
           },
+          {
+            "title": "Trump is using California's routine vote counting to push fraud allegations",
+            "url": "https://www.npr.org/2026/06/09/nx-s1-5850261/trump-is-using-californias-routine-vote-counting-to-push-fraud-allegations",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "GOP cries foul over California, but fails to echo Trump claims",
+            "url": "https://thehill.com/homenews/senate/5915439-trump-demands-election-reform/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "California and Maine Primaries Test Political Landscapes",
+        "body": "Primary elections in California and Maine are highlighting complex political dynamics and potential shifts in voter sentiment. In California, Xavier Becerra and a Trump-backed candidate are leading in the gubernatorial primary, while Maine faces controversy around a Senate candidate with explosive allegations.\n\nThe primaries underscore ongoing tensions within both major parties. Republicans are challenging vote-counting processes in California, while Democrats are grappling with internal candidate controversies. These races could signal broader national political trends heading into future elections.",
+        "sources": [
           {
             "title": "Hilton, Becerra lead in California’s governor primary. See live results here.",
             "url": "https://www.washingtonpost.com/elections/2026/06/02/california-governor-primary-live-results-becerra-steyer-hilton-are-competing/",
@@ -20,150 +38,168 @@
             "lean": "center-left"
           },
           {
-            "title": "Becerra, Trump-backed Hilton set to duke it out in California governor’s race",
-            "url": "https://thehill.com/homenews/campaign/5902991-becerra-hilton-california-governor-election/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Los Angeles Mayoral Race Heads to Runoff After Contentious Primary",
-        "body": "The Los Angeles mayoral race will advance to a November runoff after no candidate secured an outright majority. Karen Bass will face Nithya Raman in what promises to be a competitive election. The primary saw significant drama - with Republican commentator J.D. Vance suggesting unspecified irregularities in the vote counting.\n\nRaman - described by some sources as a socialist-style candidate - emerged as a surprise contender. Her performance challenges traditional political expectations in one of America's largest cities. The runoff will likely test progressive versus moderate political approaches.",
-        "sources": [
-          {
-            "title": "Vance: LA mayoral result ‘seems pretty shady to me’",
-            "url": "https://thehill.com/homenews/campaign/5915742-vance-la-mayoral-result-seems-pretty-shady-to-me/",
+            "title": "Platner fuels anxieties among Democrats as Maine picks its candidate",
+            "url": "https://thehill.com/homenews/campaign/5915394-platner-controversies-democrats-unease/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Who is Nithya Raman, Los Angeles mayoral candidate who knocked out Spencer Pratt",
-            "url": "https://thehill.com/homenews/campaign/5915716-los-angeles-mayoral-race-raman-bass/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "LA mayoral race heads to November runoff as Karen Bass faces Mamdani-style socialist",
-            "url": "https://www.foxnews.com/politics/la-mayoral-race-heads-november-runoff-karen-bass-faces-mamdani-style-socialist",
+            "title": "Maine Democrats decide fate of Senate candidate dogged by explosive allegations",
+            "url": "https://www.foxnews.com/politics/maine-democrats-decide-fate-senate-candidate-dogged-explosive-allegations",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "The Memo: Spencer Pratt comes up short in Los Angeles, drawing hollow claims of fraud",
-            "url": "https://thehill.com/homenews/administration/5915461-raman-pratt-runoff-los-angeles/",
+            "title": "Susan Collins refuses to weigh in on Platner's sexting scandal as Maine voters head to polls",
+            "url": "https://www.foxnews.com/politics/collins-refuses-weigh-platner-scandal-maine-voters-head-polls",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Maine's Senate race and much more. Here are the primary contests to watch today",
+            "url": "https://www.npr.org/2026/06/09/nx-s1-5850231/maine-nevada-south-carolina-primary-trump",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump's Influence Tested in South Carolina Republican Primaries",
+        "body": "South Carolina's Republican primaries are serving as a critical test of former President Trump's political influence within the party. Multiple races will provide insight into Trump's ongoing power to shape Republican candidate selections and voter preferences.\n\nThe primaries come amid broader national discussions about the GOP's direction and Trump's continued role in party politics. Political strategists are closely watching these contests as potential indicators of the former president's electoral strength and the party's ideological trajectory.",
+        "sources": [
+          {
+            "title": "South Carolina GOP gubernatorial primary tests Trump’s influence: 5 races to watch Tuesday",
+            "url": "https://thehill.com/homenews/campaign/5915038-south-carolina-maine-primary-elections/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Trump’s grip on the GOP leaves Netanyahu with few places to turn",
+            "url": "https://www.washingtonpost.com/politics/2026/06/08/trumps-grip-gop-leaves-netanyahu-with-few-places-turn/",
+            "source": "Washington Post",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Liberal Party Weighs Controversial One Nation Preference Deals",
-        "body": "Senior Liberal figures are exploring potential preference arrangements with One Nation, a move that could reshape electoral dynamics. Angus Taylor and former MP Tony Abbott have signaled openness to collaborating with Pauline Hanson's party - a strategy that risks alienating moderate voters.\n\nThe potential alliance highlights internal tensions within the Liberal Party. While some see One Nation preferences as a tactical path to electoral success, others warn such deals could further fragment the conservative political landscape and damage the party's broader appeal.",
+        "headline": "Labor Donation Scandal Sparks NSW Prosecutor Investigation",
+        "body": "New South Wales prosecutors have launched legal proceedings against Labor Party officials accused of disguising political donations to Premier Chris Minns. The allegations suggest potential breaches of electoral funding regulations - a serious challenge to the party's transparency and ethical standards.\n\nThe investigation centers on claims that party officials attempted to mask the true source of campaign contributions. If proven, the case could have significant political ramifications for Labor's leadership and potentially undermine public trust in the party's financial practices.",
         "sources": [
           {
-            "title": "Australia news live: Taylor leaves the door open to working with One Nation; NAB predicts interest rate cut in 2027",
+            "title": "NSW Labor officials investigated over allegedly disguising donations to Minns – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Tony Abbott and Angus Taylor eye One Nation preference deals",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/09/tony-abbott-angus-taylor-liberal-party-eye-one-nation-preferences-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Jacinta Allan says Pauline Hanson ‘chooses to barrack for bullies’ over ‘ditch the witch’ billboard",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/09/victorian-premier-jacinta-allan-dismisses-leadership-spill-speculation-calls-out-hanson-ntwnfb",
+            "title": "NSW prosecutors launch proceedings against Labor officials accused of disguising donations to Chris Minns",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/09/court-proceedings-labor-officials-accused-disguising-chris-minns-donations-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Female MPs Decry Persistent Political Sexism in Australian Parliament",
-        "body": "Victorian MP Georgie Purcell has publicly condemned the systemic sexism facing women in politics, drawing attention to daily experiences of misogynistic abuse. Her intervention underscores ongoing challenges for female politicians across party lines.\n\nPurcell's comments reflect a broader conversation about workplace culture in Australian political institutions. Her call for accountability suggests mounting pressure to address gender-based harassment and discrimination in parliamentary settings.",
+        "headline": "Melbourne Mayor's Suspension Overturned in Court Ruling",
+        "body": "A Victorian court has invalidated the suspension of Whittlesea Mayor Aidan McLindon, delivering a significant legal rebuke to local government authorities. The ruling suggests procedural irregularities in the original decision to remove the mayor from office.\n\nThe judgment highlights ongoing tensions in local government governance and raises questions about the proper processes for suspending elected officials. McLindon's reinstatement represents a personal victory and potentially sets a precedent for future municipal disputes.",
         "sources": [
           {
-            "title": "I face sexist abuse every day as a female MP – misogyny is unacceptable whatever side of the aisle we’re on | Georgie Purcell",
-            "url": "https://www.theguardian.com/commentisfree/2026/jun/09/australia-politics-female-mp-misogyny-sexist-abuse-every-day",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Court rules Melbourne mayor's suspension was invalid",
+            "url": "https://www.abc.net.au/news/2026-06-09/whittlesea-mayor-aidan-mclindon-suspension-invalid-court-finds/106777732",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Jacinta Allan says Pauline Hanson ‘chooses to barrack for bullies’ over ‘ditch the witch’ billboard",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/09/victorian-premier-jacinta-allan-dismisses-leadership-spill-speculation-calls-out-hanson-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "'I apologise': Tasmanian premier pledges reforms after Ogilvie legal saga",
+            "url": "https://www.abc.net.au/news/2026-06-09/premier-jeremy-rockliff-statement-ogilvie-parliament/106775478",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Tech and Education Collide: AI Cheating Sparks School Concerns",
+        "body": "Melbourne schools are confronting the emerging challenge of students using artificial intelligence to cheat on academic assessments. Year 12 students have been caught utilizing AI technologies to complete assignments - a development that raises significant ethical and educational questions.\n\nThe incident underscores the rapid technological changes confronting educational institutions and the need for updated academic integrity policies. Schools must now develop sophisticated strategies to detect and prevent AI-assisted academic misconduct.",
+        "sources": [
+          {
+            "title": "Year 12 students in Melbourne caught cheating using AI",
+            "url": "https://www.abc.net.au/news/2026-06-09/year-12-students-in-melbourne-caught-cheating-using-ai/106777700",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "New Apple child safety features 'part inspired' by Australia social media ban",
+            "url": "https://www.abc.net.au/news/2026-06-09/apple-child-safety-features-revamped/106777228",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Israel-Iran Tensions Simmer After Deadly Cross-Border Strikes",
-        "body": "Israel and Iran have temporarily halted direct military confrontation, but regional tensions remain high. Israeli strikes in southern Lebanon killed at least 14 people, escalating the conflict beyond their initial direct exchanges. US President Trump warned Israeli Prime Minister Netanyahu that continued aggressive actions could leave Israel without American support - a significant diplomatic pressure point.\n\nThe conflict has complex geopolitical implications. Analysts suggest Tehran might leverage these tensions to strengthen its negotiating position internationally, potentially using the military standoff as a strategic diplomatic tool.",
+        "headline": "China-North Korea Summit Signals Deepening Strategic Alliance",
+        "body": "Chinese President Xi Jinping and North Korean leader Kim Jong Un concluded a rare summit in Pyongyang, pledging to strengthen bilateral ties amid growing global tensions. The two leaders discussed closer military and economic cooperation - a move that could significantly reshape regional geopolitics.\n\nXi's visit marks a critical moment of diplomatic realignment. Both nations signaled their intent to present a united front against Western influence, with Kim welcoming China's support and Xi reaffirming North Korea's strategic importance to Beijing's regional strategy.",
         "sources": [
           {
-            "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-            "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Israel kills 14 in southern Lebanon after trading fire with Iran",
-            "url": "https://www.aljazeera.com/news/2026/6/9/israel-kills-14-in-southern-lebanon-after-trading-fire-with-iran?traffic_source=rss",
+            "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
+            "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
-            "url": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-            "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+            "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "US Targets Chinese Tech Giants in New Military Designation",
-        "body": "The United States has escalated economic tensions with China by designating major tech companies as military-linked entities. BYD, Alibaba, and Baidu now join a list of firms considered potential national security risks, potentially restricting their global business operations.\n\nThis move signals continued US-China technological and economic competition. The designation could further complicate international trade relations and potentially trigger retaliatory measures from Beijing.",
+        "headline": "Israel-Lebanon Conflict Enters Hundredth Day of Sustained Fighting",
+        "body": "Israel's war against Lebanon has now stretched into its hundredth day, with mounting casualties and widespread regional destabilization. The prolonged conflict has drawn international concern over potential escalation and humanitarian consequences.\n\nMilitary operations continue with no clear resolution in sight. Regional tensions remain high, with diplomatic channels struggling to broker a meaningful ceasefire that could halt the ongoing violence and destruction.",
         "sources": [
           {
-            "title": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
-            "url": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss",
+            "title": "Hundred days of Israel’s latest war on Lebanon",
+            "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Tech giant OpenAI files for US initial public offering",
-            "url": "https://www.aljazeera.com/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering?traffic_source=rss",
+            "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+            "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Palestine weekly wrap: Israel presses deeper into Gaza as Cairo talks begin",
+            "url": "https://www.aljazeera.com/news/2026/6/9/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Ebola Outbreak Worsens in DR Congo - Death Toll Reaches 101",
-        "body": "The Democratic Republic of Congo faces a growing public health crisis as the Ebola outbreak continues to spread. The death toll has climbed to 101, raising significant concerns about regional medical infrastructure and containment strategies.\n\nInternational health organizations are likely to intensify support and intervention efforts to prevent further transmission and mitigate the outbreak's impact on local communities.",
+        "headline": "World Cup 2026 Tensions Rise with Diplomatic Sports Controversies",
+        "body": "Diplomatic tensions are emerging around the upcoming World Cup, with Iran claiming the US has revoked ticket allocations for their supporters. The move adds another layer of geopolitical complexity to the international sporting event.\n\nAdditional controversies include a Somali referee being barred from entering the United States - highlighting the ongoing political undercurrents that continue to intersect with global sports competitions.",
         "sources": [
           {
-            "title": "Ebola death toll in DR Congo climbs to 101",
-            "url": "https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101?traffic_source=rss",
+            "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
+            "url": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Somali referee Artan barred from entering US",
+            "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
+            "url": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -173,7 +209,7 @@
     "ai": [
       {
         "headline": "OpenAI Prepares for Wall Street with Confidential IPO Filing",
-        "body": "OpenAI has taken its first step toward going public by submitting a confidential S-1 registration with the SEC. The move follows Anthropic's similar path and signals growing maturity in the AI startup ecosystem. Sources close to the filing suggest the company is positioning itself for significant public market scrutiny - a major milestone for the ChatGPT creator.",
+        "body": "OpenAI has quietly filed for its initial public offering, following Anthropic's similar move. The filing comes as the AI company seeks to capitalize on its massive market momentum and growing commercial influence. Sam Altman's organization is navigating a complex landscape - with reports of layoffs at his eye-scanning company Worldcoin simultaneously emerging.",
         "sources": [
           {
             "title": "OpenAI files for IPO, following Anthropic",
@@ -194,27 +230,27 @@
             "lean": null
           },
           {
-            "title": "Confidential submission of draft S-1 to the SEC",
-            "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-            "source": "Hacker News",
+            "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+            "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Apple Doubles Down on AI with Siri Overhaul and Developer Strategy",
-        "body": "Apple unveiled its AI strategy at WWDC, introducing a more conversational Siri and a new AI architecture potentially built around Google's Gemini models. The company aims to differentiate itself by offering cheaper, more accessible AI tools for developers. This approach marks a strategic pivot - moving from cautious observer to active AI participant after years of perceived lag in the generative AI race.",
+        "headline": "Apple Doubles Down on AI with WWDC Announcements",
+        "body": "Apple is aggressively positioning itself in the AI race, unveiling new AI capabilities across its ecosystem. The company showcased AI integrations for Safari, Siri, and developer tools - signaling a strategic shift toward more intelligent software experiences. With macOS 27 requiring Apple Silicon and iOS 27 expanding platform support, Apple is betting on a comprehensive AI-powered future for its product line.",
         "sources": [
-          {
-            "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-            "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-            "source": "TechCrunch",
-            "lean": null
-          },
           {
             "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
             "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
             "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Apple is using AI to fix Safari’s extension problem",
+            "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+            "source": "The Verge",
             "lean": null
           },
           {
@@ -224,39 +260,57 @@
             "lean": null
           },
           {
-            "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-            "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-            "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+            "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+            "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
             "source": "Ars Technica",
             "lean": null
           },
           {
-            "title": "Apple reveals new AI architecture built around Google Gemini models",
-            "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-            "source": "Hacker News",
+            "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+            "url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Apple bets cheaper AI will woo small developers",
+            "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+            "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Sector Sees Continued Visa and Workforce Disruption",
-        "body": "Immigration and workforce dynamics remain volatile. A federal judge blocked a proposed $100K fee for H1B visas, maintaining pathways for international tech talent. Meanwhile, reports suggest ongoing workforce shifts - with layoffs hitting Sam Altman's Worldcoin and companies like OpenAI preparing for significant structural changes through their IPO process.",
+        "headline": "Tech Giants Face Growing Scrutiny Over Data and Security",
+        "body": "Amazon employees are challenging the company's data center expansion in Seattle, raising concerns about environmental and technological impacts. Meanwhile, Microsoft confronted a security breach where its open-source tools were compromised to steal AI developers' passwords. These incidents highlight increasing tensions between tech companies, their workforce, and growing cybersecurity challenges.",
         "sources": [
           {
-            "title": "Federal judge blocks H1B visa $100K fee",
-            "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+            "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+            "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-            "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-            "source": "TechCrunch",
+            "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+            "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+            "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+            "source": "Hacker News",
             "lean": null
           }
         ]
@@ -264,61 +318,49 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Holds Steady Near $63,000 Despite Market Volatility",
-        "body": "Bitcoin maintained its position above $63,000 as market analysts continue to view its store-of-value thesis as fundamentally sound. Institutional investors remain calm, with Coinbase strategists suggesting that major financial players are not panicking - in fact, they're seeing lower prices as a buying opportunity.\n\nRetail investor interest has cooled somewhat, with some describing Bitcoin as 'boring' amid the current AI-driven market excitement. However, analysts at Bernstein remain bullish, maintaining their prediction of a $150,000 price target for the year.",
+        "headline": "Bitcoin Struggles Below $63,000 as Selling Pressure Mounts",
+        "body": "Bitcoin's price continues to slide, dropping below the $63,000 mark amid persistent market skepticism. Analysts warn that current rallies are being sold rather than bought - a troubling sign for short-term market sentiment. The cryptocurrency faces significant downward pressure, with trading volumes suggesting investors remain cautious about potential further declines.",
         "sources": [
           {
-            "title": "Live markets: Bitcoin steady above $63,000, BNB, SOL edge higher as AI stocks rebound",
+            "title": "‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought",
+            "url": "https://www.theblock.co/post/404082/stuck-in-distribution-bitcoin-slips-below-63000-as-analysts-warn-rallies-are-being-sold-not-bought?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk",
+            "url": "https://cointelegraph.com/markets/bitcoin-rallies-to-64k-but-162m-in-buy-orders-builds-below-price-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Live updates: Bitcoin drops to $62,600 as some traders peg SpaceX's IPO as 'next catalyst'",
             "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
             "source": "CoinDesk",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "US Bitcoin ETFs Bleed Continued Outflows Despite Market Volatility",
+        "body": "Bitcoin investment products are experiencing sustained outflows, marking four consecutive weeks of negative fund movement. The trend signals ongoing investor uncertainty about Bitcoin's near-term prospects. Despite the selling pressure, some market watchers see potential signs of stabilization in the current market dynamics.",
+        "sources": [
           {
-            "title": "Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year",
-            "url": "https://decrypt.co/370434/bitcoin-boring-ai-hungry-retail-investors-bernstein-150k",
-            "source": "Decrypt",
-            "lean": null
-          },
-          {
-            "title": "Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices",
-            "url": "https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&amp;utm_medium=rss",
+            "title": "US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure",
+            "url": "https://www.theblock.co/post/404075/us-bitcoin-etfs-four-week-negative-streak?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Strategic Bitcoin Reserve Bill Reveals Ambitious National Crypto Framework",
-        "body": "A newly published bill detailing a national Strategic Bitcoin Reserve has emerged, proposing unprecedented long-term cryptocurrency management. The legislation includes a 20-year lock-up period and mandates strict proof-of-reserve requirements for government Bitcoin holdings.\n\nThe bill signals a significant shift in governmental approach to Bitcoin - moving from regulatory skepticism to strategic asset management. It represents a potential watershed moment in how national institutions view and interact with cryptocurrency as a strategic financial instrument.",
-        "sources": [
-          {
-            "title": "Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates",
-            "url": "https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill",
-            "source": "Bitcoin Magazine",
-            "lean": null
           },
           {
-            "title": "Coinbase Executive: Massive Institutions Are Buying Bitcoin’s Crash",
-            "url": "https://bitcoinmagazine.com/news/coinbase-executive-institutions-bitcoin",
-            "source": "Bitcoin Magazine",
+            "title": "Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense",
+            "url": "https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense",
+            "source": "CoinDesk",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Mining Sector Demonstrates Resilience at Lower Price Points",
-        "body": "Chinese Bitcoin mining executives have signaled confidence in their operational strategies, claiming sustainability even if Bitcoin prices drop to $30,000. The statement underscores the mining sector's adaptability and long-term commitment to cryptocurrency infrastructure.\n\nThis resilience comes amid ongoing discussions about Bitcoin's economic fundamentals and the continued institutional interest in the cryptocurrency market.",
-        "sources": [
+          },
           {
             "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
             "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
-            "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -329,19 +371,19 @@
     "food": {
       "name": "Lavender Honey Roasted Chicken",
       "cuisine": "French-Provençal Fusion",
-      "description": "Tender roast chicken infused with delicate lavender and local wildflower honey, creating a fragrant and surprisingly complex main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
-      "tip": "Perform the sequence every 90 minutes, focusing on gentle rotational movements and controlled breathing"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body's position every 20 minutes to prevent muscular stagnation and reduce cumulative strain",
+      "tip": "Set a subtle phone or smartwatch alert to trigger a 30-second posture reset involving shoulder rolls, neck stretches, and spine realignment"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, containing bizarre illustrations of plants, astronomical diagrams, and unidentified human figures",
-      "why": "It remains one of history's most fascinating unsolved cryptographic puzzles, challenging linguists, cryptographers, and historians for centuries"
+      "topic": "Biomimicry in Urban Design",
+      "description": "An emerging architectural and engineering approach that designs human environments by directly studying and emulating nature's time-tested patterns and strategies",
+      "why": "Understanding how natural systems solve complex challenges can revolutionize how we think about sustainable infrastructure, energy efficiency, and urban resilience"
     }
   }
 }
