@@ -1,29 +1,35 @@
 {
-  "generatedAt": "2026-06-10T05:38:14.750Z",
+  "generatedAt": "2026-06-10T11:20:56.663Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Endorsements Test Political Clout in Primaries",
-        "body": "Former President Trump's political influence faced multiple tests in Tuesday's primaries across several states. In South Carolina, Trump-backed candidates Alan Wilson and Evette advanced to the gubernatorial runoff, signaling continued support from the Republican base.\n\nIn Nevada, Trump's endorsement power showed mixed results. A gaming industry veteran who criticized woke culture won a key primary, while incumbent Republican Governor Joe Lombardo secured his party's nomination despite potential tensions with Trump's wing of the party.",
+        "headline": "European Defense Stumbles, Raising US Partnership Questions",
+        "body": "A massive European fighter jet project has collapsed, exposing deep vulnerabilities in the continent's military capabilities. The $116 billion program's failure signals potential challenges for European defense infrastructure - and heightened dependence on US military support.\n\nRight-leaning sources emphasize the strategic implications, suggesting Europe remains critically reliant on American military technology and protection. European leaders will need to reassess procurement strategies and investment in indigenous defense capabilities.",
         "sources": [
           {
-            "title": "Evette, backed by Trump, and Wilson, a Trump supporter, head to S.C. governor runoff",
-            "url": "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor",
+            "title": "Europe's $116B fighter jet 'failure' raises fresh doubts about ability to defend itself without US",
+            "url": "https://www.foxnews.com/politics/europes-116b-fighter-jet-failure-raises-fresh-doubts-about-ability-defend-itself-without-us",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Nevada Primaries Test Trump's Ongoing Political Influence",
+        "body": "Nevada's primary elections revealed complex dynamics within the Republican Party, with Trump-endorsed candidates scoring key victories while also facing potential challenges. Governor Joe Lombardo secured the GOP gubernatorial nomination after navigating internal party tensions.\n\nThe results highlight continuing debates about Trump's political brand. Some candidates embraced his endorsement, while others sought to distinguish themselves from the former president's direct influence. The outcomes suggest a nuanced Republican landscape heading into the general election.",
+        "sources": [
+          {
+            "title": "Trump notches win in Nevada GOP House primary for Amodei’s seat",
+            "url": "https://thehill.com/homenews/campaign/5915258-flippo-wins-nevada-gop-primary/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "In Nevada, Trump's policies are making things tough for Republican Gov. Joe Lombardo",
+            "url": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
             "source": "NPR",
             "lean": "left"
-          },
-          {
-            "title": "Trump’s endorsement power faces another GOP test in South Carolina after Alan Wilson advances",
-            "url": "https://www.foxnews.com/politics/trumps-endorsement-power-faces-another-gop-test-south-carolina-alan-wilson-advances",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump rekindles endorsement winning streak as GOP gubernatorial hopeful advances to runoff",
-            "url": "https://www.foxnews.com/politics/trumps-endorsement-power-roars-back-gop-gubernatorial-hopeful-advances-runoff",
-            "source": "Fox News",
-            "lean": "right"
           },
           {
             "title": "Trump-endorsed candidate will face top GOP target in Nevada House district",
@@ -38,6 +44,12 @@
             "lean": "right"
           },
           {
+            "title": "Lombardo, Ford face off in high-stakes Nevada governor’s race",
+            "url": "https://thehill.com/homenews/campaign/5915264-lombardo-ford-nevada-governor-race/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
             "title": "Joe Lombardo cruises past six GOP challengers to secure Nevada Republican gubernatorial nomination",
             "url": "https://www.foxnews.com/politics/joe-lombardo-cruises-past-six-gop-challengers-secure-nevada-republican-gubernatorial-nomination",
             "source": "Fox News",
@@ -46,98 +58,110 @@
         ]
       },
       {
-        "headline": "Maine Senate Race Highlights Controversy and Redemption",
-        "body": "Maine's Democratic Senate primary saw Platner secure the nomination despite ongoing controversies. Progressive voices like AOC suggested voters were offering a chance at redemption, while acknowledging the difficult allegations surrounding the candidate.\n\nPlatner will now face Republican Susan Collins in what could be a critical race for Senate control. The primary outcome reflects the complex dynamics within the Democratic Party - balancing accountability with political strategy.",
+        "headline": "Congress Confronts Immigration, Surveillance, and Funding Debates",
+        "body": "Congressional Republicans are pushing aggressive immigration enforcement legislation, passing a bill to fund ICE and Border Patrol. Simultaneously, lawmakers are scrutinizing surveillance powers and potential donor fraud in political fundraising.\n\nThe debates reflect deep partisan divisions over immigration policy, government surveillance, and financial transparency. Key issues include border security funding, potential abuses in wiretapping programs, and the integrity of political donation mechanisms.",
         "sources": [
           {
-            "title": "Khanna: Maine voters gave Platner a ‘chance at redemption’ with primary win",
-            "url": "https://thehill.com/homenews/campaign/5917594-khanna-maine-voters-gave-platner-a-chance-at-redemption-with-primary-win/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
+            "url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "AOC calls Platner allegations ‘Hard to stomach,’ emphasizes Maine election is ‘a choice’",
-            "url": "https://thehill.com/homenews/campaign/5917488-ocasio-cortez-comments-platner-controversies/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "House Republicans pass bill to fund ICE and Border Patrol",
+            "url": "https://www.npr.org/2026/06/10/nx-s1-5851665/house-republicans-pass-bill-to-fund-ice-and-border-patrol",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "Scandal-plagued Platner captures Democratic Senate nomination",
-            "url": "https://www.foxnews.com/politics/scandal-plagued-platner-captures-democratic-senate-nomination",
+            "title": "Rep. James Walkinshaw on funding for ICE and the future of immigration enforcement",
+            "url": "https://www.npr.org/2026/06/10/nx-s1-5852226/rep-james-walkinshaw-on-funding-for-ice-and-the-future-of-immigration-enforcement",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "ActBlue chief heads to Capitol Hill hot seat as donor fraud probe intensifies",
+            "url": "https://www.foxnews.com/politics/actblue-chief-heads-capitol-hill-hot-seat-donor-fraud-probe-intensifies",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Platner-Collins matchup set in high-profile Maine Senate race",
-            "url": "https://thehill.com/homenews/campaign/5915025-platner-collins-maine-senate/",
+            "title": "Beyond Pulte, Congress cannot allow an extension for warrantless wiretaps",
+            "url": "https://thehill.com/opinion/congress-blog/technology/5916787-section-702-abuse-reform-congress/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Collins secures GOP nod in Maine Senate battle that could decide GOP majority",
-            "url": "https://www.foxnews.com/politics/maines-collins-locks-gop-nomination-race-critical-senate-control",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "High Court Ruling Could Cost Millions in Immigration Claims",
-        "body": "The Australian High Court's landmark decision on non-citizen detention could trigger tens of millions of dollars in compensation claims. Government officials are bracing for potential financial fallout after the court ruled that indefinite detention of non-citizens is unlawful.\n\nLegal experts suggest the ruling may open the door for numerous compensation cases. The decision marks a significant shift in Australia's immigration policy - challenging long-standing practices of holding individuals without clear legal pathways.",
+        "headline": "One Nation Senator Faces Constitutional Challenge",
+        "body": "A constitutional expert has raised questions about One Nation senator Tyron Whitten's eligibility to sit in parliament. The potential breach centers on constitutional requirements that could disqualify the senator from office.\n\nThe challenge comes amid internal tensions within the One Nation party. Liberal MP Andrew Hastie has publicly criticized Pauline Hanson's leadership, suggesting the party is too focused on imported political rhetoric from the United States.",
         "sources": [
           {
-            "title": "High Court decision could lead to tens of millions of dollars worth of immigration claims",
-            "url": "https://www.abc.net.au/news/2026-06-10/nzyq-high-court-decision-could-lead-to-millions-worth-of-claims/106780880",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Andrew Hastie: ‘Pauline Hanson’s problem is that she is MAGA first.’",
+            "url": "https://www.spectator.com.au/2026/06/andrew-hastie-pauline-hansons-problem-is-that-she-is-maga-first/",
+            "source": "Spectator AU",
+            "lean": "right"
           },
           {
-            "title": "Non-citizens held in indefinite detention in Australia could get millions of dollars in compensation after government’s high court loss",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/10/australian-high-court-compensation-nzyq-unlawful-non-citizens-ntwnfb",
+            "title": "One Nation senator Tyron Whitten could be in breach of constitution and ineligible to sit in parliament, expert says",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/10/hanson-one-nation-senator-tyron-whitten-alleged-breach-of-constitution-section-44-hydro-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Pocock says Australia is ‘sleepwalking’ into AI impacts – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Strikes and Labor Tensions Disrupt Australian Workplaces",
-        "body": "Multiple sectors face industrial action this week as workers demand better conditions. ACT public schools will close entirely tomorrow due to a staff strike over pay, while the CFMEU is under scrutiny for alleged pressure on industry regulators.\n\nInpex has sought urgent orders to stop strike action in Darwin, highlighting growing tensions between employers and workers. These disruptions signal broader challenges in workplace relations across different Australian industries.",
+        "headline": "NSW Police Admit Assault of Pro-Palestine Protester",
+        "body": "The New South Wales government has officially acknowledged that a police officer battered a former Greens candidate during a protest. Hannah Thomas was reportedly punched and falsely imprisoned by law enforcement.\n\nThe admission follows mounting pressure from civil liberties groups and media scrutiny. It highlights ongoing tensions between protest movements and police response, raising questions about accountability and use of force during public demonstrations.",
         "sources": [
           {
-            "title": "Inpex seeks urgent orders to stop strike action in Darwin",
-            "url": "https://www.abc.net.au/news/2026-06-10/nt-inpex-seeks-to-stop-strike-action-at-fair-work-commission/106781346",
+            "title": "State government admits ex-Greens candidate battered by police officer",
+            "url": "https://www.abc.net.au/news/2026-06-10/nsw-acknowledges-protester-hannah-thomas-was-punched-by-officer/106782156",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "CFMEU leader pressured regulator to target certain contractors, inquiry hears",
-            "url": "https://www.abc.net.au/news/2026-06-10/cfmeu-inquiry-brisbane-corruption-complaints-qbcc/106779426",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Hannah Thomas: NSW admits to police ‘battery and false imprisonment’ of pro-Palestine protester",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/10/hannah-thomas-pro-palestine-protester-assaulted-by-police-officers-falsely-imprisoned-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "ACT public schools to close entirely tomorrow as staff strike over pay",
-            "url": "https://www.abc.net.au/news/2026-06-10/act-public-schools-to-close-entirely-tomorrow-as-teachers-strike/106780728",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Afternoon Update: NSW police admit battery in Hannah Thomas case; tributes flow at Neale Daniher’s state funeral; and Madonna’s new video",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/10/afternoon-update-wednesday-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       },
       {
-        "headline": "Traditional Owners Claim Broken Promises from Resource Companies",
-        "body": "An iron ore company faces criticism for failing to meet commitments to traditional owners. The dispute centers on unpaid compensation - reportedly around $2 million - raising questions about corporate accountability in resource development.\n\nSimultaneously, other economic pressures emerge, with Woolworths announcing plans to offshore hundreds of corporate jobs. These developments reflect ongoing tensions between corporate interests and community expectations.",
+        "headline": "ACT Budget Reveals Cost-of-Living Pressures",
+        "body": "The Australian Capital Territory's budget papers have been released, signaling potential disappointment for residents seeking financial relief. Early analysis suggests limited solutions to mounting cost-of-living challenges.\n\nLocal economic experts are examining the budget's implications, with particular focus on how government spending might address ongoing financial pressures facing Canberran households and businesses.",
         "sources": [
           {
-            "title": "Iron ore company 'undermines' promises after failing to pay traditional owners",
-            "url": "https://www.abc.net.au/news/2026-06-10/traditional-owners-owed-2-million-dollars-nathan-river-resources/106780168",
+            "title": "Canberrans looking for cost-of-living relief in ACT budget might be left wanting",
+            "url": "https://www.abc.net.au/news/2026-06-10/canberra-footy-club-feeling-the-pinch-amid-rising-costs/106780404",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Woolworths to offshore hundreds of corporate jobs",
-            "url": "https://www.abc.net.au/news/2026-06-10/woolworths-offshore-hundreds-of-corporate-jobs-june-2026/106779922",
+            "title": "The ACT budget papers are out. Here are the five key takeaways",
+            "url": "https://www.abc.net.au/news/2026-06-10/key-takeaways-from-act-budget/106780298",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Illegal peptides are everywhere. Now authorities are cracking down",
+            "url": "https://www.abc.net.au/news/2026-06-10/peptide-tga-regulation-crackdown/106781680",
             "source": "ABC Australia",
             "lean": "center-left"
           }
@@ -146,9 +170,15 @@
     ],
     "world": [
       {
-        "headline": "US-Iran Tensions Explode: Strikes, Missile Attacks, Regional Chaos",
-        "body": "Escalating tensions between the United States and Iran have erupted into direct military confrontation. The US launched retaliatory strikes after Iran allegedly downed a military helicopter - a move that quickly spiraled into broader regional conflict. Jordan intercepted Iranian missiles over its airspace, while Iran struck targets in Bahrain, Kuwait, and Jordan in what appears to be a coordinated response to US actions.\n\nThe situation remains volatile, with potential for further escalation. Military analysts warn that these exchanges could draw multiple regional powers into a wider conflict, threatening stability in the Middle East.",
+        "headline": "Iran and US Trade Strikes Amid Escalating Middle East Tensions",
+        "body": "US and Iranian forces exchanged military blows in a dangerous escalation of regional conflict. The US launched strikes after Iran shot down an American military helicopter - a brazen act that heightened already severe tensions. Iran responded by firing missiles at US bases, carrying images of previously killed commanders as a provocative symbolic gesture.\n\nThe strikes mark a significant moment in the ongoing shadow war between the two nations. Both sides are signaling unwillingness to back down, with military actions that risk pushing the region closer to open conflict.",
         "sources": [
+          {
+            "title": "Iran fires missiles at US bases carrying images of killed commanders",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "US strikes Iran in response to downing of military helicopter",
             "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
@@ -156,69 +186,51 @@
             "lean": null
           },
           {
-            "title": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
-            "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
+            "title": "Explosion in Bahrain as Iran attacks US bases",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Jordan intercepts Iranian missiles over its airspace",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "US military launches ‘self-defence strikes’ targeting Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+            "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+            "url": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "UN Report Exposes Israeli Forces' Role in West Bank Violence",
-        "body": "A new United Nations report has leveled serious accusations against Israeli military forces, alleging they systematically shield settlers during attacks on Palestinian communities. The report suggests a pattern of institutional protection that enables settler violence and undermines Palestinian safety.\n\nThis documentation adds significant pressure on Israel, highlighting ongoing tensions in the occupied territories. The findings could potentially trigger international diplomatic responses and further scrutiny of Israeli military conduct in the West Bank.",
+        "headline": "Belfast Erupts in Anti-Immigrant Violence After Knife Attack",
+        "body": "Northern Ireland's capital descended into chaos as anti-immigrant protests turned violent following a knife attack. Tensions boiled over in Belfast - with demonstrations quickly spiraling into widespread unrest that exposed deep social fractures.\n\nThe incident highlights growing xenophobic sentiments in parts of the UK. Protesters targeted immigrant communities, transforming a single violent act into a broader expression of racial tension and social anxiety.",
         "sources": [
           {
-            "title": "UN report: Israeli forces shield settlers during attacks on Palestinians",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss",
+            "title": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
+            "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
+            "title": "Anti-immigration protests break out in Belfast after knife attack",
+            "url": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Belfast Erupts in Violent Protests After Stabbing Incident",
-        "body": "Northern Ireland's capital descended into chaos following a violent stabbing, with protesters torching vehicles and buildings across the city. Local police have urged calm but struggled to contain the widespread unrest.\n\nThe incident has reignited long-standing sectarian tensions in Belfast, demonstrating the fragility of peace in a region with a complex history of conflict. Authorities are working to prevent further escalation and restore order.",
+        "headline": "Mass Shooting Stuns Johannesburg - Manhunt Intensifies",
+        "body": "South Africa reels from a shocking mass shooting that left 12 people dead in Johannesburg. Law enforcement launched an urgent manhunt to track down the perpetrators of this devastating attack.\n\nThe incident has gripped the nation - raising urgent questions about public safety and the underlying social tensions that might have precipitated such extreme violence. Authorities are working to understand the motives and identify those responsible.",
         "sources": [
           {
-            "title": "Protesters torch cars, buildings in Belfast after knife attack",
-            "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+            "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss",
+            "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+            "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
-            "url": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
             "lean": null
           }
         ]
@@ -226,8 +238,56 @@
     ],
     "ai": [
       {
-        "headline": "AI Liability Heats Up: Google Faces German Legal Challenge",
-        "body": "A landmark German court ruling has thrust Google into a legal pressure cooker over its AI Overviews. The court declared Google directly liable for false or misleading information generated by its AI system - a decision that could reshape how tech companies approach AI-generated content.\n\nThis ruling signals a potential global shift in AI accountability. Tech giants may now face serious financial and legal consequences for AI hallucinations, pushing them to dramatically improve accuracy and transparency in their generative systems.",
+        "headline": "AI Disrupts World Cup and Tech Landscape",
+        "body": "Google's Gemini AI is transforming the World Cup experience, signaling a new era of sports technology integration. Meanwhile, tech platforms continue to push AI boundaries - with React exploring a Rust-based compiler and Mercedes-Benz launching an innovative electric axial flux motor.\n\nThe rapid technological shifts suggest AI is no longer a peripheral innovation but a core driver of industry transformation. From sports broadcasting to automotive engineering, intelligent systems are reshaping how we interact with technology.",
+        "sources": [
+          {
+            "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+            "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Port React Compiler to Rust",
+            "url": "https://github.com/react/react/pull/36173",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+            "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+            "source": "Hacker News",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Global Tech Giants Expand AI Infrastructure and Partnerships",
+        "body": "Meta has signed its first AI data center deal in India with Reliance, marking a significant expansion of global computing infrastructure. AWS Bedrock is requiring data sharing with Anthropic for future model development - a move that highlights the increasing complexity of AI collaboration.\n\nThese strategic partnerships underscore the massive capital investments required to compete in the AI race. Companies are no longer just developing models - they're building entire technological ecosystems to support next-generation artificial intelligence.",
+        "sources": [
+          {
+            "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+            "url": "https://news.ycombinator.com/item?id=48473166",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Meta signs first AI data center deal in India with Reliance",
+            "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Google just fired a warning shot in the AI subscription price wars",
+            "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI Liability and Regulation Take Center Stage",
+        "body": "A landmark German court ruling has declared Google liable for false answers generated by AI Overviews - a potentially transformative legal precedent for AI accountability. Apple's new Siri AI and Anthropic's Fable 5 are pushing the boundaries of what AI can do, while raising critical questions about technological responsibility.\n\nThe emerging regulatory landscape suggests governments are increasingly willing to hold tech companies accountable for AI-generated content. This signals a maturation of AI technology from experimental tool to mainstream service with real-world consequences.",
         "sources": [
           {
             "title": "German ruling declares Google liable for false answers in AI Overviews",
@@ -236,51 +296,15 @@
             "lean": null
           },
           {
-            "title": "Google just fired a warning shot in the AI subscription price wars",
-            "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Can tech companies learn to love cheaper AI models?",
-            "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Apple Unveils Siri AI at WWDC - Big Promises, Early Buzz",
-        "body": "Apple has officially entered the generative AI race with its new Siri AI, announced at WWDC 2026. Early reviews suggest the technology might actually deliver on long-standing promises of intelligent digital assistance - a stark contrast to Siri's previous iterations.\n\nThe launch includes deep integration with iOS 27, promising more contextual and responsive interactions. Apple's approach appears focused on practical utility rather than pure technological spectacle - a potential differentiator in an increasingly crowded AI market.",
-        "sources": [
-          {
             "title": "I tried Siri AI, and so far it actually works",
             "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Hey, Siri, here’s what I actually want from AI",
-            "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+            "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+            "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
             "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-            "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Ethics Debate Intensifies: Consciousness and Competitive Boundaries",
-        "body": "The AI ethics landscape grew more complex this week, with Microsoft's AI leadership publicly challenging Anthropic's framing of Claude as a potentially conscious entity. The dispute highlights growing tensions around AI personhood and responsible development.\n\nAnthropic's Fable 5 model also drew scrutiny, with the company proactively restricting discussions on certain sensitive topics. These moves underscore the delicate balance between technological innovation and ethical guardrails in advanced AI systems.",
-        "sources": [
-          {
-            "title": "If Claude Fable stops helping you, you'll never know",
-            "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-            "source": "Hacker News",
             "lean": null
           },
           {
@@ -300,37 +324,37 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Tumbles as Rate Hike Fears Rattle Markets",
-        "body": "Bitcoin suffered a sharp decline Wednesday as investors bet on potential interest rate increases. The cryptocurrency tracked gold downward - a rare correlation that signals broader market anxiety about monetary policy. Bitwise analysts suggested Bitcoin might act as a warning indicator - a canary in the coal mine signaling risk-off sentiment spreading across financial markets.\n\nThe price drop underscores Bitcoin's continued sensitivity to macroeconomic signals. Institutional investors remain watchful, with traditional finance still cautiously exploring crypto exposure despite the current market turbulence.",
+        "headline": "Bitcoin Supply Hits Critical Point as Market Pressures Mount",
+        "body": "More than half of Bitcoin's total supply now trades below its purchase price - a potential harbinger of market bottoming. Analysts at K33 Research suggest historical patterns indicate a final downward leg could precede a price recovery within weeks.\n\nThe cryptocurrency faces significant headwinds from broader economic pressures. Both Bitcoin and gold are experiencing simultaneous declines as markets anticipate potential Federal Reserve rate hikes, signaling broader investor uncertainty about traditional and alternative assets.",
         "sources": [
+          {
+            "title": "More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33",
+            "url": "https://www.theblock.co/post/404229/more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
           {
             "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
             "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
             "source": "CoinDesk",
             "lean": null
-          },
-          {
-            "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
-            "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin ETFs Stall Despite Institutional Interest",
-        "body": "Bitcoin exchange-traded funds have failed to gain meaningful traction since the 2024 election. Recent data shows ETF growth has flatlined - a potential sign of investor hesitation in the crypto market. Traditional financial institutions continue exploring Bitcoin investments, but structural barriers remain.\n\nThe stagnation highlights the ongoing challenge of mainstreaming Bitcoin as an investable asset. Despite growing institutional interest, regulatory uncertainty and market volatility continue to dampen broader adoption strategies.",
+        "headline": "Bitcoin Layer 2 Project Collapses - Network Winds Down",
+        "body": "Botanix, a Bitcoin Layer 2 network, announced it will shut down operations and urged users to withdraw their assets immediately. The closure highlights ongoing challenges in scaling Bitcoin's infrastructure and developing robust secondary networks.\n\nThis development comes amid a broader context of Bitcoin ETFs showing minimal growth - currently no larger than their size during the 2016 Trump election period. Such stagnation underscores the persistent challenges in mainstream cryptocurrency adoption.",
         "sources": [
+          {
+            "title": "Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets",
+            "url": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
           {
             "title": "Bitcoin ETFs are no bigger today than when Trump won the election",
             "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-etfs-are-no-bigger-today-than-when-trump-won-the-election",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios",
-            "url": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -339,21 +363,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Shakshuka",
-      "cuisine": "Middle Eastern",
-      "description": "Eggs poached in spiced tomato sauce",
-      "tip": "Add feta on top"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
     },
     "health": {
-      "category": "Exercise",
-      "name": "30-min walk",
-      "description": "Easy active recovery session outdoors",
-      "tip": "Walk outside for natural light and vitamin D"
+      "category": "Posture",
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent muscular stagnation and reduce cumulative strain",
+      "tip": "Set a subtle phone or smartwatch reminder that prompts you to subtly change your seated or standing position, rotating between slight forward lean, neutral spine, and gentle backward recline"
     },
     "learn": {
-      "topic": "The Fermi Paradox",
-      "description": "Why haven't we found alien life?",
-      "why": "One of the biggest unanswered questions in science"
+      "topic": "Biomimicry in Urban Design",
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
+      "why": "Understanding how nature solves complex design challenges can revolutionize how we think about sustainable, efficient urban environments and solve critical infrastructure problems"
     }
   }
 }
