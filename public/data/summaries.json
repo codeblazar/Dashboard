@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-06-11T05:41:22.240Z",
+  "generatedAt": "2026-06-11T11:37:51.189Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Pushes Reconciliation Bill, Threatens Trade Deal",
-        "body": "Former President Donald Trump is pressuring Republicans to pass a third reconciliation bill that includes the Save America Act. His political maneuvering comes alongside a controversial statement about potentially not renewing the USMCA trade agreement with Mexico and Canada.\n\nThe move signals continued Trump influence in Republican policy-making. Senate Minority Leader Chuck Schumer criticized the potential economic impact, arguing that Trumpflation is worsening. Republican leadership appears divided on how to respond to these aggressive policy proposals.",
+        "headline": "Trump's Iran Strategy Splits GOP, Raises Foreign Policy Tensions",
+        "body": "Republican senators are showing increasing unease with the Trump administration's approach to Iran. Multiple sources indicate growing internal party friction over military engagement and diplomatic strategy.\n\nWhile some GOP members support an aggressive stance, others worry about potential escalation and long-term strategic consequences. The emerging divide could complicate Trump's foreign policy objectives and create challenges for party unity heading into midterm elections.",
         "sources": [
           {
-            "title": "Trump calls on Republicans to pass third reconciliation bill that includes Save America Act",
-            "url": "https://thehill.com/homenews/administration/5919396-trump-endorses-third-reconciliation-bill/",
+            "title": "Trump simply doesn’t know how to win in Iran",
+            "url": "https://thehill.com/opinion/national-security/5918518-trump-iran-ceasefire-strategy/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Senate GOP support erodes for Trump’s Iran war stance",
+            "url": "https://thehill.com/homenews/senate/5919116-senate-gop-iran-conflict/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump’s Board of Peace faces funding questions, trouble in Gaza",
+            "url": "https://thehill.com/policy/international/5918941-trump-board-of-peace-gaza-israel-rubio/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Democrats Lead Congressional Ballot as Immigration Debate Intensifies",
+        "body": "A new Emerson poll shows Democrats holding a 10-point lead in congressional ballot preferences, signaling potential momentum for the party. The lead comes amid heated debates around immigration policy and border security.\n\nConservative voices, including a Missouri senator, have framed Democratic immigration approaches as a threat to Western civilization. The rhetoric underscores deep ideological divisions that could shape upcoming electoral contests.",
+        "sources": [
+          {
+            "title": "Missouri senator warns Dem immigration policies threaten Western civilization after scoring ICE funding win",
+            "url": "https://www.foxnews.com/politics/missouri-senator-warns-dem-immigration-policies-threaten-western-civilization-after-scoring-ice-funding-win",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Democrats hold 10-point lead over GOP on congressional ballot: Poll",
+            "url": "https://thehill.com/homenews/campaign/5918716-democrats-republicans-redistricting-emerson-poll/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Midterm pressures threaten GOP unity",
+            "url": "https://thehill.com/homenews/house/5918912-midterm-pressures-threaten-gop-unity/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "Oil Prices and Government Funding Create Economic Pressure",
+        "body": "Oil executives warned the White House about potential further increases in gas prices, adding economic uncertainty to the political landscape. Simultaneously, Senate negotiations have stalled on government funding, with both parties trading blame.\n\nThe funding impasse threatens critical government operations and highlights the ongoing challenges of bipartisan cooperation. Economic concerns and budgetary disputes continue to dominate the national political conversation.",
+        "sources": [
+          {
+            "title": "Oil executives warn White House that gas prices will get worse",
+            "url": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Government funding hits a wall as senators point finger at other party",
+            "url": "https://thehill.com/homenews/senate/5919073-senate-funding-appropriations-defense-domestic/",
             "source": "The Hill",
             "lean": "center"
           },
@@ -18,112 +72,82 @@
             "url": "https://thehill.com/homenews/administration/5919295-trump-usmca-trade-agreement/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Schumer: ‘Trumpflation is getting worse and worse’",
-            "url": "https://thehill.com/homenews/senate/5919233-trumpflation-schumer-inflation-rise/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "US Launches Strikes Against Iran, Tensions Escalate",
-        "body": "The United States military has initiated a fresh round of strikes against Iran, framing the action as a self-defense measure. Military commentators like Pete Hegseth are describing the strikes as strong and clear, indicating a potentially significant geopolitical confrontation.\n\nThe strikes represent a critical moment in US-Iran relations, with potential long-term diplomatic and strategic implications. The White House has not yet provided extensive details about the specific targets or the broader strategic objective of these military actions.",
-        "sources": [
-          {
-            "title": "Live updates: US launches ‘self-defense’ strikes against Iran",
-            "url": "https://thehill.com/homenews/administration/5917342-live-updates-donald-trump-iran-cpi-report/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "US military launches fresh round of Iran strikes",
-            "url": "https://thehill.com/policy/defense/5919086-us-military-launches-strikes-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Hegseth says coming strikes on Iran will be ‘strong and clear’",
-            "url": "https://thehill.com/policy/defense/5919026-hegseth-us-military-strikes-iran/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "NASA Defends All-Male Artemis Crew Amid Criticism",
-        "body": "NASA leadership is defending its decision to launch an all-male crew for the Artemis space mission - a controversial choice given the program is named after a Greek goddess associated with female empowerment. The space agency's stance has sparked debate about gender representation in scientific exploration.\n\nThe crew selection highlights ongoing tensions around diversity in STEM fields. Critics argue the decision undermines NASA's commitment to inclusive representation, while supporters suggest crew selection should prioritize technical qualifications over gender balance.",
-        "sources": [
-          {
-            "title": "NASA head defends all-male crew for Artemis, space program named after Greek goddess",
-            "url": "https://thehill.com/homenews/administration/5919348-nasa-head-defends-all-male-crew-for-artemis-space-program-named-after-greek-goddess/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump sees 22 medical specialists, appearing to set new bar for presidents",
-            "url": "https://www.washingtonpost.com/politics/2026/06/10/trump-sees-22-medical-specialists-white-house-hasnt-said-why/",
-            "source": "Washington Post",
-            "lean": "center-left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "NDIS Overhaul Sparks State Revolt Against Albanese Government",
-        "body": "State disability ministers have launched a fierce pushback against the federal government's National Disability Insurance Scheme reforms. They warn they cannot deliver equivalent services for participants being removed from the scheme - a critical challenge to the Albanese government's planned restructure.\n\nThe dispute highlights growing tensions between federal and state governments over disability support. States argue the proposed changes will leave vulnerable Australians without critical care, potentially creating significant gaps in social support networks.",
+        "headline": "One Nation Surges - Labor Warns of Political Binary Choice",
+        "body": "The political landscape is shifting dramatically as One Nation gains ground, with Treasurer Jim Chalmers warning Australians they face a stark political choice. Pauline Hanson's party appears to be gaining momentum, with revelations emerging about Gina Rinehart's involvement in policy development.\n\nLabor is positioning the rise of One Nation as a critical inflection point for Australian politics. Chalmers suggested the party represents a significant challenge to the mainstream political narrative, signaling growing voter disenchantment with traditional party structures.",
         "sources": [
           {
-            "title": "We can’t deliver ‘like-for-like-services’ for people kicked off the NDIS, states warn Albanese government",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/11/ndis-disabilities-overhaul-hospital-australia",
+            "title": "Australians face a 'binary choice' as One Nation soars, says Chalmers",
+            "url": "https://www.abc.net.au/news/2026-06-11/australians-face-a-binary-choice-as-one-nation-soars-chalmers/106787392",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Pauline Hanson reveals Gina Rinehart's role in One Nation policy making",
+            "url": "https://www.abc.net.au/news/2026-06-11/one-nation-pauline-hanson-gina-rinehart/106787540",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Burke brushes off One Nation threat to his seat – as it happened",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "State disability ministers lash NDIS overhaul",
-            "url": "https://www.abc.net.au/news/2026-06-11/state-and-territories-lash-ndis-changes/106785788",
+            "title": "Hanson gets emotional revisiting decades-old Abbott feud",
+            "url": "https://www.abc.net.au/news/2026-06-11/anthony-albanese-one-nation-tony-abbott-election/106775110",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Aukus Defense Deal Draws Sharp Criticism from Foreign Policy Expert",
-        "body": "Former foreign minister Gareth Evans has launched a scathing critique of the Aukus submarine agreement - describing it as potentially one of Australia's worst foreign policy decisions in recent history. Evans suggests the deal requires unrealistic optimism and may not deliver strategic advantages.\n\nHis intervention adds significant weight to ongoing debates about Australia's defense strategy and international alignments. The criticism underscores continuing divisions about the multi-billion dollar defense partnership with the United States and United Kingdom.",
+        "headline": "Queensland Youth Detention Centres Spark Serious Concerns",
+        "body": "Allegations of prolonged lockdowns in Queensland youth detention centres have sparked urgent questions about juvenile detention practices. Reports suggest child detainees were allegedly confined for an entire weekend, raising significant human rights concerns.\n\nThe incident highlights ongoing systemic challenges within youth justice systems. Staff shortages and industrial actions appear to be contributing factors, underscoring the complex operational difficulties facing detention facilities.",
         "sources": [
           {
-            "title": "Aukus is among Australia’s worst foreign policy decisions and requires ‘heroic’ optimism, Gareth Evans says",
-            "url": "https://www.theguardian.com/world/2026/jun/11/aukus-among-australia-worst-foreign-policy-decisions-gareth-evans",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Child detainees in Queensland allegedly locked down for entire weekend",
+            "url": "https://www.abc.net.au/news/2026-06-11/queensland-youth-detention-centre-lockdowns-staff-strike/106787504",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Labor to set terms for datacentre and AI growth as it vows not to repeat mistakes of resources boom",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/11/datacentre-ai-growth-economy-resources-australia-labor-government",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Death in custody inquest finds evidence of complacency and incompetence",
+            "url": "https://www.abc.net.au/news/2026-06-11/prisoner-dictor-dongrin-inquest-findings/106783164",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Labor Seeks Careful Management of AI and Data Centre Growth",
-        "body": "The Albanese government is preparing a strategic framework to guide artificial intelligence and data centre development - aiming to avoid repeating mistakes made during previous economic transformations. Labor wants to create structured growth pathways for emerging digital industries.\n\nThe approach signals a proactive stance toward technological sectors, with ministers seeking to balance economic opportunity against potential risks. Careful regulatory design will be crucial to managing potential disruptions.",
+        "headline": "Industrial Tensions Simmer as BHP Faces Potential Strikes",
+        "body": "Major resource company BHP is bracing for potential industrial action after workers in Western Australia voted to support strike measures. The development signals growing workplace tensions in Australia's critical mining sector.\n\nThe potential strike could have significant economic implications, reflecting broader challenges in industrial relations. Workers appear to be seeking improved conditions and compensation, testing the negotiation capabilities of both management and union representatives.",
         "sources": [
           {
-            "title": "Labor to set terms for datacentre and AI growth as it vows not to repeat mistakes of resources boom",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/11/datacentre-ai-growth-economy-resources-australia-labor-government",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "BHP bracing for strike after WA workers back industrial action",
+            "url": "https://www.abc.net.au/news/2026-06-11/port-hedland-bhp-strike-action/106780760",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Former Qld Labor ministers accused of political interference at CFMEU inquiry",
+            "url": "https://www.abc.net.au/news/2026-06-11/qld-cfmeu-inquiry-former-labor-ministers-accused/106787012",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Conflict Escalates - Strikes Hit Multiple Middle East Targets",
-        "body": "Tensions between the United States and Iran have dramatically intensified, with both sides launching coordinated military strikes across the Middle East. Iran announced the closure of the Strait of Hormuz - a critical maritime chokepoint for global oil shipments - following US attacks on Iranian targets.\n\nThe conflict has rapidly expanded, with Iran targeting Bahrain, Kuwait, and Jordan in retaliation. US strikes continue, raising fears of a broader regional war. Military analysts warn that the escalation could draw in multiple regional powers and disrupt global oil markets.",
+        "headline": "US-Iran Tensions Escalate with Strikes and Tanker Attack",
+        "body": "Tensions between the United States and Iran have sharply intensified, with both sides exchanging military strikes across the Middle East for a second consecutive day. A US strike on an oil tanker killed three Indian sailors, further complicating the diplomatic landscape. The conflict has raised concerns about potential broader regional destabilization.",
         "sources": [
           {
             "title": "US and Iran exchange strikes across Middle East for second day in a row",
@@ -132,50 +156,86 @@
             "lean": null
           },
           {
-            "title": "Iran announces closure of Strait of Hormuz following US strikes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+            "title": "Three Indian sailors killed in US strike on oil tanker",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+            "title": "US releases video of warship firing missiles in strikes on Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Iran attacks Bahrain, Kuwait and Jordan again after new waves of US strikes",
-            "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
+            "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+            "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Global Displacement Crisis: One in 70 People Forcibly Uprooted",
-        "body": "The United Nations High Commissioner for Refugees (UNHCR) revealed a stark global migration crisis, with one in 70 people worldwide now forcibly displaced. The report highlights growing tensions around migration, evidenced by protests and unrest in multiple countries.\n\nIn South Africa, Nigerian migrants are fleeing xenophobic protests, while anti-immigrant demonstrations in Belfast turned violent - with protesters clashing with police and torching vehicles. These incidents underscore the mounting social pressures surrounding international migration and displacement.",
+        "headline": "World Cup 2026 Kicks Off amid Global Tensions",
+        "body": "Mexico's historic Azteca Stadium hosts the World Cup opener, marking a moment of global celebration shadowed by ongoing conflicts. The tournament unfolds against a backdrop of geopolitical strain - with Gaza notably absent from the festivities. FIFA has already faced controversy, forcing Haiti to change its team kit over political imagery.",
         "sources": [
           {
-            "title": "One in 70 people worldwide is forcibly displaced: UNHCR",
-            "url": "https://www.aljazeera.com/news/2026/6/11/one-in-70-people-worldwide-is-forcibly-displaced-unhcr?traffic_source=rss",
+            "title": "Mexico’s historic Azteca Stadium to kickoff World Cup opener: All to know",
+            "url": "https://www.aljazeera.com/sports/2026/6/11/the-world-cups-most-storied-stadium-prepares-for-another-chapter?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Nigerian migrants flee South Africa after spike in xenophobic protests",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/nigerian-migrants-flee-south-africa-after-spike-in-xenophobic-protests?traffic_source=rss",
+            "title": "World celebrates, but Gaza watches the World Cup from a distance",
+            "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Anti-immigrant protesters clash with police, torch car at Belfast rally",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/anti-immigrant-protesters-clash-with-police-torch-car-at-belfast-rally?traffic_source=rss",
+            "title": "World Cup Day 1: Schedule, predictions, opening ceremony and what to watch",
+            "url": "https://www.aljazeera.com/news/2026/6/11/world-cup-day-1-schedule-predictions-opening-ceremony-and-what-to-watch?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Police in Belfast use water cannon as anti-immigrant unrest continues",
-            "url": "https://www.aljazeera.com/news/2026/6/11/police-in-belfast-use-water-cannon-as-anti-immigrant-unrest-continues?traffic_source=rss",
+            "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+            "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "World Cup 2026: Full match schedule, groups, teams and start times",
+            "url": "https://www.aljazeera.com/sports/2026/6/11/world-cup-2026-full-match-schedule-groups-teams-and-start-times?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "FIFA World Cup 2026: Haiti forced to change kit over war imagery",
+            "url": "https://www.aljazeera.com/sports/2026/6/11/fifa-world-cup-2026-haiti-kit-political-flag-war-imagery-football?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Migration Tensions Spark Evacuations and Protests in Multiple Nations",
+        "body": "Anti-immigration sentiments are fueling unrest across several countries. Nigeria is evacuating citizens from South Africa amid rising xenophobic threats. In Belfast, police used water cannons to control anti-immigration protests. Thousands of Malawians are fleeing their homes in South Africa, highlighting the growing global challenges of migration and social integration.",
+        "sources": [
+          {
+            "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+            "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "‘Thuggery’: Belfast police fire water cannon at anti-immigration protests",
+            "url": "https://www.aljazeera.com/gallery/2026/6/11/thuggery-belfast-police-fire-water-cannon-at-anti-immigration-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Thousands of Malawians flee homes in South Africa amid xenophobic threats",
+            "url": "https://www.aljazeera.com/news/2026/6/11/thousands-of-malawians-flee-homes-in-south-africa-amid-xenophobic-threats?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -184,32 +244,32 @@
     ],
     "ai": [
       {
-        "headline": "AI Firms Battle for Market Share with Price Cuts, Policy Shifts",
-        "body": "OpenAI and Anthropic are locked in an escalating competition for AI users, with pricing and policy becoming key battlegrounds. OpenAI is considering significant price reductions to maintain its market position, while Anthropic has walked back a controversial policy that could have impeded AI research using its Claude model.\n\nThe strategic moves highlight the intense pressure on leading AI companies to attract and retain users. Anthropic's quick response to researcher concerns suggests a nimble approach to market feedback - a critical factor in the rapidly evolving AI landscape.",
+        "headline": "AI Companies Wrestle with Emerging Multi-Agent Interaction Risks",
+        "body": "Google DeepMind has raised alarms about potential systemic risks as AI agents proliferate across digital platforms. The tech giant's researchers are concerned about unpredictable behaviors that could emerge when millions of autonomous systems begin interacting simultaneously.\n\nThe warning comes amid growing complexity in AI systems. While individual AI agents might perform predictably, their collective interactions could produce unexpected and potentially destabilizing outcomes - a challenge that could fundamentally reshape how we understand and deploy artificial intelligence.",
         "sources": [
           {
-            "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
-            "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+            "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+            "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+            "source": "MIT Tech Review",
+            "lean": null
+          },
+          {
+            "title": "AI agent runs amok in Fedora and elsewhere",
+            "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Anthropic’s Dario Amodei has just one direct report",
-            "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-            "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-            "source": "Wired",
+            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+            "source": "The Verge",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Giants Pump Billions into AI Development and Infrastructure",
-        "body": "Amazon has borrowed $17.5 billion from banks to fuel its ongoing AI investments, signaling the massive capital requirements of the current technological arms race. Google DeepMind is pushing innovation with DiffusionGemma - a new AI model promising 4x faster local processing.\n\nThe spending spree reflects a broader industry trend of aggressive AI expansion. Companies are betting big on artificial intelligence, with some firms reportedly spending up to $7,500 per employee monthly on AI technologies and infrastructure.",
+        "headline": "Tech Giants Double Down on AI Investment Despite Regulatory Pressure",
+        "body": "Amazon has secured $17.5 billion in bank loans to fuel its ongoing AI expansion, signaling continued aggressive investment in artificial intelligence technologies. The massive financing comes as tech companies navigate an increasingly complex regulatory landscape.\n\nParallel developments highlight the industry's momentum. Google launched DiffusionGemma - a local AI model running four times faster than previous iterations - while companies are spending up to $7,500 per employee monthly on AI initiatives. Regulatory scrutiny remains intense, with recent court challenges and policy debates underscoring the technology's transformative potential.",
         "sources": [
           {
             "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
@@ -224,33 +284,15 @@
             "lean": null
           },
           {
+            "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+            "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
             "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
             "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
             "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Safety and Ethics Debates Intensify Across Tech Sector",
-        "body": "A new lawsuit alleges xAI fired an engineer who raised safety concerns about its Grok AI system, highlighting ongoing tensions around AI development ethics. Separately, Anthropic faced backlash over a policy that could have potentially undermined AI research.\n\nThese incidents underscore the growing scrutiny of AI companies' internal practices. As AI becomes more sophisticated, questions of responsible development, employee whistleblowing, and systemic safety mechanisms are moving from academic discussions to urgent corporate and legal challenges.",
-        "sources": [
-          {
-            "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-            "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-            "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-            "source": "Wired",
-            "lean": null
-          },
-          {
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-            "source": "The Verge",
             "lean": null
           }
         ]
@@ -258,73 +300,49 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Demand Craters as Corporate Buyers Retreat",
-        "body": "Bitcoin faces mounting pressure as corporate investment dries up. Major firms are pulling back from cryptocurrency purchases, signaling a potential shift in market sentiment. Analysts point to broader economic uncertainties and changing corporate strategies as key drivers.\n\nThe pullback comes amid a challenging market environment. Bitcoin has entered a deep valuation zone, with some experts warning of further potential downside. Financial advisors are increasingly looking beyond Bitcoin to other blockchain-based financial products.",
+        "headline": "BlackRock Preps Low-Fee Income Bitcoin ETF for Imminent Launch",
+        "body": "BlackRock is set to enter the bitcoin ETF market with a yield-generating product that undercuts rival funds. The asset management giant has filed a new amendment with regulators, signaling a near-term launch of the innovative investment vehicle. This move comes as corporate bitcoin buying has dramatically slowed - dropping from $500 million daily to near-negligible levels.",
         "sources": [
           {
-            "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
+            "title": "BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals",
+            "url": "https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
+            "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Corporate bitcoin buying has collapsed from $500 million per day to almost negligible",
             "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
             "source": "CoinDesk",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Hovers Near $63,000 as Inflation Pressures Market",
+        "body": "Bitcoin is holding steady around $63,000, maintaining technical strength amid broader economic uncertainty. US inflation topping 4% is creating pressure on both bitcoin and traditional safe-haven assets like gold. Analysts suggest the cryptocurrency has entered a deep valuation zone - potentially signaling challenging market conditions ahead.",
+        "sources": [
+          {
+            "title": "Live updates: Bitcoin nears $63,000 ahead of highly anticipated SpaceX IPO",
+            "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
+            "url": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
             "lean": null
           },
           {
             "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
             "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Strategy (MSTR) CEO Says Bitcoin Sale Was About Market ‘Inoculation,’ Not a Retreat",
-            "url": "https://bitcoinmagazine.com/news/strategy-mstr-ceo-says-bitcoin-sale",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO",
-            "url": "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin ETF Market Narrows to BlackRock and Fidelity Dominance",
-        "body": "The Bitcoin ETF landscape is rapidly consolidating, with BlackRock and Fidelity emerging as the primary players. Their strategic positioning threatens to squeeze out smaller competitors and reshape the cryptocurrency investment ecosystem.\n\nThis concentration of market power could have significant implications for Bitcoin's accessibility and trading dynamics. While the two firms continue to expand their offerings, the narrowing field raises questions about long-term market competition and investor choice.",
-        "sources": [
-          {
-            "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-            "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle",
-            "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Miners Squeezed as Margins Hit Record Lows",
-        "body": "Bitcoin mining profitability has plummeted, with margins reaching unprecedented low levels. The challenging environment threatens the economic sustainability of mining operations and could force significant industry restructuring.\n\nAnalysts are closely watching whether Bitcoin can maintain its critical price support around $60,000. The ongoing pressure suggests a potential shake-out in the mining sector, with only the most efficient operators likely to survive the current downturn.",
-        "sources": [
-          {
-            "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
-            "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "CryptoQuant sees bitcoin bottom near $53,600 while demand remains ‘deeply unfavorable’",
-            "url": "https://www.theblock.co/post/404316/cryptoquant-sees-bitcoin-bottom-near-53600-while-demand-remains-deeply-unfavorable?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant",
-            "url": "https://decrypt.co/370663/bitcoin-getting-closer-bottom-demand-falling-cryptoquant",
-            "source": "Decrypt",
             "lean": null
           }
         ]
@@ -333,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and local honey, creating a sophisticated yet comforting main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "name": "Saffron Risotto with Crispy Pancetta",
+      "cuisine": "Modern Italian Fusion",
+      "description": "Creamy Arborio rice infused with golden saffron threads, topped with crispy pancetta crumbles and fresh herb oil",
+      "tip": "Toast the rice in butter for 2-3 minutes before adding liquid to enhance nutty flavor and prevent mushiness"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
-      "tip": "Perform a standing side bend and gentle twist every 90 minutes, holding each position for 15-20 seconds"
+      "name": "Dynamic Desk Alignment Protocol",
+      "description": "Implement a micro-movement sequence every 30 minutes to reset spinal positioning and activate stabilizing muscle groups",
+      "tip": "Use a small rolled towel at lower back when sitting to maintain natural lumbar curve"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
-      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to modern environmental challenges"
+      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and environmental adaptation mechanisms",
+      "why": "Reveals how complex natural systems can solve human infrastructure challenges with elegance and sustainability"
     }
   }
 }
