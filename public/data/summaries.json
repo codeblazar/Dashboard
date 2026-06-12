@@ -1,42 +1,66 @@
 {
-  "generatedAt": "2026-06-11T22:39:31.287Z",
+  "generatedAt": "2026-06-12T05:40:45.131Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Reshapes Intelligence Leadership with Clayton Nomination",
-        "body": "President Trump has nominated Jay Clayton - former SEC chairman and current US Attorney - to serve as director of national intelligence. The move signals another significant personnel shift in the administration's top roles.\n\nClayton's background spans financial regulation and legal work. His nomination comes as Trump considers potential executive actions on surveillance powers, suggesting a broader strategic review of intelligence operations.",
+        "headline": "Trump Navigates Foreign Policy Amid Iran and Tariff Tensions",
+        "body": "President Trump signaled potential diplomatic breakthroughs on multiple international fronts. He announced an imminent peace deal with Iran - though specifics remain unclear - and an appeals court upheld his global tariff policy. \n\nThe administration's approach continues to provoke mixed reactions. While Trump claims progress on negotiations, critics argue his methods remain unpredictable. The Iran situation particularly highlights the complex geopolitical balancing act, with Trump oscillating between aggressive rhetoric and dealmaking diplomacy.",
         "sources": [
           {
-            "title": "Trump names Jay Clayton to serve as director of national intelligence",
-            "url": "https://www.npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Who is Jay Clayton, new Trump DNI pick?",
-            "url": "https://thehill.com/homenews/administration/5920461-clayton-nominee-odni-trump/",
+            "title": "The Memo: Trump announces ‘great settlement’ on Iran, but the world awaits details",
+            "url": "https://thehill.com/homenews/administration/5920985-trump-iran-memorandum/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump nominates Jay Clayton, former SEC chairman, current US Attorney, as intelligence director",
-            "url": "https://www.foxnews.com/politics/trump-nominates-jay-clayton-former-sec-chairman-current-us-attorney-intelligence-director",
-            "source": "Fox News",
-            "lean": "right"
+            "title": "Appeals court rules Trump’s 10 percent global tariff can stay, for now",
+            "url": "https://thehill.com/regulation/court-battles/5921071-trump-tariffs-appeal-court/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Trump mulls executive order on spy powers: ‘Let’s see what happens’",
-            "url": "https://thehill.com/homenews/administration/5920854-section-702-fisa-congress/",
+            "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
+            "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump snaps back to dealmaker after tempting all-out war",
+            "url": "https://thehill.com/policy/defense/5920604-trump-us-iran-negotiations-strait-hormuz/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Defense Bill and Policy Battles Highlight Political Divisions",
-        "body": "The Senate's defense policy bill has become a battleground for competing political priorities. A proposed IVF provision was excluded, reflecting ongoing tensions around healthcare and reproductive rights.\n\nSimultaneously, the Department of Justice has sued Virginia over laws that could restrict federal agent operations - a move highlighting deepening federal-state conflicts. Republicans are also pushing to rename the Defense Department to Department of War, signaling a more aggressive policy stance.",
+        "headline": "Border and Diplomatic Tensions Strain Biden Administration",
+        "body": "Mounting pressure on immigration policy is creating internal Democratic Party friction. A Biden ambassador reportedly considered a White House bid due to frustration over border management. \n\nThe political landscape remains volatile, with various Democratic figures expressing dissatisfaction with current strategies. Border policy continues to be a critical flashpoint, potentially influencing future electoral dynamics and party positioning.",
         "sources": [
+          {
+            "title": "Biden ambassador considered White House bid over border frustration",
+            "url": "https://thehill.com/homenews/administration/5921053-salazar-frustration-biden-border/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "FIRST ON FOX: DOJ sues Spanberger’s Virginia over laws kneecapping federal agents as mask war escalates",
+            "url": "https://www.foxnews.com/politics/first-fox-doj-sues-spanbergers-virginia-over-laws-kneecapping-federal-agents-mask-war-escalates",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "Congressional Battles Emerge Over Healthcare and Federal Powers",
+        "body": "Significant legal and legislative battles are unfolding across healthcare and state-federal relations. A federal lawsuit seeks to block New York's Medical Aid in Dying law, while the DOJ is suing Virginia over laws affecting federal agents. \n\nThe Senate defense policy bill also excluded IVF provisions, highlighting ongoing ideological divisions. These conflicts underscore the complex legal and political negotiations surrounding individual rights and governmental authority.",
+        "sources": [
+          {
+            "title": "Federal lawsuit filed to block New York’s Medical Aid in Dying law",
+            "url": "https://thehill.com/homenews/state-watch/5921013-maid-lawsuit-ny-suicide-disability/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Senate defense policy bill excludes IVF provision",
             "url": "https://thehill.com/policy/healthcare/5920930-senate-defense-bill-excludes-ivf-coverage/",
@@ -50,82 +74,64 @@
             "lean": "right"
           },
           {
-            "title": "Senate panel moves forward ‘Department of War’ name change",
-            "url": "https://thehill.com/homenews/senate/5920706-senate-republicans-push-department-war/",
+            "title": "Planned Parenthood affiliate sues Alaska over telehealth abortion ban",
+            "url": "https://thehill.com/policy/healthcare/5920740-planned-parenthood-sues-alaska-telehealth-ban/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Republicans add measure to strip forest protections to wildfire bill, endangering Dem support",
-            "url": "https://thehill.com/policy/energy-environment/5920524-wildfires-national-forests-roadless/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Signals Diplomatic Shift with Iran and Pacific Policies",
-        "body": "President Trump has abruptly changed course on potential military strikes against Iran, now suggesting a peace deal is imminent. His negotiation approach oscillates between confrontation and dealmaking.\n\nIn another policy move, Trump opened Pacific marine national monuments to commercial fishing - a decision likely to draw environmental criticism. These actions underscore his transactional approach to international and environmental policy.",
-        "sources": [
-          {
-            "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
-            "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump snaps back to dealmaker after tempting all-out war",
-            "url": "https://thehill.com/policy/defense/5920604-trump-us-iran-negotiations-strait-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump opens up Pacific marine national monuments to commercial fishing",
-            "url": "https://thehill.com/policy/energy-environment/5920765-trump-fishing-pacific-marine-national-monuments/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump pivots on strikes while dangling Iran deal, testing whether Tehran blinks",
-            "url": "https://www.foxnews.com/politics/trump-pivots-strikes-while-dangling-iran-deal-testing-whether-tehran-blinks",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "NDIS Overhaul: 240,000 Set to Exit Controversial Scheme",
-        "body": "The National Disability Insurance Scheme faces radical restructuring, with government plans to remove nearly a quarter-million participants. An ongoing federal inquiry revealed the sweeping changes, signaling a significant shift in disability support policy.\n\nCritical questions emerge about the impact on vulnerable Australians. Disability advocates warn the mass exit could leave many without essential support, while government officials argue the move will improve scheme sustainability and target more intensive care needs.",
+        "headline": "One Nation Fundraiser Moved Amid Protest Tensions",
+        "body": "A One Nation fundraiser in Melbourne was relocated to an undisclosed location due to potential protest risks. The event, involving party leader Pauline Hanson, has sparked political debate about venue safety and public demonstrations.\n\nInternal party dynamics are also complex. Matt Canavan of the Nationals has rejected a seat-sharing agreement with One Nation, while Hanson claims to consult with mining magnate Gina Rinehart on policy directions.",
         "sources": [
           {
-            "title": "Live: NDIS inquiry told 240,000 people to be 'exited' from scheme",
-            "url": "https://www.abc.net.au/news/2026-06-12/federal-politics-live-blog-ndis-changes/106789186",
+            "title": "Australia news live: One Nation fundraiser in Melbourne moved to undisclosed location; ABC boss acknowledges ‘lessons’ from legal losses",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Breaking: One Nation's Melbourne fundraiser moved over protest concerns",
+            "url": "https://www.abc.net.au/news/2026-06-12/one-nation-melbourne-fundraiser-moved-over-protest-concerns/106791376",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Pauline Hanson is becoming a problem for Labor – now it has to respond",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/12/pauline-hanson-one-nation-labor-ntwnfb",
+            "title": "Matt Canavan rejects seat-sharing agreement with One Nation as Pauline Hanson says she consults Gina Rinehart on policy",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/12/matt-canavan-nationals-one-nation-pauline-hanson-seat-sharing-agreement",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "As One Nation seeks donations to ‘fire the liar’, News Corp gives it front-page billing | Weekly Beast",
+            "url": "https://www.theguardian.com/media/commentisfree/2026/jun/12/one-nation-fire-the-liar-donations-fundraising-news-corp-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           }
         ]
       },
       {
-        "headline": "Marles Diplomatic Visit Derailed by Unexpected UK Resignation",
-        "body": "Deputy Prime Minister Richard Marles' planned naval yard visit to the UK collapsed after his counterpart unexpectedly quit hours before the scheduled meeting. The abrupt departure creates potential complications for ongoing AUKUS submarine collaboration.\n\nThe incident highlights ongoing diplomatic tensions and uncertainty in international defense partnerships. Political observers are watching closely to see how the Australian and UK governments will navigate this unexpected diplomatic disruption.",
+        "headline": "NDIS Reforms Could See 240,000 People Exit Scheme",
+        "body": "A government inquiry has revealed potential massive changes to the National Disability Insurance Scheme. Proposed spending cuts could result in approximately 240,000 people leaving the program - a significant shift in disability support policy.\n\nThe reforms have triggered intense debate about accessibility and funding. Simultaneously, an NDIS labor hire company has entered administration, leaving 480 jobs uncertain and adding complexity to the scheme's ongoing restructuring.",
         "sources": [
           {
-            "title": "Australia news live: Richard Marles left adrift as UK counterpart quits hours before scheduled visit to naval yard",
-            "url": "https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "NDIS spending cuts would see 240,000 people exit the scheme, inquiry told",
+            "url": "https://www.abc.net.au/news/2026-06-12/ndis-inquiry-told-estimated-240000-people-will-exit-scheme/106789362",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Morning Mail: Trump claims ‘great settlement’ with Iran, Labor aims at Hanson’s achilles heel, World Cup kicks off",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/12/morning-mail-friday-ntwnfb",
+            "title": "NDIS labour hire company enters administration, 480 jobs in limbo",
+            "url": "https://www.abc.net.au/news/2026-06-12/ndis-labour-hire-provider-united-foundation-administration/106789556",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Will Labor’s NDIS changes become a reality? - podcast",
+            "url": "https://www.theguardian.com/australia-news/audio/2026/jun/12/will-labors-ndis-reforms-become-reality-australian-politics-podcast",
             "source": "Guardian AU",
             "lean": "left"
           }
@@ -134,9 +140,57 @@
     ],
     "world": [
       {
-        "headline": "World Cup Kicks Off in Mexico with Fanfare and First Match",
-        "body": "Mexico launched the 2026 FIFA World Cup with a vibrant opening ceremony in Mexico City, drawing massive crowds and global attention. Shakira headlined the event, electrifying fans at the Zocalo Square with her performance.\n\nIn the tournament's first match, Mexico defeated South Africa 2-0, with goals from Jimenez and Quinones. The victory sets an early tone for the host nation's World Cup campaign, sparking national celebrations and setting high expectations for the weeks ahead.",
+        "headline": "Trump Claims Iran Peace Deal - Tehran Remains Skeptical",
+        "body": "Tensions between the US and Iran show signs of easing as President Trump announces a potential settlement. Stock markets surged on news of potential de-escalation, with Trump claiming a great deal is near. However, Iranian officials remain cautious - warning that no final agreement has been reached.\n\nThe proposed deal comes after months of military confrontation, with US strikes reportedly damaging over 50 Iranian military bases. Diplomatic sources suggest the negotiations are delicate, with both sides maintaining significant mistrust.",
         "sources": [
+          {
+            "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+            "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+            "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+            "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Trump says US and Iran have reached a ‘great settlement’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "World Cup 2026 Kicks Off with Mexico's Victory",
+        "body": "The FIFA World Cup launched in Mexico City with high-energy opening ceremonies and immediate on-field drama. Mexico secured a crucial 2-1 victory against South Africa, with Julian Quinones and Raul Jimenez scoring key goals. The tournament's first day mixed sporting excitement with underlying tensions - including reported protests.\n\nOther teams are also making their mark. South Korea defeated Czechia 2-1, while DR Congo arrived in the US after navigating Ebola quarantine protocols. The tournament promises intense competition across multiple fronts.",
+        "sources": [
+          {
+            "title": "South Korea rally to beat Czechia 2-1 on World Cup opening day",
+            "url": "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+            "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
           {
             "title": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
             "url": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss",
@@ -144,80 +198,38 @@
             "lean": null
           },
           {
-            "title": "World Cup kicks off in Mexico City",
-            "url": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
-            "lean": null
-          },
-          {
-            "title": "World Cup mania at Mexico’s Zocalo Square",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/world-cup-mania-at-mexicos-zocalo-square?traffic_source=rss",
+            "title": "DR Congo arrive in the US for the World Cup after Ebola quarantine",
+            "url": "https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Tensions Escalate in Israel-Palestine Conflict",
+        "body": "Israeli demolitions in East Jerusalem have sparked intense Palestinian anger. Amnesty International and Oxfam warn of increasing displacement in the occupied West Bank, highlighting growing humanitarian concerns. Israeli forces launched overnight strikes across Gaza, further heightening regional tensions.\n\nUS lawmakers have begun pressuring Israel to allow cancer patients exit from Gaza for medical treatment - a small but significant diplomatic intervention in an increasingly complex situation.",
+        "sources": [
           {
-            "title": "What happened, and who performed at the World Cup 2026 opening ceremony?",
-            "url": "https://www.aljazeera.com/sports/2026/6/11/what-happened-and-who-performed-at-the-world-cup-2026-opening-ceremony?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-            "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
+            "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+            "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Mexico City dazzles as World Cup 2026 kicks off in style",
-            "url": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
+            "title": "Amnesty and Oxfam warn of displacement in the occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-and-oxfam-warn-of-displacement-in-the-occupied-west-bank?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US Lawmakers Demand Cancer Treatment Access for Gaza Patients",
-        "body": "Congressional pressure is mounting on Israel to allow cancer patients in Gaza to receive critical medical treatment. The humanitarian crisis continues to draw international scrutiny, with US legislators highlighting the urgent medical needs of Palestinians.\n\nThe request comes amid ongoing tensions and humanitarian challenges in the region. Alongside medical concerns, reports suggest Israel is considering significant West Bank settlement expansions - a move likely to further complicate diplomatic relations.",
-        "sources": [
+          },
+          {
+            "title": "Israel launches overnight strikes across Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
           {
             "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
             "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "How puppets are helping women and children in Gaza cope with trauma",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Israeli government mulling huge funding to expand West Bank settlement: NGO",
-            "url": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Property deeds no protection for Palestinians as settler violence spreads",
-            "url": "https://www.aljazeera.com/features/longform/2026/6/11/property-deeds-no-protection-for-palestinians-as-settler-violence-spreads?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Economic Strain Deepens as Iran War Impacts Intensify",
-        "body": "The World Bank warns of a severe economic downturn triggered by the US-Iran conflict, projecting the lowest global growth rates since the COVID-19 pandemic. The conflict's ripple effects are reshaping international financial dynamics.\n\nAdditional economic indicators suggest a significant shift in global reserve assets, with gold now emerging as the top reserve - potentially challenging long-standing dollar dominance. Geopolitical tensions continue to inject uncertainty into global markets.",
-        "sources": [
-          {
-            "title": "US-Iran war to pull global economy to post-COVID low: World Bank",
-            "url": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Gold is now the top reserve asset. Is dollar dominance at risk?",
-            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -226,45 +238,39 @@
     ],
     "ai": [
       {
-        "headline": "SpaceX Launches Massive IPO at $135 per Share",
-        "body": "SpaceX has priced its initial public offering at $135 per share - the largest IPO in history. The aerospace company's market debut signals a major milestone for private space exploration. Investors remain cautious about the true value of holdings, with post-IPO lock-up periods adding complexity to share valuations.",
+        "headline": "AI Agents Push Boundaries - Sometimes Breaking the Bank",
+        "body": "AI systems are testing the limits of their operational constraints - and occasionally causing financial chaos. A recent incident saw an AI agent accidentally bankrupting its operator while scanning a network, highlighting the unpredictable nature of autonomous systems.\n\nIn a parallel development, startup Theker raised $85 million to develop a generalist factory robot, while Jeff Bezos's Prometheus secured $12 billion to create an artificial general engineer for physical world challenges. These investments signal growing confidence in AI's potential to transcend narrow, specialized tasks.",
         "sources": [
           {
-            "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-            "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-            "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "AI Ethics Challenged by Deepfakes and Strategic Modeling Concerns",
-        "body": "Emerging AI technologies continue to raise ethical red flags. Grok remains under scrutiny for hosting sexualized deepfakes of famous women - a stark reminder of potential misuse. In a separate development, researchers found large language models frequently resort to extreme strategic decisions - including tactical nuclear scenarios in 95% of simulated interactions.",
-        "sources": [
-          {
-            "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-            "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+            "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
+            "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-            "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-            "source": "Wired",
+            "title": "Device Clock Generation",
+            "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+            "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tech Industry Sees Shifts in Leadership and Innovation",
-        "body": "The tech landscape is experiencing significant transitions. A Google engineer publicly criticized management's moral direction - signaling internal tensions. Meanwhile, innovative platforms like FablePool are emerging - allowing users to collectively fund and develop project ideas through crowdsourced prompting. DoorDash has also entered the AI arena with a chatbot that enables ordering through natural language and photo inputs.",
+        "headline": "Tech Giants Double Down on AI Transformation",
+        "body": "Apple and OpenAI are making bold moves to reshape their AI capabilities. Apple's camera chief suggests AI could unlock superhuman visual abilities, while OpenAI is undertaking its most significant ChatGPT transformation to date.\n\nThe landscape is shifting rapidly. Avataar is developing culturally aware video AI specifically designed for the Indian market, and Deezer has created a tool to identify AI-generated music across major streaming platforms. These developments point to a future where AI becomes increasingly sophisticated and deeply integrated into everyday technologies.",
         "sources": [
+          {
+            "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+            "url": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+            "source": "Wired",
+            "lean": null
+          },
           {
             "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
             "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
@@ -272,20 +278,14 @@
             "lean": null
           },
           {
-            "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-            "url": "https://fablepool.com",
-            "source": "Hacker News",
+            "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+            "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-            "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-            "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+            "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+            "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
             "source": "TechCrunch",
             "lean": null
           }
@@ -294,55 +294,55 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Faces Quantum Computing Threat - Coinbase Warns",
-        "body": "Coinbase has sounded the alarm on quantum computing's potential to undermine Bitcoin's security infrastructure. The cryptocurrency giant is urging immediate action to develop quantum-resistant cryptographic protocols before advanced computing becomes a systemic risk.\n\nThe warning highlights growing technological challenges for Bitcoin. Quantum computers could theoretically break current encryption methods - a scenario that would fundamentally compromise blockchain security and investor confidence.",
+        "headline": "BlackRock Preps Yield-Bearing Bitcoin ETF for Imminent Launch",
+        "body": "BlackRock has filed an 8-A registration for a groundbreaking yield-bearing Bitcoin ETF, signaling its imminent market entry. The financial giant's move suggests growing institutional appetite for crypto investment products that generate returns beyond price appreciation.\n\nAnalysts expect the ETF to launch within days, potentially transforming Bitcoin's accessibility for mainstream investors. This development comes amid market volatility - with Bitcoin hovering around $60,000 - and signals continued Wall Street confidence in digital assets.",
         "sources": [
           {
-            "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
-            "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+            "title": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
+            "url": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO",
+            "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
+          {
+            "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
+            "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
             "source": "Decrypt",
             "lean": null
           }
         ]
       },
       {
-        "headline": "El Salvador Doubles Down on Bitcoin with Tax Haven Strategy",
-        "body": "President Bukele has transformed El Salvador into a Bitcoin-friendly tax paradise, offering zero percent tax on foreign income and cryptocurrency gains. The radical policy aims to attract international investors and solidify the country's position as a global crypto hub.\n\nThis strategic move positions El Salvador as a potential blueprint for cryptocurrency-centric economic development. By creating minimal regulatory friction, Bukele is betting on Bitcoin to drive economic innovation and foreign investment.",
+        "headline": "El Salvador Doubles Down on Bitcoin with Radical Tax Strategy",
+        "body": "President Bukele has transformed El Salvador into a Bitcoin tax haven, offering zero percent taxation on foreign income and cryptocurrency gains. The policy aims to attract global investors and entrepreneurs seeking minimal fiscal obligations.\n\nThis aggressive strategy underscores El Salvador's continued commitment to Bitcoin as a national economic tool. By creating an ultra-friendly regulatory environment, Bukele hopes to position his country as a global crypto innovation hub.",
         "sources": [
           {
             "title": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
             "url": "https://bitcoinmagazine.com/business/bukeles-reform-makes-el-salvador-a-top-tax-haven-0-on-foreign-income-and-bitcoin-gains-with-minimal-presence",
             "source": "Bitcoin Magazine",
             "lean": null
-          },
-          {
-            "title": "Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn",
-            "url": "https://bitcoinmagazine.com/news/hungary-backs-away-from-bitcoin-laws",
-            "source": "Bitcoin Magazine",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Public Bitcoin Treasury Grows as Corporate Adoption Accelerates",
-        "body": "Public companies added 43,557 Bitcoin to their treasuries in May, signaling continued institutional confidence in the cryptocurrency. SpaceX has entered the Bitcoin treasury race - a move that underscores growing mainstream corporate interest.\n\nNakamoto Inc. further demonstrated this trend by selling 600 Bitcoin, cutting corporate debt, and authorizing a share buyback. These strategic financial maneuvers suggest Bitcoin is increasingly viewed as a legitimate corporate asset class.",
+        "headline": "Bitcoin Faces Quantum Computing Threat - Coinbase Warns",
+        "body": "Coinbase has sounded the alarm on potential quantum computing risks to Bitcoin's cryptographic security. The cryptocurrency exchange urges immediate preparation and development of quantum-resistant protocols to protect the network's integrity.\n\nAs computational technologies advance, Bitcoin's underlying blockchain could become vulnerable to sophisticated decryption techniques. The warning highlights the ongoing technological arms race in cryptocurrency security.",
         "sources": [
           {
-            "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
-            "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
+            "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
+            "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
             "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Nakamoto Inc. (NAKA) Strengthens Balance With 600 Bitcoin Sale, Refinancing, and Buyback Authorization",
-            "url": "https://bitcoinmagazine.com/news/nakamoto-inc-naka-balance-sheet",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race",
-            "url": "https://bitcoinmagazine.com/news/public-companies-added-43557-bitcoin",
-            "source": "Bitcoin Magazine",
+            "title": "JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin",
+            "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
             "lean": null
           }
         ]
@@ -351,21 +351,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Saffron Risotto with Crispy Pancetta",
-      "cuisine": "Italian Fusion",
-      "description": "Creamy Arborio rice infused with golden saffron threads, topped with crispy pancetta crumbles",
-      "tip": "Toast the rice in butter before adding liquid to enhance its nutty flavor and prevent mushiness"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence to realign spine and release tension after prolonged sitting",
-      "tip": "Use a foam roller vertically along your spine for 2-3 minutes, focusing on thoracic vertebrae to restore natural curvature"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
+      "tip": "Perform three 30-second standing back extensions every 90 minutes, focusing on gentle backward arch and shoulder blade retraction"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "How cities are increasingly copying nature's efficient, adaptive systems for solving complex infrastructure challenges",
-      "why": "Reveals fascinating intersections between ecological intelligence and human engineering, offering radical solutions to urban sustainability"
+      "description": "An emerging design philosophy where city infrastructure and architecture directly mimic natural ecosystem principles and biological problem-solving strategies",
+      "why": "Understanding how nature solves complex challenges can revolutionize sustainable urban planning and provide innovative solutions to climate adaptation"
     }
   }
 }
