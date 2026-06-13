@@ -1,24 +1,48 @@
 {
-  "generatedAt": "2026-06-13T05:36:50.145Z",
+  "generatedAt": "2026-06-13T10:52:40.756Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "US Military Downs Iranian Drones, Tensions Rise in Hormuz",
-        "body": "US forces intercepted multiple Iranian drones targeting ships in the Strait of Hormuz, escalating regional military tensions. Centcom confirmed the defensive action, signaling continued strategic confrontation between the two nations.\n\nThe incident underscores ongoing maritime security challenges in a critical global shipping corridor. Military analysts suggest the drone interception represents a measured but firm response to Iranian provocation.",
+        "headline": "Trump Dominates Political Landscape as Partisan Divides Deepen",
+        "body": "Former President Trump continues to cast a long shadow over US politics, with Democrats citing his influence to justify controversial support and Republicans wrestling with internal divisions. His recent appearance at a UFC event at the White House - a move criticized by some GOP members like Marjorie Taylor Greene - underscores the ongoing cultural polarization.\n\nThe political impact extends beyond rhetoric. Democrats are defending support for candidates like Graham Platner by pointing to Trump's precedent-breaking political style, while the GOP struggles to maintain unity on key legislative strategies.",
         "sources": [
           {
-            "title": "US forces shoot down Iranian drones targeting ships in Stait of Hormuz: Centcom",
-            "url": "https://thehill.com/policy/defense/5922688-us-forces-down-iranian-drones/",
+            "title": "Democrats have a one-word defense for supporting Graham Platner: Trump",
+            "url": "https://www.washingtonpost.com/politics/2026/06/13/platner-maine-supporters-say-trump-has-lowered-bar/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump trades NBA boos for UFC cheers as sports become dividing line",
+            "url": "https://www.washingtonpost.com/politics/2026/06/13/sports-have-become-partisan-playing-field-under-trump/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Marjorie Taylor Greene: UFC fights don’t belong on White House lawn",
+            "url": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "Trump Claims Military Strike Eliminates Venezuelan Gang Leader",
-        "body": "President Trump announced a US military operation that killed a leader of the Tren de Aragua gang, a notorious criminal organization operating across Venezuela. The strike highlights ongoing US military interventions in Latin American security operations.\n\nBoth The Hill and Fox News reported the elimination of the gang leader, though specific details about the operation remain limited. The announcement comes amid continued US efforts to address regional criminal networks.",
+        "headline": "National Security Challenges Test US Military and Intelligence Capabilities",
+        "body": "US military and intelligence operations face multiple external pressures, with forces shooting down Iranian drones in the Strait of Hormuz and conducting targeted strikes against international gang leaders. The ongoing tensions highlight complex geopolitical challenges.\n\nSimultaneously, domestic intelligence capabilities are under strain. The lapse of FISA 702 surveillance powers has created significant uncertainty in national security circles, while previous staffing cuts continue to impact emergency response preparedness - as demonstrated by recent screwworm outbreak challenges.",
         "sources": [
+          {
+            "title": "FISA 702 lapse plunges US into unknown territory",
+            "url": "https://thehill.com/policy/national-security/5922272-fisa-702-spy-powers-expire/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "US forces shoot down Iranian drones targeting ships in Stait of Hormuz: Centcom",
+            "url": "https://thehill.com/policy/defense/5922688-us-forces-down-iranian-drones/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump says US military killed Venezuelan gang leader",
             "url": "https://thehill.com/homenews/administration/5922648-us-military-kills-venezuelan-gang-leader/",
@@ -26,38 +50,8 @@
             "lean": "center"
           },
           {
-            "title": "Trump says US military eliminated 'infamous' Tren de Aragua leader in lethal strike",
-            "url": "https://www.foxnews.com/politics/trump-says-us-military-eliminated-infamous-tren-de-aragua-leader-lethal-strike",
-            "source": "Fox News",
-            "lean": "right"
-          }
-        ]
-      },
-      {
-        "headline": "Legal Battles Reshape Trump's Public Legacy",
-        "body": "Federal courts continue to dismantle Trump-era infrastructure, with recent rulings removing his name from the Kennedy Center and blocking a proposed anti-weaponization fund. The judicial actions signal ongoing institutional pushback against Trump's previous administrative policies.\n\nMultiple courts - including an appeals panel and a federal judge - have taken steps to reverse or limit Trump's institutional imprints. These legal challenges span cultural institutions and federal funding mechanisms.",
-        "sources": [
-          {
-            "title": "Judge orders restoration of National Parks displays removed under Trump executive order",
-            "url": "https://thehill.com/regulation/court-battles/5922592-judge-rules-trump-parks-diversity/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump's name to be removed from Kennedy Center as appeals court denies board's request for administrative stay",
-            "url": "https://www.foxnews.com/politics/trumps-name-remains-kennedy-center-appeals-court-weighs-emergency-request",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Clinton judge indefinitely blocks Trump's $1.776B anti-weaponization fund",
-            "url": "https://www.foxnews.com/politics/clinton-judge-indefinitely-blocks-trumps-1-776b-anti-weaponization-fund",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Judge won’t halt deadline to take Trump’s name off Kennedy Center",
-            "url": "https://thehill.com/regulation/court-battles/5922184-judge-rejects-kennedy-center-trump-name-appeal/",
+            "title": "Screwworm spread tests US readiness after Trump staffing cuts",
+            "url": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -66,8 +60,8 @@
     ],
     "au-politics": [
       {
-        "headline": "Political Tensions Rise as Protests Erupt Outside One Nation Event",
-        "body": "Protesters clashed with One Nation supporters at a fundraiser, highlighting growing political divisions. Labor party leaders warned that opposition parties could create chaos in the political landscape.\n\nThe Victorian opposition leader stated that Pauline Hanson had not approached her, suggesting potential fractures within right-wing political alliances. The incident underscores the ongoing tensions between major political groups and grassroots movements.",
+        "headline": "Political Tensions Rise as One Nation Fundraiser Sparks Protests",
+        "body": "Protesters clashed outside a One Nation fundraiser, highlighting growing political divisions. Labor has accused opposition parties of potentially creating chaos, while the Victorian opposition leader denied direct engagement with Pauline Hanson.\n\nThe incident reflects ongoing tensions in Australian political discourse, with competing narratives about political representation and public protest. One Nation continues to be a polarizing force in national politics, drawing both strong support and significant opposition.",
         "sources": [
           {
             "title": "Protesters clash outside One Nation fundraiser while Labor says opposition parties will ‘give us chaos’",
@@ -84,32 +78,32 @@
         ]
       },
       {
-        "headline": "Shark Attack at Coogee Beach Leaves Woman in Critical Condition",
-        "body": "A woman suffered critical arm and leg injuries during a shark attack at Coogee Beach in Sydney. Emergency services responded to the incident, which has raised renewed concerns about marine safety.\n\nThe attack comes amid ongoing discussions about shark mitigation strategies. Local authorities are investigating the circumstances and working to understand the factors that led to this dangerous encounter.",
+        "headline": "WA Launches Community Battery Project to Boost Renewable Energy",
+        "body": "Western Australia has revealed locations for 18 new community batteries in Perth and Bunbury, marking a significant step in local renewable energy infrastructure. The project aims to enhance energy storage and distribution capabilities for local communities.\n\nThis initiative comes as Australia continues to explore transitions from fossil fuel exports to renewable energy solutions. The battery rollout represents a practical approach to decentralizing energy production and increasing grid resilience.",
         "sources": [
           {
-            "title": "Woman in critical condition after shark attack at Coogee beach",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Woman suffers critical arm and leg injuries in shark attack at Sydney beach",
-            "url": "https://www.abc.net.au/news/2026-06-13/woman-injured-after-shark-attack-sydney-coogee-beach/106794390",
+            "title": "Locations released for 18 community batteries in Perth, Bunbury",
+            "url": "https://www.abc.net.au/news/2026-06-13/locations-released-18-community-batteries-perth-bunbury-wa/106794450",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "These ocean users have different ways of protecting themselves from sharks",
-            "url": "https://www.abc.net.au/news/2026-06-13/shark-mitigation-measure-finds-success-in-nsw/106787738",
+            "title": "Australia can switch from fossil fuel exports to renewables, says next Cop president",
+            "url": "https://www.theguardian.com/environment/2026/jun/13/australia-fossil-fuel-exports-renewables-cop-chris-bowen",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Australia has valuable cards to play in the AI future, new report finds",
+            "url": "https://www.abc.net.au/news/2026-06-13/ai-agency-tool-australia-plan-tech-design-policy-institute/106786938",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Australia Navigates Complex AI Landscape with Global Implications",
-        "body": "Australia's access to artificial intelligence technologies has been impacted by recent international developments. A Trump administration order has restricted foreign access to AI models, creating potential challenges for local tech industries.\n\nDespite these challenges, a new report suggests Australia has valuable opportunities in the AI future. The government is actively exploring strategies to position the country as a key player in emerging technological landscapes.",
+        "headline": "US Tech Restrictions Impact Australian AI Development",
+        "body": "Australia faces new challenges in AI access after US government restrictions. A recent order has cut foreign access to certain AI models, potentially disrupting technological development and international collaboration.\n\nDespite the restrictions, a new report suggests Australia has valuable strategic options in the emerging AI landscape. The government and tech sector are actively exploring ways to maintain technological competitiveness in a rapidly changing global environment.",
         "sources": [
           {
             "title": "Australia's AI access cut after Trump order",
@@ -128,90 +122,84 @@
     ],
     "world": [
       {
-        "headline": "World Cup Kicks Off with Host Nation Triumphs",
-        "body": "The 2026 FIFA World Cup launched in the United States with high-energy performances by Katy Perry and Future at the opening ceremony. The host nation USA stormed to a dominant 4-1 victory against Paraguay, setting an early marker in the tournament.\n\nCanada and Bosnia fought to a hard-fought draw in another opening match that showcased the tournament's competitive spirit. The games highlighted the global excitement surrounding the World Cup, with fans flooding venues and sharing predictions about potential champions.",
+        "headline": "Israel Strikes Lebanon as US-Iran Deal Nears Completion",
+        "body": "Tensions escalated in the Middle East as Israel conducted air strikes on Lebanon, despite ongoing negotiations for a potential peace deal. State media reported multiple attacks in southern Lebanon, with at least five people killed and forced displacement orders issued.\n\nIran claims a breakthrough is imminent in negotiations with the United States, suggesting a diplomatic resolution might be possible. However, the Israeli military action threatens to derail fragile diplomatic efforts and potentially expand the regional conflict.",
         "sources": [
           {
-            "title": "Canada and Bosnia fight out historic World Cup opener",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_canada-and-bosnia-world-cup-opener-120626?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "USA hit Paraguay for four in dream start to their World Cup campaign",
-            "url": "https://www.aljazeera.com/sports/2026/6/13/usa-ease-past-paraguay-to-complete-world-cup-opening-rounds-of-hosts?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "World Cup kicks off in US as Katy Perry, Future headline opening ceremony",
-            "url": "https://www.aljazeera.com/sports/2026/6/13/world-cup-kicks-off-in-us-as-katy-perry-future-headline-opening-ceremony?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "World Cup fans express excitement and share their predictions",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/world-cup-fans-express-excitement-and-share-their-predictions?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "US and Iran Signal Potential Peace Deal Breakthrough",
-        "body": "Diplomatic efforts to end the Iran conflict are gaining momentum, with both the United States and Tehran indicating a potential peace agreement is within reach. The UAE has reportedly agreed to unlock frozen Iranian funds as part of the ceasefire negotiations.\n\nSources suggest Pakistan may play a crucial role in pushing the deal to completion. While a final agreement has not been signed, both sides appear increasingly optimistic about resolving long-standing tensions and reopening strategic routes like the Hormuz Strait.",
-        "sources": [
-          {
-            "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+            "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
             "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
+            "title": "Israel attacks Lebanon despite being included in potential peace deal",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
-            "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
+            "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+            "url": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Will there be a deal to end the Iran war this time?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Can Pakistan push the US-Iran deal over the finish line?",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/can-pakistan-push-the-us-iran-deal-over-the-finish-line?traffic_source=rss",
+            "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
+            "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "EU Expands, Putin Admits Ukraine Conflict Impact",
-        "body": "The European Union has agreed to launch accession processes for Ukraine and Moldova, marking a significant geopolitical shift. This decision comes amid ongoing tensions with Russia, with President Putin publicly acknowledging that Ukrainian attacks are significantly impacting the Russian economy and society.\n\nThe admission represents a rare moment of vulnerability from the Russian leader, potentially signaling a more nuanced understanding of the conflict's broader consequences.",
+        "headline": "US Restricts AI Access - Anthropic Forced to Disable Foreign Models",
+        "body": "The US government has ordered Anthropic to disable its top-tier AI models for all foreign nationals, marking a significant escalation in technology access restrictions. This move signals growing tensions around AI technology and international access.\n\nAnthropic has begun implementing the directive, cutting off high-level AI services to non-US users. The decision reflects increasing governmental control over advanced technological resources and potential national security concerns.",
         "sources": [
           {
-            "title": "EU agrees launch of accession process for Ukraine and Moldova",
-            "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
+            "title": "Anthropic cuts top-tier AI access after US foreigner ban",
+            "url": "https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "US orders Anthropic to disable AI models for all foreign nationals",
+            "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "World Cup 2026 Kicks Off with US Victory and Global Excitement",
+        "body": "The 2026 FIFA World Cup launched with the United States securing a decisive 4-1 victory over Paraguay in the tournament opener. US fans celebrated the home soil triumph, with star player Christian Pulisic overcoming an early injury scare.\n\nThe tournament promises high-stakes competition, with upcoming matches like Brazil versus Morocco generating significant international anticipation. The World Cup continues to be a global sporting spectacle, bridging cultural divides through passionate football.",
+        "sources": [
+          {
+            "title": "FIFA World Cup Day 3: Brazil vs Morocco prediction, schedule, what to know",
+            "url": "https://www.aljazeera.com/news/2026/6/13/fifa-world-cup-day-3-brazil-vs-morocco-prediction-schedule-what-to-know?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Putin admits Ukraine attacks hitting Russian economy, society",
-            "url": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
+            "title": "US fans celebrate victory over Paraguay in World Cup opener",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-fans-celebrate-victory-over-paraguay-in-world-cup-opener?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Brazil vs Morocco World Cup team news: Neymar, start time and how to watch",
+            "url": "https://www.aljazeera.com/sports/2026/6/13/brazil-vs-morocco-world-cup-team-news-neymar-start-time-and-how-to-watch?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "‘A dream come true’: Fans revel as US win World Cup opener on home soil",
+            "url": "https://www.aljazeera.com/sports/2026/6/13/dream-come-true-world-cup-fever-ignites-los-angeles-as-usa-beat-paraguay?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "USA’s Pulisic shrugs off injury scare after 4-1 World Cup win over Paraguay",
+            "url": "https://www.aljazeera.com/sports/2026/6/13/usa-vs-paraguay-fifa-world-cup-2026-pulisic-injury-subbed-soccer?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -220,15 +208,9 @@
     ],
     "ai": [
       {
-        "headline": "US Government Shuts Down Anthropic's Most Advanced AI Models",
-        "body": "The Trump administration has ordered Anthropic to suspend access to its Fable 5 and Mythos 5 AI models, forcing an immediate shutdown. Anthropic complied with the directive, pulling its most powerful AI systems offline following government pressure. The move comes after repeated safety warnings from the company - ironically, those very cautions may have triggered increased government scrutiny.",
+        "headline": "US Government Shuts Down Anthropic's Advanced AI Models",
+        "body": "The Trump administration has ordered Anthropic to suspend access to its Fable 5 and Mythos AI models, marking a dramatic escalation in government AI regulation. Anthropic complied with the directive, taking the powerful models offline and releasing a terse statement about the shutdown.\n\nThe move follows growing concerns about the potential risks of advanced AI systems. While details remain unclear, the sudden intervention suggests deep government unease with the capabilities of cutting-edge AI research.",
         "sources": [
-          {
-            "title": "Our response to the US ban on Fable 5 and Mythos 5",
-            "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
-            "source": "Hacker News",
-            "lean": null
-          },
           {
             "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
             "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
@@ -256,8 +238,26 @@
         ]
       },
       {
-        "headline": "Meta's AI Division Implodes Under Zuckerberg's Leadership",
-        "body": "Internal tensions are boiling over at Meta's AI unit, with engineers describing the division as a soul-crushing environment. Employee morale has plummeted, with reports of open hostility toward leadership's vision. A proposed companywide AI hackathon has been met with widespread resistance - another sign of the deep dysfunction plaguing Mark Zuckerberg's AI ambitions.",
+        "headline": "Google Faces Legal Liability for AI-Generated False Statements",
+        "body": "A German court has ruled that Google can be held legally responsible for false information generated by its AI Overviews feature - a landmark decision with potentially massive implications for tech platforms. The ruling suggests AI-generated content could expose tech companies to significant legal and financial risks.\n\nThe case highlights the growing legal complexity surrounding AI-generated information and the challenges of ensuring accuracy in automated content systems.",
+        "sources": [
+          {
+            "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+            "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+            "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+            "source": "TechCrunch",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Meta's AI Unit Descends into Workplace Chaos",
+        "body": "Internal tensions are boiling over at Meta's AI division, with employees describing the unit as a soul-crushing environment. Engineers reportedly feel trapped in a dysfunctional workplace, with one meeting reportedly devolving into personal attacks.\n\nMark Zuckerberg's aggressive push into AI has created significant internal friction. A companywide AI hackathon has been met with widespread employee resistance - suggesting deep cultural problems in the tech giant's AI strategy.",
         "sources": [
           {
             "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
@@ -278,58 +278,40 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "AI Startups Raise Massive Funding Amid Regulatory Uncertainty",
-        "body": "The AI investment landscape continues to surge, with Mistral reportedly raising €3 billion at a €20 billion valuation. Meanwhile, Andrew Yang argues that the next major startup opportunity lies in reducing living costs - a potential pivot point for tech innovation. The market remains volatile, with government interventions and massive capital injections reshaping the AI ecosystem.",
-        "sources": [
-          {
-            "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-            "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Mistral is rumored to be raising €3B at €20B valuation",
-            "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-            "source": "TechCrunch",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Bottoms Out at $59K - Winter Finally Ending?",
-        "body": "Standard Chartered analysts declared Bitcoin's market bottom this week - pinpointing $59,000 as the lowest point of the current crypto cycle. The bank's research suggests the prolonged downturn may have concluded, signaling potential recovery for the world's leading cryptocurrency.\n\nTrader sentiment appears increasingly optimistic. Order book structures indicate growing confidence, with some market watchers anticipating a rally toward $70,000 in the near term. Bitcoin's price stability and gradual recovery support the narrative of a market turning point.",
+        "headline": "Bitcoin Hovers Near $63K as Macro Factors Stabilize Market",
+        "body": "Bitcoin steadied above $63,000 after a turbulent week, finding support from broader macroeconomic conditions. Traders watched closely as market sentiment shifted, with recent data suggesting potential for a relief rally. The cryptocurrency's price movement reflects ongoing uncertainty - but also hints at underlying resilience.",
         "sources": [
           {
-            "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
-            "url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
-            "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+            "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
+            "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
             "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Rally Builds Momentum - Traders Eye $70K Target",
-        "body": "Bitcoin's price trajectory is showing renewed strength, with market data pointing to a potential relief rally. Traders are closely watching order book demand as a key indicator of market sentiment.\n\nThe current market structure challenges previous bearish estimates. Analysts see emerging signs of sustained buying pressure - a potential harbinger of continued price appreciation. Short-term targets hover around the $70,000 mark, reflecting growing optimism in the Bitcoin market.",
-        "sources": [
-          {
-            "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-            "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           },
           {
             "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
             "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Quantum Threat Divides Bitcoin's Top Cryptography Experts",
+        "body": "Leading cryptographers remain deeply split on Bitcoin's quantum computing vulnerability. The debate centers on potential risks to the network's cryptographic security - a critical concern as quantum technology advances. Experts disagree on both the timeline and potential mitigation strategies, highlighting the complex technical challenges facing Bitcoin's long-term infrastructure.",
+        "sources": [
+          {
+            "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+            "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
+            "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
           }
@@ -340,20 +322,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Inspired Fusion",
+      "cuisine": "French-inspired fusion",
       "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed flavor"
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset Protocol",
-      "description": "A targeted 5-minute sequence of stretches and micro-movements designed to realign spine curvature and release tension from prolonged sitting",
-      "tip": "Set a silent hourly reminder on your phone to do two neck rolls and a seated spinal twist"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language, filled with bizarre botanical and astronomical illustrations that have confounded scholars and cryptographers for centuries",
-      "why": "It represents one of the most intriguing unsolved linguistic and historical puzzles, challenging our understanding of medieval knowledge and communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "The emerging field of designing cities and infrastructure by studying and emulating nature's time-tested patterns and strategies",
+      "why": "Understanding how natural systems solve complex problems can revolutionize sustainable urban planning and solve critical environmental challenges"
     }
   }
 }
