@@ -1,57 +1,93 @@
 {
-  "generatedAt": "2026-06-14T11:02:36.757Z",
+  "generatedAt": "2026-06-14T22:30:18.783Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Hosts UFC Fights at White House, Sparks Political Debate",
-        "body": "President Trump's decision to host UFC Freedom 250 at the White House has drawn mixed reactions. Conservative media praised the event as a celebration of American athleticism, while liberal outlets questioned the appropriateness of the spectacle.\n\nThe event highlights Trump's continued efforts to redefine presidential traditions. Some see it as an attempt to connect with his base, while others view it as a potential political miscalculation that could alienate moderate voters.",
+        "headline": "Trump Hosts UFC Fights at White House for America's 250th",
+        "body": "President Trump transformed the White House lawn into an Octagon for a UFC event marking the nation's 250th anniversary. The controversial spectacle drew criticism from advocacy groups who argued it represented a conflict of interest and inappropriate use of the presidential venue.\n\nTickets were distributed through a process that raised questions about access and fairness. Few Americans polled viewed the event as appropriate, though UFC fighters reportedly saw the White House's small venue as an intriguing fighting space.",
         "sources": [
           {
-            "title": "‘UFC Freedom 250’ at the White House: 5 things to watch",
-            "url": "https://thehill.com/policy/sports-gaming/5920864-ufc-freedom-250-white-house-trump/",
+            "title": "Live updates: Trump’s UFC fights to kick off at White House for America’s 250th",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/trumps-ufc-cage-fights-kick-off-white-house-americas-250th-live-updates/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Analysis: UFC event is a conflict-of-interest spectacle, some advocacy groups say",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/analysis-ufc-event-is-conflict-of-interest-spectacle-some-advocacy-groups-say/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Few Americans say UFC event at White House is appropriate",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/few-americans-say-ufc-event-white-house-is-appropriate/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/ufc-fighters-white-houses-small-swampy-octagon-is-perfect-venue/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "How longtime friends Trump and Dana White got a fight cage on the White House lawn",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/how-longtime-friends-trump-dana-white-got-fight-cage-white-house-lawn/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Trump Announces Potential Iran Deal - Democrats Skeptical",
+        "body": "President Trump claimed progress on an Iran diplomatic breakthrough, announcing a potential peace deal that immediately drew criticism from Democratic leaders. Mike Pence previously cast doubt on the likelihood of an agreement, adding complexity to the diplomatic landscape.\n\nCongressional Democrats - including Minority Leader Jeffries - expressed deep skepticism, noting Trump has previously claimed imminent progress multiple times. The proposed deal remains unconfirmed, with significant political divisions apparent.",
+        "sources": [
+          {
+            "title": "Pence cast doubt on possibility of US, Iran peace deal before Trump announcement",
+            "url": "https://thehill.com/policy/international/5923793-mike-pence-iran-deal/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "The Memo: Trump’s UFC fight night risks landing with a thud",
-            "url": "https://thehill.com/homenews/administration/5922488-donald-trump-ufc-fights-white-house-optics/",
+            "title": "Trump announces deal with Iran",
+            "url": "https://thehill.com/homenews/administration/5923788-trump-announces-iran-deal/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Trump's UFC fights bring historic spectacle to White House",
-            "url": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights",
+            "title": "Iran deal comes under fire from Democrats before it is inked",
+            "url": "https://thehill.com/policy/international/5923658-democrats-criticize-us-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Jeffries questions possible Iran ceasefire: Trump has said deal is close ’38 or 39 different times’",
+            "url": "https://thehill.com/homenews/house/5923552-jeffries-blasts-trump-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
+          }
+        ]
+      },
+      {
+        "headline": "McConnell Hospitalized - Senate Leadership in Flux",
+        "body": "Senate Republican leader Mitch McConnell was admitted to the hospital, with his office stating he is receiving excellent care. The unexpected hospitalization raises questions about Republican Senate leadership and potential succession planning.\n\nMcConnell's health status comes at a sensitive political moment, with ongoing debates about legislative priorities and potential leadership transitions. Colleagues and political observers are closely monitoring his condition.",
+        "sources": [
+          {
+            "title": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+            "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital",
             "source": "NPR",
             "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Supreme Court Approaches Critical Decision Period",
-        "body": "The Supreme Court enters its final opinion season with a docket packed with high-stakes cases. Justices are preparing to release rulings that could significantly impact Trump's ongoing legal and political agenda.\n\nThe court's decisions will likely touch on critical constitutional issues, potentially reshaping legal landscapes across multiple domains. Political observers from both sides are watching closely, anticipating outcomes that could have far-reaching consequences.",
-        "sources": [
+          },
           {
-            "title": "Supreme Court’s docket loaded as decision season nears climax",
-            "url": "https://thehill.com/regulation/court-battles/5922350-supreme-court-final-opinions-trump-agenda/",
+            "title": "McConnell admitted to hospital",
+            "url": "https://thehill.com/homenews/senate/5923670-mcconnell-admitted-to-hospital/",
             "source": "The Hill",
             "lean": "center"
           },
           {
-            "title": "Oversight Democrat hails Trump name removal from Kennedy Center: ‘Really important moment for this country’",
-            "url": "https://thehill.com/homenews/administration/5923127-garcia-hails-kennedy-center-victory/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Trump Backs MAGA Candidate in Georgia Senate Runoff",
-        "body": "Former President Trump has endorsed Mike Collins in Georgia's Republican Senate runoff, signaling continued influence within the party. The endorsement underscores Trump's ongoing role in shaping Republican primary contests.\n\nCollins, positioned as a Trump-aligned candidate, hopes the endorsement will provide a critical boost in a competitive race. The runoff represents another test of Trump's political capital in key battleground states.",
-        "sources": [
-          {
-            "title": "Trump backs MAGA champion Mike Collins in Georgia's Republican Senate runoff",
-            "url": "https://www.foxnews.com/politics/trump-backs-maga-champion-mike-collins-georgias-republican-senate-runoff",
+            "title": "Sen Mitch McConnell hospitalized, 'receiving  excellent care,' his office says",
+            "url": "https://www.foxnews.com/politics/sen-mitch-mcconnell-hospitalized-receiving-excellent-care-office-says",
             "source": "Fox News",
             "lean": "right"
           }
@@ -60,158 +96,152 @@
     ],
     "au-politics": [
       {
-        "headline": "Socceroos Triumph in World Cup Thriller Against Türkiye",
-        "body": "Australia's national soccer team secured a stunning 2-0 victory over Türkiye, electrifying fans nationwide. Two spectacular goals - including a strike from young talent Irankadura - propelled the team to a crucial World Cup win. Federation Square in Melbourne erupted with jubilant supporters, marking a pivotal moment for Australian soccer.",
+        "headline": "US-Iran Peace Deal Signals Potential Middle East Shift",
+        "body": "Diplomatic breakthrough emerges as the United States and Iran reportedly reach a peace agreement, with Pakistan confirming negotiations. Former President Trump suggested the deal would allow oil markets to stabilize, hinting at broader economic implications.\n\nThe potential ceasefire could include Lebanon, marking a significant moment in regional tensions. Multiple news sources are tracking the developing story, with details still emerging about the specific terms of the agreement.",
         "sources": [
           {
-            "title": "Socceroos boast heavy Adelaide connection, as SA fans show support",
-            "url": "https://www.abc.net.au/news/2026-06-14/socceroos-win-adelaide-reacts/106796588",
+            "title": "Live: US-Iran peace deal to include Lebanon ceasefire as Trump says 'let the oil flow'",
+            "url": "https://www.abc.net.au/news/2026-06-15/trump-iran-say-agreement-to-end-war-finalised/106715420",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Jubilant fans pack Federation Square to celebrate Socceroos win",
-            "url": "https://www.abc.net.au/news/2026-06-14/socceroos-win-over-turkiye-world-cup-federation-square/106796654",
+            "title": "Breaking: US and Iran have reached peace deal, Pakistan says",
+            "url": "https://www.abc.net.au/news/2026-06-15/pakistan-say-peace-deal-between-us-iran-reached/106735740",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "The Socceroos' greatest ever World Cup gamble just paid off",
-            "url": "https://www.abc.net.au/news/2026-06-14/socceroos-tony-popovic-greatest-world-cup-gamble-pays-off/106796402",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Socceroos quick hits: Irankunda's stunning strike and Beach's brilliance",
-            "url": "https://www.abc.net.au/news/2026-06-14/world-cup-australia-vs-turkiye-quick-hits/106796368",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Socceroos ecstasy as wondergoals deliver 2-0 World Cup victory over Türkiye",
-            "url": "https://www.abc.net.au/news/2026-06-14/world-cup-live-updates-australia-vs-turkiye-socceroos/106796000",
+            "title": "Iran briefing: In the build-up to the ceasefire, Trump resumed dropping f-bombs",
+            "url": "https://www.abc.net.au/news/2026-06-15/iran-israel-war-news-briefing/106797420",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Liberal Frontbencher Quits as Party Struggles with Internal Tensions",
-        "body": "Senator Jonno Duniam announced his departure from politics, citing leadership tensions as a key factor. His exit represents another challenge for the Liberal Party's ongoing internal struggles. Duniam suggested the recent leadership spill had significantly impacted his political resolve, adding to the coalition's mounting pressures.",
+        "headline": "Western Australia Confronts Rising Peptide and Disease Challenges",
+        "body": "Needle exchange programs in Western Australia report an astronomical increase in injectable peptide use, raising public health concerns. Simultaneously, health authorities are grappling with a resurgence of syphilis across the country - a disease previously thought nearly eliminated.\n\nThe dual health challenges highlight growing systemic pressures on medical infrastructure and prevention strategies. Experts are calling for targeted interventions to address these emerging trends.",
         "sources": [
           {
-            "title": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/14/liberal-frontbencher-jonno-duniam-to-quit-politics-in-blow-to-struggling-coalition",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "WA needle exchanges report 'astronomical' rise in peptide use",
+            "url": "https://www.abc.net.au/news/2026-06-15/rise-in-injectable-peptides-needle-exchanges-western-australia/106762668",
+            "source": "ABC Australia",
+            "lean": "center-left"
           },
           {
-            "title": "Angus Taylor using NDIS cuts as ‘pawn in bigger chess game’, Mark Butler warns",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Australians are dying from a disease that was almost eliminated years ago",
+            "url": "https://www.abc.net.au/news/2026-06-15/syphilis-outbreak-spreads-across-australia-sti-testing-treatment/106214402",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Political Donation Controversy Sparks Heated Debate",
-        "body": "Prime Minister Albanese faces mounting criticism over political donations, with opposition voices calling for his resignation. The controversy has intensified political discourse, with different media outlets presenting contrasting perspectives on the potential implications. The situation remains fluid, with ongoing scrutiny from various political stakeholders.",
+        "headline": "Political Tensions Simmer: One Nation and Rental Crisis Dominate",
+        "body": "Barnaby Joyce downplayed potential leadership tensions within One Nation, responding to reports about Pauline Hanson's potential succession plans. The political landscape continues to shift as generational economic pressures drive voter sentiment.\n\nYounger Australians face mounting challenges, with extreme measures being taken to secure rental accommodations. Generation X, in particular, shows increasing political disillusionment - with some gravitating towards populist political movements.",
         "sources": [
           {
-            "title": "‘Fire the Liar’: Albanese’s donation hell",
-            "url": "https://www.spectator.com.au/2026/06/fire-the-liar-albaneses-donation-hell/",
-            "source": "Spectator AU",
-            "lean": "right"
-          },
-          {
-            "title": "Greens join calls for Tasmanian minister Jane Howlett to resign",
-            "url": "https://www.abc.net.au/news/2026-06-14/labor-greens-call-for-sacking-of-racing-minister-jane-howlett/106796278",
+            "title": "Live: Joyce says he's not worried Hanson reportedly could want daughter as party leader",
+            "url": "https://www.abc.net.au/news/2026-06-15/federal-politics-live-blog-barnaby-joyce/106797478",
             "source": "ABC Australia",
             "lean": "center-left"
+          },
+          {
+            "title": "Extreme ways young people are trying to secure rentals",
+            "url": "https://www.abc.net.au/news/2026-06-15/young-australians-going-to-extreme-lengths-to-secure-rentals/106789612",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Reality bites: gen X are poorer, less likely to own a home and are now turning towards One Nation",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/15/reality-bites-gen-x-are-poorer-less-likely-to-own-a-home-and-are-now-turning-towards-one-nation",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Deal Teeters on Brink of Breakthrough - or Collapse",
-        "body": "Tensions are high as negotiations for a landmark US-Iran agreement reach a critical moment. President Trump claims the deal will be signed Sunday, but Tehran has cast doubt on the timeline - signaling potential last-minute complications.\n\nThe potential agreement comes 107 days into ongoing conflict, with both sides reportedly close to finalizing the first stage of a comprehensive settlement. However, the absence of the deal from Trump's public schedule suggests significant uncertainty remains.",
+        "headline": "G7 Summit Opens Amid Protests and Global Tensions",
+        "body": "Thousands of protesters clashed with police in Geneva as world leaders gathered for the G7 summit. Violent demonstrations erupted on the eve of the high-stakes diplomatic meeting, highlighting deep global divisions. Swiss voters simultaneously rejected a right-wing plan to cap national population - a symbolic rejection of isolationist politics.",
         "sources": [
           {
-            "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
-            "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+            "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Signing of US-Iran deal not on Trump’s public schedule",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
+            "title": "Swiss right-wing plan to cap population rejected by narrow margins",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Protesters clash with police ahead of G7 summit in Geneva",
+            "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-            "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+            "title": "Is the G7 still relevant?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/6/14/is-the-g7-still-relevant?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+            "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Israel Escalates Tensions with Forced Displacement in Southern Lebanon",
-        "body": "Israel has accused Hezbollah of violating the current ceasefire, issuing displacement orders for 29 towns in southern Lebanon. The move signals heightened military tensions and potential for further regional conflict.\n\nThe displacement orders represent a significant escalation, forcing residents to evacuate and creating immediate humanitarian concerns. Israel's aggressive stance suggests a continued hardline approach to regional security challenges.",
+        "headline": "Israel Expands Military Control - Tensions Escalate in Middle East",
+        "body": "Israel has dramatically expanded its military control by 1,000 square kilometers across Gaza, Lebanon, and Syria. The move comes amid ongoing strikes in Gaza that killed four civilians, drawing international condemnation. Diplomatic tensions further intensified with an unprecedented visit from the Somaliland president to Israel - a potential shift in regional dynamics.",
         "sources": [
           {
-            "title": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
-            "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+            "title": "Gaza mourns four killed in Israeli strike",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Two killed in Israeli strike on Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+            "title": "Israel welcomes Somaliland president in ‘historic’ visit",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+            "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "World Cup Kicks Off with Surprises - Australia Stuns Turkiye",
-        "body": "The 2026 FIFA World Cup is delivering early drama, with Australia delivering a shocking 2-0 victory over Turkiye. The match showcased a masterful counterattacking strategy that caught opponents off guard.\n\nOther notable matches saw Morocco and Brazil sharing a draw, while Qatar earned its first-ever World Cup point - marking historic moments in the tournament. The competition continues to provide unexpected twists and compelling football narratives.",
+        "headline": "UK-Japan Seal Major Investment Deal - Global Realignment Continues",
+        "body": "The United Kingdom and Japan finalized an £18 billion investment agreement, signaling continued economic cooperation despite global uncertainties. The deal comes as international partnerships reshape in response to shifting geopolitical landscapes. Meanwhile, the UK seized a suspected Russian oil tanker allegedly funding the Ukraine war - underlining ongoing economic pressures.",
         "sources": [
           {
-            "title": "World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule",
-            "url": "https://www.aljazeera.com/sports/2026/6/14/fifa-world-cup-2026-schedule-netherlands-japan-prediction-germany-curacao-schedule?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "UK and Japan agree £18bn investment deal",
+            "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
-            "url": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
-            "url": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Qatar earns first ever World Cup point",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/14/vinicius-drags-brazil-level-against-dominant-morocco-at-world-cup?traffic_source=rss",
+            "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -220,73 +250,37 @@
     ],
     "ai": [
       {
-        "headline": "US Government Cracks Down on Advanced AI Models",
-        "body": "The US government has escalated its scrutiny of artificial intelligence, targeting Anthropic's latest language models. Anthropic has suspended access to its Fable 5 and Mythos 5 models following a direct government order - a move that signals intensifying regulatory pressure on AI development.\n\nThe crackdown appears rooted in national security concerns, with Amazon's CEO reportedly raising internal alarms about the models' potential risks. This development comes amid broader investigations into AI companies, including an ongoing probe of OpenAI by state attorneys general.",
+        "headline": "AI Model Tensions Rise as Anthropic Pauses New Releases",
+        "body": "Anthropic has suspended access to its latest AI models, signaling growing complexity in the artificial intelligence landscape. The move comes amid international scrutiny - particularly from India and the United States - about AI development and potential geopolitical risks.\n\nThe suspension highlights deepening challenges for AI companies. Underlying tensions include concerns about model safety, technological sovereignty, and the rapid pace of AI innovation. Anthropic's decision suggests internal deliberations about responsible AI deployment are intensifying.",
         "sources": [
+          {
+            "title": "China may have accessed Mythos",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+            "source": "The Verge",
+            "lean": null
+          },
           {
             "title": "As Anthropic suspends access to new models, India debates its AI future",
             "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-            "source": "The Verge",
-            "lean": null
-          },
-          {
-            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-            "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "OpenAI faces investigation from state attorneys general",
-            "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-            "source": "The Verge",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Research Pushes Boundaries in Chemistry and Specialized Applications",
-        "body": "Anthropic is exploring new frontiers in AI specialization, demonstrating Claude's potential as a chemist through targeted research. The company's work highlights the growing trend of developing AI systems with deep domain expertise.\n\nOther innovative AI applications are emerging across diverse fields. Researchers are finding creative ways to apply AI technologies - from home coding projects to specialized tools like SQL-to-ER diagram generators - that expand the technology's practical utility beyond traditional language models.",
+        "headline": "Tech Giants Shuffle Global AI Investments Amid Regulatory Pressures",
+        "body": "Meta is reportedly unwinding a $2 billion deal with Manus after pressure from Beijing - a move that underscores the complex geopolitical dynamics shaping AI investments. The tech industry faces mounting challenges as national governments increasingly scrutinize cross-border technology partnerships.\n\nSimultaneously, AI companies are racing toward public offerings. The landscape remains volatile - with strategic realignments happening rapidly as firms navigate regulatory environments and technological competition.",
         "sources": [
           {
-            "title": "Making Claude a Chemist",
-            "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-            "source": "Hacker News",
+            "title": "As AI companies race to go public, who else is along for the ride?",
+            "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+            "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-            "url": "https://sqltoerdiagram.com/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "AI coding at home without going broke",
-            "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "Weave: Merging based on language structure and not lines",
-            "url": "https://ataraxy-labs.github.io/weave/",
-            "source": "Hacker News",
+            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+            "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+            "source": "TechCrunch",
             "lean": null
           }
         ]
@@ -294,9 +288,34 @@
     ],
     "btc": [
       {
-        "headline": "No recent Bitcoin news",
-        "body": "No articles were published in this category in the past 24 hours.",
-        "sources": []
+        "headline": "Bitcoin Mining Difficulty Plummets - Signals Market Stress",
+        "body": "Bitcoin's mining ecosystem hit turbulence as network difficulty dropped 10% - the second-largest negative adjustment in 2026. This substantial decline suggests reduced mining profitability and potential miner capitulation amid challenging market conditions.\n\nThe sharp drop indicates miners are struggling with current Bitcoin economics. Lower difficulty typically signals reduced network hash rate, which could reflect miners switching off equipment or selling hardware as margins tighten.",
+        "sources": [
+          {
+            "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
+            "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "Potential Bitcoin Price Correction Looms - Analysts Warn",
+        "body": "Bitcoin faces potential downside risk to $48,000 if historical market patterns repeat. Standard Chartered strategists are tracking key indicators to determine whether the cryptocurrency has reached its market bottom.\n\nThe analysis suggests multiple signals could trigger a significant price correction. Investors and traders are closely monitoring technical patterns and macroeconomic indicators that might precipitate a substantial Bitcoin price movement.",
+        "sources": [
+          {
+            "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+            "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+            "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          }
+        ]
       }
     ]
   },
@@ -309,14 +328,14 @@
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Decompression",
-      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
-      "tip": "Set a 45-minute timer and do a 30-second standing stretch with gentle side bends and shoulder rolls each time it goes off"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body's positioning every 20 minutes to prevent static muscle tension and promote spinal health",
+      "tip": "Use painter's tape on your floor to mark ideal foot placement and create muscle memory for optimal standing and sitting positions"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval knowledge and communication"
+      "topic": "Biomimicry in Urban Design",
+      "description": "An emerging field where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and provide innovative solutions to modern environmental challenges"
     }
   }
 }
