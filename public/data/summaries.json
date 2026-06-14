@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-06-13T22:27:42.707Z",
+  "generatedAt": "2026-06-14T05:40:17.211Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
+        "headline": "Trump Backs Senate Candidate, Reshapes Political Landscape",
+        "body": "Former President Donald Trump continues to wield significant influence in Republican primaries, endorsing Mike Collins in Georgia's Senate runoff. The move signals Trump's ongoing strategy of supporting MAGA-aligned candidates who align closely with his political vision.\n\nTrump's endorsement comes as he simultaneously makes other strategic political moves, including naming a new US Attorney for Manhattan and commenting on potential international negotiations. His continued engagement suggests he remains a central figure in Republican party dynamics.",
+        "sources": [
+          {
+            "title": "Trump backs MAGA champion Mike Collins in Georgia's Republican Senate runoff",
+            "url": "https://www.foxnews.com/politics/trump-backs-maga-champion-mike-collins-georgias-republican-senate-runoff",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump taps James McDonald as US Attorney for Manhattan, replacing DNI pick Clayton",
+            "url": "https://thehill.com/homenews/administration/5923092-mcdonald-named-us-attorney/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump picks James McDonald to lead powerful Southern District of New York after Jay Clayton's departure",
+            "url": "https://www.foxnews.com/politics/trump-picks-james-mcdonald-lead-powerful-southern-district-new-york-jay-claytons-departure",
+            "source": "Fox News",
+            "lean": "right"
+          }
+        ]
+      },
+      {
         "headline": "US-Iran Peace Deal Sparks Heated Political Debate",
-        "body": "Negotiations between the United States and Iran appear close to a breakthrough, with reports suggesting a deal could be finalized within 24 hours. The potential agreement has triggered sharp partisan reactions - with some Democrats criticizing it as a potential surrender and others seeing it as a diplomatic breakthrough.\n\nPresident Trump has signaled optimism, claiming the deal is scheduled to be signed Sunday. However, House Democrats like Representative Seth Moulton have pushed back, calling the framework essentially a surrender document. International perspectives vary, with Pakistan reportedly mediating and an Iranian envoy suggesting potential friendship if Israel is sidelined.",
+        "body": "A potential US-Iran peace agreement has triggered sharp partisan reactions, with some Democrats cautiously supportive and others deeply critical. Trump claimed the deal is scheduled for signing, while some House Democrats have denounced it as essentially a surrender document.\n\nThe proposed agreement has complex geopolitical implications. An Iranian envoy in Mexico suggested the potential for improved US-Tehran relations, particularly if Israel is not centrally involved. The negotiations represent a significant diplomatic shift from previous administrations' approaches.",
         "sources": [
           {
             "title": "Sunday shows preview: Will US, Iran finalize peace deal amid reported optimism?",
@@ -30,96 +54,187 @@
             "url": "https://thehill.com/policy/international/5922946-donald-trump-us-iran-peace-deal/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Iran peace deal expected to be finalized ‘in the next 24 hours’: Pakistan",
-            "url": "https://thehill.com/policy/international/5922896-pakistan-mediates-iran-us/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "2028 Presidential Speculation Heats Up at World Cup",
-        "body": "The World Cup has become an unexpected political stage, with Senators Marco Rubio and Gavin Newsom sharing the spotlight amid growing 2028 presidential speculation. Their high-profile appearance signals the early maneuvering of potential presidential contenders.\n\nThe event highlights the ongoing political positioning of rising political figures, with both Rubio and Newsom seen as potential future presidential candidates. Their shared moment underscores the increasing intersection of sports, media, and political ambition in contemporary American politics.",
+        "headline": "Trump's Name Removed from Kennedy Center After Legal Battle",
+        "body": "Workers have removed Trump's name from the Kennedy Center facade following a legal appeal that was swiftly rejected. The action represents a symbolic moment in the ongoing political tensions surrounding the former president.\n\nDemocratic lawmakers celebrated the name removal, with one calling it a really important moment for the country. The incident underscores the continuing political divisions and efforts to distance institutions from Trump's legacy.",
         "sources": [
           {
-            "title": "Rubio, Newsom share World Cup spotlight at US opener as 2028 presidential speculation swirls",
-            "url": "https://www.foxnews.com/politics/rubio-newsom-share-world-cup-spotlight-us-opener-2028-presidential-speculation-swirls",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Will America’s 250th anniversary mark the end of our nation’s noble dream?",
-            "url": "https://thehill.com/opinion/campaign/5920681-united-states-divided-future/",
+            "title": "Oversight Democrat hails Trump name removal from Kennedy Center: ‘Really important moment for this country’",
+            "url": "https://thehill.com/homenews/administration/5923127-garcia-hails-kennedy-center-victory/",
             "source": "The Hill",
             "lean": "center"
+          },
+          {
+            "title": "Workers rip Trump's name from Kennedy center facade months after it goes on, hours after failed appeal",
+            "url": "https://www.foxnews.com/politics/workers-rip-trump-name-kennedy-center-facade-months-goes-hours-failed-appeal",
+            "source": "Fox News",
+            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Massive MND Donation Highlights Healthcare Funding Challenges",
-        "body": "A Queensland couple has donated $40 million to Motor Neurone Disease research - a landmark gift that underscores ongoing challenges in Australia's healthcare system. The donation comes as older Australians with MND increasingly consider early euthanasia due to inadequate support services.\n\nThe Birts - who insist they are not trying to be philanthropists - have drawn attention to systemic gaps in medical research and aged care. Their gift could potentially accelerate research and support for a disease that currently offers limited treatment options.",
+        "headline": "NDIS Reforms Spark Political Clash Over Disability Support",
+        "body": "Health Minister Mark Butler accused Opposition figures of using National Disability Insurance Scheme cuts as a political strategy. The government remains committed to the NDIS but signals openness to potential modifications.\n\nAngus Taylor from the Coalition has been pushing for significant changes to the scheme. Butler warns that delaying reforms could cost billions and potentially harm disability support services across Australia.",
         "sources": [
           {
-            "title": "Qld couple who made $40 million MND donation are 'not trying to be philanthropists'",
-            "url": "https://www.abc.net.au/news/2026-06-14/quentin-kylie-birt-mnd-donation/106791290",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "Angus Taylor using NDIS cuts as ‘pawn in bigger chess game’, Mark Butler warns",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
+            "source": "Guardian AU",
+            "lean": "left"
           },
           {
-            "title": "Why older Australians with MND are considering early euthanasia",
-            "url": "https://www.abc.net.au/news/2026-06-14/aged-care-system-failing-australians-with-motor-neurone-disease/106776088",
+            "title": "Butler open to NDIS changes but convinced it's heading in 'right direction'",
+            "url": "https://www.abc.net.au/news/2026-06-14/butler-leaves-door-open-to-ndis-changes/106795696",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Social Media Ban Fails - Young Australians Circumvent Restrictions",
-        "body": "Six months after implementing a social media ban for under-16s, Australian authorities are facing significant resistance from teenagers who continue to access platforms through various workarounds. The policy - intended to protect young people - appears to have had minimal impact on actual usage.\n\nTech-savvy youth are finding multiple ways to bypass restrictions, highlighting the challenges of regulating digital access in an increasingly connected world. The ongoing debate raises critical questions about digital literacy, parental oversight, and the effectiveness of blanket technological restrictions.",
+        "headline": "Liberal Party Faces Internal Turmoil as Frontbencher Quits",
+        "body": "Liberal frontbencher Jonno Duniam announced his resignation from politics, citing leadership challenges as a key factor. His departure represents another blow to the struggling Coalition opposition.\n\nDuniam suggested the internal party dynamics had become increasingly difficult, with recent leadership spills taking a personal toll. His exit highlights ongoing internal tensions within the Liberal Party's ranks.",
         "sources": [
           {
-            "title": "Why young people say the social media ban is not working six months on",
-            "url": "https://www.abc.net.au/news/2026-06-14/why-teens-say-social-media-ban-isnt-working-for-under-16s/106780590",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Climate Talks Reveal Ongoing Tensions in Environmental Policy",
-        "body": "As Australia leads international climate discussions, domestic political divisions remain stark. Recent commentary suggests climate denial is resurging - challenging the nation's commitment to environmental policy. The debate reflects broader global tensions around ecological transformation.\n\nCritical infrastructure challenges - such as potential shortages of industrial lubricants - further complicate Australia's environmental and economic strategies. These interconnected issues demand nuanced policy approaches that balance economic and ecological considerations.",
-        "sources": [
-          {
-            "title": "Denial is back in vogue. As Australia leads climate talks, it’s beyond time we took the issue seriously",
-            "url": "https://www.theguardian.com/environment/2026/jun/14/climate-denial-in-vogue-pauline-hanson-australia-cop31-ntwnfb",
+            "title": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/14/liberal-frontbencher-jonno-duniam-to-quit-politics-in-blow-to-struggling-coalition",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Australia is facing a shortage of critical lubricants. How do we stop everything grinding to a halt?",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/14/australia-is-facing-a-shortage-of-critical-lubricants-how-do-we-stop-everything-grinding-to-a-halt",
+            "title": "One Nation may have found the Holy Grail of Populism",
+            "url": "https://www.spectator.com.au/2026/06/one-nation-may-have-found-the-holy-grail-of-populism/",
+            "source": "Spectator AU",
+            "lean": "right"
+          }
+        ]
+      },
+      {
+        "headline": "NSW Lifts Drone Ban After Shark Attack at Coogee Beach",
+        "body": "New South Wales authorities lifted the drone ban over Sydney beaches following a recent shark incident. Officials stated they are keeping all options open - including potential shark culls - to ensure public safety.\n\nThe decision comes after a shark attack prompted initial restrictions. Local authorities are now balancing beach safety with environmental considerations, using drone technology to monitor marine activities.",
+        "sources": [
+          {
+            "title": "Australia news live: NSW lifts drone ban over Sydney beach after shark attack",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "'Nothing off the table': Coogee drone ban lifted, shark culls not ruled out",
+            "url": "https://www.abc.net.au/news/2026-06-14/ban-lifted-coogee-drones-nsw-shark-culls-not-ruled-out/106796046",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Paddleboarder says shark attack victim he helped save was 'very unlucky'",
+            "url": "https://www.abc.net.au/news/2026-06-14/nsw-man-who-rescued-woman-bitten-by-shark-at-coogee-speaks/106794890",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "World Events summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "World Cup Kicks Off with Surprises and Historic Moments",
+        "body": "Qatar secured its first-ever World Cup point in a dramatic late draw against Switzerland - a milestone for the tournament hosts. Scotland marked a triumphant return to the competition with a 1-0 victory over Haiti, while Brazil fought to a tense draw against Morocco in an electrifying match.\n\nThe tournament's early stages have already delivered unexpected drama. Qatar's late equalizer stunned Swiss fans, while Scotland's win provided a boost to their campaign. Brazil's performance against Morocco highlighted the unpredictable nature of international football - proving that no team can take victory for granted.",
+        "sources": [
+          {
+            "title": "Switzerland votes on plan to cap population at 10 million",
+            "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Qatar earns first ever World Cup point",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
+            "url": "https://www.aljazeera.com/sports/2026/6/14/scotland-beat-haiti-1-0-to-mark-a-winning-return-to-the-world?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
+            "url": "https://www.aljazeera.com/sports/2026/6/14/vinicius-drags-brazil-level-against-dominant-morocco-at-world-cup?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Brazil and Morocco kickoff amid electric atmosphere",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Qatar net late against Switzerland to secure historic first World Cup point",
+            "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "US and Iran Signal Potential Deal - Tensions Remain High",
+        "body": "Former US President Trump claims a deal with Iran will be signed Sunday - though Tehran disputes the timing and details. Geopolitical tensions remain complex, with ongoing conflicts and diplomatic maneuvering.\n\nThe potential agreement comes amid continued regional instability. Israel launched attacks on Lebanon, while diplomatic channels remain uncertain. The proposed deal represents a potential breakthrough in long-standing tensions between the United States and Iran - but significant challenges remain unresolved.",
+        "sources": [
+          {
+            "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+            "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "New York Knicks Win First NBA Championship in 53 Years",
+        "body": "The New York Knicks clinched their first NBA title since 1973 - defeating the San Antonio Spurs in a decisive series. Jalen Brunson emerged as a key player in the championship victory, leading the team to a historic win.\n\nThe championship marks a significant moment for the Knicks franchise and their long-suffering fans. After decades of disappointment, New York basketball has finally returned to the pinnacle of the sport - sparking celebrations across the city.",
+        "sources": [
+          {
+            "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
+            "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+            "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          }
+        ]
       }
     ],
     "ai": [
       {
         "headline": "US Government Cracks Down on Anthropic AI Models",
-        "body": "The White House has moved to ban Anthropic's Fable and Mythos AI models after high-level security concerns. Amazon CEO reportedly raised internal alarms about the models before the government's intervention - a move that appears to have triggered the crackdown.\n\nThe ban follows weeks of mounting tension around AI safety. Anthropic has already cut off access to its Fable 5 and Mythos 5 models, signaling the serious nature of the government's national security concerns.",
+        "body": "The US government has ordered Anthropic to suspend access to its Fable 5 and Mythos 5 AI models, citing national security concerns. Multiple sources suggest high-level discussions between Amazon's CEO and government officials triggered the crackdown. The move comes amid growing scrutiny of advanced AI technologies and their potential risks.\n\nIndia is now grappling with the broader implications of this action, debating its own approach to AI development and regulation. The suspension highlights the increasing tension between technological innovation and national security priorities.",
         "sources": [
+          {
+            "title": "As Anthropic suspends access to new models, India debates its AI future",
+            "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
             "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
@@ -127,8 +242,14 @@
             "lean": null
           },
           {
-            "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-            "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+            "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink",
             "source": "Hacker News",
             "lean": null
           },
@@ -137,19 +258,19 @@
             "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
             "source": "The Verge",
             "lean": null
-          },
-          {
-            "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-            "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink",
-            "source": "Hacker News",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "AI Misuse Sparks Legal and Ethical Investigations",
-        "body": "Multiple institutions face scrutiny over AI manipulation. OpenAI is now under investigation by state attorneys general, while a police officer in Derbyshire is being investigated for allegedly creating evidence using AI.\n\nIn a related development, KPMG has pulled a report due to apparent AI-generated hallucinations. These incidents underscore growing concerns about AI's potential for generating false or misleading information across professional and legal contexts.",
+        "headline": "AI Integrity Questioned After Multiple Reporting Failures",
+        "body": "Tech and consulting firms are confronting serious credibility challenges with AI-generated content. KPMG has withdrawn a report due to apparent AI hallucinations - fabricated information presented as fact. In a separate incident, a police officer is under investigation for allegedly using AI to create evidence in multiple cases.\n\nThese incidents underscore the growing concerns about AI reliability and the potential for misinformation. State attorneys general are now investigating OpenAI, signaling increased regulatory scrutiny of artificial intelligence platforms.",
         "sources": [
+          {
+            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
             "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
@@ -161,67 +282,19 @@
             "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
             "source": "TechCrunch",
             "lean": null
-          },
-          {
-            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-            "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-            "source": "Wired",
-            "lean": null
           }
         ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $64,000 on Geopolitical Peace Signals",
-        "body": "Bitcoin prices climbed above $64,000 after Pakistan's prime minister hinted at a potential peace deal with Iran. The cryptocurrency market responded quickly to the diplomatic developments, with traders interpreting the news as a potential reduction in regional tensions.\n\nThe price movement underscores Bitcoin's sensitivity to geopolitical events and its growing role as a global financial instrument. Investors continue to view the digital asset as a hedge against economic uncertainty.",
-        "sources": [
-          {
-            "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-            "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Spot Bitcoin ETFs Attract $85.8 Million - Inflows Return",
-        "body": "Bitcoin spot ETFs broke a five-day outflow streak, drawing $85.8 million in fresh investments on Friday. The inflow signals renewed investor confidence after a period of net withdrawals.\n\nThe fund movement comes as institutional interest in Bitcoin remains strong. Michael Saylor recently highlighted that 25% of major tech firms now hold Bitcoin - a trend he attributes to growing corporate adoption strategies.",
-        "sources": [
-          {
-            "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
-            "url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-            "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
-            "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Coinbase Warns of Bitcoin Address Vulnerability",
-        "body": "Coinbase released a quantum computing report flagging significant security risks for Bitcoin holders. The study revealed millions of Bitcoin addresses potentially exposed through repeated address usage - a critical vulnerability that could compromise cold wallet security.\n\nThe report underscores the ongoing technological challenges in cryptocurrency security. As quantum computing advances, Bitcoin's cryptographic foundations face increasing scrutiny from cybersecurity experts.",
+        "headline": "Coinbase Warns of Bitcoin Cold Wallet Quantum Vulnerability",
+        "body": "Coinbase research has uncovered a critical security risk affecting millions of Bitcoin addresses through repeated address usage. The quantum computing threat could potentially expose cold storage wallets - typically considered the most secure method of cryptocurrency storage.\n\nThe report highlights systemic risks in Bitcoin's current address generation practices. Quantum computers might soon crack cryptographic protections, rendering millions of stored Bitcoin potentially accessible to sophisticated attackers. Exchanges and individual holders face urgent need to update wallet security protocols.",
         "sources": [
           {
             "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
             "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-            "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -231,20 +304,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Provençal Fusion",
-      "description": "Tender roast chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
       "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Decompression",
-      "description": "Implement a micro-movement protocol that alternates between active stretching and precise spinal alignment every 30 minutes to counteract sedentary strain",
-      "tip": "Use painter's tape on your monitor to mark exact eye-level height, ensuring consistent ergonomic positioning"
+      "name": "Desk Spine Decompression",
+      "description": "A targeted micro-movement sequence to reset spinal alignment and release tension accumulated from prolonged sitting",
+      "tip": "Perform a standing side bend with arms overhead, holding each side for 15-20 seconds to create space between vertebrae"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "An emerging design philosophy where city infrastructure and architectural solutions are directly inspired by natural ecosystems and biological systems",
-      "why": "Understanding how nature solves complex problems can revolutionize how we think about sustainable urban development and solve critical environmental challenges"
+      "description": "An emerging field where city infrastructure and architecture directly mimic natural ecosystem principles and biological problem-solving strategies",
+      "why": "Understanding how nature solves complex design challenges can revolutionize sustainable urban planning and reduce environmental impact"
     }
   }
 }
