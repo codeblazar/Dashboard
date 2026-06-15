@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-06-15T05:54:53.225Z",
+  "generatedAt": "2026-06-15T12:06:09.209Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Hosts UFC Fights on White House Lawn for America's 250th",
-        "body": "President Trump transformed the White House lawn into an arena Monday, hosting UFC fights as part of America's 250th anniversary celebrations. The unconventional event drew mixed reactions - supporters praised its bold patriotic spirit, while critics argued it diminished presidential dignity.\n\nThunderstorms threatened to disrupt the spectacle, adding dramatic tension to an already unprecedented presidential event. The fights symbolized Trump's continued commitment to breaking traditional political norms, a hallmark of his political brand.",
+        "headline": "Trump Hosts UFC Fights, Celebrates Birthday at White House",
+        "body": "President Trump marked his 80th birthday with an unconventional White House event - hosting UFC Freedom 250 on the presidential lawn. The spectacle blended patriotic celebration of America's 250th anniversary with Trump's signature showmanship, drawing both praise and criticism from political observers.\n\nThe event highlighted Trump's unique approach to presidential entertainment, transforming the traditionally formal White House grounds into a combat sports venue. Political analysts see the UFC night as another example of Trump's ability to break traditional presidential norms and engage directly with his base.",
         "sources": [
           {
-            "title": "Live updates: Trump hosts UFC fights on White House lawn",
-            "url": "https://www.washingtonpost.com/politics/2026/06/14/trumps-ufc-cage-fights-kick-off-white-house-americas-250th-live-updates/",
-            "source": "Washington Post",
-            "lean": "center-left"
+            "title": "Trump hosts ‘UFC Freedom 250’ on White House lawn: Five takeaways",
+            "url": "https://thehill.com/newsletters/keeping-score/5924159-ufc-freedom-250-trump-white-house/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump celebrates 80th birthday with Iran deal and UFC fights at the White House",
+            "url": "https://www.npr.org/2026/06/15/nx-s1-5858610/trump-birthday-ufc-white-house",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump celebrates birthday -- and country's 250th -- with UFC event at the White House",
+            "url": "https://www.npr.org/2026/06/15/nx-s1-5857679/trump-celebrates-birthday-and-countrys-250th-with-ufc-event-at-the-white-house",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "The politics behind the White House's UFC event",
+            "url": "https://www.npr.org/2026/06/15/nx-s1-5856327/the-politics-behind-the-white-houses-ufc-event",
+            "source": "NPR",
+            "lean": "left"
           },
           {
             "title": "Live updates: Trump hosts UFC fights on White House lawn — Quick Post",
@@ -20,29 +38,35 @@
             "lean": "center-left"
           },
           {
-            "title": "Live updates: Trump’s UFC fights to kick off at White House for America’s 250th - Quick Post",
-            "url": "https://www.washingtonpost.com/politics/2026/06/15/live-updates-trumps-ufc-fights-kick-off-white-house-americas-250th-quick-post-12/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live updates: Trump’s UFC fights to kick off at White House as thunderstorms loom  - Quick Post",
-            "url": "https://www.washingtonpost.com/politics/2026/06/15/live-updates-trumps-ufc-fights-kick-off-white-house-thunderstorms-loom-quick-post-8/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Live updates: Trump’s UFC fights to kick off at White House for America’s 250th - Quick Post",
-            "url": "https://www.washingtonpost.com/politics/2026/06/15/live-updates-trumps-ufc-fights-kick-off-white-house-americas-250th-quick-post-10/",
+            "title": "Trump hosts UFC fights on White House lawn",
+            "url": "https://www.washingtonpost.com/politics/2026/06/14/trumps-ufc-cage-fights-kick-off-white-house-americas-250th-live-updates/",
             "source": "Washington Post",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "Trump Brokers Diplomatic Breakthrough with Iran and North Korea",
-        "body": "The Trump administration claimed a nuanced diplomatic victory in negotiations with Iran and North Korea, potentially opening new paths for regional stability. A deal regarding the Strait of Hormuz suggests a pragmatic approach to long-standing geopolitical tensions.\n\nSenator Lindsey Graham expressed cautious concern about potential interpretive differences between the U.S. and Iran. The administration argues the agreement represents a significant step toward de-escalation in a historically volatile relationship.",
+        "headline": "Trump Brokers Iran Deal, Aims to Secure Hormuz Strait Access",
+        "body": "President Trump announced a diplomatic breakthrough with Iran, focusing on reopening the strategically critical Hormuz Strait for international oil traffic. The deal represents a significant diplomatic effort, though early assessments suggest the agreement faces immediate implementation challenges.\n\nWhile Trump portrays the negotiation as a major foreign policy achievement, critics argue the deal falls short of his original objectives of regime change. The agreement will likely be a key talking point as Trump heads to the G7 summit, where trade discussions and geopolitical tensions await.",
         "sources": [
+          {
+            "title": "US-Iran deal to open Strait of Hormuz faces immediate challenges",
+            "url": "https://thehill.com/homenews/administration/5923788-trump-announces-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump heads to G7 with Iran deal momentum, trade fights waiting",
+            "url": "https://www.foxnews.com/politics/trump-heads-g7-iran-deal-momentum-trade-fights-waiting",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Strait of Hormuz oil supply crunch has countries looking for workarounds",
+            "url": "https://thehill.com/policy/energy-environment/5922306-strait-of-hormuz-oil-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump’s North Korea-Iran nuclear paradox could reveal a path to resolution",
             "url": "https://thehill.com/opinion/national-security/5923531-trumps-north-korea-iran-nuclear-paradox-could-reveal-a-path-to-resolution/",
@@ -54,10 +78,22 @@
             "url": "https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/",
             "source": "Washington Post",
             "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "FISA Extension Debate Intensifies with Save America Act Proposal",
+        "body": "Congressional negotiations over FISA reauthorization have become increasingly complex, with Trump demanding the inclusion of the Save America Act as a condition for extension. The proposal has created a partisan standoff, with different political factions presenting competing interpretations of national security priorities.\n\nThe Senate is currently weighing the nomination of Jay Clayton as DNI amid these ongoing discussions, adding another layer of complexity to the legislative process. Both Republican and Democratic lawmakers are seeking to balance civil liberties with national security concerns.",
+        "sources": [
+          {
+            "title": "Trump: FISA extension must include Save America Act",
+            "url": "https://thehill.com/homenews/administration/5924168-trump-fisa-extension-must-include-save-america-act/",
+            "source": "The Hill",
+            "lean": "center"
           },
           {
-            "title": "Graham ‘concerned’ that Iran views deal with U.S. differently than Trump administration",
-            "url": "https://thehill.com/homenews/senate/5923946-lindsey-graham-iran-deal/",
+            "title": "This week on The Hill: Senate tees up Clayton DNI nomination as FISA talks stall",
+            "url": "https://thehill.com/homenews/senate/5922519-senate-jay-clayton-dni-fisa/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -66,79 +102,122 @@
     ],
     "au-politics": [
       {
-        "headline": "Australian Politics summary unavailable",
-        "body": "Could not generate summary at this time.",
-        "sources": []
+        "headline": "Terror Plot Threat: Brisbane Teen Allegedly Targeted Liberal Party",
+        "body": "A Brisbane teenager faces serious charges after allegedly plotting attacks on Liberal Party targets. Court documents suggest the youth was influenced by extremist ideologies - potentially linked to radical manifestos from past domestic terror cases.\n\nMultiple law enforcement sources indicate the suspect had developed detailed plans that raised significant national security concerns. The Australian Federal Police are treating the case as a potential terror threat, highlighting ongoing challenges in preventing radicalization among young people.",
+        "sources": [
+          {
+            "title": "Brisbane teenager allegedly plotted terror attacks on Liberal party targets, court hears",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/15/brisbane-teenager-allegedly-plotted-terror-attacks-after-being-influenced-by-unabomber-court-hears-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Private schoolboy plotted attack on LNP, court hears",
+            "url": "https://www.abc.net.au/news/2026-06-15/liberal-party-accused-attack/106800560",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Social Media Restrictions Spark Debate on Digital Access and Youth Protection",
+        "body": "Australia continues wrestling with digital regulation after implementing social media restrictions six months ago. The ban's impact on families remains complex - with mixed reports of both positive and negative consequences.\n\nInternational parallels are emerging, with the UK now considering similar restrictions for under-16s. Policymakers are weighing potential benefits of youth protection against concerns about digital freedom and potential unintended social consequences.",
+        "sources": [
+          {
+            "title": "How Australia’s social media ban has affected families six months on",
+            "url": "https://www.theguardian.com/world/2026/jun/15/how-australia-social-media-ban-has-affected-families-six-months-on",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Will Starmer’s under-16 social media ban actually work?",
+            "url": "https://www.spectator.com.au/2026/06/will-starmers-under-16-social-media-ban-actually-work/",
+            "source": "Spectator AU",
+            "lean": "right"
+          },
+          {
+            "title": "UK plans to ban social media for under-16s",
+            "url": "https://www.abc.net.au/news/2026-06-15/uk-keir-starmer-ban-social-media-under-16/106800694",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine Conflict: Russian Strike Damages Heritage Monastery",
+        "body": "A Ukrainian heritage-listed monastery suffered severe damage from a Russian missile strike, escalating international condemnation of ongoing military actions. The attack on the historic site represents another significant cultural loss in the prolonged conflict.\n\nInternational observers are closely monitoring the incident, which further strains diplomatic relations and highlights the ongoing humanitarian challenges in the region.",
+        "sources": [
+          {
+            "title": "Ukrainian heritage-listed monastery severely damaged by Russian strike",
+            "url": "https://www.abc.net.au/news/2026-06-15/ukraine-pechersk-lavra-monastery-russia-missile-strike/106800464",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          }
+        ]
       }
     ],
     "world": [
       {
-        "headline": "US and Iran Announce Landmark Peace Deal",
-        "body": "In a dramatic diplomatic breakthrough, the United States and Iran have agreed to a ceasefire and peace deal set to be signed on Friday. President Trump heralded the agreement as a major foreign policy achievement - promising the reopening of the strategically critical Strait of Hormuz.\n\nStock markets surged and oil prices dropped in response to the unexpected détente. However, skepticism remains high - particularly in the Middle East, where Lebanese observers expressed deep reservations about the deal's long-term prospects.",
+        "headline": "US-Iran Deal Sparks Global Market Rally and Diplomatic Shift",
+        "body": "A landmark agreement between the United States and Iran sent shockwaves through global markets and geopolitical circles. Oil prices dropped sharply while stock markets surged in response to the tentative peace deal. The agreement - which Trump hailed despite some Republican reservations - signals a potential end to long-standing tensions in the Middle East.\n\nIsraeli leaders reacted with particular dismay. Prime Minister Netanyahu called the deal a failure of his long-standing diplomatic strategy. Seafarers and international trade advocates welcomed the potential normalization, seeing an end to months of uncertainty in the Gulf region.",
         "sources": [
           {
-            "title": "Trump heralds Iran deal but questions - and risks - remain",
-            "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&amp;at_campaign=rss",
+            "title": "Oil prices fall and shares jump after US-Iran deal announced",
+            "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "US-Iran to sign a ‘peace deal’ on Friday: What we know so far",
-            "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss",
+            "title": "‘Netanyahu’s life project failed with US-Iran deal’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/netanyahus-life-project-failed-with-us-iran?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
-            "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&amp;at_campaign=rss",
-            "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
-            "url": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss",
+            "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+            "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
-            "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss",
+            "title": "Seafarers’ advocates welcome US-Iran deal after months-long limbo in Gulf",
+            "url": "https://www.aljazeera.com/economy/2026/6/15/seafarers-advocates-welcome-us-iran-deal-after-months-long-limbo-in-gulf?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
-            "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+            "title": "Trump hails MoU with Iran despite misgivings from some Republicans",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-hails-mou-with-iran-despite-misgivings-from-some-republicans?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "What still needs to be negotiated in US-Iran ‘peace deal’?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-still-needs-to-be-negotiated-in-us-iran-peace?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "World Cup Kicks Off with Surprises and Strong Performances",
-        "body": "The 2026 FIFA World Cup launched with several compelling matches across different groups. Sweden dominated Tunisia with a decisive 5-1 victory, while Ivory Coast narrowly defeated Ecuador 1-0 through an Amad Diallo goal. Japan provided another highlight by fighting back twice to deny the Netherlands in their tournament opener.\n\nThe tournament has already seen passionate fan engagement - with Ecuadorian supporters notably taking over Philadelphia's iconic Rocky Steps in a display of national pride.",
+        "headline": "Russian Strikes Devastate Kyiv - Historic Cathedral Burns",
+        "body": "Russian air raids struck Ukraine with brutal intensity on Monday, killing 11 civilians and setting a historic cathedral ablaze in Kyiv. The attack underscores the continuing brutality of the conflict - with Crimean residents describing themselves as trapped on an island surrounded by war.\n\nThe strikes targeted civilian infrastructure, causing widespread panic and destruction. Ukrainian forces continue to resist, but the human cost of the conflict remains devastatingly high.",
         "sources": [
           {
-            "title": "Sweden beat Tunisia 5-1 in strong start to World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
+            "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+            "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "‘Island surrounded by war’: Crimeans panic amid Ukrainian attacks",
+            "url": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Ivory Coast beats Ecuador 1-0 at FIFA World Cup with Amad Diallo goal",
-            "url": "https://www.aljazeera.com/sports/2026/6/15/ivory-coast-beat-ecuador-1-0-at-fifa-world-cup-with-amad-diallo?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Ecuadorian World Cup fans takeover Philly’s Rocky Steps",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/ecuadorian-world-cup-fans-takeover-phillys-rocky-steps?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Japan deny Netherlands by fighting back twice in World Cup opener",
-            "url": "https://www.aljazeera.com/sports/2026/6/14/japan-deny-netherlands-by-fighting-back-twice-in-world-cup-opener?traffic_source=rss",
+            "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+            "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -147,19 +226,31 @@
     ],
     "ai": [
       {
-        "headline": "AI Race Heats Up: Startups Prep for Public Market Debut",
-        "body": "Artificial intelligence companies are gearing up for a wave of public offerings, signaling a new phase of market maturity. Investors are closely watching the sector - not just for tech giants, but for the ecosystem of supporting companies and technologies that will ride this momentum.\n\nThe push toward public markets comes amid intense global competition. Venture capital continues to flow, with strategic positioning becoming critical as companies seek to differentiate themselves in an increasingly crowded landscape.",
+        "headline": "AI Layoffs Spark Global Tech Workforce Tensions",
+        "body": "The tech industry faces mounting pressure as AI-driven job cuts escalate. TechCrunch reports a growing powder keg of worker discontent - with mass layoffs creating significant economic and social strain. Companies continue aggressive workforce restructuring, betting on AI efficiency over human capital.\n\nThe situation has complex roots. As AI technologies advance, traditional tech roles are rapidly becoming obsolete. Workers find themselves caught between technological transformation and economic survival - a dynamic that threatens to reshape labor markets worldwide.",
         "sources": [
+          {
+            "title": "The AI layoff wave is becoming a powder keg",
+            "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+            "source": "TechCrunch",
+            "lean": null
+          },
           {
             "title": "As AI companies race to go public, who else is along for the ride?",
             "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
             "source": "TechCrunch",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Meta Explores Controversial Face Recognition for Smart Glasses",
+        "body": "Meta has quietly prototyped advanced facial recognition technology for its smart glasses platform. Working with Pentagon supplier Rank One Computing, the company is pushing boundaries of personal identification tech. The project signals Meta's continued aggressive expansion into wearable surveillance technologies.\n\nPrivacy advocates are likely to challenge the development. The collaboration between a major tech platform and a defense contractor raises significant ethical questions about personal tracking and data collection.",
+        "sources": [
           {
-            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-            "source": "Hacker News",
+            "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+            "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+            "source": "Wired",
             "lean": null
           },
           {
@@ -169,31 +260,31 @@
             "lean": null
           }
         ]
-      },
-      {
-        "headline": "Local AI and Machine Learning Innovations Emerge Globally",
-        "body": "Developers are pushing the boundaries of machine learning with increasingly sophisticated local and regional projects. A notable example is Rio de Janeiro's homegrown language model - though questions have emerged about its actual originality.\n\nIndividual developers are also making strides. One user demonstrated indexing nearly 670 GB of personal video content using local machine learning models on an M1 Max computer - highlighting the growing accessibility of advanced AI tools.",
-        "sources": [
-          {
-            "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-            "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-            "source": "Hacker News",
-            "lean": null
-          },
-          {
-            "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-            "url": "https://news.ycombinator.com/item?id=48528029",
-            "source": "Hacker News",
-            "lean": null
-          }
-        ]
       }
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $65,500 on US-Iran Peace Deal",
-        "body": "Bitcoin rallied to a two-week high above $65,500 after diplomatic breakthroughs in US-Iran tensions. The potential reopening of the Strait of Hormuz and reduced geopolitical risk triggered a sharp price jump. Crypto markets responded positively to signals of easing global tensions - a rare moment of macro-driven optimism for the digital asset.",
+        "headline": "Bitcoin Surges Past $65K on US-Iran Peace Deal Hopes",
+        "body": "Bitcoin rocketed above $65,000 Monday as geopolitical tensions eased with reports of a potential US-Iran peace agreement. Traders saw the diplomatic breakthrough as a catalyst for market optimism - driving short-term price momentum and reducing global uncertainty.\n\nThe cryptocurrency's rapid climb suggests growing sensitivity to international political developments. Investors remain cautiously optimistic, with some skepticism about the deal's long-term stability and potential market impact.",
         "sources": [
+          {
+            "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
+            "url": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
+            "source": "Decrypt",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
+            "url": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "source": "CoinTelegraph",
+            "lean": null
+          },
+          {
+            "title": "Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears",
+            "url": "https://www.theblock.co/post/404723/bitcoin-tops-65000-us-iran-peace-deal?utm_source=rss&amp;utm_medium=rss",
+            "source": "The Block",
+            "lean": null
+          },
           {
             "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
             "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
@@ -209,43 +300,25 @@
         ]
       },
       {
-        "headline": "Mining Difficulty Drops Sharply - Signals of Network Stress",
-        "body": "Bitcoin's mining difficulty plummeted 10% in the second-largest negative adjustment of 2026. The dramatic decline suggests significant challenges for miners - potentially indicating reduced network hash rate or economic pressures. Analysts are watching closely to understand whether this represents a temporary fluctuation or deeper structural shifts in Bitcoin's mining ecosystem.",
+        "headline": "Bitcoin Mining Difficulty Drops 10% in Major Network Adjustment",
+        "body": "Bitcoin's mining landscape shifted dramatically with a 10% downward difficulty adjustment - the 11th largest in network history. This significant recalibration signals changing dynamics in the mining ecosystem, potentially reflecting shifts in computational power and miner economics.\n\nThe adjustment could indicate reduced mining profitability or changes in hardware deployment. Miners may be reassessing their strategies in response to recent market volatility and energy cost fluctuations.",
         "sources": [
           {
             "title": "Bitcoin mining difficulty drops 10% in 11th largest downward adjustment",
             "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
             "lean": null
-          },
-          {
-            "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-            "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Market Volatility Looms - Analysts Debate Bitcoin's Bottom",
-        "body": "Crypto funds and market strategists are debating whether Bitcoin has hit its price floor. Standard Chartered is tracking multiple indicators to assess market sentiment. Potential downside risks remain - with some models suggesting Bitcoin could drop to $48,000 if certain historical patterns repeat. Investors are navigating a complex landscape of geopolitical and economic uncertainty.",
+        "headline": "Crypto Funds Signal Potential Bitcoin Market Bottom",
+        "body": "Investment funds are weighing in on Bitcoin's market trajectory, with growing signals that the cryptocurrency might have reached its recent price floor. Analysts are parsing market indicators and fund sentiment to gauge potential future movements.\n\nThe assessment comes amid recent price volatility and geopolitical uncertainties. Investors are closely monitoring global economic signals and Bitcoin's response to international developments.",
         "sources": [
           {
             "title": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
             "url": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&amp;utm_medium=rss",
             "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
-            "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
-            "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -254,21 +327,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
+      "name": "Moroccan Spiced Lamb Tagine",
+      "cuisine": "North African",
+      "description": "Slow-cooked lamb with apricots, almonds, and complex spice blend served over saffron couscous",
+      "tip": "Toast whole spices before grinding to intensify their aromatic oils"
     },
     "health": {
       "category": "Posture",
-      "name": "Desk Spine Reset",
-      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
-      "tip": "Perform this sequence every 90 minutes by standing, rolling shoulders back, and doing three slow cat-cow stretches"
+      "name": "Dynamic Desk Alignment",
+      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
+      "tip": "Use painter's tape on your floor to mark ideal standing and sitting positions for consistent ergonomic reference"
     },
     "learn": {
-      "topic": "The Voynich Manuscript",
-      "description": "A mysterious 15th-century codex written in an unknown or coded language that has defied translation by cryptographers and linguists for centuries",
-      "why": "It represents one of the most fascinating unsolved mysteries in historical linguistics and manuscript studies, challenging our understanding of medieval communication and knowledge"
+      "topic": "The Kardashev Scale of Civilizational Energy Consumption",
+      "description": "A theoretical framework for classifying technological civilizations based on their ability to harness and use energy across astronomical scales",
+      "why": "It provides a mind-expanding perspective on technological progress and humanity's potential future evolution beyond current technological limitations"
     }
   }
 }
