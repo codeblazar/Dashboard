@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-06-15T22:45:49.162Z",
+  "generatedAt": "2026-06-16T05:56:53.160Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump's Iran Deal Sparks Global Tension and Market Speculation",
-        "body": "President Trump's newly signed Iran agreement has triggered widespread debate across political spectrums. The deal - which aims to open the Strait of Hormuz and potentially release $300 billion in reconstruction funds - has drawn skepticism from both international allies and domestic lawmakers.\n\nMarkets responded with cautious optimism, while strategic concerns remain high. Senator Thune has publicly requested more congressional briefing on the agreement's details, reflecting bipartisan uncertainty about the diplomatic breakthrough.",
+        "headline": "Trump's Iran Deal Sparks Debate, Diplomatic Tensions Rise",
+        "body": "The Trump administration's reported Iran deal has triggered intense speculation and skepticism across political lines. Negotiations appear to center on opening the Strait of Hormuz and a potential $300 billion reconstruction fund - claims Trump himself has dismissed as fake news.\n\nTensions between Trump and Israeli Prime Minister Netanyahu are escalating, complicating the deal's reception. Senate Republicans like Thune are demanding more information, while some see the agreement as a potential diplomatic breakthrough. Market reactions suggest cautious optimism, but significant doubts remain about Tehran's intentions.",
         "sources": [
+          {
+            "title": "Trump says $300B fund to rebuild Iran is ‘Fake News’",
+            "url": "https://thehill.com/homenews/administration/5925541-trump-iran-300b-funding/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "The Memo: Debate rages over Iran deal that remains unseen",
+            "url": "https://thehill.com/homenews/administration/5925480-trump-iran-deal-interpretations/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Trump’s Iran deal triggers speculation, skepticism, market bump: 5 takeaways",
             "url": "https://thehill.com/homenews/administration/5925442-trump-iran-deal-skepticism-markets/",
@@ -36,70 +48,52 @@
             "url": "https://www.foxnews.com/politics/us-wont-move-troops-despite-signed-iran-deal-doubts-linger-over-tehrans-next-move",
             "source": "Fox News",
             "lean": "right"
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Supreme Court Declines Gun Industry Challenge, Maintains NY Law",
+        "body": "The Supreme Court has refused to hear a challenge from the gun industry against a New York state law, effectively upholding the legislation. This decision signals potential shifts in how federal courts approach gun regulation.\n\nThe ruling comes amid ongoing national debates about Second Amendment rights and state-level firearms restrictions. Legal experts suggest the court's decision may have broader implications for similar state-level gun control measures.",
+        "sources": [
           {
-            "title": "US blockade of Iranian ports still in place ‘pending execution’ of Strait of Hormuz ceasefire deal",
-            "url": "https://thehill.com/policy/defense/5925018-us-blockade-iranian-ports-ceasefire/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Vance: Iran ‘could have access to’ $300B reconstruction fund",
-            "url": "https://thehill.com/homenews/administration/5924963-vance-iran-300b-reconstruction-fund/",
+            "title": "Supreme Court declines to hear gun industry challenge to NY law",
+            "url": "https://thehill.com/homenews/state-watch/5925619-scotus-declines-gun-industry-challenge/",
             "source": "The Hill",
             "lean": "center"
           }
         ]
       },
       {
-        "headline": "US Strategic Oil Reserve Hits Lowest Level Since 1983",
-        "body": "The US Strategic Petroleum Reserve has reached its lowest point since 1983, raising concerns about national energy security. This development coincides with ongoing geopolitical negotiations and potential shifts in Middle Eastern energy dynamics.\n\nWhile the Trump administration maintains that military postures will remain unchanged, the depleted reserve signals potential long-term strategic challenges for US energy infrastructure and international policy.",
+        "headline": "White House Faces Internal Tensions and Staffing Controversies",
+        "body": "The Trump administration is navigating multiple internal challenges, including potential subpoenas for former officials and controversies surrounding staffing decisions. Democratic lawmakers are preparing for potential investigations if they regain majority control.\n\nAdditional tensions emerge around immigration policies, with the administration putting alleged birth tourism schemes on notice and facing scrutiny over ICE detention practices. A recent case involving a Haitian woman's death in ICE custody has further heightened concerns about immigration enforcement.",
         "sources": [
           {
-            "title": "US strategic oil reserve hits lowest level since 1983",
-            "url": "https://thehill.com/policy/energy-environment/5925310-spr-strategic-oil-reserve-iran-strait-of-hormuz/",
-            "source": "The Hill",
-            "lean": "center"
+            "title": "Former ICE leader lands new job consulting on national security and defense",
+            "url": "https://www.npr.org/2026/06/15/nx-s1-5859429/todd-lyons-ice-detention",
+            "source": "NPR",
+            "lean": "left"
           },
           {
-            "title": "US blockade of Iranian ports still in place ‘pending execution’ of Strait of Hormuz ceasefire deal",
-            "url": "https://thehill.com/policy/defense/5925018-us-blockade-iranian-ports-ceasefire/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "US military to stay in Middle East during negotiations with Iran",
-            "url": "https://thehill.com/policy/defense/5924960-us-military-middle-east-posture/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Political Crosscurrents: Impeachment Calls, Investigations, and Campaign Tensions",
-        "body": "Political tensions continue to simmer as Trump calls for impeachment of a Democratic senator who criticized ending the Obama-era Iran deal. Simultaneously, California Governor Gavin Newsom alleges the administration has directed the DOJ to investigate him and his wife.\n\nIndependent voter sentiment appears to be shifting, with a recent survey showing a 12-point preference for Democrats in congressional control - a potential harbinger of upcoming electoral dynamics.",
-        "sources": [
-          {
-            "title": "Trump calls for impeachment of Senate Democrat who called ending Obama’s Iran deal ‘bad mistake’",
-            "url": "https://thehill.com/homenews/administration/5925180-trump-calls-for-reed-impeachment/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Newsom says Trump has directed DOJ to investigate him, wife",
-            "url": "https://thehill.com/homenews/state-watch/5925031-donald-trump-gavin-newsom-justice-department-investigation/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Gavin Newsom claims Trump ordered DOJ probe targeting him and his wife",
-            "url": "https://www.foxnews.com/politics/gavin-newsom-claims-trump-ordered-doj-probe-targeting-him-his-wife",
+            "title": "Trump admin puts alleged 'birth tourism' scheme on notice as expert delivers warning to hospitals",
+            "url": "https://www.foxnews.com/politics/trump-admin-puts-birth-tourism-scheme-immigration-expert-delivers-warning-hospitals",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Independents prefer Democrats for congressional control by 12-point margin: Survey",
-            "url": "https://thehill.com/homenews/campaign/5924917-independents-favor-democrats-congress/",
+            "title": "Blanche, other Trump officials could face subpoenas on ‘day one’ of Democrat majority, Garcia says",
+            "url": "https://thehill.com/homenews/house/5925409-garcia-threatens-trump-officials-subpoenas/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Haitian woman’s hypothermia death after ICE release ruled a homicide",
+            "url": "https://thehill.com/homenews/state-watch/5925375-haitian-woman-death-homicide-ice-custody/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
+            "url": "https://thehill.com/policy/healthcare/5925304-expired-contraceptives-trump-storage-costs/",
             "source": "The Hill",
             "lean": "center"
           }
@@ -108,81 +102,69 @@
     ],
     "au-politics": [
       {
-        "headline": "VAR Controversy Erupts as World Cup Broadcast Sparks Debate",
-        "body": "A FIFA World Cup broadcast controversy has exploded after an Australian VAR official claimed an involuntary twitch caused a disputed call. The official, identified as Evans, faces potential sacking from the international discrimination monitoring body over the incident.\n\nThe gesture has triggered widespread discussion about officiating standards and unconscious bias in international sports broadcasting. FIFA's monitoring group is taking the matter seriously, suggesting potential disciplinary action despite the official's explanation.",
+        "headline": "RBA Holds Rates Steady as Economic Slowdown Looms",
+        "body": "The Reserve Bank of Australia has maintained its official cash rate at 4.35%, signaling caution amid rising unemployment and economic uncertainty. Economic indicators suggest a cooling market, with the central bank carefully balancing inflation concerns against broader economic pressures.\n\nThe decision reflects ongoing challenges in the Australian economy, including slowing growth and increasing labor market tensions. Economists are closely watching for potential future adjustments as the financial landscape continues to evolve.",
         "sources": [
           {
-            "title": "News live: Australian VAR official blames ‘involuntary twitch’ for World Cup broadcast controversy; NSW to spend $100m on grid-scale batteries",
+            "title": "Australia news live: RBA holds official interest rate at 4.35%; BoM declares El Niño in place in Pacific Ocean",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Australian ref explains gesture after World Cup monitor calls for sacking",
-            "url": "https://www.abc.net.au/news/2026-06-16/fifa-world-cup-discrimination-body-calls-for-evans-to-be-sacked/106801784",
+            "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35% as economy slows and unemployment rises",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Reserve Bank keeps interest rate at 4.35pc as economy slows",
+            "url": "https://www.abc.net.au/news/2026-06-16/reserve-bank-keep-rates-on-hold-june-2026/106803692",
             "source": "ABC Australia",
             "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "NSW Invests $100M in Grid-Scale Batteries Amid Energy Transition",
-        "body": "New South Wales is committing $100 million to grid-scale battery infrastructure, signaling a significant push toward renewable energy storage. The investment comes amid growing tensions over power grid management and rising consumer costs.\n\nThe move follows recent criticisms of power infrastructure, with TransGrid seeking a billion-dollar bailout for bungled power line projects. Energy experts suggest the battery investment could help stabilize the electrical grid and support renewable energy integration.",
+        "headline": "Queensland Launches New Child Protection Agency",
+        "body": "The Queensland government will establish a dedicated agency to combat child sexual abuse, responding to recent comprehensive investigations into systemic protection failures. The new body aims to create more robust safeguarding mechanisms and improve response protocols for vulnerable children.\n\nThis initiative represents a significant policy shift, addressing long-standing concerns about child protection systems. Advocates have welcomed the move as a critical step toward preventing future instances of abuse and supporting survivors.",
         "sources": [
           {
-            "title": "News live: Australian VAR official blames ‘involuntary twitch’ for World Cup broadcast controversy; NSW to spend $100m on grid-scale batteries",
-            "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Feud erupts as consumers on the hook for billion-dollar grid blowout",
-            "url": "https://www.abc.net.au/news/2026-06-16/transgrid-seeks-billion-dollar-bailout-over-bungled-power-line/106772276",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Political Tensions Rise Over Capital Gains Tax Inquiry",
-        "body": "The federal opposition has accused the government of undermining democratic processes through its current Capital Gains Tax inquiry. Shadow treasurer Tim Wilson claimed the investigation is running roughshod over established democratic principles.\n\nThe dispute highlights ongoing political tensions and differing perspectives on tax policy. Wilson's critique suggests deep divisions in how parliamentary inquiries should be conducted and the appropriate scope of financial investigations.",
-        "sources": [
-          {
-            "title": "Live: Shadow treasurer says CGT inquiry 'running roughshod over democracy'",
-            "url": "https://www.abc.net.au/news/2026-06-16/federal-politics-live-blog-tim-wilson-criticises-cgt-inquiry/106801734",
+            "title": "Qld government to set up agency aimed at protecting children from sexual abuse",
+            "url": "https://www.abc.net.au/news/2026-06-16/queensland-child-sexual-abuse-report-government-response/106803206",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Wong and Marles left waiting in the wings is further proof Aukus was never anything more than a political stunt | Allan Behm",
-            "url": "https://www.theguardian.com/commentisfree/2026/jun/16/uk-defence-minister-john-healey-resignation-wong-marles-aukus-exposed-political-stunt",
+            "title": "Paedophile teacher William ‘Rob’ Gilfillan sentenced for sexual offences against two Victorian schoolgirls in the 1980s",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/16/paedophile-teacher-william-rob-gilfillan-sentenced-crimes-sex-offences-school-girls-victoria-1980s-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
+          },
+          {
+            "title": "PE teacher 'totally without remorse' sentenced for historical sex offences",
+            "url": "https://www.abc.net.au/news/2026-06-16/gippsland-paedophile-teacher-rob-gilfillan-sex-offender-sentence/105904134",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Deal Sparks Global Tension - Netanyahu Pushes Back",
-        "body": "President Trump claims a peace deal with Iran is complete - a move that has sent shockwaves through diplomatic circles. Israeli leaders have reacted with deep skepticism, with Prime Minister Netanyahu suggesting the agreement threatens regional stability.\n\nThe deal's details remain unclear. Not all Iranians are convinced peace is imminent, and the international community is divided. Trump's announcement at the G7 summit suggests a potential breakthrough - or a high-stakes diplomatic gamble that could reshape Middle Eastern geopolitics.",
+        "headline": "US-Iran Deal Reshapes Global Energy and Diplomatic Landscape",
+        "body": "A landmark US-Iran framework deal promises to transform geopolitical tensions and energy markets. Negotiations are underway, with potential for significant economic ripple effects. The agreement could ease sanctions, stabilize oil prices, and reshape Middle Eastern diplomacy.\n\nPresident Trump is expected to release details before Friday, while the deal presents a political challenge for Israeli Prime Minister Netanyahu. US stock markets have already responded positively, signaling hope for reduced energy market volatility.",
         "sources": [
           {
-            "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+            "title": "US says Iran nuclear talks begin after framework deal signing",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump may release US-Iran deal before Friday, Vance says",
             "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
-            "lean": null
-          },
-          {
-            "title": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
-            "url": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "What Israeli leaders are saying about US-Iran ‘peace deal’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss",
-            "source": "Al Jazeera",
             "lean": null
           },
           {
@@ -192,56 +174,74 @@
             "lean": null
           },
           {
-            "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
-            "url": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here?traffic_source=rss",
+            "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
+            "url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+            "url": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Iran war live: Vance says IAEA to return to Iran, no tolls in Hormuz Strait",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "EU Launches Ukraine and Moldova Membership Processes",
-        "body": "The European Union has officially begun accession talks with Ukraine and Moldova - a landmark moment after years of diplomatic maneuvering. Hungary's Prime Minister Orban had previously blocked the process, but parliamentary changes have now cleared the way.\n\nThis move signals strong EU support for countries on its eastern frontier. Ukraine, in particular, sees this as a crucial step toward integration following its ongoing conflict with Russia. The accession process will likely take years but represents a significant political milestone.",
+        "headline": "Japan Hikes Interest Rates, Global Economic Shifts Signal Caution",
+        "body": "Japan has raised interest rates to their highest level since 1995 - a dramatic move signaling major economic recalibration. The central bank's decision reflects growing concerns about inflation and global economic instability.\n\nThis monetary policy shift comes amid complex global economic conditions, including energy market transformations and ongoing geopolitical tensions. Financial markets are watching closely for potential wider implications of Japan's aggressive monetary stance.",
         "sources": [
           {
-            "title": "EU officially launches Ukraine and Moldova accession process",
-            "url": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss",
+            "title": "Japan raises interest rate to highest since 1995",
+            "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
+            "url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Hungarian MPs approve PM limits to block potential return of Orban",
-            "url": "https://www.aljazeera.com/news/2026/6/15/hungarian-mps-approve-pm-limits-to-block-potential-return-of-orban?traffic_source=rss",
+            "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+            "url": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
             "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "EU, Ukraine start formal accession talks after Orban delay",
-            "url": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-world-4025-rdf",
-            "source": "DW News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Deadly Strikes Continue in Gaza and Lebanon",
-        "body": "Israeli military operations in Gaza and Lebanon have resulted in further civilian casualties. A 7-year-old child mourned the loss of his father and brother in an Israeli strike on Gaza - a tragic symbol of the ongoing conflict.\n\nIn a separate incident, an Al Jazeera journalist was hit during a strike in Lebanon. Netanyahu has stated that Israel will not withdraw from occupied Lebanese territories - signaling continued tension in the region.",
+        "headline": "World Cup Tensions Flare: Iran-New Zealand Match Sparks Protests",
+        "body": "A politically charged World Cup match between Iran and New Zealand ended in a 2-2 draw - amid significant external tensions. Iranian-American protesters demonstrated against the Iranian national team, highlighting ongoing geopolitical and cultural conflicts.\n\nThe match symbolized broader international dynamics, with sports becoming a platform for political expression. FIFA continues to navigate complex global narratives surrounding international competitions.",
         "sources": [
           {
-            "title": "Journalist hit by Israeli strike while reporting in Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+            "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match",
+            "url": "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+            "title": "Iranian-Americans protest against Iran team at World Cup",
+            "url": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
+            "url": "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Netanyahu says Israel won’t leave occupied land in Lebanon",
-            "url": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
+            "title": "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
+            "url": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -250,9 +250,27 @@
     ],
     "ai": [
       {
-        "headline": "AI Regulation Heats Up as Anthropic Faces White House Showdown",
-        "body": "The US government's conflict with Anthropic has escalated beyond a simple model ban. Deeper tensions are emerging around AI safety and sovereign technology development. The dispute highlights growing friction between tech innovation and federal oversight - with potential global implications for AI governance.",
+        "headline": "AI Tensions Rise: Anthropic Battles White House Over Claude Model",
+        "body": "The US Department of Justice has escalated its confrontation with Anthropic over the Claude Mythos 5 AI model. DOJ lawyers argue the technology is crucial for national security - a claim that directly challenges Anthropic's resistance to export controls and potential model restrictions.\n\nThe dispute highlights growing government intervention in AI development. Anthropic remains defiant, pushing back against what it sees as overreaching regulatory attempts to limit its advanced language model. The conflict signals deeper tensions between tech innovation and national security concerns.",
         "sources": [
+          {
+            "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+            "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+            "source": "Wired",
+            "lean": null
+          },
+          {
+            "title": "Inside the fight over Claude Mythos 5",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+            "source": "The Verge",
+            "lean": null
+          },
+          {
+            "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+            "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+            "source": "Wired",
+            "lean": null
+          },
           {
             "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
             "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
@@ -264,18 +282,12 @@
             "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
             "source": "The Verge",
             "lean": null
-          },
-          {
-            "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-            "source": "The Verge",
-            "lean": null
           }
         ]
       },
       {
-        "headline": "Meta Reshuffles AI Strategy Amid Internal Turmoil",
-        "body": "Meta's AI reorganization has sparked internal criticism, with CTO Andrew Bosworth admitting the process was deeply flawed. The company is simultaneously launching new AI search features across Facebook - pulling data from public posts to power its emerging conversational tools. These moves signal Meta's aggressive push to remain competitive in the rapidly evolving AI landscape.",
+        "headline": "Meta Expands AI Search - Public Data Fuels New Facebook Feature",
+        "body": "Meta launched a new AI-powered search mode on Facebook that aggregates information from public posts across its platforms. The feature represents a significant expansion of Meta's AI integration into core social media services.\n\nMeta CTO Andrew Bosworth acknowledged internal challenges with the AI reorganization, calling the process atrocious. The new search tool pulls from public information - a move that could raise privacy concerns while demonstrating Meta's aggressive AI strategy.",
         "sources": [
           {
             "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
@@ -298,17 +310,23 @@
         ]
       },
       {
-        "headline": "Tech Exodus Continues with Caribbean Migration of Libertarian Entrepreneurs",
-        "body": "A new wave of technology professionals is relocating to Caribbean nations - seeking regulatory freedom and alternative economic environments. This trend reflects growing tensions between traditional tech hubs and emerging decentralized communities. Entrepreneurs are voting with their feet - challenging established tech ecosystem models.",
+        "headline": "Tech Giants Prepare for AI-Driven Economic Transformation",
+        "body": "Major tech companies are positioning themselves for potential massive economic shifts driven by artificial intelligence. Nvidia seeks to raise $25 billion in its first bond deal since 2021 - a move signaling massive investment in AI infrastructure.\n\nThe technology landscape continues to evolve rapidly. Experts warn that humanity may not be prepared for the coming intelligence explosion, suggesting profound economic and societal changes are on the horizon.",
         "sources": [
           {
-            "title": "Techno-libertarians are flocking to the Caribbean",
-            "url": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
+            "title": "Humanity isn't ready for the coming intelligence explosion",
+            "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
             "source": "Hacker News",
             "lean": null
           },
           {
-            "title": "The Dead Economy Theory",
+            "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+            "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Peopleless economy? Not technically impossible",
             "url": "https://gmalandrakis.com/writings/ad-economicum.html",
             "source": "Hacker News",
             "lean": null
@@ -318,103 +336,31 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Surges Past $65K on Geopolitical Calm and Bullish Signals",
-        "body": "Bitcoin prices rocketed past $65,000 Monday, buoyed by potential US-Iran diplomatic progress and growing market optimism. Technical charts suggest the cryptocurrency could hit $100,000 before October, according to analysts tracking key trend indicators.\n\nTraders remain cautiously optimistic. Coinbase CEO Brian Armstrong hinted the market may have bottomed at $60,000, while some analysts are calling this the start of a potential crypto spring.",
+        "headline": "Bitcoin ETFs Bleed Cash as Market Dynamics Shift",
+        "body": "Bitcoin-focused exchange traded funds experienced significant outflows on Monday, bucking the trend of other crypto investment vehicles. The CoinDesk report highlighted a stark contrast - while competing crypto ETFs saw inflows, Bitcoin ETFs faced substantial redemptions.\n\nThis development comes amid broader market volatility, with Bitcoin price movements responding to global financial signals. The Bank of Japan's recent interest rate hike triggered a modest Bitcoin price increase, underscoring the complex interplay between traditional financial markets and cryptocurrency valuation.",
         "sources": [
           {
-            "title": "Bitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Strategy’s $100M Buy Collide With Fed Week",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-and-crypto-stocks-surge",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "These Bitcoin charts show how BTC price could hit $100K before October",
-            "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Price Claws Back From the Brink as Iran Deal, Saylor, and Armstrong Signal a Turning Tide",
-            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-claws-back-to-65000",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish",
-            "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
+            "title": "Live markets: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
+            "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
-            "url": "https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
-            "url": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
-            "source": "Decrypt",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Michael Saylor's Strategy Continues Aggressive Bitcoin Acquisition",
-        "body": "Strategy, led by Michael Saylor, purchased another 1,587 bitcoins for $100 million Monday - pushing its total holdings to 846,842 BTC. The move underscores the company's continued commitment to bitcoin as a strategic asset.\n\nThe purchase drew criticism from Bitcoin Policy UK, which called Saylor's investment promotion dishonest. Despite the pushback, Strategy supporters remain confident in their long-term investment approach.",
-        "sources": [
-          {
-            "title": "Bitcoin Policy UK CEO calls Michael Saylor’s STRC investment promotion ‘dishonest’",
-            "url": "https://www.theblock.co/post/404785/bitcoin-policy-uk-ceo-calls-michael-saylors-strc-investment-promotion-dishonest?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
-            "url": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-            "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "Strategy (MSTR) Spends $100 Million on 1,587 Bitcoin, Lifts Total Holdings to 846,842 BTC",
-            "url": "https://bitcoinmagazine.com/news/strategy-spends-100-million-1587-bitcoin",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "‘Still adding dots’: Michael Saylor’s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
-            "url": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million",
-            "url": "https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc",
+            "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
+            "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
             "source": "CoinDesk",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Infrastructure Matures with Major Corporate Milestones",
-        "body": "BitGo achieved a significant milestone by joining the Fortune 500 with $16.2 billion in revenue, signaling growing institutional legitimacy for bitcoin infrastructure. Kraken simultaneously launched CFTC-regulated bitcoin perpetual futures for US traders.\n\nThe developments highlight bitcoin's increasing integration into mainstream financial systems. Nvidia's $20 billion debt boom further reinforces the sector's technological pivot, particularly around AI-driven mining strategies.",
+        "headline": "Bitcoin Mining Converges with AI as Nvidia Debt Signals Pivot",
+        "body": "Bitcoin miners are rapidly repositioning toward artificial intelligence infrastructure, with Nvidia's $20 billion debt financing accelerating the technological transformation. The strategic shift suggests mining operations are seeking diversification beyond traditional cryptocurrency processing.\n\nThis technological realignment reflects growing synergies between blockchain computational power and AI development. Bitcoin miners are leveraging their sophisticated hardware and energy infrastructure to explore new revenue streams in the rapidly evolving tech landscape.",
         "sources": [
           {
             "title": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
             "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
             "source": "CoinTelegraph",
-            "lean": null
-          },
-          {
-            "title": "BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure",
-            "url": "https://bitcoinmagazine.com/business/bitgo-joins-fortune-500-with-16-2b-revenue-marking-milestone-for-regulated-bitcoin-custody",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Kraken Launches CFTC-Regulated Bitcoin and Crypto Perpetual Futures for U.S. Traders",
-            "url": "https://bitcoinmagazine.com/news/kraken-launches-cftc-regulated-bitcoin",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -431,13 +377,13 @@
     "health": {
       "category": "Posture",
       "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's loading points every 20 minutes to prevent static muscle tension",
-      "tip": "Use painter's tape on your floor to mark ideal foot placement and alternate between standing and sitting positions"
+      "description": "Implement micro-movements and strategic desk setup to prevent chronic musculoskeletal strain during long work sessions",
+      "tip": "Position external monitor at exact eye level and use a standing desk converter for hourly position changes"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy nature's efficient structural and systemic solutions",
-      "why": "Reveals how complex natural systems can inspire revolutionary approaches to sustainable city planning and infrastructure"
+      "topic": "Emergence Theory in Complex Systems",
+      "description": "A scientific framework exploring how intricate patterns and behaviors spontaneously arise from simple interactions between components",
+      "why": "Understanding emergence provides profound insights into everything from ant colonies to human consciousness, revealing how complexity can emerge from simplicity"
     }
   }
 }
