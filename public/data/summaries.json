@@ -1,12 +1,48 @@
 {
-  "generatedAt": "2026-06-17T05:45:50.280Z",
+  "generatedAt": "2026-06-17T11:39:19.936Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Georgia Primaries Shake Up GOP - Trump's Influence Tested",
-        "body": "Georgia voters delivered mixed results in Tuesday's runoffs, challenging former President Trump's political sway. In the governor's race, Trump-backed candidate Burt Jones lost to billionaire Brian Kemp's preferred nominee. However, in the Senate primary, Trump-endorsed Mike Collins defeated the incumbent's pick to advance to the general election against Senator Jon Ossoff.\n\nThe outcomes signal ongoing tensions within the Republican Party. Collins' victory suggests Trump retains significant grassroots support, while Jones' defeat indicates potential fractures in the former president's endorsement power. National political strategists will closely analyze these results as indicators of Republican voter sentiment heading into the midterm elections.",
+        "headline": "Trump Halts DNI Nominee Hearing, Sparks Senate Showdown",
+        "body": "President Trump has abruptly cancelled the Senate confirmation hearing for Jay Clayton as Director of National Intelligence. The move comes amid a complex political standoff, with Trump insisting the hearing cannot proceed until a new US attorney is confirmed.\n\nDemocrats view the delay as a potential obstruction tactic, while Republicans argue the president has legitimate procedural concerns. The temporary DNI, William Pulte, remains in place - a situation that has heightened tensions between the White House and Senate leadership.",
         "sources": [
+          {
+            "title": "President Trump calls to delay nomination of intel pick Jay Clayton",
+            "url": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+            "source": "NPR",
+            "lean": "left"
+          },
+          {
+            "title": "Trump says Senate hearing on DNI nominee is cancelled until US attorney replacement confirmed",
+            "url": "https://www.foxnews.com/politics/trump-jay-clayton-dni-hearing-delayed",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
+            "title": "Trump says intelligence chief pick’s hearing is off and Pulte will remain for now",
+            "url": "https://www.washingtonpost.com/politics/2026/06/17/trump-says-pulte-remain-acting-dni-cancels-clayton-hearing/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "Trump's pick for director of national security faces Senate confirmation hearing",
+            "url": "https://www.npr.org/2026/06/17/nx-s1-5860704/trumps-pick-for-director-of-national-security-faces-senate-confirmation-hearing",
+            "source": "NPR",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "Primaries Test Trump's Political Influence in Key States",
+        "body": "Tuesday's primary elections in Georgia, Alabama, and Oklahoma provided a mixed scorecard for Trump's political endorsement power. While the president secured some victories - including Barry Moore's Alabama Senate nomination - he also faced notable setbacks.\n\nIn Georgia, a billionaire-backed candidate delivered a rare defeat to Trump's preferred nominee, signaling potential fractures in the former president's political machine. The results offer an early glimpse into midterm election dynamics and Trump's continuing influence within the Republican Party.",
+        "sources": [
+          {
+            "title": "Trump wins two, loses one: Georgia billionaire delivers rare blow to endorsement machine",
+            "url": "https://www.foxnews.com/politics/trump-wins-two-loses-one-georgia-billionaire-delivers-rare-blow-endorsement-machine",
+            "source": "Fox News",
+            "lean": "right"
+          },
           {
             "title": "Trump falls short in Georgia governor’s race: 5 takeaways from Tuesday’s primaries",
             "url": "https://thehill.com/homenews/campaign/5927330-trump-georgia-alabama-dc-oklahoma-elections-takeaways/",
@@ -14,186 +50,156 @@
             "lean": "center"
           },
           {
-            "title": "Jones loses Georgia GOP governor’s runoff to Jackson in major blow to Trump",
-            "url": "https://thehill.com/homenews/campaign/5924499-jackson-wins-georgia-governor-runoff/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Georgia results: Collins will face Sen. Ossoff; Trump's pick loses governor runoff",
-            "url": "https://www.npr.org/2026/06/16/nx-s1-5860795/georgia-election-senate-governor-results-trump",
-            "source": "NPR",
-            "lean": "left"
-          },
-          {
-            "title": "Trump-endorsed Collins beats Kemp’s pick to take on Ossoff for Georgia Senate",
-            "url": "https://thehill.com/homenews/campaign/5924506-collins-georgia-senate-gop-runoff/",
-            "source": "The Hill",
-            "lean": "center"
-          }
-        ]
-      },
-      {
-        "headline": "Alabama and Oklahoma Primaries Boost Trump's Endorsement Record",
-        "body": "Trump scored multiple primary victories in Alabama and Oklahoma, reinforcing his influence in Republican nomination contests. In Alabama, Barry Moore captured the GOP Senate nomination in a runoff, while in Oklahoma, Trump-backed candidates advanced in several key races.\n\nThe results demonstrate the former president's continued ability to shape Republican primary outcomes. Despite some recent setbacks, Trump's endorsement remains a powerful force in conservative electoral politics. Republican candidates continue to seek and highlight his support as a potential path to victory in competitive primaries.",
-        "sources": [
-          {
             "title": "Trump notches another endorsement win as Barry Moore captures Alabama GOP Senate nomination in runoff",
             "url": "https://www.foxnews.com/politics/trump-notches-another-endorsement-win-barry-moore-captures-alabama-republican-senate-nomination-runoff",
             "source": "Fox News",
             "lean": "right"
           },
           {
-            "title": "Trump notches primary win with Moore victory in Alabama Republican Senate runoff",
-            "url": "https://thehill.com/homenews/campaign/5920237-moore-alabama-senate-runoff/",
+            "title": "Pastors for Trump founder advances to runoff in Oklahoma primary for Hern’s seat",
+            "url": "https://thehill.com/homenews/campaign/5924490-pastors-for-trump-founder-advances-to-runoff-in-oklahoma-primary-for-herns-seat/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump-backed 'McCongressman' wins Oklahoma Senate primary, vows push for stalled SAVE Act",
-            "url": "https://www.foxnews.com/politics/trump-backed-mccongressman-wins-oklahoma-senate-primary-vows-push-stalled-save-act",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Hern wins GOP primary for Mullin’s Senate seat in Oklahoma",
-            "url": "https://thehill.com/homenews/campaign/5924483-hern-oklahoma-senate-republican-primary/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "Trump-backed candidate survives grueling runoff, advances to high-stakes Senate race",
-            "url": "https://www.foxnews.com/politics/trump-backed-mike-collins-survives-grueling-runoff-advances-high-stakes-senate-race",
-            "source": "Fox News",
-            "lean": "right"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Hanson Calls for Monocultural Australia at Press Club",
-        "body": "One Nation leader Pauline Hanson sparked controversy at the National Press Club by arguing Australia must become a monocultural society. Her speech drew sharp criticism and renewed debates about multiculturalism and national identity.\n\nHanson became visibly agitated when questioned about her statements, threatening to ban a journalist who asked about her daughter. The address highlighted ongoing tensions within Australian political discourse around cultural diversity and national belonging.",
+        "headline": "Hanson Sparks Controversy with Monocultural Vision at Press Club",
+        "body": "One Nation leader Pauline Hanson delivered a provocative National Press Club address, pledging to end multiculturalism and reshape Australia's demographic landscape. Her speech was interrupted by a GetUp activist banner, which police are now investigating.\n\nHanson's vision for a 'monocultural' Australia drew sharp criticism from multicultural advocates while energizing her political base. The incident highlights deepening political divisions, with One Nation positioning itself as a disruptive force in Australian politics.",
         "sources": [
           {
-            "title": "Australia news live: ‘Honestly you never give up’ – Pauline Hanson again threatens to ban Guardian after question about daughter at National Press Club",
+            "title": "AFP investigates banner stunt during Pauline Hanson’s National Press Club speech",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/17/pauline-hanson-one-nation-national-press-club-speech-banner-stunt-police-investigation-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Pauline Hanson makes clear what a One Nation government would be like – it’s an ugly picture",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/17/pauline-hanson-press-club-speech-one-nation-government-ugly-picture-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          },
+          {
+            "title": "Press club refers banner incident to federal police – as it happened",
             "url": "https://www.theguardian.com/australia-news/live/2026/jun/17/australia-news-live-victoria-marines-weapons-pauline-hanson-one-nation-national-press-club-labor-childcare-medicare-anthony-albanese-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Pauline Hanson says Australia must be ‘monocultural’ in Press Club address – video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/jun/17/pauline-hanson-says-australia-must-be-monocultural-press-club-address-video-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          },
-          {
-            "title": "Pauline Hanson says Australia ‘must be monocultural’ in National Press Club speech",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/17/pauline-hanson-national-press-club-address-speech-australia-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
-          }
-        ]
-      },
-      {
-        "headline": "Mental Health System Failures Exposed After Child Tragedy",
-        "body": "Western Australia faces intense scrutiny over its mental health infrastructure after a devastating incident involving a teenager in acute psychosis. A mother who experienced the tragedy spoke publicly about her lack of understanding of mental health systems before the event.\n\nThe case has prompted calls for a comprehensive review of mental health services. Advocates argue that current support mechanisms are inadequate and fail to protect both patients and potential victims of untreated severe mental illness.",
-        "sources": [
-          {
-            "title": "'No credible plan' for mental health overhaul promised after teenagers death",
-            "url": "https://www.abc.net.au/news/2026-06-17/wa-mental-health-overhaul-promised-after-death-of-girl-stalls/106808040",
+            "title": "Hanson pledges to end multiculturalism as police investigate GetUp stunt",
+            "url": "https://www.abc.net.au/news/2026-06-17/pauline-hanson-press-club-address-banner-stunt-one-nation/106808570",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Woman says she ‘didn’t understand mental health’ before daughter experiencing acute psychosis killed another child",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/17/woman-says-she-didnt-understand-mental-health-before-daughter-in-acute-psychosis-killed-another-child-ntwnfb",
-            "source": "Guardian AU",
-            "lean": "left"
+            "title": "Hanson wasn't there for Press Club. She was there for Fight Club",
+            "url": "https://www.abc.net.au/news/2026-06-17/pauline-hanson-national-press-club-fight-club/106808202",
+            "source": "ABC Australia",
+            "lean": "center-left"
           }
         ]
       },
       {
-        "headline": "ACT Government Challenged on Indigenous Recognition Agreement",
-        "body": "The Ngambri people have accused the ACT government of failing to uphold a recognition agreement, raising significant questions about Indigenous consultation and treaty obligations. This dispute highlights ongoing tensions between Indigenous communities and local government bodies.\n\nThe challenge underscores broader national conversations about meaningful reconciliation and the practical implementation of Indigenous rights and recognition.",
+        "headline": "Tasmanian Premier Faces Parliamentary Censure amid Political Turmoil",
+        "body": "Tasmania's parliament passed a censure motion against Premier Jeremy Rockliff, signaling significant political pressure on the state government. The motion reflects growing tensions and potential instability in the state's political leadership.\n\nThe censure represents a serious rebuke and could potentially impact Rockliff's political future. Parliamentary censure motions are rare and typically indicate substantial concerns about a leader's conduct or decision-making.",
         "sources": [
           {
-            "title": "Ngambri people say ACT government has not upheld recognition agreement",
-            "url": "https://www.abc.net.au/news/2026-06-17/ngambri-people-say-act-government-not-upheld-agreement/106806976",
+            "title": "Censure motion against Tasmanian premier passes parliament",
+            "url": "https://www.abc.net.au/news/2026-06-17/censure-motion-against-rockliff-passes-parliament/106811062",
             "source": "ABC Australia",
             "lean": "center-left"
+          }
+        ]
+      },
+      {
+        "headline": "One Nation Proposes Radical Worker Entitlement Cuts to Aid Businesses",
+        "body": "One Nation has proposed controversial workplace reforms that would reduce worker entitlements to support struggling small businesses. The policy suggests significant changes to labor protections that could dramatically reshape employment conditions.\n\nThe proposal highlights the party's pro-business stance and willingness to challenge existing workplace regulations. It is likely to generate intense debate about the balance between business sustainability and worker rights.",
+        "sources": [
+          {
+            "title": "One Nation prepared to cut worker entitlements to shore up struggling small businesses",
+            "url": "https://www.abc.net.au/news/2026-06-17/one-nation-cut-worker-entitlements-joyce-business/106810648",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "GetUp! did One Nation a favour (again)",
+            "url": "https://www.spectator.com.au/2026/06/getup-did-one-nation-a-favour-again/",
+            "source": "Spectator AU",
+            "lean": "right"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "Messi and Haaland Dominate World Cup Opening Matches",
-        "body": "Football legends Lionel Messi and Erling Haaland delivered stunning performances in the World Cup's opening matches. Messi scored a hat-trick, leading Argentina to a decisive victory over Algeria and cementing his status as the tournament's most decorated player. Norway's Haaland matched the excitement, netting two goals in a commanding 4-1 win against Iraq.\n\nThe matches showcased the continued brilliance of two generational talents. Messi's performance further solidified his record sixth World Cup appearance - a milestone that underscores his enduring impact on international football.",
+        "headline": "Global Tensions Rise: Israel Strikes Lebanon, Russia Rattles UK",
+        "body": "Israel launched fresh airstrikes on Lebanon despite criticism from former US President Trump - escalating regional tensions. The strikes threaten potential diplomatic negotiations and regional stability. Meanwhile, Russian warships raised international alarm by firing warning shots near a British yacht in the English Channel - a provocative move that UK opposition leader Keir Starmer called reckless.",
         "sources": [
           {
-            "title": "Lionel Messi rewrites history books at record sixth World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/lionel-messi-rewrites-history-books-at-record-sixth-world-cup?traffic_source=rss",
+            "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+            "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
+            "url": "https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Russian drone strikes residential building in Ukraine",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+            "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Which France and World Cup records did Mbappe break against Senegal?",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/which-france-and-world-cup-records-did-mbappe-break-against-senegal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Argentina vs Algeria: LIVE – World Cup 2026; Messi hat-trick",
-            "url": "https://www.aljazeera.com/sports/liveblog/2026/6/16/argentina-vs-algeria-live-world-cup-2026?traffic_source=rss",
+            "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+            "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Tensions Escalate in Ukraine and Middle East Conflict Zones",
-        "body": "Russian drone strikes hit a residential building in Ukraine, marking another violent episode in the ongoing conflict. Meanwhile, the Middle East remains volatile - with Israel claiming control of Hebron and cross-border tensions in southern Lebanon drawing international attention.\n\nThe G7 summit has placed Iran and Ukraine at the center of diplomatic discussions. Geopolitical pressures continue to mount, with multiple regions experiencing heightened military and political tensions.",
+        "headline": "G7 Tightens Ukraine Support as Russia Faces Potential Fuel Crisis",
+        "body": "G7 leaders are preparing to boost Ukraine's air defenses and intensify sanctions against Russia. The geopolitical pressure comes as analysts suggest Russia may be heading toward a significant fuel crisis. These developments signal continued Western commitment to supporting Ukraine and isolating Russian economic and military capabilities.",
         "sources": [
           {
-            "title": "Russian drone strikes residential building in Ukraine",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
+            "title": "Is Russia heading for a fuel crisis?",
+            "url": "https://www.dw.com/en/is-russia-heading-for-a-fuel-crisis/a-77579542?maca=en-rss-en-world-4025-rdf",
+            "source": "DW News",
+            "lean": null
+          },
+          {
+            "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+            "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "World Cup Kicks Off with Surprises and Emerging Football Nations",
+        "body": "Pakistan celebrated its first World Cup moment through footballer Zidane Iqbal - marking a breakthrough for the national team. In another match, Austria defeated World Cup debutants Jordan 3-1, with Marko Arnautovic scoring a penalty. The tournament promises excitement and potential upsets as emerging football nations make their mark.",
+        "sources": [
+          {
+            "title": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
+            "url": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Smotrich says Israel taking control of Hebron",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss",
+            "title": "World Cup predictions: Portugal vs DR Congo, England vs Croatia and more",
+            "url": "https://www.aljazeera.com/news/2026/6/17/world-cup-predictions-portugal-vs-dr-congo-england-vs-croatia-and-more?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "UN reports decline in cross-border fire in southern Lebanon",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Iran, Ukraine dominate G7 summit",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
+            "title": "Arnautovic scores penalty as Austria beat World Cup debutants Jordan 3-1",
+            "url": "https://www.aljazeera.com/sports/2026/6/17/austria-vs-jordan-fifa-world-cup-2026-marko-arnautovic-goal-penalty-football?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -202,43 +208,43 @@
     ],
     "ai": [
       {
-        "headline": "AI and Tech Giants Clash in Political and Market Battles",
-        "body": "Anthropic finds itself in a complex standoff with the Trump administration - a conflict that may paradoxically boost its market position. Sales data suggests the confrontation could generate unexpected positive momentum for the AI company.\n\nSimultaneously, xAI faces a legal challenge over gas turbine pollution, with the Trump administration attempting to block a Clean Air Act lawsuit. These tensions highlight the increasingly fraught relationship between emerging tech companies and political power structures.",
+        "headline": "AI Shopping and Robotics Push Beyond Human Expectations",
+        "body": "Pinterest launched an experimental AI shopping app called Ask Pinterest, signaling tech giants' continued push into personalized commerce. The app promises to transform how consumers discover and interact with products through intelligent recommendation systems.\n\nIn a parallel development, robotics researchers are challenging traditional humanoid design. The Verge reports that next-generation robots might abandon human-like forms entirely - prioritizing functional efficiency over anthropomorphic mimicry. These innovations suggest AI is rapidly reshaping consumer technology and mechanical engineering.",
         "sources": [
           {
-            "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-            "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+            "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+            "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-            "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-            "source": "Ars Technica",
+            "title": "The next humanoid robot might not look human at all",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+            "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-            "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-            "source": "Ars Technica",
+            "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+            "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "AI Transforms Government and Consumer Interactions",
-        "body": "The Pentagon has begun using AI to draft congressional reports - a move signaling broader integration of artificial intelligence in government operations. This development comes as consumer attitudes toward AI remain mixed.\n\nA recent survey revealed that 60% of US consumers find AI references in brand messaging unappealing. The disconnect underscores the ongoing challenge of effectively communicating AI's value to the public.",
+        "headline": "U.S. Science Policy Fractures Under Political and AI Pressures",
+        "body": "The scientific establishment faces mounting challenges as political interference and technological disruption strain traditional research frameworks. A Scientific American report highlights deep systemic tensions in America's scientific infrastructure - with AI and political polarization accelerating institutional breakdown.\n\nGovernment agencies are already adapting. The Pentagon recently boasted about using AI to generate congressional reports - a move that underscores both technological potential and potential ethical risks in automated policymaking.",
         "sources": [
+          {
+            "title": "U.S. Science Is in Chaos",
+            "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+            "source": "Hacker News",
+            "lean": null
+          },
           {
             "title": "Pentagon boasts of using AI to write reports mandated by Congress",
             "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
             "source": "Ars Technica",
-            "lean": null
-          },
-          {
-            "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-            "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-            "source": "TechCrunch",
             "lean": null
           },
           {
@@ -250,8 +256,8 @@
         ]
       },
       {
-        "headline": "Tech Landscape Shifts with New Software and Mobile Releases",
-        "body": "Google launched Android 17 with expanded Gemini AI features and enhanced multitasking tools. The release signals continued investment in AI-powered mobile experiences.\n\nIn another significant update, Wolfram released version 15 of its Language and Mathematica, incorporating a built-in AI assistant and introducing new core functionality. These developments reflect the accelerating integration of AI across software platforms.",
+        "headline": "Tech Platforms Expand AI Capabilities Across Multiple Domains",
+        "body": "Major technology platforms are aggressively integrating AI across product lines. Google's Android 17 launch introduces enhanced multitasking tools powered by Gemini AI, while Pinterest experiments with AI-driven shopping experiences.\n\nOpen-source model development continues at a rapid pace. The GLM-5.2 model has emerged as a leading open-weights system, demonstrating ongoing innovation in accessible artificial intelligence technologies.",
         "sources": [
           {
             "title": "Android 17 starts hitting Pixel phones and watches today",
@@ -266,8 +272,20 @@
             "lean": null
           },
           {
-            "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-            "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+            "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+            "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+            "source": "TechCrunch",
+            "lean": null
+          },
+          {
+            "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+            "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+            "source": "Hacker News",
+            "lean": null
+          },
+          {
+            "title": "GLM 5.2 Performance Benchmarks",
+            "url": "https://artificialanalysis.ai/models/glm-5-2",
             "source": "Hacker News",
             "lean": null
           }
@@ -276,55 +294,31 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Signals Market Bottom as Holders Absorb 125,000 BTC",
-        "body": "Bitcoin holders have shown strong conviction by absorbing 125,000 BTC in June - a potential indicator of market stabilization. Key risk metrics are approaching a low-risk zone, suggesting a possible price rebound is on the horizon.\n\nThe market absorption signals investor confidence despite recent price volatility. Analysts see this as a potential turning point, with long-term holders demonstrating resilience in the face of market uncertainty.",
+        "headline": "Bitcoin Traders Brace for Fed Meeting Volatility",
+        "body": "Bitcoin markets sit on edge ahead of the Federal Reserve's latest policy announcement. Analysts warn of potential bearish reactions if the Fed signals tightening monetary policy. The cryptocurrency is currently hovering around the $64,000 level - a critical support zone that traders view as essential for maintaining current price momentum.\n\nMarket sentiment remains cautious. Technical analysts suggest the $60,000-$70,000 range could establish meaningful price floors, but the FOMC meeting could trigger significant short-term price movements. Investors are closely watching for any signals that might impact Bitcoin's valuation.",
         "sources": [
           {
-            "title": "Live markets: A bitcoin bottom signal flashed as holders absorbed 125,000 BTC in June",
-            "url": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
+            "title": "Three Fed signals that could make bitcoin pop",
+            "url": "https://www.coindesk.com/daybook-us/2026/06/17/three-fed-signals-that-could-make-bitcoin-pop",
             "source": "CoinDesk",
             "lean": null
           },
           {
-            "title": "VanEck: Bitcoin Miners Face $50B Funding Gap as AI Pivot Separates Winners From Losers",
-            "url": "https://bitcoinmagazine.com/news/vaneck-bitcoin-miners-face-50b-funding-gap",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-            "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+            "title": "Bitcoin trader warns of 'bearish reaction' to FOMC with $64K now essential",
+            "url": "https://cointelegraph.com/markets/bitcoin-trader-warns-of-bearish-reaction-to-fomc-with-64k-now-essential?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
             "source": "CoinTelegraph",
             "lean": null
           }
         ]
       },
       {
-        "headline": "Bitcoin Miners Confront $50 Billion Funding Challenge in AI Era",
-        "body": "Bitcoin mining companies face a massive $50 billion funding gap as they attempt to pivot toward AI-driven technologies. VanEck research highlights the stark economic challenges miners must navigate in an increasingly competitive landscape.\n\nThe pivot is separating industry winners from losers. Miners must now balance traditional cryptocurrency mining with emerging AI infrastructure demands - a complex technological and financial balancing act that will reshape the sector.",
+        "headline": "Bitcoin's Value Reassessed Through Monetary Expansion Lens",
+        "body": "A new analytical approach is challenging traditional Bitcoin price charts by adjusting for monetary expansion. Researchers are comparing Bitcoin's performance against the S&P 500 through a lens that accounts for currency devaluation and central bank money printing.\n\nThis perspective offers a nuanced view of Bitcoin's real economic value beyond nominal price movements. By factoring in broader monetary dynamics, the analysis provides investors with a more comprehensive understanding of the cryptocurrency's long-term performance and potential as a store of value.",
         "sources": [
           {
-            "title": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
-            "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
+            "title": "Forget the price charts. Here's how bitcoin and S&P 500 look like when adjusted for the money printer",
+            "url": "https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer",
             "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "VanEck: Bitcoin Miners Face $50B Funding Gap as AI Pivot Separates Winners From Losers",
-            "url": "https://bitcoinmagazine.com/news/vaneck-bitcoin-miners-face-50b-funding-gap",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Bitcoin Surges Past $67K After US-Iran Diplomatic Breakthrough",
-        "body": "Bitcoin prices rocketed above $67,000 following a surprise diplomatic resolution between the United States and Iran. The geopolitical development triggered significant market movement, though some analysts caution about potential bull trap scenarios.\n\nThe price surge reflects cryptocurrency's growing sensitivity to global political events. Investors are watching closely to see whether this breakthrough represents a sustained trend or a temporary market fluctuation.",
-        "sources": [
-          {
-            "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
-            "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-            "source": "CoinTelegraph",
             "lean": null
           }
         ]
@@ -334,20 +328,20 @@
   "suggestions": {
     "food": {
       "name": "Lavender Honey Roasted Chicken",
-      "cuisine": "French-Provençal Fusion",
-      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex aromatic main course",
-      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid soapy flavor"
+      "cuisine": "French-Inspired Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and sweet local honey, creating a complex and aromatic main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid a soapy flavor"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body's loading points every 20 minutes to prevent static muscle strain",
-      "tip": "Use painter's tape on your floor to mark alternate standing and sitting positions that naturally encourage postural variation"
+      "name": "Desk Spine Reset",
+      "description": "A targeted micro-movement sequence that realigns spine curvature and releases tension accumulated from prolonged sitting",
+      "tip": "Set a silent phone alarm every 90 minutes to trigger a 2-minute standing stretch and spinal reset"
     },
     "learn": {
-      "topic": "Biomimicry in Urban Design",
-      "description": "Exploring how natural ecosystem principles can revolutionize city infrastructure, from self-cooling buildings to water management systems",
-      "why": "This emerging field offers radical solutions to urban sustainability challenges by directly translating nature's 3.8 billion years of evolutionary problem-solving"
+      "topic": "The Voynich Manuscript",
+      "description": "A mysterious 15th-century codex written in an unknown or coded language, containing bizarre illustrations of plants, astronomical diagrams, and unidentified human figures",
+      "why": "It remains one of history's most fascinating unsolved cryptographic puzzles, challenging linguists, cryptographers, and historians for centuries"
     }
   }
 }
