@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-06-17T22:38:54.631Z",
+  "generatedAt": "2026-06-18T05:42:27.656Z",
   "model": "anthropic/claude-3.5-haiku",
   "summaries": {
     "us-politics": [
       {
-        "headline": "Trump Touts Iran Deal, Sparking Fierce Political Debate",
-        "body": "President Trump defended a preliminary deal with Iran at the G-7 summit, drawing sharp criticism from conservative hawks and skepticism from both parties. The agreement aims to end ongoing tensions, but faces significant pushback from Republican lawmakers who argue it gives too much ground to Iran.\n\nPolls show voters remain deeply divided. A Fox News survey indicates most Americans doubt the deal will prevent Iran from developing nuclear weapons. Meanwhile, the Pope has welcomed the potential agreement, hoping it will strengthen trust and regional stability.",
+        "headline": "Trump Brokers Iran Deal, Faces Criticism from Hawks",
+        "body": "President Trump signed a memorandum of understanding with Iran at the G-7 summit, aiming to end ongoing tensions. The deal has drawn mixed reactions - with some praising potential diplomatic progress and others warning about potential risks to regional security.\n\nConservative critics argue the agreement could give Iran too much leeway, while Biden administration officials suggest the MOU is preferable to alternative scenarios. Polls indicate voter skepticism about the deal's ability to prevent nuclear development.",
         "sources": [
+          {
+            "title": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+            "url": "https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/",
+            "source": "Washington Post",
+            "lean": "center-left"
+          },
+          {
+            "title": "The Memo: Hawks lament ‘disaster’ on Iran as Trump strains to sell deal",
+            "url": "https://thehill.com/homenews/administration/5929372-trump-defends-iran-missile-rights/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Trump signs MOU with Iran ending war while at Versailles with Macron",
+            "url": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Vance rejects claims Trump-Iran deal echoes Obama-era logic as hawks raise alarm",
             "url": "https://www.foxnews.com/politics/vance-rejects-claims-trump-iran-deal-uses-obama-era-logic-hawks-raise-alarm",
@@ -14,8 +32,20 @@
             "lean": "right"
           },
           {
+            "title": "Pope welcomes US-Iran deal, hopes for strengthened ‘trust, security, and stability’",
+            "url": "https://thehill.com/policy/international/5929326-pope-leo-xiv-welcomes-us-iran-deal/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Fox News Poll: Voters doubt new agreement will stop Iran from developing nukes",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-doubt-new-agreement-stop-iran-developing-nukes",
+            "source": "Fox News",
+            "lean": "right"
+          },
+          {
             "title": "'Trump should renege': Iran deal faces backlash from conservative allies",
-            "url": "https://www.foxnews.com/politics/trump-renege-iran-deal-faces-backlash-conservative-allies-",
+            "url": "https://www.foxnews.com/politics/trump-renege-iran-deal-faces-backlash-conservative-allies",
             "source": "Fox News",
             "lean": "right"
           },
@@ -30,200 +60,170 @@
             "url": "https://thehill.com/policy/international/5929232-biden-envoy-iran-mou/",
             "source": "The Hill",
             "lean": "center"
-          },
-          {
-            "title": "Trump's Iran deal 'giving a lot more to get a lot less' than Obama's, senator says",
-            "url": "https://www.foxnews.com/politics/trumps-iran-deal-giving-lot-more-get-lot-less-than-obamas-senator-says",
-            "source": "Fox News",
-            "lean": "right"
-          },
-          {
-            "title": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
-            "url": "https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/",
-            "source": "Washington Post",
-            "lean": "center-left"
-          },
-          {
-            "title": "Cruz: ‘Giving billions of dollars to lunatics’ in Iran ‘is not a good idea’",
-            "url": "https://thehill.com/homenews/5929040-cruz-iran-deal/",
-            "source": "The Hill",
-            "lean": "center"
           }
         ]
       },
       {
-        "headline": "Economic Discontent Rises as Voters Express Frustration",
-        "body": "A new Fox News poll reveals widespread economic pessimism, with most Americans rating the current economic conditions negatively. Notably, nearly half of Republicans share this critical view - a potentially significant warning sign for the administration.\n\nThe Federal Reserve has begun shifting its approach under new leadership, moving away from previous forward guidance strategies. These economic indicators suggest growing voter anxiety about financial stability and future prospects.",
+        "headline": "Americans Report Declining Patriotism and Civil Liberties Concerns",
+        "body": "A new survey reveals growing unease among Americans about national pride and personal freedoms. Fewer citizens report feeling proud of their country - a trend that crosses political demographics and suggests deeper societal tensions.\n\nRespondents expressed significant concerns about potential threats to civil liberties, indicating a complex landscape of political disillusionment. The poll results reflect ongoing debates about national identity and democratic principles in a polarized political environment.",
         "sources": [
+          {
+            "title": "Most believe civil liberties under threat: Survey",
+            "url": "https://thehill.com/blogs/blog-briefing-room/news/5929565-poll-rights-freedom-threat/",
+            "source": "The Hill",
+            "lean": "center"
+          },
+          {
+            "title": "Fewer in new poll say they’re proud of being American",
+            "url": "https://thehill.com/homenews/5929533-american-pride-decline-poll/",
+            "source": "The Hill",
+            "lean": "center"
+          },
           {
             "title": "Fox News Poll: Most rate the economy negatively, including half of Republicans",
             "url": "https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans",
             "source": "Fox News",
             "lean": "right"
-          },
-          {
-            "title": "Federal Reserve shifts away from forward guidance under new chief Kevin Warsh",
-            "url": "https://thehill.com/business/5929155-warsh-ends-fed-forecasts/",
-            "source": "The Hill",
-            "lean": "center"
-          },
-          {
-            "title": "What Wisconsin swing voters say about Trump, the Iran war and America at 250",
-            "url": "https://www.npr.org/2026/06/17/nx-s1-5861714/what-wisconsin-swing-voters-say-about-trump-the-iran-war-and-america-at-250",
-            "source": "NPR",
-            "lean": "left"
           }
         ]
       }
     ],
     "au-politics": [
       {
-        "headline": "Hanson Sparks Controversy with Monoculture Speech",
-        "body": "One Nation leader Pauline Hanson faced significant backlash after delivering a speech criticizing media diversity. Nationals senator David Littleproud suggested Hanson wants to selectively control journalist access - a move that has drawn sharp criticism from political opponents.\n\nThe controversy highlights ongoing tensions within conservative political circles about media representation and freedom of speech. Hanson's comments have reignited debates about multiculturalism and journalistic independence in Australian political discourse.",
+        "headline": "Albanese Offers Tax Relief After Budget Criticism",
+        "body": "Prime Minister Anthony Albanese announced new capital gains tax exemptions for small businesses on Thursday, responding to widespread criticism of the recent federal budget. The move aims to provide financial relief to smaller enterprises struggling with economic pressures.\n\nThe government's proposal offers what Guardian Australia described as 'generous' concessions, signaling a potential shift in economic strategy. Small business owners have been vocal about the challenges of the current economic landscape, and this intervention could provide some immediate support.",
         "sources": [
           {
-            "title": "Morning Mail: Hanson faces backlash over ‘monoculture’ speech, Trump reveals Iran deal details, Maroons thrash Blues",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/18/morning-mail-thursday-ntwnfb",
+            "title": "Albanese announces ‘generous’ capital gains tax exemptions for small businesses after budget backlash",
+            "url": "https://www.theguardian.com/australia-news/2026/jun/18/albanese-announces-generous-capital-gains-tax-exemptions-for-small-businesses-after-budget-backlash",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "ICAC Inquiry Probes Local Government Corruption Allegations",
+        "body": "The Independent Commission Against Corruption continues its investigation into Parramatta Council, with key evidence emerging from testimony by a Pink Ladies founding member. The inquiry has been characterized by intense questioning and potential revelations about local government practices.\n\nThe investigation highlights ongoing concerns about transparency and potential misconduct in municipal governance. Witnesses have been subjected to rigorous examination, with the ICAC seeking to uncover any systemic irregularities in council operations.",
+        "sources": [
+          {
+            "title": "Key concessions in ICAC's 'inquisition' of Pink Ladies founding member",
+            "url": "https://www.abc.net.au/news/2026-06-18/icac-evidence-parramatta-council-inquiry-wraps-gail-connolly/106813058",
+            "source": "ABC Australia",
+            "lean": "center-left"
+          },
+          {
+            "title": "Australia news live: press gallery ‘strongly objects’ to One Nation threats to ban journalist; migration arrivals sink lower than 2019",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
+          }
+        ]
+      },
+      {
+        "headline": "One Nation Threatens Press Freedom with Journalist Ban",
+        "body": "One Nation leader Pauline Hanson has sparked controversy by suggesting potential restrictions on journalists, drawing sharp criticism from the national press gallery. The threat raises significant questions about media freedom and political discourse in Australia.\n\nHanson's comments come amid ongoing tensions between the party and mainstream media outlets. The press gallery has strongly objected to what it perceives as an attempt to intimidate journalists and limit public scrutiny of political activities.",
+        "sources": [
+          {
+            "title": "Australia news live: press gallery ‘strongly objects’ to One Nation threats to ban journalist; migration arrivals sink lower than 2019",
+            "url": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
             "source": "Guardian AU",
             "lean": "left"
           },
           {
-            "title": "Live: Nationals senator concerned Hanson wants to 'pick and choose' journalists",
-            "url": "https://www.abc.net.au/news/2026-06-18/federal-politics-live-blog-hanson-reaction-jun-18/106811920",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "US and Iran Sign Historic Memorandum to End Conflict",
-        "body": "The United States and Iran have signed a landmark agreement aimed at de-escalating long-standing tensions. The memorandum - reportedly involving complex negotiations around uranium and regional stability - marks a potential turning point in Middle Eastern geopolitics.\n\nPresident Trump revealed key details of the deal, suggesting a comprehensive approach to ending military confrontations. The agreement could have significant implications for global diplomatic relations and regional security.",
-        "sources": [
-          {
-            "title": "Live: US and Iran sign agreement to end war",
-            "url": "https://www.abc.net.au/news/2026-06-18/us-iran-sign-memorandum-to-end-war-live-updates/106812140",
+            "title": "The 2 minutes and 46 seconds of Pauline Hanson's speech that she thinks matters",
+            "url": "https://www.abc.net.au/news/2026-06-18/pauline-hanson-national-press-club-social-media-clips/106813984",
             "source": "ABC Australia",
             "lean": "center-left"
           },
           {
-            "title": "Breaking: US and Iran sign memorandum aimed at ending war",
-            "url": "https://www.abc.net.au/news/2026-06-18/us-iran-ceasefire-deal-new-detail-revealed-urainium-and-lebanon/106811808",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          }
-        ]
-      },
-      {
-        "headline": "Housing and Flood Recovery Challenges Persist Across Australia",
-        "body": "Communities in Katherine continue struggling with flood recovery, with some residents still forced to sleep on verandahs three months after major flooding. Meanwhile, a social housing redevelopment in Bellambi has divided local tenants, highlighting broader challenges in urban housing policy.\n\nThe stories underscore ongoing infrastructure and housing resilience issues facing regional and urban Australian communities. Local governments and residents continue to grapple with recovery and development challenges.",
-        "sources": [
-          {
-            "title": "Tenants oppose social housing redevelopment advocates say is vital",
-            "url": "https://www.abc.net.au/news/2026-06-18/bellambi-redevelopment-beachside-housing-estate-divides/106809014",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Katherine couple still sleeping on verandah three months after major flooding",
-            "url": "https://www.abc.net.au/news/2026-06-18/katherine-flood-victims-still-sleeping-outside-months-later/106807354",
-            "source": "ABC Australia",
-            "lean": "center-left"
-          },
-          {
-            "title": "Homeless woman feels safer living in vehicle than shared housing",
-            "url": "https://www.abc.net.au/news/2026-06-18/homeless-woman-feels-safer-in-motorhome-than-shared-housing/106712346",
-            "source": "ABC Australia",
-            "lean": "center-left"
+            "title": "What message is Pauline Hanson sending to multicultural Australia? | Fiona Katauskas",
+            "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/18/pauline-hanson-national-press-club-multicultural-australia-ntwnfb",
+            "source": "Guardian AU",
+            "lean": "left"
           }
         ]
       }
     ],
     "world": [
       {
-        "headline": "US-Iran Talks Inch Forward - Potential Peace Deal Looms",
-        "body": "Diplomatic tensions between the United States and Iran are thawing, with initial signs of a potential breakthrough. An early-stage agreement has been reached, leaving many key issues still to be negotiated. Former President Trump has hinted at an imminent signing, suggesting a memorandum of understanding could be on the horizon.\n\nTehran is reportedly considering a high-profile summit where both nations' presidents might formally sign the deal. While details remain sparse, the development marks a significant shift in the long-standing diplomatic standoff between the two countries.",
+        "headline": "US and Iran Sign Landmark Peace Framework at Versailles",
+        "body": "In a dramatic diplomatic breakthrough, the United States and Iran signed a Memorandum of Understanding to end their long-standing conflict. The agreement - negotiated under former President Trump - was ceremonially signed at the Palace of Versailles, signaling a potential new era of relations.\n\nThe deal has already triggered significant market reactions, with oil prices falling and stocks rallying. However, the agreement faces internal political challenges - some Republican lawmakers have voiced strong opposition, while Israeli Prime Minister Netanyahu finds himself under mounting pressure.",
         "sources": [
           {
-            "title": "Initial US-Iran agreement leaves many key issues to be negotiated",
+            "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
+            "url": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Trump’s MoU with Iran draws backlash from some Republicans",
+            "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Netanyahu under pressure in Israel after US-Iran agreement",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
+            "url": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
+            "lean": null
+          },
+          {
+            "title": "US and Iran sign Memorandum of Understanding to end war",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "lean": null
+          },
+          {
+            "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
             "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&amp;at_campaign=rss",
             "source": "BBC World",
             "lean": null
           },
           {
-            "title": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
-            "url": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump eyes US-Iran ‘peace deal’ signing",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Tehran says considering plan for Iran, US presidents to sign deal",
-            "url": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
-            "url": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss",
-            "source": "Al Jazeera",
+            "title": "What's in the US-Iran agreement?",
+            "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
+            "source": "BBC World",
             "lean": null
           }
         ]
       },
       {
-        "headline": "World Cup Kicks Off with Surprises and Historic Moments",
-        "body": "The 2026 World Cup has begun with unexpected results and landmark achievements. DR Congo made history by scoring its first-ever World Cup goal, while Portugal was held to a surprising 1-1 draw in the tournament opener. Cape Verde's goalkeeper Vozinha added a heartwarming subplot - his mother received a visa to attend the matches.\n\nThe tournament promises drama and unpredictability, with teams like DR Congo challenging established football powerhouses and creating memorable moments on the global stage.",
+        "headline": "World Cup 2026: Colombia Triumphs, England Beats Croatia",
+        "body": "The FIFA World Cup 2026 continues to deliver thrilling matches across multiple groups. Colombia made a stunning debut, defeating Uzbekistan 3-1 with Luis Diaz leading a dynamic offensive performance.\n\nIn another high-stakes match, England secured a dramatic victory against Croatia. Harry Kane scored twice in a tense encounter that showcased the tournament's growing excitement and competitive spirit.",
         "sources": [
           {
-            "title": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
+            "title": "Lius Diaz dazzles as Colombia beat World Cup 2026 debutants Uzbekistan 3-1",
+            "url": "https://www.aljazeera.com/sports/2026/6/18/colombia-uzbekistan-fifa-world-cup-2026-luis-diaz-munoz-campaz-fayzullaev?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/cape-verde-goalkeeper-vozinhas-mother-gets-visa-to-attend-world-cup?traffic_source=rss",
+            "title": "Despair and delight in England-Croatia grudge match",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/despair-and-delight-in-england-croatia-grudge-match?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Portugal held to draw by DR Congo in World Cup 2026 opener",
-            "url": "https://www.aljazeera.com/sports/2026/6/17/portugal-held-to-1-1-draw-by-dr-congo-in-their-world-cup-2026-opener?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Tensions Simmer - Migration, Conflict Dominate Headlines",
-        "body": "International tensions remain high across multiple fronts. The EU Parliament passed a controversial anti-migrant bill, sparking heated protests and divisive chants. In South Africa, police clashed with Malawian protesters demanding deportations. Meanwhile, ongoing conflicts continue to cause humanitarian crises - the death toll in Gaza has surpassed 1,000 since the supposed ceasefire.\n\nThese events underscore the complex geopolitical challenges facing nations, with migration, territorial disputes, and regional conflicts driving global uncertainty.",
-        "sources": [
-          {
-            "title": "Palestinian residents shocked by devastation in West Bank refugee camp",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/palestinian-residents-shocked-by-devastation-in-west-bank-refugee-camp?traffic_source=rss",
+            "title": "South Africa coach tells critics to ‘shut up’ before second World Cup match",
+            "url": "https://www.aljazeera.com/sports/2026/6/18/south-africa-coach-tells-critics-to-shut-up-before-second-world-cup-match?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "‘Send them back’ chants in EU Parliament after anti-migrant bill passes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/send-them-back-chants-in-eu-parliament-after-anti-migrant-bill-passes?traffic_source=rss",
+            "title": "Ghana beat Panama 1–0 in chaotic World Cup Group L match",
+            "url": "https://www.aljazeera.com/sports/2026/6/18/ghana-beat-panama-1-0-in-chaotic-charged-world-cup-group-l?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           },
           {
-            "title": "Police clash with Malawian protesters demanding deportation in South Africa",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/police-clash-with-malawian-protesters-demanding-deportation-in-south-africa?traffic_source=rss",
-            "source": "Al Jazeera",
-            "lean": null
-          },
-          {
-            "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-            "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
+            "title": "Kane double fires England past Croatia in World Cup thriller",
+            "url": "https://www.aljazeera.com/sports/2026/6/17/kane-double-fires-england-past-croatia-in-world-cup-thriller?traffic_source=rss",
             "source": "Al Jazeera",
             "lean": null
           }
@@ -232,49 +232,61 @@
     ],
     "ai": [
       {
-        "headline": "Americans Deeply Skeptical of AI's Rapid Advancement",
-        "body": "Public trust in artificial intelligence is plummeting. A new Pew Research study reveals that two-thirds of Americans believe AI is progressing too quickly - and only 16 percent see a positive societal impact. This sentiment reflects growing unease about the technology's unchecked development and potential consequences.\n\nThe data underscores a widening gap between technological innovation and public understanding. As AI systems become more sophisticated - from coding robots to enterprise applications - public anxiety continues to mount about potential risks and unintended outcomes.",
+        "headline": "Midjourney Medical Leaps from Art to Diagnostic Imaging",
+        "body": "AI image generation startup Midjourney has dramatically expanded its capabilities into medical diagnostics. The company now claims to generate full-body ultrasound scans - a significant pivot from its origins in artistic image creation. Early reports suggest the technology could revolutionize medical imaging by providing rapid, potentially cost-effective diagnostic tools.",
         "sources": [
           {
-            "title": "Two-thirds of Americans think AI is advancing too quickly",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+            "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
             "source": "The Verge",
             "lean": null
           },
           {
-            "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-            "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-            "source": "TechCrunch",
-            "lean": null
-          },
-          {
-            "title": "\"Dangerous\" AI models are coming no matter what",
-            "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-            "source": "Ars Technica",
+            "title": "Midjourney Medical",
+            "url": "https://www.midjourney.com/medical/blogpost",
+            "source": "Hacker News",
             "lean": null
           }
         ]
       },
       {
-        "headline": "OpenAI Hemorrhages Billions as AI Race Intensifies",
-        "body": "Financial documents leaked today expose OpenAI's staggering losses - billions of dollars annually as the company aggressively pursues AI development. The revelation comes amid intense competition in the artificial intelligence sector, where enterprises are still struggling to calculate meaningful return on investment.\n\nThe financial strain highlights the astronomical costs of cutting-edge AI research. Despite massive funding, companies are gambling huge resources on technologies whose long-term economic impact remains uncertain. Investors and industry watchers are watching closely as the AI landscape continues to evolve rapidly.",
+        "headline": "Global Powers Wrestle with AI Control and Sovereignty",
+        "body": "International tensions around AI governance are escalating. World leaders want access to advanced American AI technologies but resist US control mechanisms. Simultaneously, export regulations are creating complex diplomatic challenges - as seen in recent controversies involving Anthropic and SK Telecom. The emerging landscape suggests a high-stakes geopolitical battle over technological sovereignty.",
         "sources": [
           {
-            "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-            "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-            "source": "Hacker News",
+            "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+            "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+            "source": "Wired",
             "lean": null
           },
           {
-            "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-            "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+            "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+            "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
             "source": "TechCrunch",
             "lean": null
           },
           {
-            "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-            "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-            "source": "TechCrunch",
+            "title": "Anthropic got hit by export rules nobody understands",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+            "source": "The Verge",
+            "lean": null
+          }
+        ]
+      },
+      {
+        "headline": "AI and Robotics Converge in Autonomous Training Breakthrough",
+        "body": "AI coding agents have achieved a remarkable milestone by autonomously training robots to perform complex physical tasks. Researchers demonstrated systems capable of directing robot training to install hardware components and manipulate objects. This development signals a potential leap in machine learning and robotic autonomy - blurring lines between software programming and physical execution.",
+        "sources": [
+          {
+            "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+            "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+            "source": "Ars Technica",
+            "lean": null
+          },
+          {
+            "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+            "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+            "source": "Wired",
             "lean": null
           }
         ]
@@ -282,73 +294,43 @@
     ],
     "btc": [
       {
-        "headline": "Bitcoin Stumbles as Fed Signals Tighter Monetary Policy",
-        "body": "Bitcoin prices dipped below $65,000 after Federal Reserve signals suggested a hawkish approach to monetary policy. The cryptocurrency market reacted nervously to comments from new Fed Governor Kevin Warsh, who emphasized delivering price stability. Investors are closely watching potential policy shifts that could impact Bitcoin's valuation.\n\nThe price slide coincides with broader market uncertainty. Illinois announced new tax regulations on Bitcoin transactions, adding regulatory pressure to an already volatile market. These developments underscore the ongoing challenges Bitcoin faces in maintaining market momentum.",
+        "headline": "Bitcoin Drops as Fed Signals Hawkish Monetary Policy",
+        "body": "Bitcoin tumbled on Thursday after Federal Reserve officials signaled continued commitment to price stability under new leadership. The cryptocurrency market reacted sharply to comments from Fed Chair Kevin Warsh, who emphasized aggressive monetary tightening.\n\nTraders saw significant price pressure, with Bitcoin sliding below key technical levels. Kraken's research suggests buying opportunities may emerge - historical data shows purchases below the 200-week moving average have typically generated over 100% median returns.",
         "sources": [
+          {
+            "title": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
+            "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+            "source": "CoinDesk",
+            "lean": null
+          },
+          {
+            "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
+            "url": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
+            "source": "CoinDesk",
+            "lean": null
+          },
           {
             "title": "Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh",
             "url": "https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh",
             "source": "Decrypt",
             "lean": null
-          },
+          }
+        ]
+      },
+      {
+        "headline": "Bitcoin Layer-2 Solutions Face Harsh Market Realities",
+        "body": "Bitcoin's second-layer scaling solutions are confronting challenging market conditions amid the ongoing crypto downturn. Development teams are reassessing strategies and resource allocation as investor interest wanes.\n\nThe bear market is forcing a critical evaluation of layer-2 infrastructure, with projects needing to demonstrate clear value propositions and sustainable technological advancement to maintain momentum.",
+        "sources": [
           {
-            "title": "Illinois Set to Begin Taxing Bitcoin, Crypto Transactions as Critics Slam 'Most Punitive' Tax",
-            "url": "https://decrypt.co/371425/illinois-taxing-bitcoin-crypto-transactions-critics-slam-most-punitive-tax",
+            "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
+            "url": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
             "source": "Decrypt",
             "lean": null
           },
           {
-            "title": "Bitcoin holds below $65,000 as Warsh faces first FOMC test and Strategy concerns linger",
-            "url": "https://www.theblock.co/post/405075/bitcoin-holds-below-65000-as-warsh-faces-first-fomc-test-and-strategy-concerns-linger?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Three Fed signals that could make bitcoin pop",
-            "url": "https://www.coindesk.com/daybook-us/2026/06/17/three-fed-signals-that-could-make-bitcoin-pop",
+            "title": "Bitcoin layer-2s face a bear-market reality check",
+            "url": "https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check",
             "source": "CoinDesk",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Long-Term Holders Dominate Bitcoin Supply as Market Stabilizes",
-        "body": "Nearly 79% of Bitcoin's total supply is now held by long-term investors - a potential sign of market maturation. Analysts see this trend as an indication that the current bear market may be approaching exhaustion. The growing concentration of Bitcoin in steady hands suggests increasing confidence among serious investors.\n\nMexican billionaire Ricardo Salinas amplified this narrative by revealing he has allocated 70% of his investment portfolio to Bitcoin. He argues the cryptocurrency offers better returns than real estate, highlighting growing institutional interest in the digital asset.",
-        "sources": [
-          {
-            "title": "79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion",
-            "url": "https://bitcoinmagazine.com/markets/79-of-bitcoin-supply-now-locked-by-longs",
-            "source": "Bitcoin Magazine",
-            "lean": null
-          },
-          {
-            "title": "Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate",
-            "url": "https://www.coindesk.com/business/2026/06/17/mexican-billionaire-with-70-of-his-investment-portfolio-in-bitcoin-says-it-s-better-than-real-estate",
-            "source": "CoinDesk",
-            "lean": null
-          },
-          {
-            "title": "Bitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode",
-            "url": "https://cointelegraph.com/markets/bitcoin-capitulation-twice-as-weak-as-spot-liquidity-turns-supportive-glassnode?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-            "source": "CoinTelegraph",
-            "lean": null
-          }
-        ]
-      },
-      {
-        "headline": "Global Bitcoin Adoption Expands Through National Mining Initiatives",
-        "body": "Oman has launched a mandatory national Bitcoin mining pool, signaling increasing state-level engagement with cryptocurrency infrastructure. This move represents a strategic approach to gaining regulatory control over Bitcoin mining operations. Meanwhile, Bhutan's Bitcoin holdings have decreased, transferring $34.5 million to Binance.\n\nThese developments illustrate the complex global landscape of Bitcoin adoption. Nations are increasingly viewing cryptocurrency not just as an investment, but as a potential economic strategy with geopolitical implications.",
-        "sources": [
-          {
-            "title": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
-            "url": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss",
-            "source": "The Block",
-            "lean": null
-          },
-          {
-            "title": "Oman Launches Mandatory National Bitcoin Mining Pool in State-Backed Push for Regulatory Control",
-            "url": "https://bitcoinmagazine.com/news/oman-launches-mandatory-bitcoin-mining",
-            "source": "Bitcoin Magazine",
             "lean": null
           }
         ]
@@ -357,21 +339,21 @@
   },
   "suggestions": {
     "food": {
-      "name": "Saffron Pistachio Risotto",
-      "cuisine": "Modern Italian Fusion",
-      "description": "Creamy arborio rice infused with golden saffron threads and toasted pistachios, finished with aged parmesan",
-      "tip": "Toast pistachios in a dry pan for 2-3 minutes before adding to enhance their nutty flavor"
+      "name": "Lavender Honey Roasted Chicken",
+      "cuisine": "French-Provençal Fusion",
+      "description": "Tender roasted chicken infused with delicate lavender and local wildflower honey, creating a fragrant and sophisticated main course",
+      "tip": "Use dried culinary lavender sparingly - a little goes a long way to avoid an overly perfumed taste"
     },
     "health": {
       "category": "Posture",
-      "name": "Dynamic Desk Alignment",
-      "description": "Implement a micro-movement protocol that shifts your body position every 20 minutes to prevent static muscle tension",
-      "tip": "Use a small sticky note on your monitor as a reminder to subtly adjust your shoulder and spine alignment"
+      "name": "Dynamic Desk Decompression",
+      "description": "Implement a micro-movement protocol that alternates between active sitting, standing, and targeted stretching to reset spinal alignment and muscular tension",
+      "tip": "Set a subtle hourly alarm to trigger a 90-second posture reset sequence involving shoulder rolls, spine waves, and seated spinal twists"
     },
     "learn": {
       "topic": "Biomimicry in Urban Design",
-      "description": "Architectural and engineering strategies that directly copy solutions found in natural ecosystems to solve complex urban challenges",
-      "why": "This emerging field offers revolutionary approaches to sustainable city planning, energy efficiency, and resilient infrastructure by studying how nature solves complex systemic problems"
+      "description": "The emerging field of designing cities and infrastructure by directly copying strategies found in natural ecosystems and biological systems",
+      "why": "Understanding how nature solves complex systemic challenges can revolutionize our approach to sustainable urban planning and environmental resilience"
     }
   }
 }
