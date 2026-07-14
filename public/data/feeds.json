@@ -1,27 +1,667 @@
 {
-  "generatedAt": "2026-07-14T05:03:18.291Z",
-  "itemCount": 201,
+  "generatedAt": "2026-07-14T10:35:08.342Z",
+  "itemCount": 165,
   "items": [
     {
-      "title": "Australia news live: police issue ‘ditch the witch’ truck with defect notice; shares slump as Trump threatens Hormuz toll",
+      "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+      "published": "Tue, 14 Jul 2026 06:30:00 -0400",
+      "source": "NPR",
+      "lean": "left",
+      "category": "us-politics"
+    },
+    {
+      "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+      "published": "Tue, 14 Jul 2026 10:30:00 +0000",
+      "source": "Wired",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "Arts venue faces eviction from former Sydney church after religious groups protest LGBTQ+ events",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/divine-playhouse-lgbtq-events-cancelled-sydney-church",
+      "published": "Tue, 14 Jul 2026 10:25:34 GMT",
+      "source": "Guardian AU",
+      "lean": "left",
+      "category": "au-politics"
+    },
+    {
+      "title": "US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham",
+      "url": "https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether?utm_source=rss&amp;utm_medium=rss",
+      "published": "Tue, 14 Jul 2026 06:17:39 -0400",
+      "source": "The Block",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 10:13:25 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 10:11:22 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
+      "url": "https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 14 Jul 2026 10:06:47 +0000",
+      "source": "CoinTelegraph",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 10:02:43 GMT",
+      "source": "BBC World",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Trump showcases raw American muscle in preview of first-of-its kind America 250 Grand Prix",
+      "url": "https://www.foxnews.com/politics/trump-showcases-raw-american-muscle-preview-first-of-its-kind-america-250-grand-prix",
+      "published": "Tue, 14 Jul 2026 06:00:40 -0400",
+      "source": "Fox News",
+      "lean": "right",
+      "category": "us-politics"
+    },
+    {
+      "title": "Russia sanctions bill may move as Congress looks to honor Graham",
+      "url": "https://thehill.com/homenews/senate/5966575-bipartisan-russia-sanctions-bill-graham/",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "source": "The Hill",
+      "lean": "center",
+      "category": "us-politics"
+    },
+    {
+      "title": "Graham’s death, McConnell’s absence wreak havoc on GOP agenda",
+      "url": "https://thehill.com/homenews/senate/5966598-lindsey-graham-senate-republicans-trump-priorities/",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "source": "The Hill",
+      "lean": "center",
+      "category": "us-politics"
+    },
+    {
+      "title": "Lindsey Graham, noble Roman",
+      "url": "https://thehill.com/homenews/senate/5966333-lindsey-graham-politics-legacy/",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "source": "The Hill",
+      "lean": "center",
+      "category": "us-politics"
+    },
+    {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "Breaking: Victorian teachers set to strike again following deadlocked negotiations",
+      "url": "https://www.abc.net.au/news/2026-07-14/victorian-teachers-set-to-strike-in-late-july/106915610",
+      "published": "Tue, 14 Jul 2026 09:55:36 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
+      "url": "https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 14 Jul 2026 09:54:58 +0000",
+      "source": "CoinTelegraph",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 09:52:45 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Aussie investors fear millions in losses as alleged fake bond scheme unravels",
+      "url": "https://www.abc.net.au/news/2026-07-14/asic-takes-capital-guard-to-supreme-court-alleging-fake-bonds/106914906",
+      "published": "Tue, 14 Jul 2026 09:51:57 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Trump's fiercest GOP critic became his most influential voice on war and peace",
+      "url": "https://www.foxnews.com/politics/trumps-fiercest-gop-critic-became-his-most-influential-voice-war-peace",
+      "published": "Tue, 14 Jul 2026 05:45:16 -0400",
+      "source": "Fox News",
+      "lean": "right",
+      "category": "us-politics"
+    },
+    {
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&amp;at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 09:40:23 GMT",
+      "source": "BBC World",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 09:34:55 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "GOP leaders race to end conservative revolt as House floor stays at a standstill",
+      "url": "https://www.foxnews.com/politics/jd-vance-heads-capitol-hill-white-house-pressures-gop-holdouts",
+      "published": "Tue, 14 Jul 2026 05:30:27 -0400",
+      "source": "Fox News",
+      "lean": "right",
+      "category": "us-politics"
+    },
+    {
+      "title": "Shayna Jack announces swimming retirement on eve of Commonwealth Games",
+      "url": "https://www.abc.net.au/news/2026-07-14/shayna-jack-announces-swimming-retirement-comm-games/106915006",
+      "published": "Tue, 14 Jul 2026 09:21:47 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Emir of Qatar receives condolences on the death of the Father Emir",
+      "url": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 09:20:56 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 09:05:24 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term",
+      "published": "Tue, 14 Jul 2026 05:01:46 -0400",
+      "source": "NPR",
+      "lean": "left",
+      "category": "us-politics"
+    },
+    {
+      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate",
+      "published": "Tue, 14 Jul 2026 05:00:00 -0400",
+      "source": "NPR",
+      "lean": "left",
+      "category": "us-politics"
+    },
+    {
+      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029",
+      "published": "Tue, 14 Jul 2026 05:00:00 -0400",
+      "source": "NPR",
+      "lean": "left",
+      "category": "us-politics"
+    },
+    {
+      "title": "Some states will ask voters to make it harder to pass constitutional amendments",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+      "published": "Tue, 14 Jul 2026 05:00:00 -0400",
+      "source": "NPR",
+      "lean": "left",
+      "category": "us-politics"
+    },
+    {
+      "title": "New York imposes first-in-the-nation statewide freeze on ‘hyperscale’ data centers",
+      "url": "https://thehill.com/policy/technology/5966562-new-york-ai-data-center-moratorium/",
+      "published": "Tue, 14 Jul 2026 09:00:00 +0000",
+      "source": "The Hill",
+      "lean": "center",
+      "category": "us-politics"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "published": "2026-07-14T05:00:00-04:00",
+      "source": "The Verge",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "published": "Tue, 14 Jul 2026 09:00:00 +0000",
+      "source": "Wired",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 08:52:22 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "France arrests arson suspects amid Fontainebleau forest fire",
+      "url": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-07-14T08:47:00Z",
+      "source": "DW News",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Sydney’s new metro line offers 110km/h speeds and an end to replacement buses – just don’t ask about the start date",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/sydneys-new-metro-line-offers-110kmh-speeds-and-an-end-to-replacement-buses-just-dont-ask-about-the-start-date",
+      "published": "Tue, 14 Jul 2026 08:42:00 GMT",
+      "source": "Guardian AU",
+      "lean": "left",
+      "category": "au-politics"
+    },
+    {
+      "title": "NSW scrapped this 'frustrating' road rule. Should other jurisdictions follow?",
+      "url": "https://www.abc.net.au/news/2026-07-14/should-act-scrap-roadwork-speed-limits-when-workers-off-site/106913912",
+      "published": "Tue, 14 Jul 2026 08:41:11 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Photos: Wildfires ravage historic forest near Paris",
+      "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 08:38:07 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Giant petrel found on Noosa beach tests negative for bird flu",
+      "url": "https://www.abc.net.au/news/2026-07-14/noosa-beach-giant-petrel-negative-h5-bird-flu/106915374",
+      "published": "Tue, 14 Jul 2026 08:34:25 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Legal action dropped against Ann Marie Smith's NDIS provider",
+      "url": "https://www.abc.net.au/news/2026-07-14/integrity-care-federal-court-proceedings-dropped/106914618",
+      "published": "Tue, 14 Jul 2026 08:34:03 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&amp;at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 08:32:49 GMT",
+      "source": "BBC World",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "‘Country grows, we grow too’: 1 million migrants seek legal status in Spain",
+      "url": "https://www.aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 08:30:48 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "published": "Tue, 14 Jul 2026 08:24:49 +0000",
+      "source": "Hacker News",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 14 Jul 2026 08:24:31 +0000",
+      "source": "CoinTelegraph",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "US military releases video of its latest strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 08:23:29 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Two Case Studies of NaN",
+      "url": "https://sebsite.pw/w/20260709-nan.html",
+      "published": "Tue, 14 Jul 2026 08:22:52 +0000",
+      "source": "Hacker News",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
+      "url": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 08:15:41 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
+      "url": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&amp;at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 08:12:32 GMT",
+      "source": "BBC World",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Motorcyclist's family urges court to jail woman who failed to give way",
+      "url": "https://www.abc.net.au/news/2026-07-14/stephanie-akehurst-careless-driving-crash-anthony-hobden-death/106913454",
+      "published": "Tue, 14 Jul 2026 08:09:52 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Man charged with murder over death in Victoria's east",
+      "url": "https://www.abc.net.au/news/2026-07-14/man-charged-with-murder-over-death-in-morwell/106915348",
+      "published": "Tue, 14 Jul 2026 08:08:48 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Staff shortage led to woman being strangled by wheelchair belt, court hears",
+      "url": "https://www.abc.net.au/news/2026-07-14/woman-strangled-by-wheelchair-belt-coronial-inquest/106912438",
+      "published": "Tue, 14 Jul 2026 08:02:31 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "WA's next generation of mining engineers living in tents, cars to finish studies",
+      "url": "https://www.abc.net.au/news/2026-07-14/university-students-couch-surfing-living-tents-wa-school-mines/106913290",
+      "published": "Tue, 14 Jul 2026 08:01:06 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "The worrying statistic around Indigenous players in the AFLW",
+      "url": "https://www.abc.net.au/news/2026-07-14/aflw-indigenous-players-rated-workplace-culture-low/106910758",
+      "published": "Tue, 14 Jul 2026 08:00:53 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
+      "url": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 07:59:07 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "The danger of the Olly Robbins legal challenge",
+      "url": "https://www.spectator.com.au/2026/07/the-danger-of-the-olly-robbins-legal-challenge/",
+      "published": "Tue, 14 Jul 2026 07:48:06 +0000",
+      "source": "Spectator AU",
+      "lean": "right",
+      "category": "au-politics"
+    },
+    {
+      "title": "Police claim breakthrough in Melbourne’s hospitality wars, alleging links to overseas crime figure",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/melbourne-hospitality-hospo-wars-arrest-ntwnfb",
+      "published": "Tue, 14 Jul 2026 07:45:18 GMT",
+      "source": "Guardian AU",
+      "lean": "left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+      "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 07:39:34 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Teenager left with life-threatening injuries after alleged stabbing at Brisbane school",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/teenager-critical-alleged-stabbing-brisbane-school-islamic-college-karawatha-ntwnfb",
+      "published": "Tue, 14 Jul 2026 07:38:43 GMT",
+      "source": "Guardian AU",
+      "lean": "left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Hanson’s meeting with UK far-right activist will ‘play out poorly’, Coalition MP says – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
-      "published": "Tue, 14 Jul 2026 05:00:01 GMT",
+      "published": "Tue, 14 Jul 2026 07:32:21 GMT",
       "source": "Guardian AU",
       "lean": "left",
       "category": "au-politics"
     },
     {
-      "title": "Universities not doing enough to deal with protests and ‘highly personal’ attacks, antisemitism royal commission hears",
+      "title": "Melbourne mother accused of showing IS propaganda to her children",
+      "url": "https://www.abc.net.au/news/2026-07-14/isis-bride-allegedly-showed-propaganda-to-children-court-hears/106913958",
+      "published": "Tue, 14 Jul 2026 07:30:30 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Minister demands answers from authority following corruption allegations",
+      "url": "https://www.abc.net.au/news/2026-07-14/melissa-horne-vida-cfmeu-subcontactor-allegations/106914670",
+      "published": "Tue, 14 Jul 2026 07:25:17 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Jewish professor feared ‘terrorist attack’ when protesters occupied office, antisemitism royal commission hears",
       "url": "https://www.theguardian.com/australia-news/2026/jul/14/antisemitism-royal-commission-universities-ntwnfb",
-      "published": "Tue, 14 Jul 2026 04:56:16 GMT",
+      "published": "Tue, 14 Jul 2026 07:20:04 GMT",
       "source": "Guardian AU",
       "lean": "left",
       "category": "au-politics"
     },
     {
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 04:50:48 GMT",
+      "title": "Lollipop man, 87, assaulted over 'unwanted attention' to teen's girlfriend, court hears",
+      "url": "https://www.abc.net.au/news/2026-07-14/sentencing-delayed-jatin-pudaruth-traffic-warden-assault/106912980",
+      "published": "Tue, 14 Jul 2026 07:09:33 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+      "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+      "published": "Tue, 14 Jul 2026 06:55:24 +0000",
+      "source": "CoinDesk",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "published": "Tue, 14 Jul 2026 06:43:28 +0000",
+      "source": "Hacker News",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 06:41:51 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Trump can’t escape the Iran war",
+      "url": "https://www.spectator.com.au/2026/07/trump-cant-escape-the-iran-war/",
+      "published": "Tue, 14 Jul 2026 06:41:39 +0000",
+      "source": "Spectator AU",
+      "lean": "right",
+      "category": "au-politics"
+    },
+    {
+      "title": "Spy agency warns active Russian hackers targeting Australian industry",
+      "url": "https://www.abc.net.au/news/2026-07-14/cyber-warning-russian-hackers-targeting-critical-industries/106913734",
+      "published": "Tue, 14 Jul 2026 06:28:53 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+      "published": "Tue, 14 Jul 2026 06:28:43 +0000",
+      "source": "CoinDesk",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "'Falling apart': Major SA highways given lowest possible safety rating",
+      "url": "https://www.abc.net.au/news/2026-07-14/major-sa-highways-given-lowest-possible-safety-rating-one-star/106909096",
+      "published": "Tue, 14 Jul 2026 06:20:59 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Thieves steal memorial garden trees dedicated to loved ones",
+      "url": "https://www.abc.net.au/news/2026-07-14/dubbo-memorial-garden-thieves/106912334",
+      "published": "Tue, 14 Jul 2026 06:17:27 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "What we know about the alleged murder of Jana Armstrong",
+      "url": "https://www.abc.net.au/news/2026-07-14/jana-armstrong-alleged-domestic-violence-murder-toowoomba/106910694",
+      "published": "Tue, 14 Jul 2026 06:13:33 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Stingers see home cup as chance to grow legacy",
+      "url": "https://www.abc.net.au/news/2026-07-14/australia-stingers-home-water-polo-world-cup/106914616",
+      "published": "Tue, 14 Jul 2026 05:59:55 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Questions remain over sudden departure of Mildura Hospital CEO",
+      "url": "https://www.abc.net.au/news/2026-07-14/mystery-over-departure-of-mildura-hospital-ceo/106912374",
+      "published": "Tue, 14 Jul 2026 05:59:29 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Just Let Me Write Digits",
+      "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+      "published": "Tue, 14 Jul 2026 05:57:50 +0000",
+      "source": "Hacker News",
+      "lean": null,
+      "category": "ai"
+    },
+    {
+      "title": "Luai joins Parramatta, Marshall slams relationship breakdown rumours",
+      "url": "https://www.abc.net.au/news/2026-07-14/jarome-luai-to-play-for-parramatta-eels-in-2027-before-png-move/106914016",
+      "published": "Tue, 14 Jul 2026 05:48:28 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Man accused of writing and selling child abuse books on Amazon",
+      "url": "https://www.abc.net.au/news/2026-07-14/steven-larkins-charged-with-producing-child-abuse-material/106913164",
+      "published": "Tue, 14 Jul 2026 05:43:00 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 05:33:01 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "How Bitcoin ETFs Changed Institutional Adoption",
+      "url": "https://www.theblock.co/learn/408156/how-bitcoin-etfs-changed-institutional-adoption?utm_source=rss&amp;utm_medium=rss",
+      "published": "Tue, 14 Jul 2026 01:20:31 -0400",
+      "source": "The Block",
+      "lean": null,
+      "category": "btc"
+    },
+    {
+      "title": "Trump's IRS settlement tried to 'manipulate' court, judge says",
+      "url": "https://www.abc.net.au/news/2026-07-14/trump-irs-settlement-judge-ruling-blanche/106913190",
+      "published": "Tue, 14 Jul 2026 05:18:25 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 05:15:40 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "Sydney radio ratings reveal KIIS on the slide without Kyle and Jackie O",
+      "url": "https://www.abc.net.au/news/2026-07-14/nsw-sydney-radio-ratings-reveal-kiis-kyle-jackie-o/106913974",
+      "published": "Tue, 14 Jul 2026 05:14:31 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "Suns secure key signing, Bulldogs lose All-Australian defender",
+      "url": "https://www.abc.net.au/news/2026-07-14/gold-coast-suns-extend-jed-walter-contract/106914110",
+      "published": "Tue, 14 Jul 2026 05:10:51 +0000",
+      "source": "ABC Australia",
+      "lean": "center-left",
+      "category": "au-politics"
+    },
+    {
+      "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
+      "published": "Tue, 14 Jul 2026 05:08:32 +0000",
+      "source": "Al Jazeera",
+      "lean": null,
+      "category": "world"
+    },
+    {
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&amp;at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:00:03 GMT",
       "source": "BBC World",
       "lean": null,
       "category": "world"
@@ -35,28 +675,12 @@
       "category": "btc"
     },
     {
-      "title": "Former building CEO tells inquiry he tried to take his own life after CFMEU intimidation",
-      "url": "https://www.abc.net.au/news/2026-07-14/qld-cfmeu-inquiry-master-builder-ceo-coffin-in-tree/106912330",
-      "published": "Tue, 14 Jul 2026 04:40:19 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Copyright law is now the biggest battleground in Australia's AI boom",
-      "url": "https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890",
-      "published": "Tue, 14 Jul 2026 04:33:07 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Sam Neill on his career, dying and the role he turned down",
-      "url": "https://www.abc.net.au/news/2026-07-14/sam-neill-famous-quotes-dying-acting-vineyards/106912208",
-      "published": "Tue, 14 Jul 2026 04:29:56 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "published": "Tue, 14 Jul 2026 04:31:48 +0000",
+      "source": "Hacker News",
+      "lean": null,
+      "category": "ai"
     },
     {
       "title": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
@@ -67,28 +691,12 @@
       "category": "world"
     },
     {
-      "title": "Fourth Australian interest rate rise more likely if Trump’s Iran conflict not resolved within a week",
-      "url": "https://www.theguardian.com/world/2026/jul/14/australia-interest-rate-rise-trump-iran-war",
-      "published": "Tue, 14 Jul 2026 04:24:16 GMT",
-      "source": "Guardian AU",
-      "lean": "left",
-      "category": "au-politics"
-    },
-    {
       "title": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
       "url": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss",
       "published": "Tue, 14 Jul 2026 04:15:28 +0000",
       "source": "Al Jazeera",
       "lean": null,
       "category": "world"
-    },
-    {
-      "title": "$10m worth of illegal tobacco, vapes seized by Tasmanian authorities last financial year",
-      "url": "https://www.abc.net.au/news/2026-07-14/authorities-seize-10-million-illegal-tobacco-vapes-tasmania/106913242",
-      "published": "Tue, 14 Jul 2026 04:10:34 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
     },
     {
       "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
@@ -107,14 +715,6 @@
       "category": "world"
     },
     {
-      "title": "Bird flu detection training to be rolled out to volunteers",
-      "url": "https://www.abc.net.au/news/2026-07-14/bird-flu-detection-training-to-be-rolled-out-in-sa/106912236",
-      "published": "Tue, 14 Jul 2026 04:06:26 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
       "title": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
       "url": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
       "published": "Tue, 14 Jul 2026 03:52:50 +0000",
@@ -123,7 +723,7 @@
       "category": "world"
     },
     {
-      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&amp;at_campaign=rss",
       "published": "Tue, 14 Jul 2026 03:47:41 GMT",
       "source": "BBC World",
@@ -155,44 +755,12 @@
       "category": "world"
     },
     {
-      "title": "Ex-cop turned missing persons expert may know where Peter Falconio is",
-      "url": "https://www.abc.net.au/news/2026-07-14/peter-falconio-body-investigator-nt-missing-person-search/106911332",
-      "published": "Tue, 14 Jul 2026 03:37:27 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Teen in life-threatening condition after Brisbane school stabbing",
-      "url": "https://www.abc.net.au/news/2026-07-14/boy-life-threatening-injuries-stabbing-islamic-college-brisbane/106913610",
-      "published": "Tue, 14 Jul 2026 03:37:00 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
       "title": "US government moves $297M in seized Bitcoin, Ether to Coinbase Prime",
       "url": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 14 Jul 2026 03:35:51 +0000",
       "source": "CoinTelegraph",
       "lean": null,
       "category": "btc"
-    },
-    {
-      "title": "Middle East 'chaos' could see millions of motorists slugged again as oil surges",
-      "url": "https://www.abc.net.au/news/2026-07-14/oil-spike-could-mean-higher-fuel-prices-for-motorists/106912172",
-      "published": "Tue, 14 Jul 2026 03:16:16 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Police claim breakthrough in Melbourne’s hospitality wars, alleging links to overseas crime figure",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/14/melbourne-hospitality-hospo-wars-arrest-ntwnfb",
-      "published": "Tue, 14 Jul 2026 03:08:34 GMT",
-      "source": "Guardian AU",
-      "lean": "left",
-      "category": "au-politics"
     },
     {
       "title": "DHS: ICE officer shot man in Maine after ‘fearing for public safety’",
@@ -219,22 +787,6 @@
       "category": "btc"
     },
     {
-      "title": "Ravenhall and Fulham prison guards walk off job in fight for better pay",
-      "url": "https://www.abc.net.au/news/2026-07-14/fulham-ravenhall-prison-guards-strike-lockdown-eba-geo-group/106901830",
-      "published": "Tue, 14 Jul 2026 02:55:02 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Agents.md – Dumb Human",
-      "url": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
-      "published": "Tue, 14 Jul 2026 02:47:54 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "published": "Tue, 14 Jul 2026 02:46:42 +0000",
@@ -243,15 +795,7 @@
       "category": "ai"
     },
     {
-      "title": "Professor hired private investigator after protest, commission hears",
-      "url": "https://www.abc.net.au/news/2026-07-14/melbourne-royal-commission-antisemitism-on-campus-day-2/106912720",
-      "published": "Tue, 14 Jul 2026 02:44:41 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "US burrito chain Chipotle opening first outlet in Mexico",
+      "title": "US burrito giant Chipotle opening first outlet in Mexico",
       "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&amp;at_campaign=rss",
       "published": "Tue, 14 Jul 2026 02:42:51 GMT",
       "source": "BBC World",
@@ -265,14 +809,6 @@
       "source": "Hacker News",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Vehicle seized but no arrests after fatal Logan hit-and-run",
-      "url": "https://www.abc.net.au/news/2026-07-14/qld-police-search-for-suspect-in-fatal-greenbank-hit-and-run/106912244",
-      "published": "Tue, 14 Jul 2026 02:31:42 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
     },
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -291,14 +827,6 @@
       "category": "world"
     },
     {
-      "title": "Council to reverse decision over beachside memorial plaques for brothers",
-      "url": "https://www.abc.net.au/news/2026-07-14/memorial-plaques-for-mandurah-brothers-to-be-reinstated/106912534",
-      "published": "Tue, 14 Jul 2026 02:23:06 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
       "title": "UAE says Iran hit two of its tankers, killing one crew member",
       "url": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
       "published": "Tue, 14 Jul 2026 02:18:19 +0000",
@@ -315,20 +843,20 @@
       "category": "ai"
     },
     {
-      "title": "'I lost a normal childhood': What it is like being a young carer",
-      "url": "https://www.abc.net.au/news/2026-07-14/what-its-like-as-a-young-carer/106891386",
-      "published": "Tue, 14 Jul 2026 02:06:11 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
       "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
       "url": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss",
       "published": "Tue, 14 Jul 2026 02:03:38 +0000",
       "source": "Al Jazeera",
       "lean": null,
       "category": "world"
+    },
+    {
+      "title": "We are heading for a Boriswave disaster",
+      "url": "https://www.spectator.com.au/2026/07/we-are-heading-for-a-boriswave-disaster/",
+      "published": "Tue, 14 Jul 2026 02:00:00 +0000",
+      "source": "Spectator AU",
+      "lean": "right",
+      "category": "au-politics"
     },
     {
       "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
@@ -363,34 +891,10 @@
       "category": "au-politics"
     },
     {
-      "title": "What will be left for us to work on?",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "published": "Tue, 14 Jul 2026 01:44:40 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
       "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
       "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&amp;at_campaign=rss",
       "published": "Tue, 14 Jul 2026 01:43:57 GMT",
       "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Building Food Metadata with LLM Juries",
-      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "published": "Tue, 14 Jul 2026 01:41:49 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "published": "Tue, 14 Jul 2026 01:37:48 +0000",
-      "source": "Al Jazeera",
       "lean": null,
       "category": "world"
     },
@@ -427,30 +931,6 @@
       "category": "world"
     },
     {
-      "title": "Former AFL player remembered as inspiration and 'great human' who loved life",
-      "url": "https://www.abc.net.au/news/2026-07-14/death-of-former-afl-player-paul-atkins-shocks-sporting-community/106910186",
-      "published": "Tue, 14 Jul 2026 01:29:50 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Australian lamb new favourite in US as protein 'wave' creates demand",
-      "url": "https://www.abc.net.au/news/2026-07-14/protein-driving-american-demand-for-australian-lamb-export-sa/106910068",
-      "published": "Tue, 14 Jul 2026 01:28:43 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-      "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-      "published": "Tue, 14 Jul 2026 01:27:57 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
       "title": "MorphoHDL: A minimalistic language for growing circuits",
       "url": "https://paradigms-of-intelligence.github.io/morpho/",
       "published": "Tue, 14 Jul 2026 01:17:30 +0000",
@@ -483,23 +963,7 @@
       "category": "au-politics"
     },
     {
-      "title": "Four more charges dropped against Alan Jones",
-      "url": "https://www.abc.net.au/news/2026-07-14/four-more-charges-dropped-against-alan-jones-sydney-court/106912366",
-      "published": "Tue, 14 Jul 2026 01:11:44 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Nurse charged with sexually assaulting patient in aged care facility",
-      "url": "https://www.abc.net.au/news/2026-07-14/assistant-nurse-sexual-assault-charge-aged-care-nsw/106912376",
-      "published": "Tue, 14 Jul 2026 01:00:46 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "The Git history command deserves more attention",
+      "title": "The git history command",
       "url": "https://lalitm.com/post/git-history/",
       "published": "Tue, 14 Jul 2026 00:57:11 +0000",
       "source": "Hacker News",
@@ -513,30 +977,6 @@
       "source": "The Hill",
       "lean": "center",
       "category": "us-politics"
-    },
-    {
-      "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
-      "url": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
-      "published": "Tue, 14 Jul 2026 00:53:51 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Spain 'here to suffer' and France unites against racism ahead of World Cup semi",
-      "url": "https://www.abc.net.au/news/2026-07-14/world-cup-spain-france-semi-final-dallas-preview/106912338",
-      "published": "Tue, 14 Jul 2026 00:53:41 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Police arrest alleged organiser behind Melbourne hospitality arson attacks",
-      "url": "https://www.abc.net.au/news/2026-07-14/police-operation-eclipse-melbourne-arson-arrest/106912436",
-      "published": "Tue, 14 Jul 2026 00:49:58 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
     },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
@@ -555,38 +995,6 @@
       "category": "us-politics"
     },
     {
-      "title": "Businessman shuts down council by laying charges against councillors",
-      "url": "https://www.abc.net.au/news/2026-07-14/hepburn-shire-council-charges-laid-by-david-penman/106912074",
-      "published": "Tue, 14 Jul 2026 00:38:44 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "How Kenyan volunteers hunt polio’s hidden trail",
-      "url": "https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss",
-      "published": "Tue, 14 Jul 2026 00:35:07 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Munster's knee surgery deals major blow to Storm's NRL finals push",
-      "url": "https://www.abc.net.au/news/2026-07-14/nrl-cameron-munster-surgery-melbourne-storm-finals-push/106912240",
-      "published": "Tue, 14 Jul 2026 00:24:20 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "The Odyssey was filmed on Imax film. Only one southern hemisphere cinema can screen it – video",
-      "url": "https://www.theguardian.com/global/video/2026/jul/14/the-odyssey-was-filmed-on-imax-film-only-one-southern-hemisphere-cinema-can-screen-it-video",
-      "published": "Tue, 14 Jul 2026 00:17:30 GMT",
-      "source": "Guardian AU",
-      "lean": "left",
-      "category": "au-politics"
-    },
-    {
       "title": "Trump endorses multiple House GOP candidates",
       "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
       "published": "Tue, 14 Jul 2026 00:08:42 +0000",
@@ -603,28 +1011,12 @@
       "category": "us-politics"
     },
     {
-      "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
-      "published": "Tue, 14 Jul 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
       "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
       "published": "Tue, 14 Jul 2026 00:00:00 +0000",
       "source": "TechCrunch",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
-      "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 23:54:32 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
     },
     {
       "title": "The West’s circular firing squad",
@@ -635,12 +1027,12 @@
       "category": "au-politics"
     },
     {
-      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 23:41:32 +0000",
-      "source": "Al Jazeera",
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "published": "Mon, 13 Jul 2026 23:39:10 +0000",
+      "source": "Hacker News",
       "lean": null,
-      "category": "world"
+      "category": "ai"
     },
     {
       "title": "Trump: Pass crypto bill for Graham",
@@ -657,30 +1049,6 @@
       "source": "TechCrunch",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "published": "Mon, 13 Jul 2026 23:26:52 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Norway ‘rows’ at the royal palace to welcome back World Cup heroes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_norway-rows-at-the-royal-palace-world-cup-heroes-130726?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 23:25:49 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Former Spanish PM slammed over 'intolerable whiffs of racism' towards France team",
-      "url": "https://www.abc.net.au/news/2026-07-14/mariano-rajoy-racism-row-over-france-at-world-cup/106911934",
-      "published": "Mon, 13 Jul 2026 23:15:29 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
     },
     {
       "title": "An Englishwoman who sketched India before photography took hold",
@@ -715,130 +1083,10 @@
       "category": "us-politics"
     },
     {
-      "title": "Live: Iran targets US bases, US hits Iranian ports as Mid-East ceasefire collapses",
-      "url": "https://www.abc.net.au/news/2026-07-14/iran-united-states-war-blog-july-14-2026/106912082",
-      "published": "Mon, 13 Jul 2026 22:35:06 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
-      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 22:33:08 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Nine deaths tied to Trump’s immigration enforcement operations in US",
-      "url": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 22:31:36 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "ICE agents shoot and kill driver who witnesses say 'tried to stop'",
-      "url": "https://www.abc.net.au/news/2026-07-14/ice-shoot-and-kill-colombian-motorist-in-maine/106911958",
-      "published": "Mon, 13 Jul 2026 22:30:18 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "The Memo: Trump escalates on Iran, but critics don’t see a strategy",
-      "url": "https://thehill.com/homenews/administration/5966549-trump-iran-strait-hormuz-military-action-scrutiny/",
-      "published": "Mon, 13 Jul 2026 22:24:10 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Police hope new photos will jog memories in investigation of murder of British backpacker Peter Falconio",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/14/peter-falconio-murder-joanne-lees-abduction-anniversary-northern-territory-police-mystery-photos",
-      "published": "Mon, 13 Jul 2026 22:23:09 GMT",
-      "source": "Guardian AU",
-      "lean": "left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Stephen Miller's unlikely friendship with Lindsey Graham revealed in heartfelt White House tribute",
-      "url": "https://www.foxnews.com/politics/stephen-miller-unlikely-friendship-lindsey-graham-revealed-heartfelt-white-house-tribute",
-      "published": "Mon, 13 Jul 2026 18:18:51 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Graham GOP challenger announces bid for special Senate primary",
-      "url": "https://thehill.com/homenews/campaign/5966540-mark-lynch-gop-senate-primary/",
-      "published": "Mon, 13 Jul 2026 22:08:44 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
       "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
       "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
       "published": "Mon, 13 Jul 2026 22:07:34 +0000",
       "source": "Ars Technica",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Trump says US will ‘take out’ Iran’s Pickaxe Mountain nuclear facility",
-      "url": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/",
-      "published": "Mon, 13 Jul 2026 22:06:40 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
-      "url": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&amp;utm_medium=rss",
-      "published": "Mon, 13 Jul 2026 18:06:02 -0400",
-      "source": "The Block",
-      "lean": null,
-      "category": "btc"
-    },
-    {
-      "title": "Shark threat closes popular beaches, snorkelling spots along Ningaloo coast",
-      "url": "https://www.abc.net.au/news/2026-07-14/five-whale-entanglements-sharks-swarm-ningaloo-beach-close/106902868",
-      "published": "Mon, 13 Jul 2026 22:04:17 +0000",
-      "source": "ABC Australia",
-      "lean": "center-left",
-      "category": "au-politics"
-    },
-    {
-      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 22:03:16 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Trump shrinks Bears Ears, Grand Staircase-Escalante national monuments in Utah",
-      "url": "https://thehill.com/policy/energy-environment/5966604-trump-shrinks-utah-monuments/",
-      "published": "Mon, 13 Jul 2026 22:02:31 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Appeals court revives lawsuits claiming link between acetaminophen, ADHD and autism",
-      "url": "https://thehill.com/regulation/court-battles/5966527-acetaminophen-autism-adhd-lawsuit/",
-      "published": "Mon, 13 Jul 2026 21:52:57 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "url": "https://arxiv.org/abs/2607.01418",
-      "published": "Mon, 13 Jul 2026 21:43:51 +0000",
-      "source": "Hacker News",
       "lean": null,
       "category": "ai"
     },
@@ -849,102 +1097,6 @@
       "source": "Wired",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/haalands-norway-receive-heroes-welcome-in-oslo-after-world-cup-exit?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 21:38:51 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 21:37:02 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "US military launches strikes on Iran after Trump brings back naval blockade",
-      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Darline Graham Nordone has little political history beyond praising her brother",
-      "url": "https://www.washingtonpost.com/politics/2026/07/13/darline-graham-nordone-has-little-political-history-beyond-praising-her-brother/",
-      "published": "Mon, 13 Jul 2026 21:31:35 +0000",
-      "source": "Washington Post",
-      "lean": "center-left",
-      "category": "us-politics"
-    },
-    {
-      "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/police-in-south-africa-open-probe-into-post-world-cup-death-of-jayden-adams?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 21:27:52 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "US, Iran exchange attacks around Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 21:19:28 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Lindsey Graham’s sister picked to serve the rest of his Senate term",
-      "url": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/",
-      "published": "Mon, 13 Jul 2026 21:16:33 +0000",
-      "source": "Washington Post",
-      "lean": "center-left",
-      "category": "us-politics"
-    },
-    {
-      "title": "Maine senators demand independent investigation after ICE shooting",
-      "url": "https://thehill.com/policy/national-security/5966491-biddeford-maine-ice-shooting/",
-      "published": "Mon, 13 Jul 2026 21:09:10 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "HHS watchdog expects $5.56 billion in recoveries and savings",
-      "url": "https://thehill.com/policy/healthcare/5966489-hhs-oig-crackdown-fraud/",
-      "published": "Mon, 13 Jul 2026 21:08:45 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Police arrest man at Capitol with firearm",
-      "url": "https://thehill.com/homenews/senate/5966432-mississippi-man-capitol-handgun-arrest/",
-      "published": "Mon, 13 Jul 2026 21:07:14 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 21:04:56 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "How is the US tech industry regulated?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 21:03:57 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
     },
     {
       "title": "The US government warns that Russia state hackers are coming after your router",
@@ -971,46 +1123,6 @@
       "category": "ai"
     },
     {
-      "title": "Andy Burnham in line to become British PM after securing party support",
-      "url": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 20:57:21 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
-      "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
-      "published": "Mon, 13 Jul 2026 20:57:09 +0000",
-      "source": "Decrypt",
-      "lean": null,
-      "category": "btc"
-    },
-    {
-      "title": "Live updates: US will resume Strait of Hormuz blockade; Graham’s sister will finish his Senate term",
-      "url": "https://thehill.com/homenews/administration/5964919-senate-graham-death-succession/",
-      "published": "Mon, 13 Jul 2026 20:56:31 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Pilot dies fighting Colorado wildfires",
-      "url": "https://thehill.com/homenews/state-watch/5966457-pilot-dies-helicopter-colorado/",
-      "published": "Mon, 13 Jul 2026 20:52:27 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Argentina vs England World Cup tickets more expensive than France vs Spain",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/argentina-vs-england-world-cup-tickets-more-expensive-than-france-vs-spain?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 20:51:33 +0000",
-      "source": "Al Jazeera",
-      "lean": null,
-      "category": "world"
-    },
-    {
       "title": "Siri AI is already changing how I use my iPhone",
       "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
       "published": "2026-07-13T16:43:20-04:00",
@@ -1027,148 +1139,12 @@
       "category": "ai"
     },
     {
-      "title": "Hungary parliament votes to remove president from office",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:39:14 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "White House says Trump supports Graham’s Russia sanctions bill",
-      "url": "https://thehill.com/homenews/administration/5966436-lindsey-graham-russia-sanctions/",
-      "published": "Mon, 13 Jul 2026 20:38:27 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "'The halls of the Senate already feel empty': Tearful Thune honors Lindsey Graham as sister takes his seat",
-      "url": "https://www.foxnews.com/politics/halls-senate-feel-empty-tearful-thune-honors-lindsey-graham-sister-takes-seat",
-      "published": "Mon, 13 Jul 2026 16:34:14 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Microsoft carbon emissions rose 25 percent in 2025 as AI data centers grow",
-      "url": "https://thehill.com/policy/technology/5966327-microsoft-emissions-jump-ai-data/",
-      "published": "Mon, 13 Jul 2026 20:30:13 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Trump formally informs Congress of Iran war resumption",
-      "url": "https://thehill.com/policy/defense/5966415-trump-congress-resumes-strikes-iran/",
-      "published": "Mon, 13 Jul 2026 20:30:11 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support",
-      "published": "Mon, 13 Jul 2026 16:22:39 -0400",
-      "source": "NPR",
-      "lean": "left",
-      "category": "us-politics"
-    },
-    {
-      "title": "Mamdani breaks silence on 'perverted' ally who helped sell Platner before scandal-plagued collapse",
-      "url": "https://www.foxnews.com/politics/mamdani-breaks-silence-perverted-ally-who-helped-sell-platner-before-scandal-plagued-collapse",
-      "published": "Mon, 13 Jul 2026 16:20:11 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
-      "published": "Mon, 13 Jul 2026 16:17:53 -0400",
-      "source": "NPR",
-      "lean": "left",
-      "category": "us-politics"
-    },
-    {
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:15:00 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "published": "Mon, 13 Jul 2026 20:13:14 +0000",
+      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "published": "Mon, 13 Jul 2026 20:11:29 +0000",
       "source": "Hacker News",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Lindsey Graham’s sister to finish his Senate term",
-      "url": "https://thehill.com/homenews/campaign/5966340-lindsey-graham-sister-senate/",
-      "published": "Mon, 13 Jul 2026 20:08:17 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Lindsey Graham’s sister appointed to Senate as GOP rushes to protect fragile majority",
-      "url": "https://www.foxnews.com/politics/lindsey-grahams-sister-appointed-senate-gop-rushes-protect-fragile-majority",
-      "published": "Mon, 13 Jul 2026 16:07:55 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
-      "url": "https://www.foxnews.com/politics/democratic-socialist-party-infighting-erupts-pick-president-aoc-rumors-loom-dangerous-path",
-      "published": "Mon, 13 Jul 2026 16:06:33 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most",
-      "published": "Mon, 13 Jul 2026 16:05:24 -0400",
-      "source": "NPR",
-      "lean": "left",
-      "category": "us-politics"
-    },
-    {
-      "title": "What is aortic dissection, the medical emergency linked to Graham’s death?",
-      "url": "https://thehill.com/policy/healthcare/5966375-lindsey-graham-death-aortic-dissection/",
-      "published": "Mon, 13 Jul 2026 20:02:45 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Show HN: I implemented a neural network in SQL",
-      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-      "published": "Mon, 13 Jul 2026 20:00:10 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "How Lindsey Graham tried to stay 'relevant'",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891751/how-lindsey-graham-tried-to-stay-relevant",
-      "published": "Mon, 13 Jul 2026 15:57:12 -0400",
-      "source": "NPR",
-      "lean": "left",
-      "category": "us-politics"
-    },
-    {
-      "title": "FBI visits Graham’s DC home",
-      "url": "https://thehill.com/homenews/senate/5966300-fbi-visits-grahams-dc-home/",
-      "published": "Mon, 13 Jul 2026 19:55:49 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
     },
     {
       "title": "California creates $3,500 rebate for new electric vehicle buyers",
@@ -1179,76 +1155,12 @@
       "category": "ai"
     },
     {
-      "title": "Thune chokes up on Senate floor speaking about Graham",
-      "url": "https://thehill.com/homenews/senate/5966359-senate-leader-thune-chokes-up/",
-      "published": "Mon, 13 Jul 2026 19:52:33 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Collins calls for ‘full and impartial investigation’ into Maine ICE shooting",
-      "url": "https://thehill.com/homenews/state-watch/5966317-ice-shooting-maine-investigation/",
-      "published": "Mon, 13 Jul 2026 19:43:57 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Hunter Biden says Secret Service protection pulled after Loomer picture",
-      "url": "https://thehill.com/homenews/administration/5966196-hunter-biden-says-secret-service-protection-pulled-after-loomer-picture/",
-      "published": "Mon, 13 Jul 2026 19:30:38 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Obama-appointed judge torches Trump admin in latest courtroom showdown, refers attorney for Bar review",
-      "url": "https://www.foxnews.com/politics/obama-appointed-judge-torches-trump-admin-latest-courtroom-showdown-refers-attorney-bar-review",
-      "published": "Mon, 13 Jul 2026 15:25:43 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "If permanent daylight saving time bill passes, would your state be impacted?",
-      "url": "https://thehill.com/homenews/state-watch/5966074-permanent-daylight-saving-time-bill/",
-      "published": "Mon, 13 Jul 2026 19:23:30 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Trump says he will give primetime speech Thursday amid flare-up with Iran",
-      "url": "https://thehill.com/homenews/administration/5966299-us-iran-naval-blockade/",
-      "published": "Mon, 13 Jul 2026 19:18:42 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "published": "Mon, 13 Jul 2026 19:17:51 +0000",
       "source": "Ars Technica",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "TFTP Honey Pot Results",
-      "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-      "published": "Mon, 13 Jul 2026 19:11:17 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Bitwise Sees a Bottom in Bitcoin’s Worst Vibes Yet: ‘Darkest Before the Dawn’",
-      "url": "https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin",
-      "published": "Mon, 13 Jul 2026 19:08:34 +0000",
-      "source": "Bitcoin Magazine",
-      "lean": null,
-      "category": "btc"
     },
     {
       "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
@@ -1259,60 +1171,12 @@
       "category": "ai"
     },
     {
-      "title": "Nearly 20 percent using savings to buy groceries, with credit card use rising: Analysis",
-      "url": "https://thehill.com/business/personal-finance/5966249-adults-using-savings-groceries/",
-      "published": "Mon, 13 Jul 2026 18:59:18 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Who is Darline Graham Nordone?",
-      "url": "https://thehill.com/homenews/campaign/5966170-darline-graham-nordone-senate/",
-      "published": "Mon, 13 Jul 2026 18:55:48 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
       "title": "The infinite scroll may become endangered if controversial Calif. law passes",
       "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
       "published": "Mon, 13 Jul 2026 18:53:53 +0000",
       "source": "Hacker News",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 18:52:46 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Strategy’s no-bitcoin-buy week shows ‘greater balance-sheet discipline,’ analysts say",
-      "url": "https://www.theblock.co/post/408069/strategy-no-bitcoin-buy-week-shows-balance-sheet-discipline-analysts-say?utm_source=rss&amp;utm_medium=rss",
-      "published": "Mon, 13 Jul 2026 14:50:23 -0400",
-      "source": "The Block",
-      "lean": null,
-      "category": "btc"
-    },
-    {
-      "title": "Watch live: McMaster announces Senate appointment for Graham’s seat",
-      "url": "https://thehill.com/video-clips/5965862-watch-live-lindsey-graham-senate-appointment-south-carolina/",
-      "published": "Mon, 13 Jul 2026 18:44:47 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Family shattered after 3-time deported illegal immigrant allegedly blew through stop sign, roiling House race",
-      "url": "https://www.foxnews.com/politics/family-shattered-after-3-time-deported-illegal-immigrant-allegedly-blew-through-stop-sign-roiling-house-race",
-      "published": "Mon, 13 Jul 2026 14:39:38 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
     },
     {
       "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
@@ -1339,44 +1203,12 @@
       "category": "ai"
     },
     {
-      "title": "Europe bankrolls Putin's war machine even as NATO races to bolster defenses",
-      "url": "https://www.foxnews.com/politics/europe-bankrolls-putins-war-machine-even-nato-races-bolster-defenses",
-      "published": "Mon, 13 Jul 2026 14:21:29 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
       "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
       "url": "https://cakehonolulu.github.io/linux-on-32x/",
       "published": "Mon, 13 Jul 2026 18:18:25 +0000",
       "source": "Hacker News",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "In a first, US military used seaborne drones in attack on Iran port",
-      "url": "https://thehill.com/policy/defense/5966167-us-military-sea-drones-iran/",
-      "published": "Mon, 13 Jul 2026 18:09:05 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Person killed in ICE-involved shooting in Maine",
-      "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-world-4025-rdf",
-      "published": "2026-07-13T18:09:00Z",
-      "source": "DW News",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Map: Cases of ‘explosive’ diarrhea illness continue to climb",
-      "url": "https://thehill.com/homenews/state-watch/5966065-map-cases-of-explosive-diarrhea-illness-continue-to-climb/",
-      "published": "Mon, 13 Jul 2026 18:07:37 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
     },
     {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -1387,60 +1219,12 @@
       "category": "ai"
     },
     {
-      "title": "Graham’s sister on Trump’s Senate recommendation: ‘Devastated right now’",
-      "url": "https://thehill.com/homenews/campaign/5966122-lindsey-grahams-sister-interim-senator/",
-      "published": "Mon, 13 Jul 2026 17:59:21 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
       "title": "Tom Cruise is utterly transformed in Digger trailer",
       "url": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
       "published": "Mon, 13 Jul 2026 17:49:56 +0000",
       "source": "Ars Technica",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "States sue to block Paramount-Warner Brothers Discovery merger",
-      "url": "https://thehill.com/policy/technology/5966111-paramount-warner-merger/",
-      "published": "Mon, 13 Jul 2026 17:46:54 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Who is Darline Graham Nordone? Lindsey Graham's sister emerges as Trump's Senate pick",
-      "url": "https://www.foxnews.com/politics/darline-graham-nordone-lindsey-grahams-sister-emerges-trumps-senate-pick",
-      "published": "Mon, 13 Jul 2026 13:41:33 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 17:31:54 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
-      "title": "Here’s who could replace Graham in Senate",
-      "url": "https://thehill.com/homenews/campaign/5965994-lindsey-graham-replacement-race/",
-      "published": "Mon, 13 Jul 2026 17:30:05 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Why isn’t the world retaliating against US tariffs?",
-      "url": "https://thehill.com/opinion/international/5965207-global-trade-trump-impact/",
-      "published": "Mon, 13 Jul 2026 17:30:00 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
     },
     {
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
@@ -1451,52 +1235,12 @@
       "category": "ai"
     },
     {
-      "title": "Armed man arrested at US Capitol barricade as police probe why he drove onto restricted grounds",
-      "url": "https://www.foxnews.com/politics/armed-man-arrested-us-capitol-barricade-police-probe-drove-restricted-grounds",
-      "published": "Mon, 13 Jul 2026 13:24:12 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&amp;at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 17:21:21 GMT",
-      "source": "BBC World",
-      "lean": null,
-      "category": "world"
-    },
-    {
       "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
       "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
       "published": "Mon, 13 Jul 2026 17:18:25 +0000",
       "source": "Ars Technica",
       "lean": null,
       "category": "ai"
-    },
-    {
-      "title": "Judge finds Trump, DOJ colluded with settlement behind ‘anti-weaponization’ fund",
-      "url": "https://thehill.com/regulation/court-battles/5966060-trump-irs-settlement-voided-federal-judge/",
-      "published": "Mon, 13 Jul 2026 17:17:29 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
-    },
-    {
-      "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
-      "url": "https://www.foxnews.com/politics/mamdani-ripped-over-record-high-nyc-rents-critics-pointing-policy-say-fueling-crisis",
-      "published": "Mon, 13 Jul 2026 13:14:58 -0400",
-      "source": "Fox News",
-      "lean": "right",
-      "category": "us-politics"
-    },
-    {
-      "title": "Meta expanding plans for its largest data center",
-      "url": "https://thehill.com/policy/technology/5965840-meta-louisiana-datacenter-expansion/",
-      "published": "Mon, 13 Jul 2026 17:07:30 +0000",
-      "source": "The Hill",
-      "lean": "center",
-      "category": "us-politics"
     },
     {
       "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
@@ -1531,26 +1275,10 @@
       "category": "ai"
     },
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "published": "Mon, 13 Jul 2026 16:06:08 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
       "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
       "url": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
       "published": "Mon, 13 Jul 2026 16:05:03 +0000",
       "source": "Ars Technica",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "url": "https://github.com/jbwinters/jacquard-lang",
-      "published": "Mon, 13 Jul 2026 15:56:02 +0000",
-      "source": "Hacker News",
       "lean": null,
       "category": "ai"
     },
@@ -1571,22 +1299,6 @@
       "category": "ai"
     },
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "published": "Mon, 13 Jul 2026 14:52:33 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
-      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-      "url": "https://hackney.app/",
-      "published": "Mon, 13 Jul 2026 14:47:23 +0000",
-      "source": "Hacker News",
-      "lean": null,
-      "category": "ai"
-    },
-    {
       "title": "Waze adds new AI-powered features and customization updates",
       "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
       "published": "Mon, 13 Jul 2026 14:18:16 +0000",
@@ -1595,18 +1307,18 @@
       "category": "ai"
     },
     {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "published": "Mon, 13 Jul 2026 11:00:51 +0000",
-      "source": "Ars Technica",
+      "title": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
+      "url": "https://spectrum.ieee.org/nokia-phones-history",
+      "published": "Mon, 13 Jul 2026 13:54:10 +0000",
+      "source": "Hacker News",
       "lean": null,
       "category": "ai"
     },
     {
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "published": "2026-07-13T05:00:00-04:00",
-      "source": "The Verge",
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "published": "Mon, 13 Jul 2026 11:00:51 +0000",
+      "source": "Ars Technica",
       "lean": null,
       "category": "ai"
     }
