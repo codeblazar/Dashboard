@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:22:46.230Z",
+  "updatedAt": "2026-07-15T05:03:17.225Z",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -21,9 +21,9 @@
       "symbol": "TSLA",
       "name": "Tesla",
       "price": 396.18,
-      "change": 1.420000000000016,
-      "changePct": 0.3597122302158314,
-      "prevClose": 394.76
+      "change": 1.4200200000000223,
+      "changePct": 0.35971731480988073,
+      "prevClose": 394.75998
     },
     {
       "symbol": "GOOGL",
@@ -37,9 +37,9 @@
       "symbol": "AMZN",
       "name": "Amazon",
       "price": 247.49,
-      "change": 0.18000000000000682,
-      "changePct": 0.07278314665804328,
-      "prevClose": 247.31
+      "change": 0.17999000000000365,
+      "changePct": 0.07277910020706548,
+      "prevClose": 247.31001
     },
     {
       "symbol": "MSFT",
@@ -61,18 +61,18 @@
       "symbol": "PLTR",
       "name": "Palantir",
       "price": 133.72,
-      "change": 3.680000000000007,
-      "changePct": 2.82989849277146,
-      "prevClose": 130.04
+      "change": 3.6799900000000036,
+      "changePct": 2.8298905852129694,
+      "prevClose": 130.04001
     }
   ],
   "stockFearGreed": {
     "value": 43,
     "rating": "Fear",
-    "previousClose": 44
+    "previousClose": 43
   },
   "btcFearGreed": {
-    "value": 22,
+    "value": 25,
     "rating": "Extreme Fear"
   }
 }
