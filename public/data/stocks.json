@@ -1,68 +1,68 @@
 {
-  "updatedAt": "2026-10-22T14:54:04.196Z",
+  "updatedAt": "2026-10-23T00:25:27.120Z",
   "stocks": [
     {
       "symbol": "AAPL",
       "name": "Apple",
-      "price": 343.72,
-      "change": -0.2699999999999818,
-      "changePct": -0.07849065379807023,
+      "price": 348.22,
+      "change": 4.230000000000018,
+      "changePct": 1.2296869095031886,
       "prevClose": 343.99
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 212.855,
-      "change": -9.115000000000009,
-      "changePct": -4.1064107762310265,
+      "price": 212.21,
+      "change": -9.759999999999991,
+      "changePct": -4.396990584313191,
       "prevClose": 221.97
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
-      "price": 386.139,
-      "change": -0.3310000000000173,
-      "changePct": -0.08564701011721926,
+      "price": 374.58,
+      "change": -11.890000000000043,
+      "changePct": -3.076564804512651,
       "prevClose": 386.47
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
-      "price": 326.5,
-      "change": -8.259999999999991,
-      "changePct": -2.467439359541161,
+      "price": 324.22,
+      "change": -10.539999999999964,
+      "changePct": -3.1485243159278182,
       "prevClose": 334.76
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
-      "price": 251.94,
-      "change": -10.430000000000007,
-      "changePct": -3.975302054350729,
+      "price": 250.38,
+      "change": -11.990000000000009,
+      "changePct": -4.569882227388805,
       "prevClose": 262.37
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
-      "price": 524.54,
-      "change": -8.410000000000082,
-      "changePct": -1.5780091941082806,
+      "price": 521.08,
+      "change": -11.870000000000005,
+      "changePct": -2.2272258185570886,
       "prevClose": 532.95
     },
     {
       "symbol": "MSTR",
       "name": "Strategy",
-      "price": 148.92,
-      "change": -4.560000000000002,
-      "changePct": -2.97107114933542,
+      "price": 145.8,
+      "change": -7.679999999999978,
+      "changePct": -5.003909304143848,
       "prevClose": 153.48
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "price": 198.8,
-      "change": -2.9199999999999875,
-      "changePct": -1.4475510608764561,
+      "price": 196.19,
+      "change": -5.530000000000001,
+      "changePct": -2.741423755700972,
       "prevClose": 201.72
     }
   ],
@@ -72,7 +72,7 @@
     "previousClose": 31
   },
   "btcFearGreed": {
-    "value": 68,
-    "rating": "Greed"
+    "value": 50,
+    "rating": "Neutral"
   }
 }
